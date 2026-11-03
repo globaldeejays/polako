@@ -1,7 +1,579 @@
 {
- "updated": "2026-11-03T11:45:00+01:00",
+ "updated": "2026-11-03T13:50:00+01:00",
  "level": "A2",
  "articles": [
+  {
+   "id": "261103157",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/kosarka/znate-li-zasto-veceras-nema-utakmica-u-nba-ligi-ovo-se-desava-cetvrti-put-u-posljednjih-pet-godina/261103157",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261103157.jpg",
+   "published": "2026-11-03T13:37:00+01:00",
+   "title": [
+    "Zašto večeras nema utakmica u NBA ligi",
+    "Why there are no games in the NBA tonight"
+   ],
+   "body": [
+    [
+     [
+      "Večeras u NBA ligi nema nijedne utakmice, jer se u utorak, 3. novembra, u Americi održavaju izbori za Kongres.",
+      "There are no NBA games tonight, because elections for Congress are held in America on Tuesday, 3 November."
+     ],
+     [
+      "Liga je namjerno ostavila ovaj dan slobodnim da bi navijači i košarkaška zajednica mogli otići na glasanje.",
+      "The league deliberately left this day free so that fans and the basketball community could go and vote."
+     ],
+     [
+      "Svi timovi imaju slobodno veče nakon ponedjeljka, kada je igran pun program utakmica.",
+      "All teams have the evening off after Monday, when a full slate of games was played."
+     ]
+    ],
+    [
+     [
+      "Luka Dončić je u ponedjeljak postigao 42 poena i imao 13 asistencija, a Lakersi su pobijedili Heat.",
+      "On Monday Luka Dončić scored 42 points and had 13 assists, and the Lakers beat the Heat."
+     ],
+     [
+      "Liga je još prilikom objave rasporeda za sezonu 2026/27 najavila da na Dan izbora neće biti utakmica.",
+      "When it released the schedule for the 2026/27 season, the league already announced that there would be no games on Election Day."
+     ],
+     [
+      "Prema Yahoo Sportsu, cilj je da navijačima, igračima i osoblju bude lakše doći do biračkih mjesta.",
+      "According to Yahoo Sports, the goal is to make it easier for fans, players and staff to reach polling places."
+     ],
+     [
+      "Nakon što ove sezone više nema pauze, igra se ponovo u srijedu, 4. novembra.",
+      "Play resumes on Wednesday, 4 November."
+     ]
+    ],
+    [
+     [
+      "NBA je ovu praksu počela 2022. godine, kada je prvi put preskočila Dan izbora u godini srednjoročnih izbora.",
+      "The NBA began this practice in 2022, when it first skipped Election Day in a midterm election year."
+     ],
+     [
+      "Nastavila je i 2023. i 2024. godine.",
+      "It continued in 2023 and 2024."
+     ],
+     [
+      "Prošle godine su se utakmice igrale na Dan izbora, pa je ovo četvrti put u pet godina da liga pravi takvu pauzu.",
+      "Last year games were played on Election Day, so this is the fourth time in five years that the league takes such a break."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "izbori",
+     "elections"
+    ],
+    [
+     "utakmica",
+     "game, match"
+    ],
+    [
+     "birač",
+     "voter"
+    ],
+    [
+     "glasati",
+     "to vote"
+    ],
+    [
+     "raspored",
+     "schedule"
+    ],
+    [
+     "pauza",
+     "break"
+    ],
+    [
+     "asistencija",
+     "assist"
+    ]
+   ]
+  },
+  {
+   "id": "261103114",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/regija/zene-u-hrvatskoj-od-1-januara-cekat-ce-tri-mjeseca-duze-do-penzije/261103114",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261103114.jpg",
+   "published": "2026-11-03T13:15:00+01:00",
+   "title": [
+    "Žene u Hrvatskoj od 1. januara tri mjeseca duže čekaju penziju",
+    "Women in Croatia wait three months longer for a pension from 1 January"
+   ],
+   "body": [
+    [
+     [
+      "Od 1. januara 2027. u Hrvatskoj se mijenjaju uslovi za odlazak žena u penziju, pa će one čekati tri mjeseca duže.",
+      "From 1 January 2027 the conditions for women to retire change in Croatia, so they will wait three months longer."
+     ],
+     [
+      "Za redovnu starosnu penziju žene će tada trebati 64 godine i 3 mjeseca života te 15 godina staža.",
+      "For a regular old-age pension women will then need 64 years and 3 months of age and 15 years of service."
+     ],
+     [
+      "Ove godine je dovoljno 64 godine i 15 godina staža.",
+      "This year 64 years and 15 years of service are enough."
+     ]
+    ],
+    [
+     [
+      "Za raniju penziju trebat će 59 godina i 3 mjeseca života te 34 godine i 3 mjeseca staža.",
+      "For an early pension they will need 59 years and 3 months of age and 34 years and 3 months of service."
+     ],
+     [
+      "Granica će rasti i dalje: u 2028. na 64 godine i 6 mjeseci, a u 2029. na 64 godine i 9 mjeseci.",
+      "The limit will keep rising: to 64 years and 6 months in 2028 and to 64 years and 9 months in 2029."
+     ],
+     [
+      "Od 1. januara 2030. žene i muškarci imat će iste uslove, a to je 65 godina života i 15 godina staža.",
+      "From 1 January 2030 women and men will have the same conditions: 65 years of age and 15 years of service."
+     ],
+     [
+      "Žene koje su ispunile uslove po ranijim pravilima zadržavaju svoja prava.",
+      "Women who met the conditions under the earlier rules keep their rights."
+     ]
+    ],
+    [
+     [
+      "U BiH se starosna granica za žene ne povećava svake godine.",
+      "In BiH the age limit for women does not rise every year."
+     ],
+     [
+      "I u Federaciji BiH i u Republici Srpskoj starosna penzija ostvaruje se sa 65 godina života i najmanje 15 godina staža.",
+      "Both in the Federation of BiH and in Republika Srpska an old-age pension is granted at 65 years of age and at least 15 years of service."
+     ],
+     [
+      "Penzije u Federaciji su ove godine povećane za 11,6 posto, a usklađuju se dvaput godišnje.",
+      "Pensions in the Federation were raised by 11.6 percent this year, and they are adjusted twice a year."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "penzija",
+     "pension"
+    ],
+    [
+     "staž",
+     "years of service"
+    ],
+    [
+     "uslov",
+     "condition"
+    ],
+    [
+     "starosna granica",
+     "age limit"
+    ],
+    [
+     "redovan",
+     "regular"
+    ],
+    [
+     "raniji",
+     "earlier, early"
+    ],
+    [
+     "usklađivati",
+     "to adjust"
+    ],
+    [
+     "zadržati",
+     "to keep"
+    ]
+   ]
+  },
+  {
+   "id": "261103137",
+   "source": "Klix.ba",
+   "section": "Biznis",
+   "url": "https://www.klix.ba/biznis/ekonomija/najuspjesniji-oktobar-u-historiji-aerodrom-sarajevo-imao-rekordnih-189472-putnika/261103137",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261103137.jpg",
+   "published": "2026-11-03T13:01:00+01:00",
+   "title": [
+    "Aerodrom Sarajevo imao rekordnih 189.472 putnika u oktobru",
+    "Sarajevo Airport had a record 189,472 passengers in October"
+   ],
+   "body": [
+    [
+     [
+      "Međunarodni aerodrom Sarajevo je u oktobru opslužio 189.472 putnika.",
+      "Sarajevo International Airport served 189,472 passengers in October."
+     ],
+     [
+      "To je 4,4 posto više nego u oktobru prošle godine i najbolji oktobar u historiji aerodroma.",
+      "That is 4.4 percent more than in October last year and the best October in the airport's history."
+     ],
+     [
+      "Dvomilioniti putnik ove godine očekuje se već ove sedmice.",
+      "The two-millionth passenger of this year is expected as early as this week."
+     ]
+    ],
+    [
+     [
+      "Od januara do kraja oktobra aerodrom je imao 1.973.069 putnika, što je 1 posto više nego u istom periodu prošle godine.",
+      "From January to the end of October the airport had 1,973,069 passengers, which is 1 percent more than in the same period last year."
+     ],
+     [
+      "Iz aerodroma kažu da rezultat potvrđuje pozitivne trendove u 2026. godini i bolju povezanost BiH s inostranstvom.",
+      "The airport says that the result confirms positive trends in 2026 and better connections between BiH and abroad."
+     ],
+     [
+      "Zimski red letenja počeo je 25. oktobra.",
+      "The winter flight schedule began on 25 October."
+     ],
+     [
+      "Iz Sarajeva se leti do 18 destinacija s 14 aviokompanija.",
+      "Flights from Sarajevo go to 18 destinations with 14 airlines."
+     ]
+    ],
+    [
+     [
+      "Od decembra Wizz Air uvodi nove linije do Bratislave, Berlina i Praga.",
+      "From December Wizz Air introduces new routes to Bratislava, Berlin and Prague."
+     ],
+     [
+      "Zima je tradicionalno mirniji period, pa se širenje mreže linija očekuje u proljeće.",
+      "Winter is traditionally a quieter period, so an expansion of the route network is expected in spring."
+     ],
+     [
+      "Već su najavljene linije do Ženeve i Bazela, a druge destinacije bit će objavljene kasnije.",
+      "Routes to Geneva and Basel have already been announced, and other destinations will be announced later."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "putnik",
+     "passenger"
+    ],
+    [
+     "aerodrom",
+     "airport"
+    ],
+    [
+     "rekordan",
+     "record"
+    ],
+    [
+     "red letenja",
+     "flight schedule"
+    ],
+    [
+     "aviokompanija",
+     "airline"
+    ],
+    [
+     "linija",
+     "route"
+    ],
+    [
+     "destinacija",
+     "destination"
+    ],
+    [
+     "povezanost",
+     "connectivity"
+    ]
+   ]
+  },
+  {
+   "id": "261103130",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/vatrogascima-iz-bih-predstavljena-oprema-za-gasenje-sumskih-pozara/261103130",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261103130.jpg",
+   "published": "2026-11-03T12:59:00+01:00",
+   "title": [
+    "Vatrogascima u BiH predstavljena oprema za gašenje šumskih požara",
+    "Equipment for fighting forest fires presented to firefighters in BiH"
+   ],
+   "body": [
+    [
+     [
+      "U Ilidži je održana prezentacija moderne opreme za gašenje požara na otvorenom i vozila za tehničke intervencije.",
+      "A presentation of modern equipment for fighting fires in the open and of vehicles for technical interventions was held in Ilidža."
+     ],
+     [
+      "Događaj je organiziralo Vatrogasno društvo Ilidža, zajedno s kolegama iz Slovenije.",
+      "The event was organised by the Ilidža Fire Association together with colleagues from Slovenia."
+     ],
+     [
+      "Došli su vatrogasci iz Goražda, Bugojna, Mostara i Sarajeva.",
+      "Firefighters came from Goražde, Bugojno, Mostar and Sarajevo."
+     ]
+    ],
+    [
+     [
+      "Među gostima su bili i predstavnici Sarajevo-šuma, općina i civilne zaštite.",
+      "Among the guests were also representatives of Sarajevo-šume, municipalities and civil protection."
+     ],
+     [
+      "Opremu je izradila slovenačka kompanija Pratus, koja pravi i nadogradnje za vatrogasna vozila.",
+      "The equipment was made by the Slovenian company Pratus, which also makes upgrades for fire vehicles."
+     ],
+     [
+      "Njeni predstavnici pokazali su kako se oprema koristi.",
+      "Its representatives showed how the equipment is used."
+     ],
+     [
+      "Vozila se mogu koristiti i kod drugih intervencija, na primjer kod poplava.",
+      "The vehicles can also be used in other interventions, for example during floods."
+     ]
+    ],
+    [
+     [
+      "Nijaz Imamović, predsjednik Vatrogasnog društva Ilidža, rekao je da je to bila samo prezentacija.",
+      "Nijaz Imamović, president of the Ilidža Fire Association, said that it was only a presentation."
+     ],
+     [
+      "Prema njegovim riječima, danas su na terenu svi koji se bave zaštitom i spašavanjem.",
+      "In his words, everyone who deals with protection and rescue was at the site today."
+     ],
+     [
+      "Imamović očekuje da će institucije koje su vidjele opremu odlučiti hoće li je kupiti.",
+      "Imamović expects the institutions that saw the equipment to decide whether to buy it."
+     ],
+     [
+      "Nije poznato hoće li je lokalni vatrogasci dobiti.",
+      "It is not known whether local firefighters will get it."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "vatrogasac",
+     "firefighter"
+    ],
+    [
+     "oprema",
+     "equipment"
+    ],
+    [
+     "požar",
+     "fire"
+    ],
+    [
+     "gašenje",
+     "extinguishing"
+    ],
+    [
+     "šuma",
+     "forest"
+    ],
+    [
+     "prezentacija",
+     "presentation"
+    ],
+    [
+     "nabaviti",
+     "to procure, to buy"
+    ],
+    [
+     "civilna zaštita",
+     "civil protection"
+    ]
+   ]
+  },
+  {
+   "id": "261103126",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/lifestyle/putovanja/sarajevo-medu-najljepsim-evropskim-gradovima-za-zimski-odmor-u-2026-godini-ne-uklapa-se-u-stereotipe/261103126",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261103126.jpg",
+   "published": "2026-11-03T12:42:00+01:00",
+   "title": [
+    "Sarajevo među najljepšim evropskim gradovima za zimski odmor",
+    "Sarajevo among the most beautiful European cities for a winter break"
+   ],
+   "body": [
+    [
+     [
+      "Magazin TimeOut uvrstio je Sarajevo među najljepše evropske gradove za zimski odmor u 2026. godini.",
+      "TimeOut magazine has included Sarajevo among the most beautiful European cities for a winter break in 2026."
+     ],
+     [
+      "Lista ima 11 gradova, od Arktičkog kruga do Balkana.",
+      "The list has 11 cities, from the Arctic Circle to the Balkans."
+     ],
+     [
+      "Pored Sarajeva tu su Zagreb, Pariz, Ljubljana, Amsterdam, Tallinn, Tromsø, Edinburgh, Antwerpen, Innsbruck i Reykjavik.",
+      "Besides Sarajevo, it includes Zagreb, Paris, Ljubljana, Amsterdam, Tallinn, Tromsø, Edinburgh, Antwerp, Innsbruck and Reykjavik."
+     ]
+    ],
+    [
+     [
+      "TimeOut piše da su ti gradovi zimi često još privlačniji, a putnicima treba samo još jedan sloj odjeće.",
+      "TimeOut writes that these cities are often even more attractive in winter, and travellers only need one more layer of clothes."
+     ],
+     [
+      "Za Sarajevo kažu da se teško uklapa u stereotipe.",
+      "About Sarajevo they say that it is hard to fit into stereotypes."
+     ],
+     [
+      "Grad spaja osmansko, austrougarsko i jugoslavensko naslijeđe.",
+      "The city combines Ottoman, Austro-Hungarian and Yugoslav heritage."
+     ],
+     [
+      "Na olimpijskim planinama pored grada može se skijati preko dana, a uveče izaći u grad.",
+      "On the Olympic mountains next to the city you can ski during the day and go out in the evening."
+     ]
+    ],
+    [
+     [
+      "Zagreb je poznat po nagrađivanom adventu, a Ljubljana po jedinstvenoj božićnoj rasvjeti u centru.",
+      "Zagreb is known for its award-winning Advent, and Ljubljana for unique Christmas lights in the centre."
+     ],
+     [
+      "U Amsterdamu se na početku zime otvara klizalište ispred Rijksmuseuma.",
+      "In Amsterdam a skating rink opens in front of the Rijksmuseum at the start of winter."
+     ],
+     [
+      "Tromsø nudi vožnju psećim zapregama i traženje polarne svjetlosti.",
+      "Tromsø offers dog sledding and the search for the northern lights."
+     ],
+     [
+      "Reykjavik ima toplice, a većina znamenitosti udaljena je oko 20 minuta hoda.",
+      "Reykjavik has hot springs, and most sights are about 20 minutes' walk apart."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "odmor",
+     "break, holiday"
+    ],
+    [
+     "stereotip",
+     "stereotype"
+    ],
+    [
+     "naslijeđe",
+     "heritage"
+    ],
+    [
+     "znamenitost",
+     "sight, landmark"
+    ],
+    [
+     "klizalište",
+     "skating rink"
+    ],
+    [
+     "putnik",
+     "traveller"
+    ],
+    [
+     "rasvjeta",
+     "lighting"
+    ],
+    [
+     "uvrstiti",
+     "to include"
+    ]
+   ]
+  },
+  {
+   "id": "261103125",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/humanitarne-akcije/humanitarno-udruzenje-pomoziba-poziva-frizere-da-dio-dnevne-zarade-doniraju-za-tople-obroke/261103125",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261103125.jpg",
+   "published": "2026-11-03T12:30:00+01:00",
+   "title": [
+    "Pomozi.ba poziva frizere da doniraju dio zarade za tople obroke",
+    "Pomozi.ba asks hairdressers to donate part of their earnings for hot meals"
+   ],
+   "body": [
+    [
+     [
+      "Humanitarno udruženje Pomozi.ba pokrenulo je akciju pod nazivom \"Frizeri šišaju, mi kuhamo\".",
+      "The humanitarian association Pomozi.ba has launched a campaign called \"Hairdressers cut, we cook\"."
+     ],
+     [
+      "Frizerski saloni širom BiH pozvani su da doniraju dio zarade ili cijelu zaradu za jedan dan u novembru.",
+      "Hair salons across BiH are invited to donate part or all of their earnings for one day in November."
+     ],
+     [
+      "Novac ide za projekt \"Obrok za sve\".",
+      "The money goes to the project \"Obrok za sve\" (Meal for All)."
+     ]
+    ],
+    [
+     [
+      "Taj projekt osigurava tople obroke za starije, bolesne i socijalno ugrožene osobe.",
+      "This project provides hot meals for elderly, sick and socially vulnerable people."
+     ],
+     [
+      "Udruženje svakog dana pripremi više od 1.000 obroka za svoje korisnike.",
+      "Every day the association prepares more than 1,000 meals for its users."
+     ],
+     [
+      "Saloni sami biraju dan i iznos, u skladu sa svojim mogućnostima.",
+      "Salons choose the day and the amount themselves, according to their means."
+     ],
+     [
+      "Iz udruženja kažu da je svaka donacija važna.",
+      "The association says that every donation matters."
+     ]
+    ],
+    [
+     [
+      "Frizeri su i ranije na vlastitu inicijativu organizirali pomoć za korisnike udruženja.",
+      "Hairdressers have also earlier organised help for the association's users on their own initiative."
+     ],
+     [
+      "Pomozi.ba se nada da će ova akcija postati tradicija koja se održava svake godine.",
+      "Pomozi.ba hopes that this campaign will become a tradition held every year."
+     ],
+     [
+      "Zainteresirani saloni mogu se prijaviti preko online obrasca.",
+      "Interested salons can apply through an online form."
+     ],
+     [
+      "Građane mole da o akciji kažu svojim frizerima.",
+      "Citizens are asked to tell their hairdressers about the campaign."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "frizer",
+     "hairdresser"
+    ],
+    [
+     "zarada",
+     "earnings"
+    ],
+    [
+     "donirati",
+     "to donate"
+    ],
+    [
+     "obrok",
+     "meal"
+    ],
+    [
+     "udruženje",
+     "association"
+    ],
+    [
+     "korisnik",
+     "user, beneficiary"
+    ],
+    [
+     "ugrožen",
+     "vulnerable"
+    ],
+    [
+     "prijaviti se",
+     "to apply, to sign up"
+    ]
+   ]
+  },
   {
    "id": "261103101",
    "source": "Klix.ba",
