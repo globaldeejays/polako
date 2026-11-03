@@ -26,6 +26,10 @@ news.articles.forEach((a, i) => {
     if (!Array.isArray(s) || s.length !== 2 || !s[0] || !s[1]) errors.push(`${where}: body[${pi}][${si}] must be [bs, en]`);
   }));
   if (Number.isNaN(Date.parse(a.published))) errors.push(`${where}: bad published date`);
+  // Photos: Klix's RSS image link (img32_) does not exist; the article photo is b_<id>.jpg.
+  const klixImg = `https://static.klix.ba/media/images/vijesti/b_${a.id}.jpg`;
+  if (!a.image) errors.push(`${where}: missing image${/klix\.ba/.test(a.url || '') ? ` (use ${klixImg})` : ''}`);
+  else if (/klix\.ba/.test(a.url || '') && a.image !== klixImg) errors.push(`${where}: image must be ${klixImg}`);
 });
 
 if (process.argv.includes('--prune')) {

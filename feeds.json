@@ -4,7 +4,7 @@
   "keep": 40,
   "maxAgeHours": 36,
   "feeds": [
-    { "name": "Klix.ba", "url": "https://www.klix.ba/rss" }
+    { "name": "Klix.ba", "url": "https://klix.ba/rss" }
   ],
   "skipSections": ["Promo", "Marketing"],
   "preferSections": ["BiH", "Svijet", "Sport", "Biznis", "Tehnologija", "Magazin"]

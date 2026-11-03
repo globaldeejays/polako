@@ -5,8 +5,9 @@ Work in the cloned repo. Settings live in `feeds.json`.
 
 ## 1. Collect new items
 1. Read `feeds.json` and `site/data/news.json`.
-2. For every feed, use WebFetch on its URL and extract each item's title, link, category, pubDate, image
-   (`media:content` url, else `enclosure`, else the first `<img>` in the description) and description.
+2. For every feed, use WebFetch on its URL and extract each item's title, link, category, pubDate and description.
+   Stale feed check: if the newest pubDate is more than 6 hours old between 07:00 and 23:00 Sarajevo time, the copy
+   is cached. Fetch it again with the other host form (`klix.ba` ↔ `www.klix.ba`) and use the fresher one.
 3. Drop items that are already in news.json (same `id` = the trailing number in the URL, or the link if there is none),
    items older than `maxAgeHours`, sponsored items (`skipSections`, "Promo", "Sponzorirano"), video-only items and live tickers.
 4. Pick up to `perRun` items, newest first, with a mix of sections. Prefer stories a learner can follow
@@ -31,6 +32,12 @@ Other levels, if `level` in feeds.json changes:
 - **B1**: 6–10 sentences, at most 18 words, all common tenses, some linking words (jer, zato što, iako).
 - **B2**: 8–12 sentences, natural news style but still clear; keep translations.
 
+Image (every article needs one):
+- Klix.ba: always `https://static.klix.ba/media/images/vijesti/b_<id>.jpg` (the article's own photo, 800 px wide).
+  Do not use the RSS `media:content` link (`img32_<id>.jpg`): that file does not exist on Klix and shows no photo.
+- Other feeds: the article page's `og:image`, else the item's `media:content` / `enclosure` url, else the first
+  `<img>` in the description.
+
 Section from the URL path: `vijesti/bih` → BiH; `vijesti/svijet|regija|dijaspora` → Svijet; `sport/*` → Sport;
 `biznis/*` → Biznis; `scitech/*` → Tehnologija; `magazin/*`, `lifestyle/*`, `auto/*` → Magazin.
 For other feeds use the feed category mapped to the same six sections.
@@ -42,7 +49,7 @@ Article shape (append to `articles` in `site/data/news.json`):
   "source": "Klix.ba",
   "section": "BiH",
   "url": "https://www.klix.ba/...",
-  "image": "https://static.klix.ba/media/images/vijesti/...jpg",
+  "image": "https://static.klix.ba/media/images/vijesti/b_261102023.jpg",
   "published": "2026-11-02T08:17:00+01:00",
   "title": ["Bosnian title", "English title"],
   "body": [
@@ -56,7 +63,8 @@ Set `"updated"` to the current time in Europe/Sarajevo with its offset.
 
 ## 3. Dictionary
 Run `node scripts/check.mjs --prune <keep>`. It keeps the newest `keep` articles and lists every word form
-with no entry in `site/data/dict.json`. Add an entry for each one, then run it again until it reports `missing (0)`.
+with no entry in `site/data/dict.json`. Add an entry for each one, then run it again until it reports `missing (0)`
+and no `ERRORS` (it also flags articles with a missing or wrong image).
 
 Entry format, one per line:
 - key: the word form in lowercase (names and places keep their capital: `"Toronta"`).
