@@ -1,7 +1,619 @@
 {
- "updated": "2026-11-03T03:06:22+01:00",
+ "updated": "2026-11-03T11:45:00+01:00",
  "level": "A2",
  "articles": [
+  {
+   "id": "261103101",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/film-tv/schwarzenegger-30-godina-nakon-jingle-all-the-way-opet-u-bozicnom-filmu-sad-kao-djed-mraz/261103101",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261103101.jpg",
+   "published": "2026-11-03T11:34:00+01:00",
+   "title": [
+    "Schwarzenegger ponovo u božićnom filmu, ovaj put kao Djed Mraz",
+    "Schwarzenegger in a Christmas film again, this time as Santa Claus"
+   ],
+   "body": [
+    [
+     [
+      "Prime Video je objavio trailer za novu božićnu akcijsku komediju.",
+      "Prime Video has released the trailer for a new Christmas action comedy."
+     ],
+     [
+      "Film se zove \"The Man with the Bag\", a Arnold Schwarzenegger u njemu igra Djeda Mraza.",
+      "The film is called \"The Man with the Bag\", and Arnold Schwarzenegger plays Santa Claus in it."
+     ],
+     [
+      "Alan Ritchson glumi lopova s liste nevaljalih.",
+      "Alan Ritchson plays a thief from the naughty list."
+     ],
+     [
+      "Film stiže na platformu 2. decembra.",
+      "The film arrives on the platform on 2 December."
+     ]
+    ],
+    [
+     [
+      "Schwarzenegger se tako vraća božićnim filmovima 30 godina nakon komedije \"Jingle All the Way\" iz 1996. godine.",
+      "So Schwarzenegger returns to Christmas films 30 years after the comedy \"Jingle All the Way\" from 1996."
+     ],
+     [
+      "U priči jedan vilenjak ukrade Djedu Mrazu čarobnu crvenu vreću, pa su pokloni za djecu širom svijeta u opasnosti.",
+      "In the story an elf steals Santa's magic red sack, so presents for children around the world are in danger."
+     ],
+     [
+      "Tu ulogu igra Awkwafina.",
+      "Awkwafina plays that role."
+     ],
+     [
+      "Djed Mraz zato traži pomoć na svojoj listi nevaljalih i pronalazi poznatog lopova.",
+      "So Santa looks for help on his naughty list and finds a well-known thief."
+     ],
+     [
+      "Lopov, njegova kćerka i Djed Mraz moraju izvesti veliku pljačku i vratiti vreću prije Božića.",
+      "The thief, his daughter and Santa have to carry out a big heist and get the sack back before Christmas."
+     ]
+    ],
+    [
+     [
+      "Film je režirao Adam Shankman, a producent je Amazon MGM Studios.",
+      "The film was directed by Adam Shankman, and the producer is Amazon MGM Studios."
+     ],
+     [
+      "U traileru Schwarzenegger ima bijelu bradu i crveni kaput, a dio humora je u razlici u veličini između njega i krupnog Ritchsona.",
+      "In the trailer Schwarzenegger has a white beard and a red coat, and part of the humor is the difference in size between him and the large Ritchson."
+     ],
+     [
+      "Amazon film opisuje kao blagdansku avanturu o drugim šansama i neočekivanim prijateljstvima.",
+      "Amazon describes the film as a holiday adventure about second chances and unexpected friendships."
+     ],
+     [
+      "Snimanje u New Yorku počelo je krajem 2024. godine.",
+      "Filming in New York began at the end of 2024."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "trailer",
+     "trailer"
+    ],
+    [
+     "Djed Mraz",
+     "Santa Claus"
+    ],
+    [
+     "lopov",
+     "thief"
+    ],
+    [
+     "vilenjak",
+     "elf"
+    ],
+    [
+     "vreća",
+     "sack"
+    ],
+    [
+     "pljačka",
+     "heist, robbery"
+    ],
+    [
+     "snimanje",
+     "filming"
+    ]
+   ]
+  },
+  {
+   "id": "261103094",
+   "source": "Klix.ba",
+   "section": "Tehnologija",
+   "url": "https://www.klix.ba/scitech/tehnologija/americki-student-napravio-mlazni-dron-tvrdi-da-je-dostigao-brzinu-od-790-kmh/261103094",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261103094.jpg",
+   "published": "2026-11-03T11:17:00+01:00",
+   "title": [
+    "Američki student napravio mlazni dron brzine 790 km/h",
+    "American student built a jet drone with a speed of 790 km/h"
+   ],
+   "body": [
+    [
+     [
+      "Tomas Salvo, student na univerzitetu Georgia Tech u SAD-u, napravio je mlazni dron po imenu Reaper.",
+      "Tomas Salvo, a student at Georgia Tech university in the USA, built a jet drone called Reaper."
+     ],
+     [
+      "Kaže da je dron u testu dostigao brzinu od 790 km/h.",
+      "He says the drone reached a speed of 790 km/h in a test."
+     ],
+     [
+      "Salvo to smatra svjetskim rekordom za male letjelice na mlazni pogon.",
+      "Salvo considers this a world record for small jet-powered aircraft."
+     ],
+     [
+      "Na društvenoj mreži X objavio je da je napravio tri takve letjelice i da je svaka dostigla tu brzinu.",
+      "On the social network X he announced that he built three such aircraft and that each of them reached that speed."
+     ]
+    ],
+    [
+     [
+      "Prema portalu Interesting Engineering, test je bio 30. oktobra.",
+      "According to the portal Interesting Engineering, the test was on 30 October."
+     ],
+     [
+      "Dron je nosio teret od 1,2 kilograma i četiri minute je održao najveću brzinu.",
+      "The drone carried a load of 1.2 kilograms and kept its top speed for four minutes."
+     ],
+     [
+      "Lansira se s kamiona ili šine, a za manje od 20 sekundi popne se na 2.000 metara visine.",
+      "It is launched from a truck or a rail, and in less than 20 seconds it climbs to a height of 2,000 metres."
+     ],
+     [
+      "Punom brzinom može preletjeti 50 kilometara.",
+      "At full speed it can fly 50 kilometres."
+     ],
+     [
+      "Cijela letjelica teška je oko pet kilograma.",
+      "The whole aircraft weighs about five kilograms."
+     ]
+    ],
+    [
+     [
+      "Na motoru je mlaznica od titanija koja je napravljena 3D printanjem.",
+      "On the engine there is a titanium nozzle made with 3D printing."
+     ],
+     [
+      "Trup je od karbonskih vlakana, a unutrašnja konstrukcija izrezana je laserom.",
+      "The body is made of carbon fibre, and the inner structure was cut with a laser."
+     ],
+     [
+      "Za poređenje, letjelica Kingchaser, koju su u oktobru napravili diplomci Univerziteta u Bathu, dostigla je 330 km/h.",
+      "For comparison, the aircraft Kingchaser, which graduates of the University of Bath built in October, reached 330 km/h."
+     ],
+     [
+      "Salvo se nada da će uz manje izmjene preći 800 km/h.",
+      "Salvo hopes that with small changes it will pass 800 km/h."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "dron",
+     "drone"
+    ],
+    [
+     "mlazni",
+     "jet"
+    ],
+    [
+     "brzina",
+     "speed"
+    ],
+    [
+     "rekord",
+     "record"
+    ],
+    [
+     "letjelica",
+     "aircraft"
+    ],
+    [
+     "teret",
+     "load, cargo"
+    ],
+    [
+     "mlaznica",
+     "nozzle"
+    ],
+    [
+     "diplomac",
+     "graduate"
+    ]
+   ]
+  },
+  {
+   "id": "261103084",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/zelenski-danas-u-berlinu-kod-merza-sedmicu-prije-mirovnih-pregovora/261103084",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261103084.jpg",
+   "published": "2026-11-03T10:49:00+01:00",
+   "title": [
+    "Zelenski danas u Berlinu kod Merza, sedmicu prije pregovora",
+    "Zelensky in Berlin today with Merz, a week before talks"
+   ],
+   "body": [
+    [
+     [
+      "Ukrajinski predsjednik Volodimir Zelenski danas posjećuje Berlin.",
+      "Ukrainian president Volodymyr Zelensky is visiting Berlin today."
+     ],
+     [
+      "Razgovarat će s njemačkim kancelarom Friedrichom Merzom.",
+      "He will talk with German chancellor Friedrich Merz."
+     ],
+     [
+      "Susret je samo sedmicu prije nastavka mirovnih pregovora Rusije i Ukrajine, koje posreduju SAD.",
+      "The meeting is only a week before the continuation of peace talks between Russia and Ukraine, mediated by the USA."
+     ],
+     [
+      "O tome piše agencija Reuters.",
+      "The agency Reuters writes about this."
+     ]
+    ],
+    [
+     [
+      "Merz je posjetu najavio na poslovnoj konferenciji u Berlinu.",
+      "Merz announced the visit at a business conference in Berlin."
+     ],
+     [
+      "Rekao je da će Zelenski doći kod njega odmah nakon podne.",
+      "He said that Zelensky will come to him right after noon."
+     ],
+     [
+      "Dodao je da će \"stvari tada biti malo drugačije\", što Reuters vidi kao aluziju na ukor koji je Zelenski dobio od Donalda Trumpa u Bijeloj kući.",
+      "He added that \"things will be a bit different then\", which Reuters sees as a reference to the scolding Zelensky received from Donald Trump at the White House."
+     ],
+     [
+      "Posjete ukrajinskog predsjednika Njemačkoj drže se u tajnosti do neposredno prije dolaska.",
+      "Visits of the Ukrainian president to Germany are kept secret until shortly before his arrival."
+     ],
+     [
+      "Na videu iz Berlina vidi se kako policija postavlja barikade i provjerava vozila na mostu.",
+      "A video from Berlin shows police setting up barricades and checking vehicles on a bridge."
+     ]
+    ],
+    [
+     [
+      "Evropski lideri podržali su Zelenskog u posljednjim sedmicama, dok se sukobljavao s Washingtonom.",
+      "European leaders have supported Zelensky in recent weeks, while he was in conflict with Washington."
+     ],
+     [
+      "Spor je počeo zbog Trumpovih odluka da kupuje rusko dizel-gorivo i suspenduje dio sankcija.",
+      "The dispute began because of Trump's decisions to buy Russian diesel fuel and suspend some sanctions."
+     ],
+     [
+      "Njemačka je, prema Reutersu, najveći podržavatelj Ukrajine otkako je Trump vratio na vlast i povukao američku finansijsku podršku.",
+      "According to Reuters, Germany is Ukraine's biggest supporter since Trump returned to power and withdrew American financial support."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "predsjednik",
+     "president"
+    ],
+    [
+     "kancelar",
+     "chancellor"
+    ],
+    [
+     "mirovni pregovori",
+     "peace talks"
+    ],
+    [
+     "susret",
+     "meeting"
+    ],
+    [
+     "posjeta",
+     "visit"
+    ],
+    [
+     "sankcije",
+     "sanctions"
+    ],
+    [
+     "podrška",
+     "support"
+    ],
+    [
+     "tajnost",
+     "secrecy"
+    ]
+   ]
+  },
+  {
+   "id": "261103080",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/u-bih-evidentirano-13603-migranta-oko-40-posto-vise-nego-lani/261103080",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261103080.jpg",
+   "published": "2026-11-03T10:48:00+01:00",
+   "title": [
+    "U BiH evidentirano 13.603 migranta, 40 posto više nego lani",
+    "13,603 migrants recorded in BiH, 40 percent more than last year"
+   ],
+   "body": [
+    [
+     [
+      "Služba za poslove sa strancima evidentirala je od 1. januara do 30. septembra 13.603 migranta u BiH.",
+      "The Service for Foreigners' Affairs recorded 13,603 migrants in BiH from 1 January to 30 September."
+     ],
+     [
+      "To je oko 40 posto više nego prošle godine, rekao je direktor Službe Žarko Laketa.",
+      "That is about 40 percent more than last year, said the director of the Service, Žarko Laketa."
+     ],
+     [
+      "Od tog broja, 9.960 migranata iskazalo je namjeru da zatraži azil.",
+      "Of that number, 9,960 migrants showed an intention to ask for asylum."
+     ],
+     [
+      "Najviše ih je iz Sudana, Egipta, Afganistana, Turske i Bangladeša.",
+      "Most of them are from Sudan, Egypt, Afghanistan, Turkey and Bangladesh."
+     ]
+    ],
+    [
+     [
+      "Samo iz Sudana je 2.404 migranta, a iz Egipta 2.276.",
+      "From Sudan alone there are 2,404 migrants, and from Egypt 2,276."
+     ],
+     [
+      "Na dan 30. septembra u prihvatnim centrima boravilo je 1.154 migranta.",
+      "On 30 September, 1,154 migrants were staying in reception centres."
+     ],
+     [
+      "Njih 532 bilo je u centru \"Blažuj\" kod Sarajeva, a 622 u centru \"Lipa\" u Unsko-sanskom kantonu.",
+      "532 of them were in the \"Blažuj\" centre near Sarajevo, and 622 in the \"Lipa\" centre in Una-Sana Canton."
+     ],
+     [
+      "Za 3.172 stranca izrečena je mjera protjerivanja, najviše državljanima Turske, Bangladeša i Kine.",
+      "An expulsion order was issued for 3,172 foreigners, most of them citizens of Turkey, Bangladesh and China."
+     ],
+     [
+      "U Imigracionom centru nalazi se 218 stranaca.",
+      "There are 218 foreigners in the Immigration Centre."
+     ]
+    ],
+    [
+     [
+      "Laketa je podsjetio da je BiH tranzitna zemlja za migrante koji žele u Zapadnu Evropu.",
+      "Laketa reminded that BiH is a transit country for migrants who want to go to Western Europe."
+     ],
+     [
+      "Rekao je i da Rusi, Turci i Kinezi mogu doći u BiH bez viza.",
+      "He also said that Russians, Turks and Chinese can come to BiH without visas."
+     ],
+     [
+      "Prema njegovim riječima, neki pokušavaju zloupotrijebiti tu pogodnost.",
+      "According to him, some try to abuse that benefit."
+     ],
+     [
+      "Služba je u istom periodu odobrila i 5.980 privremenih boravaka.",
+      "In the same period the Service also approved 5,980 temporary residence permits."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "migrant",
+     "migrant"
+    ],
+    [
+     "azil",
+     "asylum"
+    ],
+    [
+     "protjerivanje",
+     "expulsion"
+    ],
+    [
+     "prihvatni centar",
+     "reception centre"
+    ],
+    [
+     "državljanin",
+     "citizen"
+    ],
+    [
+     "viza",
+     "visa"
+    ],
+    [
+     "tranzitna zemlja",
+     "transit country"
+    ],
+    [
+     "boravak",
+     "stay, residence"
+    ]
+   ]
+  },
+  {
+   "id": "261103069",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/kosarka/predsjednik-kk-bosna-ogorcen-u-becu-smo-imali-vise-navijaca-nego-u-zetri-problem-je-dati-5-eura-za-ulaznicu/261103069",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261103069.jpg",
+   "published": "2026-11-03T10:48:00+01:00",
+   "title": [
+    "Predsjednik KK Bosna ogorčen zbog malog broja gledalaca",
+    "KK Bosna president upset about the small number of spectators"
+   ],
+   "body": [
+    [
+     [
+      "Predsjednik košarkaškog kluba Bosna Nihad Selimović ogorčen je malom posjetom na domaćim utakmicama u Zetri.",
+      "The president of basketball club Bosna, Nihad Selimović, is upset about the low attendance at home games in Zetra."
+     ],
+     [
+      "Na konferenciji za medije rekao je da klub igra dobro u Eurocupu i ABA ligi, ali da podrške publike nema.",
+      "At a press conference he said that the club is playing well in the Eurocup and the ABA League, but that there is no support from fans."
+     ],
+     [
+      "Posebno ga smeta što je u Beču bilo više navijača Bosne nego u Sarajevu.",
+      "What bothers him especially is that there were more Bosna fans in Vienna than in Sarajevo."
+     ]
+    ],
+    [
+     [
+      "Protiv Bahčešehira prodato je samo 287 karata, a 1.366 ulaznica podijeljeno je besplatno.",
+      "Against Bahçeşehir only 287 tickets were sold, and 1,366 tickets were given away for free."
+     ],
+     [
+      "Selimović kaže da ulaznice nisu skupe, jer su 60 posto njih po 10 i 15 maraka.",
+      "Selimović says the tickets are not expensive, because 60 percent of them cost 10 and 15 marks."
+     ],
+     [
+      "Za porodičnu tribinu ulaznica košta 5 eura, a kod Partizana 51 euro.",
+      "A ticket for the family stand costs 5 euros, and at Partizan 51 euros."
+     ],
+     [
+      "Od te utakmice klub je zaradio 6.030 KM, a samo organizacija koštala je 30 do 40 hiljada KM.",
+      "The club earned 6,030 KM from that game, and the organisation alone cost 30 to 40 thousand KM."
+     ],
+     [
+      "Zato je poručio da od sada niko neće dobiti besplatnu ulaznicu, čak i ako dvorana bude prazna.",
+      "So he said that from now on nobody will get a free ticket, even if the hall is empty."
+     ]
+    ],
+    [
+     [
+      "Selimović je rekao da je klub od prethodne uprave naslijedio dug od milion i po KM.",
+      "Selimović said the club inherited a debt of one and a half million KM from the previous management."
+     ],
+     [
+      "Više od 600.000 KM već je vraćeno, a tekuće obaveze se redovno plaćaju.",
+      "More than 600,000 KM has already been paid back, and current obligations are paid regularly."
+     ],
+     [
+      "Smatra da bi sljedeća sezona mogla biti teška ako se odnos publike ne promijeni.",
+      "He thinks next season could be difficult if the attitude of the fans does not change."
+     ],
+     [
+      "Bosna sutra u 19:30 igra protiv Balkana u Zetri, a Selimović je molio navijače da napune dvoranu.",
+      "Tomorrow at 19:30 Bosna plays against Balkan in Zetra, and Selimović asked fans to fill the hall."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "košarka",
+     "basketball"
+    ],
+    [
+     "navijač",
+     "fan, supporter"
+    ],
+    [
+     "ulaznica",
+     "ticket"
+    ],
+    [
+     "dvorana",
+     "hall, arena"
+    ],
+    [
+     "publika",
+     "audience"
+    ],
+    [
+     "dug",
+     "debt"
+    ],
+    [
+     "ogorčen",
+     "upset, indignant"
+    ],
+    [
+     "uprava",
+     "management"
+    ]
+   ]
+  },
+  {
+   "id": "261103073",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/dio-alipasinog-polja-danas-bez-grijanja-pogodeno-549-stanova/261103073",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261103073.jpg",
+   "published": "2026-11-03T10:23:00+01:00",
+   "title": [
+    "Dio Alipašina Polja danas bez grijanja, pogođeno 549 stanova",
+    "Part of Alipašino Polje without heating today, 549 flats affected"
+   ],
+   "body": [
+    [
+     [
+      "Korisnici u 549 stanova na Alipašinom Polju danas su bez grijanja.",
+      "Users in 549 flats in Alipašino Polje are without heating today."
+     ],
+     [
+      "Razlog je prekid struje u kotlovnici K-3, iz koje se snabdijevaju toplotom.",
+      "The reason is a power cut at boiler room K-3, from which they get their heat."
+     ],
+     [
+      "Prekid napajanja planiran je od 9 do 15 sati.",
+      "The power cut is planned from 9 to 15 hours."
+     ]
+    ],
+    [
+     [
+      "Kako su saopćile Toplane Sarajevo, Elektrodistribucija je najavila radove na transformatorskoj stanici.",
+      "As Toplane Sarajevo announced, Elektrodistribucija announced works on a transformer station."
+     ],
+     [
+      "Stanica napaja kotlovnicu K-3, a rekonstruira se jedan njen dio.",
+      "The station supplies boiler room K-3, and one part of it is being reconstructed."
+     ],
+     [
+      "Bez toplote su zgrade u Ulici Ive Andrića s brojevima 2, 4, 6 i 8.",
+      "The buildings on Ive Andrić Street with numbers 2, 4, 6 and 8 are without heat."
+     ],
+     [
+      "Isto je i na Trgu međunarodnog prijateljstva, od broja 1 do 9.",
+      "The same applies on International Friendship Square, from number 1 to 9."
+     ]
+    ],
+    [
+     [
+      "Prema informacijama Elektroprivrede BiH, radovi počinju u 9 sati.",
+      "According to information from Elektroprivreda BiH, the works begin at 9 o'clock."
+     ],
+     [
+      "Prekid bi trebao trajati do 15 sati.",
+      "The cut should last until 15 hours."
+     ],
+     [
+      "Iz Toplana kažu da će grijanje ponovo raditi kada radovi završe i kada se vrati redovno napajanje strujom.",
+      "Toplane say that heating will work again when the works are finished and regular power supply returns."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "grijanje",
+     "heating"
+    ],
+    [
+     "stan",
+     "flat, apartment"
+    ],
+    [
+     "kotlovnica",
+     "boiler room"
+    ],
+    [
+     "struja",
+     "electricity"
+    ],
+    [
+     "prekid",
+     "interruption, cut"
+    ],
+    [
+     "radovi",
+     "works, construction"
+    ],
+    [
+     "napajanje",
+     "power supply"
+    ],
+    [
+     "zgrada",
+     "building"
+    ]
+   ]
+  },
   {
    "id": "261102029",
    "source": "Klix.ba",
