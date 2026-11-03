@@ -1,10 +1,11 @@
 // /api/push
 //   GET    → { publicKey }            VAPID public key for PushManager.subscribe()
+//   GET ?status → { seenArticles, last } what the deploy notifier last did
 //   POST   ← PushSubscription JSON    store it (first time: also send a welcome notification)
 //   DELETE ← { endpoint }             forget it
 import type { Config, Context } from "@netlify/functions"
 import {
-  cleanSubscription, countSubscriptions, getVapid, keyFor, MAX_SUBSCRIPTIONS, sendOne, subscriptions, welcomePayload,
+  cleanSubscription, countSubscriptions, getVapid, keyFor, MAX_SUBSCRIPTIONS, pushState, sendOne, subscriptions, welcomePayload,
 } from "../lib/push.mts"
 
 const json = (data: unknown, status = 200) =>
@@ -18,6 +19,12 @@ async function readBody(req: Request): Promise<unknown> {
 
 export default async (req: Request, context: Context) => {
   if (req.method === "GET") {
+    if (new URL(req.url).searchParams.has("status")) {
+      // What the deploy notifier last did (no subscriber details).
+      const state = pushState()
+      const seen = (await state.get("seen", { type: "json" })) as string[] | null
+      return json({ seenArticles: seen ? seen.length : null, last: await state.get("last", { type: "json" }) })
+    }
     const { publicKey } = await getVapid()
     return json({ publicKey })
   }
