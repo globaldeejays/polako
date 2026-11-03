@@ -1,156 +1,906 @@
 {
-  "updated": "2026-11-03T02:50:00+01:00",
-  "level": "A2",
-  "articles": [
-    {
-      "id": "261102023",
-      "source": "Klix.ba",
-      "section": "BiH",
-      "url": "https://www.klix.ba/vijesti/bih/u-bih-ce-narednih-nekoliko-dana-padati-kisa-na-planinama-snijeg-a-na-jugu-zemlje-suncano/261102023",
-      "image": "https://static.klix.ba/media/images/vijesti/img32_261102023.jpg",
-      "published": "2026-11-02T08:17:00+01:00",
-      "title": ["Kiša u Bosni, sunce u Hercegovini", "Rain in Bosnia, sun in Herzegovina"],
-      "body": [
-        [
-          ["U Bosni i Hercegovini danas pada kiša.", "Today it is raining in Bosnia and Herzegovina."],
-          ["Kiša će padati i sutra.", "It will rain tomorrow too."],
-          ["Na planinama može pasti malo snijega.", "A little snow may fall in the mountains."]
-        ],
-        [
-          ["Od srijede će u Hercegovini biti sunčano.", "From Wednesday it will be sunny in Herzegovina."],
-          ["U petak ujutro će biti hladno.", "On Friday morning it will be cold."],
-          ["Temperatura može pasti na minus dva stepena.", "The temperature can drop to minus two degrees."]
-        ]
-      ],
-      "vocab": [["kiša", "rain"], ["snijeg", "snow"], ["planina", "mountain"], ["sunčano", "sunny"], ["hladno", "cold"], ["stepen", "degree"]]
-    },
-    {
-      "id": "261102014",
-      "source": "Klix.ba",
-      "section": "Svijet",
-      "url": "https://www.klix.ba/vijesti/svijet/milioni-rusa-i-ukrajinaca-dobili-upozorenje-na-nuklearni-napad-nakon-sto-je-hakovana-aplikacija-za-uzbune/261102014",
-      "image": "https://static.klix.ba/media/images/vijesti/img32_261102014.jpg",
-      "published": "2026-11-02T08:03:00+01:00",
-      "title": ["Lažno upozorenje na telefonima u Ukrajini i Rusiji", "A false warning on phones in Ukraine and Russia"],
-      "body": [
-        [
-          ["U nedjelju navečer milioni ljudi dobili su poruku na telefonu.", "On Sunday evening millions of people got a message on their phones."],
-          ["Poruka je bila upozorenje na nuklearni napad.", "The message was a warning about a nuclear attack."],
-          ["Ali upozorenje nije bilo istinito.", "But the warning was not true."]
-        ],
-        [
-          ["Neko je hakovao ukrajinsku aplikaciju za uzbune.", "Someone hacked the Ukrainian app for alerts."],
-          ["Kasnije je i Rusija rekla da je njena aplikacija napadnuta.", "Later Russia also said that its app was attacked."]
-        ]
-      ],
-      "vocab": [["upozorenje", "warning"], ["poruka", "message"], ["napad", "attack"], ["istinit", "true"], ["aplikacija", "app"], ["uzbuna", "alarm, alert"]]
-    },
-    {
-      "id": "261102010",
-      "source": "Klix.ba",
-      "section": "Sport",
-      "url": "https://www.klix.ba/sport/kosarka/maestralni-doncic-s-45-poena-srusio-toronto-i-postavio-novi-rekord/261102010",
-      "image": "https://static.klix.ba/media/images/vijesti/img32_261102010.jpg",
-      "published": "2026-11-02T07:22:00+01:00",
-      "title": ["Dončić dao 45 poena protiv Toronta", "Dončić scored 45 points against Toronto"],
-      "body": [
-        [
-          ["Luka Dončić igra košarku za Los Angeles Lakerse.", "Luka Dončić plays basketball for the Los Angeles Lakers."],
-          ["Lakersi su pobijedili Toronto rezultatom 131:125.", "The Lakers beat Toronto 131:125."]
-        ],
-        [
-          ["Dončić je dao 45 poena.", "Dončić scored 45 points."],
-          ["Imao je i 15 skokova, šest asistencija i pet ukradenih lopti.", "He also had 15 rebounds, six assists and five steals."],
-          ["Postavio je i novi rekord.", "He also set a new record."]
-        ]
-      ],
-      "vocab": [["košarka", "basketball"], ["pobijediti", "to win, to beat"], ["poen", "point"], ["skok", "rebound (lit. jump)"], ["lopta", "ball"], ["rekord", "record"]]
-    },
-    {
-      "id": "261102025",
-      "source": "Klix.ba",
-      "section": "Sport",
-      "url": "https://www.klix.ba/sport/nogomet/messi-golom-i-asistencijom-preokrenuo-utakmicu-za-inter-miami-i-donio-mu-pobjedu/261102025",
-      "image": "https://static.klix.ba/media/images/vijesti/img32_261102025.jpg",
-      "published": "2026-11-02T08:11:00+01:00",
-      "title": ["Messi donio pobjedu Inter Miamiju", "Messi brought Inter Miami a win"],
-      "body": [
-        [
-          ["Inter Miami je igrao protiv New Englanda.", "Inter Miami played against New England."],
-          ["New England je prvo vodio.", "New England was ahead at first."],
-          ["Na kraju je Inter Miami pobijedio rezultatom 2:1.", "In the end Inter Miami won 2:1."]
-        ],
-        [
-          ["Lionel Messi je dao jedan gol.", "Lionel Messi scored one goal."],
-          ["Imao je i jednu asistenciju.", "He also had one assist."],
-          ["Zbog ove pobjede tim iduće godine igra na velikom takmičenju.", "Because of this win, the team plays in a big competition next year."]
-        ]
-      ],
-      "vocab": [["utakmica", "match, game"], ["pobjeda", "win, victory"], ["voditi", "to lead, to be ahead"], ["gol", "goal"], ["tim", "team"], ["takmičenje", "competition"]]
-    },
-    {
-      "id": "261102029",
-      "source": "Klix.ba",
-      "section": "Tehnologija",
-      "url": "https://www.klix.ba/scitech/tehnologija/xiaomi-18-pro-i-18-pro-max-ovog-mjeseca-stizu-na-globalno-trziste/261102029",
-      "image": "https://static.klix.ba/media/images/vijesti/img32_261102029.jpg",
-      "published": "2026-11-02T08:23:00+01:00",
-      "title": ["Novi Xiaomi telefoni stižu u cijeli svijet", "New Xiaomi phones are coming to the whole world"],
-      "body": [
-        [
-          ["Xiaomi ima dva nova telefona.", "Xiaomi has two new phones."],
-          ["Zovu se Xiaomi 18 Pro i 18 Pro Max.", "They are called Xiaomi 18 Pro and 18 Pro Max."],
-          ["Telefoni su u Kini od septembra.", "The phones have been in China since September."]
-        ],
-        [
-          ["Ovog mjeseca stižu i u druge zemlje.", "This month they are also coming to other countries."],
-          ["Ljudi ih uskoro mogu kupiti i izvan Kine.", "People can soon buy them outside China too."]
-        ]
-      ],
-      "vocab": [["telefon", "phone"], ["stizati", "to arrive, to be coming"], ["mjesec", "month"], ["zemlja", "country"], ["kupiti", "to buy"], ["izvan", "outside"]]
-    },
-    {
-      "id": "261102021",
-      "source": "Klix.ba",
-      "section": "Biznis",
-      "url": "https://www.klix.ba/biznis/ekonomija/ryanairova-polugodisnja-dobit-pala-15-posto-na-215-milijardi-eura/261102021",
-      "image": "https://static.klix.ba/media/images/vijesti/img32_261102021.jpg",
-      "published": "2026-11-02T07:54:00+01:00",
-      "title": ["Ryanair zaradio manje novca", "Ryanair earned less money"],
-      "body": [
-        [
-          ["Ryanair je velika avio-kompanija iz Irske.", "Ryanair is a big airline from Ireland."],
-          ["Kompanija je zaradila 2,15 milijardi eura.", "The company earned 2.15 billion euros."],
-          ["To je dobit za šest mjeseci, do kraja septembra.", "That is the profit for six months, up to the end of September."]
-        ],
-        [
-          ["Prošle godine dobit je bila 2,54 milijarde eura.", "Last year the profit was 2.54 billion euros."],
-          ["Dobit je pala za 15 posto.", "The profit fell by 15 percent."]
-        ]
-      ],
-      "vocab": [["zaraditi", "to earn"], ["novac", "money"], ["dobit", "profit"], ["kompanija", "company"], ["milijarda", "billion"], ["posto", "percent"]]
-    },
-    {
-      "id": "261102016",
-      "source": "Klix.ba",
-      "section": "Magazin",
-      "url": "https://www.klix.ba/magazin/film-tv/ukrajinac-u-supertalentu-nadmasio-guinnessov-rekord-maja-suput-ga-uporedila-s-aladinom/261102016",
-      "image": "https://static.klix.ba/media/images/vijesti/img32_261102016.jpg",
-      "published": "2026-11-02T07:48:00+01:00",
-      "title": ["Ukrajinac oborio Guinnessov rekord na televiziji", "A Ukrainian broke a Guinness record on TV"],
-      "body": [
-        [
-          ["Supertalent je hrvatska televizijska emisija.", "Supertalent is a Croatian TV show."],
-          ["U emisiji je nastupio Oleksandr Saša Khoruzenko iz Ukrajine.", "Oleksandr Saša Khoruzenko from Ukraine performed on the show."],
-          ["On se vrti u velikom metalnom točku.", "He spins inside a big metal wheel."]
-        ],
-        [
-          ["Za 30 sekundi napravio je 56 okreta.", "In 30 seconds he made 56 turns."],
-          ["Stari Guinnessov rekord bio je 49 okreta.", "The old Guinness record was 49 turns."],
-          ["Članica žirija Maja Šuput uporedila ga je s Aladinom.", "Jury member Maja Šuput compared him to Aladdin."]
-        ]
-      ],
-      "vocab": [["emisija", "(TV) show"], ["nastupiti", "to perform"], ["vrtjeti se", "to spin"], ["točak", "wheel"], ["okret", "turn, spin"], ["oboriti rekord", "to break a record"]]
-    }
-  ]
+ "updated": "2026-11-03T03:06:22+01:00",
+ "level": "A2",
+ "articles": [
+  {
+   "id": "261102029",
+   "source": "Klix.ba",
+   "section": "Tehnologija",
+   "url": "https://www.klix.ba/scitech/tehnologija/xiaomi-18-pro-i-18-pro-max-ovog-mjeseca-stizu-na-globalno-trziste/261102029",
+   "image": "https://static.klix.ba/media/images/vijesti/img32_261102029.jpg",
+   "published": "2026-11-02T08:23:00+01:00",
+   "title": [
+    "Novi Xiaomi telefoni stižu u cijeli svijet",
+    "New Xiaomi phones are coming to the whole world"
+   ],
+   "body": [
+    [
+     [
+      "Xiaomi ima dva nova telefona.",
+      "Xiaomi has two new phones."
+     ],
+     [
+      "Zovu se Xiaomi 18 Pro i 18 Pro Max.",
+      "They are called Xiaomi 18 Pro and 18 Pro Max."
+     ],
+     [
+      "Telefoni su u Kini od septembra.",
+      "The phones have been in China since September."
+     ]
+    ],
+    [
+     [
+      "Ovog mjeseca stižu i u druge zemlje.",
+      "This month they are also coming to other countries."
+     ],
+     [
+      "Ljudi ih uskoro mogu kupiti i izvan Kine.",
+      "People can soon buy them outside China too."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "telefon",
+     "phone"
+    ],
+    [
+     "stizati",
+     "to arrive, to be coming"
+    ],
+    [
+     "mjesec",
+     "month"
+    ],
+    [
+     "zemlja",
+     "country"
+    ],
+    [
+     "kupiti",
+     "to buy"
+    ],
+    [
+     "izvan",
+     "outside"
+    ]
+   ]
+  },
+  {
+   "id": "261102023",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/u-bih-ce-narednih-nekoliko-dana-padati-kisa-na-planinama-snijeg-a-na-jugu-zemlje-suncano/261102023",
+   "image": "https://static.klix.ba/media/images/vijesti/img32_261102023.jpg",
+   "published": "2026-11-02T08:17:00+01:00",
+   "title": [
+    "Kiša u Bosni, sunce u Hercegovini",
+    "Rain in Bosnia, sun in Herzegovina"
+   ],
+   "body": [
+    [
+     [
+      "U Bosni i Hercegovini danas pada kiša.",
+      "Today it is raining in Bosnia and Herzegovina."
+     ],
+     [
+      "Kiša će padati i sutra.",
+      "It will rain tomorrow too."
+     ],
+     [
+      "Na planinama može pasti malo snijega.",
+      "A little snow may fall in the mountains."
+     ]
+    ],
+    [
+     [
+      "Od srijede će u Hercegovini biti sunčano.",
+      "From Wednesday it will be sunny in Herzegovina."
+     ],
+     [
+      "U petak ujutro će biti hladno.",
+      "On Friday morning it will be cold."
+     ],
+     [
+      "Temperatura može pasti na minus dva stepena.",
+      "The temperature can drop to minus two degrees."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "kiša",
+     "rain"
+    ],
+    [
+     "snijeg",
+     "snow"
+    ],
+    [
+     "planina",
+     "mountain"
+    ],
+    [
+     "sunčano",
+     "sunny"
+    ],
+    [
+     "hladno",
+     "cold"
+    ],
+    [
+     "stepen",
+     "degree"
+    ]
+   ]
+  },
+  {
+   "id": "261102026",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/spalletti-prokomentarisao-golcinu-alajbegovica-pa-objasnio-zasto-ga-je-vise-forsirao-u-napadu/261102026",
+   "image": "https://static.klix.ba/media/images/vijesti/img32_261102026.jpg",
+   "published": "2026-11-02T08:12:00+01:00",
+   "title": [
+    "Spalletti pohvalio gol Kerima Alajbegovića",
+    "Spalletti praised Kerim Alajbegović's goal"
+   ],
+   "body": [
+    [
+     [
+      "Juventus je pobijedio Napoli rezultatom 2:0.",
+      "Juventus beat Napoli 2:0."
+     ],
+     [
+      "Prvi gol je dao Kerim Alajbegović.",
+      "Kerim Alajbegović scored the first goal."
+     ],
+     [
+      "On igra za reprezentaciju Bosne i Hercegovine.",
+      "He plays for the Bosnia and Herzegovina national team."
+     ],
+     [
+      "Gol je dao udarcem iz daljine.",
+      "He scored with a long-range shot."
+     ]
+    ],
+    [
+     [
+      "Trener Luciano Spalletti je rekao da je gol bio odličan.",
+      "Coach Luciano Spalletti said the goal was excellent."
+     ],
+     [
+      "Kada Kerim ide naprijed, on je najbolji na toj poziciji.",
+      "When Kerim goes forward, he is the best in that position."
+     ],
+     [
+      "Zato je u drugom poluvremenu igrao više naprijed.",
+      "That is why he played further forward in the second half."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "gol",
+     "goal"
+    ],
+    [
+     "trener",
+     "coach"
+    ],
+    [
+     "reprezentacija",
+     "national team"
+    ],
+    [
+     "udarac",
+     "shot, kick"
+    ],
+    [
+     "pozicija",
+     "position"
+    ],
+    [
+     "poluvrijeme",
+     "half (of a match)"
+    ]
+   ]
+  },
+  {
+   "id": "261102025",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/messi-golom-i-asistencijom-preokrenuo-utakmicu-za-inter-miami-i-donio-mu-pobjedu/261102025",
+   "image": "https://static.klix.ba/media/images/vijesti/img32_261102025.jpg",
+   "published": "2026-11-02T08:11:00+01:00",
+   "title": [
+    "Messi donio pobjedu Inter Miamiju",
+    "Messi brought Inter Miami a win"
+   ],
+   "body": [
+    [
+     [
+      "Inter Miami je igrao protiv New Englanda.",
+      "Inter Miami played against New England."
+     ],
+     [
+      "New England je prvo vodio.",
+      "New England was ahead at first."
+     ],
+     [
+      "Na kraju je Inter Miami pobijedio rezultatom 2:1.",
+      "In the end Inter Miami won 2:1."
+     ]
+    ],
+    [
+     [
+      "Lionel Messi je dao jedan gol.",
+      "Lionel Messi scored one goal."
+     ],
+     [
+      "Imao je i jednu asistenciju.",
+      "He also had one assist."
+     ],
+     [
+      "Zbog ove pobjede tim iduće godine igra na velikom takmičenju.",
+      "Because of this win, the team plays in a big competition next year."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "utakmica",
+     "match, game"
+    ],
+    [
+     "pobjeda",
+     "win, victory"
+    ],
+    [
+     "voditi",
+     "to lead, to be ahead"
+    ],
+    [
+     "gol",
+     "goal"
+    ],
+    [
+     "tim",
+     "team"
+    ],
+    [
+     "takmičenje",
+     "competition"
+    ]
+   ]
+  },
+  {
+   "id": "261102014",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/milioni-rusa-i-ukrajinaca-dobili-upozorenje-na-nuklearni-napad-nakon-sto-je-hakovana-aplikacija-za-uzbune/261102014",
+   "image": "https://static.klix.ba/media/images/vijesti/img32_261102014.jpg",
+   "published": "2026-11-02T08:03:00+01:00",
+   "title": [
+    "Lažno upozorenje na telefonima u Ukrajini i Rusiji",
+    "A false warning on phones in Ukraine and Russia"
+   ],
+   "body": [
+    [
+     [
+      "U nedjelju navečer milioni ljudi dobili su poruku na telefonu.",
+      "On Sunday evening millions of people got a message on their phones."
+     ],
+     [
+      "Poruka je bila upozorenje na nuklearni napad.",
+      "The message was a warning about a nuclear attack."
+     ],
+     [
+      "Ali upozorenje nije bilo istinito.",
+      "But the warning was not true."
+     ]
+    ],
+    [
+     [
+      "Neko je hakovao ukrajinsku aplikaciju za uzbune.",
+      "Someone hacked the Ukrainian app for alerts."
+     ],
+     [
+      "Kasnije je i Rusija rekla da je njena aplikacija napadnuta.",
+      "Later Russia also said that its app was attacked."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "upozorenje",
+     "warning"
+    ],
+    [
+     "poruka",
+     "message"
+    ],
+    [
+     "napad",
+     "attack"
+    ],
+    [
+     "istinit",
+     "true"
+    ],
+    [
+     "aplikacija",
+     "app"
+    ],
+    [
+     "uzbuna",
+     "alarm, alert"
+    ]
+   ]
+  },
+  {
+   "id": "261102021",
+   "source": "Klix.ba",
+   "section": "Biznis",
+   "url": "https://www.klix.ba/biznis/ekonomija/ryanairova-polugodisnja-dobit-pala-15-posto-na-215-milijardi-eura/261102021",
+   "image": "https://static.klix.ba/media/images/vijesti/img32_261102021.jpg",
+   "published": "2026-11-02T07:54:00+01:00",
+   "title": [
+    "Ryanair zaradio manje novca",
+    "Ryanair earned less money"
+   ],
+   "body": [
+    [
+     [
+      "Ryanair je velika avio-kompanija iz Irske.",
+      "Ryanair is a big airline from Ireland."
+     ],
+     [
+      "Kompanija je zaradila 2,15 milijardi eura.",
+      "The company earned 2.15 billion euros."
+     ],
+     [
+      "To je dobit za šest mjeseci, do kraja septembra.",
+      "That is the profit for six months, up to the end of September."
+     ]
+    ],
+    [
+     [
+      "Prošle godine dobit je bila 2,54 milijarde eura.",
+      "Last year the profit was 2.54 billion euros."
+     ],
+     [
+      "Dobit je pala za 15 posto.",
+      "The profit fell by 15 percent."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "zaraditi",
+     "to earn"
+    ],
+    [
+     "novac",
+     "money"
+    ],
+    [
+     "dobit",
+     "profit"
+    ],
+    [
+     "kompanija",
+     "company"
+    ],
+    [
+     "milijarda",
+     "billion"
+    ],
+    [
+     "posto",
+     "percent"
+    ]
+   ]
+  },
+  {
+   "id": "261102016",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/film-tv/ukrajinac-u-supertalentu-nadmasio-guinnessov-rekord-maja-suput-ga-uporedila-s-aladinom/261102016",
+   "image": "https://static.klix.ba/media/images/vijesti/img32_261102016.jpg",
+   "published": "2026-11-02T07:48:00+01:00",
+   "title": [
+    "Ukrajinac oborio Guinnessov rekord na televiziji",
+    "A Ukrainian broke a Guinness record on TV"
+   ],
+   "body": [
+    [
+     [
+      "Supertalent je hrvatska televizijska emisija.",
+      "Supertalent is a Croatian TV show."
+     ],
+     [
+      "U emisiji je nastupio Oleksandr Saša Khoruzenko iz Ukrajine.",
+      "Oleksandr Saša Khoruzenko from Ukraine performed on the show."
+     ],
+     [
+      "On se vrti u velikom metalnom točku.",
+      "He spins inside a big metal wheel."
+     ]
+    ],
+    [
+     [
+      "Za 30 sekundi napravio je 56 okreta.",
+      "In 30 seconds he made 56 turns."
+     ],
+     [
+      "Stari Guinnessov rekord bio je 49 okreta.",
+      "The old Guinness record was 49 turns."
+     ],
+     [
+      "Članica žirija Maja Šuput uporedila ga je s Aladinom.",
+      "Jury member Maja Šuput compared him to Aladdin."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "emisija",
+     "(TV) show"
+    ],
+    [
+     "nastupiti",
+     "to perform"
+    ],
+    [
+     "vrtjeti se",
+     "to spin"
+    ],
+    [
+     "točak",
+     "wheel"
+    ],
+    [
+     "okret",
+     "turn, spin"
+    ],
+    [
+     "oboriti rekord",
+     "to break a record"
+    ]
+   ]
+  },
+  {
+   "id": "261102010",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/kosarka/maestralni-doncic-s-45-poena-srusio-toronto-i-postavio-novi-rekord/261102010",
+   "image": "https://static.klix.ba/media/images/vijesti/img32_261102010.jpg",
+   "published": "2026-11-02T07:22:00+01:00",
+   "title": [
+    "Dončić dao 45 poena protiv Toronta",
+    "Dončić scored 45 points against Toronto"
+   ],
+   "body": [
+    [
+     [
+      "Luka Dončić igra košarku za Los Angeles Lakerse.",
+      "Luka Dončić plays basketball for the Los Angeles Lakers."
+     ],
+     [
+      "Lakersi su pobijedili Toronto rezultatom 131:125.",
+      "The Lakers beat Toronto 131:125."
+     ]
+    ],
+    [
+     [
+      "Dončić je dao 45 poena.",
+      "Dončić scored 45 points."
+     ],
+     [
+      "Imao je i 15 skokova, šest asistencija i pet ukradenih lopti.",
+      "He also had 15 rebounds, six assists and five steals."
+     ],
+     [
+      "Postavio je i novi rekord.",
+      "He also set a new record."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "košarka",
+     "basketball"
+    ],
+    [
+     "pobijediti",
+     "to win, to beat"
+    ],
+    [
+     "poen",
+     "point"
+    ],
+    [
+     "skok",
+     "rebound (lit. jump)"
+    ],
+    [
+     "lopta",
+     "ball"
+    ],
+    [
+     "rekord",
+     "record"
+    ]
+   ]
+  },
+  {
+   "id": "261102009",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/lifestyle/modailjepota/salma-hayek-za-noc-vjestica-postala-plavusa-inspiracija-joj-bila-uloga-penelope-cruz/261102009",
+   "image": "https://static.klix.ba/media/images/vijesti/img32_261102009.jpg",
+   "published": "2026-11-02T07:17:00+01:00",
+   "title": [
+    "Salma Hayek ima novu, plavu kosu",
+    "Salma Hayek has new, blonde hair"
+   ],
+   "body": [
+    [
+     [
+      "Glumica Salma Hayek bila je na zabavi za Noć vještica.",
+      "Actress Salma Hayek was at a Halloween party."
+     ],
+     [
+      "Zabava je bila u subotu u Los Angelesu.",
+      "The party was on Saturday in Los Angeles."
+     ],
+     [
+      "Salma obično ima tamnu kosu.",
+      "Salma usually has dark hair."
+     ],
+     [
+      "Ovaj put je imala plavu kosu do ramena.",
+      "This time she had shoulder-length blonde hair."
+     ]
+    ],
+    [
+     [
+      "Htjela je odati počast prijateljici Penelope Cruz.",
+      "She wanted to pay tribute to her friend Penélope Cruz."
+     ],
+     [
+      "Odati počast znači pokazati poštovanje.",
+      "To pay tribute means to show respect."
+     ],
+     [
+      "Penelope ima takvu kosu u novom filmu „The Invite“.",
+      "Penélope has hair like that in the new film \"The Invite\"."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "kosa",
+     "hair"
+    ],
+    [
+     "plav",
+     "blonde; blue"
+    ],
+    [
+     "taman",
+     "dark"
+    ],
+    [
+     "zabava",
+     "party"
+    ],
+    [
+     "glumica",
+     "actress"
+    ],
+    [
+     "prijateljica",
+     "friend (female)"
+    ]
+   ]
+  },
+  {
+   "id": "261102002",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/zemljotres-tokom-noci-probudio-mnoge-sarajlije-tlo-se-treslo-i-kod-mostara/261102002",
+   "image": "https://static.klix.ba/media/images/vijesti/img32_261102002.jpg",
+   "published": "2026-11-02T06:26:00+01:00",
+   "title": [
+    "Zemljotres probudio ljude u Sarajevu i kod Mostara",
+    "An earthquake woke people in Sarajevo and near Mostar"
+   ],
+   "body": [
+    [
+     [
+      "U ponedjeljak u 01:17 u Sarajevu je bio zemljotres.",
+      "On Monday at 01:17 there was an earthquake in Sarajevo."
+     ],
+     [
+      "Zemljotres je probudio mnoge ljude.",
+      "The earthquake woke up many people."
+     ],
+     [
+      "Ljudi su ga osjetili i na Ilidži i u Vogošći.",
+      "People also felt it in Ilidža and Vogošća."
+     ],
+     [
+      "Mnogi su prvo čuli jak zvuk, kao eksploziju.",
+      "Many first heard a loud sound, like an explosion."
+     ]
+    ],
+    [
+     [
+      "U 04:35 zemlja se tresla i kod Mostara.",
+      "At 04:35 the ground also shook near Mostar."
+     ],
+     [
+      "Najviše prijava je stiglo iz Blagaja.",
+      "Most reports came from Blagaj."
+     ],
+     [
+      "Zemljotres je trajao samo jednu ili dvije sekunde.",
+      "The earthquake lasted only one or two seconds."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "zemljotres",
+     "earthquake"
+    ],
+    [
+     "probuditi",
+     "to wake up"
+    ],
+    [
+     "osjetiti",
+     "to feel"
+    ],
+    [
+     "zvuk",
+     "sound"
+    ],
+    [
+     "tresti se",
+     "to shake"
+    ],
+    [
+     "prijava",
+     "report"
+    ]
+   ]
+  },
+  {
+   "id": "261101013",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/u-rs-u-ljudi-sve-manje-a-automobila-sve-vise-u-2026-se-ocekuje-blizu-pola-miliona-registrovanih-vozila/261101013",
+   "image": "https://static.klix.ba/media/images/vijesti/img32_261101013.jpg",
+   "published": "2026-11-02T06:11:00+01:00",
+   "title": [
+    "Republika Srpska: manje ljudi, više automobila",
+    "Republika Srpska: fewer people, more cars"
+   ],
+   "body": [
+    [
+     [
+      "U Republici Srpskoj danas živi manje ljudi nego 2015. godine.",
+      "Fewer people live in Republika Srpska today than in 2015."
+     ],
+     [
+      "Razlika je 56.695 ljudi.",
+      "The difference is 56,695 people."
+     ],
+     [
+      "Ali automobila ima mnogo više.",
+      "But there are many more cars."
+     ],
+     [
+      "Prošle godine bilo je 417.373 automobila.",
+      "Last year there were 417,373 cars."
+     ]
+    ],
+    [
+     [
+      "Sada ima 378 automobila na 1.000 ljudi.",
+      "There are now 378 cars per 1,000 people."
+     ],
+     [
+      "Prije 10 godina bilo ih je samo 240.",
+      "10 years ago there were only 240."
+     ],
+     [
+      "Plate su veće, a polovni automobili su jeftiniji.",
+      "Wages are higher, and used cars are cheaper."
+     ],
+     [
+      "Do kraja godine može biti skoro 450.000 automobila.",
+      "By the end of the year there could be almost 450,000 cars."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "automobil",
+     "car"
+    ],
+    [
+     "manje",
+     "fewer, less"
+    ],
+    [
+     "više",
+     "more"
+    ],
+    [
+     "razlika",
+     "difference"
+    ],
+    [
+     "plata",
+     "wage, salary"
+    ],
+    [
+     "polovan",
+     "used, second-hand"
+    ]
+   ]
+  },
+  {
+   "id": "261101221",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/latvija-prvi-put-preuzela-predsjedavanje-vijecem-sigurnosti-un-a/261101221",
+   "image": "https://static.klix.ba/media/images/vijesti/img32_261101221.jpg",
+   "published": "2026-11-01T23:47:00+01:00",
+   "title": [
+    "Latvija prvi put vodi Vijeće sigurnosti UN-a",
+    "Latvia leads the UN Security Council for the first time"
+   ],
+   "body": [
+    [
+     [
+      "Od 1. novembra Latvija vodi Vijeće sigurnosti UN-a.",
+      "Since 1 November Latvia has led the UN Security Council."
+     ],
+     [
+      "To je prvi put u historiji Latvije.",
+      "It is the first time in Latvia's history."
+     ],
+     [
+      "Latvija će voditi Vijeće cijeli novembar.",
+      "Latvia will lead the Council for the whole of November."
+     ],
+     [
+      "Vodit će sve sastanke u tom mjesecu.",
+      "It will chair all the meetings that month."
+     ]
+    ],
+    [
+     [
+      "Latvija želi da rat u Ukrajini ostane važna tema.",
+      "Latvia wants the war in Ukraine to remain an important topic."
+     ],
+     [
+      "U utorak, 3. novembra, Vijeće će birati sudije Međunarodnog suda pravde.",
+      "On Tuesday, 3 November, the Council will elect judges of the International Court of Justice."
+     ],
+     [
+      "Vijeće će imati važnu ulogu i u izboru novog šefa UN-a.",
+      "The Council will also have an important role in choosing the new head of the UN."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "voditi",
+     "to lead"
+    ],
+    [
+     "vijeće",
+     "council"
+    ],
+    [
+     "sigurnost",
+     "security"
+    ],
+    [
+     "sastanak",
+     "meeting"
+    ],
+    [
+     "sudija",
+     "judge"
+    ],
+    [
+     "historija",
+     "history"
+    ]
+   ]
+  },
+  {
+   "id": "261101225",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/formula1/kimi-antonelli-postao-najmladi-svjetski-prvak-u-historiji-formule-1-sa-20-godina/261101225",
+   "image": "https://static.klix.ba/media/images/vijesti/img32_261101225.jpg",
+   "published": "2026-11-01T23:24:00+01:00",
+   "title": [
+    "Antonelli je najmlađi prvak Formule 1",
+    "Antonelli is the youngest Formula 1 champion"
+   ],
+   "body": [
+    [
+     [
+      "Kimi Antonelli je novi svjetski prvak u Formuli 1.",
+      "Kimi Antonelli is the new Formula 1 world champion."
+     ],
+     [
+      "On ima samo 20 godina i vozi za Mercedes.",
+      "He is only 20 years old and drives for Mercedes."
+     ],
+     [
+      "Titulu je osvojio na trci u Meksiku.",
+      "He won the title at the race in Mexico."
+     ],
+     [
+      "Na toj trci bio je treći.",
+      "He finished third in that race."
+     ]
+    ],
+    [
+     [
+      "Do kraja sezone ostale su još 4 trke.",
+      "There are still 4 races left until the end of the season."
+     ],
+     [
+      "Prije njega najmlađi prvak bio je Sebastian Vettel.",
+      "Before him, the youngest champion was Sebastian Vettel."
+     ],
+     [
+      "Vettel je 2010. godine imao 23 godine.",
+      "In 2010 Vettel was 23 years old."
+     ],
+     [
+      "Antonelli je prvi italijanski prvak nakon 1953. godine.",
+      "Antonelli is the first Italian champion since 1953."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "prvak",
+     "champion"
+    ],
+    [
+     "voziti",
+     "to drive"
+    ],
+    [
+     "trka",
+     "race"
+    ],
+    [
+     "titula",
+     "title"
+    ],
+    [
+     "sezona",
+     "season"
+    ],
+    [
+     "najmlađi",
+     "youngest"
+    ]
+   ]
+  }
+ ]
 }
