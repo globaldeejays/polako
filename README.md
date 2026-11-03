@@ -1,6 +1,6 @@
 # Polako
 
-News in easy Bosnian. A static PWA that shows short A2 retellings of the latest stories from the feeds in
+News in easy Bosnian. A static PWA that shows A2 retellings (easy, but written for adults) of the latest stories from the feeds in
 `feeds.json`, with photos, a tap-to-translate dictionary (tap a word), sentence translation (press and hold a
 sentence), read-aloud, saved words and offline reading.
 
