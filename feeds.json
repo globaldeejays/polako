@@ -1,0 +1,11 @@
+{
+  "level": "A2",
+  "perRun": 6,
+  "keep": 40,
+  "maxAgeHours": 36,
+  "feeds": [
+    { "name": "Klix.ba", "url": "https://www.klix.ba/rss" }
+  ],
+  "skipSections": ["Promo", "Marketing"],
+  "preferSections": ["BiH", "Svijet", "Sport", "Biznis", "Tehnologija", "Magazin"]
+}

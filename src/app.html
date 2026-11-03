@@ -1,0 +1,558 @@
+<title>Polako vijesti</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=Literata:ital,opsz,wght@0,7..72,400..600;1,7..72,400&display=swap">
+<style>
+/* Layout: one 680px reading column. Feed = masthead, section chips, lead story, thumbnail rows.
+   Article = sticky tool bar over a Literata text column. Dictionary lives in a bottom sheet.
+   Motif: the yellow highlighter, used for "lako" in the logo, tapped words and held sentences. */
+:root{
+  --bg:#F3F5F9; --surface:#FFFFFF; --ink:#151A2C; --muted:#5B6378; --line:#DCE1EA; --soft:#E8ECF5;
+  --accent:#2340C8; --accent-ink:#FFFFFF; --mark:#FFD84D; --mark-ink:#151A2C; --scrim:rgba(14,18,32,.45);
+  --c-bih:#2340C8; --c-svijet:#0E7672; --c-sport:#2B7E3A; --c-biznis:#A85F00; --c-tehnologija:#6A3FC2; --c-magazin:#B3305F; --c-other:#4A5268; --tile-ink:#FFFFFF;
+  --display:"Bricolage Grotesque","Segoe UI",system-ui,sans-serif;
+  --read:"Literata",Georgia,"Times New Roman",serif;
+  --ui:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  --read-size:19px;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0D1120; --surface:#151A2B; --ink:#E7EAF2; --muted:#9AA2B7; --line:#272E45; --soft:#1D2338;
+  --accent:#8FA3FF; --accent-ink:#0D1120; --mark:#F5C93A; --mark-ink:#151A2C; --scrim:rgba(0,0,0,.6);
+  --c-bih:#3450D6; --c-svijet:#13837E; --c-sport:#348C43; --c-biznis:#B56B08; --c-tehnologija:#7650CC; --c-magazin:#BE3D6B; --c-other:#4F5872;
+  color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0D1120; --surface:#151A2B; --ink:#E7EAF2; --muted:#9AA2B7; --line:#272E45; --soft:#1D2338;
+  --accent:#8FA3FF; --accent-ink:#0D1120; --mark:#F5C93A; --mark-ink:#151A2C; --scrim:rgba(0,0,0,.6);
+  --c-bih:#3450D6; --c-svijet:#13837E; --c-sport:#348C43; --c-biznis:#B56B08; --c-tehnologija:#7650CC; --c-magazin:#BE3D6B; --c-other:#4F5872;
+  color-scheme:dark}
+
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{background:var(--bg);color:var(--ink);font-family:var(--ui);font-size:15px;line-height:1.45;-webkit-tap-highlight-color:transparent}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:30;background:var(--bg)}
+a{color:inherit;text-decoration:none}
+button{font:inherit;color:inherit;background:none;border:0;cursor:pointer;padding:0}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:6px}
+.wrap{max-width:680px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+mark{background:linear-gradient(transparent 12%,var(--mark) 12%,var(--mark) 88%,transparent 88%);color:var(--mark-ink);padding:0 .08em;border-radius:2px}
+.label{font-family:var(--ui);font-size:11.5px;font-weight:600;letter-spacing:.07em;text-transform:uppercase;color:var(--muted)}
+
+/* ---------- feed ---------- */
+#feed,#words{padding-bottom:calc(84px + env(safe-area-inset-bottom,0px))}
+.mast{padding-block:22px 6px;display:grid;gap:6px}
+.mast-top,.mast-bottom{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.lvl{font-family:var(--display);font-weight:700;font-size:13px;letter-spacing:.04em;background:var(--ink);color:var(--bg);padding:3px 9px;border-radius:999px}
+.logo{font-family:var(--display);font-weight:800;font-size:clamp(44px,13vw,64px);line-height:.95;letter-spacing:-.035em;margin:6px 0 0;font-variation-settings:"opsz" 96}
+.tag{margin:0;font-family:var(--read);font-size:16px;color:var(--ink)}
+.tag span{color:var(--muted);font-style:italic}
+.updated{font-size:12.5px;color:var(--muted)}
+.install{font-size:13px;font-weight:600;color:var(--accent-ink);background:var(--accent);padding:6px 12px;border-radius:999px}
+.chips{display:flex;gap:8px;overflow-x:auto;scrollbar-width:none;padding-block:14px 6px}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:none;font-size:14px;font-weight:600;padding:7px 14px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--ink)}
+.chip[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:var(--bg)}
+.list{display:grid;gap:0}
+.ph{position:relative;overflow:hidden;background:var(--sec,var(--c-other));color:var(--tile-ink);max-width:100%}
+.ph::before{content:"";position:absolute;inset:0;background:repeating-linear-gradient(135deg,rgba(255,255,255,.09) 0 10px,transparent 10px 22px)}
+.ph::after{content:attr(data-label);position:absolute;left:12px;bottom:8px;font-family:var(--display);font-weight:800;letter-spacing:-.02em;font-size:22px;line-height:1;opacity:.95}
+.ph img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:1;display:block}
+[data-sec="bih"]{--sec:var(--c-bih)} [data-sec="svijet"]{--sec:var(--c-svijet)} [data-sec="sport"]{--sec:var(--c-sport)}
+[data-sec="biznis"]{--sec:var(--c-biznis)} [data-sec="tehnologija"]{--sec:var(--c-tehnologija)} [data-sec="magazin"]{--sec:var(--c-magazin)}
+.lead{display:grid;gap:12px;padding-block:10px 18px;border-bottom:1px solid var(--line)}
+.lead .ph{aspect-ratio:16/10;border-radius:14px}
+.lead .ph::after{font-size:34px;left:16px;bottom:12px}
+.lead h2{font-family:var(--display);font-weight:700;font-size:27px;line-height:1.08;letter-spacing:-.02em;margin:0;text-wrap:balance}
+.teaser{margin:0;font-family:var(--read);font-size:16.5px;color:var(--muted)}
+.row{display:grid;grid-template-columns:minmax(0,1fr) 92px;gap:14px;align-items:start;padding-block:16px;border-bottom:1px solid var(--line)}
+.row h3{font-family:var(--display);font-weight:600;font-size:18.5px;line-height:1.18;letter-spacing:-.01em;margin:4px 0 0;text-wrap:balance}
+.row .ph{width:92px;aspect-ratio:1;border-radius:10px}
+.row .ph::after{font-size:13px;left:8px;bottom:6px}
+.meta{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.meta .sec{color:var(--ink);display:inline-flex;align-items:center;gap:6px}
+.meta .sec::before{content:"";width:8px;height:8px;border-radius:2px;background:var(--sec,var(--c-other))}
+.is-read h2,.is-read h3{color:var(--muted)}
+.is-read .meta::after{content:"✓ pročitano";font-size:11.5px;font-weight:600;letter-spacing:.07em;text-transform:uppercase;color:var(--muted)}
+.about{margin-block:26px 10px;font-size:13px;color:var(--muted);display:grid;gap:6px}
+.about p{margin:0}
+.state{padding-block:48px;text-align:center;display:grid;gap:12px;justify-items:center;color:var(--muted)}
+.btn{font-size:14px;font-weight:600;padding:9px 16px;border-radius:999px;background:var(--ink);color:var(--bg)}
+
+/* ---------- bottom nav ---------- */
+.tabs{position:fixed;left:0;right:0;bottom:0;z-index:20;background:var(--surface);border-top:1px solid var(--line);
+  padding:8px max(16px,env(safe-area-inset-right,0px)) calc(8px + env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px))}
+.tabs-in{max-width:680px;margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.tab{display:flex;align-items:center;justify-content:center;gap:8px;padding:9px;border-radius:12px;font-weight:600;font-size:14px;color:var(--muted)}
+.tab[aria-current="page"]{background:var(--soft);color:var(--ink)}
+.tab svg{width:20px;height:20px}
+.count{font-size:11px;font-weight:700;background:var(--mark);color:var(--mark-ink);border-radius:999px;padding:1px 7px}
+
+/* ---------- article ---------- */
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:15;background:var(--bg);border-bottom:1px solid var(--line)}
+.bar-in{display:flex;align-items:center;gap:6px;padding-block:8px}
+.bar-in .label{flex:1;min-width:0;padding-left:4px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ib{display:inline-flex;align-items:center;justify-content:center;gap:6px;min-width:40px;height:40px;padding:0 10px;border-radius:12px;font-weight:700;font-size:13.5px;color:var(--ink)}
+.ib svg{width:20px;height:20px}
+.ib[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
+.ib:active{background:var(--soft)}
+.art{padding-block:14px 120px}
+.art .ph{aspect-ratio:16/10;border-radius:14px;margin-bottom:16px}
+.art .ph::after{font-size:34px;left:16px;bottom:12px}
+.art h1{font-family:var(--display);font-weight:700;font-size:30px;line-height:1.08;letter-spacing:-.02em;margin:8px 0 10px;text-wrap:balance}
+.art-meta{display:flex;flex-wrap:wrap;gap:6px 10px;margin-bottom:18px}
+.hint{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:10px;align-items:center;background:var(--soft);border-radius:12px;padding:12px 14px;margin-bottom:18px;font-size:14px}
+.hint p{margin:0}
+.hint .en{color:var(--muted);font-size:13px}
+.hint button{font-weight:700;font-size:13px;color:var(--accent)}
+.text{font-family:var(--read);font-size:var(--read-size);line-height:1.62;max-width:65ch;-webkit-user-select:none;user-select:none;-webkit-touch-callout:none}
+.text p{margin:0 0 1em}
+.s{border-radius:4px;transition:background-color .15s}
+.w{cursor:pointer;border-radius:3px;padding:0 1px;margin:0 -1px}
+.w:hover{background:var(--soft)}
+.w.on,.s.on{background:var(--mark);color:var(--mark-ink)}
+.s.reading{background:var(--soft);box-shadow:0 0 0 3px var(--soft)}
+.tr{display:none}
+.show-tr .s{display:block}
+.show-tr .tr{display:block;font-family:var(--ui);font-size:.74em;line-height:1.45;color:var(--muted);margin:2px 0 12px}
+.show-tr .text p{margin-bottom:.6em}
+h1 .tr{font-weight:400;letter-spacing:0}
+.vocab{margin-top:28px;display:grid;gap:10px}
+.vocab-grid{display:flex;flex-wrap:wrap;gap:8px}
+.vchip{display:inline-flex;gap:6px;align-items:baseline;padding:7px 12px;border-radius:10px;background:var(--surface);border:1px solid var(--line);font-size:14px}
+.vchip b{font-family:var(--read);font-weight:600;font-size:15.5px}
+.vchip span{color:var(--muted)}
+.source{margin-top:28px;padding-top:16px;border-top:1px solid var(--line);display:grid;gap:8px;font-size:13.5px;color:var(--muted)}
+.source a{color:var(--accent);font-weight:600}
+
+/* ---------- saved words ---------- */
+.page-h{padding-block:22px 4px;display:flex;align-items:end;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.page-h h1{font-family:var(--display);font-weight:800;font-size:38px;letter-spacing:-.03em;line-height:1;margin:0}
+.toggle{display:inline-flex;align-items:center;gap:8px;font-size:13.5px;font-weight:600;color:var(--muted)}
+.toggle input{width:18px;height:18px;accent-color:var(--accent)}
+.wl{display:grid;gap:10px;margin-top:14px}
+.wcard{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:4px 12px;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:14px 16px}
+.wcard .wd{font-family:var(--read);font-weight:600;font-size:20px}
+.wcard .lm{font-size:12.5px;color:var(--muted)}
+.wcard .gl{grid-column:1/-1;font-size:15px}
+.wcard .cx{grid-column:1/-1;font-family:var(--read);font-size:14px;color:var(--muted);font-style:italic}
+.hide-en .wcard:not(.reveal) .gl{color:transparent;background:var(--soft);border-radius:6px;user-select:none}
+.wcard .rm{align-self:start;width:32px;height:32px;border-radius:10px;color:var(--muted);display:grid;place-items:center}
+.wcard .rm svg{width:18px;height:18px}
+
+/* ---------- bottom sheet ---------- */
+.scrim{position:fixed;inset:0;background:var(--scrim);z-index:40;opacity:0;transition:opacity .18s}
+.scrim.open{opacity:1}
+.sheet{position:fixed;left:0;right:0;bottom:0;z-index:41;transform:translateY(105%);transition:transform .22s cubic-bezier(.2,.8,.2,1)}
+.sheet.open{transform:none}
+.sheet-in{max-width:680px;margin:0 auto;background:var(--surface);border-radius:20px 20px 0 0;border:1px solid var(--line);border-bottom:0;
+  padding:10px max(20px,env(safe-area-inset-right,0px)) calc(20px + env(safe-area-inset-bottom,0px)) max(20px,env(safe-area-inset-left,0px));display:grid;gap:10px}
+.grab{width:40px;height:4px;border-radius:4px;background:var(--line);justify-self:center;margin-bottom:4px}
+.sh-top{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.sh-word{font-family:var(--read);font-weight:600;font-size:30px;line-height:1.1;min-width:0;overflow-wrap:anywhere}
+.sh-lemma{font-size:13px;color:var(--muted)}
+.sh-lemma b{font-family:var(--read);color:var(--ink);font-weight:600;font-size:15px}
+.sh-gloss{font-size:19px;line-height:1.35}
+.sh-sent{font-family:var(--read);font-size:19px;line-height:1.5}
+.sh-ctx{font-family:var(--read);font-size:15px;color:var(--muted);line-height:1.45}
+.sh-ctx mark{color:var(--mark-ink)}
+.sh-actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:6px}
+.pill{display:inline-flex;align-items:center;gap:7px;font-size:14px;font-weight:600;padding:9px 15px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--ink)}
+.pill svg{width:17px;height:17px}
+.pill.primary{background:var(--ink);border-color:var(--ink);color:var(--bg)}
+.pill.saved{background:var(--mark);border-color:var(--mark);color:var(--mark-ink)}
+.muted{color:var(--muted)}
+@media (min-width:720px){.lead h2{font-size:32px}.art h1{font-size:36px}.row .ph{width:120px}.row{grid-template-columns:minmax(0,1fr) 120px}}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<main id="feed">
+  <div class="wrap">
+    <header class="mast">
+      <div class="mast-top"><span class="label" id="today"></span><span class="lvl" id="lvl">A2</span></div>
+      <h1 class="logo">Po<mark>lako</mark></h1>
+      <p class="tag">Vijesti na lakom bosanskom <span>· news in easy Bosnian</span></p>
+      <div class="mast-bottom"><span class="updated" id="updated"></span><button class="install" id="install" hidden>Instaliraj</button></div>
+    </header>
+    <nav class="chips" id="chips" aria-label="Rubrike"></nav>
+    <section class="list" id="list" aria-live="polite"><div class="state">Učitavam vijesti…</div></section>
+    <footer class="about">
+      <p>Svaki članak je kratko prepričavanje vijesti na nivou A2. Dodirni riječ za prijevod, drži rečenicu za cijeli prijevod.</p>
+      <p>Each article is a short A2 retelling of a news story, with a link to the original.</p>
+    </footer>
+  </div>
+</main>
+
+<main id="article" hidden>
+  <div class="bar"><div class="wrap bar-in">
+    <button class="ib" id="back" aria-label="Nazad"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 5l-7 7 7 7"/></svg></button>
+    <span class="label" id="bar-sec"></span>
+    <button class="ib" id="tr-btn" aria-pressed="false" aria-label="Prikaži engleski prijevod">EN</button>
+    <button class="ib" id="play-btn" aria-pressed="false" aria-label="Slušaj članak"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9v6h4l5 4V5L8 9H4z"/><path d="M16.5 8.5a5 5 0 0 1 0 7"/><path d="M19 6a8.5 8.5 0 0 1 0 12"/></svg></button>
+    <button class="ib" id="size-btn" aria-label="Veličina teksta">Aa</button>
+  </div></div>
+  <article class="wrap art" id="art"></article>
+</main>
+
+<main id="words" hidden>
+  <div class="wrap">
+    <header class="page-h">
+      <h1>Moje riječi</h1>
+      <label class="toggle" for="hide-en"><input type="checkbox" id="hide-en"> Sakrij prijevod</label>
+    </header>
+    <p class="muted" id="words-sub"></p>
+    <section class="wl" id="wl"></section>
+  </div>
+</main>
+
+<nav class="tabs" id="tabs" aria-label="Navigacija"><div class="tabs-in">
+  <a class="tab" href="#vijesti" id="tab-feed"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="15" height="16" rx="2"/><path d="M18 8h2a1 1 0 0 1 1 1v9a2 2 0 0 1-4 0"/><path d="M7 8h7M7 12h7M7 16h4"/></svg>Vijesti</a>
+  <a class="tab" href="#rijeci" id="tab-words"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h12v18l-6-4-6 4z"/></svg>Riječi <span class="count" id="count" hidden></span></a>
+</div></nav>
+
+<div class="scrim" id="scrim" hidden></div>
+<section class="sheet" id="sheet" role="dialog" aria-modal="true" aria-label="Rječnik" hidden><div class="sheet-in" id="sheet-in"></div></section>
+
+<script>
+(() => {
+  'use strict';
+  const $ = (s, el = document) => el.querySelector(s);
+  const KEY = 'polako:';
+  const store = {
+    get(k, d) { try { const v = localStorage.getItem(KEY + k); return v == null ? d : JSON.parse(v); } catch { return d; } },
+    set(k, v) { try { localStorage.setItem(KEY + k, JSON.stringify(v)); } catch {} }
+  };
+  const state = {
+    section: store.get('section', 'Sve'),
+    translate: store.get('translate', false),
+    size: store.get('size', 1),
+    saved: store.get('saved', []),
+    read: new Set(store.get('read', [])),
+    hint: store.get('hint', true),
+    hideEn: store.get('hideEn', false)
+  };
+  let NEWS = null, DICT = {}, current = null, sentences = [], feedScroll = 0, fromFeed = false;
+
+  const ICON = {
+    speak: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9v6h4l5 4V5L8 9H4z"/><path d="M16.5 8.5a5 5 0 0 1 0 7"/></svg>',
+    star: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1-4.4-4.3 6.1-.9z"/></svg>',
+    ext: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 4h6v6"/><path d="M20 4l-9 9"/><path d="M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg>',
+    copy: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><rect x="8" y="8" width="12" height="12" rx="2"/><path d="M16 8V5a1 1 0 0 0-1-1H5a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h3"/></svg>',
+    x: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>'
+  };
+
+  // ---------- helpers ----------
+  const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  const WORD = /[\p{L}\p{M}]+(?:-[\p{L}\p{M}]+)*/gu;
+  const lower = (w) => w.toLocaleLowerCase('bs');
+  const DAYS = ['nedjelja', 'ponedjeljak', 'utorak', 'srijeda', 'četvrtak', 'petak', 'subota'];
+  const MONTHS = ['januar', 'februar', 'mart', 'april', 'maj', 'juni', 'juli', 'august', 'septembar', 'oktobar', 'novembar', 'decembar'];
+  const SECTIONS = ['BiH', 'Svijet', 'Sport', 'Biznis', 'Tehnologija', 'Magazin'];
+  const slug = (s) => { const l = lower(s || ''); return SECTIONS.map(lower).includes(l) ? l : 'other'; };
+  function ago(iso) {
+    const m = Math.max(0, Math.round((Date.now() - Date.parse(iso)) / 60000));
+    if (m < 60) return `prije ${m || 1} min`;
+    const h = Math.round(m / 60);
+    if (h < 24) return `prije ${h} h`;
+    const d = Math.round(h / 24);
+    return d === 1 ? 'jučer' : `prije ${d} dana`;
+  }
+  const wordCount = (a) => a.body.flat().reduce((n, s) => n + (s[0].match(WORD) || []).length, 0);
+  const minutes = (a) => Math.max(1, Math.round(wordCount(a) / 90));
+  const sorted = () => NEWS.articles.slice().sort((a, b) => Date.parse(b.published) - Date.parse(a.published));
+
+  function wordsHTML(text) {
+    let out = '', last = 0;
+    for (const m of text.matchAll(WORD)) {
+      out += esc(text.slice(last, m.index)) + `<span class="w">${esc(m[0])}</span>`;
+      last = m.index + m[0].length;
+    }
+    return out + esc(text.slice(last));
+  }
+  function lookup(w) {
+    const lw = lower(w);
+    const key = DICT[lw] != null ? lw : DICT[w] != null ? w : null;
+    const name = w[0] !== lw[0];
+    if (key == null) return { w, l: name ? w : lw, en: null, name };
+    const v = DICT[key], i = v.indexOf('|'), keepCase = key === w && name;
+    return i < 0 ? { w, l: key, en: v, name: keepCase } : { w, l: v.slice(0, i), en: v.slice(i + 1), name: keepCase };
+  }
+  const savedKey = (l) => lower(l);
+  const isSaved = (l) => state.saved.some((x) => x.k === savedKey(l));
+  function imgHTML(a, cls) {
+    const label = a.section || '';
+    return `<div class="ph ${cls || ''}" data-sec="${slug(a.section)}" data-label="${esc(label)}">${a.image ? `<img src="${esc(a.image)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">` : ''}</div>`;
+  }
+  document.addEventListener('error', (e) => { if (e.target && e.target.tagName === 'IMG') e.target.remove(); }, true);
+
+  // ---------- speech ----------
+  let voice = null, playing = false;
+  const canSpeak = 'speechSynthesis' in window;
+  function pickVoice() {
+    if (!canSpeak) return;
+    const vs = speechSynthesis.getVoices();
+    voice = vs.find((v) => /^bs/i.test(v.lang)) || vs.find((v) => /^hr/i.test(v.lang)) || vs.find((v) => /^sr/i.test(v.lang)) || null;
+  }
+  if (canSpeak) { pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
+  function speak(text, onend) {
+    if (!canSpeak) return;
+    try {
+      speechSynthesis.cancel();
+      const u = new SpeechSynthesisUtterance(text);
+      u.lang = voice ? voice.lang : 'bs-BA';
+      if (voice) u.voice = voice;
+      u.rate = 0.85;
+      if (onend) u.onend = onend;
+      speechSynthesis.speak(u);
+    } catch {}
+  }
+  function stopPlay() {
+    playing = false;
+    if (canSpeak) try { speechSynthesis.cancel(); } catch {}
+    document.querySelectorAll('.s.reading').forEach((el) => el.classList.remove('reading'));
+    $('#play-btn').setAttribute('aria-pressed', 'false');
+  }
+  function playFrom(i) {
+    document.querySelectorAll('.s.reading').forEach((el) => el.classList.remove('reading'));
+    if (!playing || i >= sentences.length) return stopPlay();
+    const el = document.querySelector(`.s[data-i="${i}"]`);
+    if (el) { el.classList.add('reading'); el.scrollIntoView({ block: 'center', behavior: 'smooth' }); }
+    speak(sentences[i][0], () => { if (playing) playFrom(i + 1); });
+  }
+  $('#play-btn').addEventListener('click', () => {
+    if (playing) return stopPlay();
+    playing = true;
+    $('#play-btn').setAttribute('aria-pressed', 'true');
+    playFrom(0);
+  });
+  if (!canSpeak) $('#play-btn').hidden = true;
+
+  // ---------- feed ----------
+  function renderChips() {
+    const present = new Set(NEWS.articles.map((a) => a.section));
+    const list = ['Sve', ...SECTIONS.filter((s) => present.has(s)), ...[...present].filter((s) => !SECTIONS.includes(s))];
+    if (!list.includes(state.section)) state.section = 'Sve';
+    $('#chips').innerHTML = list.map((s) => `<button class="chip" aria-pressed="${s === state.section}" data-s="${esc(s)}">${esc(s)}</button>`).join('');
+  }
+  $('#chips').addEventListener('click', (e) => {
+    const b = e.target.closest('.chip'); if (!b) return;
+    state.section = b.dataset.s; store.set('section', state.section);
+    renderChips(); renderList();
+  });
+  function metaHTML(a) {
+    return `<div class="meta"><span class="label sec" data-sec="${slug(a.section)}">${esc(a.section)}</span><span class="label">${ago(a.published)}</span><span class="label">${minutes(a)} min</span></div>`;
+  }
+  function renderList() {
+    const arts = sorted().filter((a) => state.section === 'Sve' || a.section === state.section);
+    if (!arts.length) { $('#list').innerHTML = '<div class="state">Nema vijesti u ovoj rubrici.</div>'; return; }
+    const [lead, ...rest] = arts;
+    const read = (a) => (state.read.has(a.id) ? ' is-read' : '');
+    $('#list').innerHTML =
+      `<a class="lead${read(lead)}" href="#a-${esc(lead.id)}">${imgHTML(lead)}${metaHTML(lead)}<h2>${esc(lead.title[0])}</h2><p class="teaser">${esc(lead.body[0][0][0])}</p></a>` +
+      rest.map((a) => `<a class="row${read(a)}" href="#a-${esc(a.id)}"><div>${metaHTML(a)}<h3>${esc(a.title[0])}</h3></div>${imgHTML(a)}</a>`).join('');
+  }
+  function renderMast() {
+    const d = new Date();
+    $('#today').textContent = `${DAYS[d.getDay()]}, ${d.getDate()}. ${MONTHS[d.getMonth()]}`;
+    $('#lvl').textContent = NEWS.level || 'A2';
+    $('#updated').textContent = NEWS.updated ? `Ažurirano ${ago(NEWS.updated)}` : '';
+  }
+
+  // ---------- article ----------
+  const SIZES = ['17px', '19px', '22px'];
+  function applyPrefs() {
+    document.documentElement.style.setProperty('--read-size', SIZES[state.size] || SIZES[1]);
+    $('#art').classList.toggle('show-tr', state.translate);
+    $('#tr-btn').setAttribute('aria-pressed', String(state.translate));
+  }
+  function sentenceHTML(pair, i) {
+    sentences[i] = pair;
+    return `<span class="s" data-i="${i}">${wordsHTML(pair[0])}</span> <span class="tr">${esc(pair[1])}</span>`;
+  }
+  function renderArticle(a) {
+    current = a; sentences = [];
+    let i = 0;
+    const title = sentenceHTML(a.title, i++);
+    const body = a.body.map((p) => `<p>${p.map((s) => sentenceHTML(s, i++)).join(' ')}</p>`).join('');
+    const vocab = (a.vocab || []).map((v) => `<button class="vchip" data-w="${esc(v[0])}" data-en="${esc(v[1])}"><b>${esc(v[0])}</b><span>${esc(v[1])}</span></button>`).join('');
+    $('#bar-sec').textContent = a.section;
+    $('#art').innerHTML =
+      imgHTML(a) +
+      `<div class="art-meta meta">${metaHTML(a).replace(/^<div class="meta">|<\/div>$/g, '')}<span class="label">${esc(a.source)} · nivo ${esc(a.level || NEWS.level || 'A2')}</span></div>` +
+      (state.hint ? `<div class="hint"><div><p>Dodirni riječ za prijevod. Drži rečenicu za cijelu rečenicu.</p><p class="en">Tap a word to translate it. Press and hold a sentence to translate all of it.</p></div><button id="hint-ok">Razumijem</button></div>` : '') +
+      `<div class="text"><h1>${title}</h1>${body}</div>` +
+      (vocab ? `<section class="vocab"><span class="label">Ključne riječi · key words</span><div class="vocab-grid">${vocab}</div></section>` : '') +
+      `<footer class="source"><span>Tekst je prilagođen za nivo ${esc(NEWS.level || 'A2')} i skraćen. Fotografija i originalni članak: ${esc(a.source)}.</span><a href="${esc(a.url)}" target="_blank" rel="noopener">Pročitaj original na ${esc(a.source)} ↗</a></footer>`;
+    applyPrefs();
+    state.read.add(a.id); store.set('read', [...state.read].slice(-300));
+  }
+  $('#tr-btn').addEventListener('click', () => { state.translate = !state.translate; store.set('translate', state.translate); applyPrefs(); });
+  $('#size-btn').addEventListener('click', () => { state.size = (state.size + 1) % SIZES.length; store.set('size', state.size); applyPrefs(); });
+  $('#back').addEventListener('click', () => { if (fromFeed) history.back(); else location.hash = 'vijesti'; });
+
+  // tap = word, press and hold = sentence
+  const art = $('#art');
+  let press = null, suppressClick = false;
+  art.addEventListener('pointerdown', (e) => {
+    suppressClick = false;
+    const s = e.target.closest('.s'); if (!s) return;
+    press = { x: e.clientX, y: e.clientY, t: setTimeout(() => { suppressClick = true; press = null; try { navigator.vibrate && navigator.vibrate(12); } catch {} openSentence(s); }, 430) };
+  });
+  const cancelPress = () => { if (press) { clearTimeout(press.t); press = null; } };
+  art.addEventListener('pointermove', (e) => { if (press && Math.hypot(e.clientX - press.x, e.clientY - press.y) > 10) cancelPress(); });
+  ['pointerup', 'pointercancel', 'pointerleave'].forEach((ev) => art.addEventListener(ev, cancelPress));
+  art.addEventListener('contextmenu', (e) => { if (e.target.closest('.text')) e.preventDefault(); });
+  art.addEventListener('click', (e) => {
+    if (suppressClick) { suppressClick = false; e.preventDefault(); return; }
+    if (e.target.id === 'hint-ok') { state.hint = false; store.set('hint', false); e.target.closest('.hint').remove(); return; }
+    const w = e.target.closest('.w');
+    if (w) return openWord(w.textContent, w, sentences[+w.closest('.s').dataset.i][0]);
+    const v = e.target.closest('.vchip');
+    if (v) return openWord(v.dataset.w, null, null, { l: v.dataset.w, en: v.dataset.en });
+  });
+
+  // ---------- sheet ----------
+  let marked = null;
+  function openSheet(html) {
+    $('#sheet-in').innerHTML = '<div class="grab"></div>' + html;
+    const sh = $('#sheet'), sc = $('#scrim');
+    sh.hidden = false; sc.hidden = false;
+    requestAnimationFrame(() => { sh.classList.add('open'); sc.classList.add('open'); });
+  }
+  function closeSheet() {
+    const sh = $('#sheet'), sc = $('#scrim');
+    sh.classList.remove('open'); sc.classList.remove('open');
+    setTimeout(() => { sh.hidden = true; sc.hidden = true; }, 220);
+    if (marked) { marked.classList.remove('on'); marked = null; }
+  }
+  $('#scrim').addEventListener('click', closeSheet);
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeSheet(); });
+  const gt = (t) => `https://translate.google.com/?sl=bs&tl=en&op=translate&text=${encodeURIComponent(t)}`;
+
+  function openWord(w, el, ctx, given) {
+    if (marked) marked.classList.remove('on');
+    marked = el; if (el) el.classList.add('on');
+    const info = given ? { w, l: given.l, en: given.en } : lookup(w);
+    const show = info.name ? w : lower(w);
+    const lemma = info.l && lower(info.l) !== lower(show) ? `<div class="sh-lemma">osnovni oblik · <b>${esc(info.l)}</b></div>` : '';
+    const gloss = info.en ? `<div class="sh-gloss">${esc(info.en)}</div>`
+      : info.name || w[0] !== lower(w)[0] ? `<div class="sh-gloss">Ime ili naziv <span class="muted">· a name</span></div>`
+      : `<div class="sh-gloss muted">Nema u rječniku. Otvori prevodilac. <span>· Not in the dictionary yet.</span></div>`;
+    let ctxHTML = '';
+    if (ctx) {
+      const safe = w.replace(/[.*+?^$(){}|[\]\\]/g, '\\$&');
+      const re = new RegExp('(^|[^\\p{L}])(' + safe + ')(?![\\p{L}])', 'u');
+      ctxHTML = '<div class="sh-ctx">' + esc(ctx).replace(re, '$1<mark>$2</mark>') + '</div>';
+    }
+    const saved = isSaved(info.l || show);
+    openSheet(
+      `<div class="sh-top"><div class="sh-word">${esc(show)}</div>${canSpeak ? `<button class="ib" id="sh-speak" aria-label="Izgovori">${ICON.speak}</button>` : ''}</div>` +
+      lemma + gloss + ctxHTML +
+      `<div class="sh-actions">${info.en ? `<button class="pill ${saved ? 'saved' : 'primary'}" id="sh-save">${ICON.star}${saved ? 'Spremljeno' : 'Spremi riječ'}</button>` : ''}<a class="pill" href="${gt(show)}" target="_blank" rel="noopener">${ICON.ext}Prevodilac</a></div>`
+    );
+    const sp = $('#sh-speak'); if (sp) sp.onclick = () => speak(show);
+    const sv = $('#sh-save');
+    if (sv) sv.onclick = () => {
+      const k = savedKey(info.l || show);
+      if (isSaved(k)) state.saved = state.saved.filter((x) => x.k !== k);
+      else state.saved.unshift({ k, w: show, l: info.l || show, en: info.en, ctx: ctx || '', id: current ? current.id : '', t: Date.now() });
+      store.set('saved', state.saved);
+      const now = isSaved(k);
+      sv.className = 'pill ' + (now ? 'saved' : 'primary');
+      sv.innerHTML = ICON.star + (now ? 'Spremljeno' : 'Spremi riječ');
+      renderCount();
+    };
+  }
+  function openSentence(s) {
+    const pair = sentences[+s.dataset.i];
+    if (marked) marked.classList.remove('on');
+    marked = s; s.classList.add('on');
+    openSheet(
+      `<div class="sh-top"><span class="label">Rečenica · sentence</span>${canSpeak ? `<button class="ib" id="sh-speak" aria-label="Izgovori rečenicu">${ICON.speak}</button>` : ''}</div>` +
+      `<div class="sh-sent">${esc(pair[0])}</div><div class="sh-gloss muted">${esc(pair[1])}</div>` +
+      `<div class="sh-actions"><button class="pill" id="sh-copy">${ICON.copy}Kopiraj</button><a class="pill" href="${gt(pair[0])}" target="_blank" rel="noopener">${ICON.ext}Prevodilac</a></div>`
+    );
+    const sp = $('#sh-speak'); if (sp) sp.onclick = () => speak(pair[0]);
+    $('#sh-copy').onclick = (e) => {
+      const b = e.currentTarget;
+      Promise.resolve().then(() => navigator.clipboard.writeText(pair[0] + '\n' + pair[1]))
+        .then(() => { b.innerHTML = ICON.copy + 'Kopirano'; }, () => { b.innerHTML = ICON.copy + 'Ne mogu kopirati'; });
+    };
+  }
+
+  // ---------- saved words ----------
+  function renderCount() {
+    const c = $('#count'); c.textContent = state.saved.length; c.hidden = !state.saved.length;
+  }
+  function renderWords() {
+    $('#hide-en').checked = state.hideEn;
+    $('#wl').classList.toggle('hide-en', state.hideEn);
+    $('#words-sub').textContent = state.saved.length
+      ? (state.hideEn ? 'Prijevod je skriven. Dodirni karticu da ga vidiš.' : `${state.saved.length} spremljenih riječi.`)
+      : 'Još nema riječi. Dodirni riječ u članku i pritisni „Spremi riječ“.';
+    $('#wl').innerHTML = state.saved.map((x) =>
+      `<div class="wcard" data-k="${esc(x.k)}"><div><div class="wd">${esc(x.w)}</div>${lower(x.l) !== lower(x.w) ? `<div class="lm">osnovni oblik · ${esc(x.l)}</div>` : ''}</div>` +
+      `<button class="rm" aria-label="Ukloni ${esc(x.w)}">${ICON.x}</button><div class="gl">${esc(x.en)}</div>${x.ctx ? `<div class="cx">${esc(x.ctx)}</div>` : ''}</div>`).join('');
+  }
+  $('#hide-en').addEventListener('change', (e) => { state.hideEn = e.target.checked; store.set('hideEn', state.hideEn); renderWords(); });
+  $('#wl').addEventListener('click', (e) => {
+    const card = e.target.closest('.wcard'); if (!card) return;
+    if (e.target.closest('.rm')) {
+      state.saved = state.saved.filter((x) => x.k !== card.dataset.k);
+      store.set('saved', state.saved); renderWords(); renderCount(); return;
+    }
+    card.classList.toggle('reveal');
+    if (canSpeak) speak(card.querySelector('.wd').textContent);
+  });
+
+  // ---------- routing ----------
+  function show(view) {
+    ['feed', 'article', 'words'].forEach((v) => { $('#' + v).hidden = v !== view; });
+    $('#tabs').hidden = view === 'article';
+    $('#tab-feed').toggleAttribute('aria-current', view === 'feed'); if (view === 'feed') $('#tab-feed').setAttribute('aria-current', 'page');
+    $('#tab-words').toggleAttribute('aria-current', view === 'words'); if (view === 'words') $('#tab-words').setAttribute('aria-current', 'page');
+  }
+  let lastView = 'feed';
+  function route() {
+    const h = location.hash.slice(1);
+    closeSheet(); stopPlay();
+    if (!NEWS) return;
+    if (h.startsWith('a-')) {
+      const a = NEWS.articles.find((x) => x.id === h.slice(2));
+      if (a) {
+        if (lastView === 'feed') { feedScroll = window.scrollY; fromFeed = true; } else fromFeed = false;
+        renderArticle(a); show('article'); window.scrollTo(0, 0); lastView = 'article'; return;
+      }
+    }
+    if (h === 'rijeci') { renderWords(); show('words'); window.scrollTo(0, 0); lastView = 'words'; return; }
+    const back = lastView === 'article';
+    renderList(); show('feed');
+    window.scrollTo(0, back ? feedScroll : 0);
+    lastView = 'feed';
+  }
+  window.addEventListener('hashchange', route);
+
+  // ---------- install + offline ----------
+  let deferred = null;
+  window.addEventListener('beforeinstallprompt', (e) => { e.preventDefault(); deferred = e; $('#install').hidden = false; });
+  $('#install').addEventListener('click', async () => { if (!deferred) return; deferred.prompt(); try { await deferred.userChoice; } catch {} deferred = null; $('#install').hidden = true; });
+  if ('serviceWorker' in navigator && /^https?:$/.test(location.protocol)) {
+    window.addEventListener('load', () => { navigator.serviceWorker.register('sw.js').catch(() => {}); });
+  }
+
+  // ---------- boot ----------
+  async function load() {
+    try {
+      const [n, d] = await Promise.all([
+        fetch('data/news.json', { cache: 'no-cache' }).then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); }),
+        fetch('data/dict.json', { cache: 'no-cache' }).then((r) => (r.ok ? r.json() : {})).catch(() => ({}))
+      ]);
+      NEWS = n; DICT = d;
+      renderMast(); renderChips(); renderCount(); route();
+    } catch (err) {
+      $('#list').innerHTML = '<div class="state"><p>Ne mogu učitati vijesti. Provjeri internet pa pokušaj ponovo.</p><button class="btn" id="retry">Pokušaj ponovo</button></div>';
+      $('#retry').onclick = load;
+    }
+  }
+  show('feed'); renderCount(); load();
+})();
+</script>
