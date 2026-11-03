@@ -1,7 +1,567 @@
 {
- "updated": "2026-11-03T13:50:00+01:00",
+ "updated": "2026-11-03T18:46:00+01:00",
  "level": "A2",
  "articles": [
+  {
+   "id": "261103287",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/dojavljena-bomba-na-izraelskom-kruzeru-u-grckoj-zbog-mjera-sigurnosti-zadrzano-1537-ljudi/261103287",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261103287.jpg",
+   "published": "2026-11-03T18:41:00+01:00",
+   "title": [
+    "Dojava o bombi na izraelskom kruzeru u Grčkoj",
+    "Bomb threat on an Israeli cruise ship in Greece"
+   ],
+   "body": [
+    [
+     [
+      "Grčka obalska straža pretražuje izraelski kruzer Crown Iris u luci na ostrvu Siros.",
+      "The Greek coast guard is searching the Israeli cruise ship Crown Iris in a port on the island of Syros."
+     ],
+     [
+      "Nepoznata osoba dojavila je da je na trup broda postavljena eksplozivna naprava.",
+      "An unknown person reported that an explosive device had been placed on the ship's hull."
+     ],
+     [
+      "Brod vodi izraelska kompanija Mano Maritime, a plovi pod zastavom Paname.",
+      "The ship is run by the Israeli company Mano Maritime, and it sails under the flag of Panama."
+     ]
+    ],
+    [
+     [
+      "Kruzer je trebao ploviti prema Hajfi u Izraelu, a na njemu je 940 putnika i 597 članova posade.",
+      "The cruise ship was due to sail to Haifa in Israel, and it has 940 passengers and 597 crew members on board."
+     ],
+     [
+      "Zbog mjera sigurnosti zadržano je ukupno 1.537 ljudi.",
+      "Because of the security measures, a total of 1,537 people were held."
+     ],
+     [
+      "Obalska straža pretražila je brod psom za otkrivanje eksploziva, a pomogao im je i privatni ronilac.",
+      "The coast guard searched the ship with an explosives-detection dog, and a private diver helped them."
+     ],
+     [
+      "Na mjesto događaja poslana je i posebna jedinica.",
+      "A special unit was also sent to the scene."
+     ]
+    ],
+    [
+     [
+      "Prvi pregled nije pronašao nikakvu eksplozivnu napravu.",
+      "The first inspection did not find any explosive device."
+     ],
+     [
+      "Stručnjaci obalske straže trebali bi doći oko 20:30 po bosanskom vremenu i obaviti dodatne provjere.",
+      "Coast guard specialists should arrive at about 20:30 Bosnian time and carry out further checks."
+     ],
+     [
+      "Ako ništa ne pronađu, brod bi mogao nastaviti putovanje.",
+      "If they find nothing, the ship could continue its voyage."
+     ],
+     [
+      "Prijetnje bombom prijavljene su i za najmanje sedam letova u Evropi, ali ni tamo nije pronađen eksploziv.",
+      "Bomb threats were also reported for at least seven flights in Europe, but no explosives were found there either."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "kruzer",
+     "cruise ship"
+    ],
+    [
+     "dojaviti",
+     "to report, tip off"
+    ],
+    [
+     "eksploziv",
+     "explosive"
+    ],
+    [
+     "obalska straža",
+     "coast guard"
+    ],
+    [
+     "posada",
+     "crew"
+    ],
+    [
+     "luka",
+     "port"
+    ],
+    [
+     "trup",
+     "hull"
+    ]
+   ]
+  },
+  {
+   "id": "261103269",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/vodovod-sa-stanovnicima-sarajevskih-naselja-dogovorio-kako-ce-vrsiti-redukcije-vode/261103269",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261103269.jpg",
+   "published": "2026-11-03T18:18:00+01:00",
+   "title": [
+    "Vodovod i stanovnici dogovorili kako će se vršiti redukcije vode",
+    "The water utility and residents agreed how water cuts will be carried out"
+   ],
+   "body": [
+    [
+     [
+      "Sarajevski Vodovod i kanalizacija (ViK) dogovorio je sa stanovnicima pet naselja kako će se vršiti redukcije vode.",
+      "The Sarajevo water utility (ViK) agreed with residents of five neighbourhoods how water reductions will be carried out."
+     ],
+     [
+      "Riječ je o naseljima Pogledine, Širokača, Komatin, Jarčedoli i Mahmutovac.",
+      "These are the neighbourhoods of Pogledine, Širokača, Komatin, Jarčedoli and Mahmutovac."
+     ],
+     [
+      "Redukcije će trajati dok traju nepovoljne hidrološke prilike, odnosno dok se stanje na izvorima ne stabilizira.",
+      "The reductions will last as long as the unfavourable hydrological conditions last, that is, until the situation at the water sources becomes stable."
+     ]
+    ],
+    [
+     [
+      "ViK kaže da će pokušati rasporediti dostupnu vodu što racionalnije i svim korisnicima osigurati najbolje moguće snabdijevanje.",
+      "ViK says it will try to distribute the available water as sensibly as possible and give all users the best possible supply."
+     ],
+     [
+      "Dogovoreno je i da će se uspostaviti direktna komunikacija preko imenovanih kontakt osoba.",
+      "It was also agreed that direct communication will be set up through named contact persons."
+     ],
+     [
+      "Tako bi stanovnici bili na vrijeme obaviješteni, a problemi na terenu rješavali bi se brže.",
+      "This way residents would be informed in time, and problems on the ground would be solved faster."
+     ]
+    ],
+    [
+     [
+      "Redukcije vode u Kantonu Sarajevo traju već sedmicama, a ViK navodi da je stanje na izvorima loše nakon višemjesečne suše.",
+      "Water reductions in Sarajevo Canton have been going on for weeks, and ViK says the situation at the sources is poor after a drought lasting several months."
+     ],
+     [
+      "Stanovnici Jarčedola i Pogledina danas su protestovali ispred direkcije ViK-a.",
+      "Residents of Jarčedoli and Pogledine protested today in front of the ViK headquarters."
+     ],
+     [
+      "Rekli su da mjesecima nemaju redovnu vodu, pogotovo noću.",
+      "They said that for months they have not had regular water, especially at night."
+     ],
+     [
+      "Dodali su da računi i dalje stižu kao i prije.",
+      "They added that the bills still arrive as before."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "redukcija",
+     "reduction, cut"
+    ],
+    [
+     "naselje",
+     "neighbourhood"
+    ],
+    [
+     "suša",
+     "drought"
+    ],
+    [
+     "izvor",
+     "source, spring"
+    ],
+    [
+     "snabdijevanje",
+     "supply"
+    ],
+    [
+     "stanovnik",
+     "resident"
+    ],
+    [
+     "račun",
+     "bill"
+    ]
+   ]
+  },
+  {
+   "id": "261103275",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/tuzilastvo-u-rimu-preuzelo-crnu-kutiju-helikoptera-eufor-a-zabiljezila-je-cijeli-let-saslusat-ce-se-i-prezivjeli/261103275",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261103275.jpg",
+   "published": "2026-11-03T18:12:00+01:00",
+   "title": [
+    "Tužilaštvo u Rimu preuzelo crnu kutiju helikoptera EUFOR-a",
+    "Prosecutors in Rome took the black box of the EUFOR helicopter"
+   ],
+   "body": [
+    [
+     [
+      "Tužilaštvo u Rimu preuzelo je crnu kutiju helikoptera Chinook koji se srušio kod Brčkog.",
+      "The prosecutor's office in Rome has taken over the black box of the Chinook helicopter that crashed near Brčko."
+     ],
+     [
+      "Uređaj je zabilježio cijeli let, kretanje helikoptera i sve podatke o njegovom radu.",
+      "The device recorded the whole flight, the movement of the helicopter and all data about its operation."
+     ],
+     [
+      "Stručnjaci italijanskog Ministarstva odbrane pregledat će ga u okviru opsežne istrage.",
+      "Experts of the Italian Ministry of Defence will examine it as part of a broad investigation."
+     ]
+    ],
+    [
+     [
+      "Helikopter misije EUFOR Althea trebao je sletjeti na brčansku pistu da bi se promijenili piloti.",
+      "The helicopter of the EUFOR Althea mission was supposed to land on the Brčko airstrip so that the pilots could be changed."
+     ],
+     [
+      "Prilikom polijetanja izgubio je visinu i udario u tlo.",
+      "During takeoff it lost altitude and hit the ground."
+     ],
+     [
+      "Poginula su četiri italijanska pripadnika EUFOR-a, a jedna narednica preminula je u bolnici.",
+      "Four Italian members of EUFOR died, and one sergeant died in hospital."
+     ],
+     [
+      "Obdukcija u Rimu potvrdila je da su uzrok smrti teške povrede.",
+      "The autopsy in Rome confirmed that the cause of death was severe injuries."
+     ]
+    ],
+    [
+     [
+      "Tužilac Francesco Saverio Musolino ponovo će saslušati preživjele čim im zdravlje to dopusti.",
+      "Prosecutor Francesco Saverio Musolino will question the survivors again as soon as their health allows."
+     ],
+     [
+      "Italijanska policija već je razgovarala s dijelom svjedoka i s trojicom pilota koji su bili u helikopteru.",
+      "Italian police have already spoken with some of the witnesses and with the three pilots who were in the helicopter."
+     ],
+     [
+      "Prema agenciji ANSA, glavna pretpostavka je tehnički kvar, jer su oba pilota imala iste komande.",
+      "According to the agency ANSA, the main assumption is a technical malfunction, because both pilots had the same controls."
+     ],
+     [
+      "Vojno tužilaštvo u Rimu otvorilo je i slučaj protiv nepoznatih osoba zbog sumnje na nemarno gubljenje letjelice.",
+      "The military prosecutor's office in Rome has also opened a case against unknown persons over suspected negligent loss of the aircraft."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "crna kutija",
+     "black box"
+    ],
+    [
+     "tužilaštvo",
+     "prosecutor's office"
+    ],
+    [
+     "istraga",
+     "investigation"
+    ],
+    [
+     "preživjeli",
+     "survivor"
+    ],
+    [
+     "obdukcija",
+     "autopsy"
+    ],
+    [
+     "kvar",
+     "malfunction"
+    ],
+    [
+     "svjedok",
+     "witness"
+    ]
+   ]
+  },
+  {
+   "id": "261103272",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/film-tv/jason-statham-i-guy-ritchie-opet-zajedno-snimaju-akcijski-triler-dogfight-o-kriminalnom-podzemlju/261103272",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261103272.jpg",
+   "published": "2026-11-03T17:56:00+01:00",
+   "title": [
+    "Statham i Ritchie opet zajedno snimaju triler \"Dogfight\"",
+    "Statham and Ritchie make the thriller \"Dogfight\" together again"
+   ],
+   "body": [
+    [
+     [
+      "Netflix je najavio akcijski triler \"Dogfight\", a režira ga Guy Ritchie, dok glavnu ulogu igra Jason Statham.",
+      "Netflix has announced the action thriller \"Dogfight\", which is directed by Guy Ritchie, while Jason Statham plays the main role."
+     ],
+     [
+      "To je njihov sedmi zajednički film.",
+      "It is their seventh film together."
+     ],
+     [
+      "Netflix ga opisuje kao akcijski film o osveti u londonskom kriminalnom podzemlju.",
+      "Netflix describes it as an action film about revenge in London's criminal underworld."
+     ]
+    ],
+    [
+     [
+      "Snimanje u Velikoj Britaniji počinje početkom 2027. godine.",
+      "Filming in the United Kingdom starts at the beginning of 2027."
+     ],
+     [
+      "Datum premijere i ostatak glumačke ekipe još nisu objavljeni.",
+      "The premiere date and the rest of the cast have not been announced yet."
+     ],
+     [
+      "Ritchie piše scenarij, režira i producira, a Statham je i producent.",
+      "Ritchie writes the script, directs and produces, and Statham is also a producer."
+     ],
+     [
+      "Film proizvode kompanije Black Bear Pictures, Toff Guy Films i Punch Palace Productions.",
+      "The film is produced by the companies Black Bear Pictures, Toff Guy Films and Punch Palace Productions."
+     ]
+    ],
+    [
+     [
+      "Njihova saradnja počela je 1998. filmom \"Lock, Stock and Two Smoking Barrels\", Ritchiejevim redateljskim debijem.",
+      "Their cooperation began in 1998 with the film \"Lock, Stock and Two Smoking Barrels\", Ritchie's directing debut."
+     ],
+     [
+      "Za Stathama je to bila prva filmska uloga.",
+      "For Statham it was the first film role."
+     ],
+     [
+      "Zajedno su kasnije snimili i \"Snatch\", \"Revolver\" i \"Wrath of Man\".",
+      "Later they also made \"Snatch\", \"Revolver\" and \"Wrath of Man\" together."
+     ],
+     [
+      "Prije \"Dogfighta\" izaći će njihov film \"Viva La Madness\", nastavak filma \"Layer Cake\".",
+      "Before \"Dogfight\", their film \"Viva La Madness\", a sequel to \"Layer Cake\", will come out."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "najaviti",
+     "to announce"
+    ],
+    [
+     "osveta",
+     "revenge"
+    ],
+    [
+     "podzemlje",
+     "underworld"
+    ],
+    [
+     "scenarij",
+     "script"
+    ],
+    [
+     "premijera",
+     "premiere"
+    ],
+    [
+     "saradnja",
+     "cooperation"
+    ],
+    [
+     "glumačka ekipa",
+     "cast"
+    ]
+   ]
+  },
+  {
+   "id": "261103267",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/tenis/dokovic-preokretom-do-pobjede-nad-vacherotom-i-rekorda-u-parizu/261103267",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261103267.jpg",
+   "published": "2026-11-03T17:39:00+01:00",
+   "title": [
+    "Đoković preokretom do pobjede i rekorda u Parizu",
+    "Đoković wins with a comeback and sets a record in Paris"
+   ],
+   "body": [
+    [
+     [
+      "Novak Đoković pobijedio je Valentina Vacherota iz Monaka rezultatom 2:1 u prvom kolu Mastersa u Parizu.",
+      "Novak Đoković beat Valentin Vacherot of Monaco 2:1 in the first round of the Masters in Paris."
+     ],
+     [
+      "Set rezultati bili su 6:7, 7:5 i 6:1, a meč je trajao oko dva i po sata.",
+      "The set scores were 6:7, 7:5 and 6:1, and the match lasted about two and a half hours."
+     ],
+     [
+      "Sa 39 godina Đoković je najstariji igrač koji je ikad dobio meč na ovom turniru.",
+      "At 39, Đoković is the oldest player who has ever won a match at this tournament."
+     ]
+    ],
+    [
+     [
+      "U prvom setu spasio je tri set lopte pri rezultatu 5:6, a u taj-brejku je vodio 5:3.",
+      "In the first set he saved three set points at 5:6, and in the tiebreak he led 5:3."
+     ],
+     [
+      "Ipak, Vacherot je osvojio zadnja četiri poena i dobio set.",
+      "Still, Vacherot won the last four points and took the set."
+     ],
+     [
+      "U drugom setu Vacherot je poveo 2:0, ali je Đoković uzvratio brejkom, spasio tri brejk lopte kod 4:4 i set dobio brejkom kod 6:5.",
+      "In the second set Vacherot went ahead 2:0, but Đoković answered with a break, saved three break points at 4:4 and won the set with a break at 6:5."
+     ],
+     [
+      "U trećem setu brzo je poveo 4:0 i završio meč.",
+      "In the third set he quickly went ahead 4:0 and finished the match."
+     ]
+    ],
+    [
+     [
+      "Time je prestigao Jimmyja Connorsa, koji je 1991. također pobijedio u Parizu sa 39 godina.",
+      "With this he passed Jimmy Connors, who also won in Paris at the age of 39 in 1991."
+     ],
+     [
+      "Bila je to njegova 51. pobjeda na ovom turniru i prva na Mastersu od marta u Indian Wellsu.",
+      "It was his 51st win at this tournament and his first at a Masters event since March in Indian Wells."
+     ],
+     [
+      "Prije toga je izgubio četiri meča zaredom na ovom nivou, što je njegova najduža takva serija.",
+      "Before that he had lost four matches in a row at this level, which is his longest such streak."
+     ],
+     [
+      "Sljedeći protivnik mu je australijski kvalifikant Rinky Hijikata.",
+      "His next opponent is the Australian qualifier Rinky Hijikata."
+     ],
+     [
+      "Da bi ostao u borbi za ATP Finale u Torinu, mora doći bar do polufinala.",
+      "To stay in the race for the ATP Finals in Turin, he has to reach at least the semifinals."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "preokret",
+     "comeback, turnaround"
+    ],
+    [
+     "pobijediti",
+     "to win, beat"
+    ],
+    [
+     "prvo kolo",
+     "first round"
+    ],
+    [
+     "najstariji",
+     "oldest"
+    ],
+    [
+     "serija",
+     "streak, series"
+    ],
+    [
+     "polufinale",
+     "semifinal"
+    ],
+    [
+     "protivnik",
+     "opponent"
+    ]
+   ]
+  },
+  {
+   "id": "261103153",
+   "source": "Klix.ba",
+   "section": "Biznis",
+   "url": "https://www.klix.ba/biznis/finansije/za-novu-fiskalizaciju-u-federaciji-bih-planirano-423-miliona-km/261103153",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261103153.jpg",
+   "published": "2026-11-03T17:26:00+01:00",
+   "title": [
+    "Za novu fiskalizaciju u Federaciji BiH planirano 42,3 miliona KM",
+    "42.3 million KM planned for new fiscalisation in the Federation of BiH"
+   ],
+   "body": [
+    [
+     [
+      "Federalno ministarstvo finansija u planu nabavki za 2026. predvidjelo je 42,3 miliona KM za novi sistem fiskalizacije.",
+      "In its procurement plan for 2026, the Federal Ministry of Finance planned 42.3 million KM for a new fiscalisation system."
+     ],
+     [
+      "Novac dolazi iz budžeta Porezne uprave FBiH, a nabavka će ići kroz otvoreni postupak s ugovorom na godinu dana.",
+      "The money comes from the budget of the FBiH Tax Administration, and the purchase will go through an open procedure with a one-year contract."
+     ],
+     [
+      "Tender za sada nije objavljen.",
+      "The tender has not been published so far."
+     ]
+    ],
+    [
+     [
+      "Zakon o fiskalizaciji transakcija prelazi s klasičnih fiskalnih kasa na softverske sisteme.",
+      "The Law on Fiscalisation of Transactions moves from classic fiscal cash registers to software systems."
+     ],
+     [
+      "Ti sistemi u realnom vremenu šalju podatke o prometu Poreznoj upravi, pa bi se smanjila siva ekonomija.",
+      "These systems send turnover data to the Tax Administration in real time, so the grey economy would be reduced."
+     ],
+     [
+      "Parlament FBiH usvojio je zakon u januaru 2026, a u Službenom glasniku objavljen je u martu.",
+      "The FBiH Parliament adopted the law in January 2026, and it was published in the Official Gazette in March."
+     ],
+     [
+      "Ministar mora donijeti podzakonske akte u roku od 180 dana, ali ih početkom oktobra još nije bilo.",
+      "The minister has to adopt the bylaws within 180 days, but at the beginning of October they were still not there."
+     ]
+    ],
+    [
+     [
+      "Prema izvorima Klixa, koalicioni partneri se spore oko toga koja firma treba provesti fiskalizaciju.",
+      "According to Klix sources, the coalition partners disagree about which company should carry out the fiscalisation."
+     ],
+     [
+      "Spor se uglavnom odnosi na nabavku i održavanje softvera.",
+      "The dispute mostly concerns the purchase and maintenance of the software."
+     ],
+     [
+      "U Republici Srpskoj Porezna uprava već je dodijelila održavanje svog sistema vrijedno 10,8 miliona KM, a stigla je samo jedna ponuda.",
+      "In Republika Srpska the Tax Administration has already awarded the maintenance of its system worth 10.8 million KM, and only one bid arrived."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "fiskalizacija",
+     "fiscalisation"
+    ],
+    [
+     "nabavka",
+     "procurement"
+    ],
+    [
+     "porezna uprava",
+     "tax administration"
+    ],
+    [
+     "promet",
+     "turnover"
+    ],
+    [
+     "siva ekonomija",
+     "grey economy"
+    ],
+    [
+     "podzakonski akt",
+     "bylaw"
+    ],
+    [
+     "ponuda",
+     "bid, offer"
+    ]
+   ]
+  },
   {
    "id": "261103157",
    "source": "Klix.ba",
