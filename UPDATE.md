@@ -76,4 +76,6 @@ Entry format, one per line:
 Only if at least one article was added: commit `site/data/news.json` and `site/data/dict.json` with the message
 `Vijesti: N novih članaka (YYYY-MM-DD HH:MM)` and push to the default branch. Netlify deploys the push automatically.
 If nothing was new, change nothing and report "no new items".
+Push notifications are sent by Netlify after the deploy (`netlify/functions/`); a run does nothing for them and
+must not touch `netlify/`, `package.json` or `src/`.
 End the run with one line: how many articles were added and their titles.

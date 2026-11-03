@@ -1,0 +1,18 @@
+{
+  "name": "polako",
+  "private": true,
+  "description": "News in easy Bosnian (A2). Static PWA in site/, push notifications via Netlify Functions in netlify/.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^11.1.7",
+    "web-push": "^3.6.7"
+  },
+  "devDependencies": {
+    "@netlify/functions": "^6.0.3",
+    "@types/node": "^22.20.5",
+    "@types/web-push": "^3.6.4"
+  }
+}

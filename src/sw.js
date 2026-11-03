@@ -18,12 +18,40 @@ self.addEventListener('fetch', (e) => {
   if (req.method !== 'GET') return;
   const url = new URL(req.url);
   if (url.origin === location.origin) {
+    if (url.pathname.startsWith('/api/') || url.pathname.startsWith('/.netlify/')) return;      // functions: never cache
     if (url.pathname.includes('/data/')) return e.respondWith(networkFirst(req, DATA));       // news + dictionary: fresh when online
     if (req.mode === 'navigate') return e.respondWith(networkFirst(req, SHELL, 'index.html'));
     return e.respondWith(cacheFirst(req, SHELL));
   }
   if (/(^|\.)fonts\.(googleapis|gstatic)\.com$/.test(url.hostname)) return e.respondWith(cacheFirst(req, FONT));
   if (req.destination === 'image') return e.respondWith(cacheFirst(req, IMG, 150));       // news photos for offline reading
+});
+
+// ---------- push notifications (sent by netlify/functions after a deploy with new articles) ----------
+self.addEventListener('push', (e) => {
+  let d = {};
+  try { d = e.data ? e.data.json() : {}; } catch { d = { body: e.data ? e.data.text() : '' }; }
+  e.waitUntil(self.registration.showNotification(d.title || 'Polako', {
+    body: d.body || 'Nove vijesti na lakom bosanskom.',
+    icon: 'icon-192.png',
+    tag: d.tag || 'polako-news',
+    renotify: true,
+    data: { url: d.url || './' }
+  }));
+});
+self.addEventListener('notificationclick', (e) => {
+  e.notification.close();
+  const target = new URL((e.notification.data && e.notification.data.url) || './', self.registration.scope).href;
+  e.waitUntil((async () => {
+    const wins = await self.clients.matchAll({ type: 'window', includeUncontrolled: true });
+    const win = wins.find((c) => new URL(c.url).origin === location.origin);
+    if (win) {
+      await win.focus();
+      try { await win.navigate(target); } catch { win.postMessage({ type: 'open', url: target }); }
+      return;
+    }
+    await self.clients.openWindow(target);
+  })());
 });
 
 async function networkFirst(req, name, fallback) {

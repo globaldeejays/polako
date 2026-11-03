@@ -19,8 +19,9 @@
 <style>
 /* Layout: one 680px reading column. Feed = masthead, section chips, lead story, thumbnail rows.
    Article = sticky tool bar over a Literata text column. Dictionary lives in a bottom sheet.
-   Motif: the yellow highlighter, used for "lako" in the logo, tapped words and held sentences. */
+   Motif: the yellow highlighter, used for tapped words and held sentences. "lako" in the logo sits on Klix blue. */
 :root{
+  --klix:#004388; --klix-ink:#FFFFFF;
   --bg:#F3F5F9; --surface:#FFFFFF; --ink:#151A2C; --muted:#5B6378; --line:#DCE1EA; --soft:#E8ECF5;
   --accent:#2340C8; --accent-ink:#FFFFFF; --mark:#FFD84D; --mark-ink:#151A2C; --scrim:rgba(14,18,32,.45);
   --c-bih:#2340C8; --c-svijet:#0E7672; --c-sport:#2B7E3A; --c-biznis:#A85F00; --c-tehnologija:#6A3FC2; --c-magazin:#B3305F; --c-other:#4A5268; --tile-ink:#FFFFFF;
@@ -57,10 +58,15 @@ mark{background:linear-gradient(transparent 12%,var(--mark) 12%,var(--mark) 88%,
 .mast-top,.mast-bottom{display:flex;align-items:center;justify-content:space-between;gap:12px}
 .lvl{font-family:var(--display);font-weight:700;font-size:13px;letter-spacing:.04em;background:var(--ink);color:var(--bg);padding:3px 9px;border-radius:999px}
 .logo{font-family:var(--display);font-weight:800;font-size:clamp(44px,13vw,64px);line-height:.95;letter-spacing:-.035em;margin:6px 0 0;font-variation-settings:"opsz" 96}
+.logo mark{background:var(--klix);color:var(--klix-ink);padding:0 .1em .04em;margin-left:.02em;border-radius:.1em}
 .tag{margin:0;font-family:var(--read);font-size:16px;color:var(--ink)}
 .tag span{color:var(--muted);font-style:italic}
 .updated{font-size:12.5px;color:var(--muted)}
 .install{font-size:13px;font-weight:600;color:var(--accent-ink);background:var(--accent);padding:6px 12px;border-radius:999px}
+.mast-actions{display:flex;align-items:center;gap:8px}
+.ib.bell{min-width:36px;height:36px;padding:0;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--muted)}
+.ib.bell svg{width:18px;height:18px}
+.ib.bell[aria-pressed="true"]{background:var(--klix);border-color:var(--klix);color:var(--klix-ink)}
 .chips{display:flex;gap:8px;overflow-x:auto;scrollbar-width:none;padding-block:14px 6px}
 .chips::-webkit-scrollbar{display:none}
 .chip{flex:none;font-size:14px;font-weight:600;padding:7px 14px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--ink)}
@@ -174,6 +180,9 @@ h1 .tr{font-weight:400;letter-spacing:0}
 .pill.primary{background:var(--ink);border-color:var(--ink);color:var(--bg)}
 .pill.saved{background:var(--mark);border-color:var(--mark);color:var(--mark-ink)}
 .muted{color:var(--muted)}
+.sh-note{margin:0;font-size:16px;line-height:1.45}
+.sh-note.en{font-size:14px;color:var(--muted)}
+.pill[disabled]{opacity:.6}
 @media (min-width:720px){.lead h2{font-size:32px}.art h1{font-size:36px}.row .ph{width:120px}.row{grid-template-columns:minmax(0,1fr) 120px}}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
@@ -186,7 +195,7 @@ h1 .tr{font-weight:400;letter-spacing:0}
       <div class="mast-top"><span class="label" id="today"></span><span class="lvl" id="lvl">A2</span></div>
       <h1 class="logo">Po<mark>lako</mark></h1>
       <p class="tag">Vijesti na lakom bosanskom <span>· news in easy Bosnian</span></p>
-      <div class="mast-bottom"><span class="updated" id="updated"></span><button class="install" id="install" hidden>Instaliraj</button></div>
+      <div class="mast-bottom"><span class="updated" id="updated"></span><div class="mast-actions"><button class="install" id="install" hidden>Instaliraj</button><button class="ib bell" id="notif" aria-pressed="false" aria-label="Obavijesti" hidden></button></div></div>
     </header>
     <nav class="chips" id="chips" aria-label="Rubrike"></nav>
     <section class="list" id="list" aria-live="polite"><div class="state">Učitavam vijesti…</div></section>
@@ -426,8 +435,9 @@ h1 .tr{font-weight:400;letter-spacing:0}
   });
 
   // ---------- sheet ----------
-  let marked = null;
+  let marked = null, closing = 0;
   function openSheet(html) {
+    clearTimeout(closing);   // a close started just before must not hide this sheet
     $('#sheet-in').innerHTML = '<div class="grab"></div>' + html;
     const sh = $('#sheet'), sc = $('#scrim');
     sh.hidden = false; sc.hidden = false;
@@ -436,7 +446,8 @@ h1 .tr{font-weight:400;letter-spacing:0}
   function closeSheet() {
     const sh = $('#sheet'), sc = $('#scrim');
     sh.classList.remove('open'); sc.classList.remove('open');
-    setTimeout(() => { sh.hidden = true; sc.hidden = true; }, 220);
+    clearTimeout(closing);
+    closing = setTimeout(() => { sh.hidden = true; sc.hidden = true; }, 220);
     if (marked) { marked.classList.remove('on'); marked = null; }
   }
   $('#scrim').addEventListener('click', closeSheet);
@@ -552,7 +563,82 @@ h1 .tr{font-weight:400;letter-spacing:0}
   $('#install').addEventListener('click', async () => { if (!deferred) return; deferred.prompt(); try { await deferred.userChoice; } catch {} deferred = null; $('#install').hidden = true; });
   if ('serviceWorker' in navigator && /^https?:$/.test(location.protocol)) {
     window.addEventListener('load', () => { navigator.serviceWorker.register('sw.js').catch(() => {}); });
+    navigator.serviceWorker.addEventListener('message', (e) => { if (e.data && e.data.type === 'open' && e.data.url) location.href = e.data.url; });
   }
+
+  // ---------- notifications ----------
+  // The bell asks for permission and registers this device at /api/push. After each deploy that
+  // brings new articles, a Netlify function sends one notification to every registered device.
+  const BELL = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9a6 6 0 0 1 12 0c0 6 2.5 7.5 2.5 7.5h-17S6 15 6 9"/><path d="M10.3 20a1.9 1.9 0 0 0 3.4 0"/></svg>';
+  const PUSH_API = '/api/push';
+  const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+  const standalone = matchMedia('(display-mode: standalone)').matches || navigator.standalone === true;
+  const pushOK = 'serviceWorker' in navigator && 'PushManager' in window && 'Notification' in window && location.protocol === 'https:';
+  const iosNeedsInstall = isIOS && !standalone && !pushOK;
+  const b64u = (s) => { const b = atob((s + '='.repeat((4 - s.length % 4) % 4)).replace(/-/g, '+').replace(/_/g, '/')); return Uint8Array.from(b, (c) => c.charCodeAt(0)); };
+  const swReady = () => Promise.race([navigator.serviceWorker.ready, new Promise((_, no) => setTimeout(() => no(new Error('sw')), 10000))]);
+  async function currentSub() {
+    if (!pushOK || Notification.permission !== 'granted') return null;
+    try { return await (await swReady()).pushManager.getSubscription(); } catch { return null; }
+  }
+  const saveSub = (sub) => fetch(PUSH_API, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify(sub) })
+    .then((r) => { if (!r.ok) throw new Error('save'); store.set('pushSync', Date.now()); });
+  async function turnOn() {
+    const perm = await Notification.requestPermission();   // first await: keeps the tap's user gesture (iOS needs it)
+    if (perm !== 'granted') throw new Error(perm === 'denied' ? 'denied' : 'dismissed');
+    const reg = await swReady();
+    let sub = await reg.pushManager.getSubscription();
+    if (!sub) {
+      const key = await fetch(PUSH_API, { cache: 'no-store' }).then((r) => { if (!r.ok) throw new Error('key'); return r.json(); });
+      sub = await reg.pushManager.subscribe({ userVisibleOnly: true, applicationServerKey: b64u(key.publicKey) });
+    }
+    await saveSub(sub);
+  }
+  async function turnOff() {
+    const sub = await currentSub();
+    if (!sub) return;
+    await fetch(PUSH_API, { method: 'DELETE', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ endpoint: sub.endpoint }) }).catch(() => {});
+    await sub.unsubscribe().catch(() => {});
+  }
+  async function renderBell() {
+    const b = $('#notif');
+    if (!pushOK && !iosNeedsInstall) { b.hidden = true; return; }
+    const on = !!(await currentSub());
+    b.innerHTML = BELL; b.hidden = false;
+    b.setAttribute('aria-pressed', String(on));
+    b.setAttribute('aria-label', on ? 'Obavijesti su uključene' : 'Uključi obavijesti');
+    // Keep the server's copy fresh (it may expire or be lost): re-send at most once a week.
+    if (on && Date.now() - store.get('pushSync', 0) > 7 * 864e5) currentSub().then((s) => s && saveSub(s)).catch(() => {});
+  }
+  async function openNotif() {
+    const top = `<div class="sh-top"><span class="label">Obavijesti · notifications</span></div>`;
+    const note = (bs, en) => `<p class="sh-note">${bs}</p><p class="sh-note en">${en}</p>`;
+    if (iosNeedsInstall) {
+      return openSheet(top + note('Na iPhoneu obavijesti rade kad je Polako na početnom ekranu. Dodirni <b>Dijeli</b> → <b>Dodaj na početni ekran</b>, pa otvori Polako odatle.',
+        'On iPhone, notifications work once Polako is on your Home Screen: tap Share → Add to Home Screen, then open Polako from there.'));
+    }
+    if (Notification.permission === 'denied') {
+      return openSheet(top + note('Obavijesti su blokirane. Dozvoli ih za Polako u postavkama telefona ili preglednika.',
+        'Notifications are blocked. Allow them for Polako in your phone or browser settings.'));
+    }
+    const on = !!(await currentSub());
+    openSheet(top + (on
+      ? note('Obavijesti su uključene. Javit ćemo ti kad stignu nove vijesti, oko 3 puta dnevno.', 'Notifications are on. You will hear from us when new stories arrive, about 3 times a day.') +
+        `<div class="sh-actions"><button class="pill" id="nt-btn">Isključi obavijesti</button></div>`
+      : note('Želiš li obavijest kad stignu nove vijesti? Stižu oko 3 puta dnevno.', 'Get a notification when new stories arrive, about 3 times a day.') +
+        `<div class="sh-actions"><button class="pill primary" id="nt-btn">${BELL}Uključi obavijesti</button></div>`) +
+      `<p class="sh-note en" id="nt-msg" hidden></p>`);
+    const btn = $('#nt-btn'), msg = $('#nt-msg');
+    btn.onclick = () => {
+      btn.disabled = true;
+      const say = (t) => { msg.textContent = t; msg.hidden = false; };
+      (on ? turnOff() : turnOn())
+        .then(() => { say(on ? 'Isključeno. · Turned off.' : 'Uključeno! Poslali smo ti probnu obavijest. · Done, a test notification is on its way.'); btn.hidden = true; })
+        .catch((err) => { btn.disabled = false; say(err.message === 'denied' ? 'Obavijesti su blokirane u postavkama. · Notifications are blocked in settings.' : err.message === 'dismissed' ? 'Nisi dozvolio obavijesti. · Permission was not given.' : 'Nešto nije uspjelo. Pokušaj ponovo. · Something went wrong, please try again.'); })
+        .finally(renderBell);
+    };
+  }
+  $('#notif').addEventListener('click', openNotif);
 
   // ---------- boot ----------
   async function load() {
@@ -568,7 +654,7 @@ h1 .tr{font-weight:400;letter-spacing:0}
       $('#retry').onclick = load;
     }
   }
-  show('feed'); renderCount(); load();
+  show('feed'); renderCount(); load(); renderBell();
 })();
 </script>
 
