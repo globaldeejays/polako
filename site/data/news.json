@@ -1,7 +1,575 @@
 {
- "updated": "2026-11-04T13:45:00+01:00",
+ "updated": "2026-11-04T18:45:00+01:00",
  "level": "A2",
  "articles": [
+  {
+   "id": "261104289",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/rukomet/jedna-si-jedina-odjekivalo-dvoranom-u-sloveniji-navijacica-bih-zaplakala-tokom-himne/261104289",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261104289.jpg",
+   "published": "2026-11-04T18:18:00+01:00",
+   "title": [
+    "Navijači BiH u Kopru pjevali prije utakmice sa Slovenijom",
+    "BiH fans sang in Koper before the match with Slovenia"
+   ],
+   "body": [
+    [
+     [
+      "Rukometaši BiH večeras igraju protiv Slovenije u Kopru.",
+      "The BiH handball players are playing against Slovenia in Koper tonight."
+     ],
+     [
+      "To je prvo kolo kvalifikacija za Evropsko prvenstvo 2028.",
+      "It is the first round of qualifying for the 2028 European Championship."
+     ],
+     [
+      "U grupi su još Češka i Izrael.",
+      "The Czech Republic and Israel are also in the group."
+     ]
+    ],
+    [
+     [
+      "Navijači iz BiH ispunili su dio dvorane i prije početka zajedno pjevali.",
+      "Fans from BiH filled part of the hall and sang together before the start."
+     ],
+     [
+      "Pjesma \"Jedna si jedina\" odjekivala je dvoranom, a jedna navijačica zaplakala je od emocija.",
+      "The song \"Jedna si jedina\" echoed through the hall, and one female fan cried from emotion."
+     ],
+     [
+      "Selektor Damir Doborac na put je išao s problemima, jer su se povrijedila četiri igrača.",
+      "Coach Damir Doborac travelled with problems, because four players were injured."
+     ],
+     [
+      "Najviše brine desna strana odbrane, gdje je jedina opcija Faris Čolaković, čije je zdravlje upitno.",
+      "The biggest worry is the right side of defence, where the only option is Faris Čolaković, whose health is in doubt."
+     ]
+    ],
+    [
+     [
+      "Doborac je rekao da je Slovenija ozbiljan protivnik, ali da BiH neće unaprijed odustati.",
+      "Doborac said that Slovenia is a serious opponent, but that BiH will not give up in advance."
+     ],
+     [
+      "Kapiten Ibrahim Haseljić smatra da tim mora praviti manje tehničkih grešaka.",
+      "Captain Ibrahim Haseljić thinks the team must make fewer technical mistakes."
+     ],
+     [
+      "Sljedeću utakmicu BiH igra u nedjelju u 17:00 protiv Češke u tuzlanskoj dvorani Mejdan.",
+      "BiH plays its next match on Sunday at 17:00 against the Czech Republic in the Mejdan hall in Tuzla."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "rukomet",
+     "handball"
+    ],
+    [
+     "navijač",
+     "fan"
+    ],
+    [
+     "dvorana",
+     "sports hall"
+    ],
+    [
+     "kvalifikacije",
+     "qualifiers"
+    ],
+    [
+     "selektor",
+     "national team coach"
+    ],
+    [
+     "kapiten",
+     "captain"
+    ],
+    [
+     "protivnik",
+     "opponent"
+    ]
+   ]
+  },
+  {
+   "id": "261104291",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/tenis/dokovic-ponovo-razocarao-i-preokretom-izgubio-od-83-tenisera-svijeta/261104291",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261104291.jpg",
+   "published": "2026-11-04T18:08:00+01:00",
+   "title": [
+    "Đoković ispao u Parizu i neće igrati ATP Finale",
+    "Djoković is out in Paris and will not play the ATP Finals"
+   ],
+   "body": [
+    [
+     [
+      "Novak Đoković ispao je u osmini finala Masters turnira u Parizu.",
+      "Novak Djoković was knocked out in the round of 16 of the Masters tournament in Paris."
+     ],
+     [
+      "Pobijedio ga je Australijanac Rinky Hijikata, 83. igrač svijeta.",
+      "He was beaten by the Australian Rinky Hijikata, the 83rd player in the world."
+     ],
+     [
+      "Meč je trajao dva sata i 16 minuta.",
+      "The match lasted two hours and 16 minutes."
+     ]
+    ],
+    [
+     [
+      "Đoković je bolje počeo i prvi set dobio sa 6:2.",
+      "Djoković started better and won the first set 6-2."
+     ],
+     [
+      "Nakon toga je izgubio dva seta zaredom, oba sa 3:6.",
+      "After that he lost two sets in a row, both 6-3."
+     ],
+     [
+      "Zbog tog poraza ne može više među osam najboljih igrača sezone.",
+      "Because of this defeat he can no longer be among the eight best players of the season."
+     ],
+     [
+      "To znači da neće igrati ATP Finale u Torinu.",
+      "This means he will not play the ATP Finals in Turin."
+     ]
+    ],
+    [
+     [
+      "Dan ranije Đoković je pobijedio Valentina Vacherota nakon preokreta.",
+      "The day before, Djoković had beaten Valentin Vacherot after a comeback."
+     ],
+     [
+      "Tom pobjedom postao je najstariji igrač koji je pobijedio na ovom turniru.",
+      "With that win he became the oldest player to win at this tournament."
+     ],
+     [
+      "Ovaj poraz zato mnogim navijačima djeluje još razočaravajuće.",
+      "That is why this defeat seems even more disappointing to many fans."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "osmina finala",
+     "round of 16"
+    ],
+    [
+     "preokret",
+     "comeback, turnaround"
+    ],
+    [
+     "set",
+     "set"
+    ],
+    [
+     "poraz",
+     "defeat"
+    ],
+    [
+     "turnir",
+     "tournament"
+    ],
+    [
+     "sezona",
+     "season"
+    ],
+    [
+     "navijač",
+     "fan"
+    ]
+   ]
+  },
+  {
+   "id": "261104286",
+   "source": "Klix.ba",
+   "section": "Biznis",
+   "url": "https://www.klix.ba/biznis/ekonomija/pale-dionice-tesle-i-spacex-a-nakon-pobjede-demokrata-na-izborima/261104286",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261104286.jpg",
+   "published": "2026-11-04T17:49:00+01:00",
+   "title": [
+    "Dionice Tesle i SpaceX-a pale nakon izbora u SAD-u",
+    "Tesla and SpaceX shares fell after the US elections"
+   ],
+   "body": [
+    [
+     [
+      "Dionice kompanija Tesla i SpaceX pale su nakon pobjede demokrata na izborima u SAD-u.",
+      "The shares of Tesla and SpaceX fell after the Democrats' win in the US elections."
+     ],
+     [
+      "Demokrate su osvojile oba doma Kongresa.",
+      "The Democrats won both houses of Congress."
+     ],
+     [
+      "Prije otvaranja berze Tesla je pala oko 5%, a SpaceX oko 6%.",
+      "Before the stock exchange opened, Tesla fell about 5% and SpaceX about 6%."
+     ]
+    ],
+    [
+     [
+      "Investitori strahuju od strožih pravila za vještačku inteligenciju i od planiranog spajanja Tesle i SpaceX-a.",
+      "Investors fear stricter rules for artificial intelligence and the planned merger of Tesla and SpaceX."
+     ],
+     [
+      "Analitičarka Kathleen Brooks kaže da Kongres ne može zaustaviti spajanje, ali ga može usporiti.",
+      "Analyst Kathleen Brooks says that Congress cannot stop the merger, but it can slow it down."
+     ],
+     [
+      "Obje kompanije imaju sjedište u Teksasu, a tamo su pobijedili demokrate.",
+      "Both companies are headquartered in Texas, and the Democrats won there."
+     ],
+     [
+      "Prema izvještajima, Elon Musk potrošio je skoro 450 miliona dolara na podršku republikancima.",
+      "According to reports, Elon Musk spent almost 450 million dollars supporting the Republicans."
+     ]
+    ],
+    [
+     [
+      "Dionice su porasle zdravstvenim osiguravačima i bolnicama, a Molina Healthcare skočila je skoro 7%.",
+      "Shares rose for health insurers and hospitals, and Molina Healthcare jumped almost 7%."
+     ],
+     [
+      "Porasle su i dionice obnovljive energije, dok su kompanije za vještačku inteligenciju pale.",
+      "Renewable energy shares also rose, while artificial intelligence companies fell."
+     ],
+     [
+      "Gina Hinojosa, buduća guvernerka Teksasa, obećala je da će zaustaviti odobravanje novih data-centara dok se ne usvoje nova pravila.",
+      "Gina Hinojosa, the future governor of Texas, promised to stop approving new data centers until new rules are adopted."
+     ],
+     [
+      "Terminski indeksi su porasli nakon što je Donald Trump rekao da će prihvatiti rezultate izbora.",
+      "Index futures rose after Donald Trump said he would accept the election results."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "dionica",
+     "share, stock"
+    ],
+    [
+     "berza",
+     "stock exchange"
+    ],
+    [
+     "investitor",
+     "investor"
+    ],
+    [
+     "spajanje",
+     "merger"
+    ],
+    [
+     "vještačka inteligencija",
+     "artificial intelligence"
+    ],
+    [
+     "osiguravač",
+     "insurer"
+    ],
+    [
+     "obnovljiva energija",
+     "renewable energy"
+    ]
+   ]
+  },
+  {
+   "id": "261104278",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/konstituirajuca-sjednica-novog-saziva-predsjednistva-bih-bit-ce-odrzana-16-novembra/261104278",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261104278.jpg",
+   "published": "2026-11-04T17:34:00+01:00",
+   "title": [
+    "Novo Predsjedništvo BiH počinje rad 16. novembra",
+    "The new BiH Presidency starts work on 16 November"
+   ],
+   "body": [
+    [
+     [
+      "Novi saziv Predsjedništva BiH održat će prvu, konstituirajuću sjednicu u ponedjeljak, 16. novembra.",
+      "The new Presidency of BiH will hold its first, constituent session on Monday, 16 November."
+     ],
+     [
+      "Tada će novoizabrani članovi i zvanično preuzeti dužnost.",
+      "On that day the newly elected members will also officially take office."
+     ],
+     [
+      "Datum su za novinsku agenciju FENA potvrdili iz institucija.",
+      "The institutions confirmed the date to the news agency FENA."
+     ]
+    ],
+    [
+     [
+      "Predsjedništvo će činiti Denis Bećirović, Darijana Filipović i Željka Cvijanović.",
+      "The Presidency will consist of Denis Bećirović, Darijana Filipović and Željka Cvijanović."
+     ],
+     [
+      "Bećirović i Cvijanović dobili su drugi uzastopni mandat od četiri godine.",
+      "Bećirović and Cvijanović won a second consecutive four-year mandate."
+     ],
+     [
+      "Darijana Filipović, kandidatkinja HDZ-a BiH, zamjenjuje Željka Komšića, dosadašnjeg člana iz reda hrvatskog naroda.",
+      "Darijana Filipović, a candidate of HDZ BiH, replaces Željko Komšić, the outgoing member from the Croat people."
+     ],
+     [
+      "Mandat novih članova traje od 2026. do 2030. godine.",
+      "The mandate of the new members runs from 2026 to 2030."
+     ]
+    ],
+    [
+     [
+      "Centralna izborna komisija potvrdila je rezultate općih izbora 3. novembra.",
+      "The Central Election Commission confirmed the results of the general elections on 3 November."
+     ],
+     [
+      "Izbori su održani 4. oktobra, a potvrda stvara uslove za formiranje novih organa vlasti.",
+      "The elections were held on 4 October, and the confirmation creates the conditions for forming new government bodies."
+     ],
+     [
+      "Prema Ustavu, Predsjedništvo vodi vanjsku politiku i imenuje ambasadore.",
+      "Under the Constitution, the Presidency conducts foreign policy and appoints ambassadors."
+     ],
+     [
+      "Ono također predstavlja BiH u međunarodnim organizacijama.",
+      "It also represents BiH in international organizations."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "sjednica",
+     "session"
+    ],
+    [
+     "saziv",
+     "term, convocation"
+    ],
+    [
+     "mandat",
+     "mandate"
+    ],
+    [
+     "izbori",
+     "elections"
+    ],
+    [
+     "vanjska politika",
+     "foreign policy"
+    ],
+    [
+     "ambasador",
+     "ambassador"
+    ],
+    [
+     "preuzeti dužnost",
+     "to take office"
+    ]
+   ]
+  },
+  {
+   "id": "261104190",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/godinu-dana-od-tragedije-u-domu-penzionera-u-tuzli-17-ugasenih-zivota-i-pitanje-odgovornosti-koje-jos-ceka-epilog/261104190",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261104190.jpg",
+   "published": "2026-11-04T17:28:00+01:00",
+   "title": [
+    "Godinu dana od požara u Domu penzionera u Tuzli",
+    "One year since the fire at the retirement home in Tuzla"
+   ],
+   "body": [
+    [
+     [
+      "Danas je godinu dana od požara u Domu penzionera u Tuzli.",
+      "Today it is one year since the fire at the retirement home in Tuzla."
+     ],
+     [
+      "U požaru 4. novembra 2025. poginulo je 17 osoba, a više od 30 je povrijeđeno.",
+      "In the fire on 4 November 2025, 17 people died and more than 30 were injured."
+     ],
+     [
+      "Pitanje odgovornosti još uvijek nema kraj.",
+      "The question of responsibility still has no end."
+     ]
+    ],
+    [
+     [
+      "Prema prvim nalazima vještaka, požar je izazvao kratki spoj na kablu radio-prijemnika.",
+      "According to the first expert findings, the fire was caused by a short circuit in the cable of a radio receiver."
+     ],
+     [
+      "Kabl je bio stisnut između madraca, zida i metalnog kreveta.",
+      "The cable was squeezed between a mattress, a wall and a metal bed."
+     ],
+     [
+      "Tužilaštvo Tuzlanskog kantona podiglo je optužnicu protiv sedam osoba zbog nemara.",
+      "The Tuzla Canton Prosecutor's Office has indicted seven people for negligence."
+     ],
+     [
+      "Među optuženima su bivši direktor doma i kantonalni inspektor za zaštitu od požara.",
+      "Among the accused are the former director of the home and a cantonal fire inspector."
+     ],
+     [
+      "Tužilaštvo traži da im se na deset godina zabrani obavljanje određenih funkcija.",
+      "The prosecutor asks that they be banned from certain functions for ten years."
+     ]
+    ],
+    [
+     [
+      "U domu je bilo oko 180 štićenika, a oko 110 njih bilo je teško bolesno ili nepokretno.",
+      "There were about 180 residents in the home, and about 110 of them were seriously ill or unable to move."
+     ],
+     [
+      "Tužilaštvo tvrdi da su manjak nadzora, sistema za rano otkrivanje požara i plana evakuacije doprinijeli broju žrtava.",
+      "The prosecutor says that the lack of supervision, early fire detection and an evacuation plan contributed to the number of victims."
+     ],
+     [
+      "Kantonalna inspekcija privremeno je zabranila domu pružanje usluga socijalne zaštite.",
+      "The cantonal inspectorate temporarily banned the home from providing social protection services."
+     ],
+     [
+      "Klix.ba je pisao da dom ipak radi i da u njemu ostaje oko 100 štićenika.",
+      "Klix.ba reported that the home still operates and that about 100 residents remain there."
+     ],
+     [
+      "Iz uprave doma rekli su da je požar bio najbolniji trenutak u njihovoj historiji.",
+      "The home's management said that the fire was the most painful moment in their history."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "požar",
+     "fire"
+    ],
+    [
+     "optužnica",
+     "indictment"
+    ],
+    [
+     "odgovornost",
+     "responsibility"
+    ],
+    [
+     "nemar",
+     "negligence"
+    ],
+    [
+     "štićenik",
+     "resident (of a care home)"
+    ],
+    [
+     "vještak",
+     "expert witness"
+    ],
+    [
+     "kratki spoj",
+     "short circuit"
+    ],
+    [
+     "tužilaštvo",
+     "prosecutor's office"
+    ]
+   ]
+  },
+  {
+   "id": "261104273",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/novi-sok-za-republikance-mike-johnson-najavio-povlacenje-s-cela-stranke-u-predstavnickom-domu-sad-a-nakon-poraza/261104273",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261104273.jpg",
+   "published": "2026-11-04T17:15:00+01:00",
+   "title": [
+    "Mike Johnson napušta vodstvo republikanaca u Predstavničkom domu",
+    "Mike Johnson is leaving the Republican leadership in the House"
+   ],
+   "body": [
+    [
+     [
+      "Predsjednik Predstavničkog doma SAD-a Mike Johnson neće ostati na čelu republikanaca u novom Kongresu.",
+      "The Speaker of the US House of Representatives Mike Johnson will not stay at the head of the Republicans in the new Congress."
+     ],
+     [
+      "To je rekao saradnicima telefonom u srijedu ujutro, samo dan nakon što su demokrate osvojile većinu u domu.",
+      "He told his staff by phone on Wednesday morning, only a day after the Democrats won the majority in the House."
+     ],
+     [
+      "Vijest su potvrdila četiri izvora koja su bila na pozivu, javlja televizija NBC.",
+      "Four sources who were on the call confirmed the news, NBC reports."
+     ]
+    ],
+    [
+     [
+      "Johnson neće tražiti ni mjesto lidera manjine, pa će ta funkcija ostati upražnjena.",
+      "Johnson will not seek the post of minority leader either, so that position will remain vacant."
+     ],
+     [
+      "Republikanci u Predstavničkom domu izabrat će novo vodstvo u utorak, 10. novembra.",
+      "The Republicans in the House will elect new leadership on Tuesday, 10 November."
+     ],
+     [
+      "Johnson je predsjednik doma od 2023, kada su republikanci smijenili Kevina McCarthyja.",
+      "Johnson has been Speaker since 2023, when the Republicans removed Kevin McCarthy."
+     ],
+     [
+      "U oktobru je za CBS rekao da bi ostao na čelu stranke i ako izgubi većinu.",
+      "In October he told CBS that he would stay at the head of the party even if it lost the majority."
+     ]
+    ],
+    [
+     [
+      "U utorak navečer priznao je poraz iz Shreveporta u Louisiani.",
+      "On Tuesday evening he conceded defeat from Shreveport in Louisiana."
+     ],
+     [
+      "Rekao je da je i on razočaran, kao i svaki Amerikanac koji nije zadovoljan rezultatima.",
+      "He said that he is disappointed too, like every American who is not satisfied with the results."
+     ],
+     [
+      "Predvidio je da će republikanci vratiti većinu 2028. godine.",
+      "He predicted that the Republicans will win back the majority in 2028."
+     ],
+     [
+      "Kao razlog poraza naveo je historijsku pojavu da predsjednikova stranka rijetko dobija mjesta na prvim izborima sredinom mandata.",
+      "As the reason for the defeat he named the historical pattern that the president's party rarely gains seats in the first midterm elections."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "predsjednik doma",
+     "Speaker of the House"
+    ],
+    [
+     "većina",
+     "majority"
+    ],
+    [
+     "vodstvo",
+     "leadership"
+    ],
+    [
+     "priznati poraz",
+     "to concede defeat"
+    ],
+    [
+     "smijeniti",
+     "to remove from office"
+    ],
+    [
+     "upražnjen",
+     "vacant"
+    ],
+    [
+     "saradnik",
+     "associate, staff member"
+    ]
+   ]
+  },
   {
    "id": "261104186",
    "source": "Klix.ba",
@@ -3147,410 +3715,6 @@
     [
      "takmičenje",
      "competition"
-    ]
-   ]
-  },
-  {
-   "id": "261102014",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/milioni-rusa-i-ukrajinaca-dobili-upozorenje-na-nuklearni-napad-nakon-sto-je-hakovana-aplikacija-za-uzbune/261102014",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261102014.jpg",
-   "published": "2026-11-02T08:03:00+01:00",
-   "title": [
-    "Lažno upozorenje na telefonima u Ukrajini i Rusiji",
-    "A false warning on phones in Ukraine and Russia"
-   ],
-   "body": [
-    [
-     [
-      "U nedjelju navečer milioni ljudi dobili su poruku na telefonu.",
-      "On Sunday evening millions of people got a message on their phones."
-     ],
-     [
-      "Poruka je bila upozorenje na nuklearni napad.",
-      "The message was a warning about a nuclear attack."
-     ],
-     [
-      "Ali upozorenje nije bilo istinito.",
-      "But the warning was not true."
-     ]
-    ],
-    [
-     [
-      "Neko je hakovao ukrajinsku aplikaciju za uzbune.",
-      "Someone hacked the Ukrainian app for alerts."
-     ],
-     [
-      "Kasnije je i Rusija rekla da je njena aplikacija napadnuta.",
-      "Later Russia also said that its app was attacked."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "upozorenje",
-     "warning"
-    ],
-    [
-     "poruka",
-     "message"
-    ],
-    [
-     "napad",
-     "attack"
-    ],
-    [
-     "istinit",
-     "true"
-    ],
-    [
-     "aplikacija",
-     "app"
-    ],
-    [
-     "uzbuna",
-     "alarm, alert"
-    ]
-   ]
-  },
-  {
-   "id": "261102021",
-   "source": "Klix.ba",
-   "section": "Biznis",
-   "url": "https://www.klix.ba/biznis/ekonomija/ryanairova-polugodisnja-dobit-pala-15-posto-na-215-milijardi-eura/261102021",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261102021.jpg",
-   "published": "2026-11-02T07:54:00+01:00",
-   "title": [
-    "Ryanair zaradio manje novca",
-    "Ryanair earned less money"
-   ],
-   "body": [
-    [
-     [
-      "Ryanair je velika avio-kompanija iz Irske.",
-      "Ryanair is a big airline from Ireland."
-     ],
-     [
-      "Kompanija je zaradila 2,15 milijardi eura.",
-      "The company earned 2.15 billion euros."
-     ],
-     [
-      "To je dobit za šest mjeseci, do kraja septembra.",
-      "That is the profit for six months, up to the end of September."
-     ]
-    ],
-    [
-     [
-      "Prošle godine dobit je bila 2,54 milijarde eura.",
-      "Last year the profit was 2.54 billion euros."
-     ],
-     [
-      "Dobit je pala za 15 posto.",
-      "The profit fell by 15 percent."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "zaraditi",
-     "to earn"
-    ],
-    [
-     "novac",
-     "money"
-    ],
-    [
-     "dobit",
-     "profit"
-    ],
-    [
-     "kompanija",
-     "company"
-    ],
-    [
-     "milijarda",
-     "billion"
-    ],
-    [
-     "posto",
-     "percent"
-    ]
-   ]
-  },
-  {
-   "id": "261102016",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/film-tv/ukrajinac-u-supertalentu-nadmasio-guinnessov-rekord-maja-suput-ga-uporedila-s-aladinom/261102016",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261102016.jpg",
-   "published": "2026-11-02T07:48:00+01:00",
-   "title": [
-    "Ukrajinac oborio Guinnessov rekord na televiziji",
-    "A Ukrainian broke a Guinness record on TV"
-   ],
-   "body": [
-    [
-     [
-      "Supertalent je hrvatska televizijska emisija.",
-      "Supertalent is a Croatian TV show."
-     ],
-     [
-      "U emisiji je nastupio Oleksandr Saša Khoruzenko iz Ukrajine.",
-      "Oleksandr Saša Khoruzenko from Ukraine performed on the show."
-     ],
-     [
-      "On se vrti u velikom metalnom točku.",
-      "He spins inside a big metal wheel."
-     ]
-    ],
-    [
-     [
-      "Za 30 sekundi napravio je 56 okreta.",
-      "In 30 seconds he made 56 turns."
-     ],
-     [
-      "Stari Guinnessov rekord bio je 49 okreta.",
-      "The old Guinness record was 49 turns."
-     ],
-     [
-      "Članica žirija Maja Šuput uporedila ga je s Aladinom.",
-      "Jury member Maja Šuput compared him to Aladdin."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "emisija",
-     "(TV) show"
-    ],
-    [
-     "nastupiti",
-     "to perform"
-    ],
-    [
-     "vrtjeti se",
-     "to spin"
-    ],
-    [
-     "točak",
-     "wheel"
-    ],
-    [
-     "okret",
-     "turn, spin"
-    ],
-    [
-     "oboriti rekord",
-     "to break a record"
-    ]
-   ]
-  },
-  {
-   "id": "261102010",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/kosarka/maestralni-doncic-s-45-poena-srusio-toronto-i-postavio-novi-rekord/261102010",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261102010.jpg",
-   "published": "2026-11-02T07:22:00+01:00",
-   "title": [
-    "Dončić dao 45 poena protiv Toronta",
-    "Dončić scored 45 points against Toronto"
-   ],
-   "body": [
-    [
-     [
-      "Luka Dončić igra košarku za Los Angeles Lakerse.",
-      "Luka Dončić plays basketball for the Los Angeles Lakers."
-     ],
-     [
-      "Lakersi su pobijedili Toronto rezultatom 131:125.",
-      "The Lakers beat Toronto 131:125."
-     ]
-    ],
-    [
-     [
-      "Dončić je dao 45 poena.",
-      "Dončić scored 45 points."
-     ],
-     [
-      "Imao je i 15 skokova, šest asistencija i pet ukradenih lopti.",
-      "He also had 15 rebounds, six assists and five steals."
-     ],
-     [
-      "Postavio je i novi rekord.",
-      "He also set a new record."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "košarka",
-     "basketball"
-    ],
-    [
-     "pobijediti",
-     "to win, to beat"
-    ],
-    [
-     "poen",
-     "point"
-    ],
-    [
-     "skok",
-     "rebound (lit. jump)"
-    ],
-    [
-     "lopta",
-     "ball"
-    ],
-    [
-     "rekord",
-     "record"
-    ]
-   ]
-  },
-  {
-   "id": "261102009",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/lifestyle/modailjepota/salma-hayek-za-noc-vjestica-postala-plavusa-inspiracija-joj-bila-uloga-penelope-cruz/261102009",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261102009.jpg",
-   "published": "2026-11-02T07:17:00+01:00",
-   "title": [
-    "Salma Hayek ima novu, plavu kosu",
-    "Salma Hayek has new, blonde hair"
-   ],
-   "body": [
-    [
-     [
-      "Glumica Salma Hayek bila je na zabavi za Noć vještica.",
-      "Actress Salma Hayek was at a Halloween party."
-     ],
-     [
-      "Zabava je bila u subotu u Los Angelesu.",
-      "The party was on Saturday in Los Angeles."
-     ],
-     [
-      "Salma obično ima tamnu kosu.",
-      "Salma usually has dark hair."
-     ],
-     [
-      "Ovaj put je imala plavu kosu do ramena.",
-      "This time she had shoulder-length blonde hair."
-     ]
-    ],
-    [
-     [
-      "Htjela je odati počast prijateljici Penelope Cruz.",
-      "She wanted to pay tribute to her friend Penélope Cruz."
-     ],
-     [
-      "Odati počast znači pokazati poštovanje.",
-      "To pay tribute means to show respect."
-     ],
-     [
-      "Penelope ima takvu kosu u novom filmu „The Invite“.",
-      "Penélope has hair like that in the new film \"The Invite\"."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "kosa",
-     "hair"
-    ],
-    [
-     "plav",
-     "blonde; blue"
-    ],
-    [
-     "taman",
-     "dark"
-    ],
-    [
-     "zabava",
-     "party"
-    ],
-    [
-     "glumica",
-     "actress"
-    ],
-    [
-     "prijateljica",
-     "friend (female)"
-    ]
-   ]
-  },
-  {
-   "id": "261102002",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/zemljotres-tokom-noci-probudio-mnoge-sarajlije-tlo-se-treslo-i-kod-mostara/261102002",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261102002.jpg",
-   "published": "2026-11-02T06:26:00+01:00",
-   "title": [
-    "Zemljotres probudio ljude u Sarajevu i kod Mostara",
-    "An earthquake woke people in Sarajevo and near Mostar"
-   ],
-   "body": [
-    [
-     [
-      "U ponedjeljak u 01:17 u Sarajevu je bio zemljotres.",
-      "On Monday at 01:17 there was an earthquake in Sarajevo."
-     ],
-     [
-      "Zemljotres je probudio mnoge ljude.",
-      "The earthquake woke up many people."
-     ],
-     [
-      "Ljudi su ga osjetili i na Ilidži i u Vogošći.",
-      "People also felt it in Ilidža and Vogošća."
-     ],
-     [
-      "Mnogi su prvo čuli jak zvuk, kao eksploziju.",
-      "Many first heard a loud sound, like an explosion."
-     ]
-    ],
-    [
-     [
-      "U 04:35 zemlja se tresla i kod Mostara.",
-      "At 04:35 the ground also shook near Mostar."
-     ],
-     [
-      "Najviše prijava je stiglo iz Blagaja.",
-      "Most reports came from Blagaj."
-     ],
-     [
-      "Zemljotres je trajao samo jednu ili dvije sekunde.",
-      "The earthquake lasted only one or two seconds."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "zemljotres",
-     "earthquake"
-    ],
-    [
-     "probuditi",
-     "to wake up"
-    ],
-    [
-     "osjetiti",
-     "to feel"
-    ],
-    [
-     "zvuk",
-     "sound"
-    ],
-    [
-     "tresti se",
-     "to shake"
-    ],
-    [
-     "prijava",
-     "report"
     ]
    ]
   }
