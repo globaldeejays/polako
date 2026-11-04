@@ -1,7 +1,583 @@
 {
- "updated": "2026-11-03T18:46:00+01:00",
+ "updated": "2026-11-04T07:50:00+01:00",
  "level": "A2",
  "articles": [
+  {
+   "id": "261104035",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/kosarka/dzanan-musa-igrao-kosarku-na-303-metra-visine-pogled-na-burj-khalifu-oduzima-dah/261104035",
+   "published": "2026-11-04T07:38:00+01:00",
+   "title": [
+    "Džanan Musa igrao košarku na vrhu nebodera u Dubaiju",
+    "Džanan Musa played basketball on top of a skyscraper in Dubai"
+   ],
+   "body": [
+    [
+     [
+      "Košarkaš Džanan Musa i njegov saigrač Justin Anderson snimili su neobičan video na krovu nebodera u Dubaiju.",
+      "Basketball player Džanan Musa and his teammate Justin Anderson filmed an unusual video on the roof of a skyscraper in Dubai."
+     ],
+     [
+      "Klub Dubai Basketball objavio ga je na svom Instagram profilu.",
+      "The club Dubai Basketball posted it on its Instagram profile."
+     ],
+     [
+      "Igrali su na heliodromu na visini od 303 metra, a iza koša vidi se Burj Khalifa, najviša zgrada na svijetu.",
+      "They played on a helipad at a height of 303 metres, and behind the hoop you can see the Burj Khalifa, the tallest building in the world."
+     ]
+    ],
+    [
+     [
+      "Na snimku se Musa prvo zagrijava s loptom, a zatim zajedno s Andersonom pokazuje nekoliko poteza.",
+      "In the video, Musa first warms up with a ball, and then shows several moves together with Anderson."
+     ],
+     [
+      "Anderson zakuca loptu dok je u pozadini Burj Khalifa.",
+      "Anderson dunks the ball with the Burj Khalifa in the background."
+     ],
+     [
+      "Snimanje se nastavlja i poslije zalaska sunca, pa igrači šutiraju pod reflektorima, a ispred njih je svjetlo grada.",
+      "Filming continues after sunset, so the players shoot under floodlights, with the lights of the city in front of them."
+     ],
+     [
+      "Na kraju dronovi na nebu oblikuju grb kluba.",
+      "At the end, drones form the club crest in the sky."
+     ]
+    ],
+    [
+     [
+      "Video je zajednički projekat kluba i kompanije Red Bull, što pokazuje i opis uz objavu.",
+      "The video is a joint project of the club and the company Red Bull, which the caption of the post also shows."
+     ],
+     [
+      "Musa se krajem oktobra oporavio od povrede.",
+      "Musa recovered from an injury at the end of October."
+     ],
+     [
+      "Dubai je u ponedjeljak u ABA ligi pobijedio Zadar, a ranije je kod kuće savladao i Hapoel u Euroligi.",
+      "On Monday, Dubai beat Zadar in the ABA League, and earlier it also beat Hapoel at home in the EuroLeague."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "neboder",
+     "skyscraper"
+    ],
+    [
+     "koš",
+     "hoop"
+    ],
+    [
+     "saigrač",
+     "teammate"
+    ],
+    [
+     "zakucati",
+     "to dunk"
+    ],
+    [
+     "povreda",
+     "injury"
+    ],
+    [
+     "klub",
+     "club"
+    ],
+    [
+     "snimak",
+     "video, recording"
+    ]
+   ],
+   "source": "Klix.ba",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261104035.jpg"
+  },
+  {
+   "id": "261104041",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/danas-prestanak-padavina-u-bih-narednih-dana-vedrije-uz-hladna-jutra/261104041",
+   "published": "2026-11-04T07:37:00+01:00",
+   "title": [
+    "Kiša u BiH danas staje, slijede vedriji dani i hladna jutra",
+    "Rain in BiH stops today, clearer days and cold mornings follow"
+   ],
+   "body": [
+    [
+     [
+      "Slaba kiša u Bosni danas bi trebala stati do podne.",
+      "Light rain in Bosnia should stop by noon today."
+     ],
+     [
+      "Prema prognozi Federalnog hidrometeorološkog zavoda, do vikenda se ne očekuju nove padavine u većem dijelu zemlje.",
+      "According to the forecast of the Federal Hydrometeorological Institute, no new precipitation is expected in most of the country until the weekend."
+     ],
+     [
+      "Prije podne je moguć i slab snijeg na planinama.",
+      "Before noon, weak snow is also possible in the mountains."
+     ]
+    ],
+    [
+     [
+      "Danas će u Bosni i sjevernoj Hercegovini biti oblačno, a u većem dijelu Hercegovine sunčanije.",
+      "Today it will be cloudy in Bosnia and northern Herzegovina, and sunnier in most of Herzegovina."
+     ],
+     [
+      "Temperature će u Bosni biti od 4 do 10 stepeni, a na jugu do 18.",
+      "Temperatures in Bosnia will be from 4 to 10 degrees, and up to 18 in the south."
+     ],
+     [
+      "U Sarajevu se ujutro očekuje oko 6 stepeni, a preko dana oko 8.",
+      "In Sarajevo, about 6 degrees are expected in the morning and about 8 during the day."
+     ],
+     [
+      "U četvrtak i petak bit će sunčano u Hercegovini, dok će u dijelu Bosne ostati dosta niskih oblaka.",
+      "On Thursday and Friday it will be sunny in Herzegovina, while a lot of low cloud will remain in parts of Bosnia."
+     ]
+    ],
+    [
+     [
+      "Najveća promjena stiže u subotu, kada se očekuje najhladnije jutro ove sedmice.",
+      "The biggest change arrives on Saturday, when the coldest morning of this week is expected."
+     ],
+     [
+      "Temperatura će ponegdje pasti ispod nule, a u Sarajevu bi mogla biti oko 0 stepeni.",
+      "The temperature will drop below zero in some places, and in Sarajevo it could be around 0 degrees."
+     ],
+     [
+      "Preko dana će biti od 7 do 12 stepeni, a na jugu do 16.",
+      "During the day it will be from 7 to 12 degrees, and up to 16 in the south."
+     ],
+     [
+      "U Trebinju se u drugom dijelu dana očekuje kiša.",
+      "In Trebinje, rain is expected in the second part of the day."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "padavine",
+     "precipitation"
+    ],
+    [
+     "prognoza",
+     "forecast"
+    ],
+    [
+     "oblačno",
+     "cloudy"
+    ],
+    [
+     "sunčano",
+     "sunny"
+    ],
+    [
+     "stepen",
+     "degree"
+    ],
+    [
+     "jutro",
+     "morning"
+    ],
+    [
+     "snijeg",
+     "snow"
+    ]
+   ],
+   "source": "Klix.ba",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261104041.jpg"
+  },
+  {
+   "id": "261104038",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/lifestyle/zdravlje/energetska-pica-cesce-povezana-sa-srcanim-zastojem-i-infarktom-kod-mladih/261104038",
+   "published": "2026-11-04T07:27:00+01:00",
+   "title": [
+    "Energetska pića povezana sa srčanim problemima kod mladih",
+    "Energy drinks linked to heart problems in young people"
+   ],
+   "body": [
+    [
+     [
+      "Nova analiza Američkog udruženja za srce povezuje energetska pića s češćim srčanim zastojem i infarktom.",
+      "A new analysis by the American Heart Association links energy drinks to more frequent cardiac arrest and heart attack."
+     ],
+     [
+      "Isto vrijedi za dodatke prehrani koji sadrže kofein i druge stimulanse.",
+      "The same applies to dietary supplements that contain caffeine and other stimulants."
+     ],
+     [
+      "Najviše prijava dolazi od osoba između 18 i 34 godine.",
+      "Most reports come from people between 18 and 34 years old."
+     ]
+    ],
+    [
+     [
+      "Istraživači su pregledali 28.345 prijava štetnih događaja koje je američka agencija FDA primila od 2017. do 2025. godine.",
+      "Researchers reviewed 28,345 reports of adverse events that the American agency FDA received from 2017 to 2025."
+     ],
+     [
+      "U 854 prijave bili su uključeni energetski napici ili takvi dodaci.",
+      "In 854 reports, energy drinks or such supplements were involved."
+     ],
+     [
+      "Srčani zastoj prijavljivan je oko 11 puta češće nego kod proizvoda bez tih sastojaka, a infarkt oko 4,5 puta češće.",
+      "Cardiac arrest was reported about 11 times more often than with products without these ingredients, and heart attack about 4.5 times more often."
+     ],
+     [
+      "Oko 45 posto prijava odnosilo se na osobe od 18 do 34 godine, koje se obično ne smatraju rizičnom grupom.",
+      "About 45 percent of the reports concerned people aged 18 to 34, who are usually not considered a risk group."
+     ]
+    ],
+    [
+     [
+      "Autori naglašavaju da rezultati pokazuju samo vezu, a ne dokaz da su proizvodi izazvali probleme.",
+      "The authors stress that the results show only a link, not proof that the products caused the problems."
+     ],
+     [
+      "Prijave FDA su dobrovoljne, pa se ne zna koliko je ljudi popilo ova pića bez posljedica.",
+      "FDA reports are voluntary, so it is not known how many people drank these drinks without consequences."
+     ],
+     [
+      "Za većinu odraslih bezbjedno je do 400 mg kofeina dnevno, otprilike pet šoljica kafe.",
+      "For most adults, up to 400 mg of caffeine per day is safe, roughly five cups of coffee."
+     ],
+     [
+      "Ljekari bi, prema autorima, trebali pitati mlade s lupanjem srca ili bolom u grudima piju li redovno energetska pića.",
+      "According to the authors, doctors should ask young people with a racing heart or chest pain whether they regularly drink energy drinks."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "srčani zastoj",
+     "cardiac arrest"
+    ],
+    [
+     "infarkt",
+     "heart attack"
+    ],
+    [
+     "kofein",
+     "caffeine"
+    ],
+    [
+     "istraživač",
+     "researcher"
+    ],
+    [
+     "prijava",
+     "report"
+    ],
+    [
+     "dodatak prehrani",
+     "dietary supplement"
+    ],
+    [
+     "rizik",
+     "risk"
+    ]
+   ],
+   "source": "Klix.ba",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261104038.jpg"
+  },
+  {
+   "id": "261104024",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/gina-hinojosa-srusila-grega-abbotta-teksas-nakon-36-godina-izabrao-demokratsku-guvernerku/261104024",
+   "published": "2026-11-04T06:54:00+01:00",
+   "title": [
+    "Teksas nakon 36 godina bira demokratsku guvernerku",
+    "After 36 years, Texas elects a Democratic governor"
+   ],
+   "body": [
+    [
+     [
+      "Demokratkinja Gina Hinojosa pobijedila je republikanca Grega Abbotta na izborima za guvernera Teksasa.",
+      "Democrat Gina Hinojosa defeated Republican Greg Abbott in the election for governor of Texas."
+     ],
+     [
+      "Prema projekciji agencije AP, ona je prva Latinoamerikanka na čelu Teksasa.",
+      "According to an AP projection, she is the first Latina to lead Texas."
+     ],
+     [
+      "Ujedno je prva demokratska guvernerka izabrana u toj državi od 1990. godine.",
+      "She is also the first Democratic governor elected in that state since 1990."
+     ]
+    ],
+    [
+     [
+      "Prema neslužbenim rezultatima, Hinojosa je dobila 4.357.768 glasova, a Abbott 3.740.819.",
+      "According to unofficial results, Hinojosa got 4,357,768 votes and Abbott 3,740,819."
+     ],
+     [
+      "Razlika je veća od 600.000 glasova.",
+      "The difference is more than 600,000 votes."
+     ],
+     [
+      "Abbott je priznao poraz nekoliko sati nakon zatvaranja birališta.",
+      "Abbott conceded defeat a few hours after the polls closed."
+     ],
+     [
+      "Rekao je da još ima glasova za prebrojavanje, ali da matematički ne mogu pobijediti.",
+      "He said there were still votes to count, but that mathematically they could not win."
+     ],
+     [
+      "Na čelu Teksasa bio je od 2015. godine.",
+      "He had led Texas since 2015."
+     ]
+    ],
+    [
+     [
+      "Hinojosa je advokatica za radno pravo i od 2017. je zastupnica u parlamentu Teksasa.",
+      "Hinojosa is a labour-law attorney and has been a member of the Texas legislature since 2017."
+     ],
+     [
+      "U kampanji se bavila troškovima života i javnim obrazovanjem.",
+      "In her campaign she focused on the cost of living and public education."
+     ],
+     [
+      "Obećala je da će koristiti pravo veta, među ostalim protiv novih izbornih mapa u korist jedne stranke.",
+      "She promised to use her veto power, among other things against new electoral maps in favour of one party."
+     ],
+     [
+      "Dužnost preuzima u januaru 2027. godine.",
+      "She takes office in January 2027."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "guverner",
+     "governor"
+    ],
+    [
+     "izbori",
+     "elections"
+    ],
+    [
+     "pobijediti",
+     "to win"
+    ],
+    [
+     "glas",
+     "vote"
+    ],
+    [
+     "priznati poraz",
+     "to concede defeat"
+    ],
+    [
+     "biralište",
+     "polling station"
+    ],
+    [
+     "kampanja",
+     "campaign"
+    ],
+    [
+     "obrazovanje",
+     "education"
+    ]
+   ],
+   "source": "Klix.ba",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261104024.jpg"
+  },
+  {
+   "id": "261104016",
+   "section": "Biznis",
+   "url": "https://www.klix.ba/biznis/ekonomija/predsjednik-sindikalista-samir-kurtovic-trazimo-minimalnu-platu-od-1500-km-do-kraja-godine-ili-radnici-odlaze/261104016",
+   "published": "2026-11-04T06:41:00+01:00",
+   "title": [
+    "Sindikati traže minimalnu platu od 1.500 KM do kraja godine",
+    "Unions demand a minimum wage of 1,500 KM by the end of the year"
+   ],
+   "body": [
+    [
+     [
+      "Savez samostalnih sindikata BiH formalno će predložiti da minimalna plata u Federaciji bude najmanje 1.500 KM.",
+      "The Confederation of Independent Trade Unions of BiH will formally propose that the minimum wage in the Federation be at least 1,500 KM."
+     ],
+     [
+      "To je u emisiji na TVSA potvrdio predsjednik Saveza Samir Kurtović.",
+      "The president of the Confederation, Samir Kurtović, confirmed this on the show on TVSA."
+     ],
+     [
+      "Prijedlog će poslati Ekonomsko-socijalnom vijeću i traži hitnu sjednicu.",
+      "He will send the proposal to the Economic-Social Council and is asking for an urgent session."
+     ]
+    ],
+    [
+     [
+      "Kurtović kaže da radnici s današnjim platama ne mogu pratiti rast cijena.",
+      "Kurtović says that workers on today's wages cannot keep up with rising prices."
+     ],
+     [
+      "Podsjetio je da minimalna plata u Hrvatskoj iznosi oko 1.130 eura, a u EU između 1.200 i 1.400 eura.",
+      "He reminded that the minimum wage in Croatia is about 1,130 euros, and in the EU between 1,200 and 1,400 euros."
+     ],
+     [
+      "Cijene u EU su, prema njegovim riječima, gotovo iste kao u BiH.",
+      "Prices in the EU are, according to him, almost the same as in BiH."
+     ],
+     [
+      "Zato radnici odlaze u inostranstvo, gdje mogu zaraditi otprilike duplo više.",
+      "That is why workers are leaving for abroad, where they can earn roughly double."
+     ]
+    ],
+    [
+     [
+      "Sindikat ne želi prijedlog zakona po kojem bi minimalac iznosio 70 posto prosječne plate.",
+      "The union does not want the draft law under which the minimum wage would be 70 percent of the average wage."
+     ],
+     [
+      "Smatra da to odgovara samo radnicima s osnovnom školom, pa traži jasne platne razrede prema obrazovanju.",
+      "It believes this suits only workers with primary education, so it demands clear pay grades according to education."
+     ],
+     [
+      "Razgovor s Vladom FBiH i poslodavcima očekuje se sljedeće sedmice.",
+      "A meeting with the Federation Government and employers is expected next week."
+     ],
+     [
+      "Sindikat želi da se pregovori završe do kraja godine jer, kako kaže, radnici ne mogu čekati.",
+      "The union wants the talks to end by the end of the year because, as it says, workers cannot wait."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "plata",
+     "salary, wage"
+    ],
+    [
+     "sindikat",
+     "trade union"
+    ],
+    [
+     "radnik",
+     "worker"
+    ],
+    [
+     "poslodavac",
+     "employer"
+    ],
+    [
+     "prijedlog",
+     "proposal"
+    ],
+    [
+     "cijena",
+     "price"
+    ],
+    [
+     "vijeće",
+     "council"
+    ],
+    [
+     "zakon",
+     "law"
+    ]
+   ],
+   "source": "Klix.ba",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261104016.jpg"
+  },
+  {
+   "id": "261104017",
+   "section": "Tehnologija",
+   "url": "https://www.klix.ba/scitech/nauka/fascinantno-otkrice-pomocu-ct-skenera-provalili-sifru-na-katancu-s-brodoloma-iz-16-stoljeca/261104017",
+   "published": "2026-11-04T06:31:00+01:00",
+   "title": [
+    "CT skener otkrio šifru katanca s brodoloma iz 16. stoljeća",
+    "CT scanner reveals the code of a padlock from a 16th-century shipwreck"
+   ],
+   "body": [
+    [
+     [
+      "Naučnici su pomoću 3D skeniranja otkrili šifru mjedenog katanca starog oko 400 godina.",
+      "Scientists used 3D scanning to discover the code of a brass padlock about 400 years old."
+     ],
+     [
+      "Katanac je pronađen na obali Velsa, a šifra se sastoji od četiri slova: ANCE.",
+      "The padlock was found on the coast of Wales, and the code consists of four letters: ANCE."
+     ],
+     [
+      "Analizu su radili stručnjaci s Univerziteta u Cardiffu i Nacionalnog muzeja Velsa.",
+      "The analysis was done by experts from Cardiff University and the National Museum Wales."
+     ]
+    ],
+    [
+     [
+      "Katanac je 1999. godine metal-detektorom pronašao Peter Hughes, koji je tada imao 69 godina.",
+      "The padlock was found in 1999 with a metal detector by Peter Hughes, who was 69 years old at the time."
+     ],
+     [
+      "Pripadao je teretu trgovačkog broda Ann Francis, koji je u oluji potonuo 28. decembra 1583.",
+      "It belonged to the cargo of the merchant ship Ann Francis, which sank in a storm on 28 December 1583."
+     ],
+     [
+      "Hughes je oko 20 godina pokušavao otvoriti katanac okretanjem koturića, ali nije uspio.",
+      "For about 20 years Hughes tried to open the padlock by turning the dials, but he did not succeed."
+     ],
+     [
+      "Brava ima četiri prstena sa po šest slova, što daje 1.296 mogućih kombinacija.",
+      "The lock has four rings with six letters each, which gives 1,296 possible combinations."
+     ]
+    ],
+    [
+     [
+      "David Williams je koristio industrijski mikro-CT skener, koji može pogledati unutar metala bez oštećenja.",
+      "David Williams used an industrial micro-CT scanner, which can look inside metal without damaging it."
+     ],
+     [
+      "Prvo skeniranje iznenadilo je tim jer su se unutar mehanizma vidjela slova.",
+      "The first scan surprised the team because letters could be seen inside the mechanism."
+     ],
+     [
+      "Drugo skeniranje nije uspjelo, a tek treći pokušaj dao je čitljivu šifru.",
+      "The second scan failed, and only the third attempt gave a readable code."
+     ],
+     [
+      "Katanac je izložen u Muzeju obale u Swanseaju, zajedno s ostalim predmetima s broda.",
+      "The padlock is on display in the Museum of the Coast in Swansea, together with other items from the ship."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "katanac",
+     "padlock"
+    ],
+    [
+     "šifra",
+     "code"
+    ],
+    [
+     "brodolom",
+     "shipwreck"
+    ],
+    [
+     "naučnik",
+     "scientist"
+    ],
+    [
+     "skeniranje",
+     "scanning"
+    ],
+    [
+     "mjedeni",
+     "brass"
+    ],
+    [
+     "teret",
+     "cargo"
+    ],
+    [
+     "oluja",
+     "storm"
+    ]
+   ],
+   "source": "Klix.ba",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261104017.jpg"
+  },
   {
    "id": "261103287",
    "source": "Klix.ba",
