@@ -1,7 +1,563 @@
 {
- "updated": "2026-11-04T07:50:00+01:00",
+ "updated": "2026-11-04T13:45:00+01:00",
  "level": "A2",
  "articles": [
+  {
+   "id": "261104186",
+   "source": "Klix.ba",
+   "section": "Biznis",
+   "url": "https://www.klix.ba/biznis/ekonomija/toplane-za-plin-daju-554-miliona-km-a-za-struju-27-miliona-na-oba-tendera-stigla-po-jedna-ponuda/261104186",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261104186.jpg",
+   "published": "2026-11-04T13:40:00+01:00",
+   "title": [
+    "Toplane plaćaju 58 miliona KM za plin i struju",
+    "Heating plants pay 58 million KM for gas and electricity"
+   ],
+   "body": [
+    [
+     [
+      "Sarajevske Toplane izabrale su dobavljače plina i struje za iduću godinu.",
+      "The Sarajevo heating plants have chosen their gas and electricity suppliers for next year."
+     ],
+     [
+      "Ugovori su vrijedni ukupno oko 58 miliona KM bez PDV-a.",
+      "The contracts are worth about 58 million KM in total, without VAT."
+     ],
+     [
+      "Na oba tendera stigla je samo jedna ponuda, i to od javnih preduzeća.",
+      "Only one bid arrived at both tenders, and it came from public companies."
+     ]
+    ],
+    [
+     [
+      "Plin će isporučivati Sarajevogas, a ugovor vrijedi 55,4 miliona KM.",
+      "Sarajevogas will deliver the gas, and the contract is worth 55.4 million KM."
+     ],
+     [
+      "Procijenjena vrijednost bila je 60 miliona KM, pa je ponuda oko 7,7 posto niža.",
+      "The estimated value was 60 million KM, so the bid is about 7.7 percent lower."
+     ],
+     [
+      "Struju će isporučivati Elektroprivreda BiH za 2,75 miliona KM, što je skoro isto kao procjena.",
+      "Elektroprivreda BiH will deliver the electricity for 2.75 million KM, which is almost the same as the estimate."
+     ],
+     [
+      "Prošli ugovor iz januara bio je oko 350.000 KM jeftiniji.",
+      "The previous contract from January was about 350,000 KM cheaper."
+     ]
+    ],
+    [
+     [
+      "Konkurencija je bila veća kod lož-ulja, gdje je stiglo šest ponuda.",
+      "There was more competition for heating oil, where six bids arrived."
+     ],
+     [
+      "Posao je dobila firma Hifa Petrol s ponudom od 749.840 KM.",
+      "The company Hifa Petrol won the job with a bid of 749,840 KM."
+     ],
+     [
+      "Toplane su od početka godine provele 145 nabavki.",
+      "Since the start of the year, the heating plants have run 145 procurements."
+     ],
+     [
+      "Čak 84 od njih dodijeljene su jedinom ponuđaču.",
+      "As many as 84 of them were given to the only bidder."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "toplana",
+     "heating plant"
+    ],
+    [
+     "ponuda",
+     "bid, offer"
+    ],
+    [
+     "tender",
+     "tender"
+    ],
+    [
+     "dobavljač",
+     "supplier"
+    ],
+    [
+     "ugovor",
+     "contract"
+    ],
+    [
+     "lož-ulje",
+     "heating oil"
+    ],
+    [
+     "nabavka",
+     "procurement"
+    ]
+   ]
+  },
+  {
+   "id": "261104180",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/kosarka/komesar-nba-lige-silver-bi-zelio-skratiti-utakmice-na-40-minuta-vecina-igraca-protiv-toga/261104180",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261104180.jpg",
+   "published": "2026-11-04T13:36:00+01:00",
+   "title": [
+    "Silver bi skratio NBA utakmice na 40 minuta",
+    "Silver would like to shorten NBA games to 40 minutes"
+   ],
+   "body": [
+    [
+     [
+      "Komesar NBA lige Adam Silver navodno bi želio skratiti utakmice s 48 na 40 minuta.",
+      "NBA commissioner Adam Silver reportedly would like to shorten games from 48 to 40 minutes."
+     ],
+     [
+      "Taj podatak je objavio novinar Chris Mannix iz časopisa Sports Illustrated.",
+      "This information was published by journalist Chris Mannix of Sports Illustrated."
+     ],
+     [
+      "Liga zvanično nije predložila nikakvu promjenu, pa i dalje važe četiri četvrtine od po 12 minuta.",
+      "The league has not officially proposed any change, so four quarters of 12 minutes each still apply."
+     ]
+    ],
+    [
+     [
+      "Silver bi preferirao četiri četvrtine od po 10 minuta, kao u FIBA takmičenjima i Euroligi.",
+      "Silver would prefer four quarters of 10 minutes each, as in FIBA competitions and the EuroLeague."
+     ],
+     [
+      "Rasprava se vratila nakon niza povreda zvijezda na početku sezone 2026/27.",
+      "The debate came back after a series of star injuries at the start of the 2026/27 season."
+     ],
+     [
+      "Mannix sumnja da je promjena izvodljiva, najviše zbog novca.",
+      "Mannix doubts that the change is feasible, mostly because of money."
+     ],
+     [
+      "Upozorava i da zvijezde ne bi igrale manje, a rezervisti bi dobili još manje prilike.",
+      "He also warns that stars would not play less, and the bench players would get even fewer chances."
+     ]
+    ],
+    [
+     [
+      "Većina igrača je protiv ideje.",
+      "Most players are against the idea."
+     ],
+     [
+      "U martovskoj anketi portala The Athletic 78,4 posto od 153 igrača odbilo je kraće četvrtine.",
+      "In a March survey by The Athletic, 78.4 percent of 153 players rejected shorter quarters."
+     ],
+     [
+      "Samo 13,1 posto ih je podržalo.",
+      "Only 13.1 percent supported it."
+     ],
+     [
+      "Trenere Toma Thibodeaua i Michaela Malonea takođe ne oduševljava ta ideja.",
+      "Coaches Tom Thibodeau and Michael Malone are not thrilled by the idea either."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "komesar",
+     "commissioner"
+    ],
+    [
+     "utakmica",
+     "game, match"
+    ],
+    [
+     "četvrtina",
+     "quarter"
+    ],
+    [
+     "povreda",
+     "injury"
+    ],
+    [
+     "anketa",
+     "survey"
+    ],
+    [
+     "rezervista",
+     "bench player"
+    ],
+    [
+     "podržati",
+     "to support"
+    ]
+   ]
+  },
+  {
+   "id": "261104177",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/novi-izvjestaj-evropske-komisije-bih-sve-dalje-od-eu-brisel-trazi-uvodenje-viza-drzavljanima-rusije-kine-turske-i-katara/261104177",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261104177.jpg",
+   "published": "2026-11-04T13:21:00+01:00",
+   "title": [
+    "Evropska komisija: BiH se sve više udaljava od EU",
+    "European Commission: BiH is moving ever further from the EU"
+   ],
+   "body": [
+    [
+     [
+      "Evropska komisija objavila je novi izvještaj o napretku Bosne i Hercegovine.",
+      "The European Commission has published a new progress report on Bosnia and Herzegovina."
+     ],
+     [
+      "Prema izvještaju, zemlja se sve više udaljava od evropskog puta.",
+      "According to the report, the country is moving further and further from the European path."
+     ],
+     [
+      "Napretka nema u pravosuđu, borbi protiv korupcije, slobodi medija i ekonomiji.",
+      "There is no progress in the judiciary, the fight against corruption, media freedom and the economy."
+     ]
+    ],
+    [
+     [
+      "Komisija posebno kritikuje vizni režim jer je BiH produžila sezonska oslobađanja od viza s 30 na 60 dana.",
+      "The Commission especially criticizes the visa regime because BiH extended seasonal visa exemptions from 30 to 60 days."
+     ],
+     [
+      "Brisel traži da se vize uvedu za državljane Rusije, Kine, Turske i Katara.",
+      "Brussels wants visas to be introduced for citizens of Russia, China, Turkey and Qatar."
+     ],
+     [
+      "Parlament je donio samo 12 zakona, a zemlja i dalje nema glavnog pregovarača s EU.",
+      "Parliament passed only 12 laws, and the country still has no chief negotiator with the EU."
+     ],
+     [
+      "Privredni rast usporio je na 1,7 posto, a nezaposlenost je 12,2 posto.",
+      "Economic growth slowed to 1.7 percent, and unemployment is 12.2 percent."
+     ]
+    ],
+    [
+     [
+      "Među mladima je nezaposleno čak 32,9 posto ljudi.",
+      "Among young people, as many as 32.9 percent are unemployed."
+     ],
+     [
+      "BiH je 19. juna dospjela na sivu listu FATF-a zbog slabe borbe protiv pranja novca.",
+      "On 19 June BiH ended up on the FATF grey list because of a weak fight against money laundering."
+     ],
+     [
+      "Ako uslovi ne budu ispunjeni do kraja godine, zemlja bi mogla izgubiti do 976,6 miliona eura.",
+      "If the conditions are not met by the end of the year, the country could lose up to 976.6 million euros."
+     ],
+     [
+      "Izvještaj upozorava i da javni servis BHRT prijeti gašenje.",
+      "The report also warns that the public broadcaster BHRT faces shutdown."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "izvještaj",
+     "report"
+    ],
+    [
+     "pravosuđe",
+     "judiciary"
+    ],
+    [
+     "korupcija",
+     "corruption"
+    ],
+    [
+     "viza",
+     "visa"
+    ],
+    [
+     "napredak",
+     "progress"
+    ],
+    [
+     "nezaposlenost",
+     "unemployment"
+    ],
+    [
+     "pregovarač",
+     "negotiator"
+    ]
+   ]
+  },
+  {
+   "id": "261104174",
+   "source": "Klix.ba",
+   "section": "Tehnologija",
+   "url": "https://www.klix.ba/scitech/tehnologija/humanoidni-roboti-osam-sati-sortirali-dijelove-u-xiaomijevoj-fabrici-automobila/261104174",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261104174.jpg",
+   "published": "2026-11-04T13:18:00+01:00",
+   "title": [
+    "Roboti osam sati radili u Xiaomijevoj fabrici",
+    "Robots worked eight hours in Xiaomi's factory"
+   ],
+   "body": [
+    [
+     [
+      "Kompanija Xiaomi objavila je snimak na kojem dva humanoidna robota rade u fabrici automobila.",
+      "The company Xiaomi has published a video in which two humanoid robots work in a car factory."
+     ],
+     [
+      "Roboti su osam sati sortirali dijelove za bočne poklopce središnje konzole.",
+      "The robots sorted parts for the side covers of the center console for eight hours."
+     ],
+     [
+      "Dijelove su vadili iz velikih kontejnera i slagali ih na police.",
+      "They took the parts out of big containers and placed them on shelves."
+     ]
+    ],
+    [
+     [
+      "Xiaomi tvrdi da roboti sami primjećuju i ispravljaju greške te da rade u skladu s proizvodnom linijom.",
+      "Xiaomi claims that the robots notice and correct mistakes by themselves and work in step with the production line."
+     ],
+     [
+      "Snimak je ubrzan i do 100 puta.",
+      "The video is sped up by up to 100 times."
+     ],
+     [
+      "Kompanija nije objavila koliko je dijelova sortirano niti koliko su često ljudi morali pomoći.",
+      "The company has not said how many parts were sorted or how often people had to help."
+     ],
+     [
+      "Nije jasno ni kako su se roboti punili strujom.",
+      "It is also not clear how the robots were charged."
+     ]
+    ],
+    [
+     [
+      "U martu je Xiaomi javio da je robot montirao matice s uspješnošću od 90,2 posto, a u julu s 98 posto.",
+      "In March Xiaomi reported that a robot installed nuts with a 90.2 percent success rate, and in July with 98 percent."
+     ],
+     [
+      "Robot je predstavljen u augustu u Pekingu i još je prototip.",
+      "The robot was presented in August in Beijing and is still a prototype."
+     ],
+     [
+      "Audi već testira slične robote u Ingolstadtu, a BMW razmišlja o njima.",
+      "Audi is already testing similar robots in Ingolstadt, and BMW is thinking about them."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "robot",
+     "robot"
+    ],
+    [
+     "fabrica",
+     "factory"
+    ],
+    [
+     "dio",
+     "part"
+    ],
+    [
+     "greška",
+     "mistake"
+    ],
+    [
+     "proizvodnja",
+     "production"
+    ],
+    [
+     "prototip",
+     "prototype"
+    ],
+    [
+     "snimak",
+     "video, recording"
+    ]
+   ]
+  },
+  {
+   "id": "261104166",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/muzika/bijelo-dugme-rasprodalo-pola-kapaciteta-zetre-skoro-pet-mjeseci-prije-koncerta/261104166",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261104166.jpg",
+   "published": "2026-11-04T12:57:00+01:00",
+   "title": [
+    "Bijelo dugme rasprodalo pola Zetre",
+    "Bijelo Dugme has sold half of Zetra"
+   ],
+   "body": [
+    [
+     [
+      "Za koncert grupe Bijelo dugme u Sarajevu prodana je otprilike polovina ulaznica.",
+      "About half of the tickets have been sold for the Bijelo Dugme concert in Sarajevo."
+     ],
+     [
+      "Koncert će biti u dvorani Zetra 27. marta 2027.",
+      "The concert will be in the Zetra hall on 27 March 2027."
+     ],
+     [
+      "Do tada ima još skoro pet mjeseci, kažu organizatori.",
+      "There are still almost five months until then, say the organizers."
+     ]
+    ],
+    [
+     [
+      "Sarajevski nastup jedan je od posljednjih na turneji „Doživjeti stotu“.",
+      "The Sarajevo show is one of the last on the tour \"Doživjeti stotu\"."
+     ],
+     [
+      "Turneja obilježava 50 godina rada grupe i već je obuhvatila niz velikih koncerata u regiji.",
+      "The tour marks 50 years of the band's work and has already included a series of big concerts in the region."
+     ],
+     [
+      "Na sceni će biti Goran, Zoran, Tifa, Alen, Điđi i Ognjen, a s njima i prijatelji.",
+      "On stage will be Goran, Zoran, Tifa, Alen, Điđi and Ognjen, together with friends."
+     ]
+    ],
+    [
+     [
+      "Organizatori očekuju posjetioce iz drugih bh. gradova i iz cijele regije.",
+      "The organizers expect visitors from other Bosnian cities and from the whole region."
+     ],
+     [
+      "Članovi grupe i njihov producent više puta su rekli da je povratak u Sarajevo prirodan korak.",
+      "The band members and their producer have said several times that returning to Sarajevo is a natural step."
+     ],
+     [
+      "U tom gradu je grupa i nastala.",
+      "The band was formed in that city."
+     ],
+     [
+      "Koncert organizuje firma Travel 4 Fun, a ulaznice se prodaju preko stranice ulaznica.org.",
+      "The concert is organized by the company Travel 4 Fun, and tickets are sold through the website ulaznica.org."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "koncert",
+     "concert"
+    ],
+    [
+     "ulaznica",
+     "ticket"
+    ],
+    [
+     "dvorana",
+     "hall"
+    ],
+    [
+     "turneja",
+     "tour"
+    ],
+    [
+     "organizator",
+     "organizer"
+    ],
+    [
+     "rasprodati",
+     "to sell out"
+    ],
+    [
+     "nastup",
+     "performance"
+    ]
+   ]
+  },
+  {
+   "id": "261104160",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/doktor-koji-je-pomagao-u-bosni-i-hercegovini-i-gazi-ulazi-u-americki-kongres-adam-hamawy-pobijedio-na-izborima/261104160",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261104160.jpg",
+   "published": "2026-11-04T12:54:00+01:00",
+   "title": [
+    "Ljekar koji je pomagao u BiH ulazi u Kongres",
+    "A doctor who helped in BiH is entering Congress"
+   ],
+   "body": [
+    [
+     [
+      "Adam Hamawy, hirurg koji je pomagao ranjenicima u BiH i Gazi, izabran je u američki Kongres.",
+      "Adam Hamawy, a surgeon who helped wounded people in BiH and Gaza, has been elected to the US Congress."
+     ],
+     [
+      "Demokrata je pobijedio u 12. izbornom okrugu savezne države New Jersey.",
+      "The Democrat won in the 12th congressional district of New Jersey."
+     ],
+     [
+      "Prema djelimičnim rezultatima, dobio je oko 70 posto glasova, a republikanac Gregg Mele oko 28 posto.",
+      "According to partial results, he got about 70 percent of the votes, and the Republican Gregg Mele about 28 percent."
+     ]
+    ],
+    [
+     [
+      "Hamawy će naslijediti Bonnie Watson Coleman, koja odlazi u penziju.",
+      "Hamawy will succeed Bonnie Watson Coleman, who is retiring."
+     ],
+     [
+      "Prema New Jersey Globeu, prvi je musliman iz te države u Kongresu.",
+      "According to the New Jersey Globe, he is the first Muslim from that state in Congress."
+     ],
+     [
+      "Rođen je u Egiptu, a u New Jersey je došao kao beba.",
+      "He was born in Egypt and came to New Jersey as a baby."
+     ],
+     [
+      "Studirao je medicinu, osam godina je služio u vojsci i radio je kao vojni hirurg u Iraku.",
+      "He studied medicine, served eight years in the army and worked as a military surgeon in Iraq."
+     ]
+    ],
+    [
+     [
+      "Više od 30 godina volontira u ratnim zonama, među ostalim u Bosni 1995. godine.",
+      "For more than 30 years he has volunteered in war zones, among others in Bosnia in 1995."
+     ],
+     [
+      "U maju 2024. volontirao je u bolnici u Khan Younisu u Gazi.",
+      "In May 2024 he volunteered at a hospital in Khan Younis in Gaza."
+     ],
+     [
+      "Zaglavio je kada je Izrael zatvorio prijelaz Rafah, a pomoć su tražili i američki političari.",
+      "He got stuck when Israel closed the Rafah crossing, and American politicians also asked for help."
+     ],
+     [
+      "Njegov slogan u kampanji bio je „zdravstvo, a ne bombe“.",
+      "His campaign slogan was \"healthcare, not bombs\"."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "hirurg",
+     "surgeon"
+    ],
+    [
+     "ranjenik",
+     "wounded person"
+    ],
+    [
+     "izbori",
+     "elections"
+    ],
+    [
+     "okrug",
+     "district"
+    ],
+    [
+     "glas",
+     "vote"
+    ],
+    [
+     "volontirati",
+     "to volunteer"
+    ],
+    [
+     "kampanja",
+     "campaign"
+    ]
+   ]
+  },
   {
    "id": "261104035",
    "section": "Sport",
@@ -2995,230 +3551,6 @@
     [
      "prijava",
      "report"
-    ]
-   ]
-  },
-  {
-   "id": "261101013",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/u-rs-u-ljudi-sve-manje-a-automobila-sve-vise-u-2026-se-ocekuje-blizu-pola-miliona-registrovanih-vozila/261101013",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261101013.jpg",
-   "published": "2026-11-02T06:11:00+01:00",
-   "title": [
-    "Republika Srpska: manje ljudi, više automobila",
-    "Republika Srpska: fewer people, more cars"
-   ],
-   "body": [
-    [
-     [
-      "U Republici Srpskoj danas živi manje ljudi nego 2015. godine.",
-      "Fewer people live in Republika Srpska today than in 2015."
-     ],
-     [
-      "Razlika je 56.695 ljudi.",
-      "The difference is 56,695 people."
-     ],
-     [
-      "Ali automobila ima mnogo više.",
-      "But there are many more cars."
-     ],
-     [
-      "Prošle godine bilo je 417.373 automobila.",
-      "Last year there were 417,373 cars."
-     ]
-    ],
-    [
-     [
-      "Sada ima 378 automobila na 1.000 ljudi.",
-      "There are now 378 cars per 1,000 people."
-     ],
-     [
-      "Prije 10 godina bilo ih je samo 240.",
-      "10 years ago there were only 240."
-     ],
-     [
-      "Plate su veće, a polovni automobili su jeftiniji.",
-      "Wages are higher, and used cars are cheaper."
-     ],
-     [
-      "Do kraja godine može biti skoro 450.000 automobila.",
-      "By the end of the year there could be almost 450,000 cars."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "automobil",
-     "car"
-    ],
-    [
-     "manje",
-     "fewer, less"
-    ],
-    [
-     "više",
-     "more"
-    ],
-    [
-     "razlika",
-     "difference"
-    ],
-    [
-     "plata",
-     "wage, salary"
-    ],
-    [
-     "polovan",
-     "used, second-hand"
-    ]
-   ]
-  },
-  {
-   "id": "261101221",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/latvija-prvi-put-preuzela-predsjedavanje-vijecem-sigurnosti-un-a/261101221",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261101221.jpg",
-   "published": "2026-11-01T23:47:00+01:00",
-   "title": [
-    "Latvija prvi put vodi Vijeće sigurnosti UN-a",
-    "Latvia leads the UN Security Council for the first time"
-   ],
-   "body": [
-    [
-     [
-      "Od 1. novembra Latvija vodi Vijeće sigurnosti UN-a.",
-      "Since 1 November Latvia has led the UN Security Council."
-     ],
-     [
-      "To je prvi put u historiji Latvije.",
-      "It is the first time in Latvia's history."
-     ],
-     [
-      "Latvija će voditi Vijeće cijeli novembar.",
-      "Latvia will lead the Council for the whole of November."
-     ],
-     [
-      "Vodit će sve sastanke u tom mjesecu.",
-      "It will chair all the meetings that month."
-     ]
-    ],
-    [
-     [
-      "Latvija želi da rat u Ukrajini ostane važna tema.",
-      "Latvia wants the war in Ukraine to remain an important topic."
-     ],
-     [
-      "U utorak, 3. novembra, Vijeće će birati sudije Međunarodnog suda pravde.",
-      "On Tuesday, 3 November, the Council will elect judges of the International Court of Justice."
-     ],
-     [
-      "Vijeće će imati važnu ulogu i u izboru novog šefa UN-a.",
-      "The Council will also have an important role in choosing the new head of the UN."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "voditi",
-     "to lead"
-    ],
-    [
-     "vijeće",
-     "council"
-    ],
-    [
-     "sigurnost",
-     "security"
-    ],
-    [
-     "sastanak",
-     "meeting"
-    ],
-    [
-     "sudija",
-     "judge"
-    ],
-    [
-     "historija",
-     "history"
-    ]
-   ]
-  },
-  {
-   "id": "261101225",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/formula1/kimi-antonelli-postao-najmladi-svjetski-prvak-u-historiji-formule-1-sa-20-godina/261101225",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261101225.jpg",
-   "published": "2026-11-01T23:24:00+01:00",
-   "title": [
-    "Antonelli je najmlađi prvak Formule 1",
-    "Antonelli is the youngest Formula 1 champion"
-   ],
-   "body": [
-    [
-     [
-      "Kimi Antonelli je novi svjetski prvak u Formuli 1.",
-      "Kimi Antonelli is the new Formula 1 world champion."
-     ],
-     [
-      "On ima samo 20 godina i vozi za Mercedes.",
-      "He is only 20 years old and drives for Mercedes."
-     ],
-     [
-      "Titulu je osvojio na trci u Meksiku.",
-      "He won the title at the race in Mexico."
-     ],
-     [
-      "Na toj trci bio je treći.",
-      "He finished third in that race."
-     ]
-    ],
-    [
-     [
-      "Do kraja sezone ostale su još 4 trke.",
-      "There are still 4 races left until the end of the season."
-     ],
-     [
-      "Prije njega najmlađi prvak bio je Sebastian Vettel.",
-      "Before him, the youngest champion was Sebastian Vettel."
-     ],
-     [
-      "Vettel je 2010. godine imao 23 godine.",
-      "In 2010 Vettel was 23 years old."
-     ],
-     [
-      "Antonelli je prvi italijanski prvak nakon 1953. godine.",
-      "Antonelli is the first Italian champion since 1953."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "prvak",
-     "champion"
-    ],
-    [
-     "voziti",
-     "to drive"
-    ],
-    [
-     "trka",
-     "race"
-    ],
-    [
-     "titula",
-     "title"
-    ],
-    [
-     "sezona",
-     "season"
-    ],
-    [
-     "najmlađi",
-     "youngest"
     ]
    ]
   }
