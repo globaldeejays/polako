@@ -23,6 +23,9 @@ self.addEventListener('fetch', (e) => {
     if (req.mode === 'navigate') return e.respondWith(networkFirst(req, SHELL, 'index.html'));
     return e.respondWith(cacheFirst(req, SHELL));
   }
+  if (url.hostname === 'raw.githubusercontent.com' && url.pathname.includes('/site/data/')) {
+    return e.respondWith(networkFirst(req, DATA, null, url.origin + url.pathname));            // news + dictionary from GitHub
+  }
   if (/(^|\.)fonts\.(googleapis|gstatic)\.com$/.test(url.hostname)) return e.respondWith(cacheFirst(req, FONT));
   if (req.destination === 'image') return e.respondWith(cacheFirst(req, IMG, 150));       // news photos for offline reading
 });
@@ -54,14 +57,15 @@ self.addEventListener('notificationclick', (e) => {
   })());
 });
 
-async function networkFirst(req, name, fallback) {
+async function networkFirst(req, name, fallback, key) {
   const c = await caches.open(name);
+  const k = key || req;   // one cache entry per file, whatever query string the request had
   try {
     const r = await fetch(req);
-    if (r.ok) c.put(req, r.clone());
+    if (r.ok) c.put(k, r.clone());
     return r;
   } catch {
-    return (await c.match(req)) || (fallback && (await caches.match(fallback))) || Response.error();
+    return (await c.match(k)) || (fallback && (await caches.match(fallback))) || Response.error();
   }
 }
 async function cacheFirst(req, name, max) {

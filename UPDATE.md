@@ -90,8 +90,9 @@ Entry format, one per line:
 
 ## 4. Publish
 Only if at least one article was added: commit `site/data/news.json` and `site/data/dict.json` with the message
-`Vijesti: N novih članaka (YYYY-MM-DD HH:MM)` and push to the default branch. Netlify deploys the push automatically.
+`Vijesti: N novih članaka (YYYY-MM-DD HH:MM)` and push to the default branch. The app reads the news straight from
+GitHub, so it shows up within minutes (Netlify does not redeploy for data-only pushes).
 If nothing was new, change nothing and report "no new items".
-Push notifications are sent by Netlify after the deploy (`netlify/functions/`); a run does nothing for them and
+Push notifications are sent by a Netlify function that checks GitHub every 10 minutes (`netlify/functions/`); a run does nothing for them and
 must not touch `netlify/`, `package.json` or `src/`.
 End the run with one line: how many articles were added and their titles.

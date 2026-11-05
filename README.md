@@ -6,11 +6,14 @@ sentence), read-aloud, saved words and offline reading.
 
 There is no LLM API. A Claude scheduled task runs a few times a day, follows `UPDATE.md`,
 rewrites new stories into `site/data/news.json` + `site/data/dict.json`, and pushes to this repo.
-Netlify deploys every push.
+The app loads `news.json` and `dict.json` straight from this repo on GitHub (raw.githubusercontent.com), so
+new articles appear within minutes. Netlify only redeploys when app code changes: `netlify.toml` skips builds for
+pushes that only touch `site/data/`, because each production deploy costs Netlify credits. The repo must be public
+for this; if GitHub is unreachable the app falls back to the `site/data/` copy from the last deploy.
 
 Push notifications (bell in the header): the app registers the device at `/api/push`
-(`netlify/functions/push.mts`). After every successful production deploy,
-`netlify/functions/notify-new-articles.mts` compares news.json with the articles it has already seen and,
+(`netlify/functions/push.mts`). Every 10 minutes,
+`netlify/functions/notify-new-articles.mts` compares news.json on GitHub with the articles it has already seen and,
 if there are new ones, notifies every registered device. VAPID keys, subscriptions and the seen list live in
 Netlify Blobs (stores `push-config`, `push-subscriptions`, `push-state`); the keys are created there on first use.
 
@@ -28,7 +31,7 @@ Netlify Blobs (stores `push-config`, `push-subscriptions`, `push-state`); the ke
 ## Netlify setup (once)
 1. Netlify → Add new project → Import from Git → pick this repo.
 2. Build command: leave empty. Publish directory: `site`.
-3. Deploy. Every push from a refresh run redeploys in about a minute.
+3. Deploy. Pushes that only change `site/data/` are skipped on purpose (see above).
 
 ## Change things
 - Other feeds or a different level: edit `feeds.json` (or ask Claude to).

@@ -626,11 +626,25 @@ h1 .tr{font-weight:400;letter-spacing:0}
   $('#notif').addEventListener('click', openNotif);
 
   // ---------- boot ----------
+  // News and dictionary come straight from GitHub, where every refresh run pushes them, so new articles
+  // appear within minutes without a Netlify deploy. data/ on this site (from the last deploy) is the fallback.
+  const DATA_SOURCES = ['https://raw.githubusercontent.com/globaldeejays/polako/main/site/data/', 'data/'];
+  async function getData(name) {
+    let err;
+    for (const base of DATA_SOURCES) {
+      try {
+        const r = await fetch(base + name, { cache: 'no-cache' });
+        if (r.ok) return await r.json();
+        err = new Error(r.status);
+      } catch (e) { err = e; }
+    }
+    throw err;
+  }
   async function load() {
     try {
       const [n, d] = await Promise.all([
-        fetch('data/news.json', { cache: 'no-cache' }).then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); }),
-        fetch('data/dict.json', { cache: 'no-cache' }).then((r) => (r.ok ? r.json() : {})).catch(() => ({}))
+        getData('news.json'),
+        getData('dict.json').catch(() => ({}))
       ]);
       NEWS = n; DICT = d;
       renderMast(); renderChips(); renderCount(); route();
