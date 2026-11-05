@@ -1,5 +1,5 @@
 // Polako service worker. The build stamps VERSION so each deploy refreshes the app shell.
-const VERSION = '6dea07dcb0';
+const VERSION = '42494d740f';
 const SHELL = `polako-shell-${VERSION}`, DATA = 'polako-data', IMG = 'polako-img', FONT = 'polako-font';
 const SHELL_FILES = ['./', 'index.html', 'manifest.webmanifest', 'icon-192.png', 'icon-512.png'];
 

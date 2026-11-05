@@ -11,7 +11,7 @@
   --klix:#004388; --klix-ink:#FFFFFF;
   --bg:#F3F5F9; --surface:#FFFFFF; --ink:#151A2C; --muted:#5B6378; --line:#DCE1EA; --soft:#E8ECF5;
   --accent:#2340C8; --accent-ink:#FFFFFF; --mark:#FFD84D; --mark-ink:#151A2C; --scrim:rgba(14,18,32,.45);
-  --c-bih:#2340C8; --c-svijet:#0E7672; --c-sport:#2B7E3A; --c-biznis:#A85F00; --c-tehnologija:#6A3FC2; --c-magazin:#B3305F; --c-other:#4A5268; --tile-ink:#FFFFFF;
+  --c-bih:#2340C8; --c-svijet:#0E7672; --c-sport:#2B7E3A; --c-biznis:#A85F00; --c-tehnologija:#6A3FC2; --c-magazin:#B3305F; --c-zdravlje:#B8322A; --c-vrijeme:#0B74AA; --c-other:#4A5268; --tile-ink:#FFFFFF;
   --display:"Bricolage Grotesque","Segoe UI",system-ui,sans-serif;
   --read:"Literata",Georgia,"Times New Roman",serif;
   --ui:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
@@ -20,12 +20,12 @@
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
   --bg:#0D1120; --surface:#151A2B; --ink:#E7EAF2; --muted:#9AA2B7; --line:#272E45; --soft:#1D2338;
   --accent:#8FA3FF; --accent-ink:#0D1120; --mark:#F5C93A; --mark-ink:#151A2C; --scrim:rgba(0,0,0,.6);
-  --c-bih:#3450D6; --c-svijet:#13837E; --c-sport:#348C43; --c-biznis:#B56B08; --c-tehnologija:#7650CC; --c-magazin:#BE3D6B; --c-other:#4F5872;
+  --c-bih:#3450D6; --c-svijet:#13837E; --c-sport:#348C43; --c-biznis:#B56B08; --c-tehnologija:#7650CC; --c-magazin:#BE3D6B; --c-zdravlje:#C53F35; --c-vrijeme:#1582BA; --c-other:#4F5872;
   color-scheme:dark}}
 :root[data-theme="dark"]{
   --bg:#0D1120; --surface:#151A2B; --ink:#E7EAF2; --muted:#9AA2B7; --line:#272E45; --soft:#1D2338;
   --accent:#8FA3FF; --accent-ink:#0D1120; --mark:#F5C93A; --mark-ink:#151A2C; --scrim:rgba(0,0,0,.6);
-  --c-bih:#3450D6; --c-svijet:#13837E; --c-sport:#348C43; --c-biznis:#B56B08; --c-tehnologija:#7650CC; --c-magazin:#BE3D6B; --c-other:#4F5872;
+  --c-bih:#3450D6; --c-svijet:#13837E; --c-sport:#348C43; --c-biznis:#B56B08; --c-tehnologija:#7650CC; --c-magazin:#BE3D6B; --c-zdravlje:#C53F35; --c-vrijeme:#1582BA; --c-other:#4F5872;
   color-scheme:dark}
 
 *{box-sizing:border-box}
@@ -65,6 +65,7 @@ mark{background:linear-gradient(transparent 12%,var(--mark) 12%,var(--mark) 88%,
 .ph img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:1;display:block}
 [data-sec="bih"]{--sec:var(--c-bih)} [data-sec="svijet"]{--sec:var(--c-svijet)} [data-sec="sport"]{--sec:var(--c-sport)}
 [data-sec="biznis"]{--sec:var(--c-biznis)} [data-sec="tehnologija"]{--sec:var(--c-tehnologija)} [data-sec="magazin"]{--sec:var(--c-magazin)}
+[data-sec="zdravlje"]{--sec:var(--c-zdravlje)} [data-sec="vrijeme"]{--sec:var(--c-vrijeme)}
 .lead{display:grid;gap:12px;padding-block:10px 18px;border-bottom:1px solid var(--line)}
 .lead .ph{aspect-ratio:16/10;border-radius:14px}
 .lead .ph::after{font-size:34px;left:16px;bottom:12px}
@@ -255,7 +256,7 @@ h1 .tr{font-weight:400;letter-spacing:0}
   const lower = (w) => w.toLocaleLowerCase('bs');
   const DAYS = ['nedjelja', 'ponedjeljak', 'utorak', 'srijeda', 'četvrtak', 'petak', 'subota'];
   const MONTHS = ['januar', 'februar', 'mart', 'april', 'maj', 'juni', 'juli', 'august', 'septembar', 'oktobar', 'novembar', 'decembar'];
-  const SECTIONS = ['BiH', 'Svijet', 'Sport', 'Biznis', 'Tehnologija', 'Magazin'];
+  const SECTIONS = ['BiH', 'Svijet', 'Sport', 'Biznis', 'Tehnologija', 'Magazin', 'Zdravlje', 'Vrijeme'];
   const slug = (s) => { const l = lower(s || ''); return SECTIONS.map(lower).includes(l) ? l : 'other'; };
   function ago(iso) {
     const m = Math.max(0, Math.round((Date.now() - Date.parse(iso)) / 60000));
@@ -267,7 +268,13 @@ h1 .tr{font-weight:400;letter-spacing:0}
   }
   const wordCount = (a) => a.body.flat().reduce((n, s) => n + (s[0].match(WORD) || []).length, 0);
   const minutes = (a) => Math.max(1, Math.round(wordCount(a) / 90));
-  const sorted = () => NEWS.articles.slice().sort((a, b) => Date.parse(b.published) - Date.parse(a.published));
+  // Order: news.front first (set by each refresh run: Klix's top stories in front-page order, lead story first,
+  // then the picks from weather, magazine, health…), then everything else, newest first.
+  const sorted = () => {
+    const rank = new Map((NEWS.front || []).map((id, i) => [String(id), i]));
+    const r = (a) => (rank.has(a.id) ? rank.get(a.id) : Infinity);
+    return NEWS.articles.slice().sort((a, b) => r(a) - r(b) || Date.parse(b.published) - Date.parse(a.published));
+  };
 
   function wordsHTML(text) {
     let out = '', last = 0;

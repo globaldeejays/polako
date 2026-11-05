@@ -1,9 +1,10 @@
 # Static site, no build step: the built files in site/ are committed.
 [build]
   publish = "site"
-  # Skip the build when a push only changes site/data/ (the 3 daily news refreshes): the app reads news
-  # straight from GitHub, and every production deploy costs Netlify credits. App code changes still deploy.
-  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- . ':(exclude)site/data'"
+  # Build only when what Netlify serves changes: the app (site/ without site/data/), the functions, or their config.
+  # News refreshes (site/data/), docs, rules and scripts skip the build, because the app reads news straight from
+  # GitHub and every production deploy costs Netlify credits.
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- site netlify netlify.toml package.json package-lock.json ':(exclude)site/data'"
 
 [[headers]]
   for = "/*"

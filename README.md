@@ -5,10 +5,11 @@ News in easy Bosnian. A static PWA that shows A2 retellings (easy, but written f
 sentence), read-aloud, saved words and offline reading.
 
 There is no LLM API. A Claude scheduled task runs a few times a day, follows `UPDATE.md`,
-rewrites new stories into `site/data/news.json` + `site/data/dict.json`, and pushes to this repo.
+takes Klix's front-page top stories (in Klix's order) plus a few from weather, magazine and health, rewrites the
+new ones into `site/data/news.json` + `site/data/dict.json`, saves the display order as `front`, and pushes to this repo.
 The app loads `news.json` and `dict.json` straight from this repo on GitHub (raw.githubusercontent.com), so
-new articles appear within minutes. Netlify only redeploys when app code changes: `netlify.toml` skips builds for
-pushes that only touch `site/data/`, because each production deploy costs Netlify credits. The repo must be public
+new articles appear within minutes. Netlify only redeploys when the app or its functions change: `netlify.toml` skips
+builds for pushes that only touch news data, docs, rules or scripts, because each production deploy costs Netlify credits. The repo must be public
 for this; if GitHub is unreachable the app falls back to the `site/data/` copy from the last deploy.
 
 Push notifications (bell in the header): the app registers the device at `/api/push`

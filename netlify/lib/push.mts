@@ -68,8 +68,11 @@ export function newsCount(n: number): string {
   return `${n} novih vijesti`
 }
 
-export function newsPayload(fresh: Article[]): Payload {
-  const sorted = [...fresh].sort((a, b) => Date.parse(b.published) - Date.parse(a.published))
+// front: the run's display order (Klix's top stories first), so the notification leads with the top story.
+export function newsPayload(fresh: Article[], front: string[] = []): Payload {
+  const rank = new Map(front.map((id, i) => [String(id), i]))
+  const r = (a: Article) => rank.get(a.id) ?? Infinity
+  const sorted = [...fresh].sort((a, b) => r(a) - r(b) || Date.parse(b.published) - Date.parse(a.published))
   const shown = sorted.slice(0, 3).map((a) => a.title[0])
   const more = sorted.length - shown.length
   return {

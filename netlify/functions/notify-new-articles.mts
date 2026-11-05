@@ -10,7 +10,7 @@ const KEEP_SEEN = 400
 export default async () => {
   const res = await fetch(`${NEWS_URL}?t=${Date.now()}`, { headers: { "cache-control": "no-cache" } })
   if (!res.ok) { console.log("news.json not readable", res.status); return }
-  const news = (await res.json()) as { articles?: Article[] }
+  const news = (await res.json()) as { articles?: Article[]; front?: string[] }
   const articles = news.articles ?? []
   if (!articles.length) return
   const ids = articles.map((a) => a.id)
@@ -31,7 +31,7 @@ export default async () => {
 
   // Save first, so a crash while sending can never notify the same articles twice.
   await state.setJSON("seen", [...new Set([...ids, ...seen])].slice(0, KEEP_SEEN))
-  const result = await sendToAll(newsPayload(fresh))
+  const result = await sendToAll(newsPayload(fresh, news.front ?? []))
   await last({ result: "notified", newArticles: fresh.length, ...result })
   console.log(`notified about ${fresh.length} new articles`, JSON.stringify(result))
 }

@@ -1,11 +1,14 @@
 {
   "level": "A2",
-  "perRun": 6,
-  "keep": 40,
+  "frontPage": "https://www.klix.ba/",
+  "topStories": 6,
+  "extraStories": 4,
+  "extraSections": ["Vrijeme", "Magazin", "Zdravlje", "Lifestyle / Scitech / Auto"],
+  "perRun": 10,
+  "keep": 60,
   "maxAgeHours": 36,
   "feeds": [
     { "name": "Klix.ba", "url": "https://klix.ba/rss" }
   ],
-  "skipSections": ["Promo", "Marketing"],
-  "preferSections": ["BiH", "Svijet", "Sport", "Biznis", "Tehnologija", "Magazin"]
+  "skipSections": ["Promo", "Marketing", "Sponzorisano"]
 }

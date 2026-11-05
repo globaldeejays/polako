@@ -2,8 +2,9 @@
 // Usage: node scripts/check.mjs [--prune N]
 // - validates data/news.json structure
 // - lists every Bosnian word form that has no entry in data/dict.json
-// - with --prune N keeps only the newest N articles. The dictionary is never
-//   pruned: it keeps growing, so later refreshes need fewer new entries.
+// - checks news.front (display order set by each run) only names existing articles
+// - with --prune N keeps the newest N articles plus every article in news.front.
+//   The dictionary is never pruned: it keeps growing, so later refreshes need fewer new entries.
 import { readFileSync, writeFileSync } from 'node:fs';
 
 const NEWS = new URL('../site/data/news.json', import.meta.url);
@@ -32,10 +33,18 @@ news.articles.forEach((a, i) => {
   else if (/klix\.ba/.test(a.url || '') && a.image !== klixImg) errors.push(`${where}: image must be ${klixImg}`);
 });
 
+const front = news.front ?? [];
+if (!Array.isArray(front)) errors.push('front must be a list of article ids');
+else {
+  front.forEach((id, i) => { if (!ids.has(String(id))) errors.push(`front[${i}]: no article with id ${id}`); });
+  if (new Set(front.map(String)).size !== front.length) errors.push('front has duplicate ids');
+}
+
 if (process.argv.includes('--prune')) {
   const n = parseInt(process.argv[process.argv.indexOf('--prune') + 1], 10) || 40;
+  const onFront = new Set((Array.isArray(front) ? front : []).map(String));
   news.articles.sort((x, y) => Date.parse(y.published) - Date.parse(x.published));
-  news.articles = news.articles.slice(0, n);
+  news.articles = news.articles.filter((a, i) => i < n || onFront.has(String(a.id)));
   writeFileSync(NEWS, JSON.stringify(news, null, 1) + '\n');
 }
 
