@@ -1,7 +1,579 @@
 {
- "updated": "2026-11-05T07:45:00+01:00",
+ "updated": "2026-11-05T13:43:56+01:00",
  "level": "A2",
  "articles": [
+  {
+   "id": "261105194",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/becki-aerodrom-dobio-prijetnje-za-cetiri-leta-avion-wizz-aira-sletio/261105194",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261105194.jpg",
+   "published": "2026-11-05T13:29:00+01:00",
+   "title": [
+    "Bečki aerodrom dobio prijetnje za četiri leta",
+    "Vienna airport receives threats against four flights"
+   ],
+   "body": [
+    [
+     [
+      "Aerodrom u Beču je u srijedu u 8:50 dobio e-poruku s prijetnjom za četiri leta.",
+      "The airport in Vienna received an email at 8:50 with a threat against four flights."
+     ],
+     [
+      "Policija je rekla da je prijetnja apstraktna, a detalje nije objavila.",
+      "The police said the threat was abstract and did not release any details."
+     ],
+     [
+      "Avion kompanije Wizz Air, koji je letio iz Milana za Varšavu, sletio je u Beč.",
+      "A Wizz Air plane, which was flying from Milan to Warsaw, landed in Vienna."
+     ]
+    ],
+    [
+     [
+      "Policajci su pretražili avion, ali nisu našli ništa sumnjivo, pa je nastavio put.",
+      "Officers searched the plane but found nothing suspicious, so it continued its journey."
+     ],
+     [
+      "Glasnogovornik policije Stefan Loidl rekao je da je prijetnja poslana e-poštom u Poljskoj.",
+      "Police spokesperson Stefan Loidl said the threat was sent by email in Poland."
+     ],
+     [
+      "Prijetnja je stigla i za let kompanije Finnair iz Helsinkija za Beč, koji je sletio prema planu.",
+      "A threat also came for a Finnair flight from Helsinki to Vienna, which landed as planned."
+     ],
+     [
+      "Aerodrom je naveo da redovan saobraćaj nije bio poremećen.",
+      "The airport said that regular traffic was not disrupted."
+     ]
+    ],
+    [
+     [
+      "Slične prijetnje bile su i u drugim evropskim zemljama.",
+      "Similar threats were also made in other European countries."
+     ],
+     [
+      "Italijanski borbeni avioni pratili su Finnairov let iz Helsinkija do Rima.",
+      "Italian fighter jets escorted a Finnair flight from Helsinki to Rome."
+     ],
+     [
+      "U Bugarskoj su tri aviona sletjela ranije nego što je bilo planirano zbog prijetnji.",
+      "In Bulgaria three planes landed earlier than planned because of threats."
+     ],
+     [
+      "Avion koji je letio iz Dublina za Rim sletio je na francusku vojnu bazu Évreux.",
+      "A plane flying from Dublin to Rome landed at the French military base Évreux."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "prijetnja",
+     "threat"
+    ],
+    [
+     "aerodrom",
+     "airport"
+    ],
+    [
+     "sletjeti",
+     "to land"
+    ],
+    [
+     "pretražiti",
+     "to search"
+    ],
+    [
+     "sumnjiv",
+     "suspicious"
+    ],
+    [
+     "glasnogovornik",
+     "spokesperson"
+    ],
+    [
+     "let",
+     "flight"
+    ]
+   ]
+  },
+  {
+   "id": "261105186",
+   "source": "Klix.ba",
+   "section": "Biznis",
+   "url": "https://www.klix.ba/biznis/ekonomija/toplane-sarajevo-omogucile-placanje-dugovanja-na-rate-uz-otpis-zakonskih-zateznih-kamata/261105186",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261105186.jpg",
+   "published": "2026-11-05T13:17:00+01:00",
+   "title": [
+    "Toplane Sarajevo nude plaćanje duga na rate",
+    "Toplane Sarajevo offer payment of debt in instalments"
+   ],
+   "body": [
+    [
+     [
+      "Sarajevska kompanija Toplane objavila je nove mogućnosti za korisnike koji imaju dugove.",
+      "The Sarajevo company Toplane announced new options for customers who have debts."
+     ],
+     [
+      "Ko ne može odjednom platiti cijeli dug, može potpisati ugovor o plaćanju na rate.",
+      "Whoever cannot pay the whole debt at once can sign a contract to pay in instalments."
+     ],
+     [
+      "Broj mjesečnih rata zavisi od visine duga i od načina na koji će kompanija osigurati naplatu.",
+      "The number of monthly instalments depends on the size of the debt and on how the company will secure payment."
+     ]
+    ],
+    [
+     [
+      "Neki korisnici su već potpisali dogovor o ratama, ali ga nisu mogli ispuniti iz objektivnih razloga.",
+      "Some customers have already signed an instalment agreement but could not keep it for objective reasons."
+     ],
+     [
+      "Oni mogu ponovo razgovarati s kompanijom i dogovoriti nove uslove plaćanja.",
+      "They can talk to the company again and agree on new payment terms."
+     ],
+     [
+      "Osim toga, Toplane će otpisati zakonske zatezne kamate ako korisnik plati cijeli glavni dug i sudske troškove.",
+      "In addition, Toplane will write off the statutory default interest if the customer pays the whole principal debt and the court costs."
+     ],
+     [
+      "Kompanija naglašava da se misli na ukupne sudske troškove, a ne na troškove jednog slučaja.",
+      "The company stresses that this means the total court costs, not the costs of a single case."
+     ]
+    ],
+    [
+     [
+      "Glavni dug se može platiti odjednom ili na rate.",
+      "The principal debt can be paid at once or in instalments."
+     ],
+     [
+      "Nakon toga se potpisuje sporazum o otpisu kamata, a Toplane povlače slučaj iz Općinskog suda.",
+      "After that an agreement on writing off the interest is signed, and Toplane withdraws the case from the Municipal Court."
+     ],
+     [
+      "Sve informacije korisnici mogu dobiti u centrima za korisnike kompanije.",
+      "Customers can get all the information in the company's customer centres."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "dug",
+     "debt"
+    ],
+    [
+     "rata",
+     "instalment"
+    ],
+    [
+     "kamata",
+     "interest"
+    ],
+    [
+     "otpisati",
+     "to write off"
+    ],
+    [
+     "sudski troškovi",
+     "court costs"
+    ],
+    [
+     "korisnik",
+     "customer, user"
+    ],
+    [
+     "ugovor",
+     "contract"
+    ]
+   ]
+  },
+  {
+   "id": "261105181",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/oboren-guinnessov-svjetski-rekord-na-utakmici-u-brazilu-iskljucena-51-osoba/261105181",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261105181.jpg",
+   "published": "2026-11-05T13:11:00+01:00",
+   "title": [
+    "Rekord u Brazilu: na jednoj utakmici isključeno 51 osoba",
+    "Record in Brazil: 51 people sent off in one match"
+   ],
+   "body": [
+    [
+     [
+      "Na omladinskoj utakmici u Brazilu postavljen je novi Guinnessov svjetski rekord po broju isključenja.",
+      "A new Guinness world record for the number of sendings-off was set at a youth match in Brazil."
+     ],
+     [
+      "Sudija je isključio 43 igrača i 8 članova stručnih štabova, ukupno 51 osobu.",
+      "The referee sent off 43 players and 8 members of coaching staffs, 51 people in total."
+     ],
+     [
+      "Ako se računaju i dva člana uprave kluba Uberlândia, broj crvenih kartona je 53.",
+      "If two board members of the club Uberlândia are also counted, the number of red cards is 53."
+     ]
+    ],
+    [
+     [
+      "Igralo se prvo polufinale državnog prvenstva do 20 godina u državi Minas Gerais između Uberlândije i Mamorea.",
+      "It was the first semifinal of the under-20 state championship in the state of Minas Gerais between Uberlândia and Mamoré."
+     ],
+     [
+      "Početkom drugog poluvremena isključen je jedan igrač Uberlândije, pa su na teren utrčali neki predstavnici tog kluba.",
+      "At the start of the second half one Uberlândia player was sent off, and then some representatives of that club ran onto the pitch."
+     ],
+     [
+      "Utakmica je zbog toga bila prekinuta 40 minuta.",
+      "Because of this the match was stopped for 40 minutes."
+     ],
+     [
+      "Nakon nastavka Mamoré je u devetom minutu nadoknade postigao gol za 3:1.",
+      "After the restart Mamoré scored in the ninth minute of stoppage time to make it 3-1."
+     ],
+     [
+      "Brazilski mediji pišu da je igrač Mamorea provocirao protivnike dok je slavio, a nakon toga je počela masovna tuča.",
+      "Brazilian media write that a Mamoré player provoked his opponents while celebrating, and after that a mass brawl began."
+     ]
+    ],
+    [
+     [
+      "Sudija Fernando Patrick Drosghic Modesto napisao je da se tuča dogodila u 54. minuti drugog poluvremena.",
+      "Referee Fernando Patrick Drosghic Modesto wrote that the brawl happened in the 54th minute of the second half."
+     ],
+     [
+      "Zbog haosa i nesigurnosti nije mogao pokazati sve kartone i odlučio je završiti utakmicu.",
+      "Because of the chaos and lack of safety he could not show all the cards and decided to end the match."
+     ],
+     [
+      "Policiji je prijavio prijetnje protiv sebe, a rekao je i da su igrači Mamorea nakon utakmice razbili svlačionicu.",
+      "He reported threats against himself to the police, and he also said that Mamoré players smashed the dressing room after the match."
+     ],
+     [
+      "Prethodni rekord bio je 36 crvenih kartona, na utakmici u Argentini 2011. godine.",
+      "The previous record was 36 red cards, at a match in Argentina in 2011."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "rekord",
+     "record"
+    ],
+    [
+     "isključiti",
+     "to send off"
+    ],
+    [
+     "sudija",
+     "referee"
+    ],
+    [
+     "tuča",
+     "brawl"
+    ],
+    [
+     "polufinale",
+     "semifinal"
+    ],
+    [
+     "svlačionica",
+     "dressing room"
+    ],
+    [
+     "crveni karton",
+     "red card"
+    ],
+    [
+     "nadoknada",
+     "stoppage time"
+    ]
+   ]
+  },
+  {
+   "id": "261105182",
+   "source": "Klix.ba",
+   "section": "Tehnologija",
+   "url": "https://www.klix.ba/scitech/tehnologija/bluetooth-ce-biti-znatno-brzi-usvojen-novi-standard/261105182",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261105182.jpg",
+   "published": "2026-11-05T13:06:00+01:00",
+   "title": [
+    "Bluetooth će biti znatno brži: usvojen novi standard",
+    "Bluetooth will be much faster: a new standard has been adopted"
+   ],
+   "body": [
+    [
+     [
+      "Organizacija Bluetooth SIG, koja razvija standard za Bluetooth, usvojila je novi način rada pod imenom HDT.",
+      "The organisation Bluetooth SIG, which develops the Bluetooth standard, has adopted a new mode called HDT."
+     ],
+     [
+      "Najveća brzina za uređaje s Bluetooth LE povećava se sa 2 na 7,5 megabita u sekundi.",
+      "The top speed for devices with Bluetooth LE rises from 2 to 7.5 megabits per second."
+     ],
+     [
+      "To je skoro četiri puta više nego do sada.",
+      "That is almost four times more than until now."
+     ]
+    ],
+    [
+     [
+      "Novi način rada koristi složenije metode prenosa, pa isti signal nosi više podataka.",
+      "The new mode uses more complex transmission methods, so the same signal carries more data."
+     ],
+     [
+      "Proizvođači ga ne moraju ugraditi, a uređaji mogu smanjiti brzinu kada je signal slabiji.",
+      "Manufacturers do not have to include it, and devices can lower the speed when the signal is weaker."
+     ],
+     [
+      "Organizacija tvrdi da veća brzina ne troši više baterije, jer se podaci prenesu brže.",
+      "The organisation says that higher speed does not use more battery, because the data is transferred faster."
+     ],
+     [
+      "U prvim demonstracijama datoteka od nekoliko megabajta prenesena je za oko 4 sekunde, a sada je potrebno oko 16.",
+      "In the first demonstrations a file of several megabytes was transferred in about 4 seconds, while now it takes about 16."
+     ],
+     [
+      "Sigurnosni kodi za provjeru poruka također će biti duži.",
+      "The security codes for checking messages will also be longer."
+     ]
+    ],
+    [
+     [
+      "Prvi uređaji s novom tehnologijom očekuju se početkom 2027. godine.",
+      "The first devices with the new technology are expected in early 2027."
+     ],
+     [
+      "Pametni satovi, pametne naočale i kućni uređaji mogli bi brže slati podatke telefonu.",
+      "Smartwatches, smart glasses and home devices could send data to the phone faster."
+     ],
+     [
+      "Za punu brzinu oba uređaja moraju podržavati HDT, ali će stariji telefoni i dalje raditi.",
+      "For full speed both devices must support HDT, but older phones will still work."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "brzina",
+     "speed"
+    ],
+    [
+     "standard",
+     "standard"
+    ],
+    [
+     "uređaj",
+     "device"
+    ],
+    [
+     "podatak",
+     "data (piece of)"
+    ],
+    [
+     "baterija",
+     "battery"
+    ],
+    [
+     "proizvođač",
+     "manufacturer"
+    ],
+    [
+     "pametni sat",
+     "smartwatch"
+    ]
+   ]
+  },
+  {
+   "id": "261105184",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/lifestyle/ljubimci/divovski-psi-zive-krace-od-ostalih-u-prosjeku-tek-89-godina/261105184",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261105184.jpg",
+   "published": "2026-11-05T13:05:00+01:00",
+   "title": [
+    "Divovski psi žive kraće: u prosjeku samo 8,9 godina",
+    "Giant dogs live shorter lives: only 8.9 years on average"
+   ],
+   "body": [
+    [
+     [
+      "Velika britanska studija pokazala je da divovske pasmine žive u prosjeku 8,9 godina.",
+      "A large British study showed that giant breeds live 8.9 years on average."
+     ],
+     [
+      "To je otprilike tri godine manje nego kod svih pasa zajedno.",
+      "That is roughly three years less than for all dogs together."
+     ],
+     [
+      "Studiju je vodio profesor Dan O'Neill s Kraljevskog veterinarskog fakulteta u Londonu.",
+      "The study was led by Professor Dan O'Neill from the Royal Veterinary College in London."
+     ]
+    ],
+    [
+     [
+      "Istraživači su pregledali anonimne veterinarske zapise o 2,25 miliona pasa koji su liječeni 2019. godine.",
+      "The researchers looked at anonymous veterinary records of 2.25 million dogs that were treated in 2019."
+     ],
+     [
+      "Među njima je bilo 28.345 pasa iz 29 divovskih pasmina, a podatke za više od 4.300 detaljno su analizirali.",
+      "Among them were 28,345 dogs from 29 giant breeds, and they analysed the data for more than 4,300 in detail."
+     ],
+     [
+      "Tibetanski mastif živi najkraće, samo 4,8 godina, a ženke žive oko 0,8 godina duže od mužjaka.",
+      "The Tibetan mastiff lives the shortest, only 4.8 years, and females live about 0.8 years longer than males."
+     ],
+     [
+      "Najčešći uzrok smrti je rak.",
+      "The most common cause of death is cancer."
+     ],
+     [
+      "Čak 73,8 posto divovskih pasa imalo je bar jedan zdravstveni problem tokom godine.",
+      "As many as 73.8 percent of giant dogs had at least one health problem during the year."
+     ]
+    ],
+    [
+     [
+      "Istraživači misle da brži rast kod ovih pasa vodi do bržeg starenja.",
+      "The researchers think that faster growth in these dogs leads to faster ageing."
+     ],
+     [
+      "Profesor O'Neill kaže da su divovski psi divni ljubimci, ali da njihova veličina ima visoku cijenu.",
+      "Professor O'Neill says giant dogs are wonderful pets, but that their size comes at a high price."
+     ],
+     [
+      "Prema njegovim riječima, kratak život ovih pasa trebao bi pokrenuti širu raspravu o uzgoju.",
+      "According to him, the short life of these dogs should start a wider debate about breeding."
+     ],
+     [
+      "On vjeruje da bi umjerena veličina mogla produžiti život tih pasmina.",
+      "He believes that a moderate size could extend the life of these breeds."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "pas",
+     "dog"
+    ],
+    [
+     "pasmina",
+     "breed"
+    ],
+    [
+     "prosjek",
+     "average"
+    ],
+    [
+     "studija",
+     "study"
+    ],
+    [
+     "rak",
+     "cancer"
+    ],
+    [
+     "uzgoj",
+     "breeding"
+    ],
+    [
+     "ljubimac",
+     "pet"
+    ],
+    [
+     "starenje",
+     "ageing"
+    ]
+   ]
+  },
+  {
+   "id": "261105180",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/kongres-interventnih-radiologa-u-sarajevu-49-predavaca-iz-14-zemalja/261105180",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261105180.jpg",
+   "published": "2026-11-05T12:46:00+01:00",
+   "title": [
+    "Kongres interventnih radiologa u Sarajevu: 49 predavača iz 14 zemalja",
+    "Congress of interventional radiologists in Sarajevo: 49 lecturers from 14 countries"
+   ],
+   "body": [
+    [
+     [
+      "U Sarajevu će od 6. do 8. novembra biti održan drugi kongres interventnih radiologa u BiH.",
+      "The second congress of interventional radiologists in BiH will be held in Sarajevo from 6 to 8 November."
+     ],
+     [
+      "Organizator je Udruženje interventnih radiologa i minimalno invazivnih terapeuta u BiH.",
+      "The organiser is the Association of Interventional Radiologists and Minimally Invasive Therapists in BiH."
+     ],
+     [
+      "Kongres će biti u hotelu Mövenpick, a očekuje se više od 200 učesnika iz različitih oblasti medicine.",
+      "The congress will be at the Mövenpick hotel, and more than 200 participants from different fields of medicine are expected."
+     ]
+    ],
+    [
+     [
+      "Predavat će 49 stručnjaka iz 14 zemalja.",
+      "49 experts from 14 countries will give lectures."
+     ],
+     [
+      "Teme su nove metode u liječenju krvnih žila, ali i drugih organa, te zahvati na mozgu.",
+      "The topics are new methods in treating blood vessels, but also other organs, and procedures on the brain."
+     ],
+     [
+      "Interventna radiologija je grana medicine u kojoj ljekari liječe pacijente kroz male otvore na tijelu, pa su operacije često manje opasne.",
+      "Interventional radiology is a branch of medicine in which doctors treat patients through small openings in the body, so operations are often less risky."
+     ],
+     [
+      "Učesnici će dobiti i 13,5 bodova za stručno usavršavanje koje priznaje Evropsko vijeće za radiologiju.",
+      "Participants will also receive 13.5 credits for professional training recognised by the European Board of Radiology."
+     ]
+    ],
+    [
+     [
+      "Među organizatorima i predavačima su ljekari s Klinike za radiologiju Kliničkog centra Univerziteta u Sarajevu.",
+      "Among the organisers and lecturers are doctors from the Clinic for Radiology of the Clinical Centre of the University of Sarajevo."
+     ],
+     [
+      "Predsjednik organizacionog odbora je docent doktor Deniz Bulja, šef odjela za interventnu radiologiju na toj klinici.",
+      "The president of the organising committee is Assistant Professor Dr Deniz Bulja, head of the interventional radiology department at that clinic."
+     ],
+     [
+      "Organizatori ističu da je cilj kongresa da se predstave savremene metode liječenja.",
+      "The organisers stress that the goal of the congress is to present modern methods of treatment."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "kongres",
+     "congress"
+    ],
+    [
+     "predavač",
+     "lecturer"
+    ],
+    [
+     "ljekar",
+     "doctor"
+    ],
+    [
+     "liječenje",
+     "treatment"
+    ],
+    [
+     "krvna žila",
+     "blood vessel"
+    ],
+    [
+     "učesnik",
+     "participant"
+    ],
+    [
+     "organizator",
+     "organiser"
+    ]
+   ]
+  },
   {
    "id": "261105018",
    "source": "Klix.ba",
@@ -3195,618 +3767,6 @@
     [
      "civilna zaštita",
      "civil protection"
-    ]
-   ]
-  },
-  {
-   "id": "261103126",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/lifestyle/putovanja/sarajevo-medu-najljepsim-evropskim-gradovima-za-zimski-odmor-u-2026-godini-ne-uklapa-se-u-stereotipe/261103126",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261103126.jpg",
-   "published": "2026-11-03T12:42:00+01:00",
-   "title": [
-    "Sarajevo među najljepšim evropskim gradovima za zimski odmor",
-    "Sarajevo among the most beautiful European cities for a winter break"
-   ],
-   "body": [
-    [
-     [
-      "Magazin TimeOut uvrstio je Sarajevo među najljepše evropske gradove za zimski odmor u 2026. godini.",
-      "TimeOut magazine has included Sarajevo among the most beautiful European cities for a winter break in 2026."
-     ],
-     [
-      "Lista ima 11 gradova, od Arktičkog kruga do Balkana.",
-      "The list has 11 cities, from the Arctic Circle to the Balkans."
-     ],
-     [
-      "Pored Sarajeva tu su Zagreb, Pariz, Ljubljana, Amsterdam, Tallinn, Tromsø, Edinburgh, Antwerpen, Innsbruck i Reykjavik.",
-      "Besides Sarajevo, it includes Zagreb, Paris, Ljubljana, Amsterdam, Tallinn, Tromsø, Edinburgh, Antwerp, Innsbruck and Reykjavik."
-     ]
-    ],
-    [
-     [
-      "TimeOut piše da su ti gradovi zimi često još privlačniji, a putnicima treba samo još jedan sloj odjeće.",
-      "TimeOut writes that these cities are often even more attractive in winter, and travellers only need one more layer of clothes."
-     ],
-     [
-      "Za Sarajevo kažu da se teško uklapa u stereotipe.",
-      "About Sarajevo they say that it is hard to fit into stereotypes."
-     ],
-     [
-      "Grad spaja osmansko, austrougarsko i jugoslavensko naslijeđe.",
-      "The city combines Ottoman, Austro-Hungarian and Yugoslav heritage."
-     ],
-     [
-      "Na olimpijskim planinama pored grada može se skijati preko dana, a uveče izaći u grad.",
-      "On the Olympic mountains next to the city you can ski during the day and go out in the evening."
-     ]
-    ],
-    [
-     [
-      "Zagreb je poznat po nagrađivanom adventu, a Ljubljana po jedinstvenoj božićnoj rasvjeti u centru.",
-      "Zagreb is known for its award-winning Advent, and Ljubljana for unique Christmas lights in the centre."
-     ],
-     [
-      "U Amsterdamu se na početku zime otvara klizalište ispred Rijksmuseuma.",
-      "In Amsterdam a skating rink opens in front of the Rijksmuseum at the start of winter."
-     ],
-     [
-      "Tromsø nudi vožnju psećim zapregama i traženje polarne svjetlosti.",
-      "Tromsø offers dog sledding and the search for the northern lights."
-     ],
-     [
-      "Reykjavik ima toplice, a većina znamenitosti udaljena je oko 20 minuta hoda.",
-      "Reykjavik has hot springs, and most sights are about 20 minutes' walk apart."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "odmor",
-     "break, holiday"
-    ],
-    [
-     "stereotip",
-     "stereotype"
-    ],
-    [
-     "naslijeđe",
-     "heritage"
-    ],
-    [
-     "znamenitost",
-     "sight, landmark"
-    ],
-    [
-     "klizalište",
-     "skating rink"
-    ],
-    [
-     "putnik",
-     "traveller"
-    ],
-    [
-     "rasvjeta",
-     "lighting"
-    ],
-    [
-     "uvrstiti",
-     "to include"
-    ]
-   ]
-  },
-  {
-   "id": "261103125",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/humanitarne-akcije/humanitarno-udruzenje-pomoziba-poziva-frizere-da-dio-dnevne-zarade-doniraju-za-tople-obroke/261103125",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261103125.jpg",
-   "published": "2026-11-03T12:30:00+01:00",
-   "title": [
-    "Pomozi.ba poziva frizere da doniraju dio zarade za tople obroke",
-    "Pomozi.ba asks hairdressers to donate part of their earnings for hot meals"
-   ],
-   "body": [
-    [
-     [
-      "Humanitarno udruženje Pomozi.ba pokrenulo je akciju pod nazivom \"Frizeri šišaju, mi kuhamo\".",
-      "The humanitarian association Pomozi.ba has launched a campaign called \"Hairdressers cut, we cook\"."
-     ],
-     [
-      "Frizerski saloni širom BiH pozvani su da doniraju dio zarade ili cijelu zaradu za jedan dan u novembru.",
-      "Hair salons across BiH are invited to donate part or all of their earnings for one day in November."
-     ],
-     [
-      "Novac ide za projekt \"Obrok za sve\".",
-      "The money goes to the project \"Obrok za sve\" (Meal for All)."
-     ]
-    ],
-    [
-     [
-      "Taj projekt osigurava tople obroke za starije, bolesne i socijalno ugrožene osobe.",
-      "This project provides hot meals for elderly, sick and socially vulnerable people."
-     ],
-     [
-      "Udruženje svakog dana pripremi više od 1.000 obroka za svoje korisnike.",
-      "Every day the association prepares more than 1,000 meals for its users."
-     ],
-     [
-      "Saloni sami biraju dan i iznos, u skladu sa svojim mogućnostima.",
-      "Salons choose the day and the amount themselves, according to their means."
-     ],
-     [
-      "Iz udruženja kažu da je svaka donacija važna.",
-      "The association says that every donation matters."
-     ]
-    ],
-    [
-     [
-      "Frizeri su i ranije na vlastitu inicijativu organizirali pomoć za korisnike udruženja.",
-      "Hairdressers have also earlier organised help for the association's users on their own initiative."
-     ],
-     [
-      "Pomozi.ba se nada da će ova akcija postati tradicija koja se održava svake godine.",
-      "Pomozi.ba hopes that this campaign will become a tradition held every year."
-     ],
-     [
-      "Zainteresirani saloni mogu se prijaviti preko online obrasca.",
-      "Interested salons can apply through an online form."
-     ],
-     [
-      "Građane mole da o akciji kažu svojim frizerima.",
-      "Citizens are asked to tell their hairdressers about the campaign."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "frizer",
-     "hairdresser"
-    ],
-    [
-     "zarada",
-     "earnings"
-    ],
-    [
-     "donirati",
-     "to donate"
-    ],
-    [
-     "obrok",
-     "meal"
-    ],
-    [
-     "udruženje",
-     "association"
-    ],
-    [
-     "korisnik",
-     "user, beneficiary"
-    ],
-    [
-     "ugrožen",
-     "vulnerable"
-    ],
-    [
-     "prijaviti se",
-     "to apply, to sign up"
-    ]
-   ]
-  },
-  {
-   "id": "261103101",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/film-tv/schwarzenegger-30-godina-nakon-jingle-all-the-way-opet-u-bozicnom-filmu-sad-kao-djed-mraz/261103101",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261103101.jpg",
-   "published": "2026-11-03T11:34:00+01:00",
-   "title": [
-    "Schwarzenegger ponovo u božićnom filmu, ovaj put kao Djed Mraz",
-    "Schwarzenegger in a Christmas film again, this time as Santa Claus"
-   ],
-   "body": [
-    [
-     [
-      "Prime Video je objavio trailer za novu božićnu akcijsku komediju.",
-      "Prime Video has released the trailer for a new Christmas action comedy."
-     ],
-     [
-      "Film se zove \"The Man with the Bag\", a Arnold Schwarzenegger u njemu igra Djeda Mraza.",
-      "The film is called \"The Man with the Bag\", and Arnold Schwarzenegger plays Santa Claus in it."
-     ],
-     [
-      "Alan Ritchson glumi lopova s liste nevaljalih.",
-      "Alan Ritchson plays a thief from the naughty list."
-     ],
-     [
-      "Film stiže na platformu 2. decembra.",
-      "The film arrives on the platform on 2 December."
-     ]
-    ],
-    [
-     [
-      "Schwarzenegger se tako vraća božićnim filmovima 30 godina nakon komedije \"Jingle All the Way\" iz 1996. godine.",
-      "So Schwarzenegger returns to Christmas films 30 years after the comedy \"Jingle All the Way\" from 1996."
-     ],
-     [
-      "U priči jedan vilenjak ukrade Djedu Mrazu čarobnu crvenu vreću, pa su pokloni za djecu širom svijeta u opasnosti.",
-      "In the story an elf steals Santa's magic red sack, so presents for children around the world are in danger."
-     ],
-     [
-      "Tu ulogu igra Awkwafina.",
-      "Awkwafina plays that role."
-     ],
-     [
-      "Djed Mraz zato traži pomoć na svojoj listi nevaljalih i pronalazi poznatog lopova.",
-      "So Santa looks for help on his naughty list and finds a well-known thief."
-     ],
-     [
-      "Lopov, njegova kćerka i Djed Mraz moraju izvesti veliku pljačku i vratiti vreću prije Božića.",
-      "The thief, his daughter and Santa have to carry out a big heist and get the sack back before Christmas."
-     ]
-    ],
-    [
-     [
-      "Film je režirao Adam Shankman, a producent je Amazon MGM Studios.",
-      "The film was directed by Adam Shankman, and the producer is Amazon MGM Studios."
-     ],
-     [
-      "U traileru Schwarzenegger ima bijelu bradu i crveni kaput, a dio humora je u razlici u veličini između njega i krupnog Ritchsona.",
-      "In the trailer Schwarzenegger has a white beard and a red coat, and part of the humor is the difference in size between him and the large Ritchson."
-     ],
-     [
-      "Amazon film opisuje kao blagdansku avanturu o drugim šansama i neočekivanim prijateljstvima.",
-      "Amazon describes the film as a holiday adventure about second chances and unexpected friendships."
-     ],
-     [
-      "Snimanje u New Yorku počelo je krajem 2024. godine.",
-      "Filming in New York began at the end of 2024."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "trailer",
-     "trailer"
-    ],
-    [
-     "Djed Mraz",
-     "Santa Claus"
-    ],
-    [
-     "lopov",
-     "thief"
-    ],
-    [
-     "vilenjak",
-     "elf"
-    ],
-    [
-     "vreća",
-     "sack"
-    ],
-    [
-     "pljačka",
-     "heist, robbery"
-    ],
-    [
-     "snimanje",
-     "filming"
-    ]
-   ]
-  },
-  {
-   "id": "261103094",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/tehnologija/americki-student-napravio-mlazni-dron-tvrdi-da-je-dostigao-brzinu-od-790-kmh/261103094",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261103094.jpg",
-   "published": "2026-11-03T11:17:00+01:00",
-   "title": [
-    "Američki student napravio mlazni dron brzine 790 km/h",
-    "American student built a jet drone with a speed of 790 km/h"
-   ],
-   "body": [
-    [
-     [
-      "Tomas Salvo, student na univerzitetu Georgia Tech u SAD-u, napravio je mlazni dron po imenu Reaper.",
-      "Tomas Salvo, a student at Georgia Tech university in the USA, built a jet drone called Reaper."
-     ],
-     [
-      "Kaže da je dron u testu dostigao brzinu od 790 km/h.",
-      "He says the drone reached a speed of 790 km/h in a test."
-     ],
-     [
-      "Salvo to smatra svjetskim rekordom za male letjelice na mlazni pogon.",
-      "Salvo considers this a world record for small jet-powered aircraft."
-     ],
-     [
-      "Na društvenoj mreži X objavio je da je napravio tri takve letjelice i da je svaka dostigla tu brzinu.",
-      "On the social network X he announced that he built three such aircraft and that each of them reached that speed."
-     ]
-    ],
-    [
-     [
-      "Prema portalu Interesting Engineering, test je bio 30. oktobra.",
-      "According to the portal Interesting Engineering, the test was on 30 October."
-     ],
-     [
-      "Dron je nosio teret od 1,2 kilograma i četiri minute je održao najveću brzinu.",
-      "The drone carried a load of 1.2 kilograms and kept its top speed for four minutes."
-     ],
-     [
-      "Lansira se s kamiona ili šine, a za manje od 20 sekundi popne se na 2.000 metara visine.",
-      "It is launched from a truck or a rail, and in less than 20 seconds it climbs to a height of 2,000 metres."
-     ],
-     [
-      "Punom brzinom može preletjeti 50 kilometara.",
-      "At full speed it can fly 50 kilometres."
-     ],
-     [
-      "Cijela letjelica teška je oko pet kilograma.",
-      "The whole aircraft weighs about five kilograms."
-     ]
-    ],
-    [
-     [
-      "Na motoru je mlaznica od titanija koja je napravljena 3D printanjem.",
-      "On the engine there is a titanium nozzle made with 3D printing."
-     ],
-     [
-      "Trup je od karbonskih vlakana, a unutrašnja konstrukcija izrezana je laserom.",
-      "The body is made of carbon fibre, and the inner structure was cut with a laser."
-     ],
-     [
-      "Za poređenje, letjelica Kingchaser, koju su u oktobru napravili diplomci Univerziteta u Bathu, dostigla je 330 km/h.",
-      "For comparison, the aircraft Kingchaser, which graduates of the University of Bath built in October, reached 330 km/h."
-     ],
-     [
-      "Salvo se nada da će uz manje izmjene preći 800 km/h.",
-      "Salvo hopes that with small changes it will pass 800 km/h."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "dron",
-     "drone"
-    ],
-    [
-     "mlazni",
-     "jet"
-    ],
-    [
-     "brzina",
-     "speed"
-    ],
-    [
-     "rekord",
-     "record"
-    ],
-    [
-     "letjelica",
-     "aircraft"
-    ],
-    [
-     "teret",
-     "load, cargo"
-    ],
-    [
-     "mlaznica",
-     "nozzle"
-    ],
-    [
-     "diplomac",
-     "graduate"
-    ]
-   ]
-  },
-  {
-   "id": "261103084",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/zelenski-danas-u-berlinu-kod-merza-sedmicu-prije-mirovnih-pregovora/261103084",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261103084.jpg",
-   "published": "2026-11-03T10:49:00+01:00",
-   "title": [
-    "Zelenski danas u Berlinu kod Merza, sedmicu prije pregovora",
-    "Zelensky in Berlin today with Merz, a week before talks"
-   ],
-   "body": [
-    [
-     [
-      "Ukrajinski predsjednik Volodimir Zelenski danas posjećuje Berlin.",
-      "Ukrainian president Volodymyr Zelensky is visiting Berlin today."
-     ],
-     [
-      "Razgovarat će s njemačkim kancelarom Friedrichom Merzom.",
-      "He will talk with German chancellor Friedrich Merz."
-     ],
-     [
-      "Susret je samo sedmicu prije nastavka mirovnih pregovora Rusije i Ukrajine, koje posreduju SAD.",
-      "The meeting is only a week before the continuation of peace talks between Russia and Ukraine, mediated by the USA."
-     ],
-     [
-      "O tome piše agencija Reuters.",
-      "The agency Reuters writes about this."
-     ]
-    ],
-    [
-     [
-      "Merz je posjetu najavio na poslovnoj konferenciji u Berlinu.",
-      "Merz announced the visit at a business conference in Berlin."
-     ],
-     [
-      "Rekao je da će Zelenski doći kod njega odmah nakon podne.",
-      "He said that Zelensky will come to him right after noon."
-     ],
-     [
-      "Dodao je da će \"stvari tada biti malo drugačije\", što Reuters vidi kao aluziju na ukor koji je Zelenski dobio od Donalda Trumpa u Bijeloj kući.",
-      "He added that \"things will be a bit different then\", which Reuters sees as a reference to the scolding Zelensky received from Donald Trump at the White House."
-     ],
-     [
-      "Posjete ukrajinskog predsjednika Njemačkoj drže se u tajnosti do neposredno prije dolaska.",
-      "Visits of the Ukrainian president to Germany are kept secret until shortly before his arrival."
-     ],
-     [
-      "Na videu iz Berlina vidi se kako policija postavlja barikade i provjerava vozila na mostu.",
-      "A video from Berlin shows police setting up barricades and checking vehicles on a bridge."
-     ]
-    ],
-    [
-     [
-      "Evropski lideri podržali su Zelenskog u posljednjim sedmicama, dok se sukobljavao s Washingtonom.",
-      "European leaders have supported Zelensky in recent weeks, while he was in conflict with Washington."
-     ],
-     [
-      "Spor je počeo zbog Trumpovih odluka da kupuje rusko dizel-gorivo i suspenduje dio sankcija.",
-      "The dispute began because of Trump's decisions to buy Russian diesel fuel and suspend some sanctions."
-     ],
-     [
-      "Njemačka je, prema Reutersu, najveći podržavatelj Ukrajine otkako je Trump vratio na vlast i povukao američku finansijsku podršku.",
-      "According to Reuters, Germany is Ukraine's biggest supporter since Trump returned to power and withdrew American financial support."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "predsjednik",
-     "president"
-    ],
-    [
-     "kancelar",
-     "chancellor"
-    ],
-    [
-     "mirovni pregovori",
-     "peace talks"
-    ],
-    [
-     "susret",
-     "meeting"
-    ],
-    [
-     "posjeta",
-     "visit"
-    ],
-    [
-     "sankcije",
-     "sanctions"
-    ],
-    [
-     "podrška",
-     "support"
-    ],
-    [
-     "tajnost",
-     "secrecy"
-    ]
-   ]
-  },
-  {
-   "id": "261103080",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/u-bih-evidentirano-13603-migranta-oko-40-posto-vise-nego-lani/261103080",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261103080.jpg",
-   "published": "2026-11-03T10:48:00+01:00",
-   "title": [
-    "U BiH evidentirano 13.603 migranta, 40 posto više nego lani",
-    "13,603 migrants recorded in BiH, 40 percent more than last year"
-   ],
-   "body": [
-    [
-     [
-      "Služba za poslove sa strancima evidentirala je od 1. januara do 30. septembra 13.603 migranta u BiH.",
-      "The Service for Foreigners' Affairs recorded 13,603 migrants in BiH from 1 January to 30 September."
-     ],
-     [
-      "To je oko 40 posto više nego prošle godine, rekao je direktor Službe Žarko Laketa.",
-      "That is about 40 percent more than last year, said the director of the Service, Žarko Laketa."
-     ],
-     [
-      "Od tog broja, 9.960 migranata iskazalo je namjeru da zatraži azil.",
-      "Of that number, 9,960 migrants showed an intention to ask for asylum."
-     ],
-     [
-      "Najviše ih je iz Sudana, Egipta, Afganistana, Turske i Bangladeša.",
-      "Most of them are from Sudan, Egypt, Afghanistan, Turkey and Bangladesh."
-     ]
-    ],
-    [
-     [
-      "Samo iz Sudana je 2.404 migranta, a iz Egipta 2.276.",
-      "From Sudan alone there are 2,404 migrants, and from Egypt 2,276."
-     ],
-     [
-      "Na dan 30. septembra u prihvatnim centrima boravilo je 1.154 migranta.",
-      "On 30 September, 1,154 migrants were staying in reception centres."
-     ],
-     [
-      "Njih 532 bilo je u centru \"Blažuj\" kod Sarajeva, a 622 u centru \"Lipa\" u Unsko-sanskom kantonu.",
-      "532 of them were in the \"Blažuj\" centre near Sarajevo, and 622 in the \"Lipa\" centre in Una-Sana Canton."
-     ],
-     [
-      "Za 3.172 stranca izrečena je mjera protjerivanja, najviše državljanima Turske, Bangladeša i Kine.",
-      "An expulsion order was issued for 3,172 foreigners, most of them citizens of Turkey, Bangladesh and China."
-     ],
-     [
-      "U Imigracionom centru nalazi se 218 stranaca.",
-      "There are 218 foreigners in the Immigration Centre."
-     ]
-    ],
-    [
-     [
-      "Laketa je podsjetio da je BiH tranzitna zemlja za migrante koji žele u Zapadnu Evropu.",
-      "Laketa reminded that BiH is a transit country for migrants who want to go to Western Europe."
-     ],
-     [
-      "Rekao je i da Rusi, Turci i Kinezi mogu doći u BiH bez viza.",
-      "He also said that Russians, Turks and Chinese can come to BiH without visas."
-     ],
-     [
-      "Prema njegovim riječima, neki pokušavaju zloupotrijebiti tu pogodnost.",
-      "According to him, some try to abuse that benefit."
-     ],
-     [
-      "Služba je u istom periodu odobrila i 5.980 privremenih boravaka.",
-      "In the same period the Service also approved 5,980 temporary residence permits."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "migrant",
-     "migrant"
-    ],
-    [
-     "azil",
-     "asylum"
-    ],
-    [
-     "protjerivanje",
-     "expulsion"
-    ],
-    [
-     "prihvatni centar",
-     "reception centre"
-    ],
-    [
-     "državljanin",
-     "citizen"
-    ],
-    [
-     "viza",
-     "visa"
-    ],
-    [
-     "tranzitna zemlja",
-     "transit country"
-    ],
-    [
-     "boravak",
-     "stay, residence"
     ]
    ]
   }
