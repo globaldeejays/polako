@@ -1,7 +1,567 @@
 {
- "updated": "2026-11-04T18:45:00+01:00",
+ "updated": "2026-11-05T07:45:00+01:00",
  "level": "A2",
  "articles": [
+  {
+   "id": "261105018",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/regija/studentska-lista-predlaze-cetverodnevnu-radnu-sedmicu-bez-smanjenja-plate/261105018",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261105018.jpg",
+   "published": "2026-11-05T07:22:00+01:00",
+   "title": [
+    "Studentska lista predlaže četverodnevnu radnu sedmicu",
+    "The Student List proposes a four-day work week"
+   ],
+   "body": [
+    [
+     [
+      "Studentska lista u Srbiji predstavila je prijedlog novih pravila za radnike.",
+      "The Student List in Serbia has presented a proposal for new rules for workers."
+     ],
+     [
+      "Najviše pažnje privlači ideja o četverodnevnoj radnoj sedmici od 32 sata bez smanjenja plate.",
+      "The idea of a four-day work week of 32 hours without a pay cut attracts the most attention."
+     ],
+     [
+      "Ona ne bi bila obavezna, nego bi je poslodavci mogli izabrati sami.",
+      "It would not be mandatory; employers could choose it themselves."
+     ]
+    ],
+    [
+     [
+      "Radnici bi nakon 12 mjeseci rada dobili ugovor na neodređeno vrijeme.",
+      "After 12 months of work, workers would get a permanent contract."
+     ],
+     [
+      "Ugovori na određeno vrijeme trajali bi najviše 12 mjeseci, a s istim radnikom bi se mogla potpisati najviše četiri.",
+      "Fixed-term contracts would last at most 12 months, and at most four could be signed with the same worker."
+     ],
+     [
+      "Dodaci na platu bili bi veći: 150 posto za rad praznikom, 110 posto za rad nedjeljom i po 50 posto za noćni rad i prekovremene sate.",
+      "Supplements to pay would be higher: 150 percent for work on holidays, 110 percent for work on Sundays and 50 percent each for night work and overtime."
+     ],
+     [
+      "Poslodavci bi morali objaviti raspon plate u oglasima za posao.",
+      "Employers would have to publish the salary range in job ads."
+     ]
+    ],
+    [
+     [
+      "Prijedlog uključuje i tri mjeseca očinskog odsustva te penzije koje bi se usklađivale dvaput godišnje.",
+      "The proposal also includes three months of paternity leave and pensions that would be adjusted twice a year."
+     ],
+     [
+      "Autori kažu da sadašnji zakon ne štiti dovoljno radnike koji nemaju standardan posao.",
+      "The authors say that the current law does not protect workers without a standard job well enough."
+     ],
+     [
+      "Za sve ove promjene bilo bi potrebno promijeniti zakon.",
+      "All these changes would require amending the law."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "radna sedmica",
+     "work week"
+    ],
+    [
+     "plata",
+     "salary"
+    ],
+    [
+     "poslodavac",
+     "employer"
+    ],
+    [
+     "ugovor",
+     "contract"
+    ],
+    [
+     "prekovremeni",
+     "overtime"
+    ],
+    [
+     "penzija",
+     "pension"
+    ],
+    [
+     "odsustvo",
+     "leave"
+    ],
+    [
+     "prijedlog",
+     "proposal"
+    ]
+   ]
+  },
+  {
+   "id": "261105019",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/kosarka/wembanyama-ispisao-historiju-kakvu-nba-nije-vidjela-52-poena-i-24-skoka-srusila-dallas/261105019",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261105019.jpg",
+   "published": "2026-11-05T07:19:00+01:00",
+   "title": [
+    "Wembanyama sa 52 poena i 24 skoka srušio Dallas",
+    "Wembanyama beat Dallas with 52 points and 24 rebounds"
+   ],
+   "body": [
+    [
+     [
+      "Košarkaš Victor Wembanyama odigrao je utakmicu kakvu NBA liga do sada nije vidjela.",
+      "Basketball player Victor Wembanyama played a game the NBA has not seen until now."
+     ],
+     [
+      "San Antonio je pobijedio Dallas 112:111, a Francuz je postigao 52 poena.",
+      "San Antonio beat Dallas 112:111, and the Frenchman scored 52 points."
+     ],
+     [
+      "Uz to je uhvatio 24 skoka i blokirao osam šuteva za 34 minute igre.",
+      "In addition, he grabbed 24 rebounds and blocked eight shots in 34 minutes of play."
+     ]
+    ],
+    [
+     [
+      "Pogodio je 16 od 28 šuteva iz igre i 19 od 23 slobodnih bacanja.",
+      "He made 16 of 28 shots from the field and 19 of 23 free throws."
+     ],
+     [
+      "Prema izvještaju, nijedan igrač u historiji lige nije imao takav učinak.",
+      "According to the report, no player in the league's history has had such a performance."
+     ],
+     [
+      "Najbliže tome je bio Bob McAdoo 1974. godine.",
+      "Bob McAdoo came closest to it in 1974."
+     ],
+     [
+      "Već na poluvremenu imao je 29 poena, 15 skokova i pet blokada.",
+      "Already at halftime he had 29 points, 15 rebounds and five blocks."
+     ]
+    ],
+    [
+     [
+      "San Antonio je u jednom trenutku vodio sa 19 poena razlike, ali se Dallas vratio.",
+      "San Antonio led by 19 points at one point, but Dallas came back."
+     ],
+     [
+      "Naji Marshall je pogodio tricu minutu i 41 sekundu prije kraja i izjednačio na 111.",
+      "Naji Marshall hit a three-pointer one minute and 41 seconds before the end and tied it at 111."
+     ],
+     [
+      "Wembanyama je zatim pogodio jedno slobodno bacanje, a Kyrie Irving je promašio posljednji šut.",
+      "Wembanyama then made one free throw, and Kyrie Irving missed the last shot."
+     ],
+     [
+      "San Antonio ima šest pobjeda zaredom, dok je Dallas izgubio drugi put uzastopno.",
+      "San Antonio has six wins in a row, while Dallas has lost for the second time in a row."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "skok",
+     "rebound"
+    ],
+    [
+     "blokada",
+     "block"
+    ],
+    [
+     "slobodno bacanje",
+     "free throw"
+    ],
+    [
+     "poluvrijeme",
+     "halftime"
+    ],
+    [
+     "poen",
+     "point"
+    ],
+    [
+     "izjednačiti",
+     "to tie"
+    ],
+    [
+     "učinak",
+     "performance"
+    ]
+   ]
+  },
+  {
+   "id": "261105007",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/zdravstveni-radnici-danas-protestuju-ispred-vlade-ks-traze-vece-plate-za-sve-ne-samo-za-doktore/261105007",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261105007.jpg",
+   "published": "2026-11-05T06:41:00+01:00",
+   "title": [
+    "Zdravstveni radnici u Sarajevu traže veće plate za sve",
+    "Health workers in Sarajevo demand higher pay for everyone"
+   ],
+   "body": [
+    [
+     [
+      "Zdravstveni radnici danas u 10 sati protestuju ispred Vlade Kantona Sarajevo.",
+      "Health workers are protesting today at 10 o'clock in front of the Sarajevo Canton Government."
+     ],
+     [
+      "Protest organizuje Glavni odbor Sindikata radnika zaposlenih u zdravstvu.",
+      "The protest is organized by the Main Board of the Union of Health Sector Workers."
+     ],
+     [
+      "Nezadovoljni su zato što su nedavna povećanja plata dobili samo doktori.",
+      "They are unhappy because only doctors received the recent pay increases."
+     ]
+    ],
+    [
+     [
+      "Sindikat traži hitne izmjene kolektivnog ugovora.",
+      "The union demands urgent changes to the collective agreement."
+     ],
+     [
+      "Želi i da se plate povećaju svim zaposlenim u zdravstvu, a ne samo ljekarima.",
+      "It also wants salaries to be raised for all health sector employees, not only physicians."
+     ],
+     [
+      "Osim toga, traži saglasnost za početak pregovora o novom kolektivnom ugovoru jer sadašnji ističe sljedeće godine.",
+      "In addition, it asks for approval to start negotiations on a new collective agreement because the current one expires next year."
+     ]
+    ],
+    [
+     [
+      "Zahtjevi su upućeni Ministarstvu zdravstva i Vladi Kantona Sarajevo.",
+      "The demands have been sent to the Ministry of Health and the Sarajevo Canton Government."
+     ],
+     [
+      "Predsjednik sindikata Senad Sadiković rekao je da žele da radnici u zdravstvu budu ravnopravni.",
+      "Union president Senad Sadiković said they want health workers to be treated equally."
+     ],
+     [
+      "Nije poznato koliko ljudi će doći na protest.",
+      "It is not known how many people will come to the protest."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "protest",
+     "protest"
+    ],
+    [
+     "sindikat",
+     "trade union"
+    ],
+    [
+     "kolektivni ugovor",
+     "collective agreement"
+    ],
+    [
+     "zdravstvo",
+     "healthcare"
+    ],
+    [
+     "ljekar",
+     "physician"
+    ],
+    [
+     "ravnopravan",
+     "equal"
+    ],
+    [
+     "povećanje",
+     "increase"
+    ]
+   ]
+  },
+  {
+   "id": "261105005",
+   "source": "Klix.ba",
+   "section": "Biznis",
+   "url": "https://www.klix.ba/biznis/ekonomija/nafta-jeftinija-skoro-devet-posto-nakon-americkih-izbora-trumpova-kompanija-na-berzi-pala-245-posto/261105005",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261105005.jpg",
+   "published": "2026-11-05T06:29:00+01:00",
+   "title": [
+    "Nafta pojeftinila skoro devet posto nakon izbora u SAD-u",
+    "Oil became almost nine percent cheaper after the US elections"
+   ],
+   "body": [
+    [
+     [
+      "Nakon američkih izbora cijene nafte naglo su pale, a dionice su porasle.",
+      "After the American elections oil prices dropped sharply, and shares rose."
+     ],
+     [
+      "Republikanci su izgubili kontrolu nad Washingtonom, pa je Wall Street u srijedu snažno porastao.",
+      "The Republicans lost control of Washington, so Wall Street rose strongly on Wednesday."
+     ],
+     [
+      "Indeks S&P 500 porastao je 1,6 posto, a Dow Jones više od 1.500 bodova.",
+      "The S&P 500 index rose 1.6 percent, and the Dow Jones more than 1,500 points."
+     ]
+    ],
+    [
+     [
+      "Nafta Brent pojeftinila je 8,7 posto i koštala 94,62 dolara za barel, što je blizu najniže cijene u dva mjeseca.",
+      "Brent oil became 8.7 percent cheaper and cost 94.62 dollars per barrel, which is close to the lowest price in two months."
+     ],
+     [
+      "Analitičari kažu da bi Kongres pod kontrolom demokrata mogao natjerati Trumpa da završi rat s Iranom.",
+      "Analysts say that a Congress controlled by Democrats could push Trump to end the war with Iran."
+     ],
+     [
+      "Dionice kompanije Trump Media pale su 24,5 posto, a Tesla i SpaceX izgubili su po oko 3 do 4 posto.",
+      "Shares of Trump Media fell 24.5 percent, and Tesla and SpaceX lost about 3 to 4 percent each."
+     ],
+     [
+      "Pale su i dionice proizvođača oružja, dok su kompanije za obnovljivu energiju zabilježile rast.",
+      "Shares of weapons makers also fell, while renewable energy companies recorded growth."
+     ]
+    ],
+    [
+     [
+      "Azijske berze u četvrtak nisu reagovale isto: južnokorejski Kospi pao je oko 3,5 posto, a Hang Seng u Hong Kongu porastao je 2,8 posto.",
+      "Asian stock markets did not react the same on Thursday: South Korea's Kospi fell about 3.5 percent, and the Hang Seng in Hong Kong rose 2.8 percent."
+     ],
+     [
+      "Dolar je oslabio, a euro je vrijedio 1,1256 dolara.",
+      "The dollar weakened, and the euro was worth 1.1256 dollars."
+     ],
+     [
+      "Članak ističe da izbori na dugi rok možda malo utiču na tržište, jer ga više pokreću zarade kompanija i kamatne stope.",
+      "The article points out that in the long run elections may have little effect on the market, because company profits and interest rates drive it more."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "nafta",
+     "oil"
+    ],
+    [
+     "dionica",
+     "share (stock)"
+    ],
+    [
+     "berza",
+     "stock exchange"
+    ],
+    [
+     "barel",
+     "barrel"
+    ],
+    [
+     "analitičar",
+     "analyst"
+    ],
+    [
+     "kamatna stopa",
+     "interest rate"
+    ],
+    [
+     "obnovljiv",
+     "renewable"
+    ],
+    [
+     "zarada",
+     "profit"
+    ]
+   ]
+  },
+  {
+   "id": "261104272",
+   "source": "Klix.ba",
+   "section": "Tehnologija",
+   "url": "https://www.klix.ba/vijesti/svijet/roberta-metsola-upozorila-europarlamentarce-da-se-ne-oslanjaju-previse-na-umjetnu-inteligenciju/261104272",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261104272.jpg",
+   "published": "2026-11-04T23:40:00+01:00",
+   "title": [
+    "Metsola upozorila europarlamentarce na umjetnu inteligenciju",
+    "Metsola warned MEPs about artificial intelligence"
+   ],
+   "body": [
+    [
+     [
+      "Predsjednica Evropskog parlamenta Roberta Metsola upozorila je poslanike da se ne oslanjaju previše na umjetnu inteligenciju.",
+      "European Parliament President Roberta Metsola warned members not to rely too much on artificial intelligence."
+     ],
+     [
+      "Parlament trenutno priprema nove smjernice o tome kako se ona smije koristiti.",
+      "The Parliament is currently preparing new guidelines on how it may be used."
+     ],
+     [
+      "Izvještaj je objavila agencija SRNA.",
+      "The report was published by the SRNA agency."
+     ]
+    ],
+    [
+     [
+      "Metsola je rekla da umjetna inteligencija ne može zamijeniti ljudsku procjenu ni političku radnu.",
+      "Metsola said that artificial intelligence cannot replace human judgment or political work."
+     ],
+     [
+      "Prema njenim riječima, pisanje amandmana uz pomoć vještačke inteligencije ne može zamijeniti konstruktivnu raspravu s kolegom.",
+      "According to her, writing amendments with the help of AI cannot replace a constructive discussion with a colleague."
+     ],
+     [
+      "Isto vrijedi za pravna istraživanja, jer teška odluka traži kritičko razmišljanje.",
+      "The same goes for legal research, because a difficult decision requires critical thinking."
+     ],
+     [
+      "Naglasila je da odgovornost uvijek ostaje na izabranim predstavnicima.",
+      "She stressed that responsibility always stays with the elected representatives."
+     ]
+    ],
+    [
+     [
+      "Generalni sekretar Parlamenta rekao je da se pravi vlastiti alat za osjetljive poslove.",
+      "The Parliament's secretary general said that its own tool is being built for sensitive work."
+     ],
+     [
+      "Radit će na internoj infrastrukturi, pa podaci neće izlaziti iz institucije.",
+      "It will run on internal infrastructure, so data will not leave the institution."
+     ],
+     [
+      "Za manje osjetljive zadatke i dalje se mogu koristiti komercijalni modeli.",
+      "Commercial models can still be used for less sensitive tasks."
+     ],
+     [
+      "Zvaničnici se brinu jer neki amandmani pisani uz pomoć AI navode zakone koji ne postoje.",
+      "Officials are worried because some amendments written with the help of AI cite laws that do not exist."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "umjetna inteligencija",
+     "artificial intelligence"
+    ],
+    [
+     "poslanik",
+     "member of parliament"
+    ],
+    [
+     "smjernice",
+     "guidelines"
+    ],
+    [
+     "amandman",
+     "amendment"
+    ],
+    [
+     "odgovornost",
+     "responsibility"
+    ],
+    [
+     "osjetljiv",
+     "sensitive"
+    ],
+    [
+     "alat",
+     "tool"
+    ],
+    [
+     "odluka",
+     "decision"
+    ]
+   ]
+  },
+  {
+   "id": "261104279",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/oko-150-volontera-ce-kod-zavidovica-zasaditi-3000-sadnica-u-akciji-boranke/261104279",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261104279.jpg",
+   "published": "2026-11-04T23:12:00+01:00",
+   "title": [
+    "Oko 150 volontera sadit će 3.000 sadnica kod Zavidovića",
+    "About 150 volunteers will plant 3,000 seedlings near Zavidovići"
+   ],
+   "body": [
+    [
+     [
+      "Kod Zavidovića će u subotu, 7. novembra, biti zasađeno 3.000 sadnica.",
+      "Near Zavidovići, 3,000 seedlings will be planted on Saturday, 7 November."
+     ],
+     [
+      "To je 12. akcija pošumljavanja u okviru kampanje Boranka.",
+      "It is the 12th reforestation action within the Boranka campaign."
+     ],
+     [
+      "Očekuje se oko 150 volontera.",
+      "About 150 volunteers are expected."
+     ]
+    ],
+    [
+     [
+      "Akciju organizuje Savez izviđača Federacije BiH, a partner je Šumarija Zavidovići.",
+      "The action is organized by the Scout Association of the Federation of BiH, and the partner is the Zavidovići forestry office."
+     ],
+     [
+      "Domaćin je izviđački odred \"Klek\" iz Zavidovića.",
+      "The host is the scout troop \"Klek\" from Zavidovići."
+     ],
+     [
+      "Sadnice će se saditi na Maloj Maoči, gdje se spajaju granice Zavidovića i Općine Olovo.",
+      "The seedlings will be planted at Mala Maoča, where the borders of Zavidovići and the Municipality of Olovo meet."
+     ],
+     [
+      "To područje je ranije stradalo u šumskim požarima.",
+      "That area was previously damaged in forest fires."
+     ]
+    ],
+    [
+     [
+      "Volonteri će doći iz Sarajeva, Mostara, Doboj Istoka i Zenice.",
+      "Volunteers will come from Sarajevo, Mostar, Doboj Istok and Zenica."
+     ],
+     [
+      "Učestvovat će i Crveni križ, dvije srednje škole iz Zavidovića i druge organizacije.",
+      "The Red Cross, two secondary schools from Zavidovići and other organizations will also take part."
+     ],
+     [
+      "Organizatori su rekli da žele pomoći da se opožarena područja ponovo zazelene.",
+      "The organizers said they want to help burned areas become green again."
+     ],
+     [
+      "Zahvalili su i gradonačelnici Zavidovića na podršci.",
+      "They also thanked the mayor of Zavidovići for her support."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "sadnica",
+     "seedling"
+    ],
+    [
+     "volonter",
+     "volunteer"
+    ],
+    [
+     "pošumljavanje",
+     "reforestation"
+    ],
+    [
+     "izviđač",
+     "scout"
+    ],
+    [
+     "požar",
+     "fire"
+    ],
+    [
+     "podrška",
+     "support"
+    ],
+    [
+     "akcija",
+     "campaign (action)"
+    ]
+   ]
+  },
   {
    "id": "261104289",
    "source": "Klix.ba",
@@ -3247,474 +3807,6 @@
     [
      "boravak",
      "stay, residence"
-    ]
-   ]
-  },
-  {
-   "id": "261103069",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/kosarka/predsjednik-kk-bosna-ogorcen-u-becu-smo-imali-vise-navijaca-nego-u-zetri-problem-je-dati-5-eura-za-ulaznicu/261103069",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261103069.jpg",
-   "published": "2026-11-03T10:48:00+01:00",
-   "title": [
-    "Predsjednik KK Bosna ogorčen zbog malog broja gledalaca",
-    "KK Bosna president upset about the small number of spectators"
-   ],
-   "body": [
-    [
-     [
-      "Predsjednik košarkaškog kluba Bosna Nihad Selimović ogorčen je malom posjetom na domaćim utakmicama u Zetri.",
-      "The president of basketball club Bosna, Nihad Selimović, is upset about the low attendance at home games in Zetra."
-     ],
-     [
-      "Na konferenciji za medije rekao je da klub igra dobro u Eurocupu i ABA ligi, ali da podrške publike nema.",
-      "At a press conference he said that the club is playing well in the Eurocup and the ABA League, but that there is no support from fans."
-     ],
-     [
-      "Posebno ga smeta što je u Beču bilo više navijača Bosne nego u Sarajevu.",
-      "What bothers him especially is that there were more Bosna fans in Vienna than in Sarajevo."
-     ]
-    ],
-    [
-     [
-      "Protiv Bahčešehira prodato je samo 287 karata, a 1.366 ulaznica podijeljeno je besplatno.",
-      "Against Bahçeşehir only 287 tickets were sold, and 1,366 tickets were given away for free."
-     ],
-     [
-      "Selimović kaže da ulaznice nisu skupe, jer su 60 posto njih po 10 i 15 maraka.",
-      "Selimović says the tickets are not expensive, because 60 percent of them cost 10 and 15 marks."
-     ],
-     [
-      "Za porodičnu tribinu ulaznica košta 5 eura, a kod Partizana 51 euro.",
-      "A ticket for the family stand costs 5 euros, and at Partizan 51 euros."
-     ],
-     [
-      "Od te utakmice klub je zaradio 6.030 KM, a samo organizacija koštala je 30 do 40 hiljada KM.",
-      "The club earned 6,030 KM from that game, and the organisation alone cost 30 to 40 thousand KM."
-     ],
-     [
-      "Zato je poručio da od sada niko neće dobiti besplatnu ulaznicu, čak i ako dvorana bude prazna.",
-      "So he said that from now on nobody will get a free ticket, even if the hall is empty."
-     ]
-    ],
-    [
-     [
-      "Selimović je rekao da je klub od prethodne uprave naslijedio dug od milion i po KM.",
-      "Selimović said the club inherited a debt of one and a half million KM from the previous management."
-     ],
-     [
-      "Više od 600.000 KM već je vraćeno, a tekuće obaveze se redovno plaćaju.",
-      "More than 600,000 KM has already been paid back, and current obligations are paid regularly."
-     ],
-     [
-      "Smatra da bi sljedeća sezona mogla biti teška ako se odnos publike ne promijeni.",
-      "He thinks next season could be difficult if the attitude of the fans does not change."
-     ],
-     [
-      "Bosna sutra u 19:30 igra protiv Balkana u Zetri, a Selimović je molio navijače da napune dvoranu.",
-      "Tomorrow at 19:30 Bosna plays against Balkan in Zetra, and Selimović asked fans to fill the hall."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "košarka",
-     "basketball"
-    ],
-    [
-     "navijač",
-     "fan, supporter"
-    ],
-    [
-     "ulaznica",
-     "ticket"
-    ],
-    [
-     "dvorana",
-     "hall, arena"
-    ],
-    [
-     "publika",
-     "audience"
-    ],
-    [
-     "dug",
-     "debt"
-    ],
-    [
-     "ogorčen",
-     "upset, indignant"
-    ],
-    [
-     "uprava",
-     "management"
-    ]
-   ]
-  },
-  {
-   "id": "261103073",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/dio-alipasinog-polja-danas-bez-grijanja-pogodeno-549-stanova/261103073",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261103073.jpg",
-   "published": "2026-11-03T10:23:00+01:00",
-   "title": [
-    "Dio Alipašina Polja danas bez grijanja, pogođeno 549 stanova",
-    "Part of Alipašino Polje without heating today, 549 flats affected"
-   ],
-   "body": [
-    [
-     [
-      "Korisnici u 549 stanova na Alipašinom Polju danas su bez grijanja.",
-      "Users in 549 flats in Alipašino Polje are without heating today."
-     ],
-     [
-      "Razlog je prekid struje u kotlovnici K-3, iz koje se snabdijevaju toplotom.",
-      "The reason is a power cut at boiler room K-3, from which they get their heat."
-     ],
-     [
-      "Prekid napajanja planiran je od 9 do 15 sati.",
-      "The power cut is planned from 9 to 15 hours."
-     ]
-    ],
-    [
-     [
-      "Kako su saopćile Toplane Sarajevo, Elektrodistribucija je najavila radove na transformatorskoj stanici.",
-      "As Toplane Sarajevo announced, Elektrodistribucija announced works on a transformer station."
-     ],
-     [
-      "Stanica napaja kotlovnicu K-3, a rekonstruira se jedan njen dio.",
-      "The station supplies boiler room K-3, and one part of it is being reconstructed."
-     ],
-     [
-      "Bez toplote su zgrade u Ulici Ive Andrića s brojevima 2, 4, 6 i 8.",
-      "The buildings on Ive Andrić Street with numbers 2, 4, 6 and 8 are without heat."
-     ],
-     [
-      "Isto je i na Trgu međunarodnog prijateljstva, od broja 1 do 9.",
-      "The same applies on International Friendship Square, from number 1 to 9."
-     ]
-    ],
-    [
-     [
-      "Prema informacijama Elektroprivrede BiH, radovi počinju u 9 sati.",
-      "According to information from Elektroprivreda BiH, the works begin at 9 o'clock."
-     ],
-     [
-      "Prekid bi trebao trajati do 15 sati.",
-      "The cut should last until 15 hours."
-     ],
-     [
-      "Iz Toplana kažu da će grijanje ponovo raditi kada radovi završe i kada se vrati redovno napajanje strujom.",
-      "Toplane say that heating will work again when the works are finished and regular power supply returns."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "grijanje",
-     "heating"
-    ],
-    [
-     "stan",
-     "flat, apartment"
-    ],
-    [
-     "kotlovnica",
-     "boiler room"
-    ],
-    [
-     "struja",
-     "electricity"
-    ],
-    [
-     "prekid",
-     "interruption, cut"
-    ],
-    [
-     "radovi",
-     "works, construction"
-    ],
-    [
-     "napajanje",
-     "power supply"
-    ],
-    [
-     "zgrada",
-     "building"
-    ]
-   ]
-  },
-  {
-   "id": "261102029",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/tehnologija/xiaomi-18-pro-i-18-pro-max-ovog-mjeseca-stizu-na-globalno-trziste/261102029",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261102029.jpg",
-   "published": "2026-11-02T08:23:00+01:00",
-   "title": [
-    "Novi Xiaomi telefoni stižu u cijeli svijet",
-    "New Xiaomi phones are coming to the whole world"
-   ],
-   "body": [
-    [
-     [
-      "Xiaomi ima dva nova telefona.",
-      "Xiaomi has two new phones."
-     ],
-     [
-      "Zovu se Xiaomi 18 Pro i 18 Pro Max.",
-      "They are called Xiaomi 18 Pro and 18 Pro Max."
-     ],
-     [
-      "Telefoni su u Kini od septembra.",
-      "The phones have been in China since September."
-     ]
-    ],
-    [
-     [
-      "Ovog mjeseca stižu i u druge zemlje.",
-      "This month they are also coming to other countries."
-     ],
-     [
-      "Ljudi ih uskoro mogu kupiti i izvan Kine.",
-      "People can soon buy them outside China too."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "telefon",
-     "phone"
-    ],
-    [
-     "stizati",
-     "to arrive, to be coming"
-    ],
-    [
-     "mjesec",
-     "month"
-    ],
-    [
-     "zemlja",
-     "country"
-    ],
-    [
-     "kupiti",
-     "to buy"
-    ],
-    [
-     "izvan",
-     "outside"
-    ]
-   ]
-  },
-  {
-   "id": "261102023",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/u-bih-ce-narednih-nekoliko-dana-padati-kisa-na-planinama-snijeg-a-na-jugu-zemlje-suncano/261102023",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261102023.jpg",
-   "published": "2026-11-02T08:17:00+01:00",
-   "title": [
-    "Kiša u Bosni, sunce u Hercegovini",
-    "Rain in Bosnia, sun in Herzegovina"
-   ],
-   "body": [
-    [
-     [
-      "U Bosni i Hercegovini danas pada kiša.",
-      "Today it is raining in Bosnia and Herzegovina."
-     ],
-     [
-      "Kiša će padati i sutra.",
-      "It will rain tomorrow too."
-     ],
-     [
-      "Na planinama može pasti malo snijega.",
-      "A little snow may fall in the mountains."
-     ]
-    ],
-    [
-     [
-      "Od srijede će u Hercegovini biti sunčano.",
-      "From Wednesday it will be sunny in Herzegovina."
-     ],
-     [
-      "U petak ujutro će biti hladno.",
-      "On Friday morning it will be cold."
-     ],
-     [
-      "Temperatura može pasti na minus dva stepena.",
-      "The temperature can drop to minus two degrees."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "kiša",
-     "rain"
-    ],
-    [
-     "snijeg",
-     "snow"
-    ],
-    [
-     "planina",
-     "mountain"
-    ],
-    [
-     "sunčano",
-     "sunny"
-    ],
-    [
-     "hladno",
-     "cold"
-    ],
-    [
-     "stepen",
-     "degree"
-    ]
-   ]
-  },
-  {
-   "id": "261102026",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/spalletti-prokomentarisao-golcinu-alajbegovica-pa-objasnio-zasto-ga-je-vise-forsirao-u-napadu/261102026",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261102026.jpg",
-   "published": "2026-11-02T08:12:00+01:00",
-   "title": [
-    "Spalletti pohvalio gol Kerima Alajbegovića",
-    "Spalletti praised Kerim Alajbegović's goal"
-   ],
-   "body": [
-    [
-     [
-      "Juventus je pobijedio Napoli rezultatom 2:0.",
-      "Juventus beat Napoli 2:0."
-     ],
-     [
-      "Prvi gol je dao Kerim Alajbegović.",
-      "Kerim Alajbegović scored the first goal."
-     ],
-     [
-      "On igra za reprezentaciju Bosne i Hercegovine.",
-      "He plays for the Bosnia and Herzegovina national team."
-     ],
-     [
-      "Gol je dao udarcem iz daljine.",
-      "He scored with a long-range shot."
-     ]
-    ],
-    [
-     [
-      "Trener Luciano Spalletti je rekao da je gol bio odličan.",
-      "Coach Luciano Spalletti said the goal was excellent."
-     ],
-     [
-      "Kada Kerim ide naprijed, on je najbolji na toj poziciji.",
-      "When Kerim goes forward, he is the best in that position."
-     ],
-     [
-      "Zato je u drugom poluvremenu igrao više naprijed.",
-      "That is why he played further forward in the second half."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "gol",
-     "goal"
-    ],
-    [
-     "trener",
-     "coach"
-    ],
-    [
-     "reprezentacija",
-     "national team"
-    ],
-    [
-     "udarac",
-     "shot, kick"
-    ],
-    [
-     "pozicija",
-     "position"
-    ],
-    [
-     "poluvrijeme",
-     "half (of a match)"
-    ]
-   ]
-  },
-  {
-   "id": "261102025",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/messi-golom-i-asistencijom-preokrenuo-utakmicu-za-inter-miami-i-donio-mu-pobjedu/261102025",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261102025.jpg",
-   "published": "2026-11-02T08:11:00+01:00",
-   "title": [
-    "Messi donio pobjedu Inter Miamiju",
-    "Messi brought Inter Miami a win"
-   ],
-   "body": [
-    [
-     [
-      "Inter Miami je igrao protiv New Englanda.",
-      "Inter Miami played against New England."
-     ],
-     [
-      "New England je prvo vodio.",
-      "New England was ahead at first."
-     ],
-     [
-      "Na kraju je Inter Miami pobijedio rezultatom 2:1.",
-      "In the end Inter Miami won 2:1."
-     ]
-    ],
-    [
-     [
-      "Lionel Messi je dao jedan gol.",
-      "Lionel Messi scored one goal."
-     ],
-     [
-      "Imao je i jednu asistenciju.",
-      "He also had one assist."
-     ],
-     [
-      "Zbog ove pobjede tim iduće godine igra na velikom takmičenju.",
-      "Because of this win, the team plays in a big competition next year."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "utakmica",
-     "match, game"
-    ],
-    [
-     "pobjeda",
-     "win, victory"
-    ],
-    [
-     "voditi",
-     "to lead, to be ahead"
-    ],
-    [
-     "gol",
-     "goal"
-    ],
-    [
-     "tim",
-     "team"
-    ],
-    [
-     "takmičenje",
-     "competition"
     ]
    ]
   }
