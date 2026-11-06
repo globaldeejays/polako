@@ -1,19 +1,735 @@
 {
- "updated": "2026-11-06T07:50:00+01:00",
+ "updated": "2026-11-06T13:45:00+01:00",
  "front": [
-  "261106003",
-  "261106010",
-  "261106006",
-  "261106001",
-  "261106005",
-  "261106004",
+  "261106080",
+  "261106159",
+  "261106109",
+  "261106120",
+  "261106173",
+  "261106131",
   "261106007",
-  "261105380",
+  "261106153",
   "261106022",
-  "261106014"
+  "261106093"
  ],
  "level": "A2",
  "articles": [
+  {
+   "id": "261106173",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/crna-hronika/obdukcija-potvrdila-muskarac-iz-celinca-preminuo-od-povreda-pokrenuta-istraga-za-ubistvo/261106173",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261106173.jpg",
+   "published": "2026-11-06T13:38:00+01:00",
+   "title": [
+    "Muškarac iz Čelinca preminuo od povreda, počela istraga za ubistvo",
+    "Man from Čelinac died of his injuries, murder investigation started"
+   ],
+   "body": [
+    [
+     [
+      "Okružno javno tužilaštvo u Banjoj Luci pokrenulo je istragu za ubistvo muškarca iz Čelinca.",
+      "The District Public Prosecutor's Office in Banja Luka has opened an investigation into the murder of a man from Čelinac."
+     ],
+     [
+      "Istraga se vodi protiv N. P. iz Laktaša.",
+      "The investigation is being led against N. P. from Laktaši."
+     ],
+     [
+      "Žrtva, D. S., preminula je u Univerzitetskom kliničkom centru Republike Srpske od povreda koje je zadobila 12. oktobra u Laktašima.",
+      " The victim, D. S., died in the University Clinical Centre of Republika Srpska from injuries he received on 12 October in Laktaši."
+     ]
+    ],
+    [
+     [
+      "Vještak Zavoda za sudsku medicinu utvrdio je da je smrt nastupila na nasilan način.",
+      "An expert from the Institute of Forensic Medicine found that the death happened in a violent way."
+     ],
+     [
+      "Zato je tužilac odlučio da djelo kvalifikuje kao ubistvo, prema članu 124. Krivičnog zakona Republike Srpske.",
+      "Therefore the prosecutor decided to classify the act as murder, according to Article 124 of the Criminal Code of Republika Srpska."
+     ]
+    ],
+    [
+     [
+      "Tužilac je naložio policiji u Banjoj Luci da pronađe osumnjičenog i dovede ga u tužilaštvo.",
+      "The prosecutor ordered the police in Banja Luka to find the suspect and bring him to the prosecutor's office."
+     ],
+     [
+      "Zvaničnici za sada nisu objavili više detalja o tome šta se dogodilo 12. oktobra.",
+      "Officials have not yet published more details about what happened on 12 October."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "istraga",
+     "investigation"
+    ],
+    [
+     "tužilaštvo",
+     "prosecutor's office"
+    ],
+    [
+     "žrtva",
+     "victim"
+    ],
+    [
+     "osumnjičeni",
+     "suspect"
+    ],
+    [
+     "povreda",
+     "injury"
+    ],
+    [
+     "vještak",
+     "expert"
+    ],
+    [
+     "naložiti",
+     "to order"
+    ]
+   ]
+  },
+  {
+   "id": "261106131",
+   "source": "Klix.ba",
+   "section": "Biznis",
+   "url": "https://www.klix.ba/biznis/ekonomija/poreski-obveznici-u-federaciji-bih-za-deset-mjeseci-uplatili-737-milijardi-km-pali-doprinosi-za-pio/261106131",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261106131.jpg",
+   "published": "2026-11-06T13:12:00+01:00",
+   "title": [
+    "Poreski obveznici u FBiH uplatili 7,37 milijardi KM u deset mjeseci",
+    "Taxpayers in the FBiH paid 7.37 billion KM in ten months"
+   ],
+   "body": [
+    [
+     [
+      "Prema podacima Porezne uprave FBiH, poreski obveznici su od januara do oktobra 2026. uplatili 7,37 milijardi KM javnih prihoda.",
+      "According to data from the Tax Administration of the FBiH, taxpayers paid 7.37 billion KM of public revenue from January to October 2026."
+     ],
+     [
+      "To je 0,92 posto više nego u istom periodu prošle godine.",
+      "That is 0.92 percent more than in the same period last year."
+     ],
+     [
+      "Najviše je prikupljeno u Kantonu Sarajevo, oko 2,74 milijarde KM, a slijede Tuzlanski i Zeničko-dobojski kanton.",
+      "The most was collected in Sarajevo Canton, about 2.74 billion KM, followed by Tuzla Canton and Zenica-Doboj Canton."
+     ]
+    ],
+    [
+     [
+      "Doprinosi su iznosili oko 5 milijardi KM, što je oko 48 miliona KM manje nego lani.",
+      "Contributions amounted to about 5 billion KM, which is about 48 million KM less than last year."
+     ],
+     [
+      "Doprinosi za PIO pali su za 2,68 posto, dok su doprinosi za zdravstveno osiguranje ostali skoro isti.",
+      "Contributions for pension insurance fell by 2.68 percent, while contributions for health insurance stayed almost the same."
+     ],
+     [
+      "Direktni porezi porasli su za 7,32 posto, a porez na dohodak za 10,24 posto.",
+      "Direct taxes grew by 7.32 percent, and income tax by 10.24 percent."
+     ],
+     [
+      "Fiskalni promet iznosio je više od 67 milijardi KM, što je 7,05 posto više nego lani.",
+      "Fiscal turnover was more than 67 billion KM, which is 7.05 percent more than last year."
+     ]
+    ],
+    [
+     [
+      "Inspektori su ove godine obavili 4.411 kontrola.",
+      "Inspectors carried out 4,411 inspections this year."
+     ],
+     [
+      "Pronašli su 789 neprijavljenih radnika i zatvorili 388 objekata.",
+      "They found 789 unregistered workers and closed 388 premises."
+     ],
+     [
+      "Krajem oktobra bilo je zaposleno 547.658 osoba, a broj aktivnih firmi porastao je sa 134.348 na 138.511.",
+      "At the end of October 547,658 people were employed, and the number of active companies grew from 134,348 to 138,511."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "poreski obveznik",
+     "taxpayer"
+    ],
+    [
+     "prihod",
+     "revenue"
+    ],
+    [
+     "doprinos",
+     "contribution"
+    ],
+    [
+     "porez na dohodak",
+     "income tax"
+    ],
+    [
+     "inspektor",
+     "inspector"
+    ],
+    [
+     "zaposlen",
+     "employed"
+    ],
+    [
+     "kanton",
+     "canton"
+    ]
+   ]
+  },
+  {
+   "id": "261106159",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/advokat-porodice-jahic-ovo-je-najjaca-poruka-pravosuda-u-bih-svaki-pocinitelj-mora-znati-sto-ga-ceka/261106159",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261106159.jpg",
+   "published": "2026-11-06T13:10:00+01:00",
+   "title": [
+    "Advokat porodice Jahić: Presuda je snažna poruka pravosuđa",
+    "Lawyer of the Jahić family: The verdict is a strong message from the judiciary"
+   ],
+   "body": [
+    [
+     [
+      "Nakon izricanja presude Anisu Kalajdžiću, novinarima je govorio advokat porodice Jahić, Damir Alić.",
+      "After the verdict against Anis Kalajdžić was announced, the lawyer of the Jahić family, Damir Alić, spoke to reporters."
+     ],
+     [
+      "Rekao je da je presuda važan prekretnica za pravosuđe u Bosni i Hercegovini.",
+      "He said that the verdict is an important turning point for the judiciary in Bosnia and Herzegovina."
+     ],
+     [
+      "Prema njegovim riječima, to je najjača poruka koju je pravosuđe moglo poslati kada su u pitanju najteža krivična djela.",
+      " In his words, it is the strongest message the judiciary could send when it comes to the most serious crimes."
+     ]
+    ],
+    [
+     [
+      "Alić vjeruje da će kazna spriječiti slične zločine u budućnosti.",
+      "Alić believes that the sentence will prevent similar crimes in the future."
+     ],
+     [
+      "Kako je rekao, svaki mogući počinitelj sada tačno zna šta ga čeka.",
+      "As he said, every possible perpetrator now knows exactly what awaits him."
+     ],
+     [
+      "Dodao je da je optuženi imao aktivnu odbranu i koristio svoja prava, ali bez uspjeha.",
+      " He added that the defendant had an active defence and used his rights, but without success."
+     ]
+    ],
+    [
+     [
+      "Porodica je zadovoljna presudom.",
+      "The family is satisfied with the verdict."
+     ],
+     [
+      "Očekuje da će Vrhovni sud potvrditi kaznu ako optuženi uloži žalbu.",
+      "It expects the Supreme Court to confirm the sentence if the defendant files an appeal."
+     ],
+     [
+      "Slučaj je u BiH izazvao veliku pažnju jer se mnogi nadaju da će zaštita žena postati bolja.",
+      "The case drew great attention in BiH because many hope that the protection of women will become better."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "advokat",
+     "lawyer"
+    ],
+    [
+     "pravosuđe",
+     "judiciary"
+    ],
+    [
+     "poruka",
+     "message"
+    ],
+    [
+     "počinitelj",
+     "perpetrator"
+    ],
+    [
+     "odbrana",
+     "defence"
+    ],
+    [
+     "porodica",
+     "family"
+    ],
+    [
+     "Vrhovni sud",
+     "Supreme Court"
+    ]
+   ]
+  },
+  {
+   "id": "261106153",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/film-tv/batmanov-motocikl-batpod-na-aukciji-procjena-do-119-miliona-dolara/261106153",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261106153.jpg",
+   "published": "2026-11-06T12:46:00+01:00",
+   "title": [
+    "Batmanov motocikl Batpod ide na aukciju u Londonu",
+    "Batman's motorcycle Batpod goes to auction in London"
+   ],
+   "body": [
+    [
+     [
+      "Batpod, motocikl koji je Christian Bale vozio u filmovima \"Vitez tame\" i \"Vitez tame: Povratak\", bit će prodat na aukciji u Londonu.",
+      "The Batpod, the motorcycle that Christian Bale rode in the films \"The Dark Knight\" and \"The Dark Knight Rises\", will be sold at an auction in London."
+     ],
+     [
+      "Aukcija će biti od 4. do 6. decembra, a organizuje je kuća Propstore.",
+      "The auction will be from 4 to 6 December, and it is organised by the Propstore company."
+     ],
+     [
+      "Procjena je da bi motocikl mogao koštati između 594.000 i 1,19 miliona dolara.",
+      "The estimate is that the motorcycle could cost between 594,000 and 1.19 million dollars."
+     ]
+    ],
+    [
+     [
+      "Batpod je glavni predmet zimske aukcije filmskih i TV rekvizita, na kojoj će biti više od 1.400 predmeta.",
+      "The Batpod is the main item of the winter auction of film and TV props, at which there will be more than 1,400 items."
+     ],
+     [
+      "Njihova ukupna procijenjena vrijednost je 13,2 miliona dolara.",
+      "Their total estimated value is 13.2 million dollars."
+     ],
+     [
+      "Propstore navodi da je ovo možda motocikl iz scene potjere za Jokerom, jer ima tragove i ogrebotine na desnoj strani.",
+      "Propstore says this may be the motorcycle from the chase scene with the Joker, because it has marks and scratches on its right side."
+     ],
+     [
+      "Motocikl ima motor od 750 kubika i gume od 31 inča.",
+      "The motorcycle has a 750 cc engine and 31-inch tyres."
+     ]
+    ],
+    [
+     [
+      "Osnivač Propstorea Stephen Lane rekao je da je Batpod izvanredan podvig filmske produkcije i inžinjeringa.",
+      "The founder of Propstore, Stephen Lane, said that the Batpod is an extraordinary feat of film production and engineering."
+     ],
+     [
+      "Dizajnirali su ga redatelj Christopher Nolan i scenograf Nathan Crowley.",
+      "It was designed by director Christopher Nolan and production designer Nathan Crowley."
+     ],
+     [
+      "Drugi Batpod iz istih filmova prodan je 2016. na aukciji u Londonu za oko 406.000 dolara.",
+      "Another Batpod from the same films was sold in 2016 at an auction in London for about 406,000 dollars."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "aukcija",
+     "auction"
+    ],
+    [
+     "motocikl",
+     "motorcycle"
+    ],
+    [
+     "procjena",
+     "estimate"
+    ],
+    [
+     "rekvizit",
+     "prop"
+    ],
+    [
+     "osnivač",
+     "founder"
+    ],
+    [
+     "scenograf",
+     "production designer"
+    ],
+    [
+     "potjera",
+     "chase"
+    ]
+   ]
+  },
+  {
+   "id": "261106120",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/trump-najavio-moguci-nastavak-vojnih-operacija-protiv-irana-mladi-mjesec-ce-biti-9-novembra-sto-bi-moglo-pogodovati/261106120",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261106120.jpg",
+   "published": "2026-11-06T12:31:00+01:00",
+   "title": [
+    "Trump razmatra nastavak vojnih operacija protiv Irana",
+    "Trump is considering resuming military operations against Iran"
+   ],
+   "body": [
+    [
+     [
+      "Američki predsjednik Donald Trump sastao se sa svojim timom za nacionalnu sigurnost kako bi razgovarali o mogućem nastavku vojnih operacija protiv Irana.",
+      "US President Donald Trump met his national security team to discuss a possible resumption of military operations against Iran."
+     ],
+     [
+      "Visoki zvaničnici potvrdili su za Fox News da su sastanci u Bijeloj kući bili u srijedu i četvrtak.",
+      "Senior officials confirmed to Fox News that the meetings in the White House were on Wednesday and Thursday."
+     ],
+     [
+      "Oni kažu da je 9. novembar mladi mjesec na Bliskom istoku.",
+      "They say that 9 November is the new moon in the Middle East."
+     ],
+     [
+      "Noću tada ima malo mjesečine ili je uopće nema, što pogoduje vojnim operacijama.",
+      " At night there is then little or no moonlight, which favours military operations."
+     ]
+    ],
+    [
+     [
+      "Trump je u četvrtak u Ovalnom uredu rekao da će Vašington odlučiti o nastavku rata.",
+      "On Thursday in the Oval Office Trump said that Washington would decide about continuing the war."
+     ],
+     [
+      "Pitao je da li Amerika treba nastaviti napade kako bi sigurno uništila iranski nuklearni program.",
+      "He asked whether America should continue the attacks to be sure to destroy the Iranian nuclear programme."
+     ],
+     [
+      "Rekao je i da bi radije ostatak zemlje ostavio netaknut, ali da će možda morati drugačije.",
+      "He also said he would rather leave the rest of the country untouched, but that he may have to act differently."
+     ],
+     [
+      "Doda je da će se to uskoro saznati.",
+      " He added that this will be known soon."
+     ]
+    ],
+    [
+     [
+      "Centralna komanda američke vojske (CENTCOM) navodno završava pripreme, ali još nije dobila novu naredbu iz Vašingtona.",
+      "The US Central Command (CENTCOM) is reportedly finishing preparations, but it has not yet received a new order from Washington."
+     ],
+     [
+      "Premijer Iraka Ali Faleh Al-Zaidi rekao je Trumpu telefonom da se iračka teritorija ne smije koristiti za napade na susjedne zemlje.",
+      "Iraqi Prime Minister Ali Faleh Al-Zaidi told Trump by phone that Iraqi territory must not be used to attack neighbouring countries."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "vojni",
+     "military"
+    ],
+    [
+     "nastavak",
+     "continuation"
+    ],
+    [
+     "sastanak",
+     "meeting"
+    ],
+    [
+     "mladi mjesec",
+     "new moon"
+    ],
+    [
+     "zvaničnik",
+     "official"
+    ],
+    [
+     "napad",
+     "attack"
+    ],
+    [
+     "teritorija",
+     "territory"
+    ]
+   ]
+  },
+  {
+   "id": "261106109",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/regija/uhapseno-osam-policajaca-zbog-smrti-dalibora-dragijevica-brata-optuzenog-za-ubistvo-dvogodisnje-danke-ilic/261106109",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261106109.jpg",
+   "published": "2026-11-06T11:29:00+01:00",
+   "title": [
+    "U Srbiji uhapšeno osam policajaca zbog smrti Dalibora Dragijevića",
+    "Eight police officers arrested in Serbia over the death of Dalibor Dragijević"
+   ],
+   "body": [
+    [
+     [
+      "Prema neslužbenim informacijama, u Srbiji je uhapšeno osam pripadnika Uprave kriminalističke policije.",
+      "According to unofficial information, eight members of the Criminal Police Directorate have been arrested in Serbia."
+     ],
+     [
+      "Radi se o istrazi smrti Dalibora Dragijevića, brata čovjeka koji je optužen za ubistvo dvogodišnje Danke Ilić.",
+      "The investigation concerns the death of Dalibor Dragijević, the brother of the man accused of murdering two-year-old Danka Ilić."
+     ],
+     [
+      "Zvanične potvrde hapšenja za sada nema.",
+      "There is no official confirmation of the arrests so far."
+     ]
+    ],
+    [
+     [
+      "Hapšenje je naredilo Više javno tužilaštvo u Nišu, a očekuju se i nova hapšenja.",
+      "The arrests were ordered by the Higher Public Prosecutor's Office in Niš, and more arrests are expected."
+     ],
+     [
+      "Dalibor Dragijević bio je iz mjesta Zlot kod Bora.",
+      "Dalibor Dragijević was from the place Zlot near Bor."
+     ],
+     [
+      "U aprilu 2024. uhapšen je zbog sumnje da je pomogao bratu Dejanu da sakrije tijelo djevojčice.",
+      "In April 2024 he was arrested on suspicion that he helped his brother Dejan hide the girl's body."
+     ],
+     [
+      "Dejan Dragijević i Srđan Janković optuženi su za ubistvo Danke Ilić, a oboje poriču krivicu.",
+      "Dejan Dragijević and Srđan Janković are accused of the murder of Danka Ilić, and both deny guilt."
+     ]
+    ],
+    [
+     [
+      "Nakon Daliborove smrti, MUP Srbije je saopštio da je preminuo prirodnom smrću u službenim prostorijama.",
+      "After Dalibor's death, the Serbian Interior Ministry said that he died of natural causes on official premises."
+     ],
+     [
+      "Portal Nova.rs piše da obdukcija to nije potvrdila.",
+      "The portal Nova.rs writes that the autopsy did not confirm this."
+     ],
+     [
+      "Prema tom izvoru, imao je više povreda, među njima slomljena rebra, i one su uzrok smrti.",
+      "According to that source, he had several injuries, among them broken ribs, and they were the cause of death."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "uhapsiti",
+     "to arrest"
+    ],
+    [
+     "policajac",
+     "police officer"
+    ],
+    [
+     "tužilaštvo",
+     "prosecutor's office"
+    ],
+    [
+     "obdukcija",
+     "autopsy"
+    ],
+    [
+     "povreda",
+     "injury"
+    ],
+    [
+     "istraga",
+     "investigation"
+    ],
+    [
+     "neslužbeno",
+     "unofficially"
+    ],
+    [
+     "krivica",
+     "guilt"
+    ]
+   ]
+  },
+  {
+   "id": "261106080",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/anis-kalajdzic-osuden-na-45-godina-zatvora-za-ubistvo-aldine-jahic-u-mostaru/261106080",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261106080.jpg",
+   "published": "2026-11-06T11:26:00+01:00",
+   "title": [
+    "Anis Kalajdžić osuđen na 45 godina zatvora za ubistvo u Mostaru",
+    "Anis Kalajdžić sentenced to 45 years in prison for the murder in Mostar"
+   ],
+   "body": [
+    [
+     [
+      "Kantonalni sud u Mostaru osudio je Anisa Kalajdžića na 45 godina zatvora zbog ubistva Aldine Jahić.",
+      "The Cantonal Court in Mostar sentenced Anis Kalajdžić to 45 years in prison for the murder of Aldina Jahić."
+     ],
+     [
+      "Presudu je izrekao sudija Darko Zovko, a ona još nije pravosnažna.",
+      "The verdict was delivered by judge Darko Zovko, and it is not yet final."
+     ],
+     [
+      "Aldina Jahić imala je 32 godine i bila je iz Kalesije.",
+      "Aldina Jahić was 32 years old and was from Kalesija."
+     ]
+    ],
+    [
+     [
+      "Ubistvo se dogodilo 16. novembra 2025. oko 18:00 u Mostaru.",
+      "The murder happened on 16 November 2025 at around 18:00 in Mostar."
+     ],
+     [
+      "Prema optužnici, Kalajdžić je čekao ispred fitnes centra u kojem je Aldina trenirala i napao je više puta.",
+      "According to the indictment, Kalajdžić waited outside the fitness centre where Aldina trained and attacked her several times."
+     ],
+     [
+      "Ona je pobjegla prema obližnjem restoranu i tražila od prolaznika da pozovu policiju, ali ju je on našao u toaletu i pucao na nju iz pištolja.",
+      "She ran towards a nearby restaurant and asked passersby to call the police, but he found her in a toilet and shot her with a pistol."
+     ],
+     [
+      "Optužen je i za nezakonit posjed oružja te za prijetnje i uhođenje prije ubistva.",
+      "He was also charged with illegal possession of a weapon and with threats and stalking before the murder."
+     ]
+    ],
+    [
+     [
+      "Tužiteljica Vesna Pranjić tražila je kaznu od 45 godina i rekla da je to rodno uvjetovano ubistvo.",
+      "Prosecutor Vesna Pranjić asked for a sentence of 45 years and said it was a gender-based murder."
+     ],
+     [
+      "Vještaci su utvrdili da je Kalajdžić u vrijeme djela bio smanjeno uračunljiv, ali ne bitno.",
+      "Experts found that Kalajdžić had diminished responsibility at the time of the act, but not significantly."
+     ],
+     [
+      "Njegov advokat nije osporavao ubistvo, ali je tvrdio da rodni motiv nije dokazan.",
+      "His lawyer did not dispute the murder, but claimed that a gender motive was not proven."
+     ],
+     [
+      "Kalajdžić je u posljednjoj riječi rekao da žali zbog onoga što se dogodilo, a presudu može pobijati žalbom pred Vrhovnim sudom FBiH.",
+      "In his last words Kalajdžić said he regrets what happened, and he can challenge the verdict with an appeal to the Supreme Court of the FBiH."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "presuda",
+     "verdict"
+    ],
+    [
+     "zatvor",
+     "prison"
+    ],
+    [
+     "ubistvo",
+     "murder"
+    ],
+    [
+     "optužnica",
+     "indictment"
+    ],
+    [
+     "tužiteljica",
+     "prosecutor (female)"
+    ],
+    [
+     "vještak",
+     "expert"
+    ],
+    [
+     "žalba",
+     "appeal"
+    ]
+   ]
+  },
+  {
+   "id": "261106093",
+   "source": "Klix.ba",
+   "section": "Tehnologija",
+   "url": "https://www.klix.ba/scitech/gaming/rockstar-objavio-39-novih-slika-iz-igre-gta-6-pred-izlazak-19-novembra/261106093",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261106093.jpg",
+   "published": "2026-11-06T10:41:00+01:00",
+   "title": [
+    "Rockstar objavio 39 novih slika iz igre GTA 6",
+    "Rockstar released 39 new pictures from the game GTA 6"
+   ],
+   "body": [
+    [
+     [
+      "Kompanija Rockstar Games objavila je na svojoj web-stranici 39 novih slika iz igre GTA VI.",
+      "The company Rockstar Games published 39 new pictures from the game GTA VI on its website."
+     ],
+     [
+      "Igra izlazi 19. novembra, dakle za manje od dvije sedmice.",
+      "The game comes out on 19 November, so in less than two weeks."
+     ],
+     [
+      "Galerija se zove \"Launch Gallery\", a uz nju je poruka: \"Vidimo se u Leonidi 19. novembra\".",
+      "The gallery is called \"Launch Gallery\", and with it came the message: \"See you in Leonida on 19 November\"."
+     ]
+    ],
+    [
+     [
+      "Na slikama se vide nove scene iz grada Vice City, njegovi stanovnici i zločini koje čine glavni likovi, Jason i Lucia.",
+      "The pictures show new scenes from the city of Vice City, its residents and the crimes committed by the main characters, Jason and Lucia."
+     ],
+     [
+      "Radnja se odvija u izmišljenoj američkoj državi Leonida.",
+      "The story takes place in the fictional American state of Leonida."
+     ],
+     [
+      "Prošlo je 13 godina od izlaska igre GTA V, koja je objavljena 2013.",
+      "13 years have passed since the release of GTA V, which came out in 2013."
+     ],
+     [
+      "Posljednji najavni video objavljen je 15. oktobra, a reklame se pojavljuju na televiziji, bilbordima i autobusima širom svijeta.",
+      "The last trailer was published on 15 October, and ads appear on television, billboards and buses around the world."
+     ]
+    ],
+    [
+     [
+      "Najveća promocija je u Miamiju, koji je bio inspiracija za Vice City.",
+      "The biggest promotion is in Miami, which was the inspiration for Vice City."
+     ],
+     [
+      "Dan prije izlaska, 18. novembra, Rockstar i košarkaški klub Miami Heat organizuju događaj \"A Night in Vice City\".",
+      "The day before the release, on 18 November, Rockstar and the basketball club Miami Heat are organising the event \"A Night in Vice City\"."
+     ],
+     [
+      "Igra izlazi za PlayStation 5 i Xbox Series X|S, a preuzimanje počinje 10. novembra.",
+      "The game comes out for PlayStation 5 and Xbox Series X|S, and the download starts on 10 November."
+     ],
+     [
+      "Prema portalu IGN, trebat će joj 212 GB prostora.",
+      "According to the portal IGN, it will need 212 GB of space."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "igra",
+     "game"
+    ],
+    [
+     "slika",
+     "picture"
+    ],
+    [
+     "galerija",
+     "gallery"
+    ],
+    [
+     "izlazak",
+     "release"
+    ],
+    [
+     "najavni video",
+     "trailer"
+    ],
+    [
+     "reklama",
+     "advertisement"
+    ],
+    [
+     "preuzimanje",
+     "download"
+    ]
+   ]
+  },
   {
    "id": "261106022",
    "source": "Klix.ba",
@@ -4961,574 +5677,6 @@
    ],
    "source": "Klix.ba",
    "image": "https://static.klix.ba/media/images/vijesti/b_261104024.jpg"
-  },
-  {
-   "id": "261104016",
-   "section": "Biznis",
-   "url": "https://www.klix.ba/biznis/ekonomija/predsjednik-sindikalista-samir-kurtovic-trazimo-minimalnu-platu-od-1500-km-do-kraja-godine-ili-radnici-odlaze/261104016",
-   "published": "2026-11-04T06:41:00+01:00",
-   "title": [
-    "Sindikati traže minimalnu platu od 1.500 KM do kraja godine",
-    "Unions demand a minimum wage of 1,500 KM by the end of the year"
-   ],
-   "body": [
-    [
-     [
-      "Savez samostalnih sindikata BiH formalno će predložiti da minimalna plata u Federaciji bude najmanje 1.500 KM.",
-      "The Confederation of Independent Trade Unions of BiH will formally propose that the minimum wage in the Federation be at least 1,500 KM."
-     ],
-     [
-      "To je u emisiji na TVSA potvrdio predsjednik Saveza Samir Kurtović.",
-      "The president of the Confederation, Samir Kurtović, confirmed this on the show on TVSA."
-     ],
-     [
-      "Prijedlog će poslati Ekonomsko-socijalnom vijeću i traži hitnu sjednicu.",
-      "He will send the proposal to the Economic-Social Council and is asking for an urgent session."
-     ]
-    ],
-    [
-     [
-      "Kurtović kaže da radnici s današnjim platama ne mogu pratiti rast cijena.",
-      "Kurtović says that workers on today's wages cannot keep up with rising prices."
-     ],
-     [
-      "Podsjetio je da minimalna plata u Hrvatskoj iznosi oko 1.130 eura, a u EU između 1.200 i 1.400 eura.",
-      "He reminded that the minimum wage in Croatia is about 1,130 euros, and in the EU between 1,200 and 1,400 euros."
-     ],
-     [
-      "Cijene u EU su, prema njegovim riječima, gotovo iste kao u BiH.",
-      "Prices in the EU are, according to him, almost the same as in BiH."
-     ],
-     [
-      "Zato radnici odlaze u inostranstvo, gdje mogu zaraditi otprilike duplo više.",
-      "That is why workers are leaving for abroad, where they can earn roughly double."
-     ]
-    ],
-    [
-     [
-      "Sindikat ne želi prijedlog zakona po kojem bi minimalac iznosio 70 posto prosječne plate.",
-      "The union does not want the draft law under which the minimum wage would be 70 percent of the average wage."
-     ],
-     [
-      "Smatra da to odgovara samo radnicima s osnovnom školom, pa traži jasne platne razrede prema obrazovanju.",
-      "It believes this suits only workers with primary education, so it demands clear pay grades according to education."
-     ],
-     [
-      "Razgovor s Vladom FBiH i poslodavcima očekuje se sljedeće sedmice.",
-      "A meeting with the Federation Government and employers is expected next week."
-     ],
-     [
-      "Sindikat želi da se pregovori završe do kraja godine jer, kako kaže, radnici ne mogu čekati.",
-      "The union wants the talks to end by the end of the year because, as it says, workers cannot wait."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "plata",
-     "salary, wage"
-    ],
-    [
-     "sindikat",
-     "trade union"
-    ],
-    [
-     "radnik",
-     "worker"
-    ],
-    [
-     "poslodavac",
-     "employer"
-    ],
-    [
-     "prijedlog",
-     "proposal"
-    ],
-    [
-     "cijena",
-     "price"
-    ],
-    [
-     "vijeće",
-     "council"
-    ],
-    [
-     "zakon",
-     "law"
-    ]
-   ],
-   "source": "Klix.ba",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261104016.jpg"
-  },
-  {
-   "id": "261104017",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/nauka/fascinantno-otkrice-pomocu-ct-skenera-provalili-sifru-na-katancu-s-brodoloma-iz-16-stoljeca/261104017",
-   "published": "2026-11-04T06:31:00+01:00",
-   "title": [
-    "CT skener otkrio šifru katanca s brodoloma iz 16. stoljeća",
-    "CT scanner reveals the code of a padlock from a 16th-century shipwreck"
-   ],
-   "body": [
-    [
-     [
-      "Naučnici su pomoću 3D skeniranja otkrili šifru mjedenog katanca starog oko 400 godina.",
-      "Scientists used 3D scanning to discover the code of a brass padlock about 400 years old."
-     ],
-     [
-      "Katanac je pronađen na obali Velsa, a šifra se sastoji od četiri slova: ANCE.",
-      "The padlock was found on the coast of Wales, and the code consists of four letters: ANCE."
-     ],
-     [
-      "Analizu su radili stručnjaci s Univerziteta u Cardiffu i Nacionalnog muzeja Velsa.",
-      "The analysis was done by experts from Cardiff University and the National Museum Wales."
-     ]
-    ],
-    [
-     [
-      "Katanac je 1999. godine metal-detektorom pronašao Peter Hughes, koji je tada imao 69 godina.",
-      "The padlock was found in 1999 with a metal detector by Peter Hughes, who was 69 years old at the time."
-     ],
-     [
-      "Pripadao je teretu trgovačkog broda Ann Francis, koji je u oluji potonuo 28. decembra 1583.",
-      "It belonged to the cargo of the merchant ship Ann Francis, which sank in a storm on 28 December 1583."
-     ],
-     [
-      "Hughes je oko 20 godina pokušavao otvoriti katanac okretanjem koturića, ali nije uspio.",
-      "For about 20 years Hughes tried to open the padlock by turning the dials, but he did not succeed."
-     ],
-     [
-      "Brava ima četiri prstena sa po šest slova, što daje 1.296 mogućih kombinacija.",
-      "The lock has four rings with six letters each, which gives 1,296 possible combinations."
-     ]
-    ],
-    [
-     [
-      "David Williams je koristio industrijski mikro-CT skener, koji može pogledati unutar metala bez oštećenja.",
-      "David Williams used an industrial micro-CT scanner, which can look inside metal without damaging it."
-     ],
-     [
-      "Prvo skeniranje iznenadilo je tim jer su se unutar mehanizma vidjela slova.",
-      "The first scan surprised the team because letters could be seen inside the mechanism."
-     ],
-     [
-      "Drugo skeniranje nije uspjelo, a tek treći pokušaj dao je čitljivu šifru.",
-      "The second scan failed, and only the third attempt gave a readable code."
-     ],
-     [
-      "Katanac je izložen u Muzeju obale u Swanseaju, zajedno s ostalim predmetima s broda.",
-      "The padlock is on display in the Museum of the Coast in Swansea, together with other items from the ship."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "katanac",
-     "padlock"
-    ],
-    [
-     "šifra",
-     "code"
-    ],
-    [
-     "brodolom",
-     "shipwreck"
-    ],
-    [
-     "naučnik",
-     "scientist"
-    ],
-    [
-     "skeniranje",
-     "scanning"
-    ],
-    [
-     "mjedeni",
-     "brass"
-    ],
-    [
-     "teret",
-     "cargo"
-    ],
-    [
-     "oluja",
-     "storm"
-    ]
-   ],
-   "source": "Klix.ba",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261104017.jpg"
-  },
-  {
-   "id": "261103287",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/dojavljena-bomba-na-izraelskom-kruzeru-u-grckoj-zbog-mjera-sigurnosti-zadrzano-1537-ljudi/261103287",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261103287.jpg",
-   "published": "2026-11-03T18:41:00+01:00",
-   "title": [
-    "Dojava o bombi na izraelskom kruzeru u Grčkoj",
-    "Bomb threat on an Israeli cruise ship in Greece"
-   ],
-   "body": [
-    [
-     [
-      "Grčka obalska straža pretražuje izraelski kruzer Crown Iris u luci na ostrvu Siros.",
-      "The Greek coast guard is searching the Israeli cruise ship Crown Iris in a port on the island of Syros."
-     ],
-     [
-      "Nepoznata osoba dojavila je da je na trup broda postavljena eksplozivna naprava.",
-      "An unknown person reported that an explosive device had been placed on the ship's hull."
-     ],
-     [
-      "Brod vodi izraelska kompanija Mano Maritime, a plovi pod zastavom Paname.",
-      "The ship is run by the Israeli company Mano Maritime, and it sails under the flag of Panama."
-     ]
-    ],
-    [
-     [
-      "Kruzer je trebao ploviti prema Hajfi u Izraelu, a na njemu je 940 putnika i 597 članova posade.",
-      "The cruise ship was due to sail to Haifa in Israel, and it has 940 passengers and 597 crew members on board."
-     ],
-     [
-      "Zbog mjera sigurnosti zadržano je ukupno 1.537 ljudi.",
-      "Because of the security measures, a total of 1,537 people were held."
-     ],
-     [
-      "Obalska straža pretražila je brod psom za otkrivanje eksploziva, a pomogao im je i privatni ronilac.",
-      "The coast guard searched the ship with an explosives-detection dog, and a private diver helped them."
-     ],
-     [
-      "Na mjesto događaja poslana je i posebna jedinica.",
-      "A special unit was also sent to the scene."
-     ]
-    ],
-    [
-     [
-      "Prvi pregled nije pronašao nikakvu eksplozivnu napravu.",
-      "The first inspection did not find any explosive device."
-     ],
-     [
-      "Stručnjaci obalske straže trebali bi doći oko 20:30 po bosanskom vremenu i obaviti dodatne provjere.",
-      "Coast guard specialists should arrive at about 20:30 Bosnian time and carry out further checks."
-     ],
-     [
-      "Ako ništa ne pronađu, brod bi mogao nastaviti putovanje.",
-      "If they find nothing, the ship could continue its voyage."
-     ],
-     [
-      "Prijetnje bombom prijavljene su i za najmanje sedam letova u Evropi, ali ni tamo nije pronađen eksploziv.",
-      "Bomb threats were also reported for at least seven flights in Europe, but no explosives were found there either."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "kruzer",
-     "cruise ship"
-    ],
-    [
-     "dojaviti",
-     "to report, tip off"
-    ],
-    [
-     "eksploziv",
-     "explosive"
-    ],
-    [
-     "obalska straža",
-     "coast guard"
-    ],
-    [
-     "posada",
-     "crew"
-    ],
-    [
-     "luka",
-     "port"
-    ],
-    [
-     "trup",
-     "hull"
-    ]
-   ]
-  },
-  {
-   "id": "261103269",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/vodovod-sa-stanovnicima-sarajevskih-naselja-dogovorio-kako-ce-vrsiti-redukcije-vode/261103269",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261103269.jpg",
-   "published": "2026-11-03T18:18:00+01:00",
-   "title": [
-    "Vodovod i stanovnici dogovorili kako će se vršiti redukcije vode",
-    "The water utility and residents agreed how water cuts will be carried out"
-   ],
-   "body": [
-    [
-     [
-      "Sarajevski Vodovod i kanalizacija (ViK) dogovorio je sa stanovnicima pet naselja kako će se vršiti redukcije vode.",
-      "The Sarajevo water utility (ViK) agreed with residents of five neighbourhoods how water reductions will be carried out."
-     ],
-     [
-      "Riječ je o naseljima Pogledine, Širokača, Komatin, Jarčedoli i Mahmutovac.",
-      "These are the neighbourhoods of Pogledine, Širokača, Komatin, Jarčedoli and Mahmutovac."
-     ],
-     [
-      "Redukcije će trajati dok traju nepovoljne hidrološke prilike, odnosno dok se stanje na izvorima ne stabilizira.",
-      "The reductions will last as long as the unfavourable hydrological conditions last, that is, until the situation at the water sources becomes stable."
-     ]
-    ],
-    [
-     [
-      "ViK kaže da će pokušati rasporediti dostupnu vodu što racionalnije i svim korisnicima osigurati najbolje moguće snabdijevanje.",
-      "ViK says it will try to distribute the available water as sensibly as possible and give all users the best possible supply."
-     ],
-     [
-      "Dogovoreno je i da će se uspostaviti direktna komunikacija preko imenovanih kontakt osoba.",
-      "It was also agreed that direct communication will be set up through named contact persons."
-     ],
-     [
-      "Tako bi stanovnici bili na vrijeme obaviješteni, a problemi na terenu rješavali bi se brže.",
-      "This way residents would be informed in time, and problems on the ground would be solved faster."
-     ]
-    ],
-    [
-     [
-      "Redukcije vode u Kantonu Sarajevo traju već sedmicama, a ViK navodi da je stanje na izvorima loše nakon višemjesečne suše.",
-      "Water reductions in Sarajevo Canton have been going on for weeks, and ViK says the situation at the sources is poor after a drought lasting several months."
-     ],
-     [
-      "Stanovnici Jarčedola i Pogledina danas su protestovali ispred direkcije ViK-a.",
-      "Residents of Jarčedoli and Pogledine protested today in front of the ViK headquarters."
-     ],
-     [
-      "Rekli su da mjesecima nemaju redovnu vodu, pogotovo noću.",
-      "They said that for months they have not had regular water, especially at night."
-     ],
-     [
-      "Dodali su da računi i dalje stižu kao i prije.",
-      "They added that the bills still arrive as before."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "redukcija",
-     "reduction, cut"
-    ],
-    [
-     "naselje",
-     "neighbourhood"
-    ],
-    [
-     "suša",
-     "drought"
-    ],
-    [
-     "izvor",
-     "source, spring"
-    ],
-    [
-     "snabdijevanje",
-     "supply"
-    ],
-    [
-     "stanovnik",
-     "resident"
-    ],
-    [
-     "račun",
-     "bill"
-    ]
-   ]
-  },
-  {
-   "id": "261103275",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/tuzilastvo-u-rimu-preuzelo-crnu-kutiju-helikoptera-eufor-a-zabiljezila-je-cijeli-let-saslusat-ce-se-i-prezivjeli/261103275",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261103275.jpg",
-   "published": "2026-11-03T18:12:00+01:00",
-   "title": [
-    "Tužilaštvo u Rimu preuzelo crnu kutiju helikoptera EUFOR-a",
-    "Prosecutors in Rome took the black box of the EUFOR helicopter"
-   ],
-   "body": [
-    [
-     [
-      "Tužilaštvo u Rimu preuzelo je crnu kutiju helikoptera Chinook koji se srušio kod Brčkog.",
-      "The prosecutor's office in Rome has taken over the black box of the Chinook helicopter that crashed near Brčko."
-     ],
-     [
-      "Uređaj je zabilježio cijeli let, kretanje helikoptera i sve podatke o njegovom radu.",
-      "The device recorded the whole flight, the movement of the helicopter and all data about its operation."
-     ],
-     [
-      "Stručnjaci italijanskog Ministarstva odbrane pregledat će ga u okviru opsežne istrage.",
-      "Experts of the Italian Ministry of Defence will examine it as part of a broad investigation."
-     ]
-    ],
-    [
-     [
-      "Helikopter misije EUFOR Althea trebao je sletjeti na brčansku pistu da bi se promijenili piloti.",
-      "The helicopter of the EUFOR Althea mission was supposed to land on the Brčko airstrip so that the pilots could be changed."
-     ],
-     [
-      "Prilikom polijetanja izgubio je visinu i udario u tlo.",
-      "During takeoff it lost altitude and hit the ground."
-     ],
-     [
-      "Poginula su četiri italijanska pripadnika EUFOR-a, a jedna narednica preminula je u bolnici.",
-      "Four Italian members of EUFOR died, and one sergeant died in hospital."
-     ],
-     [
-      "Obdukcija u Rimu potvrdila je da su uzrok smrti teške povrede.",
-      "The autopsy in Rome confirmed that the cause of death was severe injuries."
-     ]
-    ],
-    [
-     [
-      "Tužilac Francesco Saverio Musolino ponovo će saslušati preživjele čim im zdravlje to dopusti.",
-      "Prosecutor Francesco Saverio Musolino will question the survivors again as soon as their health allows."
-     ],
-     [
-      "Italijanska policija već je razgovarala s dijelom svjedoka i s trojicom pilota koji su bili u helikopteru.",
-      "Italian police have already spoken with some of the witnesses and with the three pilots who were in the helicopter."
-     ],
-     [
-      "Prema agenciji ANSA, glavna pretpostavka je tehnički kvar, jer su oba pilota imala iste komande.",
-      "According to the agency ANSA, the main assumption is a technical malfunction, because both pilots had the same controls."
-     ],
-     [
-      "Vojno tužilaštvo u Rimu otvorilo je i slučaj protiv nepoznatih osoba zbog sumnje na nemarno gubljenje letjelice.",
-      "The military prosecutor's office in Rome has also opened a case against unknown persons over suspected negligent loss of the aircraft."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "crna kutija",
-     "black box"
-    ],
-    [
-     "tužilaštvo",
-     "prosecutor's office"
-    ],
-    [
-     "istraga",
-     "investigation"
-    ],
-    [
-     "preživjeli",
-     "survivor"
-    ],
-    [
-     "obdukcija",
-     "autopsy"
-    ],
-    [
-     "kvar",
-     "malfunction"
-    ],
-    [
-     "svjedok",
-     "witness"
-    ]
-   ]
-  },
-  {
-   "id": "261103272",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/film-tv/jason-statham-i-guy-ritchie-opet-zajedno-snimaju-akcijski-triler-dogfight-o-kriminalnom-podzemlju/261103272",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261103272.jpg",
-   "published": "2026-11-03T17:56:00+01:00",
-   "title": [
-    "Statham i Ritchie opet zajedno snimaju triler \"Dogfight\"",
-    "Statham and Ritchie make the thriller \"Dogfight\" together again"
-   ],
-   "body": [
-    [
-     [
-      "Netflix je najavio akcijski triler \"Dogfight\", a režira ga Guy Ritchie, dok glavnu ulogu igra Jason Statham.",
-      "Netflix has announced the action thriller \"Dogfight\", which is directed by Guy Ritchie, while Jason Statham plays the main role."
-     ],
-     [
-      "To je njihov sedmi zajednički film.",
-      "It is their seventh film together."
-     ],
-     [
-      "Netflix ga opisuje kao akcijski film o osveti u londonskom kriminalnom podzemlju.",
-      "Netflix describes it as an action film about revenge in London's criminal underworld."
-     ]
-    ],
-    [
-     [
-      "Snimanje u Velikoj Britaniji počinje početkom 2027. godine.",
-      "Filming in the United Kingdom starts at the beginning of 2027."
-     ],
-     [
-      "Datum premijere i ostatak glumačke ekipe još nisu objavljeni.",
-      "The premiere date and the rest of the cast have not been announced yet."
-     ],
-     [
-      "Ritchie piše scenarij, režira i producira, a Statham je i producent.",
-      "Ritchie writes the script, directs and produces, and Statham is also a producer."
-     ],
-     [
-      "Film proizvode kompanije Black Bear Pictures, Toff Guy Films i Punch Palace Productions.",
-      "The film is produced by the companies Black Bear Pictures, Toff Guy Films and Punch Palace Productions."
-     ]
-    ],
-    [
-     [
-      "Njihova saradnja počela je 1998. filmom \"Lock, Stock and Two Smoking Barrels\", Ritchiejevim redateljskim debijem.",
-      "Their cooperation began in 1998 with the film \"Lock, Stock and Two Smoking Barrels\", Ritchie's directing debut."
-     ],
-     [
-      "Za Stathama je to bila prva filmska uloga.",
-      "For Statham it was the first film role."
-     ],
-     [
-      "Zajedno su kasnije snimili i \"Snatch\", \"Revolver\" i \"Wrath of Man\".",
-      "Later they also made \"Snatch\", \"Revolver\" and \"Wrath of Man\" together."
-     ],
-     [
-      "Prije \"Dogfighta\" izaći će njihov film \"Viva La Madness\", nastavak filma \"Layer Cake\".",
-      "Before \"Dogfight\", their film \"Viva La Madness\", a sequel to \"Layer Cake\", will come out."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "najaviti",
-     "to announce"
-    ],
-    [
-     "osveta",
-     "revenge"
-    ],
-    [
-     "podzemlje",
-     "underworld"
-    ],
-    [
-     "scenarij",
-     "script"
-    ],
-    [
-     "premijera",
-     "premiere"
-    ],
-    [
-     "saradnja",
-     "cooperation"
-    ],
-    [
-     "glumačka ekipa",
-     "cast"
-    ]
-   ]
   }
  ]
 }
