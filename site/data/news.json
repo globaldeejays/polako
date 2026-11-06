@@ -1,18 +1,995 @@
 {
- "updated": "2026-11-05T21:54:32+01:00",
+ "updated": "2026-11-06T07:50:00+01:00",
  "front": [
-  "261105336",
-  "261105363",
-  "261105350",
-  "261105368",
-  "261102200",
-  "261105346",
-  "261105341",
-  "261105331",
-  "261105182"
+  "261106003",
+  "261106010",
+  "261106006",
+  "261106001",
+  "261106005",
+  "261106004",
+  "261106007",
+  "261105380",
+  "261106022",
+  "261106014"
  ],
  "level": "A2",
  "articles": [
+  {
+   "id": "261106022",
+   "source": "Klix.ba",
+   "section": "Zdravlje",
+   "url": "https://www.klix.ba/lifestyle/zdravlje/kardiolog-otkrio-koje-namirnice-izbjegavati-nakon-srcanog-udara/261106022",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261106022.jpg",
+   "published": "2026-11-06T07:35:00+01:00",
+   "title": [
+    "Kardiohirurg otkrio šta jede, a šta izbjegava nakon srčanog udara",
+    "Heart surgeon reveals what he eats and what he avoids after a heart attack"
+   ],
+   "body": [
+    [
+     [
+      "Američki kardiohirurg Jeremy London ima više od 25 godina iskustva i prije oko četiri godine imao je srčani udar.",
+      "The American heart surgeon Jeremy London has more than 25 years of experience and had a heart attack about four years ago."
+     ],
+     [
+      "U tekstu za CNBC opisao je šta kupuje svake sedmice da bi sačuvao srce.",
+      "In a text for CNBC he described what he buys every week to protect his heart."
+     ],
+     [
+      "Prvo pravilo je da 80 posto vremena u prodavnici provede uz vanjske police.",
+      "The first rule is to spend 80 percent of the time in the shop along the outer shelves."
+     ],
+     [
+      "U unutrašnjim redovima, kaže, uglavnom su visokoprerađeni proizvodi, pa tamo ostaje najviše 20 posto vremena.",
+      "In the inner aisles, he says, there are mostly ultra-processed products, so he spends at most 20 percent of the time there."
+     ]
+    ],
+    [
+     [
+      "Njegova sedmična lista ima pet grupa: voće, povrće, vlakna, proteine i zdrave masti.",
+      "His weekly list has five groups: fruit, vegetables, fibre, protein and healthy fats."
+     ],
+     [
+      "Kupuje, na primjer, borovnice, trešnje, brokolu, špinat, zob, sočivo, piletinu, divlji losos, jaja i maslinovo ulje.",
+      "He buys, for example, blueberries, cherries, broccoli, spinach, oats, lentils, chicken, wild salmon, eggs and olive oil."
+     ],
+     [
+      "Svaki dan pije smuti od trešanja, borovnica, bademovog maslaca i bademovog mlijeka.",
+      "Every day he drinks a smoothie made of cherries, blueberries, almond butter and almond milk."
+     ],
+     [
+      "Izbjegava hrenovke, suhomesnate proizvode, slatka gazirana pića, bijeli hljeb, peciva, torte i alkohol.",
+      "He avoids hot dogs, cold cuts, sugary fizzy drinks, white bread, pastries, cakes and alcohol."
+     ]
+    ],
+    [
+     [
+      "Visokoprerađena hrana je, prema njemu, jedan od najvećih uzroka hroničnih bolesti.",
+      "Ultra-processed food is, according to him, one of the biggest causes of chronic diseases."
+     ],
+     [
+      "Povećava rizik od dijabetesa tipa 2 i bolesti srca i krvnih sudova.",
+      "It increases the risk of type 2 diabetes and of diseases of the heart and blood vessels."
+     ],
+     [
+      "Savjetuje da se ne vjeruje natpisima na prednjoj strani pakovanja, poput „prirodno“ ili „sa malo masti“.",
+      "He advises not to trust the labels on the front of the package, such as “natural” or “low fat”."
+     ],
+     [
+      "Bolje je pročitati listu sastojaka: što je kraća, to je bolje.",
+      "It is better to read the list of ingredients: the shorter it is, the better."
+     ],
+     [
+      "Preporučuje i kupovinu sa spiskom i nikad na prazan stomak.",
+      "He also recommends shopping with a list and never on an empty stomach."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "kardiohirurg",
+     "heart surgeon"
+    ],
+    [
+     "srčani udar",
+     "heart attack"
+    ],
+    [
+     "vlakna",
+     "fibre"
+    ],
+    [
+     "sastojak",
+     "ingredient"
+    ],
+    [
+     "prerađeno",
+     "processed"
+    ],
+    [
+     "rizik",
+     "risk"
+    ],
+    [
+     "savjet",
+     "advice"
+    ]
+   ]
+  },
+  {
+   "id": "261106010",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/drasko-stanivukovic-zakupio-sam-billboarde-u-banjoj-luci-da-kacimo-papke-i-preletace/261106010",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261106010.jpg",
+   "published": "2026-11-06T07:24:00+01:00",
+   "title": [
+    "Stanivuković odbio saradnju sa SNSD-om i najavio billboarde",
+    "Stanivuković rejected cooperation with SNSD and announced billboards"
+   ],
+   "body": [
+    [
+     [
+      "Gradonačelnik Banje Luke Draško Stanivuković kaže da njegov Pokret „Sigurna Srpska“ neće sarađivati sa SNSD-om.",
+      "Banja Luka mayor Draško Stanivuković says that his Movement “Sigurna Srpska” will not cooperate with SNSD."
+     ],
+     [
+      "Govorio je na televiziji BN nakon izbora.",
+      "He spoke on the BN television station after the elections."
+     ],
+     [
+      "„Nema opcije za koaliciju sa SNSD-om, to za mene uopće nije pitanje“, rekao je.",
+      "“There is no option for a coalition with SNSD, for me that is not even a question,” he said."
+     ],
+     [
+      "Dodao je da i dalje nema ulaska u vlast s trenutnim režimom.",
+      "He added that there is still no entering the government with the current regime."
+     ]
+    ],
+    [
+     [
+      "Stanivuković je objasnio da je zakupio billboarde u Banjoj Luci.",
+      "Stanivuković explained that he rented billboards in Banja Luka."
+     ],
+     [
+      "Na njima je htio prikazati one koje naziva „papcima“ i prebjezima, to jest političare koji mijenjaju stranu.",
+      "On them he wanted to show those he calls “papci” and defectors, that is, politicians who change sides."
+     ],
+     [
+      "Prema njegovim riječima, ipak ih nisu objesili.",
+      "According to him, however, they did not put them up."
+     ],
+     [
+      "Smatra da je razotkrivanje političke trgovine trebalo početi još 2014. godine.",
+      "He thinks that exposing political trading should have started as early as 2014."
+     ]
+    ],
+    [
+     [
+      "Rekao je i da borba protiv korupcije poslije izbora mora biti prioritet.",
+      "He also said that the fight against corruption after the elections must be a priority."
+     ],
+     [
+      "Podrška nacionalnim pitanjima, kaže, ne zavisi od podjele funkcija u vlasti.",
+      "Support for national issues, he says, does not depend on the sharing of government posts."
+     ],
+     [
+      "Čestitao je pobjednicima izbora u Srbiji i rekao da je spreman na saradnju sa svim budućim zvaničnicima.",
+      "He congratulated the winners of the election in Serbia and said he is ready to cooperate with all future officials."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "gradonačelnik",
+     "mayor"
+    ],
+    [
+     "saradnja",
+     "cooperation"
+    ],
+    [
+     "koalicija",
+     "coalition"
+    ],
+    [
+     "vlast",
+     "government, power"
+    ],
+    [
+     "korupcija",
+     "corruption"
+    ],
+    [
+     "prioritet",
+     "priority"
+    ],
+    [
+     "čestitati",
+     "to congratulate"
+    ]
+   ]
+  },
+  {
+   "id": "261106014",
+   "source": "Klix.ba",
+   "section": "Tehnologija",
+   "url": "https://www.klix.ba/scitech/tehnologija/tri-osobe-u-sad-u-optuzene-da-su-pomocu-ai-ja-imitirale-direktore-i-ukrale-129-miliona-dolara/261106014",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261106014.jpg",
+   "published": "2026-11-06T07:10:00+01:00",
+   "title": [
+    "Tri osobe optužene da su uz pomoć AI-ja ukrale 129 miliona dolara",
+    "Three people charged with stealing $129 million with the help of AI"
+   ],
+   "body": [
+    [
+     [
+      "Tužioci u SAD-u optužili su tri osobe da su pomoću vještačke inteligencije imitirale direktore firmi i ukrale oko 129 miliona dolara.",
+      "Prosecutors in the US have charged three people with using artificial intelligence to imitate company executives and stealing about 129 million dollars."
+     ],
+     [
+      "Optuženi su Jacob Soall (41), Sharon Hazan (54) i Guy Sheetrit (42), koji su povezani sa Španijom, Britanijom, Izraelom i UAE.",
+      "The accused are Jacob Soall (41), Sharon Hazan (54) and Guy Sheetrit (42), who are linked to Spain, Britain, Israel and the UAE."
+     ],
+     [
+      "Optužbe su podignute pred saveznim sudom u New Yorku, a odnose se na elektronsku prevaru, krađu identiteta i pranje novca.",
+      "The charges were filed in a federal court in New York, and they concern electronic fraud, identity theft and money laundering."
+     ]
+    ],
+    [
+     [
+      "Grupa je navodno više od godinu i po dana napadala hiljade firmi širom svijeta, uglavnom njihova računovodstva.",
+      "The group allegedly attacked thousands of companies around the world for more than a year and a half, mostly their accounting departments."
+     ],
+     [
+      "Zaposlenima su slali e-poruke kao da su direktori, a zatim su dogovarali telefonske ili video pozive.",
+      "They sent employees emails as if they were executives, and then arranged phone or video calls."
+     ],
+     [
+      "Na tim pozivima je vještačka inteligencija oponašala glas, a ponekad i izgled direktora.",
+      "On those calls artificial intelligence imitated the voice, and sometimes the appearance, of the executive."
+     ],
+     [
+      "Zatim su žrtvama rekli da se jave advokatu velike firme, kojeg su također glumili.",
+      "Then they told the victims to contact a lawyer from a big firm, whom they also played."
+     ]
+    ],
+    [
+     [
+      "Lažni advokat tražio je da zaposleni pošalju velike iznose na račune u raznim zemljama.",
+      "The fake lawyer asked employees to send large sums to accounts in various countries."
+     ],
+     [
+      "Novac je potom pretvoren u kriptovalute da bi se sakrilo odakle dolazi, pa je podijeljen među osumnjičenima.",
+      "The money was then turned into cryptocurrency to hide where it came from, and was split among the suspects."
+     ],
+     [
+      "Među žrtvama su bolnice u Missouriju i Kaliforniji, banka u Rhode Islandu i firma za hranu za kućne ljubimce na Floridi.",
+      "Among the victims are hospitals in Missouri and California, a bank in Rhode Island and a pet food company in Florida."
+     ],
+     [
+      "Za svaku prevaru zaprijećena je kazna do 20 godina zatvora.",
+      "For each fraud charge the penalty is up to 20 years in prison."
+     ],
+     [
+      "Zvaničnik FBI-ja rekao je da će se ta agencija brzo prilagođavati kriminalcima koji koriste nove tehnologije.",
+      "An FBI official said that the agency will adapt quickly to criminals who use new technologies."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "tužilac",
+     "prosecutor"
+    ],
+    [
+     "optužiti",
+     "to charge, accuse"
+    ],
+    [
+     "prevara",
+     "fraud"
+    ],
+    [
+     "pranje novca",
+     "money laundering"
+    ],
+    [
+     "računovodstvo",
+     "accounting department"
+    ],
+    [
+     "žrtva",
+     "victim"
+    ],
+    [
+     "kazna",
+     "penalty"
+    ]
+   ]
+  },
+  {
+   "id": "261106006",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/slaven-raguz-politicki-utjecaj-na-centralnu-banku-bi-bio-udar-na-temelje-bih-slijede-cetiri-godine-tenderizacije/261106006",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261106006.jpg",
+   "published": "2026-11-06T06:40:00+01:00",
+   "title": [
+    "Raguž: političan utjecaj na Centralnu banku bio bi udar na BiH",
+    "Raguž: political influence on the Central Bank would hit BiH"
+   ],
+   "body": [
+    [
+     [
+      "Predsjednik HRS-a Slaven Raguž komentarisao je rezultate općih izbora u razgovoru za BHRT.",
+      "HRS president Slaven Raguž commented on the general election results in an interview for BHRT."
+     ],
+     [
+      "Kaže da Hrvatska petorka nije postigla najveće ciljeve, ali da je njegova stranka malo narasla.",
+      "He says that the Croat Five did not reach their biggest goals, but that his party grew a little."
+     ],
+     [
+      "HRS je spreman preuzeti odgovornost u vlasti, ali se neće gurati niti biti „ičiji privjesak“.",
+      "HRS is ready to take responsibility in government, but it will not push its way in or be “anyone's appendage”."
+     ],
+     [
+      "Sa HDZ-om nije bilo zvaničnih razgovora, nego samo neformalnih kontakata.",
+      "There were no official talks with HDZ, only informal contacts."
+     ]
+    ],
+    [
+     [
+      "Raguž smatra da bi SDA, HDZ BiH i SDP matematički mogli formirati većinu.",
+      "Raguž thinks that SDA, HDZ BiH and SDP could mathematically form a majority."
+     ],
+     [
+      "Ipak, ostaje otvoreno hoće li se napraviti drugačiji blok.",
+      "Still, it remains open whether a different bloc will be made."
+     ],
+     [
+      "Očekuje da će se obrisi nove vlade u Federaciji vidjeti oko četvrtog ili petog mjeseca iduće godine.",
+      "He expects the outlines of the new government in the Federation to be seen around the fourth or fifth month of next year."
+     ],
+     [
+      "Ne isključuje ni ponovljene izbore u Federaciji, iako misli da će se dogovor vjerovatno postići.",
+      "He does not rule out repeat elections in the Federation either, although he thinks a deal will probably be reached."
+     ]
+    ],
+    [
+     [
+      "Raguž kaže da se, nažalost, nada četirima godinama stagnacije i bavljenja samim sobom.",
+      "Raguž says that, unfortunately, he expects four years of stagnation and of politicians dealing with themselves."
+     ],
+     [
+      "Zahtjeve vezane za Centralnu banku BiH i valutni odbor smatra ozbiljnim udarom na ekonomske temelje države.",
+      "He sees the demands about the Central Bank of BiH and the currency board as a serious blow to the economic foundations of the country."
+     ],
+     [
+      "Prema njegovim riječima, politički utjecaj otvorio bi vrata zaduživanju, inflaciji i štampanju novca.",
+      "According to him, political influence would open the door to borrowing, inflation and printing money."
+     ],
+     [
+      "Predložio je i da plate političara budu vezane za rezultate njihovog rada.",
+      "He also proposed that politicians' salaries be tied to the results of their work."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "izbori",
+     "elections"
+    ],
+    [
+     "većina",
+     "majority"
+    ],
+    [
+     "vlada",
+     "government"
+    ],
+    [
+     "stagnacija",
+     "stagnation"
+    ],
+    [
+     "valutni odbor",
+     "currency board"
+    ],
+    [
+     "zaduživanje",
+     "borrowing"
+    ],
+    [
+     "plata",
+     "salary"
+    ]
+   ]
+  },
+  {
+   "id": "261106005",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/demokrate-blize-pobjedi-u-mississippiju-scott-colom-povecao-prednost-na-1882-glasa/261106005",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261106005.jpg",
+   "published": "2026-11-06T06:38:00+01:00",
+   "title": [
+    "Mississippi: demokrata Colom ima prednost od 1.882 glasa",
+    "Mississippi: Democrat Colom leads by 1,882 votes"
+   ],
+   "body": [
+    [
+     [
+      "Trka za mjesto u američkom Senatu u Mississippiju još nije završena.",
+      "The race for a seat in the US Senate in Mississippi is not over yet."
+     ],
+     [
+      "Hiljade listića još nije prebrojano, a rezultat je vrlo tijesan.",
+      "Thousands of ballots have not been counted yet, and the result is very close."
+     ],
+     [
+      "Demokrata Scott Colom povećao je prednost nad republikankom Cindy Hyde-Smith na 1.882 glasa.",
+      "Democrat Scott Colom has increased his lead over Republican Cindy Hyde-Smith to 1,882 votes."
+     ],
+     [
+      "Dan nakon izbora razlika je bila samo 43 glasa, ali se ovi podaci još ne smatraju zvaničnim.",
+      "The day after the election the difference was only 43 votes, but these figures are still not considered official."
+     ]
+    ],
+    [
+     [
+      "Prema NBC-u, prebrojano je oko 95,7 posto očekivanih glasova, a ostalo ih je oko 44.000.",
+      "According to NBC, about 95.7 percent of the expected votes have been counted, and about 44,000 remain."
+     ],
+     [
+      "Najviše neprebrojanih listića je u okrugu Hinds, gdje je glavni grad Jackson i gdje češće pobjeđuju demokrate.",
+      "Most uncounted ballots are in Hinds County, where the capital Jackson is and where Democrats win more often."
+     ],
+     [
+      "Tamo je u srijedu ostalo oko 9.000 listića.",
+      "About 9,000 ballots were left there on Wednesday."
+     ],
+     [
+      "U okrugu Rankin, koji je republikanski, Hyde-Smith vodi sa 61,7 prema 36,1 posto.",
+      "In Rankin County, which is Republican, Hyde-Smith leads 61.7 to 36.1 percent."
+     ]
+    ],
+    [
+     [
+      "Birači koji nisu mogli odmah potvrditi pravo glasa, na primjer bez dokumenta s fotografijom, glasali su privremenim listićima.",
+      "Voters who could not confirm their right to vote immediately, for example without a photo ID, voted with provisional ballots."
+     ],
+     [
+      "Do 10. novembra moraju pokazati lični dokument u sudu svog okruga, inače im glas neće biti brojan.",
+      "By 10 November they must show an ID at their county court, otherwise their vote will not be counted."
+     ],
+     [
+      "Poštanski listići se priznaju ako su poslani do dana izbora i stignu u roku od pet radnih dana.",
+      "Mail ballots are accepted if they were sent by Election Day and arrive within five working days."
+     ],
+     [
+      "Kampanja Hyde-Smith tražila je da svi okruzi odvojeno čuvaju privremene listiće, a Colomov tim to je nazvao očajničkim potezom.",
+      "The Hyde-Smith campaign asked all counties to keep provisional ballots separate, and Colom's team called this a desperate move."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "Senat",
+     "Senate"
+    ],
+    [
+     "listić",
+     "ballot"
+    ],
+    [
+     "prednost",
+     "lead"
+    ],
+    [
+     "okrug",
+     "county"
+    ],
+    [
+     "birač",
+     "voter"
+    ],
+    [
+     "poštanski",
+     "postal, mail"
+    ],
+    [
+     "očajnički",
+     "desperate"
+    ]
+   ]
+  },
+  {
+   "id": "261106007",
+   "source": "Klix.ba",
+   "section": "Vrijeme",
+   "url": "https://www.klix.ba/vijesti/bih/danas-suncano-na-jugu-bosne-i-hercegovine-a-sutra-u-cijeloj-zemlji/261106007",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261106007.jpg",
+   "published": "2026-11-06T06:36:00+01:00",
+   "title": [
+    "Danas sunčano na jugu BiH, a sutra u cijeloj zemlji",
+    "Sunny in the south of BiH today, and in the whole country tomorrow"
+   ],
+   "body": [
+    [
+     [
+      "Prema prognozi Federalnog hidrometeorološkog zavoda, danas će na jugu i jugozapadu BiH biti pretežno sunčano.",
+      "According to the forecast of the Federal Hydrometeorological Institute, it will be mostly sunny today in the south and southwest of BiH."
+     ],
+     [
+      "Drugdje će biti pretežno oblačno, a poslijepodne se očekuje djelomično razvedravanje.",
+      "Elsewhere it will be mostly cloudy, and partial clearing is expected in the afternoon."
+     ],
+     [
+      "Ujutro je moguća magla u Bihaću i Bugojnu.",
+      "In the morning fog is possible in Bihać and Bugojno."
+     ],
+     [
+      "Vjetar će biti slab, istočnog i sjeveroistočnog smjera.",
+      "The wind will be light, from the east and northeast."
+     ]
+    ],
+    [
+     [
+      "Jutarnja temperatura kretat će se od 2 stepena u Livnu do 7 stepeni u Mostaru.",
+      "The morning temperature will range from 2 degrees in Livno to 7 degrees in Mostar."
+     ],
+     [
+      "Najviša dnevna temperatura bit će od 6 stepeni u Bihaću do 15 stepeni u Mostaru.",
+      "The highest daytime temperature will be from 6 degrees in Bihać to 15 degrees in Mostar."
+     ],
+     [
+      "U Sarajevu će biti umjereno oblačno, oko 4 stepena ujutro i oko 8 stepeni preko dana.",
+      "In Sarajevo it will be moderately cloudy, about 4 degrees in the morning and about 8 degrees during the day."
+     ]
+    ],
+    [
+     [
+      "Sutra će u cijeloj zemlji biti sunčano uz umjerenu oblačnost.",
+      "Tomorrow it will be sunny in the whole country with moderate cloud."
+     ],
+     [
+      "U dolinama i uz rijeke moguća je magla ili niski oblaci.",
+      "In valleys and along rivers fog or low clouds are possible."
+     ],
+     [
+      "Ujutro će biti od -1 do 5 stepeni, a preko dana od 5 do 11 stepeni, na jugu do 18.",
+      "In the morning it will be from -1 to 5 degrees, and during the day from 5 to 11 degrees, in the south up to 18."
+     ],
+     [
+      "U nedjelju će biti pretežno oblačno, a poslijepodne i noću lokalno je moguća slaba kiša.",
+      "On Sunday it will be mostly cloudy, and in the afternoon and at night light rain is possible locally."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "prognoza",
+     "forecast"
+    ],
+    [
+     "pretežno",
+     "mostly"
+    ],
+    [
+     "oblačno",
+     "cloudy"
+    ],
+    [
+     "magla",
+     "fog"
+    ],
+    [
+     "vjetar",
+     "wind"
+    ],
+    [
+     "razvedravanje",
+     "clearing up"
+    ],
+    [
+     "kiša",
+     "rain"
+    ]
+   ]
+  },
+  {
+   "id": "261106001",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/bijela-kuca-nakon-izbornog-debakla-poslala-poruku-desnicarskim-grupama-pratimo-sta-radite-i-govorite/261106001",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261106001.jpg",
+   "published": "2026-11-06T06:28:00+01:00",
+   "title": [
+    "Bijela kuća poručila konzervativnim grupama: pratimo vas",
+    "The White House told conservative groups: we are watching you"
+   ],
+   "body": [
+    [
+     [
+      "Bijela kuća je poslala pismo više od 3.000 konzervativnih organizacija.",
+      "The White House sent a letter to more than 3,000 conservative organizations."
+     ],
+     [
+      "Pismo je stiglo dva dana nakon što su republikanci izgubili kontrolu nad oba doma Kongresa.",
+      "The letter arrived two days after the Republicans lost control of both houses of Congress."
+     ],
+     [
+      "Šalje ga ured Bijele kuće koji sarađuje sa organizacijama izvan vlade.",
+      "It was sent by the White House office that works with organizations outside the government."
+     ],
+     [
+      "Voditelji dviju poznatih organizacija potvrdili su listu Wall Street Journal da su ga primili.",
+      "Leaders of two well-known organizations confirmed to the Wall Street Journal that they received it."
+     ]
+    ],
+    [
+     [
+      "U pismu piše da Bijela kuća, kao i uvijek, prati izjave, saopćenja i nastupe tih organizacija u medijima.",
+      "The letter says that the White House, as always, follows the statements, press releases and media appearances of these organizations."
+     ],
+     [
+      "Navode se i dostignuća predsjednika Donalda Trumpa.",
+      "The achievements of President Donald Trump are also listed."
+     ],
+     [
+      "Obećava se da će demokratama biti onemogućeno da ponište Trumpove politike.",
+      "It promises that the Democrats will be prevented from overturning Trump's policies."
+     ],
+     [
+      "Ranije poruke Bijele kuće tražile su da organizacije podijele izjave podrške, ali nisu spominjale praćenje.",
+      "Earlier White House messages asked organizations to share statements of support, but they did not mention monitoring."
+     ]
+    ],
+    [
+     [
+      "Glasnogovornica Bijele kuće rekla je da pismo nije prijetnja nego pokušaj da se podržavatelji mobiliziraju.",
+      "A White House spokeswoman said that the letter is not a threat but an attempt to mobilize supporters."
+     ],
+     [
+      "Dodala je da je ured i ranije koristio sličan jezik.",
+      "She added that the office has used similar language before."
+     ],
+     [
+      "Prema listu, konzervativna koalicija oko Trumpa počinje se raspadati.",
+      "According to the paper, the conservative coalition around Trump is starting to fall apart."
+     ],
+     [
+      "Neki ugledni republikanci krive za poraz Trumpove carine i rat s Iranom.",
+      "Some prominent Republicans blame Trump's tariffs and the war with Iran for the defeat."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "pismo",
+     "letter"
+    ],
+    [
+     "Kongres",
+     "Congress"
+    ],
+    [
+     "izjava",
+     "statement"
+    ],
+    [
+     "prijetnja",
+     "threat"
+    ],
+    [
+     "glasnogovornica",
+     "spokeswoman"
+    ],
+    [
+     "carina",
+     "tariff"
+    ],
+    [
+     "poraz",
+     "defeat"
+    ]
+   ]
+  },
+  {
+   "id": "261106004",
+   "source": "Klix.ba",
+   "section": "Biznis",
+   "url": "https://www.klix.ba/biznis/ekonomija/krah-azijskih-berzi-tajvanska-i-juznokorejska-pale-vise-od-osam-posto/261106004",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261106004.jpg",
+   "published": "2026-11-06T06:18:00+01:00",
+   "title": [
+    "Azijske berze u padu: Tajvan i Južna Koreja izgubili više od 8 posto",
+    "Asian stock markets fall: Taiwan and South Korea lost more than 8 percent"
+   ],
+   "body": [
+    [
+     [
+      "Berze na Tajvanu i u Južnoj Koreji pale su u petak ujutro za više od 8 posto.",
+      "Stock markets in Taiwan and South Korea fell by more than 8 percent on Friday morning."
+     ],
+     [
+      "Razlog je veliko rasprodavanje dionica tehnoloških kompanija i kompanija vezanih za vještačku inteligenciju.",
+      "The reason is a big sell-off of shares of technology companies and companies linked to artificial intelligence."
+     ],
+     [
+      "Tajvanski indeks TAIEX izgubio je na početku trgovanja više od 3.700 bodova, ali su gubici do podne djelomično smanjeni.",
+      "The Taiwanese index TAIEX lost more than 3,700 points at the start of trading, but by midday the losses were partly reduced."
+     ],
+     [
+      "Južnokorejski KOSPI pao je za oko 500 bodova, odnosno 8,6 posto, na 4.923,47.",
+      "The South Korean KOSPI fell by about 500 points, or 8.6 percent, to 4,923.47."
+     ]
+    ],
+    [
+     [
+      "Trgovanje u Seulu je privremeno zaustavljeno, a indeks je prvi put u devet mjeseci pao ispod 5.000 bodova.",
+      "Trading in Seoul was temporarily stopped, and the index fell below 5,000 points for the first time in nine months."
+     ],
+     [
+      "KOSPI je već u četvrtak pao 5,3 posto, a u petak je u najgorem trenutku bio gotovo 15 posto ispod srijede.",
+      "KOSPI had already fallen 5.3 percent on Thursday, and on Friday at its worst moment it was almost 15 percent below Wednesday."
+     ],
+     [
+      "Američka tržišta imala su najveći pad od aprila 2025, kada je Trump najavio carine.",
+      "US markets had their biggest fall since April 2025, when Trump announced tariffs."
+     ],
+     [
+      "Nasdaq je u četvrtak pao 5,52 posto, S&P 500 pao je 4,36 posto, a Dow Jones 3,44 posto.",
+      "On Thursday the Nasdaq fell 5.52 percent, the S&P 500 fell 4.36 percent, and the Dow Jones 3.44 percent."
+     ]
+    ],
+    [
+     [
+      "Investitori strahuju da bi pobjede demokrata na izborima za Kongres mogle zaustaviti gradnju novih data centara.",
+      "Investors fear that Democratic wins in the Congress elections could stop the building of new data centers."
+     ],
+     [
+      "Boje se i strožeg nadzora nad vještačkom inteligencijom, a već ranije su sumnjali hoće li se ogromna ulaganja isplatiti.",
+      "They also fear stricter oversight of artificial intelligence, and they already doubted earlier whether the huge investments would pay off."
+     ],
+     [
+      "Tajvanski zamjenik ministra finansija Frank Juan rekao je da su osnove tržišta „dobre i stabilne“.",
+      "Taiwan's deputy finance minister Frank Juan said that the market's fundamentals are “good and stable”."
+     ],
+     [
+      "Dodao je da bi se, ako dođe do poremećaja, mogao sastati državni stabilizacijski fond i intervenisati na tržištu.",
+      "He added that, if there is a disruption, the state stabilization fund could meet and intervene in the market."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "berza",
+     "stock exchange"
+    ],
+    [
+     "dionica",
+     "share, stock"
+    ],
+    [
+     "indeks",
+     "index"
+    ],
+    [
+     "vještačka inteligencija",
+     "artificial intelligence"
+    ],
+    [
+     "gubitak",
+     "loss"
+    ],
+    [
+     "investitor",
+     "investor"
+    ],
+    [
+     "nadzor",
+     "oversight"
+    ]
+   ]
+  },
+  {
+   "id": "261106003",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/sta-se-krije-u-potencijalnom-dogovoru-moskve-i-kijeva-trump-spomenuo-da-plan-obuhvata-i-druge-evropske-zemlje/261106003",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261106003.jpg",
+   "published": "2026-11-06T06:15:00+01:00",
+   "title": [
+    "Trump: dogovor Moskve i Kijeva mogao bi obuhvatiti cijelu Evropu",
+    "Trump: a deal between Moscow and Kyiv could cover all of Europe"
+   ],
+   "body": [
+    [
+     [
+      "Američki predsjednik Donald Trump rekao je da je sukob Rusije i Ukrajine „vrlo blizu rješenja“.",
+      "US President Donald Trump said that the conflict between Russia and Ukraine is “very close to a solution”."
+     ],
+     [
+      "Prema njegovim riječima, dogovor bi mogao obuhvatiti i druge evropske zemlje, a ne samo Ukrajinu.",
+      "According to him, a deal could include other European countries, not only Ukraine."
+     ],
+     [
+      "Trump očekuje da će rat uskoro završiti, ali nije rekao kada.",
+      "Trump expects the war to end soon, but he did not say when."
+     ]
+    ],
+    [
+     [
+      "U Bijeloj kući sastao se s Kirilom Dmitrijevim, posebnim izaslanikom ruskog predsjednika.",
+      "At the White House he met Kirill Dmitriev, the special envoy of the Russian president."
+     ],
+     [
+      "Nije objasnio o čemu su razgovarali.",
+      "He did not explain what they talked about."
+     ],
+     [
+      "Trumpov zet Jared Kushner napisao je na mreži X da SAD žele riješiti sigurnosne brige svih strana.",
+      "Trump's son-in-law Jared Kushner wrote on X that the US wants to solve the security worries of all sides."
+     ],
+     [
+      "Prema njemu, to treba uraditi praktičnim rješenjima oko kojih se svi slože, kako bi se smanjio rizik od novih sukoba.",
+      "According to him, this should be done with practical solutions that everyone agrees on, so the risk of new conflicts is smaller."
+     ]
+    ],
+    [
+     [
+      "Prvoj dami Melaniji Trump u Bijeloj kući su bili gosti ruski i ukrajinski zvaničnici.",
+      "First Lady Melania Trump hosted Russian and Ukrainian officials at the White House."
+     ],
+     [
+      "Razgovarali su o humanitarnom primirju u Oleškiju, gradu na liniji fronta u regiji Herson koji je pod ruskom kontrolom.",
+      "They talked about the humanitarian ceasefire in Oleshky, a town on the front line in the Kherson region that is under Russian control."
+     ],
+     [
+      "Primirje je potpisano 23. oktobra i trajalo je od 27. oktobra do 1. novembra.",
+      "The ceasefire was signed on 23 October and lasted from 27 October to 1 November."
+     ],
+     [
+      "U tom razdoblju su stigla pomoć i evakuacija civila, jer su stanovnici imali malo hrane i osnovnih potrepština.",
+      "In that period aid arrived and civilians were evacuated, because the residents had little food and basic supplies."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "rješenje",
+     "solution"
+    ],
+    [
+     "sukob",
+     "conflict"
+    ],
+    [
+     "izaslanik",
+     "envoy"
+    ],
+    [
+     "primirje",
+     "ceasefire"
+    ],
+    [
+     "linija fronta",
+     "front line"
+    ],
+    [
+     "evakuacija",
+     "evacuation"
+    ],
+    [
+     "potrepštine",
+     "supplies"
+    ]
+   ]
+  },
+  {
+   "id": "261105380",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/kultura/otvorena-izlozba-koncepti-retrospektiva-jedne-dizajnerske-prakse-grafickog-dizajnera-branka-bacanovica/261105380",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261105380.jpg",
+   "published": "2026-11-05T23:00:00+01:00",
+   "title": [
+    "U Sarajevu otvorena izložba dizajnera Branka Bačanovića",
+    "Exhibition of designer Branko Bačanović opened in Sarajevo"
+   ],
+   "body": [
+    [
+     [
+      "U Umjetničkoj galeriji Bosne i Hercegovine u Sarajevu otvorena je izložba „Koncepti“ grafičkog dizajnera Branka Bačanovića.",
+      "The exhibition “Koncepti” (Concepts) by graphic designer Branko Bačanović has opened at the Art Gallery of Bosnia and Herzegovina in Sarajevo."
+     ],
+     [
+      "Organizator je Akademija nauka i umjetnosti BiH, a posjetitelji je mogu razgledati do 28. novembra.",
+      "The organizer is the Academy of Sciences and Arts of BiH, and visitors can see it until 28 November."
+     ],
+     [
+      "Izložba pokazuje kako nastaje dizajn, a ne samo gotove radove.",
+      "The exhibition shows how design is made, not only finished works."
+     ],
+     [
+      "Zato su na njoj skice, bilješke, radne verzije i studije slova.",
+      "That is why it has sketches, notes, working versions and studies of lettering."
+     ]
+    ],
+    [
+     [
+      "Prikazano je oko 700 radova, od autorovih studentskih dana do danas.",
+      "About 700 works are shown, from the author's student days until today."
+     ],
+     [
+      "Mnogi od njih dokumentuju skoro sve sarajevske pozorišne premijere, kao i brojne izložbe i kulturne događaje.",
+      "Many of them document almost all Sarajevo theatre premieres, as well as many exhibitions and cultural events."
+     ],
+     [
+      "Građa je uglavnom iz autorove privatne arhive i prvi put se javno prikazuje.",
+      "The material is mostly from the author's private archive and is shown to the public for the first time."
+     ],
+     [
+      "Izložba prati put od ručnog crtanja i kolaža do računara.",
+      "The exhibition follows the path from hand drawing and collage to the computer."
+     ]
+    ],
+    [
+     [
+      "Bačanović radi više od trideset godina i jedan je od pionira grafičkog dizajna u BiH.",
+      "Bačanović has worked for more than thirty years and is one of the pioneers of graphic design in BiH."
+     ],
+     [
+      "Rekao je da se njegov način rada nije promijenio, nego samo brzina.",
+      "He said that his way of working has not changed, only the speed."
+     ],
+     [
+      "Posao koji je nekad trajao 20 dana sada se može završiti za jedan ili dva dana.",
+      "A job that once took 20 days can now be finished in one or two days."
+     ],
+     [
+      "Direktor galerije Strajo Krsmanović rekao je da se društvo može ponositi ovakvom izložbom.",
+      "The gallery director Strajo Krsmanović said that a society can be proud of such an exhibition."
+     ],
+     [
+      "Planira se i publikacija sa reprodukcijama i stručnim tekstovima, a promocija bi bila krajem januara.",
+      "A publication with reproductions and expert texts is also planned, and its promotion would be at the end of January."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "izložba",
+     "exhibition"
+    ],
+    [
+     "dizajner",
+     "designer"
+    ],
+    [
+     "skica",
+     "sketch"
+    ],
+    [
+     "pozorište",
+     "theatre"
+    ],
+    [
+     "arhiva",
+     "archive"
+    ],
+    [
+     "pionir",
+     "pioneer"
+    ],
+    [
+     "publikacija",
+     "publication"
+    ]
+   ]
+  },
   {
    "id": "261105368",
    "source": "Klix.ba",
