@@ -1,19 +1,884 @@
 {
- "updated": "2026-11-06T13:45:00+01:00",
+ "updated": "2026-11-06T18:50:00+01:00",
  "front": [
-  "261106080",
-  "261106159",
-  "261106109",
-  "261106120",
-  "261106173",
-  "261106131",
-  "261106007",
-  "261106153",
-  "261106022",
-  "261106093"
+  "261106273",
+  "261106202",
+  "261106233",
+  "261106264",
+  "261106281",
+  "261106269",
+  "261106268",
+  "261106229",
+  "261106224"
  ],
  "level": "A2",
  "articles": [
+  {
+   "id": "261106281",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/dedic-nakon-price-o-luku-i-strijeli-spreman-za-fulham-newcastle-ga-pusta-zmajevima/261106281",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261106281.jpg",
+   "published": "2026-11-06T18:24:00+01:00",
+   "title": [
+    "Dedić je spreman za Fulham, a Newcastle ga pušta reprezentaciji",
+    "Dedić is ready for Fulham, and Newcastle is releasing him to the national team"
+   ],
+   "body": [
+    [
+     [
+      "Incident s lukom i strijelom neće imati posljedice po bh. reprezentativca Amara Dedića.",
+      "The incident with the bow and arrow will have no consequences for the Bosnian international Amar Dedić."
+     ],
+     [
+      "Odbrambeni igrač Newcastlea zaustavljen je u četvrtak jer je nosio luk i strijelu, što se u Velikoj Britaniji smatra hladnim oružjem.",
+      "The Newcastle defender was stopped on Thursday because he was carrying a bow and arrow, which in Great Britain counts as a cold weapon."
+     ],
+     [
+      "Policija ga je zaustavila s šest vozila i oduzela mu opremu.",
+      "The police stopped him with six vehicles and took away his equipment."
+     ]
+    ],
+    [
+     [
+      "Pošto je opremu koristio rekreativno, policija nije poduzela dalje korake.",
+      "Since he used the equipment for recreation, the police took no further steps."
+     ],
+     [
+      "Klub je potvrdio da incident neće uticati na njegov status u timu.",
+      "The club confirmed that the incident will not affect his status in the team."
+     ],
+     [
+      "Očekuje se da će Dedić biti dostupan za utakmicu protiv Fulhama u subotu.",
+      "Dedić is expected to be available for the match against Fulham on Saturday."
+     ]
+    ],
+    [
+     [
+      "Newcastle je na društvenim mrežama potvrdio i da će on otputovati u reprezentaciju Bosne i Hercegovine.",
+      "Newcastle also confirmed on social media that he will travel to the Bosnia and Herzegovina national team."
+     ],
+     [
+      "To je dobra vijest za selektora Sergeja Barbareza, jer Dedić zbog povrede nije igrao u septembru i oktobru.",
+      "That is good news for the coach Sergej Barbarez, because Dedić did not play in September and October because of an injury."
+     ],
+     [
+      "Bosna i Hercegovina igra protiv Švedske 14. novembra u Ligi nacija.",
+      "Bosnia and Herzegovina plays against Sweden on 14 November in the Nations League."
+     ],
+     [
+      "Poslije toga, 17. novembra, u Zenici dočekuje Rumuniju.",
+      "After that, on 17 November, it hosts Romania in Zenica."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "luk i strijela",
+     "bow and arrow"
+    ],
+    [
+     "odbrambeni igrač",
+     "defender"
+    ],
+    [
+     "oprema",
+     "equipment"
+    ],
+    [
+     "povreda",
+     "injury"
+    ],
+    [
+     "selektor",
+     "national team coach"
+    ],
+    [
+     "reprezentacija",
+     "national team"
+    ],
+    [
+     "utakmica",
+     "match"
+    ],
+    [
+     "posljedica",
+     "consequence"
+    ]
+   ]
+  },
+  {
+   "id": "261106268",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/film-tv/sylvester-stallone-se-prisjetio-kada-mu-je-pele-slomio-prst-na-snimanju-filma-bio-je-jak-udarac/261106268",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261106268.jpg",
+   "published": "2026-11-06T18:19:00+01:00",
+   "title": [
+    "Stallone se sjetio kako mu je Pele slomio prst",
+    "Stallone remembered how Pelé broke his finger"
+   ],
+   "body": [
+    [
+     [
+      "Glumac Sylvester Stallone ponovo je ispričao kako mu je fudbalska legenda Pele slomio prst na snimanju filma.",
+      "The actor Sylvester Stallone told again how the football legend Pelé broke his finger while filming a movie."
+     ],
+     [
+      "Priču je ispričao u podcastu The Rest Is Entertainment.",
+      "He told the story in the podcast The Rest Is Entertainment."
+     ],
+     [
+      "Radi se o filmu Bijeg u pobjedu iz 1981. godine, u kojem zarobljenici u njemačkom logoru igraju utakmicu protiv njemačkog tima.",
+      "It is about the film Escape to Victory from 1981, in which prisoners in a German camp play a match against a German team."
+     ]
+    ],
+    [
+     [
+      "Stallone je priznao da je isprva mislio da je fudbal lak, ali je brzo shvatio da nije u pravu.",
+      "Stallone admitted that at first he thought football was easy, but he quickly realised he was wrong."
+     ],
+     [
+      "Lopte iz tog doba opisao je kao male, teške i smeđe, skoro kao kuglu za kuglanje.",
+      "He described the balls of that time as small, heavy and brown, almost like a bowling ball."
+     ],
+     [
+      "Pele mu je ponudio da stane na gol, rekao mu je gdje će šutirati i upozorio ga da neće ni vidjeti loptu.",
+      "Pelé offered him to stand in goal, told him where he would shoot and warned him that he would not even see the ball."
+     ],
+     [
+      "Stallone mu je odgovorio: „Daj sve od sebe.“",
+      "Stallone answered him: \"Give it everything.\""
+     ]
+    ],
+    [
+     [
+      "Kada je Pele šutnuo, glumac je podigao ruke, a lopta je probila staru mrežu i razbila prozore na barakama iza nje.",
+      "When Pelé kicked, the actor raised his hands, and the ball broke through the old net and smashed the windows of the barracks behind it."
+     ],
+     [
+      "Pele se smatra jednim od najboljih fudbalera svih vremena.",
+      "Pelé is considered one of the best footballers of all time."
+     ],
+     [
+      "U karijeri je dao više od 1.000 golova, a umro je 29. decembra 2022. u 82. godini.",
+      "In his career he scored more than 1,000 goals, and he died on 29 December 2022 at the age of 82."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "glumac",
+     "actor"
+    ],
+    [
+     "prst",
+     "finger"
+    ],
+    [
+     "snimanje",
+     "filming"
+    ],
+    [
+     "zarobljenik",
+     "prisoner"
+    ],
+    [
+     "mreža",
+     "net"
+    ],
+    [
+     "prozor",
+     "window"
+    ],
+    [
+     "udarac",
+     "kick, blow"
+    ],
+    [
+     "karijera",
+     "career"
+    ]
+   ]
+  },
+  {
+   "id": "261106202",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/put-kroz-crveno-more-vodi-preko-e-maila-huta-procitajte-sta-pisu-kapetani-i-sta-im-se-odgovara/261106202",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261106202.jpg",
+   "published": "2026-11-06T18:10:00+01:00",
+   "title": [
+    "Brodovi mailom traže dozvolu od Huta za Crveno more",
+    "Ships ask the Houthis for permission by email to cross the Red Sea"
+   ],
+   "body": [
+    [
+     [
+      "Američki list Wall Street Journal istražio je kako brodovi traže siguran prolaz kroz Crveno more od Huta.",
+      "The American paper Wall Street Journal investigated how ships ask the Houthis for safe passage through the Red Sea."
+     ],
+     [
+      "Huti od početka 2024. godine imaju ured koji prima zahtjeve brodova i objavljuje sankcije koje oni uvode.",
+      "Since the beginning of 2024 the Houthis have had an office that receives ships' requests and publishes the sanctions they impose."
+     ],
+     [
+      "Kapetani im pišu običnim e-mailom.",
+      "Captains write to them by ordinary email."
+     ]
+    ],
+    [
+     [
+      "Brodovi koji nisu povezani sa SAD-om, Velikom Britanijom ili Izraelom formalno ne moraju kontaktirati taj ured.",
+      "Ships that are not linked to the USA, Great Britain or Israel do not formally have to contact that office."
+     ],
+     [
+      "Ipak, neki su počeli slati upite nakon što su Huti u julu proglasili pomorsku blokadu Saudijske Arabije.",
+      "Even so, some started sending inquiries after the Houthis declared a naval blockade of Saudi Arabia in July."
+     ],
+     [
+      "Jedan kapetan je 16. augusta napisao da su vlasnik, operater i posada kineski, te je tražio siguran prolaz.",
+      "On 16 August one captain wrote that the owner, operator and crew are Chinese, and he asked for safe passage."
+     ],
+     [
+      "Kineski kontejnerski brod dobio je 7. septembra dozvolu koja je važila sedam dana.",
+      "A Chinese container ship received a permit on 7 September that was valid for seven days."
+     ],
+     [
+      "Huti su savjetovali da ostane uključen sistem za praćenje i da brod izbjegava vojna plovila.",
+      "The Houthis advised that the tracking system stay on and that the ship avoid military vessels."
+     ]
+    ],
+    [
+     [
+      "Međunarodne vlasti savjetuju brodarima da ne komuniciraju s tim uredom, a SAD smatra Hute terorističkom organizacijom.",
+      "International authorities advise shippers not to communicate with that office, and the USA considers the Houthis a terrorist organisation."
+     ],
+     [
+      "Prema listu, Huti su u septembru zauzeli važno ostrvo u moreuzu i jedan obalni grad.",
+      "According to the paper, in September the Houthis took an important island in the strait and a coastal city."
+     ],
+     [
+      "Kroz taj moreuz prolazi 10 do 12 posto pomorskog transporta nafte.",
+      "Between 10 and 12 percent of the sea transport of oil passes through that strait."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "prolaz",
+     "passage"
+    ],
+    [
+     "moreuz",
+     "strait"
+    ],
+    [
+     "kapetan",
+     "captain"
+    ],
+    [
+     "dozvola",
+     "permit"
+    ],
+    [
+     "posada",
+     "crew"
+    ],
+    [
+     "blokada",
+     "blockade"
+    ],
+    [
+     "brod",
+     "ship"
+    ],
+    [
+     "zahtjev",
+     "request"
+    ]
+   ]
+  },
+  {
+   "id": "261106233",
+   "source": "Klix.ba",
+   "section": "Biznis",
+   "url": "https://www.klix.ba/biznis/ekonomija/fabrika-aluminija-u-vlasenici-pred-gasenjem-za-tri-godine-izgubila-sest-miliona-km/261106233",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261106233.jpg",
+   "published": "2026-11-06T18:02:00+01:00",
+   "title": [
+    "Fabrika aluminija u Vlasenici mogla bi stati do kraja godine",
+    "The aluminium factory in Vlasenica could stop by the end of the year"
+   ],
+   "body": [
+    [
+     [
+      "Upravni odbor kompanije Alpro iz Vlasenice predložio je dioničarima da do kraja godine zaustave proizvodnju aluminijskih profila.",
+      "The board of the company Alpro from Vlasenica has proposed to shareholders that they stop the production of aluminium profiles by the end of the year."
+     ],
+     [
+      "Proizvodnja bi stala 31. decembra, a o prijedlogu se odlučuje 24. novembra.",
+      "Production would stop on 31 December, and the proposal will be decided on 24 November."
+     ],
+     [
+      "Ako tada ne bude kvoruma, nova sjednica s istim dnevnim redom održat će se sljedećeg dana.",
+      "If there is no quorum then, a new session with the same agenda will be held the next day."
+     ]
+    ],
+    [
+     [
+      "Alpro je osnovan 1977. godine, a većinski vlasnik je od privatizacije 2004. firma Alumil YU Industry iz Srbije.",
+      "Alpro was founded in 1977, and since the privatisation in 2004 the majority owner has been the firm Alumil YU Industry from Serbia."
+     ],
+     [
+      "Ona ima 61,37 posto dionica, pa odluka praktično zavisi od nje.",
+      "It has 61.37 percent of the shares, so the decision practically depends on it."
+     ],
+     [
+      "Kompanija je 2023. izgubila oko 2,76 miliona KM, 2024. oko 1,55 miliona, a 2025. oko 1,71 miliona KM.",
+      "In 2023 the company lost about 2.76 million KM, in 2024 about 1.55 million, and in 2025 about 1.71 million KM."
+     ],
+     [
+      "To je ukupno oko šest miliona KM u tri godine.",
+      "That is about six million KM in total in three years."
+     ],
+     [
+      "Prihodi od prodaje porasli su sa 24,63 na 26,17 miliona KM, a broj zaposlenih sa 116 na 139.",
+      "Sales revenue rose from 24.63 to 26.17 million KM, and the number of employees from 116 to 139."
+     ]
+    ],
+    [
+     [
+      "Zaustavljanje proizvodnje ne znači da će firma biti zatvorena, jer na dnevnom redu nema stečaja ni likvidacije.",
+      "Stopping production does not mean the firm will be closed, because there is no bankruptcy or liquidation on the agenda."
+     ],
+     [
+      "Nije objavljeno ni šta će biti s radnicima.",
+      "It has not been announced what will happen to the workers either."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "dioničar",
+     "shareholder"
+    ],
+    [
+     "proizvodnja",
+     "production"
+    ],
+    [
+     "gubitak",
+     "loss"
+    ],
+    [
+     "većinski vlasnik",
+     "majority owner"
+    ],
+    [
+     "privatizacija",
+     "privatisation"
+    ],
+    [
+     "zaposleni",
+     "employee"
+    ],
+    [
+     "stečaj",
+     "bankruptcy"
+    ],
+    [
+     "prihod",
+     "revenue"
+    ]
+   ]
+  },
+  {
+   "id": "261106273",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/netanyahuov-krah-moguc-vec-naredne-sedmice-eisenkot-je-napravio-kljucni-proboj-ka-vlasti-cetiri-su-uslova-za-vladu/261106273",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261106273.jpg",
+   "published": "2026-11-06T18:00:00+01:00",
+   "title": [
+    "Eisenkot kaže da će uskoro dobiti mandat za vladu",
+    "Eisenkot says he will soon get the mandate to form a government"
+   ],
+   "body": [
+    [
+     [
+      "Izraelski političar Gadi Eisenkot rekao je u petak da su pregovori o novoj vladi mnogo napredovali.",
+      "Israeli politician Gadi Eisenkot said on Friday that the talks about a new government have moved forward a lot."
+     ],
+     [
+      "Očekuje da će početkom sljedeće sedmice dobiti mandat za formiranje vlade.",
+      "He expects to receive the mandate to form a government at the start of next week."
+     ],
+     [
+      "Svoju poruku objavio je na mreži X, dan nakon što je predsjednik Isaac Herzog završio razgovore sa strankama u Knesetu.",
+      "He posted his message on the network X, a day after President Isaac Herzog finished talks with the parties in the Knesset."
+     ]
+    ],
+    [
+     [
+      "Herzog je rekao da stranke sa 67 poslanika preporučuju Eisenkota, a stranke sa 46 poslanika Benjamina Netanyahua.",
+      "Herzog said that parties with 67 MPs recommend Eisenkot, and parties with 46 MPs recommend Benjamin Netanyahu."
+     ],
+     [
+      "Eisenkot tvrdi da 74 od 120 članova Knesta nemaju povjerenje u Netanyahua.",
+      "Eisenkot claims that 74 of the 120 members of the Knesset do not trust Netanyahu."
+     ],
+     [
+      "Herzog će u nedjelju objaviti ko dobija mandat i upozorio je da rezultati samo na prvi pogled izgledaju jasni.",
+      "Herzog will announce on Sunday who gets the mandate, and he warned that the results only look clear at first glance."
+     ],
+     [
+      "Eisenkot smatra da premijer bez većine ne bi smio kontrolisati sigurnosni sistem ni jedan dan.",
+      "Eisenkot thinks that a prime minister without a majority should not control the security system even for one day."
+     ]
+    ],
+    [
+     [
+      "Za ulazak u vladu postavio je četiri uslova.",
+      "He has set four conditions for joining the government."
+     ],
+     [
+      "Izrael mora biti priznat kao jevrejska i demokratska država, a svi moraju imati vojnu ili civilnu službu.",
+      "Israel must be recognised as a Jewish and democratic state, and everyone must do military or civil service."
+     ],
+     [
+      "Osim toga, treba prihvatiti vrijednosti Deklaracije nezavisnosti i priznati Hamas kao terorističku organizaciju.",
+      "In addition, the values of the Declaration of Independence must be accepted and Hamas recognised as a terrorist organisation."
+     ],
+     [
+      "Eisenkot je rekao da će historija pamtiti one koji bez dobrog razloga blokiraju formiranje vlade.",
+      "Eisenkot said that history will remember those who block the forming of the government without a good reason."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "mandat",
+     "mandate"
+    ],
+    [
+     "vlada",
+     "government"
+    ],
+    [
+     "poslanik",
+     "member of parliament"
+    ],
+    [
+     "povjerenje",
+     "trust"
+    ],
+    [
+     "uslov",
+     "condition"
+    ],
+    [
+     "predsjednik",
+     "president"
+    ],
+    [
+     "pregovori",
+     "negotiations"
+    ],
+    [
+     "upozoriti",
+     "to warn"
+    ]
+   ]
+  },
+  {
+   "id": "261106269",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/dzeko-otkrio-ko-je-najpoznatiji-u-sarajevu-sta-bi-jeo-do-kraja-zivota-i-cega-se-boji/261106269",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261106269.jpg",
+   "published": "2026-11-06T17:45:00+01:00",
+   "title": [
+    "Džeko otkrio čega se boji i šta bi jeo cijeli život",
+    "Džeko revealed what he fears and what he would eat all his life"
+   ],
+   "body": [
+    [
+     [
+      "Edin Džeko, bivši kapiten reprezentacije Bosne i Hercegovine, odgovarao je na brza pitanja o privatnom životu.",
+      "Edin Džeko, former captain of the Bosnia and Herzegovina national team, answered quick questions about his private life."
+     ],
+     [
+      "Snimak je objavio zvanični Instagram profil Bundeslige.",
+      "The recording was posted by the official Instagram profile of the Bundesliga."
+     ],
+     [
+      "Za najpoznatijeg čovjeka iz rodnog Sarajeva odmah je rekao Dinu Merlina.",
+      "As the most famous person from his native Sarajevo he immediately named Dino Merlin."
+     ]
+    ],
+    [
+     [
+      "Najdraži mjesec mu je mart, jer tada ima rođendan.",
+      "His favourite month is March, because his birthday is then."
+     ],
+     [
+      "Najprecjenjenijom bojom smatra svijetloplavu.",
+      "He thinks light blue is the most underrated colour."
+     ],
+     [
+      "Kada bi cijeli život mogao jesti samo jedno, to bi bilo jelo njegove majke, posebno sarma.",
+      "If he could eat only one thing all his life, it would be his mother's cooking, especially sarma."
+     ],
+     [
+      "Najljepši miris na svijetu je, kako kaže, miris pobjede poslije utakmice.",
+      "The best smell in the world is, as he says, the smell of victory after a match."
+     ],
+     [
+      "Da nije fudbaler, volio bi biti stručnjak za Formulu 1.",
+      "If he were not a footballer, he would like to be an expert on Formula 1."
+     ]
+    ],
+    [
+     [
+      "Rekao je da je najviše ponosan na male dobre stvari koje radi za druge, o kojima nikada javno ne priča.",
+      "He said he is most proud of the small good things he does for others, which he never talks about in public."
+     ],
+     [
+      "Priznao je i da se boji velikih visina.",
+      "He also admitted that he is afraid of great heights."
+     ],
+     [
+      "Zato nikada ne bi skočio padobranom iz aviona ni bungee skok.",
+      "That is why he would never jump from a plane with a parachute or do a bungee jump."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "kapiten",
+     "captain"
+    ],
+    [
+     "pitanje",
+     "question"
+    ],
+    [
+     "rođendan",
+     "birthday"
+    ],
+    [
+     "miris",
+     "smell"
+    ],
+    [
+     "pobjeda",
+     "victory"
+    ],
+    [
+     "stručnjak",
+     "expert"
+    ],
+    [
+     "ponosan",
+     "proud"
+    ],
+    [
+     "visina",
+     "height"
+    ]
+   ]
+  },
+  {
+   "id": "261106264",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/crna-hronika/teska-saobracajna-nesreca-na-autoputu-a1-kod-podlugova-dijelovi-vozila-rasuti-po-cesti/261106264",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261106264.jpg",
+   "published": "2026-11-06T17:18:00+01:00",
+   "title": [
+    "Teška nesreća na autoputu A1 kod Podlugova",
+    "Serious accident on the A1 motorway near Podlugovi"
+   ],
+   "body": [
+    [
+     [
+      "Na autoputu A1 kod Podlugova dogodila se teška saobraćajna nesreća.",
+      "A serious traffic accident happened on the A1 motorway near Podlugovi."
+     ],
+     [
+      "Nesreća je bila oko 17 sati u smjeru od Sarajeva prema Zenici.",
+      "The accident was at around 17:00 in the direction from Sarajevo towards Zenica."
+     ],
+     [
+      "Sudarila su se dva putnička vozila.",
+      "Two passenger cars collided."
+     ]
+    ],
+    [
+     [
+      "Na licu mjesta je velika materijalna šteta, a dijelovi vozila rasuti su po cijeloj kolovoznoj traci.",
+      "At the scene there is a lot of material damage, and parts of the vehicles are scattered across the whole lane."
+     ],
+     [
+      "U vrijeme objave teksta nije bilo poznato da li je neko povrijeđen.",
+      "At the time the text was published it was not known whether anyone was injured."
+     ],
+     [
+      "Policija još nije stigla na mjesto nesreće.",
+      "The police had not yet arrived at the scene of the accident."
+     ]
+    ],
+    [
+     [
+      "Saobraćaj na tom dijelu puta je otežan.",
+      "Traffic on that part of the road is difficult."
+     ],
+     [
+      "Očekuje se da će uskoro biti potpuno zaustavljen.",
+      "It is expected that it will soon be completely stopped."
+     ],
+     [
+      "Vozačima se savjetuje da budu dodatno oprezni.",
+      "Drivers are advised to be extra careful."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "nesreća",
+     "accident"
+    ],
+    [
+     "autoput",
+     "motorway"
+    ],
+    [
+     "vozilo",
+     "vehicle"
+    ],
+    [
+     "šteta",
+     "damage"
+    ],
+    [
+     "sudariti se",
+     "to collide"
+    ],
+    [
+     "povrijeđen",
+     "injured"
+    ],
+    [
+     "oprezan",
+     "careful"
+    ],
+    [
+     "saobraćaj",
+     "traffic"
+    ]
+   ]
+  },
+  {
+   "id": "261106229",
+   "source": "Klix.ba",
+   "section": "Zdravlje",
+   "url": "https://www.klix.ba/lifestyle/zdravlje/osobe-koje-imaju-visok-krvni-pritisak-povisen-holesterol-ili-srcane-probleme-rjede-jedu-cijelo-voce/261106229",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261106229.jpg",
+   "published": "2026-11-06T16:20:00+01:00",
+   "title": [
+    "Ljudi sa srčanim problemima rjeđe jedu cijelo voće",
+    "People with heart problems eat whole fruit less often"
+   ],
+   "body": [
+    [
+     [
+      "Novo istraživanje pokazuje da odrasli s visokim pritiskom, visokim holesterolom ili srčanim bolestima rjeđe jedu cijelo voće.",
+      "New research shows that adults with high blood pressure, high cholesterol or heart disease eat whole fruit less often."
+     ],
+     [
+      "Studiju su radili istraživači s Univerziteta Sjeverne Dakote i jednog američkog centra za istraživanje ishrane.",
+      "The study was done by researchers from the University of North Dakota and an American nutrition research centre."
+     ],
+     [
+      "Objavljena je u časopisu Current Developments in Nutrition.",
+      "It was published in the journal Current Developments in Nutrition."
+     ]
+    ],
+    [
+     [
+      "Analizirali su podatke više od 371.000 Amerikanaca iz telefonske zdravstvene ankete iz 2019. godine.",
+      "They analysed data on more than 371,000 Americans from a telephone health survey from 2019."
+     ],
+     [
+      "Ispitanici su govorili koliko često jedu voće i piju sok, i da li im je doktor dijagnosticirao neku bolest srca.",
+      "Respondents said how often they eat fruit and drink juice, and whether a doctor had diagnosed them with some heart disease."
+     ],
+     [
+      "U prosjeku su jeli cijelo voće 1,06 puta dnevno.",
+      "On average they ate whole fruit 1.06 times a day."
+     ],
+     [
+      "Ljudi koji su preživjeli srčani udar jeli su ga 0,98 puta dnevno, a ostali 1,07 puta.",
+      "People who survived a heart attack ate it 0.98 times a day, and the others 1.07 times."
+     ]
+    ],
+    [
+     [
+      "Autori misle da je razlog u vlaknima, jer se većina vlakana gubi kada se voće pretvori u sok.",
+      "The authors think the reason is fibre, because most of the fibre is lost when fruit is turned into juice."
+     ],
+     [
+      "Jedna šolja soka od narandže ima 0,5 grama vlakana, a šolja kriški narandže 3,6 grama.",
+      "One cup of orange juice has 0.5 grams of fibre, and a cup of orange slices 3.6 grams."
+     ],
+     [
+      "Studija ne dokazuje uzrok, jer bolesni ljudi možda jedu manje voća zbog same bolesti.",
+      "The study does not prove a cause, because sick people may eat less fruit because of the illness itself."
+     ],
+     [
+      "Ispitanici su se oslanjali na sjećanje, a nisu mjereni tjelesna aktivnost ni težina.",
+      "Respondents relied on memory, and physical activity and weight were not measured."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "istraživanje",
+     "research"
+    ],
+    [
+     "pritisak",
+     "pressure"
+    ],
+    [
+     "holesterol",
+     "cholesterol"
+    ],
+    [
+     "voće",
+     "fruit"
+    ],
+    [
+     "vlakna",
+     "fibre"
+    ],
+    [
+     "sok",
+     "juice"
+    ],
+    [
+     "srčani udar",
+     "heart attack"
+    ],
+    [
+     "bolest",
+     "illness"
+    ]
+   ]
+  },
+  {
+   "id": "261106224",
+   "source": "Klix.ba",
+   "section": "Tehnologija",
+   "url": "https://www.klix.ba/scitech/nauka/zemlja-ima-novi-mini-mjesec-ali-ga-nece-dugo-zadrzati/261106224",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261106224.jpg",
+   "published": "2026-11-06T15:53:00+01:00",
+   "title": [
+    "Zemlja ima novi mini-mjesec, ali ga neće dugo zadržati",
+    "Earth has a new mini-moon, but it will not keep it for long"
+   ],
+   "body": [
+    [
+     [
+      "Zemljina gravitacija privremeno je uhvatila asteroid 2026 QQ8.",
+      "Earth's gravity has temporarily captured the asteroid 2026 QQ8."
+     ],
+     [
+      "Prema Centru za male planete, on kruži oko Zemlje od aprila i ostat će do kraja godine.",
+      "According to the Minor Planet Center, it has been circling Earth since April and will stay until the end of the year."
+     ],
+     [
+      "Otkrio ga je mađarski astronom Krisztián Sárneczky 20. augusta, a otkriće je objavljeno 29. oktobra.",
+      "It was discovered by the Hungarian astronomer Krisztián Sárneczky on 20 August, and the discovery was announced on 29 October."
+     ]
+    ],
+    [
+     [
+      "Asteroid je širok oko dva metra.",
+      "The asteroid is about two metres wide."
+     ],
+     [
+      "Astronomi isprva nisu znali je li prirodno tijelo ili svemirski otpad, na primjer dio rakete.",
+      "Astronomers at first did not know whether it was a natural body or space debris, for example part of a rocket."
+     ],
+     [
+      "Posmatranja teleskopima su potvrdila da je to vjerovatno mali asteroid.",
+      "Observations with telescopes confirmed that it is probably a small asteroid."
+     ],
+     [
+      "Najbliže će biti oko 568.000 kilometara od Zemlje, a to je oko 1,5 puta dalje od Mjeseca.",
+      "It will be closest at about 568,000 kilometres from Earth, which is about 1.5 times farther than the Moon."
+     ],
+     [
+      "Čak i da padne na Zemlju, izgorio bi u atmosferi.",
+      "Even if it fell on Earth, it would burn up in the atmosphere."
+     ]
+    ],
+    [
+     [
+      "Oko Sunca kruži 359 dana i Zemlji se približi otprilike jednom u deset godina.",
+      "It circles the Sun in 359 days and comes close to Earth about once in ten years."
+     ],
+     [
+      "Zemljina gravitacija ga ne drži kružnom putanjom, nego neobičnom petljom.",
+      "Earth's gravity does not hold it on a circular path, but in an unusual loop."
+     ],
+     [
+      "U januaru 2027. nastavit će put kroz Sunčev sistem.",
+      "In January 2027 it will continue its journey through the Solar System."
+     ],
+     [
+      "Istraživanja pokazuju da oko Zemlje istovremeno može kružiti do šest takvih mini-mjeseci.",
+      "Research shows that up to six such mini-moons can circle Earth at the same time."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "asteroid",
+     "asteroid"
+    ],
+    [
+     "gravitacija",
+     "gravity"
+    ],
+    [
+     "astronom",
+     "astronomer"
+    ],
+    [
+     "otpad",
+     "waste, debris"
+    ],
+    [
+     "teleskop",
+     "telescope"
+    ],
+    [
+     "atmosfera",
+     "atmosphere"
+    ],
+    [
+     "putanja",
+     "path, orbit"
+    ],
+    [
+     "svemir",
+     "space"
+    ]
+   ]
+  },
   {
    "id": "261106173",
    "source": "Klix.ba",
@@ -4835,848 +5700,6 @@
      "procurement"
     ]
    ]
-  },
-  {
-   "id": "261104180",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/kosarka/komesar-nba-lige-silver-bi-zelio-skratiti-utakmice-na-40-minuta-vecina-igraca-protiv-toga/261104180",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261104180.jpg",
-   "published": "2026-11-04T13:36:00+01:00",
-   "title": [
-    "Silver bi skratio NBA utakmice na 40 minuta",
-    "Silver would like to shorten NBA games to 40 minutes"
-   ],
-   "body": [
-    [
-     [
-      "Komesar NBA lige Adam Silver navodno bi želio skratiti utakmice s 48 na 40 minuta.",
-      "NBA commissioner Adam Silver reportedly would like to shorten games from 48 to 40 minutes."
-     ],
-     [
-      "Taj podatak je objavio novinar Chris Mannix iz časopisa Sports Illustrated.",
-      "This information was published by journalist Chris Mannix of Sports Illustrated."
-     ],
-     [
-      "Liga zvanično nije predložila nikakvu promjenu, pa i dalje važe četiri četvrtine od po 12 minuta.",
-      "The league has not officially proposed any change, so four quarters of 12 minutes each still apply."
-     ]
-    ],
-    [
-     [
-      "Silver bi preferirao četiri četvrtine od po 10 minuta, kao u FIBA takmičenjima i Euroligi.",
-      "Silver would prefer four quarters of 10 minutes each, as in FIBA competitions and the EuroLeague."
-     ],
-     [
-      "Rasprava se vratila nakon niza povreda zvijezda na početku sezone 2026/27.",
-      "The debate came back after a series of star injuries at the start of the 2026/27 season."
-     ],
-     [
-      "Mannix sumnja da je promjena izvodljiva, najviše zbog novca.",
-      "Mannix doubts that the change is feasible, mostly because of money."
-     ],
-     [
-      "Upozorava i da zvijezde ne bi igrale manje, a rezervisti bi dobili još manje prilike.",
-      "He also warns that stars would not play less, and the bench players would get even fewer chances."
-     ]
-    ],
-    [
-     [
-      "Većina igrača je protiv ideje.",
-      "Most players are against the idea."
-     ],
-     [
-      "U martovskoj anketi portala The Athletic 78,4 posto od 153 igrača odbilo je kraće četvrtine.",
-      "In a March survey by The Athletic, 78.4 percent of 153 players rejected shorter quarters."
-     ],
-     [
-      "Samo 13,1 posto ih je podržalo.",
-      "Only 13.1 percent supported it."
-     ],
-     [
-      "Trenere Toma Thibodeaua i Michaela Malonea takođe ne oduševljava ta ideja.",
-      "Coaches Tom Thibodeau and Michael Malone are not thrilled by the idea either."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "komesar",
-     "commissioner"
-    ],
-    [
-     "utakmica",
-     "game, match"
-    ],
-    [
-     "četvrtina",
-     "quarter"
-    ],
-    [
-     "povreda",
-     "injury"
-    ],
-    [
-     "anketa",
-     "survey"
-    ],
-    [
-     "rezervista",
-     "bench player"
-    ],
-    [
-     "podržati",
-     "to support"
-    ]
-   ]
-  },
-  {
-   "id": "261104177",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/novi-izvjestaj-evropske-komisije-bih-sve-dalje-od-eu-brisel-trazi-uvodenje-viza-drzavljanima-rusije-kine-turske-i-katara/261104177",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261104177.jpg",
-   "published": "2026-11-04T13:21:00+01:00",
-   "title": [
-    "Evropska komisija: BiH se sve više udaljava od EU",
-    "European Commission: BiH is moving ever further from the EU"
-   ],
-   "body": [
-    [
-     [
-      "Evropska komisija objavila je novi izvještaj o napretku Bosne i Hercegovine.",
-      "The European Commission has published a new progress report on Bosnia and Herzegovina."
-     ],
-     [
-      "Prema izvještaju, zemlja se sve više udaljava od evropskog puta.",
-      "According to the report, the country is moving further and further from the European path."
-     ],
-     [
-      "Napretka nema u pravosuđu, borbi protiv korupcije, slobodi medija i ekonomiji.",
-      "There is no progress in the judiciary, the fight against corruption, media freedom and the economy."
-     ]
-    ],
-    [
-     [
-      "Komisija posebno kritikuje vizni režim jer je BiH produžila sezonska oslobađanja od viza s 30 na 60 dana.",
-      "The Commission especially criticizes the visa regime because BiH extended seasonal visa exemptions from 30 to 60 days."
-     ],
-     [
-      "Brisel traži da se vize uvedu za državljane Rusije, Kine, Turske i Katara.",
-      "Brussels wants visas to be introduced for citizens of Russia, China, Turkey and Qatar."
-     ],
-     [
-      "Parlament je donio samo 12 zakona, a zemlja i dalje nema glavnog pregovarača s EU.",
-      "Parliament passed only 12 laws, and the country still has no chief negotiator with the EU."
-     ],
-     [
-      "Privredni rast usporio je na 1,7 posto, a nezaposlenost je 12,2 posto.",
-      "Economic growth slowed to 1.7 percent, and unemployment is 12.2 percent."
-     ]
-    ],
-    [
-     [
-      "Među mladima je nezaposleno čak 32,9 posto ljudi.",
-      "Among young people, as many as 32.9 percent are unemployed."
-     ],
-     [
-      "BiH je 19. juna dospjela na sivu listu FATF-a zbog slabe borbe protiv pranja novca.",
-      "On 19 June BiH ended up on the FATF grey list because of a weak fight against money laundering."
-     ],
-     [
-      "Ako uslovi ne budu ispunjeni do kraja godine, zemlja bi mogla izgubiti do 976,6 miliona eura.",
-      "If the conditions are not met by the end of the year, the country could lose up to 976.6 million euros."
-     ],
-     [
-      "Izvještaj upozorava i da javni servis BHRT prijeti gašenje.",
-      "The report also warns that the public broadcaster BHRT faces shutdown."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "izvještaj",
-     "report"
-    ],
-    [
-     "pravosuđe",
-     "judiciary"
-    ],
-    [
-     "korupcija",
-     "corruption"
-    ],
-    [
-     "viza",
-     "visa"
-    ],
-    [
-     "napredak",
-     "progress"
-    ],
-    [
-     "nezaposlenost",
-     "unemployment"
-    ],
-    [
-     "pregovarač",
-     "negotiator"
-    ]
-   ]
-  },
-  {
-   "id": "261104174",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/tehnologija/humanoidni-roboti-osam-sati-sortirali-dijelove-u-xiaomijevoj-fabrici-automobila/261104174",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261104174.jpg",
-   "published": "2026-11-04T13:18:00+01:00",
-   "title": [
-    "Roboti osam sati radili u Xiaomijevoj fabrici",
-    "Robots worked eight hours in Xiaomi's factory"
-   ],
-   "body": [
-    [
-     [
-      "Kompanija Xiaomi objavila je snimak na kojem dva humanoidna robota rade u fabrici automobila.",
-      "The company Xiaomi has published a video in which two humanoid robots work in a car factory."
-     ],
-     [
-      "Roboti su osam sati sortirali dijelove za bočne poklopce središnje konzole.",
-      "The robots sorted parts for the side covers of the center console for eight hours."
-     ],
-     [
-      "Dijelove su vadili iz velikih kontejnera i slagali ih na police.",
-      "They took the parts out of big containers and placed them on shelves."
-     ]
-    ],
-    [
-     [
-      "Xiaomi tvrdi da roboti sami primjećuju i ispravljaju greške te da rade u skladu s proizvodnom linijom.",
-      "Xiaomi claims that the robots notice and correct mistakes by themselves and work in step with the production line."
-     ],
-     [
-      "Snimak je ubrzan i do 100 puta.",
-      "The video is sped up by up to 100 times."
-     ],
-     [
-      "Kompanija nije objavila koliko je dijelova sortirano niti koliko su često ljudi morali pomoći.",
-      "The company has not said how many parts were sorted or how often people had to help."
-     ],
-     [
-      "Nije jasno ni kako su se roboti punili strujom.",
-      "It is also not clear how the robots were charged."
-     ]
-    ],
-    [
-     [
-      "U martu je Xiaomi javio da je robot montirao matice s uspješnošću od 90,2 posto, a u julu s 98 posto.",
-      "In March Xiaomi reported that a robot installed nuts with a 90.2 percent success rate, and in July with 98 percent."
-     ],
-     [
-      "Robot je predstavljen u augustu u Pekingu i još je prototip.",
-      "The robot was presented in August in Beijing and is still a prototype."
-     ],
-     [
-      "Audi već testira slične robote u Ingolstadtu, a BMW razmišlja o njima.",
-      "Audi is already testing similar robots in Ingolstadt, and BMW is thinking about them."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "robot",
-     "robot"
-    ],
-    [
-     "fabrica",
-     "factory"
-    ],
-    [
-     "dio",
-     "part"
-    ],
-    [
-     "greška",
-     "mistake"
-    ],
-    [
-     "proizvodnja",
-     "production"
-    ],
-    [
-     "prototip",
-     "prototype"
-    ],
-    [
-     "snimak",
-     "video, recording"
-    ]
-   ]
-  },
-  {
-   "id": "261104166",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/muzika/bijelo-dugme-rasprodalo-pola-kapaciteta-zetre-skoro-pet-mjeseci-prije-koncerta/261104166",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261104166.jpg",
-   "published": "2026-11-04T12:57:00+01:00",
-   "title": [
-    "Bijelo dugme rasprodalo pola Zetre",
-    "Bijelo Dugme has sold half of Zetra"
-   ],
-   "body": [
-    [
-     [
-      "Za koncert grupe Bijelo dugme u Sarajevu prodana je otprilike polovina ulaznica.",
-      "About half of the tickets have been sold for the Bijelo Dugme concert in Sarajevo."
-     ],
-     [
-      "Koncert će biti u dvorani Zetra 27. marta 2027.",
-      "The concert will be in the Zetra hall on 27 March 2027."
-     ],
-     [
-      "Do tada ima još skoro pet mjeseci, kažu organizatori.",
-      "There are still almost five months until then, say the organizers."
-     ]
-    ],
-    [
-     [
-      "Sarajevski nastup jedan je od posljednjih na turneji „Doživjeti stotu“.",
-      "The Sarajevo show is one of the last on the tour \"Doživjeti stotu\"."
-     ],
-     [
-      "Turneja obilježava 50 godina rada grupe i već je obuhvatila niz velikih koncerata u regiji.",
-      "The tour marks 50 years of the band's work and has already included a series of big concerts in the region."
-     ],
-     [
-      "Na sceni će biti Goran, Zoran, Tifa, Alen, Điđi i Ognjen, a s njima i prijatelji.",
-      "On stage will be Goran, Zoran, Tifa, Alen, Điđi and Ognjen, together with friends."
-     ]
-    ],
-    [
-     [
-      "Organizatori očekuju posjetioce iz drugih bh. gradova i iz cijele regije.",
-      "The organizers expect visitors from other Bosnian cities and from the whole region."
-     ],
-     [
-      "Članovi grupe i njihov producent više puta su rekli da je povratak u Sarajevo prirodan korak.",
-      "The band members and their producer have said several times that returning to Sarajevo is a natural step."
-     ],
-     [
-      "U tom gradu je grupa i nastala.",
-      "The band was formed in that city."
-     ],
-     [
-      "Koncert organizuje firma Travel 4 Fun, a ulaznice se prodaju preko stranice ulaznica.org.",
-      "The concert is organized by the company Travel 4 Fun, and tickets are sold through the website ulaznica.org."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "koncert",
-     "concert"
-    ],
-    [
-     "ulaznica",
-     "ticket"
-    ],
-    [
-     "dvorana",
-     "hall"
-    ],
-    [
-     "turneja",
-     "tour"
-    ],
-    [
-     "organizator",
-     "organizer"
-    ],
-    [
-     "rasprodati",
-     "to sell out"
-    ],
-    [
-     "nastup",
-     "performance"
-    ]
-   ]
-  },
-  {
-   "id": "261104160",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/doktor-koji-je-pomagao-u-bosni-i-hercegovini-i-gazi-ulazi-u-americki-kongres-adam-hamawy-pobijedio-na-izborima/261104160",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261104160.jpg",
-   "published": "2026-11-04T12:54:00+01:00",
-   "title": [
-    "Ljekar koji je pomagao u BiH ulazi u Kongres",
-    "A doctor who helped in BiH is entering Congress"
-   ],
-   "body": [
-    [
-     [
-      "Adam Hamawy, hirurg koji je pomagao ranjenicima u BiH i Gazi, izabran je u američki Kongres.",
-      "Adam Hamawy, a surgeon who helped wounded people in BiH and Gaza, has been elected to the US Congress."
-     ],
-     [
-      "Demokrata je pobijedio u 12. izbornom okrugu savezne države New Jersey.",
-      "The Democrat won in the 12th congressional district of New Jersey."
-     ],
-     [
-      "Prema djelimičnim rezultatima, dobio je oko 70 posto glasova, a republikanac Gregg Mele oko 28 posto.",
-      "According to partial results, he got about 70 percent of the votes, and the Republican Gregg Mele about 28 percent."
-     ]
-    ],
-    [
-     [
-      "Hamawy će naslijediti Bonnie Watson Coleman, koja odlazi u penziju.",
-      "Hamawy will succeed Bonnie Watson Coleman, who is retiring."
-     ],
-     [
-      "Prema New Jersey Globeu, prvi je musliman iz te države u Kongresu.",
-      "According to the New Jersey Globe, he is the first Muslim from that state in Congress."
-     ],
-     [
-      "Rođen je u Egiptu, a u New Jersey je došao kao beba.",
-      "He was born in Egypt and came to New Jersey as a baby."
-     ],
-     [
-      "Studirao je medicinu, osam godina je služio u vojsci i radio je kao vojni hirurg u Iraku.",
-      "He studied medicine, served eight years in the army and worked as a military surgeon in Iraq."
-     ]
-    ],
-    [
-     [
-      "Više od 30 godina volontira u ratnim zonama, među ostalim u Bosni 1995. godine.",
-      "For more than 30 years he has volunteered in war zones, among others in Bosnia in 1995."
-     ],
-     [
-      "U maju 2024. volontirao je u bolnici u Khan Younisu u Gazi.",
-      "In May 2024 he volunteered at a hospital in Khan Younis in Gaza."
-     ],
-     [
-      "Zaglavio je kada je Izrael zatvorio prijelaz Rafah, a pomoć su tražili i američki političari.",
-      "He got stuck when Israel closed the Rafah crossing, and American politicians also asked for help."
-     ],
-     [
-      "Njegov slogan u kampanji bio je „zdravstvo, a ne bombe“.",
-      "His campaign slogan was \"healthcare, not bombs\"."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "hirurg",
-     "surgeon"
-    ],
-    [
-     "ranjenik",
-     "wounded person"
-    ],
-    [
-     "izbori",
-     "elections"
-    ],
-    [
-     "okrug",
-     "district"
-    ],
-    [
-     "glas",
-     "vote"
-    ],
-    [
-     "volontirati",
-     "to volunteer"
-    ],
-    [
-     "kampanja",
-     "campaign"
-    ]
-   ]
-  },
-  {
-   "id": "261104035",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/kosarka/dzanan-musa-igrao-kosarku-na-303-metra-visine-pogled-na-burj-khalifu-oduzima-dah/261104035",
-   "published": "2026-11-04T07:38:00+01:00",
-   "title": [
-    "Džanan Musa igrao košarku na vrhu nebodera u Dubaiju",
-    "Džanan Musa played basketball on top of a skyscraper in Dubai"
-   ],
-   "body": [
-    [
-     [
-      "Košarkaš Džanan Musa i njegov saigrač Justin Anderson snimili su neobičan video na krovu nebodera u Dubaiju.",
-      "Basketball player Džanan Musa and his teammate Justin Anderson filmed an unusual video on the roof of a skyscraper in Dubai."
-     ],
-     [
-      "Klub Dubai Basketball objavio ga je na svom Instagram profilu.",
-      "The club Dubai Basketball posted it on its Instagram profile."
-     ],
-     [
-      "Igrali su na heliodromu na visini od 303 metra, a iza koša vidi se Burj Khalifa, najviša zgrada na svijetu.",
-      "They played on a helipad at a height of 303 metres, and behind the hoop you can see the Burj Khalifa, the tallest building in the world."
-     ]
-    ],
-    [
-     [
-      "Na snimku se Musa prvo zagrijava s loptom, a zatim zajedno s Andersonom pokazuje nekoliko poteza.",
-      "In the video, Musa first warms up with a ball, and then shows several moves together with Anderson."
-     ],
-     [
-      "Anderson zakuca loptu dok je u pozadini Burj Khalifa.",
-      "Anderson dunks the ball with the Burj Khalifa in the background."
-     ],
-     [
-      "Snimanje se nastavlja i poslije zalaska sunca, pa igrači šutiraju pod reflektorima, a ispred njih je svjetlo grada.",
-      "Filming continues after sunset, so the players shoot under floodlights, with the lights of the city in front of them."
-     ],
-     [
-      "Na kraju dronovi na nebu oblikuju grb kluba.",
-      "At the end, drones form the club crest in the sky."
-     ]
-    ],
-    [
-     [
-      "Video je zajednički projekat kluba i kompanije Red Bull, što pokazuje i opis uz objavu.",
-      "The video is a joint project of the club and the company Red Bull, which the caption of the post also shows."
-     ],
-     [
-      "Musa se krajem oktobra oporavio od povrede.",
-      "Musa recovered from an injury at the end of October."
-     ],
-     [
-      "Dubai je u ponedjeljak u ABA ligi pobijedio Zadar, a ranije je kod kuće savladao i Hapoel u Euroligi.",
-      "On Monday, Dubai beat Zadar in the ABA League, and earlier it also beat Hapoel at home in the EuroLeague."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "neboder",
-     "skyscraper"
-    ],
-    [
-     "koš",
-     "hoop"
-    ],
-    [
-     "saigrač",
-     "teammate"
-    ],
-    [
-     "zakucati",
-     "to dunk"
-    ],
-    [
-     "povreda",
-     "injury"
-    ],
-    [
-     "klub",
-     "club"
-    ],
-    [
-     "snimak",
-     "video, recording"
-    ]
-   ],
-   "source": "Klix.ba",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261104035.jpg"
-  },
-  {
-   "id": "261104041",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/danas-prestanak-padavina-u-bih-narednih-dana-vedrije-uz-hladna-jutra/261104041",
-   "published": "2026-11-04T07:37:00+01:00",
-   "title": [
-    "Kiša u BiH danas staje, slijede vedriji dani i hladna jutra",
-    "Rain in BiH stops today, clearer days and cold mornings follow"
-   ],
-   "body": [
-    [
-     [
-      "Slaba kiša u Bosni danas bi trebala stati do podne.",
-      "Light rain in Bosnia should stop by noon today."
-     ],
-     [
-      "Prema prognozi Federalnog hidrometeorološkog zavoda, do vikenda se ne očekuju nove padavine u većem dijelu zemlje.",
-      "According to the forecast of the Federal Hydrometeorological Institute, no new precipitation is expected in most of the country until the weekend."
-     ],
-     [
-      "Prije podne je moguć i slab snijeg na planinama.",
-      "Before noon, weak snow is also possible in the mountains."
-     ]
-    ],
-    [
-     [
-      "Danas će u Bosni i sjevernoj Hercegovini biti oblačno, a u većem dijelu Hercegovine sunčanije.",
-      "Today it will be cloudy in Bosnia and northern Herzegovina, and sunnier in most of Herzegovina."
-     ],
-     [
-      "Temperature će u Bosni biti od 4 do 10 stepeni, a na jugu do 18.",
-      "Temperatures in Bosnia will be from 4 to 10 degrees, and up to 18 in the south."
-     ],
-     [
-      "U Sarajevu se ujutro očekuje oko 6 stepeni, a preko dana oko 8.",
-      "In Sarajevo, about 6 degrees are expected in the morning and about 8 during the day."
-     ],
-     [
-      "U četvrtak i petak bit će sunčano u Hercegovini, dok će u dijelu Bosne ostati dosta niskih oblaka.",
-      "On Thursday and Friday it will be sunny in Herzegovina, while a lot of low cloud will remain in parts of Bosnia."
-     ]
-    ],
-    [
-     [
-      "Najveća promjena stiže u subotu, kada se očekuje najhladnije jutro ove sedmice.",
-      "The biggest change arrives on Saturday, when the coldest morning of this week is expected."
-     ],
-     [
-      "Temperatura će ponegdje pasti ispod nule, a u Sarajevu bi mogla biti oko 0 stepeni.",
-      "The temperature will drop below zero in some places, and in Sarajevo it could be around 0 degrees."
-     ],
-     [
-      "Preko dana će biti od 7 do 12 stepeni, a na jugu do 16.",
-      "During the day it will be from 7 to 12 degrees, and up to 16 in the south."
-     ],
-     [
-      "U Trebinju se u drugom dijelu dana očekuje kiša.",
-      "In Trebinje, rain is expected in the second part of the day."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "padavine",
-     "precipitation"
-    ],
-    [
-     "prognoza",
-     "forecast"
-    ],
-    [
-     "oblačno",
-     "cloudy"
-    ],
-    [
-     "sunčano",
-     "sunny"
-    ],
-    [
-     "stepen",
-     "degree"
-    ],
-    [
-     "jutro",
-     "morning"
-    ],
-    [
-     "snijeg",
-     "snow"
-    ]
-   ],
-   "source": "Klix.ba",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261104041.jpg"
-  },
-  {
-   "id": "261104038",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/lifestyle/zdravlje/energetska-pica-cesce-povezana-sa-srcanim-zastojem-i-infarktom-kod-mladih/261104038",
-   "published": "2026-11-04T07:27:00+01:00",
-   "title": [
-    "Energetska pića povezana sa srčanim problemima kod mladih",
-    "Energy drinks linked to heart problems in young people"
-   ],
-   "body": [
-    [
-     [
-      "Nova analiza Američkog udruženja za srce povezuje energetska pića s češćim srčanim zastojem i infarktom.",
-      "A new analysis by the American Heart Association links energy drinks to more frequent cardiac arrest and heart attack."
-     ],
-     [
-      "Isto vrijedi za dodatke prehrani koji sadrže kofein i druge stimulanse.",
-      "The same applies to dietary supplements that contain caffeine and other stimulants."
-     ],
-     [
-      "Najviše prijava dolazi od osoba između 18 i 34 godine.",
-      "Most reports come from people between 18 and 34 years old."
-     ]
-    ],
-    [
-     [
-      "Istraživači su pregledali 28.345 prijava štetnih događaja koje je američka agencija FDA primila od 2017. do 2025. godine.",
-      "Researchers reviewed 28,345 reports of adverse events that the American agency FDA received from 2017 to 2025."
-     ],
-     [
-      "U 854 prijave bili su uključeni energetski napici ili takvi dodaci.",
-      "In 854 reports, energy drinks or such supplements were involved."
-     ],
-     [
-      "Srčani zastoj prijavljivan je oko 11 puta češće nego kod proizvoda bez tih sastojaka, a infarkt oko 4,5 puta češće.",
-      "Cardiac arrest was reported about 11 times more often than with products without these ingredients, and heart attack about 4.5 times more often."
-     ],
-     [
-      "Oko 45 posto prijava odnosilo se na osobe od 18 do 34 godine, koje se obično ne smatraju rizičnom grupom.",
-      "About 45 percent of the reports concerned people aged 18 to 34, who are usually not considered a risk group."
-     ]
-    ],
-    [
-     [
-      "Autori naglašavaju da rezultati pokazuju samo vezu, a ne dokaz da su proizvodi izazvali probleme.",
-      "The authors stress that the results show only a link, not proof that the products caused the problems."
-     ],
-     [
-      "Prijave FDA su dobrovoljne, pa se ne zna koliko je ljudi popilo ova pića bez posljedica.",
-      "FDA reports are voluntary, so it is not known how many people drank these drinks without consequences."
-     ],
-     [
-      "Za većinu odraslih bezbjedno je do 400 mg kofeina dnevno, otprilike pet šoljica kafe.",
-      "For most adults, up to 400 mg of caffeine per day is safe, roughly five cups of coffee."
-     ],
-     [
-      "Ljekari bi, prema autorima, trebali pitati mlade s lupanjem srca ili bolom u grudima piju li redovno energetska pića.",
-      "According to the authors, doctors should ask young people with a racing heart or chest pain whether they regularly drink energy drinks."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "srčani zastoj",
-     "cardiac arrest"
-    ],
-    [
-     "infarkt",
-     "heart attack"
-    ],
-    [
-     "kofein",
-     "caffeine"
-    ],
-    [
-     "istraživač",
-     "researcher"
-    ],
-    [
-     "prijava",
-     "report"
-    ],
-    [
-     "dodatak prehrani",
-     "dietary supplement"
-    ],
-    [
-     "rizik",
-     "risk"
-    ]
-   ],
-   "source": "Klix.ba",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261104038.jpg"
-  },
-  {
-   "id": "261104024",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/gina-hinojosa-srusila-grega-abbotta-teksas-nakon-36-godina-izabrao-demokratsku-guvernerku/261104024",
-   "published": "2026-11-04T06:54:00+01:00",
-   "title": [
-    "Teksas nakon 36 godina bira demokratsku guvernerku",
-    "After 36 years, Texas elects a Democratic governor"
-   ],
-   "body": [
-    [
-     [
-      "Demokratkinja Gina Hinojosa pobijedila je republikanca Grega Abbotta na izborima za guvernera Teksasa.",
-      "Democrat Gina Hinojosa defeated Republican Greg Abbott in the election for governor of Texas."
-     ],
-     [
-      "Prema projekciji agencije AP, ona je prva Latinoamerikanka na čelu Teksasa.",
-      "According to an AP projection, she is the first Latina to lead Texas."
-     ],
-     [
-      "Ujedno je prva demokratska guvernerka izabrana u toj državi od 1990. godine.",
-      "She is also the first Democratic governor elected in that state since 1990."
-     ]
-    ],
-    [
-     [
-      "Prema neslužbenim rezultatima, Hinojosa je dobila 4.357.768 glasova, a Abbott 3.740.819.",
-      "According to unofficial results, Hinojosa got 4,357,768 votes and Abbott 3,740,819."
-     ],
-     [
-      "Razlika je veća od 600.000 glasova.",
-      "The difference is more than 600,000 votes."
-     ],
-     [
-      "Abbott je priznao poraz nekoliko sati nakon zatvaranja birališta.",
-      "Abbott conceded defeat a few hours after the polls closed."
-     ],
-     [
-      "Rekao je da još ima glasova za prebrojavanje, ali da matematički ne mogu pobijediti.",
-      "He said there were still votes to count, but that mathematically they could not win."
-     ],
-     [
-      "Na čelu Teksasa bio je od 2015. godine.",
-      "He had led Texas since 2015."
-     ]
-    ],
-    [
-     [
-      "Hinojosa je advokatica za radno pravo i od 2017. je zastupnica u parlamentu Teksasa.",
-      "Hinojosa is a labour-law attorney and has been a member of the Texas legislature since 2017."
-     ],
-     [
-      "U kampanji se bavila troškovima života i javnim obrazovanjem.",
-      "In her campaign she focused on the cost of living and public education."
-     ],
-     [
-      "Obećala je da će koristiti pravo veta, među ostalim protiv novih izbornih mapa u korist jedne stranke.",
-      "She promised to use her veto power, among other things against new electoral maps in favour of one party."
-     ],
-     [
-      "Dužnost preuzima u januaru 2027. godine.",
-      "She takes office in January 2027."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "guverner",
-     "governor"
-    ],
-    [
-     "izbori",
-     "elections"
-    ],
-    [
-     "pobijediti",
-     "to win"
-    ],
-    [
-     "glas",
-     "vote"
-    ],
-    [
-     "priznati poraz",
-     "to concede defeat"
-    ],
-    [
-     "biralište",
-     "polling station"
-    ],
-    [
-     "kampanja",
-     "campaign"
-    ],
-    [
-     "obrazovanje",
-     "education"
-    ]
-   ],
-   "source": "Klix.ba",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261104024.jpg"
   }
  ]
 }
