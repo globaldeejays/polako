@@ -1,19 +1,738 @@
 {
- "updated": "2026-11-07T07:50:00+01:00",
+ "updated": "2026-11-07T13:50:00+01:00",
  "front": [
-  "261107015",
-  "261107005",
-  "261107013",
-  "261107002",
-  "261106340",
-  "261107003",
-  "261106007",
-  "261106324",
-  "261106229",
+  "261107077",
+  "261107096",
+  "261107076",
+  "261107067",
+  "261107075",
+  "261107071",
+  "261107050",
+  "261107024",
   "261106224"
  ],
  "level": "A2",
  "articles": [
+  {
+   "id": "261107096",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/inzenjer-smije-ostati-u-londonu-supruga-ne-britanija-tuzena-zbog-brexita/261107096",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261107096.jpg",
+   "published": "2026-11-07T13:38:00+01:00",
+   "title": [
+    "Britanija tužena zbog oduzetih prava građana EU nakon Brexita",
+    "Britain sued over residence rights taken from EU citizens after Brexit"
+   ],
+   "body": [
+    [
+     [
+      "Organizacija the3million tužila je britansko Ministarstvo unutrašnjih poslova pred Visokim sudom.",
+      "The organization the3million has sued the British Home Office at the High Court."
+     ],
+     [
+      "Tvrde da je ministarstvo prekršilo sporazum o izlasku iz EU kada je skoro 1.500 građana EU izgubilo sva ili dio prava boravka.",
+      "They claim the ministry broke the withdrawal agreement when nearly 1,500 EU citizens lost all or part of their residence rights."
+     ],
+     [
+      "Neki ljudi koji su nakon Brexita dobili privremeni status naknadno su čuli da je to bila greška.",
+      "Some people who received a temporary status after Brexit were later told that it had been a mistake."
+     ]
+    ],
+    [
+     [
+      "Među njima je 33-godišnji inženjer s brazilskim i italijanskim državljanstvom koji u Londonu živi od 2018.",
+      "Among them is a 33-year-old engineer with Brazilian and Italian citizenship who has lived in London since 2018."
+     ],
+     [
+      "Prvo su mu rekli da smije ostati, a njegova supruga iz Brazila ne smije, ali je ta odluka u zadnjim sedmicama poništena nakon prigovora.",
+      "First they told him he could stay but his wife from Brazil could not, but that decision was reversed in recent weeks after an objection."
+     ],
+     [
+      "Ministarstvo je nekim Brazilcima italijanskog porijekla rekalo da su status dobili greškom jer nisu priložili italijanski pasoš.",
+      "The ministry told some Brazilians of Italian descent that they got their status by mistake because they had not attached an Italian passport."
+     ],
+     [
+      "U oktobru je ministarstvo ipak prihvatilo da će one koji dokažu italijansko državljanstvo po porijeklu tretirati kao Italijane od rođenja.",
+      "In October the ministry did accept that it would treat those who prove Italian citizenship by descent as Italians from birth."
+     ]
+    ],
+    [
+     [
+      "Monique Hawkins iz organizacije rekla je da ministarstvo ljudima uskraćuje zaštitu koju sporazum garantuje, uključujući pravo na žalbu.",
+      "Monique Hawkins from the organization said the ministry denies people the protection that the agreement guarantees, including the right to appeal."
+     ],
+     [
+      "Zatražili su od suda da politiku „greške“ proglasi nezakonitom.",
+      "They asked the court to declare the \"mistake\" policy unlawful."
+     ],
+     [
+      "Ministarstvo je odgovorilo da ne može komentarisati jer je postupak u toku.",
+      "The ministry replied that it cannot comment because the case is ongoing."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "tužiti",
+     "to sue"
+    ],
+    [
+     "pravo boravka",
+     "right of residence"
+    ],
+    [
+     "sporazum",
+     "agreement"
+    ],
+    [
+     "greška",
+     "mistake"
+    ],
+    [
+     "žalba",
+     "appeal"
+    ],
+    [
+     "državljanstvo",
+     "citizenship"
+    ],
+    [
+     "prigovor",
+     "objection"
+    ]
+   ]
+  },
+  {
+   "id": "261107076",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/golim-rukama-gradili-prugu-srcem-stvarali-historiju-osam-decenija-poslije-voz-je-ponovo-povezao-brcko-i-banovice/261107076",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261107076.jpg",
+   "published": "2026-11-07T12:29:00+01:00",
+   "title": [
+    "Osam decenija poslije voz ponovo povezao Brčko i Banoviće",
+    "Eight decades later, a train has again connected Brčko and Banovići"
+   ],
+   "body": [
+    [
+     [
+      "Svečani voz vozio je u subotu na relaciji Banovići–Brčko–Banovići.",
+      "A ceremonial train ran on Saturday on the route Banovići–Brčko–Banovići."
+     ],
+     [
+      "Time je obilježeno 80 godina od izgradnje omladinske pruge Brčko–Banovići.",
+      "This marked 80 years since the construction of the Brčko–Banovići youth railway."
+     ],
+     [
+      "Vožnju su pripremile Željeznice Federacije BiH i Željeznice Republike Srpske, a na stanici u Banovićima okupili su se nekadašnji učesnici radnih akcija, željezničari i građani.",
+      "The ride was prepared by the Railways of the Federation of BiH and the Railways of Republika Srpska, and former participants of work actions, railway workers and citizens gathered at the station in Banovići."
+     ]
+    ],
+    [
+     [
+      "Prugu je 1946. godine golim rukama gradila omladina iz cijele Jugoslavije, a došlo je i oko 2.000 mladih iz inostranstva.",
+      "The railway was built in 1946 by hand by young people from all over Yugoslavia, and about 2,000 young people from abroad also came."
+     ],
+     [
+      "Radilo se u teškim uslovima i s malo mašina, a posao je završen 22 dana prije roka.",
+      "They worked in hard conditions and with few machines, and the job was finished 22 days before the deadline."
+     ],
+     [
+      "Pruga duga 87,8 kilometara ima 3 tunela, 22 mosta i 14 stanica.",
+      "The 87.8-kilometre railway has 3 tunnels, 22 bridges and 14 stations."
+     ],
+     [
+      "Prvi voz s banovićkim ugljenom svečano je 7. novembra 1946. ušao u beogradsku željezničku stanicu.",
+      "The first train with coal from Banovići ceremonially entered Belgrade's railway station on 7 November 1946."
+     ]
+    ],
+    [
+     [
+      "Nijaz Husić rekao je da su radne akcije bile masovne i dobrovoljne te da je takvu mobilizaciju danas teško ponoviti.",
+      "Nijaz Husić said that work actions were massive and voluntary and that such mobilization is hard to repeat today."
+     ],
+     [
+      "Zlatko Dukić podsjetio je da Tuzla trenutno nema željeznicu i da ova godišnjica podsjeća na ono što je region imao.",
+      "Zlatko Dukić reminded that Tuzla currently has no railway and that this anniversary is a reminder of what the region once had."
+     ],
+     [
+      "Mašinovođa Jasmin Selimović, koji većinom vozi teretne vozove, prvi put je vozio ovakav putnički voz.",
+      "Locomotive driver Jasmin Selimović, who mostly drives freight trains, drove this kind of passenger train for the first time."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "pruga",
+     "railway"
+    ],
+    [
+     "omladina",
+     "youth"
+    ],
+    [
+     "godišnjica",
+     "anniversary"
+    ],
+    [
+     "stanica",
+     "station"
+    ],
+    [
+     "rok",
+     "deadline"
+    ],
+    [
+     "mašinovođa",
+     "locomotive driver"
+    ],
+    [
+     "ugalj",
+     "coal"
+    ]
+   ]
+  },
+  {
+   "id": "261107050",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/film-tv/robert-pattinson-u-utrci-za-ulogu-jamesa-bonda-bio-na-probnom-snimanju/261107050",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261107050.jpg",
+   "published": "2026-11-07T12:29:00+01:00",
+   "title": [
+    "Robert Pattinson u utrci za ulogu Jamesa Bonda",
+    "Robert Pattinson is in the running for the role of James Bond"
+   ],
+   "body": [
+    [
+     [
+      "Glumac Robert Pattinson među je glumcima koji su išli na probno snimanje za ulogu Jamesa Bonda.",
+      "Actor Robert Pattinson is among the actors who went to a screen test for the role of James Bond."
+     ],
+     [
+      "Tako piše Hollywood Reporter, pozivajući se na više izvora.",
+      "This is what the Hollywood Reporter writes, citing several sources."
+     ],
+     [
+      "Probna snimanja održana su prema tim izvorima u vikendu 24. oktobra u Londonu.",
+      "According to these sources, the screen tests took place on the weekend of 24 October in London."
+     ]
+    ],
+    [
+     [
+      "Među kandidatima se spominju i Callum Turner, Jack Lowden i Josh O'Connor.",
+      "Callum Turner, Jack Lowden and Josh O'Connor are also mentioned among the candidates."
+     ],
+     [
+      "Navodno se razmatra i Nicholas Hoult, koji je nekada bio u užem izboru za Batmana, ulogu koju je na kraju dobio Pattinson.",
+      "Nicholas Hoult is reportedly also being considered; he was once on the shortlist for Batman, a role that Pattinson finally got."
+     ],
+     [
+      "Novi film o Bondu režira Denis Villeneuve, s kojim je Pattinson radio na filmu „Dune: Part Three“.",
+      "The new Bond film is directed by Denis Villeneuve, with whom Pattinson worked on the film \"Dune: Part Three\"."
+     ],
+     [
+      "Prema izvještaju, saradnja je prošla dobro.",
+      "According to the report, the cooperation went well."
+     ]
+    ],
+    [
+     [
+      "Ovo će biti prvi film o Bondu pod kontrolom kompanije Amazon, koja je prava kupila od porodice Broccoli u februaru 2025.",
+      "This will be the first Bond film under the control of Amazon, which bought the rights from the Broccoli family in February 2025."
+     ],
+     [
+      "Producenti su Amy Pascal i David Heyman.",
+      "The producers are Amy Pascal and David Heyman."
+     ],
+     [
+      "Amazon nije komentarisao izvještaje.",
+      "Amazon did not comment on the reports."
+     ],
+     [
+      "Potraga za novim Bondom počela je 21 godinu nakon što je Daniel Craig dobio tu ulogu.",
+      "The search for a new Bond comes 21 years after Daniel Craig got the role."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "uloga",
+     "role"
+    ],
+    [
+     "probno snimanje",
+     "screen test"
+    ],
+    [
+     "kandidat",
+     "candidate"
+    ],
+    [
+     "režirati",
+     "to direct"
+    ],
+    [
+     "producent",
+     "producer"
+    ],
+    [
+     "izvor",
+     "source"
+    ],
+    [
+     "potraga",
+     "search"
+    ]
+   ]
+  },
+  {
+   "id": "261107077",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/iranska-garda-ako-se-promijeni-nuklearna-doktrina-bit-cemo-spremni-nase-mete-nisu-ogranicene-granicama/261107077",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261107077.jpg",
+   "published": "2026-11-07T12:27:00+01:00",
+   "title": [
+    "Iranska garda: spremni smo ako se promijeni nuklearna doktrina",
+    "Iranian Guard: we are ready if the nuclear doctrine changes"
+   ],
+   "body": [
+    [
+     [
+      "Glasnogovornik iranske Revolucionarne garde poručio je da je garda spremna na svaku stratešku promjenu.",
+      "The spokesperson of Iran's Revolutionary Guard said that the Guard is ready for any strategic change."
+     ],
+     [
+      "Brigadni general Hossein Mohebbi rekao je da će se napraviti potrebne pripreme ako rukovodstvo odluči promijeniti nuklearnu doktrinu.",
+      "Brigadier General Hossein Mohebbi said that the necessary preparations will be made if the leadership decides to change the nuclear doctrine."
+     ],
+     [
+      "Članak naglašava da je to samo uslovna izjava, a ne najava nove politike.",
+      "The article stresses that this is only a conditional statement, not an announcement of a new policy."
+     ]
+    ],
+    [
+     [
+      "Mohebbi je također rekao da imovina neprijateljskih zemalja nije ograničena njihovim granicama.",
+      "Mohebbi also said that the assets of enemy countries are not limited by their borders."
+     ],
+     [
+      "Prema njegovim riječima, iranske snage oružje prave vlastitim znanjem i ne uvoze ga iz inostranstva.",
+      "According to him, Iranian forces make weapons with their own knowledge and do not import them from abroad."
+     ],
+     [
+      "Spomenuo je i rad na povećanju dometa iranskih raketa.",
+      "He also mentioned work on increasing the range of Iranian missiles."
+     ]
+    ],
+    [
+     [
+      "Njegove riječi dolaze nakon naredbe vrhovnog vođe Mojtabe Khameneija da se na prijetnje odgovori bez geografskih ograničenja.",
+      "His words come after an order from Supreme Leader Mojtaba Khamenei to respond to threats without geographic limits."
+     ],
+     [
+      "Zabrana nuklearnog oružja u Iranu zasniva se na fetvi iz 2003. godine, a u Teheranu je nakon ovogodišnjih napada SAD-a i Izraela sve više zahtjeva da se ukine.",
+      "Iran's ban on nuclear weapons is based on a fatwa from 2003, and in Tehran there are more and more calls to lift it after this year's attacks by the US and Israel."
+     ],
+     [
+      "Zvaničnici su prošle sedmice rekli da nova odluka o doktrini još nije donesena.",
+      "Officials said last week that no new decision on the doctrine has been made yet."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "glasnogovornik",
+     "spokesperson"
+    ],
+    [
+     "doktrina",
+     "doctrine"
+    ],
+    [
+     "imovina",
+     "assets"
+    ],
+    [
+     "domet",
+     "range"
+    ],
+    [
+     "zabrana",
+     "ban"
+    ],
+    [
+     "prijetnja",
+     "threat"
+    ],
+    [
+     "rukovodstvo",
+     "leadership"
+    ]
+   ]
+  },
+  {
+   "id": "261107067",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/sad-nudi-do-20-miliona-dolara-i-preseljenje-za-informacije-o-iranskom-nuklearnom-programu/261107067",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261107067.jpg",
+   "published": "2026-11-07T12:16:00+01:00",
+   "title": [
+    "SAD nudi do 20 miliona dolara za informacije o iranskom nuklearnom programu",
+    "The US offers up to 20 million dollars for information on Iran's nuclear program"
+   ],
+   "body": [
+    [
+     [
+      "Američka Centralna komanda (CENTCOM) objavila je da Washington nudi do 20 miliona dolara za informacije o nuklearnom programu Irana.",
+      "The US Central Command (CENTCOM) announced that Washington is offering up to 20 million dollars for information about Iran's nuclear program."
+     ],
+     [
+      "Nagradu isplaćuje program Rewards for Justice američkog State Departmenta.",
+      "The reward is paid by the Rewards for Justice program of the US State Department."
+     ],
+     [
+      "Poziv je objavljen na mreži X, uz link na stranicu na kojoj se mogu poslati informacije.",
+      "The call was posted on X, with a link to the page where information can be sent."
+     ]
+    ],
+    [
+     [
+      "Nagrada se odnosi na nuklearna postrojenja, opremu i osoblje, posebno naučnike, kao i na njihovo kretanje.",
+      "The reward applies to nuclear facilities, equipment and staff, especially scientists, as well as their movement."
+     ],
+     [
+      "Ako je informacija vrijedna, doušnik bi mogao dobiti i preseljenje i novi dom izvan Irana.",
+      "If the information is valuable, an informant could also get relocation and a new home outside Iran."
+     ],
+     [
+      "Ranije ove godine SAD je nudio po 10 miliona dolara za informacije o komandantima Revolucionarne garde, pa je nova nagrada duplo veća.",
+      "Earlier this year the US offered 10 million dollars each for information about Revolutionary Guard commanders, so the new reward is twice as big."
+     ]
+    ],
+    [
+     [
+      "Predsjednik Donald Trump više puta je tvrdio da je iranski nuklearni program uništen.",
+      "President Donald Trump has claimed several times that Iran's nuclear program has been destroyed."
+     ],
+     [
+      "Prema pisanju Times of Israela, potvrdio je i nove, manje udare na Iran, prve nakon američkih izbora.",
+      "According to the Times of Israel, he also confirmed new, smaller strikes on Iran, the first since the US elections."
+     ],
+     [
+      "Iranski zvaničnik rekao je za Reuters da je Teheran preko Dohe poslao Washingtonu poseban nuklearni prijedlog, ali da neće odustati od zaliha obogaćenog uranija.",
+      "An Iranian official told Reuters that Tehran sent Washington a separate nuclear proposal through Doha, but that it will not give up its stocks of enriched uranium."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "nagrada",
+     "reward"
+    ],
+    [
+     "preseljenje",
+     "relocation"
+    ],
+    [
+     "postrojenje",
+     "facility"
+    ],
+    [
+     "naučnik",
+     "scientist"
+    ],
+    [
+     "doušnik",
+     "informant"
+    ],
+    [
+     "udar",
+     "strike"
+    ],
+    [
+     "zalihe",
+     "stocks"
+    ]
+   ]
+  },
+  {
+   "id": "261107075",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/mjestani-naselja-malta-od-danas-imaju-otvorenu-pijacu-svim-prodavacima-placen-zakup-tokom-prve-godine/261107075",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261107075.jpg",
+   "published": "2026-11-07T12:15:00+01:00",
+   "title": [
+    "Naselje Malta u Sarajevu dobilo novu pijacu",
+    "The Malta neighborhood in Sarajevo has a new green market"
+   ],
+   "body": [
+    [
+     [
+      "Stanovnici sarajevskog naselja Malta od danas imaju svoju pijacu.",
+      "Residents of the Malta neighborhood in Sarajevo have their own market from today."
+     ],
+     [
+      "Nalazi se na platou u blizini pošte i zgrade BH Telecoma, a ovdje se prodaje svježe voće i povrće.",
+      "It is located on a plateau near the post office and the BH Telecom building, and fresh fruit and vegetables are sold here."
+     ],
+     [
+      "To je prva pijaca na ovom dijelu desne obale Miljacke.",
+      "It is the first market on this part of the right bank of the Miljacka."
+     ]
+    ],
+    [
+     [
+      "Projekat su zajedno pokrenuli Općina Novo Sarajevo i preduzeće „Tržnice-pijace“.",
+      "The project was started together by the Municipality of Novo Sarajevo and the company \"Tržnice-pijace\"."
+     ],
+     [
+      "Općina je putem javnog poziva osigurala da svim prodavačima za prvu godinu bude vraćen zakup, a za to je izdvojeno do 100.000 KM.",
+      "Through a public call, the municipality made sure that all vendors get their rent refunded for the first year, and up to 100,000 KM was set aside for this."
+     ],
+     [
+      "Načelnica Općine Benjamina Karić rekla je da je to stambeno naselje s mnogo stanara koji sada mogu kupovati namirnice poslije posla ili tokom pauze.",
+      "Municipality head Benjamina Karić said this is a residential area with many tenants who can now buy groceries after work or during a break."
+     ]
+    ],
+    [
+     [
+      "Stanovnica Fadila Crnogorac kaže da je pijacu tražila još od 2008. godine jer ovaj dio grada nikada nije imao pijacu.",
+      "Resident Fadila Crnogorac says she has been asking for a market since 2008 because this part of the city never had one."
+     ],
+     [
+      "Nada se da će biti zadovoljni i prodavači i kupci.",
+      "She hopes that both vendors and buyers will be satisfied."
+     ],
+     [
+      "Na otvorenju je nastupilo KUD „Lola“, građani su dobili besplatnu kafu, a prvi kupci i zdrave pakete voća.",
+      "KUD \"Lola\" performed at the opening, citizens got free coffee, and the first customers also got healthy fruit packages."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "pijaca",
+     "green market"
+    ],
+    [
+     "zakup",
+     "rent (lease)"
+    ],
+    [
+     "stanovnik",
+     "resident"
+    ],
+    [
+     "povrće",
+     "vegetables"
+    ],
+    [
+     "načelnica",
+     "municipality head"
+    ],
+    [
+     "plato",
+     "plateau"
+    ],
+    [
+     "namirnice",
+     "groceries"
+    ]
+   ]
+  },
+  {
+   "id": "261107071",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/upoznajte-baku-i-djeda-abdula-el-sayeda-prvog-muslimana-u-senatu-sad-a-pokusavali-smo-ne-gledati-napade-zbog-vjere/261107071",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261107071.jpg",
+   "published": "2026-11-07T11:49:00+01:00",
+   "title": [
+    "Bake i djedovi prvog muslimana u Senatu SAD-a ponosni na unuka",
+    "The grandparents of the first Muslim in the US Senate are proud of their grandson"
+   ],
+   "body": [
+    [
+     [
+      "Abdul El-Sayed pobijedio je u utrci za mjesto u Senatu SAD-a iz Michigana.",
+      "Abdul El-Sayed won the race for a seat in the US Senate from Michigan."
+     ],
+     [
+      "Bit će prvi musliman u Senatu, a njegova porodica kaže da je ponosna.",
+      "He will be the first Muslim in the Senate, and his family says it is proud."
+     ],
+     [
+      "Judy i Jan Johnson nisu mu biološki baka i djed, ali ga zovu unukom.",
+      "Judy and Jan Johnson are not his biological grandmother and grandfather, but they call him their grandson."
+     ]
+    ],
+    [
+     [
+      "Oni su roditelji njegove maćehe Jackie, koja se udala za njegovog oca kada je Abdul imao oko četiri godine.",
+      "They are the parents of his stepmother Jackie, who married his father when Abdul was about four years old."
+     ],
+     [
+      "Jan je za ABC News rekao da mu je Abdul od početka ušao u srce.",
+      "Jan told ABC News that Abdul entered his heart from the start."
+     ],
+     [
+      "Judy ga opisuje kao dijete koje je bilo izazov, ali je uvijek poštovao starije i s godinama postao disciplinovaniji.",
+      "Judy describes him as a child who was a challenge, but who always respected his elders and became more disciplined over the years."
+     ],
+     [
+      "Danas je, kaže, energičan, pametan i iskreno želi pomoći ljudima.",
+      "Today, she says, he is energetic, smart and honestly wants to help people."
+     ]
+    ],
+    [
+     [
+      "Kada su je pitali o napadima na unuka zbog vjere, Judy je rekla da se porodica trudila ne gledati negativne stvari.",
+      "When she was asked about attacks on her grandson because of his faith, Judy said the family tried not to look at the negative things."
+     ],
+     [
+      "Dok je studirao na Univerzitetu Michigan, Abdul je živio kod njih, a oni su mu pomagali oko radova.",
+      "While he studied at the University of Michigan, Abdul lived with them, and they helped him with his papers."
+     ],
+     [
+      "Izborno veče proveli su zajedno na proslavi pobjede.",
+      "They spent election night together at the victory celebration."
+     ],
+     [
+      "Planiraju i da zajedno proslave Dan zahvalnosti.",
+      "They also plan to celebrate Thanksgiving together."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "senat",
+     "senate"
+    ],
+    [
+     "utrka",
+     "race"
+    ],
+    [
+     "unuk",
+     "grandson"
+    ],
+    [
+     "maćeha",
+     "stepmother"
+    ],
+    [
+     "napad",
+     "attack"
+    ],
+    [
+     "vjera",
+     "faith"
+    ],
+    [
+     "pobjeda",
+     "victory"
+    ]
+   ]
+  },
+  {
+   "id": "261107024",
+   "source": "Klix.ba",
+   "section": "Zdravlje",
+   "url": "https://www.klix.ba/lifestyle/zdravlje/kako-hobiji-mogu-poboljsati-vase-mentalno-i-emocionalno-zdravlje/261107024",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261107024.jpg",
+   "published": "2026-11-07T08:40:00+01:00",
+   "title": [
+    "Kako hobiji mogu poboljšati mentalno i emocionalno zdravlje",
+    "How hobbies can improve mental and emotional health"
+   ],
+   "body": [
+    [
+     [
+      "Hobiji su dobri za mentalno i emocionalno zdravlje, a prednosti su veće ako se hobiju redovno bavimo s drugim ljudima.",
+      "Hobbies are good for mental and emotional health, and the benefits are bigger if we do a hobby regularly with other people."
+     ],
+     [
+      "Čak i hobiji koje radimo sami, poput čitanja, vrtlarenja, pečenja ili pletenja, pomažu.",
+      "Even hobbies that we do alone, such as reading, gardening, baking or knitting, help."
+     ],
+     [
+      "Članak ih povezuje i s dužim životom.",
+      "The article also links them to a longer life."
+     ]
+    ],
+    [
+     [
+      "Psihologinja MaryCatherine McDonald objašnjava da pod stresom mnogo krvi i električne aktivnosti odlazi u dio mozga koji se zove centar straha.",
+      "Psychologist MaryCatherine McDonald explains that under stress a lot of blood and electrical activity goes to the part of the brain called the fear center."
+     ],
+     [
+      "To podiže hormone stresa, anksioznost i upalu u tijelu.",
+      "This raises stress hormones, anxiety and inflammation in the body."
+     ],
+     [
+      "Hobiji snažno uključuju prefrontalni korteks, pa centar straha prestaje slati alarm.",
+      "Hobbies strongly engage the prefrontal cortex, so the fear center stops sending alarms."
+     ],
+     [
+      "Kako kaže, kada se bavimo hobijima, doslovno prespajamo mozak.",
+      "As she says, when we do hobbies, we literally rewire the brain."
+     ]
+    ],
+    [
+     [
+      "Zajednički hobi skida pritisak druženja jer odmah imamo o čemu razgovarati, na primjer o knjizi u čitalačkom klubu.",
+      "A shared hobby removes the pressure of socializing because we immediately have something to talk about, for example a book in a book club."
+     ],
+     [
+      "Dr. Natasha Thapar-Olmos kaže da dobri odnosi s ljudima smanjuju kortizol i povećavaju dopamin.",
+      "Dr. Natasha Thapar-Olmos says that good relationships with people lower cortisol and increase dopamine."
+     ],
+     [
+      "Za korist nije nužan razgovor, dovoljno je biti u istom prostoru s ljudima koji vole istu aktivnost.",
+      "Conversation is not necessary for the benefit; it is enough to be in the same space with people who like the same activity."
+     ],
+     [
+      "Važnija je redovnost nego broj susreta, a početnici mogu otići na radionicu ili se pridružiti prijatelju te zaboraviti na perfekcionizam.",
+      "Regularity is more important than the number of meetings, and beginners can go to a workshop or join a friend and forget about perfectionism."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "hobi",
+     "hobby"
+    ],
+    [
+     "stres",
+     "stress"
+    ],
+    [
+     "upala",
+     "inflammation"
+    ],
+    [
+     "vrtlarenje",
+     "gardening"
+    ],
+    [
+     "pletenje",
+     "knitting"
+    ],
+    [
+     "druženje",
+     "socializing"
+    ],
+    [
+     "redovnost",
+     "regularity"
+    ]
+   ]
+  },
   {
    "id": "261107013",
    "source": "Klix.ba",
@@ -4947,758 +5666,6 @@
     [
      "pametni sat",
      "smartwatch"
-    ]
-   ]
-  },
-  {
-   "id": "261105184",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/lifestyle/ljubimci/divovski-psi-zive-krace-od-ostalih-u-prosjeku-tek-89-godina/261105184",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261105184.jpg",
-   "published": "2026-11-05T13:05:00+01:00",
-   "title": [
-    "Divovski psi žive kraće: u prosjeku samo 8,9 godina",
-    "Giant dogs live shorter lives: only 8.9 years on average"
-   ],
-   "body": [
-    [
-     [
-      "Velika britanska studija pokazala je da divovske pasmine žive u prosjeku 8,9 godina.",
-      "A large British study showed that giant breeds live 8.9 years on average."
-     ],
-     [
-      "To je otprilike tri godine manje nego kod svih pasa zajedno.",
-      "That is roughly three years less than for all dogs together."
-     ],
-     [
-      "Studiju je vodio profesor Dan O'Neill s Kraljevskog veterinarskog fakulteta u Londonu.",
-      "The study was led by Professor Dan O'Neill from the Royal Veterinary College in London."
-     ]
-    ],
-    [
-     [
-      "Istraživači su pregledali anonimne veterinarske zapise o 2,25 miliona pasa koji su liječeni 2019. godine.",
-      "The researchers looked at anonymous veterinary records of 2.25 million dogs that were treated in 2019."
-     ],
-     [
-      "Među njima je bilo 28.345 pasa iz 29 divovskih pasmina, a podatke za više od 4.300 detaljno su analizirali.",
-      "Among them were 28,345 dogs from 29 giant breeds, and they analysed the data for more than 4,300 in detail."
-     ],
-     [
-      "Tibetanski mastif živi najkraće, samo 4,8 godina, a ženke žive oko 0,8 godina duže od mužjaka.",
-      "The Tibetan mastiff lives the shortest, only 4.8 years, and females live about 0.8 years longer than males."
-     ],
-     [
-      "Najčešći uzrok smrti je rak.",
-      "The most common cause of death is cancer."
-     ],
-     [
-      "Čak 73,8 posto divovskih pasa imalo je bar jedan zdravstveni problem tokom godine.",
-      "As many as 73.8 percent of giant dogs had at least one health problem during the year."
-     ]
-    ],
-    [
-     [
-      "Istraživači misle da brži rast kod ovih pasa vodi do bržeg starenja.",
-      "The researchers think that faster growth in these dogs leads to faster ageing."
-     ],
-     [
-      "Profesor O'Neill kaže da su divovski psi divni ljubimci, ali da njihova veličina ima visoku cijenu.",
-      "Professor O'Neill says giant dogs are wonderful pets, but that their size comes at a high price."
-     ],
-     [
-      "Prema njegovim riječima, kratak život ovih pasa trebao bi pokrenuti širu raspravu o uzgoju.",
-      "According to him, the short life of these dogs should start a wider debate about breeding."
-     ],
-     [
-      "On vjeruje da bi umjerena veličina mogla produžiti život tih pasmina.",
-      "He believes that a moderate size could extend the life of these breeds."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "pas",
-     "dog"
-    ],
-    [
-     "pasmina",
-     "breed"
-    ],
-    [
-     "prosjek",
-     "average"
-    ],
-    [
-     "studija",
-     "study"
-    ],
-    [
-     "rak",
-     "cancer"
-    ],
-    [
-     "uzgoj",
-     "breeding"
-    ],
-    [
-     "ljubimac",
-     "pet"
-    ],
-    [
-     "starenje",
-     "ageing"
-    ]
-   ]
-  },
-  {
-   "id": "261105180",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/kongres-interventnih-radiologa-u-sarajevu-49-predavaca-iz-14-zemalja/261105180",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261105180.jpg",
-   "published": "2026-11-05T12:46:00+01:00",
-   "title": [
-    "Kongres interventnih radiologa u Sarajevu: 49 predavača iz 14 zemalja",
-    "Congress of interventional radiologists in Sarajevo: 49 lecturers from 14 countries"
-   ],
-   "body": [
-    [
-     [
-      "U Sarajevu će od 6. do 8. novembra biti održan drugi kongres interventnih radiologa u BiH.",
-      "The second congress of interventional radiologists in BiH will be held in Sarajevo from 6 to 8 November."
-     ],
-     [
-      "Organizator je Udruženje interventnih radiologa i minimalno invazivnih terapeuta u BiH.",
-      "The organiser is the Association of Interventional Radiologists and Minimally Invasive Therapists in BiH."
-     ],
-     [
-      "Kongres će biti u hotelu Mövenpick, a očekuje se više od 200 učesnika iz različitih oblasti medicine.",
-      "The congress will be at the Mövenpick hotel, and more than 200 participants from different fields of medicine are expected."
-     ]
-    ],
-    [
-     [
-      "Predavat će 49 stručnjaka iz 14 zemalja.",
-      "49 experts from 14 countries will give lectures."
-     ],
-     [
-      "Teme su nove metode u liječenju krvnih žila, ali i drugih organa, te zahvati na mozgu.",
-      "The topics are new methods in treating blood vessels, but also other organs, and procedures on the brain."
-     ],
-     [
-      "Interventna radiologija je grana medicine u kojoj ljekari liječe pacijente kroz male otvore na tijelu, pa su operacije često manje opasne.",
-      "Interventional radiology is a branch of medicine in which doctors treat patients through small openings in the body, so operations are often less risky."
-     ],
-     [
-      "Učesnici će dobiti i 13,5 bodova za stručno usavršavanje koje priznaje Evropsko vijeće za radiologiju.",
-      "Participants will also receive 13.5 credits for professional training recognised by the European Board of Radiology."
-     ]
-    ],
-    [
-     [
-      "Među organizatorima i predavačima su ljekari s Klinike za radiologiju Kliničkog centra Univerziteta u Sarajevu.",
-      "Among the organisers and lecturers are doctors from the Clinic for Radiology of the Clinical Centre of the University of Sarajevo."
-     ],
-     [
-      "Predsjednik organizacionog odbora je docent doktor Deniz Bulja, šef odjela za interventnu radiologiju na toj klinici.",
-      "The president of the organising committee is Assistant Professor Dr Deniz Bulja, head of the interventional radiology department at that clinic."
-     ],
-     [
-      "Organizatori ističu da je cilj kongresa da se predstave savremene metode liječenja.",
-      "The organisers stress that the goal of the congress is to present modern methods of treatment."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "kongres",
-     "congress"
-    ],
-    [
-     "predavač",
-     "lecturer"
-    ],
-    [
-     "ljekar",
-     "doctor"
-    ],
-    [
-     "liječenje",
-     "treatment"
-    ],
-    [
-     "krvna žila",
-     "blood vessel"
-    ],
-    [
-     "učesnik",
-     "participant"
-    ],
-    [
-     "organizator",
-     "organiser"
-    ]
-   ]
-  },
-  {
-   "id": "261105018",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/regija/studentska-lista-predlaze-cetverodnevnu-radnu-sedmicu-bez-smanjenja-plate/261105018",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261105018.jpg",
-   "published": "2026-11-05T07:22:00+01:00",
-   "title": [
-    "Studentska lista predlaže četverodnevnu radnu sedmicu",
-    "The Student List proposes a four-day work week"
-   ],
-   "body": [
-    [
-     [
-      "Studentska lista u Srbiji predstavila je prijedlog novih pravila za radnike.",
-      "The Student List in Serbia has presented a proposal for new rules for workers."
-     ],
-     [
-      "Najviše pažnje privlači ideja o četverodnevnoj radnoj sedmici od 32 sata bez smanjenja plate.",
-      "The idea of a four-day work week of 32 hours without a pay cut attracts the most attention."
-     ],
-     [
-      "Ona ne bi bila obavezna, nego bi je poslodavci mogli izabrati sami.",
-      "It would not be mandatory; employers could choose it themselves."
-     ]
-    ],
-    [
-     [
-      "Radnici bi nakon 12 mjeseci rada dobili ugovor na neodređeno vrijeme.",
-      "After 12 months of work, workers would get a permanent contract."
-     ],
-     [
-      "Ugovori na određeno vrijeme trajali bi najviše 12 mjeseci, a s istim radnikom bi se mogla potpisati najviše četiri.",
-      "Fixed-term contracts would last at most 12 months, and at most four could be signed with the same worker."
-     ],
-     [
-      "Dodaci na platu bili bi veći: 150 posto za rad praznikom, 110 posto za rad nedjeljom i po 50 posto za noćni rad i prekovremene sate.",
-      "Supplements to pay would be higher: 150 percent for work on holidays, 110 percent for work on Sundays and 50 percent each for night work and overtime."
-     ],
-     [
-      "Poslodavci bi morali objaviti raspon plate u oglasima za posao.",
-      "Employers would have to publish the salary range in job ads."
-     ]
-    ],
-    [
-     [
-      "Prijedlog uključuje i tri mjeseca očinskog odsustva te penzije koje bi se usklađivale dvaput godišnje.",
-      "The proposal also includes three months of paternity leave and pensions that would be adjusted twice a year."
-     ],
-     [
-      "Autori kažu da sadašnji zakon ne štiti dovoljno radnike koji nemaju standardan posao.",
-      "The authors say that the current law does not protect workers without a standard job well enough."
-     ],
-     [
-      "Za sve ove promjene bilo bi potrebno promijeniti zakon.",
-      "All these changes would require amending the law."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "radna sedmica",
-     "work week"
-    ],
-    [
-     "plata",
-     "salary"
-    ],
-    [
-     "poslodavac",
-     "employer"
-    ],
-    [
-     "ugovor",
-     "contract"
-    ],
-    [
-     "prekovremeni",
-     "overtime"
-    ],
-    [
-     "penzija",
-     "pension"
-    ],
-    [
-     "odsustvo",
-     "leave"
-    ],
-    [
-     "prijedlog",
-     "proposal"
-    ]
-   ]
-  },
-  {
-   "id": "261105019",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/kosarka/wembanyama-ispisao-historiju-kakvu-nba-nije-vidjela-52-poena-i-24-skoka-srusila-dallas/261105019",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261105019.jpg",
-   "published": "2026-11-05T07:19:00+01:00",
-   "title": [
-    "Wembanyama sa 52 poena i 24 skoka srušio Dallas",
-    "Wembanyama beat Dallas with 52 points and 24 rebounds"
-   ],
-   "body": [
-    [
-     [
-      "Košarkaš Victor Wembanyama odigrao je utakmicu kakvu NBA liga do sada nije vidjela.",
-      "Basketball player Victor Wembanyama played a game the NBA has not seen until now."
-     ],
-     [
-      "San Antonio je pobijedio Dallas 112:111, a Francuz je postigao 52 poena.",
-      "San Antonio beat Dallas 112:111, and the Frenchman scored 52 points."
-     ],
-     [
-      "Uz to je uhvatio 24 skoka i blokirao osam šuteva za 34 minute igre.",
-      "In addition, he grabbed 24 rebounds and blocked eight shots in 34 minutes of play."
-     ]
-    ],
-    [
-     [
-      "Pogodio je 16 od 28 šuteva iz igre i 19 od 23 slobodnih bacanja.",
-      "He made 16 of 28 shots from the field and 19 of 23 free throws."
-     ],
-     [
-      "Prema izvještaju, nijedan igrač u historiji lige nije imao takav učinak.",
-      "According to the report, no player in the league's history has had such a performance."
-     ],
-     [
-      "Najbliže tome je bio Bob McAdoo 1974. godine.",
-      "Bob McAdoo came closest to it in 1974."
-     ],
-     [
-      "Već na poluvremenu imao je 29 poena, 15 skokova i pet blokada.",
-      "Already at halftime he had 29 points, 15 rebounds and five blocks."
-     ]
-    ],
-    [
-     [
-      "San Antonio je u jednom trenutku vodio sa 19 poena razlike, ali se Dallas vratio.",
-      "San Antonio led by 19 points at one point, but Dallas came back."
-     ],
-     [
-      "Naji Marshall je pogodio tricu minutu i 41 sekundu prije kraja i izjednačio na 111.",
-      "Naji Marshall hit a three-pointer one minute and 41 seconds before the end and tied it at 111."
-     ],
-     [
-      "Wembanyama je zatim pogodio jedno slobodno bacanje, a Kyrie Irving je promašio posljednji šut.",
-      "Wembanyama then made one free throw, and Kyrie Irving missed the last shot."
-     ],
-     [
-      "San Antonio ima šest pobjeda zaredom, dok je Dallas izgubio drugi put uzastopno.",
-      "San Antonio has six wins in a row, while Dallas has lost for the second time in a row."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "skok",
-     "rebound"
-    ],
-    [
-     "blokada",
-     "block"
-    ],
-    [
-     "slobodno bacanje",
-     "free throw"
-    ],
-    [
-     "poluvrijeme",
-     "halftime"
-    ],
-    [
-     "poen",
-     "point"
-    ],
-    [
-     "izjednačiti",
-     "to tie"
-    ],
-    [
-     "učinak",
-     "performance"
-    ]
-   ]
-  },
-  {
-   "id": "261105007",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/zdravstveni-radnici-danas-protestuju-ispred-vlade-ks-traze-vece-plate-za-sve-ne-samo-za-doktore/261105007",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261105007.jpg",
-   "published": "2026-11-05T06:41:00+01:00",
-   "title": [
-    "Zdravstveni radnici u Sarajevu traže veće plate za sve",
-    "Health workers in Sarajevo demand higher pay for everyone"
-   ],
-   "body": [
-    [
-     [
-      "Zdravstveni radnici danas u 10 sati protestuju ispred Vlade Kantona Sarajevo.",
-      "Health workers are protesting today at 10 o'clock in front of the Sarajevo Canton Government."
-     ],
-     [
-      "Protest organizuje Glavni odbor Sindikata radnika zaposlenih u zdravstvu.",
-      "The protest is organized by the Main Board of the Union of Health Sector Workers."
-     ],
-     [
-      "Nezadovoljni su zato što su nedavna povećanja plata dobili samo doktori.",
-      "They are unhappy because only doctors received the recent pay increases."
-     ]
-    ],
-    [
-     [
-      "Sindikat traži hitne izmjene kolektivnog ugovora.",
-      "The union demands urgent changes to the collective agreement."
-     ],
-     [
-      "Želi i da se plate povećaju svim zaposlenim u zdravstvu, a ne samo ljekarima.",
-      "It also wants salaries to be raised for all health sector employees, not only physicians."
-     ],
-     [
-      "Osim toga, traži saglasnost za početak pregovora o novom kolektivnom ugovoru jer sadašnji ističe sljedeće godine.",
-      "In addition, it asks for approval to start negotiations on a new collective agreement because the current one expires next year."
-     ]
-    ],
-    [
-     [
-      "Zahtjevi su upućeni Ministarstvu zdravstva i Vladi Kantona Sarajevo.",
-      "The demands have been sent to the Ministry of Health and the Sarajevo Canton Government."
-     ],
-     [
-      "Predsjednik sindikata Senad Sadiković rekao je da žele da radnici u zdravstvu budu ravnopravni.",
-      "Union president Senad Sadiković said they want health workers to be treated equally."
-     ],
-     [
-      "Nije poznato koliko ljudi će doći na protest.",
-      "It is not known how many people will come to the protest."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "protest",
-     "protest"
-    ],
-    [
-     "sindikat",
-     "trade union"
-    ],
-    [
-     "kolektivni ugovor",
-     "collective agreement"
-    ],
-    [
-     "zdravstvo",
-     "healthcare"
-    ],
-    [
-     "ljekar",
-     "physician"
-    ],
-    [
-     "ravnopravan",
-     "equal"
-    ],
-    [
-     "povećanje",
-     "increase"
-    ]
-   ]
-  },
-  {
-   "id": "261105005",
-   "source": "Klix.ba",
-   "section": "Biznis",
-   "url": "https://www.klix.ba/biznis/ekonomija/nafta-jeftinija-skoro-devet-posto-nakon-americkih-izbora-trumpova-kompanija-na-berzi-pala-245-posto/261105005",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261105005.jpg",
-   "published": "2026-11-05T06:29:00+01:00",
-   "title": [
-    "Nafta pojeftinila skoro devet posto nakon izbora u SAD-u",
-    "Oil became almost nine percent cheaper after the US elections"
-   ],
-   "body": [
-    [
-     [
-      "Nakon američkih izbora cijene nafte naglo su pale, a dionice su porasle.",
-      "After the American elections oil prices dropped sharply, and shares rose."
-     ],
-     [
-      "Republikanci su izgubili kontrolu nad Washingtonom, pa je Wall Street u srijedu snažno porastao.",
-      "The Republicans lost control of Washington, so Wall Street rose strongly on Wednesday."
-     ],
-     [
-      "Indeks S&P 500 porastao je 1,6 posto, a Dow Jones više od 1.500 bodova.",
-      "The S&P 500 index rose 1.6 percent, and the Dow Jones more than 1,500 points."
-     ]
-    ],
-    [
-     [
-      "Nafta Brent pojeftinila je 8,7 posto i koštala 94,62 dolara za barel, što je blizu najniže cijene u dva mjeseca.",
-      "Brent oil became 8.7 percent cheaper and cost 94.62 dollars per barrel, which is close to the lowest price in two months."
-     ],
-     [
-      "Analitičari kažu da bi Kongres pod kontrolom demokrata mogao natjerati Trumpa da završi rat s Iranom.",
-      "Analysts say that a Congress controlled by Democrats could push Trump to end the war with Iran."
-     ],
-     [
-      "Dionice kompanije Trump Media pale su 24,5 posto, a Tesla i SpaceX izgubili su po oko 3 do 4 posto.",
-      "Shares of Trump Media fell 24.5 percent, and Tesla and SpaceX lost about 3 to 4 percent each."
-     ],
-     [
-      "Pale su i dionice proizvođača oružja, dok su kompanije za obnovljivu energiju zabilježile rast.",
-      "Shares of weapons makers also fell, while renewable energy companies recorded growth."
-     ]
-    ],
-    [
-     [
-      "Azijske berze u četvrtak nisu reagovale isto: južnokorejski Kospi pao je oko 3,5 posto, a Hang Seng u Hong Kongu porastao je 2,8 posto.",
-      "Asian stock markets did not react the same on Thursday: South Korea's Kospi fell about 3.5 percent, and the Hang Seng in Hong Kong rose 2.8 percent."
-     ],
-     [
-      "Dolar je oslabio, a euro je vrijedio 1,1256 dolara.",
-      "The dollar weakened, and the euro was worth 1.1256 dollars."
-     ],
-     [
-      "Članak ističe da izbori na dugi rok možda malo utiču na tržište, jer ga više pokreću zarade kompanija i kamatne stope.",
-      "The article points out that in the long run elections may have little effect on the market, because company profits and interest rates drive it more."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "nafta",
-     "oil"
-    ],
-    [
-     "dionica",
-     "share (stock)"
-    ],
-    [
-     "berza",
-     "stock exchange"
-    ],
-    [
-     "barel",
-     "barrel"
-    ],
-    [
-     "analitičar",
-     "analyst"
-    ],
-    [
-     "kamatna stopa",
-     "interest rate"
-    ],
-    [
-     "obnovljiv",
-     "renewable"
-    ],
-    [
-     "zarada",
-     "profit"
-    ]
-   ]
-  },
-  {
-   "id": "261104272",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/vijesti/svijet/roberta-metsola-upozorila-europarlamentarce-da-se-ne-oslanjaju-previse-na-umjetnu-inteligenciju/261104272",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261104272.jpg",
-   "published": "2026-11-04T23:40:00+01:00",
-   "title": [
-    "Metsola upozorila europarlamentarce na umjetnu inteligenciju",
-    "Metsola warned MEPs about artificial intelligence"
-   ],
-   "body": [
-    [
-     [
-      "Predsjednica Evropskog parlamenta Roberta Metsola upozorila je poslanike da se ne oslanjaju previše na umjetnu inteligenciju.",
-      "European Parliament President Roberta Metsola warned members not to rely too much on artificial intelligence."
-     ],
-     [
-      "Parlament trenutno priprema nove smjernice o tome kako se ona smije koristiti.",
-      "The Parliament is currently preparing new guidelines on how it may be used."
-     ],
-     [
-      "Izvještaj je objavila agencija SRNA.",
-      "The report was published by the SRNA agency."
-     ]
-    ],
-    [
-     [
-      "Metsola je rekla da umjetna inteligencija ne može zamijeniti ljudsku procjenu ni političku radnu.",
-      "Metsola said that artificial intelligence cannot replace human judgment or political work."
-     ],
-     [
-      "Prema njenim riječima, pisanje amandmana uz pomoć vještačke inteligencije ne može zamijeniti konstruktivnu raspravu s kolegom.",
-      "According to her, writing amendments with the help of AI cannot replace a constructive discussion with a colleague."
-     ],
-     [
-      "Isto vrijedi za pravna istraživanja, jer teška odluka traži kritičko razmišljanje.",
-      "The same goes for legal research, because a difficult decision requires critical thinking."
-     ],
-     [
-      "Naglasila je da odgovornost uvijek ostaje na izabranim predstavnicima.",
-      "She stressed that responsibility always stays with the elected representatives."
-     ]
-    ],
-    [
-     [
-      "Generalni sekretar Parlamenta rekao je da se pravi vlastiti alat za osjetljive poslove.",
-      "The Parliament's secretary general said that its own tool is being built for sensitive work."
-     ],
-     [
-      "Radit će na internoj infrastrukturi, pa podaci neće izlaziti iz institucije.",
-      "It will run on internal infrastructure, so data will not leave the institution."
-     ],
-     [
-      "Za manje osjetljive zadatke i dalje se mogu koristiti komercijalni modeli.",
-      "Commercial models can still be used for less sensitive tasks."
-     ],
-     [
-      "Zvaničnici se brinu jer neki amandmani pisani uz pomoć AI navode zakone koji ne postoje.",
-      "Officials are worried because some amendments written with the help of AI cite laws that do not exist."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "umjetna inteligencija",
-     "artificial intelligence"
-    ],
-    [
-     "poslanik",
-     "member of parliament"
-    ],
-    [
-     "smjernice",
-     "guidelines"
-    ],
-    [
-     "amandman",
-     "amendment"
-    ],
-    [
-     "odgovornost",
-     "responsibility"
-    ],
-    [
-     "osjetljiv",
-     "sensitive"
-    ],
-    [
-     "alat",
-     "tool"
-    ],
-    [
-     "odluka",
-     "decision"
-    ]
-   ]
-  },
-  {
-   "id": "261104279",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/oko-150-volontera-ce-kod-zavidovica-zasaditi-3000-sadnica-u-akciji-boranke/261104279",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261104279.jpg",
-   "published": "2026-11-04T23:12:00+01:00",
-   "title": [
-    "Oko 150 volontera sadit će 3.000 sadnica kod Zavidovića",
-    "About 150 volunteers will plant 3,000 seedlings near Zavidovići"
-   ],
-   "body": [
-    [
-     [
-      "Kod Zavidovića će u subotu, 7. novembra, biti zasađeno 3.000 sadnica.",
-      "Near Zavidovići, 3,000 seedlings will be planted on Saturday, 7 November."
-     ],
-     [
-      "To je 12. akcija pošumljavanja u okviru kampanje Boranka.",
-      "It is the 12th reforestation action within the Boranka campaign."
-     ],
-     [
-      "Očekuje se oko 150 volontera.",
-      "About 150 volunteers are expected."
-     ]
-    ],
-    [
-     [
-      "Akciju organizuje Savez izviđača Federacije BiH, a partner je Šumarija Zavidovići.",
-      "The action is organized by the Scout Association of the Federation of BiH, and the partner is the Zavidovići forestry office."
-     ],
-     [
-      "Domaćin je izviđački odred \"Klek\" iz Zavidovića.",
-      "The host is the scout troop \"Klek\" from Zavidovići."
-     ],
-     [
-      "Sadnice će se saditi na Maloj Maoči, gdje se spajaju granice Zavidovića i Općine Olovo.",
-      "The seedlings will be planted at Mala Maoča, where the borders of Zavidovići and the Municipality of Olovo meet."
-     ],
-     [
-      "To područje je ranije stradalo u šumskim požarima.",
-      "That area was previously damaged in forest fires."
-     ]
-    ],
-    [
-     [
-      "Volonteri će doći iz Sarajeva, Mostara, Doboj Istoka i Zenice.",
-      "Volunteers will come from Sarajevo, Mostar, Doboj Istok and Zenica."
-     ],
-     [
-      "Učestvovat će i Crveni križ, dvije srednje škole iz Zavidovića i druge organizacije.",
-      "The Red Cross, two secondary schools from Zavidovići and other organizations will also take part."
-     ],
-     [
-      "Organizatori su rekli da žele pomoći da se opožarena područja ponovo zazelene.",
-      "The organizers said they want to help burned areas become green again."
-     ],
-     [
-      "Zahvalili su i gradonačelnici Zavidovića na podršci.",
-      "They also thanked the mayor of Zavidovići for her support."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "sadnica",
-     "seedling"
-    ],
-    [
-     "volonter",
-     "volunteer"
-    ],
-    [
-     "pošumljavanje",
-     "reforestation"
-    ],
-    [
-     "izviđač",
-     "scout"
-    ],
-    [
-     "požar",
-     "fire"
-    ],
-    [
-     "podrška",
-     "support"
-    ],
-    [
-     "akcija",
-     "campaign (action)"
     ]
    ]
   }
