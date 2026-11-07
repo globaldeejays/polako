@@ -1,18 +1,681 @@
 {
- "updated": "2026-11-06T18:50:00+01:00",
+ "updated": "2026-11-07T07:50:00+01:00",
  "front": [
-  "261106273",
-  "261106202",
-  "261106233",
-  "261106264",
-  "261106281",
-  "261106269",
-  "261106268",
+  "261107015",
+  "261107005",
+  "261107013",
+  "261107002",
+  "261106340",
+  "261107003",
+  "261106007",
+  "261106324",
   "261106229",
   "261106224"
  ],
  "level": "A2",
  "articles": [
+  {
+   "id": "261107013",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/sjenka-pregovora-nad-kijevom-krvavi-raketni-udar-dok-amerika-i-pregovaraci-broje-dane-do-abu-dhabija/261107013",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261107013.jpg",
+   "published": "2026-11-07T07:29:00+01:00",
+   "title": [
+    "Raketni napad na Kijev nekoliko dana prije pregovora u Abu Dhabiju",
+    "Missile attack on Kyiv a few days before talks in Abu Dhabi"
+   ],
+   "body": [
+    [
+     [
+      "Rusija je u subotu ujutro raketama napala Kijev.",
+      "Russia attacked Kyiv with missiles on Saturday morning."
+     ],
+     [
+      "Gradonačelnik Vitalij Kličko napisao je na Telegramu da neprijatelj balističkim raketama gađa infrastrukturu u predgrađima.",
+      "Mayor Vitali Klitschko wrote on Telegram that the enemy is hitting infrastructure in the suburbs with ballistic missiles."
+     ],
+     [
+      "Dvije osobe su povrijeđene, a gradska vojna uprava je saopćila da su oštećene i zgrade u kojima su stanovi i jedan vrtić.",
+      "Two people were injured, and the city military administration announced that buildings with apartments and a kindergarten were also damaged."
+     ]
+    ],
+    [
+     [
+      "Krhotine su pale na zgradu od pet spratova u jednom zapadnom dijelu grada, a na drugoj zgradi je oštećena fasada.",
+      "Debris fell on a five-storey building in a western part of the city, and the facade of another building was damaged."
+     ],
+     [
+      "Zvaničnici su satima upozoravali stanovnike da bi mogli doći novi udari.",
+      "Officials warned residents for hours that new strikes could come."
+     ],
+     [
+      "Predsjednik Volodimir Zelenski rekao je u večernjem obraćanju da Rusija priprema nove napade na energetska postrojenja, mostove i drugu infrastrukturu.",
+      "President Volodymyr Zelensky said in his evening address that Russia is preparing new attacks on energy facilities, bridges and other infrastructure."
+     ]
+    ],
+    [
+     [
+      "Napad dolazi tri dana prije pregovora u Abu Dhabiju, u kojima učestvuju Sjedinjene Države, Ukrajina i Rusija.",
+      "The attack comes three days before the talks in Abu Dhabi, in which the United States, Ukraine and Russia are taking part."
+     ],
+     [
+      "Cilj je da se završi rat koji traje već četiri i po godine.",
+      "The goal is to end the war that has lasted for four and a half years."
+     ],
+     [
+      "Posljednji krug pregovora održan je u februaru.",
+      "The last round of talks was held in February."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "raketa",
+     "missile, rocket"
+    ],
+    [
+     "napad",
+     "attack"
+    ],
+    [
+     "gradonačelnik",
+     "mayor"
+    ],
+    [
+     "povrijeđen",
+     "injured"
+    ],
+    [
+     "oštećen",
+     "damaged"
+    ],
+    [
+     "krhotine",
+     "debris"
+    ],
+    [
+     "pregovori",
+     "negotiations, talks"
+    ],
+    [
+     "infrastruktura",
+     "infrastructure"
+    ]
+   ]
+  },
+  {
+   "id": "261107015",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/demokrati-uputili-poruku-novom-trumpovom-sefu-kabineta-neka-uzme-advokata/261107015",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261107015.jpg",
+   "published": "2026-11-07T07:24:00+01:00",
+   "title": [
+    "Demokrati poručili novom šefu Trumpovog kabineta da uzme advokata",
+    "Democrats told Trump's new chief of staff to get a lawyer"
+   ],
+   "body": [
+    [
+     [
+      "Stephen Miller u ponedjeljak postaje novi šef kabineta u Bijeloj kući.",
+      "Stephen Miller becomes the new White House chief of staff on Monday."
+     ],
+     [
+      "Ima 41 godinu i uz Trumpa je od prvog mandata, a od 2025. je zamjenik šefa kabineta.",
+      "He is 41 years old and has been with Trump since the first term, and since 2025 he has been deputy chief of staff."
+     ],
+     [
+      "Demokrati su na izborima osvojili oba doma Kongresa i najavili su istragu o njegovoj politici prema migrantima.",
+      "The Democrats won both houses of Congress in the elections and announced an investigation into his migration policy."
+     ]
+    ],
+    [
+     [
+      "Robert Garcia iz Demokratske stranke rekao je da Miller treba uzeti advokata.",
+      "Robert Garcia from the Democratic Party said that Miller should get a lawyer."
+     ],
+     [
+      "Hakeem Jeffries, koji bi mogao postati predsjednik Predstavničkog doma, nazvao ga je neodgovornim ekstremistom.",
+      "Hakeem Jeffries, who could become speaker of the House, called him a reckless extremist."
+     ],
+     [
+      "Miller je odgovorio da je misija jasnija nego ikad, a ministar odbrane Pete Hegseth je napisao da patrioti imaju kontrolu.",
+      "Miller replied that the mission is clearer than ever, and Defense Secretary Pete Hegseth wrote that patriots are in control."
+     ],
+     [
+      "Jedan zvaničnik Bijele kuće rekao je da Trump ne mijenja kurs i da nagrađuje svoje najodanije saradnike.",
+      "A White House official said that Trump is not changing course and is rewarding his most loyal aides."
+     ]
+    ],
+    [
+     [
+      "Miller je postavio cilj od 3.000 hapšenja dnevno, a prema jednoj anketi 54% Amerikanaca ne podržava tu politiku.",
+      "Miller set a goal of 3,000 arrests per day, and according to one poll 54% of Americans do not support that policy."
+     ],
+     [
+      "Dosadašnja šefica kabineta Susie Wiles podnijela je ostavku i prelazi u Trumpov politički tim.",
+      "The previous chief of staff Susie Wiles has resigned and is moving to Trump's political team."
+     ],
+     [
+      "Analitičari očekuju da bi Bijela kuća mogla biti oštrija prema Kongresu, pa je manje vjerovatno da će se stranke dogovoriti o novim zakonima.",
+      "Analysts expect that the White House could be tougher toward Congress, so it is less likely that the parties will agree on new laws."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "šef kabineta",
+     "chief of staff"
+    ],
+    [
+     "izbori",
+     "elections"
+    ],
+    [
+     "istraga",
+     "investigation"
+    ],
+    [
+     "advokat",
+     "lawyer"
+    ],
+    [
+     "ostavka",
+     "resignation"
+    ],
+    [
+     "odan",
+     "loyal"
+    ],
+    [
+     "migrant",
+     "migrant"
+    ],
+    [
+     "hapšenje",
+     "arrest"
+    ]
+   ]
+  },
+  {
+   "id": "261107003",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/putin-potvrdio-u-utorak-u-abu-dhabiju-pocinju-trilateralni-pregovori-rusije-sad-a-i-ukrajine/261107003",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261107003.jpg",
+   "published": "2026-11-07T07:15:00+01:00",
+   "title": [
+    "Putin potvrdio pregovore Rusije, SAD-a i Ukrajine u Abu Dhabiju",
+    "Putin confirmed talks between Russia, the USA and Ukraine in Abu Dhabi"
+   ],
+   "body": [
+    [
+     [
+      "Ruski predsjednik Vladimir Putin potvrdio je da u utorak, 10. novembra, u Abu Dhabiju počinju pregovori Rusije, SAD-a i Ukrajine.",
+      "Russian President Vladimir Putin confirmed that talks between Russia, the USA and Ukraine begin in Abu Dhabi on Tuesday, 10 November."
+     ],
+     [
+      "To je rekao u petak na sastanku sa stalnim članovima Vijeća sigurnosti Rusije.",
+      "He said this on Friday at a meeting with the permanent members of Russia's Security Council."
+     ],
+     [
+      "Ruskom delegacijom vodi Vladimir Medinski, a Putin je zahvalio vlastima Emirata što Rusiji stalno pomažu.",
+      "The Russian delegation is led by Vladimir Medinsky, and Putin thanked the authorities of the Emirates for constantly helping Russia."
+     ]
+    ],
+    [
+     [
+      "Prema Axiosu, američku delegaciju vode specijalni izaslanik Steve Witkoff i Jared Kushner.",
+      "According to Axios, the American delegation is led by special envoy Steve Witkoff and Jared Kushner."
+     ],
+     [
+      "Witkoff kaže da će se razgovarati o sigurnosnim garancijama, smirivanju situacije i humanitarnim pitanjima.",
+      "Witkoff says that they will talk about security guarantees, calming the situation and humanitarian issues."
+     ],
+     [
+      "Portparol Kremlja Dmitrij Peskov rekao je da Evropljani neće direktno učestvovati, jer će biti potrebni tek kada se bude govorilo o sistemu sigurnosti.",
+      "Kremlin spokesman Dmitry Peskov said that Europeans will not take part directly, because they will be needed only when a security system is discussed."
+     ],
+     [
+      "Ukrajinski ministar vanjskih poslova Andrij Sibiha poručio je da se nijedna odluka o Ukrajini neće donositi bez nje.",
+      "Ukrainian Foreign Minister Andrii Sybiha said that no decision about Ukraine will be made without it."
+     ]
+    ],
+    [
+     [
+      "Kijev traži sigurnosne garancije, primirje u energetskom sektoru i razmjenu zarobljenika.",
+      "Kyiv wants security guarantees, a ceasefire in the energy sector and an exchange of prisoners."
+     ],
+     [
+      "Ovo je prvi susret u tri strane od februara, kada su prethodni razgovori održani u Abu Dhabiju.",
+      "This is the first three-sided meeting since February, when the previous talks were held in Abu Dhabi."
+     ],
+     [
+      "Kyrylo Budanov iz ukrajinske predsjedničke kancelarije rekao je da ne očekuje veliki iskorak, ali da je sam susret napredak.",
+      "Kyrylo Budanov from the Ukrainian presidential office said that he does not expect a big breakthrough, but that the meeting itself is progress."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "pregovori",
+     "negotiations, talks"
+    ],
+    [
+     "delegacija",
+     "delegation"
+    ],
+    [
+     "izaslanik",
+     "envoy"
+    ],
+    [
+     "garancija",
+     "guarantee"
+    ],
+    [
+     "portparol",
+     "spokesman"
+    ],
+    [
+     "primirje",
+     "ceasefire"
+    ],
+    [
+     "razmjena",
+     "exchange"
+    ],
+    [
+     "zarobljenik",
+     "prisoner"
+    ]
+   ]
+  },
+  {
+   "id": "261107005",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/uhapsen-naoruzani-muskarac-kod-bijele-kuce-policiji-rekao-da-mu-glasovi-nareduju-da-ubije-trumpa/261107005",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261107005.jpg",
+   "published": "2026-11-07T07:08:00+01:00",
+   "title": [
+    "Kod Bijele kuće uhapšen naoružani muškarac u ukradenom autu",
+    "Armed man in a stolen car arrested near the White House"
+   ],
+   "body": [
+    [
+     [
+      "Agenti Tajne službe u četvrtak navečer uhapsili su naoružanog muškarca u blizini Bijele kuće u Washingtonu.",
+      "Secret Service agents arrested an armed man near the White House in Washington on Thursday evening."
+     ],
+     [
+      "Vozilo su primijetili malo prije ponoći na ulici Constitution Avenue, nakon što je neko prijavio da se sumnjivo ponaša u parkiranom autu.",
+      "They noticed the vehicle shortly before midnight on Constitution Avenue, after someone reported that he was behaving suspiciously in a parked car."
+     ],
+     [
+      "Kasnije se pokazalo da je plavi Ford F-150 ukraden.",
+      "It later turned out that the blue Ford F-150 was stolen."
+     ]
+    ],
+    [
+     [
+      "Kada je policajac pokucao na prozor i pitao ima li oružje, vozač je klimnuo glavom i prstima pokazao pištolj.",
+      "When the officer knocked on the window and asked whether he had a weapon, the driver nodded and showed a pistol with his fingers."
+     ],
+     [
+      "U autu su agenti našli pušku AR-15, automatski pištolj MAC-10 i pištolj Glock 43X, a prema ministarstvu i nekoliko desetina metaka.",
+      "In the car the agents found an AR-15 rifle, a MAC-10 submachine gun and a Glock 43X pistol, and according to the ministry also several dozen bullets."
+     ],
+     [
+      "Osumnjičeni je državljanin Venezuele, Ronny Yordrix Guanipa Chrinos.",
+      "The suspect is a citizen of Venezuela, Ronny Yordrix Guanipa Chrinos."
+     ],
+     [
+      "Prema ministarstvu domovinske sigurnosti, rekao je da mu glasovi u glavi naređuju da ubije predsjednika Trumpa, ali te riječi nisu u optužnici.",
+      "According to the Department of Homeland Security, he said that voices in his head order him to kill President Trump, but those words are not in the complaint."
+     ]
+    ],
+    [
+     [
+      "Optužen je, između ostalog, za neovlašteno korištenje vozila i nošenje oružja bez dozvole.",
+      "He is charged, among other things, with unauthorized use of a vehicle and carrying weapons without a permit."
+     ],
+     [
+      "U petak se pojavio pred sudom i ostaje u pritvoru bez mogućnosti puštanja uz jamčevinu.",
+      "On Friday he appeared in court and remains in custody without the option of release on bail."
+     ],
+     [
+      "Ministarstvo tvrdi da je u zemlji ilegalno i da je u Teksas ušao u martu 2024.",
+      "The ministry claims that he is in the country illegally and that he entered Texas in March 2024."
+     ],
+     [
+      "Ministar Markwayne Mullin zahvalio je Tajnoj službi što je čovjeka uhapsila prije nego što je nekoga povrijedio.",
+      "Minister Markwayne Mullin thanked the Secret Service for arresting the man before he hurt anyone."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "uhapsiti",
+     "to arrest"
+    ],
+    [
+     "naoružan",
+     "armed"
+    ],
+    [
+     "ukraden",
+     "stolen"
+    ],
+    [
+     "pištolj",
+     "pistol"
+    ],
+    [
+     "puška",
+     "rifle"
+    ],
+    [
+     "osumnjičeni",
+     "suspect"
+    ],
+    [
+     "optužnica",
+     "indictment, complaint"
+    ],
+    [
+     "pritvor",
+     "custody"
+    ]
+   ]
+  },
+  {
+   "id": "261107002",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/izbori-na-novom-zelandu-dok-se-cekaju-rezultati-na-snazi-najrigoroznija-izborna-pravila-na-svijetu/261107002",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261107002.jpg",
+   "published": "2026-11-07T07:06:00+01:00",
+   "title": [
+    "Izbori na Novom Zelandu: na snazi su vrlo stroga pravila",
+    "Elections in New Zealand: very strict rules are in force"
+   ],
+   "body": [
+    [
+     [
+      "Na Novom Zelandu su u subotu zatvarana birališta, a rezultati se tek čekaju.",
+      "In New Zealand polling stations were closing on Saturday, and the results are still awaited."
+     ],
+     [
+      "Glasanje prije izbornog dana počelo je 12 dana ranije, a prebrojavanje glasova počinje kada se birališta zatvore.",
+      "Voting before election day began 12 days earlier, and the counting of votes starts when the polling stations close."
+     ],
+     [
+      "Gradovi, uključujući glavni grad Wellington, bili su potpuno mirni, što je rijetkost u modernim demokratijama.",
+      "Cities, including the capital Wellington, were completely quiet, which is rare in modern democracies."
+     ]
+    ],
+    [
+     [
+      "Od ponoći do zatvaranja birališta zabranjena je svaka kampanja, pa čak i medijsko izvještavanje o kandidatima.",
+      "From midnight until the polling stations close, any campaigning is banned, even media reporting about candidates."
+     ],
+     [
+      "Na 100 metara od biračkog mjesta ne smije se dijeliti ni hrana ni piće.",
+      "Within 100 metres of a polling place, even food and drink must not be handed out."
+     ],
+     [
+      "Profesor Andrew Geddis kaže da ta pravila potiču iz 19. stoljeća, kada su izbori bili bučna okupljanja uz mnogo alkohola.",
+      "Professor Andrew Geddis says that these rules come from the 19th century, when elections were noisy gatherings with a lot of alcohol."
+     ],
+     [
+      "Zemlja ima sistem u kojem svaki birač daje dva glasa, jedan za lokalnog kandidata i jedan za stranku, a stranka treba najmanje 5% da uđe u parlament.",
+      "The country has a system in which each voter gives two votes, one for a local candidate and one for a party, and a party needs at least 5% to enter parliament."
+     ]
+    ],
+    [
+     [
+      "Trka je neizvjesna između premijera Christophera Luxona i bivšeg premijera Chrisa Hipkinsa.",
+      "The race is uncertain between Prime Minister Christopher Luxon and former Prime Minister Chris Hipkins."
+     ],
+     [
+      "Zbog tog sistema nijedna velika stranka ne može sama formirati vladu, pa manje stranke mogu biti odlučujuće.",
+      "Because of that system no big party can form a government alone, so smaller parties can be decisive."
+     ],
+     [
+      "Penzioner Doug Habgood, 72, nije mogao glasati putem interneta, pa je osam dana vozio bicikl oko 330 km do Canberre da bi glasao lično.",
+      "The pensioner Doug Habgood, 72, could not vote online, so he rode a bicycle for eight days about 330 km to Canberra to vote in person."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "biralište",
+     "polling station"
+    ],
+    [
+     "glasanje",
+     "voting"
+    ],
+    [
+     "pravilo",
+     "rule"
+    ],
+    [
+     "zabranjen",
+     "banned"
+    ],
+    [
+     "kampanja",
+     "campaign"
+    ],
+    [
+     "stranka",
+     "party"
+    ],
+    [
+     "premijer",
+     "prime minister"
+    ],
+    [
+     "penzioner",
+     "pensioner"
+    ]
+   ]
+  },
+  {
+   "id": "261106340",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/auto/skoda-je-drugi-najprodavaniji-automobilski-brend-u-evropi-ceska-marka-ima-najveci-rast-u-vw-grupi/261106340",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261106340.jpg",
+   "published": "2026-11-06T23:20:00+01:00",
+   "title": [
+    "Škoda je druga po prodaji u Evropi i najbrže raste u VW grupi",
+    "Škoda is second in sales in Europe and grows fastest in the VW group"
+   ],
+   "body": [
+    [
+     [
+      "Češka marka Škoda u prvih devet mjeseci 2026. ima veću prodaju i veću dobit nego prošle godine.",
+      "The Czech brand Škoda has higher sales and higher profit in the first nine months of 2026 than last year."
+     ],
+     [
+      "U Evropi je registrovano skoro 667.000 njenih vozila, pa je ostala na drugom mjestu iza Volkswagena i ispred Toyote.",
+      "Almost 667,000 of its vehicles were registered in Europe, so it stayed in second place behind Volkswagen and ahead of Toyota."
+     ],
+     [
+      "Prodaja u Evropi porasla je za 7,5%, što je daleko najveći rast u cijeloj grupi Volkswagen.",
+      "Sales in Europe grew by 7.5%, which is by far the biggest growth in the whole Volkswagen group."
+     ]
+    ],
+    [
+     [
+      "Prihod kompanije iznosi 23,13 milijardi eura, a to je 3,5% više nego lani.",
+      "The company's revenue is 23.13 billion euros, which is 3.5% more than last year."
+     ],
+     [
+      "Škoda je u svijetu isporučila 203.000 električnih i plug-in hibridnih automobila, skoro 35% više nego prije godinu.",
+      "Škoda delivered 203,000 electric and plug-in hybrid cars worldwide, almost 35% more than a year ago."
+     ],
+     [
+      "Modeli Elroq i Enyaq su treći i četvrti najprodavaniji električni automobili u Evropi.",
+      "The Elroq and Enyaq models are the third and fourth best-selling electric cars in Europe."
+     ],
+     [
+      "Najveće tržište je Njemačka, gdje je prodano više od 178.000 vozila.",
+      "The biggest market is Germany, where more than 178,000 vehicles were sold."
+     ]
+    ],
+    [
+     [
+      "Najprodavaniji model u svijetu je Octavia, s 138.000 primjeraka.",
+      "The best-selling model in the world is the Octavia, with 138,000 units."
+     ],
+     [
+      "Novi modeli Epiq i Peaq imaju zajedno više od 82.000 narudžbi.",
+      "The new models Epiq and Peaq have more than 82,000 orders together."
+     ],
+     [
+      "U Bosni i Hercegovini Škoda već dugo vodi na tržištu novih automobila, a skoro svaki četvrti novi auto dolazi od njenih dilera.",
+      "In Bosnia and Herzegovina Škoda has led the new car market for a long time, and almost every fourth new car comes from its dealers."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "prodaja",
+     "sales"
+    ],
+    [
+     "dobit",
+     "profit"
+    ],
+    [
+     "prihod",
+     "revenue"
+    ],
+    [
+     "tržište",
+     "market"
+    ],
+    [
+     "električni",
+     "electric"
+    ],
+    [
+     "isporučiti",
+     "to deliver"
+    ],
+    [
+     "narudžba",
+     "order"
+    ],
+    [
+     "rast",
+     "growth"
+    ]
+   ]
+  },
+  {
+   "id": "261106324",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/muzika/virtuoz-na-gitari-tommy-emmanuel-prvi-put-nastupio-u-sarajevu-jedan-covjek-i-gitara-kao-cijeli-bend/261106324",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261106324.jpg",
+   "published": "2026-11-06T22:37:00+01:00",
+   "title": [
+    "Gitarista Tommy Emmanuel prvi put je svirao u Sarajevu",
+    "Guitarist Tommy Emmanuel played in Sarajevo for the first time"
+   ],
+   "body": [
+    [
+     [
+      "Australijski gitarista Tommy Emmanuel prvi put je održao koncert u Sarajevu.",
+      "The Australian guitarist Tommy Emmanuel held a concert in Sarajevo for the first time."
+     ],
+     [
+      "Nastupio je u Bosanskom kulturnom centru, kao dio turneje \"Living in the Light\".",
+      "He performed in the Bosnian Cultural Center, as part of the tour \"Living in the Light\"."
+     ],
+     [
+      "Na sceni je bio sam, samo s gitarom, a publika ga je dočekala aplauzom.",
+      "He was alone on stage, only with a guitar, and the audience greeted him with applause."
+     ]
+    ],
+    [
+     [
+      "Emmanuel svira prstima i istovremeno izvodi melodiju, bas i ritam, pa se čini da svira cijeli bend.",
+      "Emmanuel plays with his fingers and performs the melody, bass and rhythm at the same time, so it seems that a whole band is playing."
+     ],
+     [
+      "Između pjesama je mijenjao instrumente, a svirao je i sjedeći i stojeći.",
+      "Between songs he changed instruments, and he played both sitting and standing."
+     ],
+     [
+      "Izveo je pjesme s albuma \"Living in the Light\", koji je izašao u oktobru 2025. i prvi je njegov solo studijski album nakon deset godina.",
+      "He performed songs from the album \"Living in the Light\", which came out in October 2025 and is his first solo studio album in ten years."
+     ],
+     [
+      "Rekao je da je Sarajevo godinama na njegovoj listi, ali da mu niko nije htio organizirati koncert.",
+      "He said that Sarajevo had been on his list for years, but that nobody wanted to organize a concert for him."
+     ]
+    ],
+    [
+     [
+      "Za umjetnika kao što je on, kaže, nema većeg uzbuđenja od sviranja pred novom publikom.",
+      "For an artist like him, he says, there is no greater thrill than playing for a new audience."
+     ],
+     [
+      "Prvu gitaru dobio je s četiri godine, a s šest je već nastupao s porodičnim bendom.",
+      "He got his first guitar at the age of four, and at six he was already performing with a family band."
+     ],
+     [
+      "Radio je s Ericom Claptonom, Stevieom Wonderom i Markom Knopflerom, a 2024. je osvojio nagradu Grammy.",
+      "He has worked with Eric Clapton, Stevie Wonder and Mark Knopfler, and in 2024 he won a Grammy award."
+     ],
+     [
+      "Dan ranije svirao je u Zagrebu.",
+      "The day before he played in Zagreb."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "gitarista",
+     "guitarist"
+    ],
+    [
+     "koncert",
+     "concert"
+    ],
+    [
+     "turneja",
+     "tour"
+    ],
+    [
+     "publika",
+     "audience"
+    ],
+    [
+     "scena",
+     "stage"
+    ],
+    [
+     "pjesma",
+     "song"
+    ],
+    [
+     "nastupiti",
+     "to perform"
+    ],
+    [
+     "nagrada",
+     "award"
+    ]
+   ]
+  },
   {
    "id": "261106281",
    "source": "Klix.ba",
@@ -5036,668 +5699,6 @@
     [
      "akcija",
      "campaign (action)"
-    ]
-   ]
-  },
-  {
-   "id": "261104289",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/rukomet/jedna-si-jedina-odjekivalo-dvoranom-u-sloveniji-navijacica-bih-zaplakala-tokom-himne/261104289",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261104289.jpg",
-   "published": "2026-11-04T18:18:00+01:00",
-   "title": [
-    "Navijači BiH u Kopru pjevali prije utakmice sa Slovenijom",
-    "BiH fans sang in Koper before the match with Slovenia"
-   ],
-   "body": [
-    [
-     [
-      "Rukometaši BiH večeras igraju protiv Slovenije u Kopru.",
-      "The BiH handball players are playing against Slovenia in Koper tonight."
-     ],
-     [
-      "To je prvo kolo kvalifikacija za Evropsko prvenstvo 2028.",
-      "It is the first round of qualifying for the 2028 European Championship."
-     ],
-     [
-      "U grupi su još Češka i Izrael.",
-      "The Czech Republic and Israel are also in the group."
-     ]
-    ],
-    [
-     [
-      "Navijači iz BiH ispunili su dio dvorane i prije početka zajedno pjevali.",
-      "Fans from BiH filled part of the hall and sang together before the start."
-     ],
-     [
-      "Pjesma \"Jedna si jedina\" odjekivala je dvoranom, a jedna navijačica zaplakala je od emocija.",
-      "The song \"Jedna si jedina\" echoed through the hall, and one female fan cried from emotion."
-     ],
-     [
-      "Selektor Damir Doborac na put je išao s problemima, jer su se povrijedila četiri igrača.",
-      "Coach Damir Doborac travelled with problems, because four players were injured."
-     ],
-     [
-      "Najviše brine desna strana odbrane, gdje je jedina opcija Faris Čolaković, čije je zdravlje upitno.",
-      "The biggest worry is the right side of defence, where the only option is Faris Čolaković, whose health is in doubt."
-     ]
-    ],
-    [
-     [
-      "Doborac je rekao da je Slovenija ozbiljan protivnik, ali da BiH neće unaprijed odustati.",
-      "Doborac said that Slovenia is a serious opponent, but that BiH will not give up in advance."
-     ],
-     [
-      "Kapiten Ibrahim Haseljić smatra da tim mora praviti manje tehničkih grešaka.",
-      "Captain Ibrahim Haseljić thinks the team must make fewer technical mistakes."
-     ],
-     [
-      "Sljedeću utakmicu BiH igra u nedjelju u 17:00 protiv Češke u tuzlanskoj dvorani Mejdan.",
-      "BiH plays its next match on Sunday at 17:00 against the Czech Republic in the Mejdan hall in Tuzla."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "rukomet",
-     "handball"
-    ],
-    [
-     "navijač",
-     "fan"
-    ],
-    [
-     "dvorana",
-     "sports hall"
-    ],
-    [
-     "kvalifikacije",
-     "qualifiers"
-    ],
-    [
-     "selektor",
-     "national team coach"
-    ],
-    [
-     "kapiten",
-     "captain"
-    ],
-    [
-     "protivnik",
-     "opponent"
-    ]
-   ]
-  },
-  {
-   "id": "261104291",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/tenis/dokovic-ponovo-razocarao-i-preokretom-izgubio-od-83-tenisera-svijeta/261104291",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261104291.jpg",
-   "published": "2026-11-04T18:08:00+01:00",
-   "title": [
-    "Đoković ispao u Parizu i neće igrati ATP Finale",
-    "Djoković is out in Paris and will not play the ATP Finals"
-   ],
-   "body": [
-    [
-     [
-      "Novak Đoković ispao je u osmini finala Masters turnira u Parizu.",
-      "Novak Djoković was knocked out in the round of 16 of the Masters tournament in Paris."
-     ],
-     [
-      "Pobijedio ga je Australijanac Rinky Hijikata, 83. igrač svijeta.",
-      "He was beaten by the Australian Rinky Hijikata, the 83rd player in the world."
-     ],
-     [
-      "Meč je trajao dva sata i 16 minuta.",
-      "The match lasted two hours and 16 minutes."
-     ]
-    ],
-    [
-     [
-      "Đoković je bolje počeo i prvi set dobio sa 6:2.",
-      "Djoković started better and won the first set 6-2."
-     ],
-     [
-      "Nakon toga je izgubio dva seta zaredom, oba sa 3:6.",
-      "After that he lost two sets in a row, both 6-3."
-     ],
-     [
-      "Zbog tog poraza ne može više među osam najboljih igrača sezone.",
-      "Because of this defeat he can no longer be among the eight best players of the season."
-     ],
-     [
-      "To znači da neće igrati ATP Finale u Torinu.",
-      "This means he will not play the ATP Finals in Turin."
-     ]
-    ],
-    [
-     [
-      "Dan ranije Đoković je pobijedio Valentina Vacherota nakon preokreta.",
-      "The day before, Djoković had beaten Valentin Vacherot after a comeback."
-     ],
-     [
-      "Tom pobjedom postao je najstariji igrač koji je pobijedio na ovom turniru.",
-      "With that win he became the oldest player to win at this tournament."
-     ],
-     [
-      "Ovaj poraz zato mnogim navijačima djeluje još razočaravajuće.",
-      "That is why this defeat seems even more disappointing to many fans."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "osmina finala",
-     "round of 16"
-    ],
-    [
-     "preokret",
-     "comeback, turnaround"
-    ],
-    [
-     "set",
-     "set"
-    ],
-    [
-     "poraz",
-     "defeat"
-    ],
-    [
-     "turnir",
-     "tournament"
-    ],
-    [
-     "sezona",
-     "season"
-    ],
-    [
-     "navijač",
-     "fan"
-    ]
-   ]
-  },
-  {
-   "id": "261104286",
-   "source": "Klix.ba",
-   "section": "Biznis",
-   "url": "https://www.klix.ba/biznis/ekonomija/pale-dionice-tesle-i-spacex-a-nakon-pobjede-demokrata-na-izborima/261104286",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261104286.jpg",
-   "published": "2026-11-04T17:49:00+01:00",
-   "title": [
-    "Dionice Tesle i SpaceX-a pale nakon izbora u SAD-u",
-    "Tesla and SpaceX shares fell after the US elections"
-   ],
-   "body": [
-    [
-     [
-      "Dionice kompanija Tesla i SpaceX pale su nakon pobjede demokrata na izborima u SAD-u.",
-      "The shares of Tesla and SpaceX fell after the Democrats' win in the US elections."
-     ],
-     [
-      "Demokrate su osvojile oba doma Kongresa.",
-      "The Democrats won both houses of Congress."
-     ],
-     [
-      "Prije otvaranja berze Tesla je pala oko 5%, a SpaceX oko 6%.",
-      "Before the stock exchange opened, Tesla fell about 5% and SpaceX about 6%."
-     ]
-    ],
-    [
-     [
-      "Investitori strahuju od strožih pravila za vještačku inteligenciju i od planiranog spajanja Tesle i SpaceX-a.",
-      "Investors fear stricter rules for artificial intelligence and the planned merger of Tesla and SpaceX."
-     ],
-     [
-      "Analitičarka Kathleen Brooks kaže da Kongres ne može zaustaviti spajanje, ali ga može usporiti.",
-      "Analyst Kathleen Brooks says that Congress cannot stop the merger, but it can slow it down."
-     ],
-     [
-      "Obje kompanije imaju sjedište u Teksasu, a tamo su pobijedili demokrate.",
-      "Both companies are headquartered in Texas, and the Democrats won there."
-     ],
-     [
-      "Prema izvještajima, Elon Musk potrošio je skoro 450 miliona dolara na podršku republikancima.",
-      "According to reports, Elon Musk spent almost 450 million dollars supporting the Republicans."
-     ]
-    ],
-    [
-     [
-      "Dionice su porasle zdravstvenim osiguravačima i bolnicama, a Molina Healthcare skočila je skoro 7%.",
-      "Shares rose for health insurers and hospitals, and Molina Healthcare jumped almost 7%."
-     ],
-     [
-      "Porasle su i dionice obnovljive energije, dok su kompanije za vještačku inteligenciju pale.",
-      "Renewable energy shares also rose, while artificial intelligence companies fell."
-     ],
-     [
-      "Gina Hinojosa, buduća guvernerka Teksasa, obećala je da će zaustaviti odobravanje novih data-centara dok se ne usvoje nova pravila.",
-      "Gina Hinojosa, the future governor of Texas, promised to stop approving new data centers until new rules are adopted."
-     ],
-     [
-      "Terminski indeksi su porasli nakon što je Donald Trump rekao da će prihvatiti rezultate izbora.",
-      "Index futures rose after Donald Trump said he would accept the election results."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "dionica",
-     "share, stock"
-    ],
-    [
-     "berza",
-     "stock exchange"
-    ],
-    [
-     "investitor",
-     "investor"
-    ],
-    [
-     "spajanje",
-     "merger"
-    ],
-    [
-     "vještačka inteligencija",
-     "artificial intelligence"
-    ],
-    [
-     "osiguravač",
-     "insurer"
-    ],
-    [
-     "obnovljiva energija",
-     "renewable energy"
-    ]
-   ]
-  },
-  {
-   "id": "261104278",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/konstituirajuca-sjednica-novog-saziva-predsjednistva-bih-bit-ce-odrzana-16-novembra/261104278",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261104278.jpg",
-   "published": "2026-11-04T17:34:00+01:00",
-   "title": [
-    "Novo Predsjedništvo BiH počinje rad 16. novembra",
-    "The new BiH Presidency starts work on 16 November"
-   ],
-   "body": [
-    [
-     [
-      "Novi saziv Predsjedništva BiH održat će prvu, konstituirajuću sjednicu u ponedjeljak, 16. novembra.",
-      "The new Presidency of BiH will hold its first, constituent session on Monday, 16 November."
-     ],
-     [
-      "Tada će novoizabrani članovi i zvanično preuzeti dužnost.",
-      "On that day the newly elected members will also officially take office."
-     ],
-     [
-      "Datum su za novinsku agenciju FENA potvrdili iz institucija.",
-      "The institutions confirmed the date to the news agency FENA."
-     ]
-    ],
-    [
-     [
-      "Predsjedništvo će činiti Denis Bećirović, Darijana Filipović i Željka Cvijanović.",
-      "The Presidency will consist of Denis Bećirović, Darijana Filipović and Željka Cvijanović."
-     ],
-     [
-      "Bećirović i Cvijanović dobili su drugi uzastopni mandat od četiri godine.",
-      "Bećirović and Cvijanović won a second consecutive four-year mandate."
-     ],
-     [
-      "Darijana Filipović, kandidatkinja HDZ-a BiH, zamjenjuje Željka Komšića, dosadašnjeg člana iz reda hrvatskog naroda.",
-      "Darijana Filipović, a candidate of HDZ BiH, replaces Željko Komšić, the outgoing member from the Croat people."
-     ],
-     [
-      "Mandat novih članova traje od 2026. do 2030. godine.",
-      "The mandate of the new members runs from 2026 to 2030."
-     ]
-    ],
-    [
-     [
-      "Centralna izborna komisija potvrdila je rezultate općih izbora 3. novembra.",
-      "The Central Election Commission confirmed the results of the general elections on 3 November."
-     ],
-     [
-      "Izbori su održani 4. oktobra, a potvrda stvara uslove za formiranje novih organa vlasti.",
-      "The elections were held on 4 October, and the confirmation creates the conditions for forming new government bodies."
-     ],
-     [
-      "Prema Ustavu, Predsjedništvo vodi vanjsku politiku i imenuje ambasadore.",
-      "Under the Constitution, the Presidency conducts foreign policy and appoints ambassadors."
-     ],
-     [
-      "Ono također predstavlja BiH u međunarodnim organizacijama.",
-      "It also represents BiH in international organizations."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "sjednica",
-     "session"
-    ],
-    [
-     "saziv",
-     "term, convocation"
-    ],
-    [
-     "mandat",
-     "mandate"
-    ],
-    [
-     "izbori",
-     "elections"
-    ],
-    [
-     "vanjska politika",
-     "foreign policy"
-    ],
-    [
-     "ambasador",
-     "ambassador"
-    ],
-    [
-     "preuzeti dužnost",
-     "to take office"
-    ]
-   ]
-  },
-  {
-   "id": "261104190",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/godinu-dana-od-tragedije-u-domu-penzionera-u-tuzli-17-ugasenih-zivota-i-pitanje-odgovornosti-koje-jos-ceka-epilog/261104190",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261104190.jpg",
-   "published": "2026-11-04T17:28:00+01:00",
-   "title": [
-    "Godinu dana od požara u Domu penzionera u Tuzli",
-    "One year since the fire at the retirement home in Tuzla"
-   ],
-   "body": [
-    [
-     [
-      "Danas je godinu dana od požara u Domu penzionera u Tuzli.",
-      "Today it is one year since the fire at the retirement home in Tuzla."
-     ],
-     [
-      "U požaru 4. novembra 2025. poginulo je 17 osoba, a više od 30 je povrijeđeno.",
-      "In the fire on 4 November 2025, 17 people died and more than 30 were injured."
-     ],
-     [
-      "Pitanje odgovornosti još uvijek nema kraj.",
-      "The question of responsibility still has no end."
-     ]
-    ],
-    [
-     [
-      "Prema prvim nalazima vještaka, požar je izazvao kratki spoj na kablu radio-prijemnika.",
-      "According to the first expert findings, the fire was caused by a short circuit in the cable of a radio receiver."
-     ],
-     [
-      "Kabl je bio stisnut između madraca, zida i metalnog kreveta.",
-      "The cable was squeezed between a mattress, a wall and a metal bed."
-     ],
-     [
-      "Tužilaštvo Tuzlanskog kantona podiglo je optužnicu protiv sedam osoba zbog nemara.",
-      "The Tuzla Canton Prosecutor's Office has indicted seven people for negligence."
-     ],
-     [
-      "Među optuženima su bivši direktor doma i kantonalni inspektor za zaštitu od požara.",
-      "Among the accused are the former director of the home and a cantonal fire inspector."
-     ],
-     [
-      "Tužilaštvo traži da im se na deset godina zabrani obavljanje određenih funkcija.",
-      "The prosecutor asks that they be banned from certain functions for ten years."
-     ]
-    ],
-    [
-     [
-      "U domu je bilo oko 180 štićenika, a oko 110 njih bilo je teško bolesno ili nepokretno.",
-      "There were about 180 residents in the home, and about 110 of them were seriously ill or unable to move."
-     ],
-     [
-      "Tužilaštvo tvrdi da su manjak nadzora, sistema za rano otkrivanje požara i plana evakuacije doprinijeli broju žrtava.",
-      "The prosecutor says that the lack of supervision, early fire detection and an evacuation plan contributed to the number of victims."
-     ],
-     [
-      "Kantonalna inspekcija privremeno je zabranila domu pružanje usluga socijalne zaštite.",
-      "The cantonal inspectorate temporarily banned the home from providing social protection services."
-     ],
-     [
-      "Klix.ba je pisao da dom ipak radi i da u njemu ostaje oko 100 štićenika.",
-      "Klix.ba reported that the home still operates and that about 100 residents remain there."
-     ],
-     [
-      "Iz uprave doma rekli su da je požar bio najbolniji trenutak u njihovoj historiji.",
-      "The home's management said that the fire was the most painful moment in their history."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "požar",
-     "fire"
-    ],
-    [
-     "optužnica",
-     "indictment"
-    ],
-    [
-     "odgovornost",
-     "responsibility"
-    ],
-    [
-     "nemar",
-     "negligence"
-    ],
-    [
-     "štićenik",
-     "resident (of a care home)"
-    ],
-    [
-     "vještak",
-     "expert witness"
-    ],
-    [
-     "kratki spoj",
-     "short circuit"
-    ],
-    [
-     "tužilaštvo",
-     "prosecutor's office"
-    ]
-   ]
-  },
-  {
-   "id": "261104273",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/novi-sok-za-republikance-mike-johnson-najavio-povlacenje-s-cela-stranke-u-predstavnickom-domu-sad-a-nakon-poraza/261104273",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261104273.jpg",
-   "published": "2026-11-04T17:15:00+01:00",
-   "title": [
-    "Mike Johnson napušta vodstvo republikanaca u Predstavničkom domu",
-    "Mike Johnson is leaving the Republican leadership in the House"
-   ],
-   "body": [
-    [
-     [
-      "Predsjednik Predstavničkog doma SAD-a Mike Johnson neće ostati na čelu republikanaca u novom Kongresu.",
-      "The Speaker of the US House of Representatives Mike Johnson will not stay at the head of the Republicans in the new Congress."
-     ],
-     [
-      "To je rekao saradnicima telefonom u srijedu ujutro, samo dan nakon što su demokrate osvojile većinu u domu.",
-      "He told his staff by phone on Wednesday morning, only a day after the Democrats won the majority in the House."
-     ],
-     [
-      "Vijest su potvrdila četiri izvora koja su bila na pozivu, javlja televizija NBC.",
-      "Four sources who were on the call confirmed the news, NBC reports."
-     ]
-    ],
-    [
-     [
-      "Johnson neće tražiti ni mjesto lidera manjine, pa će ta funkcija ostati upražnjena.",
-      "Johnson will not seek the post of minority leader either, so that position will remain vacant."
-     ],
-     [
-      "Republikanci u Predstavničkom domu izabrat će novo vodstvo u utorak, 10. novembra.",
-      "The Republicans in the House will elect new leadership on Tuesday, 10 November."
-     ],
-     [
-      "Johnson je predsjednik doma od 2023, kada su republikanci smijenili Kevina McCarthyja.",
-      "Johnson has been Speaker since 2023, when the Republicans removed Kevin McCarthy."
-     ],
-     [
-      "U oktobru je za CBS rekao da bi ostao na čelu stranke i ako izgubi većinu.",
-      "In October he told CBS that he would stay at the head of the party even if it lost the majority."
-     ]
-    ],
-    [
-     [
-      "U utorak navečer priznao je poraz iz Shreveporta u Louisiani.",
-      "On Tuesday evening he conceded defeat from Shreveport in Louisiana."
-     ],
-     [
-      "Rekao je da je i on razočaran, kao i svaki Amerikanac koji nije zadovoljan rezultatima.",
-      "He said that he is disappointed too, like every American who is not satisfied with the results."
-     ],
-     [
-      "Predvidio je da će republikanci vratiti većinu 2028. godine.",
-      "He predicted that the Republicans will win back the majority in 2028."
-     ],
-     [
-      "Kao razlog poraza naveo je historijsku pojavu da predsjednikova stranka rijetko dobija mjesta na prvim izborima sredinom mandata.",
-      "As the reason for the defeat he named the historical pattern that the president's party rarely gains seats in the first midterm elections."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "predsjednik doma",
-     "Speaker of the House"
-    ],
-    [
-     "većina",
-     "majority"
-    ],
-    [
-     "vodstvo",
-     "leadership"
-    ],
-    [
-     "priznati poraz",
-     "to concede defeat"
-    ],
-    [
-     "smijeniti",
-     "to remove from office"
-    ],
-    [
-     "upražnjen",
-     "vacant"
-    ],
-    [
-     "saradnik",
-     "associate, staff member"
-    ]
-   ]
-  },
-  {
-   "id": "261104186",
-   "source": "Klix.ba",
-   "section": "Biznis",
-   "url": "https://www.klix.ba/biznis/ekonomija/toplane-za-plin-daju-554-miliona-km-a-za-struju-27-miliona-na-oba-tendera-stigla-po-jedna-ponuda/261104186",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261104186.jpg",
-   "published": "2026-11-04T13:40:00+01:00",
-   "title": [
-    "Toplane plaćaju 58 miliona KM za plin i struju",
-    "Heating plants pay 58 million KM for gas and electricity"
-   ],
-   "body": [
-    [
-     [
-      "Sarajevske Toplane izabrale su dobavljače plina i struje za iduću godinu.",
-      "The Sarajevo heating plants have chosen their gas and electricity suppliers for next year."
-     ],
-     [
-      "Ugovori su vrijedni ukupno oko 58 miliona KM bez PDV-a.",
-      "The contracts are worth about 58 million KM in total, without VAT."
-     ],
-     [
-      "Na oba tendera stigla je samo jedna ponuda, i to od javnih preduzeća.",
-      "Only one bid arrived at both tenders, and it came from public companies."
-     ]
-    ],
-    [
-     [
-      "Plin će isporučivati Sarajevogas, a ugovor vrijedi 55,4 miliona KM.",
-      "Sarajevogas will deliver the gas, and the contract is worth 55.4 million KM."
-     ],
-     [
-      "Procijenjena vrijednost bila je 60 miliona KM, pa je ponuda oko 7,7 posto niža.",
-      "The estimated value was 60 million KM, so the bid is about 7.7 percent lower."
-     ],
-     [
-      "Struju će isporučivati Elektroprivreda BiH za 2,75 miliona KM, što je skoro isto kao procjena.",
-      "Elektroprivreda BiH will deliver the electricity for 2.75 million KM, which is almost the same as the estimate."
-     ],
-     [
-      "Prošli ugovor iz januara bio je oko 350.000 KM jeftiniji.",
-      "The previous contract from January was about 350,000 KM cheaper."
-     ]
-    ],
-    [
-     [
-      "Konkurencija je bila veća kod lož-ulja, gdje je stiglo šest ponuda.",
-      "There was more competition for heating oil, where six bids arrived."
-     ],
-     [
-      "Posao je dobila firma Hifa Petrol s ponudom od 749.840 KM.",
-      "The company Hifa Petrol won the job with a bid of 749,840 KM."
-     ],
-     [
-      "Toplane su od početka godine provele 145 nabavki.",
-      "Since the start of the year, the heating plants have run 145 procurements."
-     ],
-     [
-      "Čak 84 od njih dodijeljene su jedinom ponuđaču.",
-      "As many as 84 of them were given to the only bidder."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "toplana",
-     "heating plant"
-    ],
-    [
-     "ponuda",
-     "bid, offer"
-    ],
-    [
-     "tender",
-     "tender"
-    ],
-    [
-     "dobavljač",
-     "supplier"
-    ],
-    [
-     "ugovor",
-     "contract"
-    ],
-    [
-     "lož-ulje",
-     "heating oil"
-    ],
-    [
-     "nabavka",
-     "procurement"
     ]
    ]
   }
