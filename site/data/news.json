@@ -1,18 +1,844 @@
 {
- "updated": "2026-11-07T18:45:00+01:00",
+ "updated": "2026-11-08T07:50:00+01:00",
  "front": [
-  "261107129",
-  "261107118",
-  "261107151",
-  "261107145",
-  "261107138",
-  "261107140",
-  "261107097",
-  "261107117",
-  "261107133"
+  "261108013",
+  "261108004",
+  "261108002",
+  "261108005",
+  "261108003",
+  "261107193",
+  "261107185",
+  "261107171",
+  "261107157"
  ],
  "level": "A2",
  "articles": [
+  {
+   "id": "261108013",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/rusija-je-detaljno-pratila-izbore-u-sad-u-pitaju-se-hoce-li-rezultati-ograniciti-pristup-trumpa-moskvi/261108013",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261108013.jpg",
+   "published": "2026-11-08T07:40:00+01:00",
+   "title": [
+    "Rusija pažljivo pratila izbore u SAD-u",
+    "Russia followed the US elections closely"
+   ],
+   "body": [
+    [
+     [
+      "Rusija je pažljivo pratila izbore u SAD-u, a sada se pitaju hoće li rezultati ograničiti Trumpov pristup Moskvi.",
+      "Russia followed the US elections closely, and now people ask whether the results will limit Trump's approach to Moscow."
+     ],
+     [
+      "Republikanci su izgubili većinu, pa bi demokrate u januaru mogle preuzeti Kongres.",
+      "The Republicans lost their majority, so the Democrats could take over Congress in January."
+     ],
+     [
+      "Kremlj ipak očekuje da će Trump nastaviti svoje mirovne napore.",
+      "The Kremlin still expects that Trump will continue his peace efforts."
+     ],
+     [
+      "Glasnogovornik Dmitrij Peskov rekao je da već postoje temelji za razgovore.",
+      "Spokesman Dmitry Peskov said that foundations for talks already exist."
+     ]
+    ],
+    [
+     [
+      "Nova runda pregovora Rusije, Ukrajine i SAD-a trebala bi uskoro biti u Abu Dabiju.",
+      "A new round of talks between Russia, Ukraine and the USA should take place soon in Abu Dhabi."
+     ],
+     [
+      "Prošlog mjeseca Trump je dozvolio uvoz dizela iz Rusije i privremeno zaustavio nove sankcije.",
+      "Last month Trump allowed diesel imports from Russia and temporarily stopped new sanctions."
+     ],
+     [
+      "To je naljutilo Kijev i evropske saveznike.",
+      "This angered Kyiv and European allies."
+     ],
+     [
+      "Ukrajina traži brže isporuke projektila Patriot, a SAD su 30. oktobra odobrile prodaju vrijednu 2,1 milijardu dolara.",
+      "Ukraine wants faster deliveries of Patriot missiles, and on 30 October the USA approved a sale worth 2.1 billion dollars."
+     ]
+    ],
+    [
+     [
+      "Medvedev smatra da Trumpu nije potreban dodatni sukob s demokratama.",
+      "Medvedev thinks Trump does not need an extra conflict with the Democrats."
+     ],
+     [
+      "Zelenski je rekao da bi rezultat mogao povećati šanse za dodatnu pomoć.",
+      "Zelensky said the result could increase the chances of extra aid."
+     ],
+     [
+      "Analitičari upozoravaju da Kongres može pojačati pritisak, ali predsjednik i dalje ima velika ovlaštenja u vanjskoj politici.",
+      "Analysts warn that Congress can increase pressure, but the president still has broad powers in foreign policy."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "izbori",
+     "elections"
+    ],
+    [
+     "Kongres",
+     "Congress"
+    ],
+    [
+     "glasnogovornik",
+     "spokesperson"
+    ],
+    [
+     "pregovori",
+     "negotiations"
+    ],
+    [
+     "sankcije",
+     "sanctions"
+    ],
+    [
+     "pomoć",
+     "aid"
+    ],
+    [
+     "većina",
+     "majority"
+    ]
+   ]
+  },
+  {
+   "id": "261108005",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/internetom-se-siri-urnebesna-teorija-da-li-je-donald-trump-ponudio-posao-pogresnom-dani-whiteu/261108005",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261108005.jpg",
+   "published": "2026-11-08T07:20:00+01:00",
+   "title": [
+    "Je li Trump ponudio posao pogrešnom Dani Whiteu?",
+    "Did Trump offer a job to the wrong Dana White?"
+   ],
+   "body": [
+    [
+     [
+      "Na internetu se širi teorija da je Donald Trump ponudio posao pogrešnoj osobi.",
+      "A theory is spreading online that Donald Trump offered a job to the wrong person."
+     ],
+     [
+      "U subotu je na mreži Truth Social pozvao Danu Whitea, šefa UFC-a, da postane glasnogovornik Bijele kuće.",
+      "On Saturday he invited Dana White, the head of the UFC, on Truth Social to become the White House press secretary."
+     ],
+     [
+      "Zamolio ga je da dovede šest boraca kao pomoćnike, među njima Khabiba Nurmagomedova i Islama Makhacheva.",
+      "He asked him to bring six fighters as assistants, among them Khabib Nurmagomedov and Islam Makhachev."
+     ]
+    ],
+    [
+     [
+      "Novinar Adam Cochran napisao je da je na užoj listi bila Dana W. White, bivša glasnogovornica Pentagona.",
+      "Journalist Adam Cochran wrote that Dana W. White, a former Pentagon spokesperson, was on the shortlist."
+     ],
+     [
+      "Prema njemu, Trump je objavio ime šefa UFC-a, a da ta Dana nije ni znala.",
+      "According to him, Trump announced the name of the UFC head without that Dana even knowing."
+     ],
+     [
+      "Njegovu objavu vidjelo je više od 300.000 ljudi.",
+      "More than 300,000 people saw his post."
+     ],
+     [
+      "Dana W. White radila je u Pentagonu od aprila 2017. do kraja 2018.",
+      "Dana W. White worked at the Pentagon from April 2017 to the end of 2018."
+     ],
+     [
+      "Neki korisnici sumnjaju u teoriju, jer Trump opisuje borca i traži borce UFC-a.",
+      "Some users doubt the theory, because Trump describes a fighter and asks for UFC fighters."
+     ]
+    ],
+    [
+     [
+      "Bijela kuća nije potvrdila nijednu verziju.",
+      "The White House has not confirmed either version."
+     ],
+     [
+      "Dana White rekao je na konferenciji u Londonu da odmah putuje u Washington.",
+      "Dana White said at a press conference in London that he is flying to Washington immediately."
+     ],
+     [
+      "U ponedjeljak imaju sastanak, a poslije njega će reći više.",
+      "They have a meeting on Monday, and after it he will say more."
+     ],
+     [
+      "Mjesto glasnogovornika prazno je od sredine oktobra, kada je Katie Zacharia otišla poslije samo pet dana.",
+      "The press secretary post has been empty since mid-October, when Katie Zacharia left after only five days."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "teorija",
+     "theory"
+    ],
+    [
+     "glasnogovornik",
+     "spokesperson"
+    ],
+    [
+     "borac",
+     "fighter"
+    ],
+    [
+     "uža lista",
+     "shortlist"
+    ],
+    [
+     "potvrditi",
+     "to confirm"
+    ],
+    [
+     "pomoćnik",
+     "assistant"
+    ],
+    [
+     "sumnjati",
+     "to doubt"
+    ]
+   ]
+  },
+  {
+   "id": "261107193",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/auto/testovi/niko-ne-zeli-ruski-rolls-royce-aurus-drasticno-snizio-cijenu-putinove-limuzine-senat/261107193",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261107193.jpg",
+   "published": "2026-11-08T07:20:00+01:00",
+   "title": [
+    "Aurus snizio cijenu Putinove limuzine Senat",
+    "Aurus cut the price of Putin's Senat limousine"
+   ],
+   "body": [
+    [
+     [
+      "Ruski proizvođač Aurus znatno je snizio cijenu limuzine Senat, koju koristi Vladimir Putin.",
+      "The Russian maker Aurus has sharply cut the price of the Senat limousine, which Vladimir Putin uses."
+     ],
+     [
+      "Cijena je pala sa 50 na 40 miliona rubalja, odnosno sa oko 550.000 na 440.000 eura.",
+      "The price fell from 50 to 40 million rubles, that is, from about 550,000 to 440,000 euros."
+     ],
+     [
+      "Kompanija tako pokušava dostići planiranu prodaju.",
+      "In this way the company is trying to reach its planned sales."
+     ]
+    ],
+    [
+     [
+      "Projekt je počeo 2013., a razvoj je koštao 12,4 milijarde rubalja.",
+      "The project started in 2013, and development cost 12.4 billion rubles."
+     ],
+     [
+      "Serijska proizvodnja počela je u maju 2021. u Jelabugi, s planom od 5.000 vozila godišnje.",
+      "Serial production started in May 2021 in Yelabuga, with a plan of 5,000 vehicles a year."
+     ],
+     [
+      "Iako se auto predstavlja kao domaći, za njega su dugo korišteni dijelovi iz Južne Koreje, Kine, Indije, Turske i EU.",
+      "Although the car is presented as domestic, parts from South Korea, China, India, Turkey and the EU were used for it for a long time."
+     ],
+     [
+      "Zbog visoke cijene interes kupaca bio je gotovo nikakav.",
+      "Because of the high price, buyer interest was almost nonexistent."
+     ],
+     [
+      "U 2025. je u Jelabugi sastavljeno manje od 150 vozila.",
+      "In 2025 fewer than 150 vehicles were assembled in Yelabuga."
+     ]
+    ],
+    [
+     [
+      "Izvori upozoravaju da bi tvornica u Jelabugi mogla biti zatvorena do kraja godine.",
+      "Sources warn that the factory in Yelabuga could close by the end of the year."
+     ],
+     [
+      "Radnicima su ponudili preseljenje u Sankt Peterburg, gdje se planira model Aurus 900 po cijeni od 12 miliona rubalja.",
+      "Workers were offered relocation to Saint Petersburg, where the Aurus 900 model is planned at a price of 12 million rubles."
+     ],
+     [
+      "Prema ruskim izvorima, Putin će i dalje dobijati nove limuzine.",
+      "According to Russian sources, Putin will still get new limousines."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "limuzina",
+     "limousine"
+    ],
+    [
+     "proizvođač",
+     "manufacturer"
+    ],
+    [
+     "rublja",
+     "ruble"
+    ],
+    [
+     "tvornica",
+     "factory"
+    ],
+    [
+     "dijelovi",
+     "parts"
+    ],
+    [
+     "preseljenje",
+     "relocation"
+    ],
+    [
+     "kupac",
+     "buyer"
+    ]
+   ]
+  },
+  {
+   "id": "261108004",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/americka-desnicarka-naplacivala-objave-na-drustvenim-mrezama-sporna-i-poruka-podrske-dodiku/261108004",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261108004.jpg",
+   "published": "2026-11-08T07:18:00+01:00",
+   "title": [
+    "Američka aktivistica navodno naplaćivala objave, među njima i podršku Dodiku",
+    "US activist allegedly charged for posts, including support for Dodik"
+   ],
+   "body": [
+    [
+     [
+      "Američka desničarka Laura Loomer, bliska saveznica Donalda Trumpa, navodno je naplaćivala političke objave na društvenim mrežama.",
+      "US right-wing activist Laura Loomer, a close ally of Donald Trump, allegedly charged money for political posts on social media."
+     ],
+     [
+      "Piše to Washington Post, a među spornim porukama je i ona u prilog Miloradu Dodiku.",
+      "The Washington Post writes this, and among the disputed messages is one in support of Milorad Dodik."
+     ],
+     [
+      "Novinari su razgovarali s četiri osobe, među njima i Alexom Bruesewitzom, savjetnikom Trumpove kampanje.",
+      "Reporters spoke with four people, among them Alex Bruesewitz, an adviser to Trump's campaign."
+     ]
+    ],
+    [
+     [
+      "Prema dokumentima, Loomer i njena firma od maja 2025. primili su četiri uplate, ukupno više od 60.000 dolara.",
+      "According to documents, Loomer and her firm have received four payments since May 2025, over 60,000 dollars in total."
+     ],
+     [
+      "Dokumenti ne kažu čemu je novac služio.",
+      "The documents do not say what the money was for."
+     ],
+     [
+      "Dva izvora tvrde da je tražila od 3.000 do 5.000 dolara po objavi.",
+      "Two sources claim she asked for 3,000 to 5,000 dollars per post."
+     ],
+     [
+      "Bruesewitz kaže da joj je plaćao objave, a sada je to javno rekao jer je, kako misli, praksa otišla predaleko.",
+      "Bruesewitz says he paid her for posts, and he has now said it publicly because, in his view, the practice went too far."
+     ],
+     [
+      "Loomer sve negira i tvrdi da je plaćen samo jedan istraživački dokument.",
+      "Loomer denies everything and claims that only one research document was paid for."
+     ]
+    ],
+    [
+     [
+      "Loomer je 23. oktobra 2025. na mreži X branila Dodika od napada.",
+      "On 23 October 2025 Loomer defended Dodik from attacks on the network X."
+     ],
+     [
+      "Demokrate u Kongresu navele su je u izvještaju među osobama koje su djelovale u Dodikovu korist.",
+      "Democrats in Congress named her in a report among people who acted in Dodik's favour."
+     ],
+     [
+      "Ona nije registrovana kao strani agent, što bi moglo biti u sukobu s američkim pravilima o lobiranju.",
+      "She is not registered as a foreign agent, which could conflict with American lobbying rules."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "objava",
+     "post"
+    ],
+    [
+     "društvene mreže",
+     "social media"
+    ],
+    [
+     "savjetnik",
+     "adviser"
+    ],
+    [
+     "uplata",
+     "payment"
+    ],
+    [
+     "lobiranje",
+     "lobbying"
+    ],
+    [
+     "negirati",
+     "to deny"
+    ],
+    [
+     "izvor",
+     "source"
+    ]
+   ]
+  },
+  {
+   "id": "261108002",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/hakeri-provalili-u-rusku-bazu-podataka-otkrili-zastrasujuce-podatke-o-450000-smrti-povezanih-s-ratom-u-ukrajini/261108002",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261108002.jpg",
+   "published": "2026-11-08T07:12:00+01:00",
+   "title": [
+    "Hakeri tvrde da su otkrili podatke o 450.000 ratnih smrti",
+    "Hackers claim they found data on 450,000 war deaths"
+   ],
+   "body": [
+    [
+     [
+      "Dvije hakerske grupe tvrde da su provalile u bazu podataka ruske statističke agencije Rosstat.",
+      "Two hacker groups claim they broke into the database of the Russian statistics agency Rosstat."
+     ],
+     [
+      "Kažu da su pronašli podatke o smrtima povezanim s ratom u Ukrajini od februara 2022. do augusta 2026.",
+      "They say they found data on deaths linked to the war in Ukraine from February 2022 to August 2026."
+     ],
+     [
+      "Procjenjuju da je poginulo između 394.000 i 450.000 ljudi.",
+      "They estimate that between 394,000 and 450,000 people died."
+     ]
+    ],
+    [
+     [
+      "Grupa Belarusian Cyberpartisans navodi najmanje 393.881 smrt, jer je brojala samo zapise s ratom kao uzrokom.",
+      "The group Belarusian Cyberpartisans states at least 393,881 deaths, because it counted only records with war as the cause."
+     ],
+     [
+      "Grupa Silent Crow spominje do 450.100 smrti, a u taj broj ulaze i vojnici koji su umrli bez borbe.",
+      "The group Silent Crow mentions up to 450,100 deaths, and that number also includes soldiers who died outside combat."
+     ],
+     [
+      "Napad se dogodio u noći između 31. oktobra i 1. novembra, a hakeri kažu da su preuzeli oko 23 terabajta podataka.",
+      "The attack happened in the night between 31 October and 1 November, and the hackers say they downloaded about 23 terabytes of data."
+     ],
+     [
+      "Kyiv Independent nije mogao provjeriti ove tvrdnje.",
+      "Kyiv Independent could not verify these claims."
+     ]
+    ],
+    [
+     [
+      "Rosstat potvrđuje da je bio meta napada, ali poriče da su podaci procurili.",
+      "Rosstat confirms it was the target of attacks, but denies that data leaked."
+     ],
+     [
+      "Rusija ne objavljuje koliko je vojnika poginulo, a Rosstat od 2024. ne objavljuje ni uzroke smrti.",
+      "Russia does not publish how many soldiers died, and since 2024 Rosstat has not published causes of death either."
+     ],
+     [
+      "Mediazona i BBC su do 6. novembra imenom potvrdili 285.881 poginulog ruskog vojnika, ali pravi broj je znatno veći.",
+      "By 6 November, Mediazona and the BBC had confirmed by name 285,881 dead Russian soldiers, but the real number is much higher."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "haker",
+     "hacker"
+    ],
+    [
+     "baza podataka",
+     "database"
+    ],
+    [
+     "procjenjivati",
+     "to estimate"
+    ],
+    [
+     "uzrok",
+     "cause"
+    ],
+    [
+     "poginuti",
+     "to be killed"
+    ],
+    [
+     "provjeriti",
+     "to verify"
+    ],
+    [
+     "poricati",
+     "to deny"
+    ]
+   ]
+  },
+  {
+   "id": "261108003",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/kosarka/jokic-s-19-poena-i-13-skokova-nadigrao-zubca-u-mexico-cityju/261108003",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261108003.jpg",
+   "published": "2026-11-08T07:08:00+01:00",
+   "title": [
+    "Jokić nadigrao Zubca u Mexico Cityju",
+    "Jokić outplayed Zubac in Mexico City"
+   ],
+   "body": [
+    [
+     [
+      "Denver je u Mexico Cityju pobijedio Indianu rezultatom 114:102.",
+      "Denver beat Indiana 114:102 in Mexico City."
+     ],
+     [
+      "Nikola Jokić ubacio je 19 poena, uz 13 skokova i 8 asistencija.",
+      "Nikola Jokić scored 19 points, with 13 rebounds and 8 assists."
+     ],
+     [
+      "Čak 10 poena postigao je već u prvoj četvrtini.",
+      "He scored as many as 10 points already in the first quarter."
+     ]
+    ],
+    [
+     [
+      "Ivica Zubac, koji je u februari došao iz Clippersa, imao je 10 poena i 12 skokova.",
+      "Ivica Zubac, who came from the Clippers in February, had 10 points and 12 rebounds."
+     ],
+     [
+      "Denver je poluvrijeme završio sa 64:41 i u njemu praktično riješio utakmicu.",
+      "Denver finished the first half 64:41 and practically decided the game in it."
+     ],
+     [
+      "Indiana je igrala bez Tyresea Haliburtona.",
+      "Indiana played without Tyrese Haliburton."
+     ],
+     [
+      "Pacersi su u trećoj četvrtini smanjili zaostatak, ali nisu uspjeli preokrenuti rezultat, pa su sada na omjeru 3-7.",
+      "In the third quarter the Pacers cut the deficit, but they could not turn the result around, so they are now at 3-7."
+     ]
+    ],
+    [
+     [
+      "Mario Hezonja igrao je 18 minuta bez poena, a pogodio nije nijedan od šest šuteva.",
+      "Mario Hezonja played 18 minutes without a point, and he hit none of six shots."
+     ],
+     [
+      "U drugim utakmicama New York je dobio Cleveland 109:97, a Golden State je nakon produžetka pobijedio Orlando 126:119.",
+      "In other games New York beat Cleveland 109:97, and Golden State beat Orlando 126:119 after overtime."
+     ],
+     [
+      "Stephen Curry je postigao 41 poen.",
+      "Stephen Curry scored 41 points."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "poen",
+     "point"
+    ],
+    [
+     "skok",
+     "rebound"
+    ],
+    [
+     "asistencija",
+     "assist"
+    ],
+    [
+     "četvrtina",
+     "quarter"
+    ],
+    [
+     "poluvrijeme",
+     "first half"
+    ],
+    [
+     "produžetak",
+     "overtime"
+    ],
+    [
+     "zaostatak",
+     "deficit"
+    ]
+   ]
+  },
+  {
+   "id": "261107185",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/muzika/preminuo-slobodan-boba-orlic-jedan-od-pionira-beogradske-rok-scene/261107185",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261107185.jpg",
+   "published": "2026-11-07T22:50:00+01:00",
+   "title": [
+    "Preminuo Boba Orlić, pionir beogradske rok scene",
+    "Boba Orlić, a pioneer of the Belgrade rock scene, has died"
+   ],
+   "body": [
+    [
+     [
+      "Preminuo je Slobodan Boba Orlić, jedan od pionira beogradske rok scene.",
+      "Slobodan Boba Orlić, one of the pioneers of the Belgrade rock scene, has died."
+     ],
+     [
+      "Bio je basist i muzički producent, a na sceni je djelovao skoro šest decenija.",
+      "He was a bassist and music producer, and he was active on the scene for almost six decades."
+     ],
+     [
+      "Vijest je na društvenim mrežama objavio muzičar Srđan Marjanović, a podijelila ju je i izdavačka kuća PGP RTS.",
+      "The news was published on social media by musician Srđan Marjanović, and the record label PGP RTS also shared it."
+     ]
+    ],
+    [
+     [
+      "Karijeru je počeo šezdesetih godina i svirao je u grupama Bitnici, Siluete, Plameni 5 i Opus.",
+      "He started his career in the 1960s and played in the bands Bitnici, Siluete, Plameni 5 and Opus."
+     ],
+     [
+      "Kasnije se posvetio snimanju zvuka i produkciji.",
+      "Later he devoted himself to sound recording and production."
+     ],
+     [
+      "Radio je s mnogim poznatim bendovima, među kojima su Goblini, Eyesburn, Kristali i Ljubičice.",
+      "He worked with many well-known bands, among them Goblini, Eyesburn, Kristali and Ljubičice."
+     ]
+    ],
+    [
+     [
+      "Posljednjih godina ponovo je svirao s gitaristom Brankom Milanovićem u grupi Koprive.",
+      "In recent years he played again with guitarist Branko Milanović in the band Koprive."
+     ],
+     [
+      "Oni su 2023. objavili album \"Povratak\".",
+      "In 2023 they released the album \"Povratak\"."
+     ],
+     [
+      "Uzrok smrti i datum sahrane nisu poznati.",
+      "The cause of death and the date of the funeral are not known."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "preminuti",
+     "to pass away"
+    ],
+    [
+     "pionir",
+     "pioneer"
+    ],
+    [
+     "basist",
+     "bassist"
+    ],
+    [
+     "producent",
+     "producer"
+    ],
+    [
+     "izdavačka kuća",
+     "record label"
+    ],
+    [
+     "sahrana",
+     "funeral"
+    ],
+    [
+     "decenija",
+     "decade"
+    ]
+   ]
+  },
+  {
+   "id": "261107171",
+   "source": "Klix.ba",
+   "section": "Zdravlje",
+   "url": "https://www.klix.ba/lifestyle/zdravlje/turski-estetski-hirurg-upozorava-djevojke-zele-da-smanje-stopala-i-suze-ramena/261107171",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261107171.jpg",
+   "published": "2026-11-07T20:44:00+01:00",
+   "title": [
+    "Turski hirurzi upozoravaju na čudne estetske zahtjeve",
+    "Turkish surgeons warn about unusual cosmetic requests"
+   ],
+   "body": [
+    [
+     [
+      "Plastični hirurzi u Turskoj sve češće primaju neobične zahtjeve za estetske operacije.",
+      "Plastic surgeons in Turkey increasingly receive unusual requests for cosmetic operations."
+     ],
+     [
+      "Smatraju da je za to djelimično kriva društvena mreža, na kojoj se takve operacije prikazuju kao jednostavne.",
+      "They think social media is partly to blame, as such operations are shown there as simple."
+     ],
+     [
+      "Neki pacijenti žele manja stopala jer vjeruju da će im cipele tako ljepše stajati.",
+      "Some patients want smaller feet because they believe shoes will look nicer on them."
+     ]
+    ],
+    [
+     [
+      "Žene traže uže ramena da im odjeća bolje stoji, a muškarci šira ramena da izgledaju atletski.",
+      "Women ask for narrower shoulders so clothes fit better, and men ask for wider shoulders to look athletic."
+     ],
+     [
+      "Profesor Yakup Čil kaže da ove operacije nisu nimalo jednostavne i da svaka nosi komplikacije.",
+      "Professor Yakup Čil says these operations are not simple at all and that each carries complications."
+     ],
+     [
+      "Slične zahvate rade kod urođenih anomalija, ali čisto estetske operacije treba izbjegavati.",
+      "Similar procedures are done for congenital anomalies, but purely cosmetic operations should be avoided."
+     ],
+     [
+      "Većina zahtjeva dolazi od ljudi od 20 do 30 godina, koji najviše koriste društvene mreže.",
+      "Most requests come from people aged 20 to 30, who use social media the most."
+     ]
+    ],
+    [
+     [
+      "Docent Emre Hocaoglu primjećuje da mladi traže od roditelja estetske zahvate kao nagradu za dobar uspjeh u školi.",
+      "Docent Emre Hocaoglu notices that young people ask their parents for cosmetic procedures as a reward for good results at school."
+     ],
+     [
+      "Djeca, kaže, umjesto bicikla traže filere za usne.",
+      "Children, he says, ask for lip fillers instead of a bicycle."
+     ],
+     [
+      "Upozorava da svaka operacija nosi rizik, pa savjetuje izbor iskusnog doktora.",
+      "He warns that every operation carries risk, so he advises choosing an experienced doctor."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "hirurg",
+     "surgeon"
+    ],
+    [
+     "zahtjev",
+     "request"
+    ],
+    [
+     "zahvat",
+     "procedure"
+    ],
+    [
+     "rame",
+     "shoulder"
+    ],
+    [
+     "stopalo",
+     "foot"
+    ],
+    [
+     "rizik",
+     "risk"
+    ],
+    [
+     "iskusan",
+     "experienced"
+    ]
+   ]
+  },
+  {
+   "id": "261107157",
+   "source": "Klix.ba",
+   "section": "Tehnologija",
+   "url": "https://www.klix.ba/scitech/nauka/u-zagrebu-obiljezeno-deset-godina-od-upisa-stecaka-na-unesco-ovu-listu/261107157",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261107157.jpg",
+   "published": "2026-11-07T18:56:00+01:00",
+   "title": [
+    "U Zagrebu obilježeno deset godina stećaka na UNESCO-voj listi",
+    "Ten years of stećci on the UNESCO list marked in Zagreb"
+   ],
+   "body": [
+    [
+     [
+      "U Zagrebu je održan okrugli stol o stećcima povodom deset godina od njihovog upisa na UNESCO-ovu listu svjetske baštine.",
+      "A roundtable about stećci was held in Zagreb on the occasion of ten years since their inscription on UNESCO's World Heritage List."
+     ],
+     [
+      "Skup su organizovali hrvatsko kulturno društvo Napredak i Ambasada Bosne i Hercegovine u Zagrebu.",
+      "The event was organised by the Croatian cultural society Napredak and the Embassy of Bosnia and Herzegovina in Zagreb."
+     ],
+     [
+      "Otvorile su ga ambasadorica Elma Kovačević-Bajtal i Goran Štrbac.",
+      "It was opened by Ambassador Elma Kovačević-Bajtal and Goran Štrbac."
+     ]
+    ],
+    [
+     [
+      "UNESCO je 2016. upisao 28 nekropola s oko 4.000 stećaka iz BiH, Hrvatske, Crne Gore i Srbije.",
+      "In 2016 UNESCO inscribed 28 necropolises with about 4,000 stećci from BiH, Croatia, Montenegro and Serbia."
+     ],
+     [
+      "Većina sačuvanih stećaka nalazi se u Bosni i Hercegovini.",
+      "Most of the preserved stećci are in Bosnia and Herzegovina."
+     ],
+     [
+      "Historičar Nedim Rabić rekao je da natpisi na stećcima otkrivaju ljude koji se rijetko pojavljuju u drugim izvorima.",
+      "Historian Nedim Rabić said that inscriptions on stećci reveal people who rarely appear in other sources."
+     ],
+     [
+      "Veće i bogatije ukrašene stećke povezao je s ekonomskim rastom Bosne u 14. stoljeću.",
+      "He linked the larger and more richly decorated stećci with Bosnia's economic growth in the 14th century."
+     ]
+    ],
+    [
+     [
+      "Rabić je naglasio da ih istraživači proučavaju više od 150 godina, a da nauka još nema posljednju riječ.",
+      "Rabić stressed that researchers have studied them for more than 150 years, and that science still does not have the last word."
+     ],
+     [
+      "Njihovi motivi danas se pojavljuju na novčanicama i poštanskim markama.",
+      "Their motifs today appear on banknotes and postage stamps."
+     ],
+     [
+      "Učesnici su pozvali na nastavak saradnje četiri države u istraživanju i zaštiti nekropola.",
+      "Participants called for the four countries to continue cooperation in researching and protecting the necropolises."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "stećak",
+     "stećak (medieval tombstone)"
+    ],
+    [
+     "baština",
+     "heritage"
+    ],
+    [
+     "nekropola",
+     "necropolis"
+    ],
+    [
+     "natpis",
+     "inscription"
+    ],
+    [
+     "historičar",
+     "historian"
+    ],
+    [
+     "zaštita",
+     "protection"
+    ],
+    [
+     "saradnja",
+     "cooperation"
+    ]
+   ]
+  },
   {
    "id": "261107151",
    "source": "Klix.ba",
@@ -4744,880 +5570,6 @@
     [
      "publikacija",
      "publication"
-    ]
-   ]
-  },
-  {
-   "id": "261105368",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/regija/objavljeni-konacni-rezultati-izbora-u-srbiji-pogledajte-kako-izgleda-raspodjela-poslanika-u-narodnoj-skupstini/261105368",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261105368.jpg",
-   "published": "2026-11-05T21:33:00+01:00",
-   "title": [
-    "Konačni rezultati u Srbiji: studentima 140 poslaničkih mjesta",
-    "Final results in Serbia: 140 seats for the students"
-   ],
-   "body": [
-    [
-     [
-      "Republička izborna komisija Srbije objavila je konačne rezultate parlamentarnih izbora.",
-      "Serbia's Republic Electoral Commission has published the final results of the parliamentary election."
-     ],
-     [
-      "Studentska lista „Studenti pobeđuju“ osvojila je 140 od ukupno 250 mjesta u Narodnoj skupštini.",
-      "The student list “Studenti pobeđuju” (“Students are winning”) won 140 of the 250 seats in the National Assembly."
-     ],
-     [
-      "To je više od polovine, pa studenti imaju apsolutnu većinu.",
-      "That is more than half, so the students have an absolute majority."
-     ],
-     [
-      "Lista Aleksandra Vučića dobila je 103 mjesta i bit će druga po snazi.",
-      "Aleksandar Vučić's list won 103 seats and will be the second strongest."
-     ]
-    ],
-    [
-     [
-      "Lista Ivice Dačića osvojila je 94.766 glasova, odnosno 2,16 posto.",
-      "Ivica Dačić's list won 94,766 votes, or 2.16 percent."
-     ],
-     [
-      "Zato nije prešla cenzus, to jest najmanji potreban rezultat, i neće imati poslanika.",
-      "That is why it did not pass the threshold, that is, the minimum result needed, and it will have no MPs."
-     ],
-     [
-      "Savez vojvođanskih Mađara i Albanska koalicija imat će po 2 poslanika.",
-      "The Alliance of Vojvodina Hungarians and the Albanian coalition will have 2 MPs each."
-     ],
-     [
-      "Po jednog poslanika dobile su liste Rasima Ljajića, Usame Zukorlića i SDA Čuvari Sandžaka.",
-      "The lists of Rasim Ljajić, Usame Zukorlić and SDA Čuvari Sandžaka got one MP each."
-     ]
-    ],
-    [
-     [
-      "Tako u skupštinu ulaze i 2 bošnjačka zastupnika iz Sandžaka.",
-      "This means that 2 Bosniak representatives from Sandžak are also entering the assembly."
-     ],
-     [
-      "Ovo su bili vanredni parlamentarni izbori, a održani su 25. oktobra.",
-      "These were early parliamentary elections, and they were held on 25 October."
-     ],
-     [
-      "Konačni rezultati vrlo su slični prvim procjenama koje su objavljene odmah nakon izbora.",
-      "The final results are very similar to the first estimates that were published right after the election."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "izbori",
-     "election(s)"
-    ],
-    [
-     "poslanik",
-     "member of parliament"
-    ],
-    [
-     "većina",
-     "majority"
-    ],
-    [
-     "glas",
-     "vote; voice"
-    ],
-    [
-     "cenzus",
-     "electoral threshold"
-    ],
-    [
-     "skupština",
-     "assembly, parliament"
-    ],
-    [
-     "vanredan",
-     "early, extraordinary"
-    ],
-    [
-     "procjena",
-     "estimate"
-    ]
-   ]
-  },
-  {
-   "id": "261105363",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/ljevicarski-talas-siri-se-amerikom-nithya-raman-odnijela-pobjedu-i-postala-nova-gradonacelnica-los-angelesa/261105363",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261105363.jpg",
-   "published": "2026-11-05T21:11:00+01:00",
-   "title": [
-    "Nithya Raman postaje nova gradonačelnica Los Angelesa",
-    "Nithya Raman becomes the new mayor of Los Angeles"
-   ],
-   "body": [
-    [
-     [
-      "Nithya Raman pobijedila je na izborima za gradonačelnicu Los Angelesa.",
-      "Nithya Raman has won the election for mayor of Los Angeles."
-     ],
-     [
-      "Ova 45-godišnja članica Demokratskih socijalista Amerike pobijedila je dosadašnju gradonačelnicu Karen Bass.",
-      "This 45-year-old member of the Democratic Socialists of America defeated the outgoing mayor, Karen Bass."
-     ],
-     [
-      "Pobjedu je objavila agencija Associated Press, a Los Angeles je drugi najveći grad u SAD-u.",
-      "The Associated Press agency announced the victory, and Los Angeles is the second-largest city in the US."
-     ]
-    ],
-    [
-     [
-      "Prema New York Timesu, presudni su bili mlađi birači i ljudi koji žive u iznajmljenim stanovima.",
-      "According to the New York Times, younger voters and people who live in rented flats were decisive."
-     ],
-     [
-      "Za njih je život u ovom skupom gradu sve teži.",
-      "For them, life in this expensive city is getting harder and harder."
-     ],
-     [
-      "Raman je u kampanji govorila o stanovanju, beskućništvu i cijenama najma.",
-      "In the campaign, Raman talked about housing, homelessness and rents."
-     ],
-     [
-      "Tvrdila je da gradska uprava ne rješava ni osnovne probleme, poput rupa na cestama.",
-      "She claimed that the city administration does not solve even basic problems, such as potholes in the roads."
-     ]
-    ],
-    [
-     [
-      "Raman je rođena u Indiji, studirala je na Harvardu i 6 godina je bila u Gradskom vijeću.",
-      "Raman was born in India, studied at Harvard and spent 6 years on the City Council."
-     ],
-     [
-      "Bit će prva žena južnoazijskog porijekla na čelu Los Angelesa.",
-      "She will be the first woman of South Asian origin to lead Los Angeles."
-     ],
-     [
-      "Los Angeles je tako treći veliki američki grad koji će voditi demokratski socijalist.",
-      "Los Angeles thus becomes the third big American city to be led by a democratic socialist."
-     ],
-     [
-      "Druga dva su New York, s gradonačelnikom Zohranom Mamdanijem, i Washington.",
-      "The other two are New York, with mayor Zohran Mamdani, and Washington."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "gradonačelnica",
-     "mayor (woman)"
-    ],
-    [
-     "pobijediti",
-     "to win, to defeat"
-    ],
-    [
-     "birač",
-     "voter"
-    ],
-    [
-     "najam",
-     "rent, renting"
-    ],
-    [
-     "beskućništvo",
-     "homelessness"
-    ],
-    [
-     "stanovanje",
-     "housing"
-    ],
-    [
-     "porijeklo",
-     "origin"
-    ],
-    [
-     "uprava",
-     "administration"
-    ]
-   ]
-  },
-  {
-   "id": "261105350",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/promasaji-skupo-kostali-prvaka-bih-mjallby-savladao-borac-i-nanio-mu-drugi-evropski-poraz/261105350",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261105350.jpg",
-   "published": "2026-11-05T20:35:00+01:00",
-   "title": [
-    "Borac izgubio u Švedskoj nakon mnogo promašenih prilika",
-    "Borac lose in Sweden after missing many chances"
-   ],
-   "body": [
-    [
-     [
-      "Nogometaši Borca večeras su u Švedskoj izgubili od Mjällbyja rezultatom 0:2.",
-      "Borac's footballers lost 0:2 to Mjällby in Sweden tonight."
-     ],
-     [
-      "Utakmica trećeg kola Konferencijske lige igrala se na stadionu u Helsingborgu.",
-      "The third-round Conference League match was played at the stadium in Helsingborg."
-     ],
-     [
-      "Prvak Bosne i Hercegovine tako je doživio drugi poraz u ovom takmičenju.",
-      "The champion of Bosnia and Herzegovina thus suffered its second defeat in this competition."
-     ]
-    ],
-    [
-     [
-      "Borac je bolje počeo i imao nekoliko odličnih prilika u prvom poluvremenu.",
-      "Borac started better and had several excellent chances in the first half."
-     ],
-     [
-      "Golman domaćih Lundin odbranio je udarce Cipetića i Roguljića.",
-      "The home goalkeeper, Lundin, saved shots from Cipetić and Roguljić."
-     ],
-     [
-      "Mjällby je svoju prvu priliku imao tek u 29. minuti.",
-      "Mjällby had its first chance only in the 29th minute."
-     ],
-     [
-      "Najveću priliku pred kraj poluvremena imao je Juričić, ali nije pogodio gol iz blizine.",
-      "Juričić had the biggest chance near the end of the half, but he missed the goal from close range."
-     ]
-    ],
-    [
-     [
-      "U 54. minuti Bergstrom je iskoristio veliku grešku odbrane Borca i postigao gol.",
-      "In the 54th minute, Bergstrom took advantage of a big mistake in Borac's defence and scored."
-     ],
-     [
-      "Borac je zatim napadao, a u 88. minuti Enggaard je nakon brzog kontranapada postigao drugi gol.",
-      "Borac then attacked, and in the 88th minute Enggaard scored the second goal after a fast counter-attack."
-     ],
-     [
-      "Nakon ovog kola Borac je pao na 19. mjesto i ima 3 boda.",
-      "After this round, Borac dropped to 19th place and has 3 points."
-     ],
-     [
-      "Tim Vinka Marinovića ostao je bez gola iako je dugo bio bolji na terenu.",
-      "Vinko Marinović's team failed to score although it was the better side on the pitch for a long time."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "poraz",
-     "defeat"
-    ],
-    [
-     "prilika",
-     "chance"
-    ],
-    [
-     "golman",
-     "goalkeeper"
-    ],
-    [
-     "odbraniti",
-     "to save (a shot), to defend"
-    ],
-    [
-     "greška",
-     "mistake"
-    ],
-    [
-     "odbrana",
-     "defence"
-    ],
-    [
-     "kontranapad",
-     "counter-attack"
-    ],
-    [
-     "bod",
-     "point"
-    ]
-   ]
-  },
-  {
-   "id": "261105336",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/kako-borbeni-avioni-presrecu-putnicke-avione-koji-prijave-bombu-tokom-leta-piloti-imaju-15-minuta-za-spremanje/261105336",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261105336.jpg",
-   "published": "2026-11-05T20:34:00+01:00",
-   "title": [
-    "Dojave o bombama: kako borbeni avioni presreću putničke letove",
-    "Bomb threats: how fighter jets intercept passenger flights"
-   ],
-   "body": [
-    [
-     [
-      "Ove sedmice lažne dojave o bombama pogodile su više od 20 letova u Evropi.",
-      "This week, fake bomb threats hit more than 20 flights in Europe."
-     ],
-     [
-      "U četvrtak ujutro hrvatski borbeni avion Rafale presreo je putnički avion Finnaira iznad Hrvatske.",
-      "On Thursday morning, a Croatian Rafale fighter jet intercepted a Finnair passenger plane over Croatia."
-     ],
-     [
-      "Avion je letio iz Helsinkija za Rim, a lovac ga je pratio do granice s Italijom.",
-      "The plane was flying from Helsinki to Rome, and the fighter escorted it to the border with Italy."
-     ],
-     [
-      "Eksploziv nije pronađen ni u jednom avionu, a još se ne zna ko šalje prijetnje.",
-      "No explosives were found on any plane, and it is still not known who is sending the threats."
-     ]
-    ],
-    [
-     [
-      "Kada postoji sumnja na opasnost, NATO-ov centar u španskom Torrejonu naređuje hitno polijetanje.",
-      "When a danger is suspected, NATO's centre in Torrejón, Spain, orders an emergency take-off."
-     ],
-     [
-      "Piloti su u pripravnosti 24 sata, a prema NATO-u imaju 15 minuta da se spreme i polete.",
-      "The pilots are on standby 24 hours a day, and according to NATO they have 15 minutes to get ready and take off."
-     ],
-     [
-      "Nakon polijetanja kontrolori sa zemlje javljaju im smjer, visinu i udaljenost do aviona.",
-      "After take-off, controllers on the ground give them the direction, altitude and distance to the plane."
-     ],
-     [
-      "Lovac prilazi dovoljno blizu da vidi avion, ali drži sigurnu udaljenost.",
-      "The fighter gets close enough to see the plane but keeps a safe distance."
-     ]
-    ],
-    [
-     [
-      "Ako nema radio-veze, lovac ljulja krilima ispred putničkog aviona.",
-      "If there is no radio contact, the fighter rocks its wings in front of the passenger plane."
-     ],
-     [
-      "Taj znak znači: presretnuti ste, slijedite me.",
-      "This signal means: you have been intercepted, follow me."
-     ],
-     [
-      "Ako postoji sumnja da bi avion mogao biti oružje za napad, komandu preuzimaju nacionalne vlasti.",
-      "If there is a suspicion that the plane could be used as a weapon for an attack, national authorities take command."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "dojava",
-     "tip-off, report"
-    ],
-    [
-     "presretati",
-     "to intercept"
-    ],
-    [
-     "borbeni avion",
-     "fighter jet"
-    ],
-    [
-     "let",
-     "flight"
-    ],
-    [
-     "polijetanje",
-     "take-off"
-    ],
-    [
-     "udaljenost",
-     "distance"
-    ],
-    [
-     "krilo",
-     "wing"
-    ],
-    [
-     "vlasti",
-     "the authorities"
-    ]
-   ]
-  },
-  {
-   "id": "261102200",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/muzika/bh-muzicar-kemal-delalic-nacionalisti-su-ponovo-rasirili-krila-kao-drustvo-se-nismo-mnogo-promijenili/261102200",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261102200.jpg",
-   "published": "2026-11-05T20:07:00+01:00",
-   "title": [
-    "Muzičar Dede Putra nakon 13 godina snimio pjesmu o nacionalizmu",
-    "Musician Dede Putra records a song about nationalism after 13 years"
-   ],
-   "body": [
-    [
-     [
-      "Kemal Delalić iz Cazina, poznatiji kao Dede Putra, objavio je novu pjesmu.",
-      "Kemal Delalić from Cazin, better known as Dede Putra, has released a new song."
-     ],
-     [
-      "Pjesma se zove „Kupi nam ljubavi nacionalizma“, a tekst je napisao još prije 13 godina.",
-      "The song is called “Kupi nam ljubavi nacionalizma” (“Buy us nationalism, my love”), and he wrote the lyrics 13 years ago."
-     ],
-     [
-      "Tada je obećao da će je snimiti kada Sejdić i Finci postanu konstitutivni.",
-      "At the time he promised to record it when Sejdić and Finci become constituent."
-     ],
-     [
-      "To se nije desilo, ali pjesmu je ipak snimio.",
-      "That did not happen, but he recorded the song anyway."
-     ]
-    ],
-    [
-     [
-      "Delalić kaže da je pjesmu ponovo aktivirao zbog promjene vlasti u Bosni i Hercegovini.",
-      "Delalić says he brought the song back because of the change of government in Bosnia and Herzegovina."
-     ],
-     [
-      "Prema njegovim riječima, nacionalističke snage ponovo su raširile krila.",
-      "According to him, nationalist forces have spread their wings again."
-     ],
-     [
-      "Smatra i da se društvo u posljednjih 13 godina nije mnogo promijenilo.",
-      "He also thinks society has not changed much in the last 13 years."
-     ],
-     [
-      "Novu pjesmu pjeva u duetu s Aishom, ženskim glasom koji je napravila umjetna inteligencija.",
-      "He sings the new song as a duet with Aisha, a female voice made by artificial intelligence."
-     ]
-    ],
-    [
-     [
-      "Delalić je bio pjevač i gitarista benda Dede Putra, koji je 2013. objavio prvi album.",
-      "Delalić was the singer and guitarist of the band Dede Putra, which released its first album in 2013."
-     ],
-     [
-      "Danas živi u Njemačkoj, gdje radi u bolnici, a u slobodno vrijeme snima u svom studiju.",
-      "Today he lives in Germany, where he works in a hospital, and in his free time he records in his own studio."
-     ],
-     [
-      "Kaže da je otišao jer nije želio da njegova kćerka odrasta u BiH.",
-      "He says he left because he did not want his daughter to grow up in BiH."
-     ],
-     [
-      "Političari o kojima je pjevao nikada mu nisu odgovorili, ali su njihove pristalice slale prijetnje.",
-      "The politicians he sang about never answered him, but their supporters sent threats."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "pjesma",
-     "song"
-    ],
-    [
-     "tekst",
-     "lyrics, text"
-    ],
-    [
-     "vlast",
-     "government, power"
-    ],
-    [
-     "društvo",
-     "society"
-    ],
-    [
-     "umjetna inteligencija",
-     "artificial intelligence"
-    ],
-    [
-     "pristalica",
-     "supporter"
-    ],
-    [
-     "prijetnja",
-     "threat"
-    ],
-    [
-     "kćerka",
-     "daughter"
-    ]
-   ]
-  },
-  {
-   "id": "261105346",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/showbiz/fotografije-kralja-charlesa-ponovo-izazvale-zabrinutost-na-mrezama-se-raspravlja-o-njegovim-otecenim-prstima/261105346",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261105346.jpg",
-   "published": "2026-11-05T20:05:00+01:00",
-   "title": [
-    "Otečeni prsti kralja Charlesa ponovo zabrinuli korisnike mreža",
-    "King Charles's swollen fingers worry social media users again"
-   ],
-   "body": [
-    [
-     [
-      "Nove fotografije britanskog kralja Charlesa III s Kariba ponovo su pokrenule priču o njegovim prstima.",
-      "New photos of British King Charles III from the Caribbean have once again started talk about his fingers."
-     ],
-     [
-      "Kralj (77) bio je u posjeti Antigvi i Barbudi, a na slikama se vide otečeni prsti.",
-      "The King (77) was visiting Antigua and Barbuda, and swollen fingers can be seen in the pictures."
-     ],
-     [
-      "Mnogi korisnici društvenih mreža napisali su da su zabrinuti za njegovo zdravlje.",
-      "Many social media users wrote that they are worried about his health."
-     ]
-    ],
-    [
-     [
-      "Charles je odavno poznat po debelim prstima, koje neki Britanci u šali zovu kobasicama.",
-      "Charles has long been known for his thick fingers, which some Britons jokingly call sausages."
-     ],
-     [
-      "Neki komentatori spominju probleme s cirkulacijom, a drugi posljedice liječenja raka.",
-      "Some commentators mention circulation problems, and others the effects of cancer treatment."
-     ],
-     [
-      "Rak je kralju otkriven 2024. godine.",
-      "The King was diagnosed with cancer in 2024."
-     ],
-     [
-      "Ni kralj ni Buckinghamska palata nikada nisu zvanično objasnili zašto su mu prsti otečeni.",
-      "Neither the King nor Buckingham Palace has ever officially explained why his fingers are swollen."
-     ]
-    ],
-    [
-     [
-      "Charles se ipak više puta našalio na račun svojih ruku.",
-      "Charles has, however, joked about his hands several times."
-     ],
-     [
-      "U jednom BBC-jevom dokumentarcu rekao je princu Williamu da on nema „kobasice“ kao njegov otac.",
-      "In a BBC documentary he told Prince William that he does not have “sausages” like his father."
-     ],
-     [
-      "Britanska ljekarka Stephanie de Giorgio kaže da pacijenti često dolaze uplašeni zbog otečenih prstiju ili gležnjeva.",
-      "British doctor Stephanie de Giorgio says patients often come to her scared because of swollen fingers or ankles."
-     ],
-     [
-      "Prema njenim riječima, najčešće se ne radi o nečemu ozbiljnom.",
-      "According to her, it is usually nothing serious."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "prst",
-     "finger"
-    ],
-    [
-     "otečen",
-     "swollen"
-    ],
-    [
-     "zdravlje",
-     "health"
-    ],
-    [
-     "kobasica",
-     "sausage"
-    ],
-    [
-     "liječenje",
-     "treatment"
-    ],
-    [
-     "rak",
-     "cancer"
-    ],
-    [
-     "palata",
-     "palace"
-    ],
-    [
-     "ljekarka",
-     "doctor (woman)"
-    ]
-   ]
-  },
-  {
-   "id": "261105341",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/kultura/otvorena-izlozba-neprijatelj-o-meliki-salihbeg-bosnawi-osudenoj-zeni-u-sarajevskom-procesu/261105341",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261105341.jpg",
-   "published": "2026-11-05T20:00:00+01:00",
-   "title": [
-    "U Sarajevu otvorena izložba o književnici Meliki Salihbeg Bosnawi",
-    "Exhibition about writer Melika Salihbeg Bosnawi opens in Sarajevo"
-   ],
-   "body": [
-    [
-     [
-      "U Muzeju književnosti i pozorišne umjetnosti BiH u Sarajevu večeras je otvorena izložba „Neprijatelj“.",
-      "The exhibition “Neprijatelj” (“Enemy”) opened tonight at the Museum of Literature and Performing Arts of BiH in Sarajevo."
-     ],
-     [
-      "To je prva izložba posvećena književnici Meliki Salihbeg Bosnawi.",
-      "It is the first exhibition dedicated to the writer Melika Salihbeg Bosnawi."
-     ],
-     [
-      "Posjetitelji mogu vidjeti njene rukopise, fotografije, pisma i dokumente iz suda.",
-      "Visitors can see her manuscripts, photos, letters and court documents."
-     ],
-     [
-      "Izložba je otvorena do 5. decembra, a ulaz je besplatan.",
-      "The exhibition is open until 5 December, and entry is free."
-     ]
-    ],
-    [
-     [
-      "Melika Salihbeg Bosnawi rođena je 1945. godine u Sarajevu i pisala je eseje, poetsku prozu i drame.",
-      "Melika Salihbeg Bosnawi was born in Sarajevo in 1945 and wrote essays, poetic prose and plays."
-     ],
-     [
-      "Uhapšena je 1983. godine i osuđena u Sarajevskom procesu protiv grupe muslimanskih intelektualaca.",
-      "She was arrested in 1983 and convicted in the Sarajevo trial against a group of Muslim intellectuals."
-     ],
-     [
-      "Kaznu je služila u Foči, a puštena je 1985. nakon 73 dana štrajka glađu.",
-      "She served her sentence in Foča and was released in 1985 after 73 days of hunger strike."
-     ],
-     [
-      "Umrla je u augustu 2017. godine.",
-      "She died in August 2017."
-     ]
-    ],
-    [
-     [
-      "Naziv izložbe dolazi iz pisma sudu u kojem se Melika potpisala kao „neprijatelj“.",
-      "The name of the exhibition comes from a letter to the court in which Melika signed herself as “enemy”."
-     ],
-     [
-      "Autorica izložbe Hajrija Osmanhodžić kaže da je Melika tako pokazala prkos i dostojanstvo.",
-      "The author of the exhibition, Hajrija Osmanhodžić, says that in this way Melika showed defiance and dignity."
-     ],
-     [
-      "Ona želi da posjetitelji vide Meliku kao književnicu, majku i vjernicu, a ne samo kao osuđenu ženu.",
-      "She wants visitors to see Melika as a writer, mother and believer, not only as a convicted woman."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "izložba",
-     "exhibition"
-    ],
-    [
-     "književnica",
-     "writer (woman)"
-    ],
-    [
-     "rukopis",
-     "manuscript"
-    ],
-    [
-     "uhapsiti",
-     "to arrest"
-    ],
-    [
-     "osuditi",
-     "to convict, to sentence"
-    ],
-    [
-     "kazna",
-     "sentence, punishment"
-    ],
-    [
-     "štrajk glađu",
-     "hunger strike"
-    ],
-    [
-     "prkos",
-     "defiance"
-    ]
-   ]
-  },
-  {
-   "id": "261105331",
-   "source": "Klix.ba",
-   "section": "Zdravlje",
-   "url": "https://www.klix.ba/lifestyle/zdravlje/kako-prestanak-konzumiranja-alkohola-utjece-na-vase-zdravlje-poboljsanje-sna-i-bolja-hidriranost/261105331",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261105331.jpg",
-   "published": "2026-11-05T19:30:00+01:00",
-   "title": [
-    "Sedmica bez alkohola može poboljšati san i energiju",
-    "A week without alcohol can improve sleep and energy"
-   ],
-   "body": [
-    [
-     [
-      "Mnogi ljudi koji redovno piju alkohol misle da loše spavaju zbog madraca, kofeina ili ekrana.",
-      "Many people who drink alcohol regularly think they sleep badly because of the mattress, caffeine or screens."
-     ],
-     [
-      "Nutricionisti kažu da već jedna sedmica bez pića može primjetno poboljšati san.",
-      "Nutritionists say that just one week without drinking can noticeably improve sleep."
-     ],
-     [
-      "Bolji mogu biti i probava i energija tokom dana, piše magazin Real Simple.",
-      "Digestion and energy during the day can also get better, writes the magazine Real Simple."
-     ]
-    ],
-    [
-     [
-      "Nutricionistica Alicia Galvin objašnjava da uz alkohol brže zaspemo, ali je san lošiji.",
-      "Nutritionist Alicia Galvin explains that with alcohol we fall asleep faster, but the sleep is worse."
-     ],
-     [
-      "Alkohol smanjuje REM fazu sna, a ljudi se tokom noći češće bude.",
-      "Alcohol reduces the REM phase of sleep, and people wake up more often during the night."
-     ],
-     [
-      "Zato mnogi nakon nekoliko noći bez alkohola spavaju dublje i ujutro su odmorniji.",
-      "That is why many people sleep more deeply after a few nights without alcohol and are more rested in the morning."
-     ],
-     [
-      "Neki ljudi tada i manje hrču.",
-      "Some people then also snore less."
-     ]
-    ],
-    [
-     [
-      "Nutricionistica Kezia Joy kaže da će tijelo odmah biti bolje hidrirano.",
-      "Nutritionist Kezia Joy says the body will immediately be better hydrated."
-     ],
-     [
-      "To znači da u tijelu ima dovoljno vode, pa je manje i nadutosti.",
-      "That means there is enough water in the body, so there is also less bloating."
-     ],
-     [
-      "Prema njenim riječima, energija, raspoloženje i apetit postaju stabilniji, a koncentracija bolja.",
-      "According to her, energy, mood and appetite become more stable, and concentration better."
-     ],
-     [
-      "Sve to može se primijetiti već nakon jedne sedmice bez alkohola.",
-      "All this can be noticed after just one week without alcohol."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "san",
-     "sleep; dream"
-    ],
-    [
-     "spavati",
-     "to sleep"
-    ],
-    [
-     "probava",
-     "digestion"
-    ],
-    [
-     "zaspati",
-     "to fall asleep"
-    ],
-    [
-     "odmoran",
-     "rested"
-    ],
-    [
-     "hrkati",
-     "to snore"
-    ],
-    [
-     "raspoloženje",
-     "mood"
-    ],
-    [
-     "nadutost",
-     "bloating"
-    ]
-   ]
-  },
-  {
-   "id": "261105314",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/mjallby-borac-od-1845-sati-moze-li-prvak-bih-do-novih-bodova-u-evropi/261105314",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261105314.jpg",
-   "published": "2026-11-05T18:29:00+01:00",
-   "title": [
-    "Borac večeras igra u Švedskoj protiv Mjällbyja",
-    "Borac plays Mjällby in Sweden tonight"
-   ],
-   "body": [
-    [
-     [
-      "Fudbaleri Borca večeras od 18:45 igraju u Švedskoj protiv Mjällbyja.",
-      "Borac's players play Mjällby in Sweden tonight from 18:45."
-     ],
-     [
-      "To je treće kolo glavne faze Konferencijske lige.",
-      "It is the third round of the Conference League league phase."
-     ],
-     [
-      "Borac je prvak Bosne i Hercegovine i želi osvojiti nove bodove u Evropi.",
-      "Borac is the champion of Bosnia and Herzegovina and wants to win new points in Europe."
-     ]
-    ],
-    [
-     [
-      "U prve dvije utakmice Borac je osvojio tri boda i trenutno je na 14. mjestu.",
-      "In the first two matches Borac won three points and is currently in 14th place."
-     ],
-     [
-      "Mjällby ima četiri boda i nalazi se na 12. mjestu.",
-      "Mjällby has four points and is in 12th place."
-     ],
-     [
-      "Novinari kažu da je to jedna od najvažnijih gostujućih utakmica ove sezone.",
-      "Reporters say it is one of the most important away games of this season."
-     ]
-    ],
-    [
-     [
-      "Pobjeda bi Borac približila mjestima koja vode u nokaut fazu.",
-      "A win would bring Borac closer to the places that lead to the knockout phase."
-     ],
-     [
-      "Dosadašnji učinak kluba opisuje se kao polovičan.",
-      "The club's results so far are described as half of what was hoped for."
-     ],
-     [
-      "Utakmicu prenosi Arena Sport 1, a tekstualni prenos možete pratiti na Klixu.",
-      "The match is shown on Arena Sport 1, and you can follow a text report on Klix."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "utakmica",
-     "match"
-    ],
-    [
-     "prvak",
-     "champion"
-    ],
-    [
-     "bod",
-     "point"
-    ],
-    [
-     "gostujući",
-     "away"
-    ],
-    [
-     "kolo",
-     "round"
-    ],
-    [
-     "pobjeda",
-     "victory"
-    ],
-    [
-     "prenos",
-     "broadcast"
     ]
    ]
   }
