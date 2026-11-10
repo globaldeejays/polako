@@ -1,18 +1,848 @@
 {
- "updated": "2026-11-09T18:50:00+01:00",
+ "updated": "2026-11-10T07:50:00+01:00",
  "front": [
-  "261109270",
-  "261109268",
-  "261109281",
-  "261109280",
-  "261109241",
-  "261109253",
-  "261109251",
-  "261109196",
-  "261109256"
+  "261110022",
+  "261110005",
+  "261110010",
+  "261110006",
+  "261109135",
+  "261110003",
+  "261109329",
+  "261110024",
+  "261110009"
  ],
  "level": "A2",
  "articles": [
+  {
+   "id": "261110024",
+   "source": "Klix.ba",
+   "section": "Zdravlje",
+   "url": "https://www.klix.ba/lifestyle/zdravlje/budite-se-nocu-da-mokrite-urolozi-objasnjavaju-kada-je-to-znak-bolesti/261110024",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261110024.jpg",
+   "published": "2026-11-10T07:35:00+01:00",
+   "title": [
+    "Budite li se noću zbog toaleta? Kada je to znak bolesti",
+    "Do you wake at night to use the toilet? When it is a sign of illness"
+   ],
+   "body": [
+    [
+     [
+      "Ponekad se probuditi noću zbog toaleta je normalno.",
+      "Sometimes waking at night to use the toilet is normal."
+     ],
+     [
+      "Ako se to dešava dva ili više puta svake noći, urolozi to smatraju nenormalnim.",
+      "If it happens two or more times every night, urologists consider it abnormal."
+     ],
+     [
+      "Odrasli bi trebali spavati šest do osam sati bez odlaska u toalet.",
+      "Adults should sleep six to eight hours without going to the toilet."
+     ],
+     [
+      "Ovaj problem zove se nokturija i on je simptom, a ne bolest.",
+      "This problem is called nocturia, and it is a symptom, not a disease."
+     ]
+    ],
+    [
+     [
+      "U SAD-u ga ima oko 50 miliona odraslih, uglavnom starijih od 65 godina.",
+      "In the US about 50 million adults have it, mostly people older than 65."
+     ],
+     [
+      "Mogući uzroci su dijabetes, apneja u snu, prekomjerno aktivan mjehur i uvećana prostata.",
+      "Possible causes are diabetes, sleep apnea, an overactive bladder and an enlarged prostate."
+     ],
+     [
+      "Kod dijabetesa bubrezi izbacuju višak šećera zajedno s vodom, pa se češće mokri.",
+      "With diabetes the kidneys push out extra sugar together with water, so people urinate more often."
+     ],
+     [
+      "Kod uvećane prostate mjehur se slabije prazni, pa se čovjek osjeća kao da je stalno pun.",
+      "With an enlarged prostate the bladder empties worse, so a man feels as if it is always full."
+     ]
+    ],
+    [
+     [
+      "Ljekaru treba otići ako se buđenje događa redovno, ako je novo ili ako se pogoršava.",
+      "You should go to a doctor if the waking happens regularly, if it is new or if it gets worse."
+     ],
+     [
+      "Odmah treba tražiti pomoć ako se pojave bol pri mokrenju, jaka žeđ ili oticanje nogu.",
+      "You should seek help at once if pain when urinating, strong thirst or swelling of the legs appear."
+     ],
+     [
+      "Stručnjaci savjetuju da se dva sata prije spavanja ne pije tekućina, posebno alkohol i kafa.",
+      "Experts advise not drinking liquids two hours before sleep, especially alcohol and coffee."
+     ],
+     [
+      "Neke lijekove za pritisak možda je bolje uzimati ujutro, ali o tome treba pitati ljekara.",
+      "Some medicines for blood pressure may be better taken in the morning, but you should ask a doctor about it."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "mokriti",
+     "to urinate"
+    ],
+    [
+     "urolog",
+     "urologist"
+    ],
+    [
+     "dijabetes",
+     "diabetes"
+    ],
+    [
+     "prostata",
+     "prostate"
+    ],
+    [
+     "mjehur",
+     "bladder"
+    ],
+    [
+     "bubreg",
+     "kidney"
+    ],
+    [
+     "žeđ",
+     "thirst"
+    ]
+   ]
+  },
+  {
+   "id": "261110022",
+   "source": "Klix.ba",
+   "section": "Biznis",
+   "url": "https://www.klix.ba/biznis/ekonomija/nafta-u-svijetu-najjeftinija-od-augusta-a-dizel-u-bih-najskuplji-u-posljednja-tri-mjeseca/261110022",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261110022.jpg",
+   "published": "2026-11-10T07:22:00+01:00",
+   "title": [
+    "Nafta u svijetu jeftinija, a dizel u BiH skuplji",
+    "Oil is cheaper in the world, but diesel in BiH is more expensive"
+   ],
+   "body": [
+    [
+     [
+      "Cijena nafte na svjetskom tržištu pala je na najniži nivo od augusta.",
+      "The price of oil on the world market has fallen to its lowest level since August."
+     ],
+     [
+      "Brent, referentna nafta za Evropu, u utorak ujutro koštao je oko 92 dolara po barelu.",
+      "Brent, the reference oil for Europe, cost about 92 dollars a barrel on Tuesday morning."
+     ],
+     [
+      "Tržište očekuje da će rat na Bliskom istoku završiti diplomatskim putem.",
+      "The market expects the war in the Middle East to end through diplomacy."
+     ],
+     [
+      "Pad traje već drugu sedmicu, a 2. novembra Brent je bio iznad 107 dolara.",
+      "The fall has lasted for a second week, and on 2 November Brent was above 107 dollars."
+     ]
+    ],
+    [
+     [
+      "U Federaciji BiH dizel je ipak postao skuplji nego ranije.",
+      "In the Federation of BiH, however, diesel has become more expensive than before."
+     ],
+     [
+      "Prosječna cijena 9. novembra bila je 3,82 KM po litru, a to je najviše u posljednja tri mjeseca.",
+      "The average price on 9 November was 3.82 KM a litre, which is the highest in the last three months."
+     ],
+     [
+      "Najjeftiniji dizel je u Bihaću, gdje košta 3,63 KM, a najskuplji je na jednoj pumpi na Ilidži.",
+      "The cheapest diesel is in Bihać, where it costs 3.63 KM, and the most expensive is at one petrol station in Ilidža."
+     ],
+     [
+      "Benzin Super 95 u prosjeku košta 3,27 KM, a autoplin 1,48 KM po litru.",
+      "Super 95 petrol costs 3.27 KM on average, and autogas 1.48 KM a litre."
+     ]
+    ],
+    [
+     [
+      "Donald Trump je rekao da je malo vjerovatno da će odobriti nove udare na Iran ako pregovori napreduju.",
+      "Donald Trump said it is unlikely that he will approve new strikes on Iran if the talks make progress."
+     ],
+     [
+      "Tržišta sada čekaju podatke o inflaciji u SAD-u, koji bi mogli uticati na kretanje nafte.",
+      "The markets are now waiting for inflation data from the US, which could affect the movement of oil."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "nafta",
+     "oil"
+    ],
+    [
+     "barel",
+     "barrel"
+    ],
+    [
+     "dizel",
+     "diesel"
+    ],
+    [
+     "cijena",
+     "price"
+    ],
+    [
+     "pumpa",
+     "petrol station"
+    ],
+    [
+     "inflacija",
+     "inflation"
+    ],
+    [
+     "tržište",
+     "market"
+    ]
+   ]
+  },
+  {
+   "id": "261110010",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/regija/hrvatska-nakon-smrti-bivseg-sportiste-direktorica-psihijatrije-podijelila-otkaze-i-porucila-da-nisu-svi-radnici-educirani/261110010",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261110010.jpg",
+   "published": "2026-11-10T07:10:00+01:00",
+   "title": [
+    "Smrt pacijenta u Zagrebu: otkazi u psihijatrijskoj bolnici",
+    "A patient's death in Zagreb: dismissals at the psychiatric hospital"
+   ],
+   "body": [
+    [
+     [
+      "U psihijatrijskoj bolnici Jankomir u Zagrebu prije skoro tri sedmice umro je 32-godišnji bivši sportista Kristian Josip Periša.",
+      "Almost three weeks ago, 32-year-old former athlete Kristian Josip Periša died at the Jankomir psychiatric hospital in Zagreb."
+     ],
+     [
+      "Četiri medicinska tehničara poslana su u istražni zatvor na mjesec dana.",
+      "Four medical technicians have been sent to pretrial detention for one month."
+     ],
+     [
+      "Sumnjiče se da su prema pacijentu upotrijebili preveliku silu, što je dovelo do njegove smrti.",
+      "They are suspected of using too much force against the patient, which led to his death."
+     ]
+    ],
+    [
+     [
+      "Direktorica bolnice Majda Grah dala je trojici od njih vanredne otkaze.",
+      "The hospital director Majda Grah gave extraordinary dismissals to three of them."
+     ],
+     [
+      "Rekla je da je to morala učiniti po vlastitoj savjesti nakon što je pregledala situaciju.",
+      "She said she had to do it according to her own conscience after she had looked into the situation."
+     ],
+     [
+      "Priznala je da bolnici nedostaje osoblja i da nisu svi radnici dovoljno educirani.",
+      "She admitted that the hospital lacks staff and that not all workers are well enough trained."
+     ],
+     [
+      "Sindikat traži zaštitare, obuku za samoodbranu i tim koji brzo reaguje na agresivne pacijente.",
+      "The union is asking for security guards, self-defence training and a team that reacts quickly to aggressive patients."
+     ]
+    ],
+    [
+     [
+      "Porodica osporava priču bolnice, a advokat tvrdi da pacijent nije bio ovisnik i traži da se sačuvaju snimci kamera.",
+      "The family disputes the hospital's story, and the lawyer claims that the patient was not an addict and asks that camera footage be kept."
+     ],
+     [
+      "Ministarstvo zdravstva poslalo je inspekciju u bolnicu.",
+      "The Ministry of Health has sent an inspection to the hospital."
+     ],
+     [
+      "Ministrica Irena Hrstić rekla je da je situacija jako zabrinjavajuća.",
+      "Minister Irena Hrstić said that the situation is very worrying."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "bolnica",
+     "hospital"
+    ],
+    [
+     "pacijent",
+     "patient"
+    ],
+    [
+     "otkaz",
+     "dismissal"
+    ],
+    [
+     "istražni zatvor",
+     "pretrial detention"
+    ],
+    [
+     "sindikat",
+     "trade union"
+    ],
+    [
+     "osoblje",
+     "staff"
+    ],
+    [
+     "porodica",
+     "family"
+    ]
+   ]
+  },
+  {
+   "id": "261110009",
+   "source": "Klix.ba",
+   "section": "Tehnologija",
+   "url": "https://www.klix.ba/scitech/nauka/globalno-zagadenje-ugljik-dioksidom-blago-pale-naucnici-razlog-vide-u-ratu-u-iranu/261110009",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261110009.jpg",
+   "published": "2026-11-10T06:43:00+01:00",
+   "title": [
+    "Emisije CO2 blago pale, naučnici krive rat u Iranu",
+    "CO2 emissions fell slightly, scientists blame the war in Iran"
+   ],
+   "body": [
+    [
+     [
+      "Svjetske emisije ugljik-dioksida ove su godine blago pale.",
+      "World emissions of carbon dioxide have fallen slightly this year."
+     ],
+     [
+      "Prema procjeni Globalnog projekta za ugljik, 2026. godine ispušteno je 42,2 milijarde tona CO2 iz fosilnih goriva, a to je 0,4 posto manje nego prošle godine.",
+      "According to the estimate of the Global Carbon Project, 42.2 billion tonnes of CO2 from fossil fuels were released in 2026, which is 0.4 percent less than last year."
+     ],
+     [
+      "Analizu je pripremilo više od 140 naučnika, a predstavljena je na klimatskim razgovorima UN-a u Antaliji.",
+      "More than 140 scientists prepared the analysis, and it was presented at the UN climate talks in Antalya."
+     ]
+    ],
+    [
+     [
+      "Naučnici kažu da razlog nije klimatski napredak, nego rat u Iranu.",
+      "Scientists say that the reason is not climate progress, but the war in Iran."
+     ],
+     [
+      "Zbog rata je Hormuški moreuz praktično zatvoren, pa su cijene goriva i nafte porasle.",
+      "Because of the war the Strait of Hormuz is practically closed, so fuel and oil prices have gone up."
+     ],
+     [
+      "Emisije iz nafte pale su skoro 2 posto, iz plina 0,3 posto, a iz uglja su porasle 0,6 posto.",
+      "Emissions from oil fell almost 2 percent, from gas 0.3 percent, and from coal they rose 0.6 percent."
+     ],
+     [
+      "Kina, SAD, Evropa i Japan bilježe pad od oko 1 posto, dok su emisije u Indiji porasle 4,4 posto.",
+      "China, the US, Europe and Japan recorded a fall of about 1 percent, while emissions in India rose 4.4 percent."
+     ]
+    ],
+    [
+     [
+      "Ovo je tek treći put u ovom vijeku da emisije padaju, nakon krize 2009. i pandemije 2020.",
+      "This is only the third time in this century that emissions fall, after the crisis of 2009 and the pandemic of 2020."
+     ],
+     [
+      "Glen Peters rekao je da su to u neku ruku male dobre vijesti, ali iz pogrešnih razloga.",
+      "Glen Peters said that this is in a way a little good news, but for the wrong reasons."
+     ],
+     [
+      "Niklas Höhne vidi trajnu promjenu zbog brzog prelaska na električne automobile i kamione u Aziji.",
+      "Niklas Höhne sees a lasting change because of the quick switch to electric cars and trucks in Asia."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "emisija",
+     "emission"
+    ],
+    [
+     "ugljik-dioksid",
+     "carbon dioxide"
+    ],
+    [
+     "gorivo",
+     "fuel"
+    ],
+    [
+     "naučnik",
+     "scientist"
+    ],
+    [
+     "ugalj",
+     "coal"
+    ],
+    [
+     "pad",
+     "fall"
+    ],
+    [
+     "razlog",
+     "reason"
+    ]
+   ]
+  },
+  {
+   "id": "261110006",
+   "source": "Klix.ba",
+   "section": "Zdravlje",
+   "url": "https://www.klix.ba/lifestyle/zdravlje/ozempic-i-slicni-lijekovi-za-mrsavljenje-u-sad-u-ce-imati-upozorenje-o-rijetkom-riziku-od-gubitka-vida/261110006",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261110006.jpg",
+   "published": "2026-11-10T06:38:00+01:00",
+   "title": [
+    "Lijekovi za mršavljenje dobijaju upozorenje o riziku za vid",
+    "Weight-loss drugs get a warning about a risk to eyesight"
+   ],
+   "body": [
+    [
+     [
+      "Američka agencija za lijekove FDA objavila je da će popularni lijekovi za mršavljenje imati novo upozorenje.",
+      "The US drug agency FDA announced that popular weight-loss drugs will carry a new warning."
+     ],
+     [
+      "Riječ je o riziku od gubitka vida, koji je rijedak.",
+      "It is about the risk of vision loss, which is rare."
+     ],
+     [
+      "Upozorenje će stajati na svim lijekovima iz grupe GLP-1, a to je dvanaest preparata u obliku injekcija ili tableta.",
+      "The warning will be on all drugs from the GLP-1 group, which means twelve products in the form of injections or tablets."
+     ],
+     [
+      "Među njima su Ozempic, Wegovy, Zepbound i Mounjaro.",
+      "Among them are Ozempic, Wegovy, Zepbound and Mounjaro."
+     ]
+    ],
+    [
+     [
+      "Problem se zove nearteritička prednja ishemijska optička neuropatija i može izazvati veliki gubitak vida.",
+      "The problem is called nonarteritic anterior ischemic optic neuropathy and it can cause a great loss of vision."
+     ],
+     [
+      "FDA kaže da je povezan sa slabijim dotokom krvi do očnog živca, ali pravi uzrok nije poznat.",
+      "The FDA says it is linked to weaker blood flow to the optic nerve, but the real cause is not known."
+     ],
+     [
+      "Analiza više od 125 kliničkih studija pokazala je da se on javlja kod oko 6 na 100.000 pacijenata koji koriste ove lijekove najmanje godinu dana.",
+      "An analysis of more than 125 clinical trials showed that it appears in about 6 in 100,000 patients who use these drugs for at least a year."
+     ],
+     [
+      "Kod pacijenata na placebu ili drugim lijekovima za šećer taj broj je ispod 4 na 100.000.",
+      "In patients on a placebo or other sugar-lowering drugs, that number is below 4 in 100,000."
+     ]
+    ],
+    [
+     [
+      "FDA je počela provjeravati problem nakon što je jedan medicinski rad iz 2024. povezao oštećenje vida sa semaglutidom.",
+      "The FDA began checking the problem after a medical paper from 2024 linked eye damage to semaglutide."
+     ],
+     [
+      "Simptomi su zamućen vid, slijepe tačke i izobličene boje.",
+      "The symptoms are blurred vision, blind spots and distorted colours."
+     ],
+     [
+      "Pacijenti koji ih primijete trebaju odmah kontaktirati ljekara.",
+      "Patients who notice them should contact a doctor immediately."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "lijek",
+     "medicine"
+    ],
+    [
+     "mršavljenje",
+     "losing weight"
+    ],
+    [
+     "upozorenje",
+     "warning"
+    ],
+    [
+     "rizik",
+     "risk"
+    ],
+    [
+     "vid",
+     "eyesight"
+    ],
+    [
+     "pacijent",
+     "patient"
+    ],
+    [
+     "simptom",
+     "symptom"
+    ]
+   ]
+  },
+  {
+   "id": "261110005",
+   "source": "Klix.ba",
+   "section": "Biznis",
+   "url": "https://www.klix.ba/biznis/ekonomija/pokusao-zataskati-sef-nvidije-placao-agenciju-za-posrnule-mocnike-trump-priznao-da-je-za-sve-znao-mjesecima/261110005",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261110005.jpg",
+   "published": "2026-11-10T06:33:00+01:00",
+   "title": [
+    "Šef Nvidije priznao vezu sa osobom pod sumnjom za špijunažu",
+    "The head of Nvidia admitted a relationship with a person suspected of spying"
+   ],
+   "body": [
+    [
+     [
+      "Direktor kompanije Nvidia Jensen Huang našao se u centru skandala.",
+      "The chief executive of Nvidia, Jensen Huang, has ended up at the centre of a scandal."
+     ],
+     [
+      "U nedjelju je u e-poruci zaposlenima priznao da je imao ljubavnu vezu sa Alice Huang, koja nije u srodstvu s njim.",
+      "On Sunday he admitted in an email to employees that he had a romantic relationship with Alice Huang, who is not related to him."
+     ],
+     [
+      "Američke obavještajne službe navodno smatraju da ona radi za kinesku vladu.",
+      "US intelligence services reportedly believe that she works for the Chinese government."
+     ],
+     [
+      "Huang je napisao da mu je duboko žao.",
+      "Huang wrote that he is deeply sorry."
+     ]
+    ],
+    [
+     [
+      "Prema magazinu Wired, Huang još od oktobra 2025. sarađuje s agencijom Heller, koja savjetuje moćne ljude u skandalima.",
+      "According to Wired magazine, since October 2025 Huang has worked with the agency Heller, which advises powerful people in scandals."
+     ],
+     [
+      "Nakon što je New York Times pisao o njegovim poslovima sa singapurskom firmom Megaspeed, Nvidia je tražila da Heller bude uključen u sve upite novinara.",
+      "After the New York Times wrote about his deals with the Singaporean firm Megaspeed, Nvidia asked that Heller be included in all journalists' questions."
+     ],
+     [
+      "Ministarstvo trgovine SAD-a navodno istražuje pomaže li Megaspeed kineskim firmama da zaobiđu izvozna ograničenja za čipove.",
+      "The US Commerce Department is reportedly investigating whether Megaspeed helps Chinese firms get around export limits on chips."
+     ]
+    ],
+    [
+     [
+      "Uprava Nvidije pokrenula je nezavisnu istragu i poručila da nema razloga za sumnju da su ugroženi nacionalna sigurnost ili povjerljivi podaci.",
+      "Nvidia's board has started an independent investigation and said there is no reason to think national security or confidential data were put at risk."
+     ],
+     [
+      "Trump je u nedjelju navečer branio Huanga i rekao da je on pošten čovjek.",
+      "On Sunday evening Trump defended Huang and said he is an honest man."
+     ],
+     [
+      "Dodao je da misli da Huang treba ostati direktor.",
+      "He added that he thinks Huang should stay as chief executive."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "skandal",
+     "scandal"
+    ],
+    [
+     "direktor",
+     "chief executive"
+    ],
+    [
+     "zaposleni",
+     "employee"
+    ],
+    [
+     "obavještajna služba",
+     "intelligence service"
+    ],
+    [
+     "istraga",
+     "investigation"
+    ],
+    [
+     "uprava",
+     "board, management"
+    ],
+    [
+     "pošten",
+     "honest"
+    ]
+   ]
+  },
+  {
+   "id": "261109135",
+   "source": "Klix.ba",
+   "section": "Biznis",
+   "url": "https://www.klix.ba/biznis/investicije/nova-zgrada-autocesta-fbih-u-mostaru-izrasla-iz-temelja-radovi-teku-po-planu/261109135",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261109135.jpg",
+   "published": "2026-11-10T06:25:00+01:00",
+   "title": [
+    "U Mostaru niče nova zgrada Autocesta FBiH",
+    "A new Autoceste FBiH building is rising in Mostar"
+   ],
+   "body": [
+    [
+     [
+      "U centru Mostara raste nova poslovna zgrada javnog preduzeća Autoceste FBiH.",
+      "In the centre of Mostar a new business building of the public company Autoceste FBiH is rising."
+     ],
+     [
+      "Zgrada je već izašla iz temelja, a na gradilištu rade dizalice.",
+      "The building has already come up out of the foundations, and cranes are working on the site."
+     ],
+     [
+      "Nalazi se na raskrsnici ulica Dr. Ante Starčevića i Jakova Baruha Španca, pored zgrade HNK.",
+      "It is at the crossing of Dr. Ante Starčevića and Jakova Baruha Španca streets, next to the HNK building."
+     ],
+     [
+      "Autoceste kažu da radovi teku po planu i da radnici dolaze svaki dan.",
+      "Autoceste say that the works are going to plan and that workers come every day."
+     ]
+    ],
+    [
+     [
+      "Ugovor vrijedi 21,68 miliona KM s PDV-om i potpisan je prošlog novembra.",
+      "The contract is worth 21.68 million KM including VAT and was signed last November."
+     ],
+     [
+      "Posao radi konzorcij na čelu s mostarskim Promarkom, a rok je 22 mjeseca.",
+      "A consortium led by Promark from Mostar is doing the job, and the deadline is 22 months."
+     ],
+     [
+      "Zgrada će imati 7.250 kvadratnih metara, dvije podzemne i osam nadzemnih etaža.",
+      "The building will have 7,250 square metres, two underground and eight above-ground floors."
+     ]
+    ],
+    [
+     [
+      "Grijanje i hlađenje bit će uglavnom na solarnu i geotermalnu energiju.",
+      "Heating and cooling will mostly use solar and geothermal energy."
+     ],
+     [
+      "Poseban sistem upravljat će instalacijama, rasvjetom, liftovima i alarmom za požar.",
+      "A special system will manage the installations, lighting, lifts and the fire alarm."
+     ],
+     [
+      "Autoceste su ranije rekle da njihove službe rade u iznajmljenim prostorijama, što je dugoročan trošak.",
+      "Autoceste said earlier that their departments work in rented rooms, which is a long-term cost."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "zgrada",
+     "building"
+    ],
+    [
+     "gradilište",
+     "building site"
+    ],
+    [
+     "ugovor",
+     "contract"
+    ],
+    [
+     "rok",
+     "deadline"
+    ],
+    [
+     "radovi",
+     "works"
+    ],
+    [
+     "najam",
+     "rent"
+    ],
+    [
+     "energija",
+     "energy"
+    ]
+   ]
+  },
+  {
+   "id": "261110003",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/trump-rat-s-iranom-bi-mogao-prilicno-brzo-zavrsiti-ali-spremni-smo-za-napad/261110003",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261110003.jpg",
+   "published": "2026-11-10T06:20:00+01:00",
+   "title": [
+    "Trump: Rat s Iranom mogao bi brzo završiti",
+    "Trump: The war with Iran could end quickly"
+   ],
+   "body": [
+    [
+     [
+      "Američki predsjednik Donald Trump rekao je da bi rat s Iranom mogao prilično brzo završiti.",
+      "US President Donald Trump said that the war with Iran could end fairly quickly."
+     ],
+     [
+      "Govorio je u ponedjeljak na konferenciji za novinare u Bijeloj kući, nakon sastanka s premijerom Katara.",
+      "He spoke on Monday at a press conference in the White House, after a meeting with the prime minister of Qatar."
+     ],
+     [
+      "Dodao je da nove vojne akcije protiv Irana trenutno ne izgledaju potrebne.",
+      "He added that new military action against Iran does not seem necessary at the moment."
+     ],
+     [
+      "Ipak je upozorio da ništa ne garantuje.",
+      "Still, he warned that he guarantees nothing."
+     ]
+    ],
+    [
+     [
+      "Trump je rekao da su SAD spremne za akciju ako se moraju vratiti u sukob.",
+      "Trump said that the US is ready for action if it has to return to the conflict."
+     ],
+     [
+      "Razgovor s premijerom Katara opisao je kao odličan i rekao da su dugo govorili o Iranu.",
+      "He described the talk with the prime minister of Qatar as excellent and said they spoke about Iran for a long time."
+     ],
+     [
+      "Na mreži Truth Social napisao je da Katar, Saudijska Arabija i druge zemlje regije žele da stanje ostane isto.",
+      "On the Truth Social network he wrote that Qatar, Saudi Arabia and other countries of the region want the situation to stay the same."
+     ],
+     [
+      "To uključuje pomorsku blokadu Irana i novu operaciju koja pritisak sa mora širi na kopno.",
+      "That includes the naval blockade of Iran and a new operation that spreads the pressure from the sea to land."
+     ]
+    ],
+    [
+     [
+      "Prema njegovim riječima, promjena situacije na Bliskom istoku sada je prilično malo vjerovatna.",
+      "According to him, a change of the situation in the Middle East is now quite unlikely."
+     ],
+     [
+      "Reuters-u je rekao da Katar više voli miran dogovor.",
+      "He told Reuters that Qatar prefers a peaceful agreement."
+     ],
+     [
+      "Ponovio je da Iran nikada ne smije imati nuklearno oružje.",
+      "He repeated that Iran must never have nuclear weapons."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "rat",
+     "war"
+    ],
+    [
+     "predsjednik",
+     "president"
+    ],
+    [
+     "premijer",
+     "prime minister"
+    ],
+    [
+     "blokada",
+     "blockade"
+    ],
+    [
+     "oružje",
+     "weapon"
+    ],
+    [
+     "sukob",
+     "conflict"
+    ],
+    [
+     "spreman",
+     "ready"
+    ]
+   ]
+  },
+  {
+   "id": "261109329",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/kultura/forbes-paul-mccartney-je-milijarder-i-treci-najbogatiji-muzicar-na-svijetu/261109329",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261109329.jpg",
+   "published": "2026-11-09T23:15:00+01:00",
+   "title": [
+    "Paul McCartney je milijarder, piše Forbes",
+    "Paul McCartney is a billionaire, Forbes writes"
+   ],
+   "body": [
+    [
+     [
+      "Magazin Forbes objavio je da je Paul McCartney postao milijarder.",
+      "Forbes magazine has announced that Paul McCartney has become a billionaire."
+     ],
+     [
+      "Njegovo bogatstvo procjenjuje na najmanje 1,4 milijarde dolara.",
+      "It estimates his wealth at no less than 1.4 billion dollars."
+     ],
+     [
+      "Bivši član Beatlesa ima 84 godine i treći je najbogatiji muzičar na svijetu.",
+      "The former Beatles member is 84 years old and is the third richest musician in the world."
+     ],
+     [
+      "Ispred njega su samo Jay-Z s 2,8 milijardi i Taylor Swift s 2 milijarde dolara.",
+      "Only Jay-Z with 2.8 billion and Taylor Swift with 2 billion dollars are ahead of him."
+     ]
+    ],
+    [
+     [
+      "Najveći dio novca dolazi od kompanije MPL Communications, koju je osnovao 1969. godine.",
+      "The biggest part of the money comes from the company MPL Communications, which he founded in 1969."
+     ],
+     [
+      "Ona posjeduje prava na pjesme drugih umjetnika, mjuzikle i božićne pjesme, a Forbes je procjenjuje na najmanje 250 miliona dolara.",
+      "It owns rights to songs of other artists, musicals and Christmas songs, and Forbes values it at no less than 250 million dollars."
+     ],
+     [
+      "Kompanija Apple Corps, koja pripada Beatlesima, zarađuje više od 50 miliona dolara godišnje.",
+      "The company Apple Corps, which belongs to the Beatles, earns more than 50 million dollars a year."
+     ],
+     [
+      "Svaki od četiri vlasnika ima 25 posto, a udio vrijedi više od 150 miliona dolara.",
+      "Each of the four owners has 25 percent, and a share is worth more than 150 million dollars."
+     ]
+    ],
+    [
+     [
+      "McCartney je sudovima vratio prava na pjesme Beatlesa, koja donose najmanje 10 miliona godišnje.",
+      "McCartney won back the rights to the Beatles' songs through the courts, and they bring in at least 10 million a year."
+     ],
+     [
+      "Ima i nekretnine u Velikoj Britaniji i Hamptonsu te zbirku umjetnina s djelima Picassa i Magrittea.",
+      "He also has property in Great Britain and in the Hamptons and a collection of art with works by Picasso and Magritte."
+     ],
+     [
+      "Forbes kaže da McCartney nije htio komentarisati procjene.",
+      "Forbes says that McCartney did not want to comment on the estimates."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "bogatstvo",
+     "wealth"
+    ],
+    [
+     "milijarda",
+     "billion"
+    ],
+    [
+     "muzičar",
+     "musician"
+    ],
+    [
+     "pjesma",
+     "song"
+    ],
+    [
+     "pravo",
+     "right"
+    ],
+    [
+     "nekretnina",
+     "property"
+    ],
+    [
+     "procjena",
+     "estimate"
+    ]
+   ]
+  },
   {
    "id": "261109280",
    "source": "Klix.ba",
@@ -4696,804 +5526,6 @@
     [
      "iskusan",
      "experienced"
-    ]
-   ]
-  },
-  {
-   "id": "261107157",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/nauka/u-zagrebu-obiljezeno-deset-godina-od-upisa-stecaka-na-unesco-ovu-listu/261107157",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261107157.jpg",
-   "published": "2026-11-07T18:56:00+01:00",
-   "title": [
-    "U Zagrebu obilježeno deset godina stećaka na UNESCO-voj listi",
-    "Ten years of stećci on the UNESCO list marked in Zagreb"
-   ],
-   "body": [
-    [
-     [
-      "U Zagrebu je održan okrugli stol o stećcima povodom deset godina od njihovog upisa na UNESCO-ovu listu svjetske baštine.",
-      "A roundtable about stećci was held in Zagreb on the occasion of ten years since their inscription on UNESCO's World Heritage List."
-     ],
-     [
-      "Skup su organizovali hrvatsko kulturno društvo Napredak i Ambasada Bosne i Hercegovine u Zagrebu.",
-      "The event was organised by the Croatian cultural society Napredak and the Embassy of Bosnia and Herzegovina in Zagreb."
-     ],
-     [
-      "Otvorile su ga ambasadorica Elma Kovačević-Bajtal i Goran Štrbac.",
-      "It was opened by Ambassador Elma Kovačević-Bajtal and Goran Štrbac."
-     ]
-    ],
-    [
-     [
-      "UNESCO je 2016. upisao 28 nekropola s oko 4.000 stećaka iz BiH, Hrvatske, Crne Gore i Srbije.",
-      "In 2016 UNESCO inscribed 28 necropolises with about 4,000 stećci from BiH, Croatia, Montenegro and Serbia."
-     ],
-     [
-      "Većina sačuvanih stećaka nalazi se u Bosni i Hercegovini.",
-      "Most of the preserved stećci are in Bosnia and Herzegovina."
-     ],
-     [
-      "Historičar Nedim Rabić rekao je da natpisi na stećcima otkrivaju ljude koji se rijetko pojavljuju u drugim izvorima.",
-      "Historian Nedim Rabić said that inscriptions on stećci reveal people who rarely appear in other sources."
-     ],
-     [
-      "Veće i bogatije ukrašene stećke povezao je s ekonomskim rastom Bosne u 14. stoljeću.",
-      "He linked the larger and more richly decorated stećci with Bosnia's economic growth in the 14th century."
-     ]
-    ],
-    [
-     [
-      "Rabić je naglasio da ih istraživači proučavaju više od 150 godina, a da nauka još nema posljednju riječ.",
-      "Rabić stressed that researchers have studied them for more than 150 years, and that science still does not have the last word."
-     ],
-     [
-      "Njihovi motivi danas se pojavljuju na novčanicama i poštanskim markama.",
-      "Their motifs today appear on banknotes and postage stamps."
-     ],
-     [
-      "Učesnici su pozvali na nastavak saradnje četiri države u istraživanju i zaštiti nekropola.",
-      "Participants called for the four countries to continue cooperation in researching and protecting the necropolises."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "stećak",
-     "stećak (medieval tombstone)"
-    ],
-    [
-     "baština",
-     "heritage"
-    ],
-    [
-     "nekropola",
-     "necropolis"
-    ],
-    [
-     "natpis",
-     "inscription"
-    ],
-    [
-     "historičar",
-     "historian"
-    ],
-    [
-     "zaštita",
-     "protection"
-    ],
-    [
-     "saradnja",
-     "cooperation"
-    ]
-   ]
-  },
-  {
-   "id": "261107151",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/policija-vodenim-topom-rastjerivala-maskirane-demonstrante-na-studentskim-protestima-u-tirani/261107151",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261107151.jpg",
-   "published": "2026-11-07T18:07:00+01:00",
-   "title": [
-    "Policija vodenim topom rastjerala demonstrante u Tirani",
-    "Police used a water cannon to disperse protesters in Tirana"
-   ],
-   "body": [
-    [
-     [
-      "U Tirani je policija vodenim topom rastjerala grupu demonstranata, od kojih su neki bili maskirani.",
-      "In Tirana, police used a water cannon to disperse a group of protesters, some of whom were masked."
-     ],
-     [
-      "Incident se dogodio u blizini albanskog Ministarstva obrazovanja.",
-      "The incident happened near the Albanian Ministry of Education."
-     ],
-     [
-      "Studenti su ponovo pozvali na protest nakon nekoliko sedmica sukoba.",
-      "Students called for a protest again after several weeks of clashes."
-     ]
-    ],
-    [
-     [
-      "Protesti traju od sredine oktobra i proširili su se na druge gradove.",
-      "The protests have lasted since mid-October and have spread to other cities."
-     ],
-     [
-      "Demonstranti kažu da su nezadovoljni korupcijom u vladi, nedostatkom posla i lošim uslovima u obrazovanju.",
-      "The protesters say they are unhappy about corruption in the government, the lack of jobs and poor conditions in education."
-     ],
-     [
-      "Prije toga su tokom ljeta održani uglavnom mirni protesti protiv luksuznog projekta na obali, koji podržava Jared Kushner.",
-      "Before that, mostly peaceful protests were held during the summer against a luxury project on the coast, which Jared Kushner supports."
-     ]
-    ],
-    [
-     [
-      "Agencija Reuters piše da je ovo dosad najveći izazov za premijera Edija Ramu.",
-      "The Reuters agency writes that this is the biggest challenge so far for Prime Minister Edi Rama."
-     ],
-     [
-      "On je na vlasti od 2013, a prošle godine je osvojio četvrti mandat.",
-      "He has been in power since 2013, and last year he won a fourth term."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "demonstrant",
-     "protester"
-    ],
-    [
-     "vodeni top",
-     "water cannon"
-    ],
-    [
-     "rastjerati",
-     "to disperse"
-    ],
-    [
-     "sukob",
-     "clash"
-    ],
-    [
-     "korupcija",
-     "corruption"
-    ],
-    [
-     "obrazovanje",
-     "education"
-    ],
-    [
-     "mandat",
-     "term in office"
-    ]
-   ]
-  },
-  {
-   "id": "261107145",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/celik-u-sudijskoj-nadoknadi-ostao-bez-pobjede-u-mostaru-protiv-veleza/261107145",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261107145.jpg",
-   "published": "2026-11-07T17:55:00+01:00",
-   "title": [
-    "Čelik u nadoknadi ostao bez pobjede u Mostaru protiv Veleža",
-    "Čelik left without a win against Velež in Mostar in stoppage time"
-   ],
-   "body": [
-    [
-     [
-      "Velež i Čelik su u 13. kolu Premijer lige BiH odigrali neriješeno 1:1 u Mostaru.",
-      "Velež and Čelik drew 1:1 in Mostar in round 13 of the Bosnian Premier League."
-     ],
-     [
-      "Gosti iz Zenice bili su blizu pobjede, ali su gol primili u sudijskoj nadoknadi.",
-      "The visitors from Zenica were close to victory, but they conceded a goal in stoppage time."
-     ],
-     [
-      "Vidić je doveo Čelik u vodstvo u 59. minuti udarcem lijevom nogom sa oko 18 metara.",
-      "Vidić put Čelik in the lead in the 59th minute with a left-foot shot from about 18 metres."
-     ],
-     [
-      "Gol je prvo provjeravan zbog moguće ofsajda, ali je VAR potvrdio da je regularan.",
-      "The goal was first checked for a possible offside, but VAR confirmed that it was valid."
-     ]
-    ],
-    [
-     [
-      "Velež je u 7. minuti tražio jedanaesterac zbog igranja rukom, ali je sudija Amin Efendić nakon provjere odbio zahtjev.",
-      "In the 7th minute Velež asked for a penalty because of a handball, but referee Amin Efendić rejected the claim after a check."
-     ],
-     [
-      "U 34. minuti golman Ribić je branio udarce Vidića i Gogića.",
-      "In the 34th minute goalkeeper Ribić saved shots from Vidić and Gogić."
-     ],
-     [
-      "Domaći su imali šanse i u nastavku, a Mešić je u 70. minuti promašio dobru priliku.",
-      "The home side also had chances later on, and Mešić missed a good opportunity in the 70th minute."
-     ]
-    ],
-    [
-     [
-      "U 92. minuti Horić je rukom zaustavio loptu nakon centaršuta, pa je Velež dobio jedanaesterac.",
-      "In the 92nd minute Horić stopped the ball with his hand after a cross, so Velež got a penalty."
-     ],
-     [
-      "Hrkać ga je realizovao i spasio bod domaćinima.",
-      "Hrkać scored it and saved a point for the hosts."
-     ],
-     [
-      "Trener Čelika Bojan Regoje isključen je prije kraja utakmice jer je bio nezadovoljan suđenjem.",
-      "Čelik coach Bojan Regoje was sent off before the end of the match because he was unhappy with the refereeing."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "neriješeno",
-     "a draw"
-    ],
-    [
-     "jedanaesterac",
-     "penalty"
-    ],
-    [
-     "nadoknada",
-     "stoppage time"
-    ],
-    [
-     "golman",
-     "goalkeeper"
-    ],
-    [
-     "domaćin",
-     "host"
-    ],
-    [
-     "isključiti",
-     "to send off"
-    ],
-    [
-     "suđenje",
-     "refereeing"
-    ]
-   ]
-  },
-  {
-   "id": "261107118",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/agencija-za-vodno-podrucje-rijeke-save-radna-grupa-za-crnu-rijeku-u-sarajevu-nije-se-sastala-nijednom/261107118",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261107118.jpg",
-   "published": "2026-11-07T17:49:00+01:00",
-   "title": [
-    "Radna grupa za branu na Crnoj rijeci nije se sastala nijednom",
-    "The working group for the Crna rijeka dam has not met even once"
-   ],
-   "body": [
-    [
-     [
-      "Radna grupa koja treba pripremiti projektni zadatak za branu na Crnoj rijeci nije se sastala nijednom.",
-      "The working group that is supposed to prepare the design assignment for the dam on Crna rijeka has not met even once."
-     ],
-     [
-      "To tvrdi Agencija za vodno područje rijeke Save.",
-      "This is what the Sava River Basin Agency says."
-     ],
-     [
-      "Agencija je imenovala svog predstavnika 7. marta 2025, nakon zahtjeva Ministarstva privrede Kantona Sarajevo.",
-      "The agency named its representative on 7 March 2025, after a request from the Ministry of Economy of Sarajevo Canton."
-     ],
-     [
-      "Od tada nije dobila nikakve informacije o radu grupe.",
-      "Since then it has received no information about the group's work."
-     ]
-    ],
-    [
-     [
-      "Ni Bijela ni Crna rijeka nisu u planu upravljanja vodama za period 2022–2027.",
-      "Neither Bijela nor Crna rijeka is in the water management plan for 2022–2027."
-     ],
-     [
-      "Akumulacija na Crnoj rijeci imala bi oko 62,3 miliona kubnih metara vode i površinu od oko 224 hektara.",
-      "The reservoir on Crna rijeka would hold about 62.3 million cubic metres of water and cover about 224 hectares."
-     ],
-     [
-      "Djelimično bi potopila oko 25 vikendica i dio puta Sarajevo–Goražde.",
-      "It would partly flood about 25 weekend houses and part of the Sarajevo–Goražde road."
-     ],
-     [
-      "Od 2000. do 2006. za projekat je potrošeno 1,12 miliona KM.",
-      "From 2000 to 2006, 1.12 million KM was spent on the project."
-     ]
-    ],
-    [
-     [
-      "Ministar Mladen Pandurević rekao je početkom oktobra da projekat još nije počeo.",
-      "Minister Mladen Pandurević said in early October that the project had not started yet."
-     ],
-     [
-      "Agencija je dala i podatke o podzemnim vodama kod Bačeva.",
-      "The agency also gave data on groundwater near Bačevo."
-     ],
-     [
-      "Nivo vode je ove godine u prosjeku 3,17 metara niži nego u periodu 2017–2025, ali nije na desetogodišnjem minimumu.",
-      "The water level this year is on average 3.17 metres lower than in 2017–2025, but it is not at the ten-year minimum."
-     ],
-     [
-      "Kanton Sarajevo je od 2023. do kraja septembra 2026. prikupio oko 70,5 miliona KM vodnih naknada.",
-      "From 2023 to the end of September 2026, Sarajevo Canton collected about 70.5 million KM in water fees."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "radna grupa",
-     "working group"
-    ],
-    [
-     "brana",
-     "dam"
-    ],
-    [
-     "akumulacija",
-     "reservoir"
-    ],
-    [
-     "podzemne vode",
-     "groundwater"
-    ],
-    [
-     "naknada",
-     "fee"
-    ],
-    [
-     "imenovati",
-     "to appoint"
-    ],
-    [
-     "projekat",
-     "project"
-    ]
-   ]
-  },
-  {
-   "id": "261107140",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/showbiz/ruski-voditelj-trazio-od-bikovica-da-govori-srpski-on-uzvratio-je-l-ti-stvarno-mislis-da-mozes-da-skapiras/261107140",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261107140.jpg",
-   "published": "2026-11-07T17:11:00+01:00",
-   "title": [
-    "Biković odgovorio ruskom voditelju koji je tražio da govori srpski",
-    "Biković answered the Russian host who asked him to speak Serbian"
-   ],
-   "body": [
-    [
-     [
-      "Srpski glumac Miloš Biković gostovao je u emisiji \"Šou Volje\" na ruskom kanalu TNT.",
-      "The Serbian actor Miloš Biković was a guest on the show \"Šou Volje\" on the Russian channel TNT."
-     ],
-     [
-      "Voditelj Pavel Volja zamolio ga je da progovori srpski kako bi vidio hoće li ga razumjeti.",
-      "The host Pavel Volja asked him to speak Serbian to see whether he would understand him."
-     ],
-     [
-      "Biković mu je na srpskom uzvratio pitanjem da li stvarno misli da može da shvati kada on priča srpski.",
-      "Biković answered him in Serbian with a question: does he really think he can understand when he speaks Serbian."
-     ],
-     [
-      "Voditelj je bio iznenađen i pokušao je razumjeti barem dio rečenice, a publika je aplaudirala glumcu.",
-      "The host was surprised and tried to understand at least part of the sentence, and the audience applauded the actor."
-     ]
-    ],
-    [
-     [
-      "Snimak je objavljen na Instagram profilu emisije i za tri dana imao je oko 4 miliona pregleda.",
-      "The clip was posted on the show's Instagram profile and had about 4 million views in three days."
-     ],
-     [
-      "Epizoda je emitovana 25. oktobra.",
-      "The episode was broadcast on 25 October."
-     ]
-    ],
-    [
-     [
-      "U razgovoru je Biković pričao i o ocu i porodici.",
-      "In the conversation Biković also talked about being a father and about his family."
-     ],
-     [
-      "Vikende provodi sa suprugom Ivanom i sinom Vasilijem.",
-      "He spends weekends with his wife Ivana and his son Vasilije."
-     ],
-     [
-      "Govorio je i o novom historijskom filmu \"Rođenje imperije\", u kojem igra Aleksandra Menšikova.",
-      "He also spoke about the new historical film \"Rođenje imperije\", in which he plays Alexander Menshikov."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "glumac",
-     "actor"
-    ],
-    [
-     "voditelj",
-     "host"
-    ],
-    [
-     "emisija",
-     "TV show"
-    ],
-    [
-     "gostovati",
-     "to be a guest"
-    ],
-    [
-     "snimak",
-     "clip, recording"
-    ],
-    [
-     "publika",
-     "audience"
-    ],
-    [
-     "pregled",
-     "view"
-    ]
-   ]
-  },
-  {
-   "id": "261107138",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/trump-potvrdio-nove-americke-udare-na-iransko-ostrvo-kesm-unistili-smo-im-protuzracni-uredaj-za-15-minuta/261107138",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261107138.jpg",
-   "published": "2026-11-07T17:07:00+01:00",
-   "title": [
-    "Trump potvrdio nove udare na iransko ostrvo Kešm",
-    "Trump confirmed new strikes on the Iranian island of Qeshm"
-   ],
-   "body": [
-    [
-     [
-      "Donald Trump potvrdio je da su američke snage u noći s petka na subotu izvele nove udare na Iran.",
-      "Donald Trump confirmed that US forces carried out new strikes on Iran on the night from Friday to Saturday."
-     ],
-     [
-      "Meta je bio protuzračni sistem na ostrvu Kešm u Hormuškom moreuzu.",
-      "The target was an air defence system on Qeshm island in the Strait of Hormuz."
-     ],
-     [
-      "Trump je rekao da su to bili manji udari i da su uništili mali protuzračni uređaj za 15 minuta, možda i za pet.",
-      "Trump said these were smaller strikes and that they destroyed a small air defence device in 15 minutes, maybe even five."
-     ],
-     [
-      "Dodao je da SAD pregovaraju s Iranom i da postoji veliki napredak.",
-      "He added that the US is negotiating with Iran and that there is great progress."
-     ]
-    ],
-    [
-     [
-      "Iranski državni mediji javljaju da su dvije rakete pogodile područje Suza na Kešmu, ali nisu naveli štetu.",
-      "Iranian state media report that two missiles hit the Suza area on Qeshm, but they did not say what damage was done."
-     ],
-     [
-      "Državna televizija tvrdi i da je protuzračna odbrana oborila američku bespilotnu letjelicu MQ-9, što niko nije nezavisno potvrdio.",
-      "State television also claims that air defence shot down a US MQ-9 drone, which nobody has independently confirmed."
-     ],
-     [
-      "Američka Centralna komanda nije izdala saopćenje i rekla je samo da je situacija relativno mirna.",
-      "The US Central Command did not issue a statement and said only that the situation is relatively calm."
-     ]
-    ],
-    [
-     [
-      "Katar je odbacio tvrdnje da su pregovori SAD-a i Irana propali.",
-      "Qatar rejected claims that the talks between the US and Iran have failed."
-     ],
-     [
-      "Ovo su prvi američki udari na Iran nakon izbora za Kongres u utorak, na kojima je Trumpova stranka loše prošla.",
-      "These are the first US strikes on Iran since Tuesday's congressional elections, in which Trump's party did badly."
-     ],
-     [
-      "Trump je rezultat objasnio ratom s Iranom.",
-      "Trump explained the result with the war with Iran."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "udar",
-     "strike"
-    ],
-    [
-     "protuzračni",
-     "anti-aircraft"
-    ],
-    [
-     "moreuz",
-     "strait"
-    ],
-    [
-     "raketa",
-     "missile"
-    ],
-    [
-     "bespilotna letjelica",
-     "drone"
-    ],
-    [
-     "pregovori",
-     "negotiations"
-    ],
-    [
-     "saopćenje",
-     "statement"
-    ]
-   ]
-  },
-  {
-   "id": "261107133",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/nauka/posljednji-ledenjak-u-allgau-alpama-mogao-bi-nestati-vec-narednog-ljeta/261107133",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261107133.jpg",
-   "published": "2026-11-07T16:59:00+01:00",
-   "title": [
-    "Posljednji ledenjak u Alpama Allgäu mogao bi nestati do ljeta",
-    "The last glacier in the Allgäu Alps could disappear by summer"
-   ],
-   "body": [
-    [
-     [
-      "Ledenjak Schwarzmilzferner u austrijskom dijelu Alpa Allgäu više se ne smatra ledenjakom.",
-      "The Schwarzmilzferner glacier in the Austrian part of the Allgäu Alps is no longer considered a glacier."
-     ],
-     [
-      "Nalazi se na oko 2.450 metara nadmorske visine, blizu granice Austrije i Njemačke.",
-      "It is located at about 2,450 metres above sea level, near the border between Austria and Germany."
-     ],
-     [
-      "Ovo toplo ljeto smanjilo mu je debljinu za više od 4 metra i uzelo mu oko polovine zapremine.",
-      "This warm summer reduced its thickness by more than 4 metres and took about half of its volume."
-     ]
-    ],
-    [
-     [
-      "Glaciolozi kažu da je kretanje glavna osobina ledenjaka, a Schwarzmilzferner se više ne kreće.",
-      "Glaciologists say that movement is the main feature of a glacier, and Schwarzmilzferner no longer moves."
-     ],
-     [
-      "Naučnici ga prate već 26 godina i bilježe velike gubitke leda od 2016, a od 2022. se taj trend pojačao.",
-      "Scientists have been following it for 26 years and have recorded big ice losses since 2016, and since 2022 this trend has become stronger."
-     ],
-     [
-      "Christoph Mayer s Bavarske akademije nauka rekao je da će on vrlo vjerovatno potpuno nestati do narednog ljeta.",
-      "Christoph Mayer of the Bavarian Academy of Sciences said that it will very likely disappear completely by next summer."
-     ]
-    ],
-    [
-     [
-      "Svake godine nestane nekoliko manjih alpskih ledenjaka jer su ljeta previše topla za njih.",
-      "Every year several smaller Alpine glaciers disappear because summers are too warm for them."
-     ],
-     [
-      "Mayer taj proces opisuje kao praktično nezaustavljiv.",
-      "Mayer describes this process as practically unstoppable."
-     ],
-     [
-      "Očekuje se da će cijele Istočne Alpe ostati bez leda između 2060. i 2070. godine.",
-      "It is expected that the whole of the Eastern Alps will be ice-free between 2060 and 2070."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "ledenjak",
-     "glacier"
-    ],
-    [
-     "nestati",
-     "to disappear"
-    ],
-    [
-     "debljina",
-     "thickness"
-    ],
-    [
-     "zapremina",
-     "volume"
-    ],
-    [
-     "glaciolog",
-     "glaciologist"
-    ],
-    [
-     "trend",
-     "trend"
-    ],
-    [
-     "nezaustavljiv",
-     "unstoppable"
-    ]
-   ]
-  },
-  {
-   "id": "261107129",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/masovna-pucnjava-u-krakowu-ubijeno-pet-osoba-nakon-sto-je-napadac-autom-usao-na-glavni-trg-i-poceo-pucati/261107129",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261107129.jpg",
-   "published": "2026-11-07T16:36:00+01:00",
-   "title": [
-    "Pucnjava u Krakowu: pet mrtvih nakon napada na glavnom trgu",
-    "Shooting in Krakow: five dead after an attack on the main square"
-   ],
-   "body": [
-    [
-     [
-      "U poljskom gradu Krakowu napadač je autom ušao na glavni trg i počeo pucati.",
-      "In the Polish city of Krakow, an attacker drove a car onto the main square and started shooting."
-     ],
-     [
-      "Policija kaže da je pucao na nasumične prolaznike.",
-      "Police say he shot at random passersby."
-     ],
-     [
-      "Najmanje pet osoba je ubijeno, a više od deset je povrijeđeno.",
-      "At least five people were killed and more than ten were injured."
-     ]
-    ],
-    [
-     [
-      "Policija je objavila vijest na mreži X oko 15:00 po lokalnom vremenu.",
-      "Police posted the news on the network X at about 15:00 local time."
-     ],
-     [
-      "Prvo je rekla da je napadač uhapšen, a kasnije da su ga policajci ranili i odveli u bolnicu.",
-      "First they said the attacker had been arrested, and later that officers had wounded him and taken him to hospital."
-     ],
-     [
-      "Među povrijeđenima su i policajci.",
-      "Police officers are among the injured."
-     ],
-     [
-      "Gradska uprava potvrdila je pucnjavu i rekla da policija radi i u ulici Dietla.",
-      "The city administration confirmed the shooting and said police were also working on Dietla street."
-     ]
-    ],
-    [
-     [
-      "Motiv napada i identitet žrtava još nisu poznati.",
-      "The motive for the attack and the victims' identities are not yet known."
-     ],
-     [
-      "Premijer Donald Tusk rekao je da policija istražuje pozadinu i okolnosti napada.",
-      "Prime Minister Donald Tusk said the police are investigating the background and circumstances of the attack."
-     ],
-     [
-      "Krakow je drugi po veličini grad u Poljskoj, a njegov glavni trg je jedno od najposjećenijih mjesta u zemlji.",
-      "Krakow is the second largest city in Poland, and its main square is one of the most visited places in the country."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "napadač",
-     "attacker"
-    ],
-    [
-     "pucati",
-     "to shoot"
-    ],
-    [
-     "prolaznik",
-     "passerby"
-    ],
-    [
-     "povrijeđen",
-     "injured"
-    ],
-    [
-     "žrtva",
-     "victim"
-    ],
-    [
-     "istraživati",
-     "to investigate"
-    ],
-    [
-     "motiv",
-     "motive"
-    ]
-   ]
-  },
-  {
-   "id": "261107117",
-   "source": "Klix.ba",
-   "section": "Zdravlje",
-   "url": "https://www.klix.ba/lifestyle/zdravlje/gradani-sarajeva-donirali-kosu-djeci-oboljeloj-od-raka-iza-svakog-pramena-je-prica-o-ljubavi-i-solidarnosti/261107117",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261107117.jpg",
-   "published": "2026-11-07T15:23:00+01:00",
-   "title": [
-    "Građani Sarajeva donirali kosu djeci oboljeloj od raka",
-    "Citizens of Sarajevo donated hair to children with cancer"
-   ],
-   "body": [
-    [
-     [
-      "U Sarajevu su mnogi građani, mladi i stariji, donirali kosu za djecu oboljelu od raka.",
-      "In Sarajevo many citizens, young and old, donated hair for children with cancer."
-     ],
-     [
-      "Šišanje je dio projekta \"Moja kosa, tvoja kosa\" koji vodi Udruženje Srce za djecu oboljelu od raka.",
-      "The haircut event is part of the project \"Moja kosa, tvoja kosa\", run by the association Srce for children with cancer."
-     ],
-     [
-      "Direktor Fikret Kubat objasnio je da donirana kosa pomaže djeci da dobiju perike, koje im donose radost i utjehu.",
-      "Director Fikret Kubat explained that donated hair helps children get wigs, which bring them joy and comfort."
-     ]
-    ],
-    [
-     [
-      "Perike pravi dvoje majstora, a za jednu je potrebno oko 20 pramenova kose.",
-      "Two craftspeople make the wigs, and about 20 strands of hair are needed for one."
-     ],
-     [
-      "Za devet godina projekta napravljeno je 116 perika, a djeca čine 80 posto donatora.",
-      "In nine years of the project 116 wigs have been made, and children make up 80 percent of the donors."
-     ],
-     [
-      "Ove godine je napravljeno 10 perika, 5 je popravljeno, a primljeno je oko 2.300 donacija kose.",
-      "This year 10 wigs were made, 5 were repaired, and about 2,300 hair donations were received."
-     ]
-    ],
-    [
-     [
-      "Kosa mora biti prirodna, neofarbana, bez hemijskih tretmana, duga najmanje 40 centimetara, čista i potpuno suha.",
-      "The hair must be natural, undyed, without chemical treatments, at least 40 centimetres long, clean and completely dry."
-     ],
-     [
-      "Projekat se može podržati i pozivom na broj 17010, kojim se donira 2 KM.",
-      "The project can also be supported by calling 17010, which donates 2 KM."
-     ],
-     [
-      "Kubat je rekao da je iza svakog doniranog pramena priča o ljubavi i solidarnosti.",
-      "Kubat said that behind every donated strand there is a story of love and solidarity."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "kosa",
-     "hair"
-    ],
-    [
-     "donirati",
-     "to donate"
-    ],
-    [
-     "perika",
-     "wig"
-    ],
-    [
-     "pramen",
-     "strand"
-    ],
-    [
-     "šišanje",
-     "haircut"
-    ],
-    [
-     "udruženje",
-     "association"
-    ],
-    [
-     "solidarnost",
-     "solidarity"
     ]
    ]
   }
