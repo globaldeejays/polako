@@ -1,18 +1,798 @@
 {
- "updated": "2026-11-10T07:50:00+01:00",
+ "updated": "2026-11-10T13:30:00+01:00",
  "front": [
-  "261110022",
-  "261110005",
-  "261110010",
-  "261110006",
-  "261109135",
-  "261110003",
-  "261109329",
+  "261110146",
+  "261110111",
+  "261110148",
+  "261110122",
+  "261110110",
+  "261110107",
   "261110024",
-  "261110009"
+  "261110065",
+  "261110053"
  ],
  "level": "A2",
  "articles": [
+  {
+   "id": "261110148",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/steta-ostaje-ministar-do-nove-vlade-ks-mandat-stavlja-u-mirovanje-necemo-blokirati-procese-kako-neki-prizeljkuju/261110148",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261110148.jpg",
+   "published": "2026-11-10T13:15:00+01:00",
+   "title": [
+    "Šteta ostaje ministar do nove Vlade KS",
+    "Šteta stays minister until the new KS government"
+   ],
+   "body": [
+    [
+     [
+      "Adnan Šteta, ministar saobraćaja Kantona Sarajevo, ostat će na funkciji do imenovanja nove vlade.",
+      "Adnan Šteta, the Sarajevo Canton transport minister, will stay in office until a new government is appointed."
+     ],
+     [
+      "On je član SDP-a BiH.",
+      "He is a member of SDP BiH."
+     ],
+     [
+      "Svoj mandat u Skupštini Kantona Sarajevo stavlja u mirovanje, a preuzet će ga kada se vlada formira.",
+      "He is putting his mandate in the Sarajevo Canton Assembly on hold, and he will take it up once the government is formed."
+     ],
+     [
+      "Odluku je objavio na društvenoj mreži.",
+      "He announced the decision on social media."
+     ]
+    ],
+    [
+     [
+      "Zahvalio je biračima na 21.824 glasa.",
+      "He thanked voters for 21,824 votes."
+     ],
+     [
+      "Kaže da je to najviše glasova koje je dobio ijedan kandidat za kantonalne skupštine u Federaciji BiH.",
+      "He says this is the most votes received by any candidate for cantonal assemblies in the Federation of BiH."
+     ],
+     [
+      "Pozvao je novu skupštinsku većinu da što prije formira vladu.",
+      "He called on the new assembly majority to form the government as soon as possible."
+     ],
+     [
+      "Prije nego što dođe nasljednik, predstavit će izvještaj o radu u 10 oblasti.",
+      "Before his successor arrives, he will present a report on his work in 10 areas."
+     ]
+    ],
+    [
+     [
+      "Taj izvještaj opisuje završene i otvorene projekte, kao i planirane aktivnosti.",
+      "The report describes completed and ongoing projects, as well as planned activities."
+     ],
+     [
+      "Šteta kaže da će tako olakšati predaju dužnosti.",
+      "Šteta says this will make the handover easier."
+     ],
+     [
+      "SDP će, rekao je, preuzeti političku odgovornost u skladu s povjerenjem građana.",
+      "SDP will, he said, take political responsibility in line with citizens' trust."
+     ],
+     [
+      "Dodao je da njegova stranka neće blokirati procese kako neki priželjkuju.",
+      "He added that his party will not block processes as some wish."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "ministar",
+     "minister"
+    ],
+    [
+     "mandat",
+     "mandate"
+    ],
+    [
+     "vlada",
+     "government"
+    ],
+    [
+     "skupština",
+     "assembly"
+    ],
+    [
+     "birač",
+     "voter"
+    ],
+    [
+     "nasljednik",
+     "successor"
+    ],
+    [
+     "izvještaj",
+     "report"
+    ]
+   ]
+  },
+  {
+   "id": "261110146",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/ko-je-alexander-alden-nekada-mulabdic-trumpov-covjek-koji-snazno-zagovara-dodikovu-politiku-u-sarajevu-upozoravao-evropljane/261110146",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261110146.jpg",
+   "published": "2026-11-10T13:05:00+01:00",
+   "title": [
+    "Ko je Alden, Trumpov čovjek za politiku prema Dodiku",
+    "Who is Alden, the Trump aide behind the policy on Dodik"
+   ],
+   "body": [
+    [
+     [
+      "Američki medij Semafor objavio je tekst o Alexanderu Aldenu, nekada Mulabdiću.",
+      "The US outlet Semafor has published an article about Alexander Alden, formerly Mulabdić."
+     ],
+     [
+      "On je savjetnik državnog sekretara Marca Rubija i Trumpov kandidat za ambasadora u Azerbejdžanu.",
+      "He is an adviser to Secretary of State Marco Rubio and Trump's nominee for ambassador to Azerbaijan."
+     ],
+     [
+      "Prema više od šest izvora, imao je vodeću ulogu u politici Vašingtona prema Miloradu Dodiku i Republici Srpskoj.",
+      "According to more than six sources, he had a leading role in Washington's policy towards Milorad Dodik and Republika Srpska."
+     ],
+     [
+      "Neki kolege su ga, kažu izvori, zvali Srbinom u State Departmentu.",
+      "Some colleagues, the sources say, called him a Serb in the State Department."
+     ]
+    ],
+    [
+     [
+      "Pet izvora tvrdi da je u junu na sastancima o BiH pritiskao evropske zvaničnike da prihvate američkog kandidata za visokog predstavnika.",
+      "Five sources claim that in June, at meetings about BiH, he pressed European officials to accept the US candidate for High Representative."
+     ],
+     [
+      "Dvojica izvora kažu da je lično izabrao italijanskog diplomatu Antonija Zanardija Landija, ali su ga Evropljani odbili.",
+      "Two sources say he personally chose the Italian diplomat Antonio Zanardi Landi, but the Europeans rejected him."
+     ],
+     [
+      "Vlada Republike Srpske je od 2025. potrošila više od 11 miliona dolara na lobiranje kod Trumpove administracije.",
+      "Since 2025, the government of Republika Srpska has spent more than 11 million dollars on lobbying the Trump administration."
+     ],
+     [
+      "To je otprilike četiri puta više nego u periodu od 2022. do 2024.",
+      "That is about four times more than in the period from 2022 to 2024."
+     ]
+    ],
+    [
+     [
+      "Senatorica Jeanne Shaheen poručila je da oni koji su iskvarili američku politiku moraju odgovarati.",
+      "Senator Jeanne Shaheen said that those who corrupted US policy must be held accountable."
+     ],
+     [
+      "State Department tvrdi da Alden uživa puno povjerenje rukovodstva.",
+      "The State Department says that Alden enjoys the full confidence of the leadership."
+     ],
+     [
+      "Senatori su razmatrali njegovu nominaciju, ali ga nije bilo na dnevnom redu.",
+      "Senators have considered his nomination, but he was not on the agenda."
+     ],
+     [
+      "Semafor navodi da bi mogao dobiti pitanja o lobiranju za interese Republike Srpske.",
+      "Semafor reports that he could get questions about lobbying for the interests of Republika Srpska."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "savjetnik",
+     "adviser"
+    ],
+    [
+     "ambasador",
+     "ambassador"
+    ],
+    [
+     "izvor",
+     "source"
+    ],
+    [
+     "lobiranje",
+     "lobbying"
+    ],
+    [
+     "visoki predstavnik",
+     "High Representative"
+    ],
+    [
+     "nominacija",
+     "nomination"
+    ]
+   ]
+  },
+  {
+   "id": "261110107",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/dennis-hadzikadunic-zvanicno-propusta-duele-protiv-svedske-i-rumunije/261110107",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261110107.jpg",
+   "published": "2026-11-10T12:40:00+01:00",
+   "title": [
+    "Hadžikadunić propušta utakmice sa Švedskom i Rumunijom",
+    "Hadžikadunić misses the matches against Sweden and Romania"
+   ],
+   "body": [
+    [
+     [
+      "Odbrambeni igrač Dennis Hadžikadunić neće igrati protiv Švedske i Rumunije.",
+      "Defender Dennis Hadžikadunić will not play against Sweden and Romania."
+     ],
+     [
+      "Obje utakmice su dio Lige nacija.",
+      "Both matches are part of the Nations League."
+     ],
+     [
+      "Savez je objavio da je on na pripreme došao povrijeđen.",
+      "The federation announced that he came to the preparations already injured."
+     ],
+     [
+      "Danas nije trenirao u Butmiru.",
+      "He did not train today in Butmir."
+     ]
+    ],
+    [
+     [
+      "Prema pisanju Liste, riječ je o rupturi mišića lijeve potkoljenice.",
+      "According to Lista, it is a ruptured muscle in the left lower leg."
+     ],
+     [
+      "Vijest je stigla na samom početku priprema pod selektorom Sergejom Barbarezom.",
+      "The news came right at the start of preparations under coach Sergej Barbarez."
+     ],
+     [
+      "Za Barbareza je to veliki problem, jer je Hadžikadunić važan igrač u odbrani.",
+      "For Barbarez this is a big problem, because Hadžikadunić is an important player in defence."
+     ],
+     [
+      "Reprezentacija je tek obavila drugi trening.",
+      "The national team has only just held its second training session."
+     ]
+    ],
+    [
+     [
+      "Hadžikadunić je i u septembru i oktobru propustio utakmice reprezentacije.",
+      "Hadžikadunić also missed national team matches in September and October."
+     ],
+     [
+      "Tada je tek pokušavao uhvatiti formu nakon prelaska u Hajduk iz Splita.",
+      "At that time he was still trying to find form after moving to Hajduk from Split."
+     ],
+     [
+      "Sada je redovno u prvoj postavi kluba i dobro igra ove sezone.",
+      "Now he regularly starts for the club and is playing well this season."
+     ],
+     [
+      "Zato je njegova povreda još veća šteta za Zmajeve.",
+      "That is why his injury is an even bigger loss for the Dragons."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "odbrambeni igrač",
+     "defender"
+    ],
+    [
+     "povreda",
+     "injury"
+    ],
+    [
+     "mišić",
+     "muscle"
+    ],
+    [
+     "trening",
+     "training"
+    ],
+    [
+     "selektor",
+     "national team coach"
+    ],
+    [
+     "reprezentacija",
+     "national team"
+    ],
+    [
+     "pripreme",
+     "preparations"
+    ]
+   ]
+  },
+  {
+   "id": "261110111",
+   "source": "Klix.ba",
+   "section": "Biznis",
+   "url": "https://www.klix.ba/biznis/ekonomija/edhem-bicakcic-do-350-kwh-potrosnje-struja-ne-mora-poskupjeti-ostalima-poskupljenje-nece-biti-malo/261110111",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261110111.jpg",
+   "published": "2026-11-10T12:20:00+01:00",
+   "title": [
+    "Bičakčić: Do 350 kWh struja ne mora poskupjeti",
+    "Bičakčić: Electricity does not have to get more expensive up to 350 kWh"
+   ],
+   "body": [
+    [
+     [
+      "Elektroprivreda BiH ne isključuje poskupljenje struje za domaćinstva u 2027. godini.",
+      "Elektroprivreda BiH does not rule out a rise in electricity prices for households in 2027."
+     ],
+     [
+      "Odluka se očekuje do sredine decembra.",
+      "A decision is expected by mid-December."
+     ],
+     [
+      "Edhem Bičakčić, počasni predsjednik komiteta CIGRE, rekao je za Klix.ba da bi domaćinstva do 350 kWh mjesečno mogla proći bez poskupljenja.",
+      "Edhem Bičakčić, honorary president of the CIGRE committee, told Klix.ba that households using up to 350 kWh a month could avoid a price rise."
+     ],
+     [
+      "On smatra da bi ostali potrošači morali platiti više.",
+      "He thinks other consumers would have to pay more."
+     ]
+    ],
+    [
+     [
+      "U Federaciji BiH vrijedi blok tarifa, a potrošnja do 350 kWh smatra se socijalnom kategorijom.",
+      "In the Federation of BiH a block tariff applies, and consumption up to 350 kWh is seen as a social category."
+     ],
+     [
+      "Za industriju je već najavljeno poskupljenje od 30 posto, što je veliki udarac za privredu.",
+      "A 30 percent rise has already been announced for industry, which is a big blow to the economy."
+     ],
+     [
+      "Bičakčić kaže da su Koksara i Željezara već stali s radom.",
+      "Bičakčić says that Koksara and Željezara have already stopped working."
+     ],
+     [
+      "Dodaje da su računi za struju trenutno niži od računa za internet i kablovsku televiziju, što on ne smatra normalnim.",
+      "He adds that electricity bills are currently lower than bills for internet and cable TV, which he does not consider normal."
+     ]
+    ],
+    [
+     [
+      "Grijanje na struju je sada najjeftinije, pa se mnogi domaćinstva vraćaju s drva i peleta na struju.",
+      "Electric heating is now the cheapest, so many households are switching from wood and pellets to electricity."
+     ],
+     [
+      "Socijalno ugrožene porodice mogu se prijaviti za besplatne solarne panele.",
+      "Socially vulnerable families can apply for free solar panels."
+     ],
+     [
+      "Domaćinstva s većom potrošnjom mogu dobiti podršku do 7.000 KM.",
+      "Households with higher consumption can get support of up to 7,000 KM."
+     ],
+     [
+      "Bičakčić je rekao da zapošljavanje u Elektroprivredi ne može ići po stranačkoj liniji.",
+      "Bičakčić said that hiring in Elektroprivreda cannot follow party lines."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "struja",
+     "electricity"
+    ],
+    [
+     "poskupljenje",
+     "price rise"
+    ],
+    [
+     "domaćinstvo",
+     "household"
+    ],
+    [
+     "potrošnja",
+     "consumption"
+    ],
+    [
+     "tarifa",
+     "tariff"
+    ],
+    [
+     "industrija",
+     "industry"
+    ],
+    [
+     "solarni panel",
+     "solar panel"
+    ]
+   ]
+  },
+  {
+   "id": "261110122",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/objavljen-snimak-iz-zraka-s-mjesta-stravicne-nesrece-u-bugarskoj-ucestvovalo-50-automobila-poginulo-11-osoba/261110122",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261110122.jpg",
+   "published": "2026-11-10T12:00:00+01:00",
+   "title": [
+    "Bugarska: u lančanom sudaru poginulo 11 osoba",
+    "Bulgaria: 11 people died in a chain-reaction crash"
+   ],
+   "body": [
+    [
+     [
+      "U Bugarskoj se u utorak oko 7 sati dogodila velika saobraćajna nesreća.",
+      "A big traffic accident happened in Bulgaria on Tuesday around 7 a.m."
+     ],
+     [
+      "Na autoputu Trakija, blizu grada Jambola, sudarilo se oko 50 vozila.",
+      "On the Trakia motorway, near the town of Yambol, about 50 vehicles collided."
+     ],
+     [
+      "Među njima su bili automobili, autobusi, kombiji i kamioni.",
+      "They included cars, buses, vans and trucks."
+     ],
+     [
+      "Premijer Rumen Radev rekao je da je poginulo najmanje 11 osoba.",
+      "Prime Minister Rumen Radev said that at least 11 people died."
+     ]
+    ],
+    [
+     [
+      "Povrijeđeno je oko 50 ljudi, a svi su prevezeni u bolnice.",
+      "About 50 people were injured, and all were taken to hospitals."
+     ],
+     [
+      "Vlasti kažu da su uzroci gusta magla, mokar kolovoz i prevelika brzina.",
+      "Authorities say the causes were thick fog, a wet road and too much speed."
+     ],
+     [
+      "Autoput je zatvoren u oba smjera.",
+      "The motorway is closed in both directions."
+     ],
+     [
+      "Snimak iz zraka, koji je objavila televizija Nova, pokazuje smrskana i prevrnuta vozila na više od šest traka.",
+      "Aerial footage released by Nova TV shows crushed and overturned vehicles across more than six lanes."
+     ]
+    ],
+    [
+     [
+      "Radev je za nesreću saznao dok je putovao u Varnu na sastanak s Ursulom von der Leyen.",
+      "Radev learned of the crash while travelling to Varna for a meeting with Ursula von der Leyen."
+     ],
+     [
+      "Naredio je ministru unutrašnjih poslova da odmah ode u Burgas i prebaci povrijeđene u Sofiju.",
+      "He ordered the interior minister to go to Burgas immediately and move the injured to Sofia."
+     ],
+     [
+      "Radev je najavio i da će posjetiti mjesto nesreće.",
+      "Radev also announced that he would visit the crash site."
+     ],
+     [
+      "Predsjednica Evropske komisije izrazila je saučešće porodicama žrtava.",
+      "The President of the European Commission expressed condolences to the victims' families."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "nesreća",
+     "accident"
+    ],
+    [
+     "sudar",
+     "collision"
+    ],
+    [
+     "autoput",
+     "motorway"
+    ],
+    [
+     "magla",
+     "fog"
+    ],
+    [
+     "povrijeđen",
+     "injured"
+    ],
+    [
+     "saučešće",
+     "condolences"
+    ],
+    [
+     "premijer",
+     "prime minister"
+    ]
+   ]
+  },
+  {
+   "id": "261110110",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/zeljeznicar-u-osmini-finala-gostuje-u-mostaru-borac-na-ispitu-u-gabeli/261110110",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261110110.jpg",
+   "published": "2026-11-10T12:00:00+01:00",
+   "title": [
+    "Kup BiH: Željezničar gostuje u Mostaru, Borac u Gabeli",
+    "BiH Cup: Željezničar plays away in Mostar, Borac in Gabela"
+   ],
+   "body": [
+    [
+     [
+      "U Nogometnom savezu BiH održan je žrijeb osmine finala Kupa Bosne i Hercegovine.",
+      "The draw for the round of 16 of the Bosnia and Herzegovina Cup was held at the Football Association of BiH."
+     ],
+     [
+      "Željezničar će gostovati u Mostaru kod Zrinjskog.",
+      "Željezničar will play away at Zrinjski in Mostar."
+     ],
+     [
+      "Borac iz Banje Luke igrat će kod GOŠK-a u Gabeli.",
+      "Borac from Banja Luka will play GOŠK in Gabela."
+     ],
+     [
+      "Utakmice su na rasporedu 30. i 31. januara 2027. godine.",
+      "The matches are scheduled for 30 and 31 January 2027."
+     ]
+    ],
+    [
+     [
+      "Među ostalim parovima su Famos i Posušje, Radnik i TOŠK te Tomislav i Travnik.",
+      "Other pairs include Famos and Posušje, Radnik and TOŠK, and Tomislav and Travnik."
+     ],
+     [
+      "Igra se samo jedna utakmica, pa nema popravnog ispita.",
+      "Only one match is played, so there is no second chance."
+     ],
+     [
+      "Ako nakon 90 minuta nema pobjednika, odmah slijede jedanaesterci.",
+      "If there is no winner after 90 minutes, penalties follow straight away."
+     ],
+     [
+      "Od četvrtfinala se igra dvomeč, kod kuće i u gostima.",
+      "From the quarter-finals, two legs are played, at home and away."
+     ]
+    ],
+    [
+     [
+      "Već su poznati i mogući parovi četvrtfinala.",
+      "The possible quarter-final pairs are also already known."
+     ],
+     [
+      "Pobjednik para Zrinjski i Željezničar igrat će protiv pobjednika para Zvijezda i Čelik.",
+      "The winner of Zrinjski and Željezničar will play the winner of Zvijezda and Čelik."
+     ],
+     [
+      "Pobjednik para GOŠK i Borac čeka pobjednika para Sloga i BSK.",
+      "The winner of GOŠK and Borac will face the winner of Sloga and BSK."
+     ],
+     [
+      "Tačni termini bit će objavljeni nakon žrijeba za četvrtfinale.",
+      "The exact dates will be announced after the quarter-final draw."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "žrijeb",
+     "draw"
+    ],
+    [
+     "osmina finala",
+     "round of 16"
+    ],
+    [
+     "gostovati",
+     "to play away"
+    ],
+    [
+     "utakmica",
+     "match"
+    ],
+    [
+     "jedanaesterci",
+     "penalties"
+    ],
+    [
+     "četvrtfinale",
+     "quarter-final"
+    ],
+    [
+     "pobjednik",
+     "winner"
+    ]
+   ]
+  },
+  {
+   "id": "261110065",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/kultura/dino-mustafic-o-optuzbama-da-je-doveo-narodno-pozoriste-sarajevo-do-kolapsa-nisam-ostavio-ni-fening-duga/261110065",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261110065.jpg",
+   "published": "2026-11-10T10:40:00+01:00",
+   "title": [
+    "Mustafić: Nisam ostavio ni fening duga Narodnom pozorištu",
+    "Mustafić: I did not leave a single fening of debt at the National Theatre"
+   ],
+   "body": [
+    [
+     [
+      "Reditelj Dino Mustafić odbacio je optužbe da je Narodno pozorište Sarajevo doveo do kolapsa.",
+      "Director Dino Mustafić has rejected accusations that he brought the National Theatre Sarajevo to collapse."
+     ],
+     [
+      "Bio je direktor te ustanove, a o tome je govorio na BHRT-u.",
+      "He was the director of that institution, and he spoke about it on BHRT."
+     ],
+     [
+      "Rekao je da nije ostavio ni fening duga.",
+      "He said that he did not leave a single fening of debt."
+     ],
+     [
+      "Objasnio je da direktor ne može praviti dugove bez dokumenata i strogog nadzora ministarstava kulture i finansija.",
+      "He explained that a director cannot make debts without documents and strict oversight by the ministries of culture and finance."
+     ]
+    ],
+    [
+     [
+      "Naveo je i brojke o radu pozorišta.",
+      "He also gave figures about the theatre's work."
+     ],
+     [
+      "Vlastiti prihodi bili su oko 900.000 KM u 2023, milion KM u 2024. i 1.425.000 KM u 2025.",
+      "Its own revenue was about 900,000 KM in 2023, 1 million KM in 2024 and 1,425,000 KM in 2025."
+     ],
+     [
+      "Od 2021. do 2025. bilo je 48 premijera, 34 nagrade i više od 200.000 gledalaca.",
+      "From 2021 to 2025 there were 48 premieres, 34 awards and more than 200,000 viewers."
+     ],
+     [
+      "Pozorište je, kaže, nastupilo i na 98 festivala.",
+      "The theatre, he says, also performed at 98 festivals."
+     ]
+    ],
+    [
+     [
+      "Govorio je i o zgradi pozorišta.",
+      "He also spoke about the theatre building."
+     ],
+     [
+      "Prema ugovoru koji je potpisao, fasada je trebala biti gotova do 31. decembra 2025, ali taj rok nije ispoštovan.",
+      "According to the contract he signed, the facade was to be finished by 31 December 2025, but that deadline was not met."
+     ],
+     [
+      "Kritikovao je i političke napade na Narodno pozorište.",
+      "He also criticised political attacks on the National Theatre."
+     ],
+     [
+      "Spomenuo je i Omladinsko pozorište u Mostaru, koje nakon 54 godine prijeti zatvaranje.",
+      "He also mentioned the Youth Theatre in Mostar, which faces closure after 54 years."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "reditelj",
+     "director"
+    ],
+    [
+     "optužba",
+     "accusation"
+    ],
+    [
+     "dug",
+     "debt"
+    ],
+    [
+     "prihod",
+     "revenue"
+    ],
+    [
+     "premijera",
+     "premiere"
+    ],
+    [
+     "fasada",
+     "facade"
+    ],
+    [
+     "pozorište",
+     "theatre"
+    ]
+   ]
+  },
+  {
+   "id": "261110053",
+   "source": "Klix.ba",
+   "section": "Tehnologija",
+   "url": "https://www.klix.ba/scitech/nauka/spacex-ce-prvi-put-pokusati-uhvatiti-obje-faze-starshipa/261110053",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261110053.jpg",
+   "published": "2026-11-10T08:40:00+01:00",
+   "title": [
+    "SpaceX prvi put pokušava uhvatiti oba dijela Starshipa",
+    "SpaceX tries for the first time to catch both parts of Starship"
+   ],
+   "body": [
+    [
+     [
+      "SpaceX planira prvi put uhvatiti oba dijela svoje velike rakete Starship.",
+      "SpaceX plans to catch both parts of its big Starship rocket for the first time."
+     ],
+     [
+      "To su prvi stepen Super Heavy i gornji dio, nazvan Starship.",
+      "These are the first stage Super Heavy and the upper part, called Starship."
+     ],
+     [
+      "Petnaesti probni let planiran je za petak, 13. novembra, u terminu od 75 minuta.",
+      "The 15th test flight is planned for Friday, 13 November, in a 75-minute window."
+     ],
+     [
+      "Oba dijela trebala bi se vratiti na lansirno mjesto Starbase u južnom Teksasu.",
+      "Both parts should return to the Starbase launch site in southern Texas."
+     ]
+    ],
+    [
+     [
+      "Tamo ih hvataju metalne ruke tornja, koje zovu štapići za jelo.",
+      "There, metal arms of the tower, which they call chopsticks, catch them."
+     ],
+     [
+      "Super Heavy bi se trebao vratiti oko 6,5 minuta nakon polijetanja.",
+      "Super Heavy should return about 6.5 minutes after liftoff."
+     ],
+     [
+      "SpaceX je do sada tri puta uhvatio prvi stepen, ali nikada nije pokušao uhvatiti gornji dio.",
+      "SpaceX has caught the first stage three times so far, but has never tried to catch the upper part."
+     ],
+     [
+      "To je teže jer gornji dio leti više i dalje.",
+      "This is harder because the upper part flies higher and farther."
+     ]
+    ],
+    [
+     [
+      "Starship bi trebao stići u orbitu i ispustiti 26 satelita Starlink V3.",
+      "Starship should reach orbit and release 26 Starlink V3 satellites."
+     ],
+     [
+      "Oko Zemlje će kružiti na visini od oko 275 kilometara, otprilike 14 puta, više od 22 sata.",
+      "It will circle the Earth at a height of about 275 kilometres, roughly 14 times, for more than 22 hours."
+     ],
+     [
+      "Prethodni let, 28. septembra, završio je slijetanjem u Tihi okean nakon tri sata.",
+      "The previous flight, on 28 September, ended with a landing in the Pacific Ocean after three hours."
+     ],
+     [
+      "Ako nešto pođe po zlu, SpaceX će odustati od povratka na Starbase.",
+      "If something goes wrong, SpaceX will give up on the return to Starbase."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "raketa",
+     "rocket"
+    ],
+    [
+     "lansiranje",
+     "launch"
+    ],
+    [
+     "orbita",
+     "orbit"
+    ],
+    [
+     "satelit",
+     "satellite"
+    ],
+    [
+     "polijetanje",
+     "takeoff"
+    ],
+    [
+     "uhvatiti",
+     "to catch"
+    ],
+    [
+     "probni let",
+     "test flight"
+    ]
+   ]
+  },
   {
    "id": "261110024",
    "source": "Klix.ba",
@@ -4790,742 +5570,6 @@
     [
      "postepeno",
      "gradually"
-    ]
-   ]
-  },
-  {
-   "id": "261108013",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/rusija-je-detaljno-pratila-izbore-u-sad-u-pitaju-se-hoce-li-rezultati-ograniciti-pristup-trumpa-moskvi/261108013",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261108013.jpg",
-   "published": "2026-11-08T07:40:00+01:00",
-   "title": [
-    "Rusija pažljivo pratila izbore u SAD-u",
-    "Russia followed the US elections closely"
-   ],
-   "body": [
-    [
-     [
-      "Rusija je pažljivo pratila izbore u SAD-u, a sada se pitaju hoće li rezultati ograničiti Trumpov pristup Moskvi.",
-      "Russia followed the US elections closely, and now people ask whether the results will limit Trump's approach to Moscow."
-     ],
-     [
-      "Republikanci su izgubili većinu, pa bi demokrate u januaru mogle preuzeti Kongres.",
-      "The Republicans lost their majority, so the Democrats could take over Congress in January."
-     ],
-     [
-      "Kremlj ipak očekuje da će Trump nastaviti svoje mirovne napore.",
-      "The Kremlin still expects that Trump will continue his peace efforts."
-     ],
-     [
-      "Glasnogovornik Dmitrij Peskov rekao je da već postoje temelji za razgovore.",
-      "Spokesman Dmitry Peskov said that foundations for talks already exist."
-     ]
-    ],
-    [
-     [
-      "Nova runda pregovora Rusije, Ukrajine i SAD-a trebala bi uskoro biti u Abu Dabiju.",
-      "A new round of talks between Russia, Ukraine and the USA should take place soon in Abu Dhabi."
-     ],
-     [
-      "Prošlog mjeseca Trump je dozvolio uvoz dizela iz Rusije i privremeno zaustavio nove sankcije.",
-      "Last month Trump allowed diesel imports from Russia and temporarily stopped new sanctions."
-     ],
-     [
-      "To je naljutilo Kijev i evropske saveznike.",
-      "This angered Kyiv and European allies."
-     ],
-     [
-      "Ukrajina traži brže isporuke projektila Patriot, a SAD su 30. oktobra odobrile prodaju vrijednu 2,1 milijardu dolara.",
-      "Ukraine wants faster deliveries of Patriot missiles, and on 30 October the USA approved a sale worth 2.1 billion dollars."
-     ]
-    ],
-    [
-     [
-      "Medvedev smatra da Trumpu nije potreban dodatni sukob s demokratama.",
-      "Medvedev thinks Trump does not need an extra conflict with the Democrats."
-     ],
-     [
-      "Zelenski je rekao da bi rezultat mogao povećati šanse za dodatnu pomoć.",
-      "Zelensky said the result could increase the chances of extra aid."
-     ],
-     [
-      "Analitičari upozoravaju da Kongres može pojačati pritisak, ali predsjednik i dalje ima velika ovlaštenja u vanjskoj politici.",
-      "Analysts warn that Congress can increase pressure, but the president still has broad powers in foreign policy."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "izbori",
-     "elections"
-    ],
-    [
-     "Kongres",
-     "Congress"
-    ],
-    [
-     "glasnogovornik",
-     "spokesperson"
-    ],
-    [
-     "pregovori",
-     "negotiations"
-    ],
-    [
-     "sankcije",
-     "sanctions"
-    ],
-    [
-     "pomoć",
-     "aid"
-    ],
-    [
-     "većina",
-     "majority"
-    ]
-   ]
-  },
-  {
-   "id": "261108005",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/internetom-se-siri-urnebesna-teorija-da-li-je-donald-trump-ponudio-posao-pogresnom-dani-whiteu/261108005",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261108005.jpg",
-   "published": "2026-11-08T07:20:00+01:00",
-   "title": [
-    "Je li Trump ponudio posao pogrešnom Dani Whiteu?",
-    "Did Trump offer a job to the wrong Dana White?"
-   ],
-   "body": [
-    [
-     [
-      "Na internetu se širi teorija da je Donald Trump ponudio posao pogrešnoj osobi.",
-      "A theory is spreading online that Donald Trump offered a job to the wrong person."
-     ],
-     [
-      "U subotu je na mreži Truth Social pozvao Danu Whitea, šefa UFC-a, da postane glasnogovornik Bijele kuće.",
-      "On Saturday he invited Dana White, the head of the UFC, on Truth Social to become the White House press secretary."
-     ],
-     [
-      "Zamolio ga je da dovede šest boraca kao pomoćnike, među njima Khabiba Nurmagomedova i Islama Makhacheva.",
-      "He asked him to bring six fighters as assistants, among them Khabib Nurmagomedov and Islam Makhachev."
-     ]
-    ],
-    [
-     [
-      "Novinar Adam Cochran napisao je da je na užoj listi bila Dana W. White, bivša glasnogovornica Pentagona.",
-      "Journalist Adam Cochran wrote that Dana W. White, a former Pentagon spokesperson, was on the shortlist."
-     ],
-     [
-      "Prema njemu, Trump je objavio ime šefa UFC-a, a da ta Dana nije ni znala.",
-      "According to him, Trump announced the name of the UFC head without that Dana even knowing."
-     ],
-     [
-      "Njegovu objavu vidjelo je više od 300.000 ljudi.",
-      "More than 300,000 people saw his post."
-     ],
-     [
-      "Dana W. White radila je u Pentagonu od aprila 2017. do kraja 2018.",
-      "Dana W. White worked at the Pentagon from April 2017 to the end of 2018."
-     ],
-     [
-      "Neki korisnici sumnjaju u teoriju, jer Trump opisuje borca i traži borce UFC-a.",
-      "Some users doubt the theory, because Trump describes a fighter and asks for UFC fighters."
-     ]
-    ],
-    [
-     [
-      "Bijela kuća nije potvrdila nijednu verziju.",
-      "The White House has not confirmed either version."
-     ],
-     [
-      "Dana White rekao je na konferenciji u Londonu da odmah putuje u Washington.",
-      "Dana White said at a press conference in London that he is flying to Washington immediately."
-     ],
-     [
-      "U ponedjeljak imaju sastanak, a poslije njega će reći više.",
-      "They have a meeting on Monday, and after it he will say more."
-     ],
-     [
-      "Mjesto glasnogovornika prazno je od sredine oktobra, kada je Katie Zacharia otišla poslije samo pet dana.",
-      "The press secretary post has been empty since mid-October, when Katie Zacharia left after only five days."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "teorija",
-     "theory"
-    ],
-    [
-     "glasnogovornik",
-     "spokesperson"
-    ],
-    [
-     "borac",
-     "fighter"
-    ],
-    [
-     "uža lista",
-     "shortlist"
-    ],
-    [
-     "potvrditi",
-     "to confirm"
-    ],
-    [
-     "pomoćnik",
-     "assistant"
-    ],
-    [
-     "sumnjati",
-     "to doubt"
-    ]
-   ]
-  },
-  {
-   "id": "261107193",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/auto/testovi/niko-ne-zeli-ruski-rolls-royce-aurus-drasticno-snizio-cijenu-putinove-limuzine-senat/261107193",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261107193.jpg",
-   "published": "2026-11-08T07:20:00+01:00",
-   "title": [
-    "Aurus snizio cijenu Putinove limuzine Senat",
-    "Aurus cut the price of Putin's Senat limousine"
-   ],
-   "body": [
-    [
-     [
-      "Ruski proizvođač Aurus znatno je snizio cijenu limuzine Senat, koju koristi Vladimir Putin.",
-      "The Russian maker Aurus has sharply cut the price of the Senat limousine, which Vladimir Putin uses."
-     ],
-     [
-      "Cijena je pala sa 50 na 40 miliona rubalja, odnosno sa oko 550.000 na 440.000 eura.",
-      "The price fell from 50 to 40 million rubles, that is, from about 550,000 to 440,000 euros."
-     ],
-     [
-      "Kompanija tako pokušava dostići planiranu prodaju.",
-      "In this way the company is trying to reach its planned sales."
-     ]
-    ],
-    [
-     [
-      "Projekt je počeo 2013., a razvoj je koštao 12,4 milijarde rubalja.",
-      "The project started in 2013, and development cost 12.4 billion rubles."
-     ],
-     [
-      "Serijska proizvodnja počela je u maju 2021. u Jelabugi, s planom od 5.000 vozila godišnje.",
-      "Serial production started in May 2021 in Yelabuga, with a plan of 5,000 vehicles a year."
-     ],
-     [
-      "Iako se auto predstavlja kao domaći, za njega su dugo korišteni dijelovi iz Južne Koreje, Kine, Indije, Turske i EU.",
-      "Although the car is presented as domestic, parts from South Korea, China, India, Turkey and the EU were used for it for a long time."
-     ],
-     [
-      "Zbog visoke cijene interes kupaca bio je gotovo nikakav.",
-      "Because of the high price, buyer interest was almost nonexistent."
-     ],
-     [
-      "U 2025. je u Jelabugi sastavljeno manje od 150 vozila.",
-      "In 2025 fewer than 150 vehicles were assembled in Yelabuga."
-     ]
-    ],
-    [
-     [
-      "Izvori upozoravaju da bi tvornica u Jelabugi mogla biti zatvorena do kraja godine.",
-      "Sources warn that the factory in Yelabuga could close by the end of the year."
-     ],
-     [
-      "Radnicima su ponudili preseljenje u Sankt Peterburg, gdje se planira model Aurus 900 po cijeni od 12 miliona rubalja.",
-      "Workers were offered relocation to Saint Petersburg, where the Aurus 900 model is planned at a price of 12 million rubles."
-     ],
-     [
-      "Prema ruskim izvorima, Putin će i dalje dobijati nove limuzine.",
-      "According to Russian sources, Putin will still get new limousines."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "limuzina",
-     "limousine"
-    ],
-    [
-     "proizvođač",
-     "manufacturer"
-    ],
-    [
-     "rublja",
-     "ruble"
-    ],
-    [
-     "tvornica",
-     "factory"
-    ],
-    [
-     "dijelovi",
-     "parts"
-    ],
-    [
-     "preseljenje",
-     "relocation"
-    ],
-    [
-     "kupac",
-     "buyer"
-    ]
-   ]
-  },
-  {
-   "id": "261108004",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/americka-desnicarka-naplacivala-objave-na-drustvenim-mrezama-sporna-i-poruka-podrske-dodiku/261108004",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261108004.jpg",
-   "published": "2026-11-08T07:18:00+01:00",
-   "title": [
-    "Američka aktivistica navodno naplaćivala objave, među njima i podršku Dodiku",
-    "US activist allegedly charged for posts, including support for Dodik"
-   ],
-   "body": [
-    [
-     [
-      "Američka desničarka Laura Loomer, bliska saveznica Donalda Trumpa, navodno je naplaćivala političke objave na društvenim mrežama.",
-      "US right-wing activist Laura Loomer, a close ally of Donald Trump, allegedly charged money for political posts on social media."
-     ],
-     [
-      "Piše to Washington Post, a među spornim porukama je i ona u prilog Miloradu Dodiku.",
-      "The Washington Post writes this, and among the disputed messages is one in support of Milorad Dodik."
-     ],
-     [
-      "Novinari su razgovarali s četiri osobe, među njima i Alexom Bruesewitzom, savjetnikom Trumpove kampanje.",
-      "Reporters spoke with four people, among them Alex Bruesewitz, an adviser to Trump's campaign."
-     ]
-    ],
-    [
-     [
-      "Prema dokumentima, Loomer i njena firma od maja 2025. primili su četiri uplate, ukupno više od 60.000 dolara.",
-      "According to documents, Loomer and her firm have received four payments since May 2025, over 60,000 dollars in total."
-     ],
-     [
-      "Dokumenti ne kažu čemu je novac služio.",
-      "The documents do not say what the money was for."
-     ],
-     [
-      "Dva izvora tvrde da je tražila od 3.000 do 5.000 dolara po objavi.",
-      "Two sources claim she asked for 3,000 to 5,000 dollars per post."
-     ],
-     [
-      "Bruesewitz kaže da joj je plaćao objave, a sada je to javno rekao jer je, kako misli, praksa otišla predaleko.",
-      "Bruesewitz says he paid her for posts, and he has now said it publicly because, in his view, the practice went too far."
-     ],
-     [
-      "Loomer sve negira i tvrdi da je plaćen samo jedan istraživački dokument.",
-      "Loomer denies everything and claims that only one research document was paid for."
-     ]
-    ],
-    [
-     [
-      "Loomer je 23. oktobra 2025. na mreži X branila Dodika od napada.",
-      "On 23 October 2025 Loomer defended Dodik from attacks on the network X."
-     ],
-     [
-      "Demokrate u Kongresu navele su je u izvještaju među osobama koje su djelovale u Dodikovu korist.",
-      "Democrats in Congress named her in a report among people who acted in Dodik's favour."
-     ],
-     [
-      "Ona nije registrovana kao strani agent, što bi moglo biti u sukobu s američkim pravilima o lobiranju.",
-      "She is not registered as a foreign agent, which could conflict with American lobbying rules."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "objava",
-     "post"
-    ],
-    [
-     "društvene mreže",
-     "social media"
-    ],
-    [
-     "savjetnik",
-     "adviser"
-    ],
-    [
-     "uplata",
-     "payment"
-    ],
-    [
-     "lobiranje",
-     "lobbying"
-    ],
-    [
-     "negirati",
-     "to deny"
-    ],
-    [
-     "izvor",
-     "source"
-    ]
-   ]
-  },
-  {
-   "id": "261108002",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/hakeri-provalili-u-rusku-bazu-podataka-otkrili-zastrasujuce-podatke-o-450000-smrti-povezanih-s-ratom-u-ukrajini/261108002",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261108002.jpg",
-   "published": "2026-11-08T07:12:00+01:00",
-   "title": [
-    "Hakeri tvrde da su otkrili podatke o 450.000 ratnih smrti",
-    "Hackers claim they found data on 450,000 war deaths"
-   ],
-   "body": [
-    [
-     [
-      "Dvije hakerske grupe tvrde da su provalile u bazu podataka ruske statističke agencije Rosstat.",
-      "Two hacker groups claim they broke into the database of the Russian statistics agency Rosstat."
-     ],
-     [
-      "Kažu da su pronašli podatke o smrtima povezanim s ratom u Ukrajini od februara 2022. do augusta 2026.",
-      "They say they found data on deaths linked to the war in Ukraine from February 2022 to August 2026."
-     ],
-     [
-      "Procjenjuju da je poginulo između 394.000 i 450.000 ljudi.",
-      "They estimate that between 394,000 and 450,000 people died."
-     ]
-    ],
-    [
-     [
-      "Grupa Belarusian Cyberpartisans navodi najmanje 393.881 smrt, jer je brojala samo zapise s ratom kao uzrokom.",
-      "The group Belarusian Cyberpartisans states at least 393,881 deaths, because it counted only records with war as the cause."
-     ],
-     [
-      "Grupa Silent Crow spominje do 450.100 smrti, a u taj broj ulaze i vojnici koji su umrli bez borbe.",
-      "The group Silent Crow mentions up to 450,100 deaths, and that number also includes soldiers who died outside combat."
-     ],
-     [
-      "Napad se dogodio u noći između 31. oktobra i 1. novembra, a hakeri kažu da su preuzeli oko 23 terabajta podataka.",
-      "The attack happened in the night between 31 October and 1 November, and the hackers say they downloaded about 23 terabytes of data."
-     ],
-     [
-      "Kyiv Independent nije mogao provjeriti ove tvrdnje.",
-      "Kyiv Independent could not verify these claims."
-     ]
-    ],
-    [
-     [
-      "Rosstat potvrđuje da je bio meta napada, ali poriče da su podaci procurili.",
-      "Rosstat confirms it was the target of attacks, but denies that data leaked."
-     ],
-     [
-      "Rusija ne objavljuje koliko je vojnika poginulo, a Rosstat od 2024. ne objavljuje ni uzroke smrti.",
-      "Russia does not publish how many soldiers died, and since 2024 Rosstat has not published causes of death either."
-     ],
-     [
-      "Mediazona i BBC su do 6. novembra imenom potvrdili 285.881 poginulog ruskog vojnika, ali pravi broj je znatno veći.",
-      "By 6 November, Mediazona and the BBC had confirmed by name 285,881 dead Russian soldiers, but the real number is much higher."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "haker",
-     "hacker"
-    ],
-    [
-     "baza podataka",
-     "database"
-    ],
-    [
-     "procjenjivati",
-     "to estimate"
-    ],
-    [
-     "uzrok",
-     "cause"
-    ],
-    [
-     "poginuti",
-     "to be killed"
-    ],
-    [
-     "provjeriti",
-     "to verify"
-    ],
-    [
-     "poricati",
-     "to deny"
-    ]
-   ]
-  },
-  {
-   "id": "261108003",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/kosarka/jokic-s-19-poena-i-13-skokova-nadigrao-zubca-u-mexico-cityju/261108003",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261108003.jpg",
-   "published": "2026-11-08T07:08:00+01:00",
-   "title": [
-    "Jokić nadigrao Zubca u Mexico Cityju",
-    "Jokić outplayed Zubac in Mexico City"
-   ],
-   "body": [
-    [
-     [
-      "Denver je u Mexico Cityju pobijedio Indianu rezultatom 114:102.",
-      "Denver beat Indiana 114:102 in Mexico City."
-     ],
-     [
-      "Nikola Jokić ubacio je 19 poena, uz 13 skokova i 8 asistencija.",
-      "Nikola Jokić scored 19 points, with 13 rebounds and 8 assists."
-     ],
-     [
-      "Čak 10 poena postigao je već u prvoj četvrtini.",
-      "He scored as many as 10 points already in the first quarter."
-     ]
-    ],
-    [
-     [
-      "Ivica Zubac, koji je u februari došao iz Clippersa, imao je 10 poena i 12 skokova.",
-      "Ivica Zubac, who came from the Clippers in February, had 10 points and 12 rebounds."
-     ],
-     [
-      "Denver je poluvrijeme završio sa 64:41 i u njemu praktično riješio utakmicu.",
-      "Denver finished the first half 64:41 and practically decided the game in it."
-     ],
-     [
-      "Indiana je igrala bez Tyresea Haliburtona.",
-      "Indiana played without Tyrese Haliburton."
-     ],
-     [
-      "Pacersi su u trećoj četvrtini smanjili zaostatak, ali nisu uspjeli preokrenuti rezultat, pa su sada na omjeru 3-7.",
-      "In the third quarter the Pacers cut the deficit, but they could not turn the result around, so they are now at 3-7."
-     ]
-    ],
-    [
-     [
-      "Mario Hezonja igrao je 18 minuta bez poena, a pogodio nije nijedan od šest šuteva.",
-      "Mario Hezonja played 18 minutes without a point, and he hit none of six shots."
-     ],
-     [
-      "U drugim utakmicama New York je dobio Cleveland 109:97, a Golden State je nakon produžetka pobijedio Orlando 126:119.",
-      "In other games New York beat Cleveland 109:97, and Golden State beat Orlando 126:119 after overtime."
-     ],
-     [
-      "Stephen Curry je postigao 41 poen.",
-      "Stephen Curry scored 41 points."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "poen",
-     "point"
-    ],
-    [
-     "skok",
-     "rebound"
-    ],
-    [
-     "asistencija",
-     "assist"
-    ],
-    [
-     "četvrtina",
-     "quarter"
-    ],
-    [
-     "poluvrijeme",
-     "first half"
-    ],
-    [
-     "produžetak",
-     "overtime"
-    ],
-    [
-     "zaostatak",
-     "deficit"
-    ]
-   ]
-  },
-  {
-   "id": "261107185",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/muzika/preminuo-slobodan-boba-orlic-jedan-od-pionira-beogradske-rok-scene/261107185",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261107185.jpg",
-   "published": "2026-11-07T22:50:00+01:00",
-   "title": [
-    "Preminuo Boba Orlić, pionir beogradske rok scene",
-    "Boba Orlić, a pioneer of the Belgrade rock scene, has died"
-   ],
-   "body": [
-    [
-     [
-      "Preminuo je Slobodan Boba Orlić, jedan od pionira beogradske rok scene.",
-      "Slobodan Boba Orlić, one of the pioneers of the Belgrade rock scene, has died."
-     ],
-     [
-      "Bio je basist i muzički producent, a na sceni je djelovao skoro šest decenija.",
-      "He was a bassist and music producer, and he was active on the scene for almost six decades."
-     ],
-     [
-      "Vijest je na društvenim mrežama objavio muzičar Srđan Marjanović, a podijelila ju je i izdavačka kuća PGP RTS.",
-      "The news was published on social media by musician Srđan Marjanović, and the record label PGP RTS also shared it."
-     ]
-    ],
-    [
-     [
-      "Karijeru je počeo šezdesetih godina i svirao je u grupama Bitnici, Siluete, Plameni 5 i Opus.",
-      "He started his career in the 1960s and played in the bands Bitnici, Siluete, Plameni 5 and Opus."
-     ],
-     [
-      "Kasnije se posvetio snimanju zvuka i produkciji.",
-      "Later he devoted himself to sound recording and production."
-     ],
-     [
-      "Radio je s mnogim poznatim bendovima, među kojima su Goblini, Eyesburn, Kristali i Ljubičice.",
-      "He worked with many well-known bands, among them Goblini, Eyesburn, Kristali and Ljubičice."
-     ]
-    ],
-    [
-     [
-      "Posljednjih godina ponovo je svirao s gitaristom Brankom Milanovićem u grupi Koprive.",
-      "In recent years he played again with guitarist Branko Milanović in the band Koprive."
-     ],
-     [
-      "Oni su 2023. objavili album \"Povratak\".",
-      "In 2023 they released the album \"Povratak\"."
-     ],
-     [
-      "Uzrok smrti i datum sahrane nisu poznati.",
-      "The cause of death and the date of the funeral are not known."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "preminuti",
-     "to pass away"
-    ],
-    [
-     "pionir",
-     "pioneer"
-    ],
-    [
-     "basist",
-     "bassist"
-    ],
-    [
-     "producent",
-     "producer"
-    ],
-    [
-     "izdavačka kuća",
-     "record label"
-    ],
-    [
-     "sahrana",
-     "funeral"
-    ],
-    [
-     "decenija",
-     "decade"
-    ]
-   ]
-  },
-  {
-   "id": "261107171",
-   "source": "Klix.ba",
-   "section": "Zdravlje",
-   "url": "https://www.klix.ba/lifestyle/zdravlje/turski-estetski-hirurg-upozorava-djevojke-zele-da-smanje-stopala-i-suze-ramena/261107171",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261107171.jpg",
-   "published": "2026-11-07T20:44:00+01:00",
-   "title": [
-    "Turski hirurzi upozoravaju na čudne estetske zahtjeve",
-    "Turkish surgeons warn about unusual cosmetic requests"
-   ],
-   "body": [
-    [
-     [
-      "Plastični hirurzi u Turskoj sve češće primaju neobične zahtjeve za estetske operacije.",
-      "Plastic surgeons in Turkey increasingly receive unusual requests for cosmetic operations."
-     ],
-     [
-      "Smatraju da je za to djelimično kriva društvena mreža, na kojoj se takve operacije prikazuju kao jednostavne.",
-      "They think social media is partly to blame, as such operations are shown there as simple."
-     ],
-     [
-      "Neki pacijenti žele manja stopala jer vjeruju da će im cipele tako ljepše stajati.",
-      "Some patients want smaller feet because they believe shoes will look nicer on them."
-     ]
-    ],
-    [
-     [
-      "Žene traže uže ramena da im odjeća bolje stoji, a muškarci šira ramena da izgledaju atletski.",
-      "Women ask for narrower shoulders so clothes fit better, and men ask for wider shoulders to look athletic."
-     ],
-     [
-      "Profesor Yakup Čil kaže da ove operacije nisu nimalo jednostavne i da svaka nosi komplikacije.",
-      "Professor Yakup Čil says these operations are not simple at all and that each carries complications."
-     ],
-     [
-      "Slične zahvate rade kod urođenih anomalija, ali čisto estetske operacije treba izbjegavati.",
-      "Similar procedures are done for congenital anomalies, but purely cosmetic operations should be avoided."
-     ],
-     [
-      "Većina zahtjeva dolazi od ljudi od 20 do 30 godina, koji najviše koriste društvene mreže.",
-      "Most requests come from people aged 20 to 30, who use social media the most."
-     ]
-    ],
-    [
-     [
-      "Docent Emre Hocaoglu primjećuje da mladi traže od roditelja estetske zahvate kao nagradu za dobar uspjeh u školi.",
-      "Docent Emre Hocaoglu notices that young people ask their parents for cosmetic procedures as a reward for good results at school."
-     ],
-     [
-      "Djeca, kaže, umjesto bicikla traže filere za usne.",
-      "Children, he says, ask for lip fillers instead of a bicycle."
-     ],
-     [
-      "Upozorava da svaka operacija nosi rizik, pa savjetuje izbor iskusnog doktora.",
-      "He warns that every operation carries risk, so he advises choosing an experienced doctor."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "hirurg",
-     "surgeon"
-    ],
-    [
-     "zahtjev",
-     "request"
-    ],
-    [
-     "zahvat",
-     "procedure"
-    ],
-    [
-     "rame",
-     "shoulder"
-    ],
-    [
-     "stopalo",
-     "foot"
-    ],
-    [
-     "rizik",
-     "risk"
-    ],
-    [
-     "iskusan",
-     "experienced"
     ]
    ]
   }
