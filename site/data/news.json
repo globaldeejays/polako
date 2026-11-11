@@ -1,18 +1,892 @@
 {
- "updated": "2026-11-10T18:50:00+01:00",
+ "updated": "2026-11-11T13:45:00+01:00",
  "front": [
-  "261110206",
-  "261110247",
-  "261110252",
-  "261110234",
-  "261110231",
-  "261110181",
-  "261110237",
-  "261110196",
-  "261110156"
+  "261111176",
+  "261111171",
+  "261111128",
+  "261111145",
+  "261111157",
+  "261111118",
+  "261111172",
+  "261111046",
+  "261111029"
  ],
  "level": "A2",
  "articles": [
+  {
+   "id": "261111171",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/buduca-vlast-i-buduca-opozicija-za-jednim-stolom-u-sarajevu-nece-biti-blokada-u-petak-konstituirajuca-sjednica/261111171",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261111171.jpg",
+   "published": "2026-11-11T13:29:00+01:00",
+   "title": [
+    "Sarajevske stranke se dogovorile: nova skupština u petak",
+    "Sarajevo parties agreed: new assembly on Friday"
+   ],
+   "body": [
+    [
+     [
+      "Predstavnici šest stranaka sastali su se u srijedu u zgradi Skupštine Kantona Sarajevo.",
+      "Representatives of six parties met on Wednesday in the building of the Sarajevo Canton Assembly."
+     ],
+     [
+      "Za istim stolom bili su i buduća vlast i buduća opozicija.",
+      "Both the future government and the future opposition were at the same table."
+     ],
+     [
+      "Razgovarali su o konstituirajućoj sjednici, to jest o prvoj sjednici nove skupštine.",
+      "They talked about the constituent session, that is, about the first session of the new assembly."
+     ]
+    ],
+    [
+     [
+      "Na sastanku su bili SDA, DF, NiP, SDP, Stranka za BiH i Naša stranka.",
+      "SDA, DF, NiP, SDP, the Party for BiH and Naša stranka were at the meeting."
+     ],
+     [
+      "Sjednica počinje u petak u 08:30, a tada će se izabrati i komisija od 7 članova.",
+      "The session starts on Friday at 08:30, and a commission of 7 members will also be chosen then."
+     ],
+     [
+      "U komisiji će biti 4 člana vlasti i 3 člana opozicije.",
+      "There will be 4 members of the government and 3 members of the opposition on the commission."
+     ],
+     [
+      "Sjednica će se morati prekinuti jer CIK još nije potvrdio 4 ili 5 mandata.",
+      "The session will have to be interrupted because the CEC has not yet confirmed 4 or 5 mandates."
+     ]
+    ],
+    [
+     [
+      "Aljoša Čampara iz NiP-a rekao je da nema nikakve priče o blokadi.",
+      "Aljoša Čampara from NiP said that there is no talk at all of a blockade."
+     ],
+     [
+      "Sjednica bi se trebala nastaviti 7 dana kasnije, kada će se birati predsjedavajući skupštine.",
+      "The session should continue 7 days later, when the speaker of the assembly will be chosen."
+     ],
+     [
+      "Čampara je rekao da je atmosfera bila konstruktivna i da svi žele brzo formirati novu vladu.",
+      "Čampara said that the atmosphere was constructive and that everyone wants to form the new government quickly."
+     ],
+     [
+      "Albin Zuhrić iz DF-a također ne očekuje blokadu.",
+      "Albin Zuhrić from DF also does not expect a blockade."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "stranka",
+     "political party"
+    ],
+    [
+     "skupština",
+     "assembly"
+    ],
+    [
+     "sjednica",
+     "session"
+    ],
+    [
+     "vlast",
+     "government, those in power"
+    ],
+    [
+     "opozicija",
+     "opposition"
+    ],
+    [
+     "mandat",
+     "mandate, seat"
+    ],
+    [
+     "blokada",
+     "blockade"
+    ],
+    [
+     "sastanak",
+     "meeting"
+    ]
+   ]
+  },
+  {
+   "id": "261111172",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/muzika/jacques-houdek-o-misi-kovacu-on-je-pjesma-nase-duse-soundtrack-naseg-zivota-i-nasih-roditelja/261111172",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261111172.jpg",
+   "published": "2026-11-11T13:24:00+01:00",
+   "title": [
+    "U Zagrebu održana komemoracija za Mišu Kovača",
+    "Commemoration for Mišo Kovač held in Zagreb"
+   ],
+   "body": [
+    [
+     [
+      "U koncertnoj dvorani Vatroslav Lisinski u Zagrebu održana je komemoracija za pjevača Mišu Kovača.",
+      "A commemoration for the singer Mišo Kovač was held in the Vatroslav Lisinski concert hall in Zagreb."
+     ],
+     [
+      "Organizovala ju je diskografska kuća Croatia Records.",
+      "It was organized by the record company Croatia Records."
+     ],
+     [
+      "Porodica, prijatelji i kolege upisali su se u knjigu žalosti, koja će biti predata porodici.",
+      "Family, friends and colleagues signed the book of condolences, which will be handed to the family."
+     ]
+    ],
+    [
+     [
+      "Došla je Kovačeva supruga Lidija s kćerkom Ivanom i unukom Elenom.",
+      "Kovač's wife Lidija came with her daughter Ivana and granddaughter Elena."
+     ],
+     [
+      "Bili su tu i muzičari Željko Bebek i Nikša Bratoš.",
+      "The musicians Željko Bebek and Nikša Bratoš were also there."
+     ],
+     [
+      "Došli su i hrvatski premijer Andrej Plenković i nekoliko ministara.",
+      "The Croatian prime minister Andrej Plenković and several ministers also came."
+     ],
+     [
+      "Pjevač Jacques Houdek rekao je da je Kovač pjesma naše duše i muzika života njegovih roditelja.",
+      "The singer Jacques Houdek said that Kovač is the song of our soul and the music of his parents' lives."
+     ]
+    ],
+    [
+     [
+      "Mišo Kovač sahranjen je 4. novembra na zagrebačkom groblju Mirogoj.",
+      "Mišo Kovač was buried on 4 November at Zagreb's Mirogoj cemetery."
+     ],
+     [
+      "Sahranjen je pored sina Edija, koji je umro 1992. godine.",
+      "He was buried next to his son Edi, who died in 1992."
+     ],
+     [
+      "Dan prije sahrane, ljudi su se od njega oprostili na stadionu Poljud u Splitu.",
+      "The day before the funeral, people said goodbye to him at the Poljud stadium in Split."
+     ],
+     [
+      "Svih 33.000 besplatnih ulaznica podijeljeno je za nekoliko sati.",
+      "All 33,000 free tickets were handed out in a few hours."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "komemoracija",
+     "commemoration"
+    ],
+    [
+     "pjevač",
+     "singer"
+    ],
+    [
+     "dvorana",
+     "hall"
+    ],
+    [
+     "knjiga žalosti",
+     "book of condolences"
+    ],
+    [
+     "duša",
+     "soul"
+    ],
+    [
+     "sahraniti",
+     "to bury"
+    ],
+    [
+     "groblje",
+     "cemetery"
+    ],
+    [
+     "ulaznica",
+     "ticket"
+    ]
+   ]
+  },
+  {
+   "id": "261111176",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/detalji-fup-ove-akcije-zaplijenjenim-amfetaminskim-uljem-moglo-se-proizvesti-do-700-kilograma-droge/261111176",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261111176.jpg",
+   "published": "2026-11-11T13:22:00+01:00",
+   "title": [
+    "Policija zaplijenila ulje za 700 kilograma droge",
+    "Police seized oil for 700 kilograms of drugs"
+   ],
+   "body": [
+    [
+     [
+      "Federalna uprava policije objavila je u srijedu detalje velike akcije protiv droge pod nazivom „Vrtlog“.",
+      "The Federal Police Administration on Wednesday published details of a large anti-drug operation called “Vortex”."
+     ],
+     [
+      "U akciji je uhapšeno 15 osoba iz Sarajeva i Zenice.",
+      "In the operation, 15 people from Sarajevo and Zenica were arrested."
+     ],
+     [
+      "Pretresi su bili u tri kantona u Federaciji i u Republici Srpskoj.",
+      "The searches were in three cantons in the Federation and in Republika Srpska."
+     ]
+    ],
+    [
+     [
+      "Policija je pronašla 83 litra amfetaminskog ulja, a to je sirovina za proizvodnju droge.",
+      "The police found 83 litres of amphetamine oil, which is a raw material for producing drugs."
+     ],
+     [
+      "Iz tog ulja moglo se napraviti između 600 i 700 kilograma amfetamina.",
+      "Between 600 and 700 kilograms of amphetamine could have been made from that oil."
+     ],
+     [
+      "Zaplijenjeno je i oko 58 kilograma kanabisa i oko 39 kilograma amfetamina.",
+      "About 58 kilograms of cannabis and about 39 kilograms of amphetamine were also seized."
+     ],
+     [
+      "Policajci su oduzeli i nekoliko pištolja, mobitele i vage za drogu.",
+      "The police officers also took away several pistols, mobile phones and scales for drugs."
+     ]
+    ],
+    [
+     [
+      "Akciju su vodili policija i MUP Zeničko-dobojskog kantona, uz pomoć obavještajne agencije OSA.",
+      "The operation was led by the police and the Interior Ministry of Zenica-Doboj Canton, with help from the intelligence agency OSA."
+     ],
+     [
+      "Osumnjičeni su za organizovani kriminal, prodaju droge i pranje novca.",
+      "The suspects are suspected of organized crime, selling drugs and money laundering."
+     ],
+     [
+      "Nakon obrade u policiji, bit će predati Federalnom tužilaštvu.",
+      "After processing at the police, they will be handed over to the Federal Prosecutor's Office."
+     ],
+     [
+      "Policija je rekla da istraga još traje.",
+      "The police said that the investigation is still going on."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "zaplijeniti",
+     "to seize"
+    ],
+    [
+     "droga",
+     "drugs"
+    ],
+    [
+     "uhapsiti",
+     "to arrest"
+    ],
+    [
+     "ulje",
+     "oil"
+    ],
+    [
+     "pretres",
+     "search (of a home)"
+    ],
+    [
+     "osumnjičeni",
+     "suspect"
+    ],
+    [
+     "pranje novca",
+     "money laundering"
+    ],
+    [
+     "tužilaštvo",
+     "prosecutor's office"
+    ]
+   ]
+  },
+  {
+   "id": "261111157",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/ministri-i-gradonacelnici-stavili-mandate-u-mirovanje-evo-ko-ulazi-u-dom-naroda-i-predstavnicki-dom-bih/261111157",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261111157.jpg",
+   "published": "2026-11-11T13:09:00+01:00",
+   "title": [
+    "CIK podijelio nove mandate u državnom parlamentu",
+    "CEC handed out new mandates in the state parliament"
+   ],
+   "body": [
+    [
+     [
+      "Centralna izborna komisija BiH dodijelila je nove mandate u državnom parlamentu.",
+      "The Central Election Commission of BiH assigned new mandates in the state parliament."
+     ],
+     [
+      "Neki političari ne mogu biti zastupnici jer su ministri ili gradonačelnici.",
+      "Some politicians cannot be representatives because they are ministers or mayors."
+     ],
+     [
+      "Zato su svoje mandate stavili u mirovanje, a na njihova mjesta privremeno dolaze drugi.",
+      "That is why they put their mandates on hold, and others temporarily take their places."
+     ]
+    ],
+    [
+     [
+      "U Domu naroda četiri delegata su dala ostavku jer su izabrana u Predstavnički dom.",
+      "In the House of Peoples, four delegates resigned because they were elected to the House of Representatives."
+     ],
+     [
+      "Na njihova mjesta dolaze Tamara Evđić, Mensur Beganović, Mirnes Gušić i Ivan Vukadin.",
+      "Tamara Evđić, Mensur Beganović, Mirnes Gušić and Ivan Vukadin come in their places."
+     ],
+     [
+      "U Predstavničkom domu 10 zastupnika stavilo je mandat u mirovanje.",
+      "In the House of Representatives, 10 representatives put their mandate on hold."
+     ],
+     [
+      "Među njima su Zukan Helez iz SDP-a, Draško Stanivuković i Zoran Stevanović.",
+      "Among them are Zukan Helez from SDP, Draško Stanivuković and Zoran Stevanović."
+     ]
+    ],
+    [
+     [
+      "CIK je odbio zahtjev Mirne Savić Banjac, jer je rekao da nije osnovan.",
+      "The CEC rejected the request of Mirna Savić Banjac, because it said that it was not justified."
+     ],
+     [
+      "Nove mandate dobili su i zastupnici u Narodnoj skupštini Republike Srpske.",
+      "Representatives in the National Assembly of Republika Srpska also received new mandates."
+     ],
+     [
+      "Na istoj sjednici CIK je dozvolio nekim strankama da kazne plate u ratama.",
+      "At the same session, the CEC allowed some parties to pay fines in instalments."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "mandat",
+     "mandate, seat"
+    ],
+    [
+     "mirovanje",
+     "being on hold, suspension"
+    ],
+    [
+     "zastupnik",
+     "representative, MP"
+    ],
+    [
+     "ostavka",
+     "resignation"
+    ],
+    [
+     "privremeno",
+     "temporarily"
+    ],
+    [
+     "zahtjev",
+     "request"
+    ],
+    [
+     "kazna",
+     "fine, penalty"
+    ],
+    [
+     "rata",
+     "instalment"
+    ]
+   ]
+  },
+  {
+   "id": "261111145",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/crna-hronika/fup-uhapsio-dvojicu-muskaraca-na-ilidzi-zbog-otmice-pet-kineza-za-svakog-trazili-15000-eura-otkupnine/261111145",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261111145.jpg",
+   "published": "2026-11-11T12:18:00+01:00",
+   "title": [
+    "Na Ilidži uhapšena dvojica zbog otmice pet Kineza",
+    "Two men arrested in Ilidža over the kidnapping of five Chinese"
+   ],
+   "body": [
+    [
+     [
+      "Federalna uprava policije uhapsila je na Ilidži dvojicu državljana Kine.",
+      "The Federal Police Administration arrested two citizens of China in Ilidža."
+     ],
+     [
+      "Sumnja se da su oteli pet Kineza dok su ih ilegalno vozili prema Italiji.",
+      "They are suspected of kidnapping five Chinese people while they were illegally driving them towards Italy."
+     ],
+     [
+      "Za svakog su tražili 15.000 eura otkupnine i prijetili su im smrću.",
+      "They demanded 15,000 euros of ransom for each of them and threatened them with death."
+     ]
+    ],
+    [
+     [
+      "Pretresi su bili 6. novembra po nalogu Suda BiH.",
+      "The searches were on 6 November on the order of the Court of BiH."
+     ],
+     [
+      "Policija je oduzela mobitele i novac u različitim valutama.",
+      "The police took away mobile phones and money in different currencies."
+     ],
+     [
+      "Prema policiji, žrtve su na putu prema granici bile zatvorene i zlostavljane.",
+      "According to the police, the victims were locked up and abused on the way to the border."
+     ],
+     [
+      "Morale su predati novac, a neke su plaćale i preko aplikacija na mobitelu.",
+      "They had to hand over money, and some also paid through apps on their phones."
+     ]
+    ],
+    [
+     [
+      "Policija je podnijela prijavu protiv tri osobe, dvojice Kineza i jednog državljanina Pakistana.",
+      "The police filed a report against three people, two Chinese men and one citizen of Pakistan."
+     ],
+     [
+      "Sumnjiče se da su organizovali grupu za krijumčarenje migranata, to jest ilegalni prevoz ljudi preko granice.",
+      "They are suspected of organizing a group for migrant smuggling, that is, illegally transporting people across the border."
+     ],
+     [
+      "Dvojica uhapšenih predata su Službi za poslove sa strancima.",
+      "The two arrested men were handed over to the Service for Foreigners' Affairs."
+     ],
+     [
+      "Policija još traži druge osobe povezane s ovim slučajem.",
+      "The police are still looking for other people connected with this case."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "otmica",
+     "kidnapping"
+    ],
+    [
+     "oteti",
+     "to kidnap"
+    ],
+    [
+     "otkupnina",
+     "ransom"
+    ],
+    [
+     "žrtva",
+     "victim"
+    ],
+    [
+     "granica",
+     "border"
+    ],
+    [
+     "krijumčarenje",
+     "smuggling"
+    ],
+    [
+     "državljanin",
+     "citizen"
+    ],
+    [
+     "prijava",
+     "criminal report, complaint"
+    ]
+   ]
+  },
+  {
+   "id": "261111128",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/sve-krenulo-od-strazara-kpz-a-zenica-medu-uhapsenima-muharem-smajlovic-i-supruga-amela-bogucanina/261111128",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261111128.jpg",
+   "published": "2026-11-11T11:51:00+01:00",
+   "title": [
+    "Uhapšene 11 osoba iz dvije kriminalne grupe",
+    "11 people from two criminal groups arrested"
+   ],
+   "body": [
+    [
+     [
+      "Policija je u srijedu ujutro uhapsila 11 osoba iz dvije kriminalne grupe.",
+      "On Wednesday morning the police arrested 11 people from two criminal groups."
+     ],
+     [
+      "Sumnja se da su prodavali drogu i prali novac.",
+      "They are suspected of selling drugs and laundering money."
+     ],
+     [
+      "Među uhapšenima su Muharem Smajlović, Edib Džedžibeg i Selma Bogučanin.",
+      "Among those arrested are Muharem Smajlović, Edib Džedžibeg and Selma Bogučanin."
+     ]
+    ],
+    [
+     [
+      "Selma je supruga Amela Bogučanina, kojeg policija već dugo poznaje.",
+      "Selma is the wife of Amel Bogučanin, whom the police have known for a long time."
+     ],
+     [
+      "Policija je tražila ukupno 13 osoba, ali je jedna u bolnici, a jedna je pobjegla.",
+      "The police were looking for a total of 13 people, but one is in hospital and one has fled."
+     ],
+     [
+      "Pretresi su bili u četiri kantona i u Republici Srpskoj.",
+      "The searches were in four cantons and in Republika Srpska."
+     ],
+     [
+      "Tužilaštvo kaže da je od augusta do oktobra zaplijenjeno više od 50 kilograma droge.",
+      "The prosecutor's office says that more than 50 kilograms of drugs were seized from August to October."
+     ]
+    ],
+    [
+     [
+      "Klix.ba je saznao da je sve počelo hapšenjem jednog stražara iz zatvora u Zenici.",
+      "Klix.ba learned that everything started with the arrest of a guard from the prison in Zenica."
+     ],
+     [
+      "Ibrahim Handanović (29) uhapšen je 22. oktobra nakon potjere.",
+      "Ibrahim Handanović (29) was arrested on 22 October after a chase."
+     ],
+     [
+      "Tokom bijega bacio je kroz prozor auta torbu s više od 1 kilograma kanabisa.",
+      "During the escape he threw a bag with more than 1 kilogram of cannabis out of the car window."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "uhapsiti",
+     "to arrest"
+    ],
+    [
+     "kriminalna grupa",
+     "criminal group"
+    ],
+    [
+     "supruga",
+     "wife"
+    ],
+    [
+     "pobjeći",
+     "to run away, to flee"
+    ],
+    [
+     "stražar",
+     "guard"
+    ],
+    [
+     "zatvor",
+     "prison"
+    ],
+    [
+     "potjera",
+     "chase"
+    ],
+    [
+     "torba",
+     "bag"
+    ]
+   ]
+  },
+  {
+   "id": "261111118",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/igor-dodik-i-zoran-stevanovic-najozbiljniji-kandidati-za-buduceg-premijera-republike-srpske/261111118",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261111118.jpg",
+   "published": "2026-11-11T11:34:00+01:00",
+   "title": [
+    "Ko bi mogao biti novi premijer Republike Srpske",
+    "Who could be the new prime minister of Republika Srpska"
+   ],
+   "body": [
+    [
+     [
+      "Igor Dodik i Zoran Stevanović su najozbiljniji kandidati za novog premijera Republike Srpske.",
+      "Igor Dodik and Zoran Stevanović are the most serious candidates for the new prime minister of Republika Srpska."
+     ],
+     [
+      "To je Klix.ba saznao od izvora u Banjoj Luci.",
+      "Klix.ba learned this from sources in Banja Luka."
+     ],
+     [
+      "Obojica su iz stranke SNSD.",
+      "Both of them are from the SNSD party."
+     ]
+    ],
+    [
+     [
+      "Igor Dodik je organizacioni sekretar SNSD-a i sin predsjednika stranke Milorada Dodika.",
+      "Igor Dodik is the organizational secretary of SNSD and the son of the party president Milorad Dodik."
+     ],
+     [
+      "Njega podržavaju mlađi političari i nekoliko općinskih odbora stranke.",
+      "He is supported by younger politicians and several municipal boards of the party."
+     ],
+     [
+      "Zoran Stevanović je sada ministar saobraćaja, a ranije je bio gradonačelnik Zvornika.",
+      "Zoran Stevanović is now the minister of transport, and earlier he was the mayor of Zvornik."
+     ],
+     [
+      "Njega podržavaju brojni biznismeni iz istočne Bosne.",
+      "He is supported by many businessmen from eastern Bosnia."
+     ]
+    ],
+    [
+     [
+      "Obje strane će narednih dana tražiti podršku, ali posljednju riječ bi opet mogao imati Milorad Dodik.",
+      "Both sides will look for support in the coming days, but Milorad Dodik could again have the last word."
+     ],
+     [
+      "Novi premijer i nova vlada očekuju se do sredine decembra.",
+      "The new prime minister and the new government are expected by mid-December."
+     ],
+     [
+      "Prije toga Željka Cvijanović treba dobiti novi mandat u Predsjedništvu BiH.",
+      "Before that, Željka Cvijanović is to get a new term in the Presidency of BiH."
+     ],
+     [
+      "Savo Minić bi trebao postati predsjednik Republike Srpske.",
+      "Savo Minić should become the president of Republika Srpska."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "premijer",
+     "prime minister"
+    ],
+    [
+     "kandidat",
+     "candidate"
+    ],
+    [
+     "izvor",
+     "source"
+    ],
+    [
+     "sin",
+     "son"
+    ],
+    [
+     "podržavati",
+     "to support"
+    ],
+    [
+     "saobraćaj",
+     "traffic, transport"
+    ],
+    [
+     "podrška",
+     "support"
+    ],
+    [
+     "sredina",
+     "middle"
+    ]
+   ]
+  },
+  {
+   "id": "261111046",
+   "source": "Klix.ba",
+   "section": "Zdravlje",
+   "url": "https://www.klix.ba/lifestyle/zdravlje/cistiji-zrak-u-spavacoj-sobi-moze-pomoci-u-kontroli-secera-u-krvi-kod-predijabetesa/261111046",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261111046.jpg",
+   "published": "2026-11-11T08:50:00+01:00",
+   "title": [
+    "Čistiji zrak u spavaćoj sobi može pomoći kod šećera",
+    "Cleaner air in the bedroom can help with blood sugar"
+   ],
+   "body": [
+    [
+     [
+      "Istraživači iz New Yorka otkrili su da prečišćivači zraka u spavaćoj sobi mogu pomoći ljudima s predijabetesom.",
+      "Researchers from New York found that air purifiers in the bedroom can help people with prediabetes."
+     ],
+     [
+      "Predijabetes znači da je šećer u krvi viši nego što treba, ali to još nije dijabetes.",
+      "Prediabetes means that blood sugar is higher than it should be, but it is not yet diabetes."
+     ],
+     [
+      "Rezultati su predstavljeni 8. novembra.",
+      "The results were presented on 8 November."
+     ]
+    ],
+    [
+     [
+      "U istraživanju je bilo više od 150 muškaraca i žena.",
+      "More than 150 men and women took part in the study."
+     ],
+     [
+      "Pola njih je mjesec dana spavalo s pravim HEPA filterima, a druga polovina s uređajima koji ne čiste zrak.",
+      "Half of them slept for a month with real HEPA filters, and the other half with devices that do not clean the air."
+     ],
+     [
+      "Pravi filteri smanjili su sitne štetne čestice u zraku za 36 posto.",
+      "The real filters reduced fine harmful particles in the air by 36 percent."
+     ],
+     [
+      "Kod tih ljudi šećer je nakon doručka bio niži za oko 17 posto.",
+      "In these people, sugar after breakfast was about 17 percent lower."
+     ]
+    ],
+    [
+     [
+      "Autorica studije Sharine Wittkopp rekla je da je čišći zrak kod kuće jednostavna i jeftina pomoć.",
+      "The study's author Sharine Wittkopp said that cleaner air at home is simple and cheap help."
+     ],
+     [
+      "Ipak, filter ne zamjenjuje zdravu hranu, sport i lijekove.",
+      "Still, a filter does not replace healthy food, exercise and medicine."
+     ],
+     [
+      "Jonathan Newman je rekao da rezultati možda ne vrijede za ljude koji već imaju dijabetes.",
+      "Jonathan Newman said that the results may not apply to people who already have diabetes."
+     ],
+     [
+      "Tim planira duža istraživanja.",
+      "The team is planning longer studies."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "zrak",
+     "air"
+    ],
+    [
+     "spavaća soba",
+     "bedroom"
+    ],
+    [
+     "šećer",
+     "sugar"
+    ],
+    [
+     "krv",
+     "blood"
+    ],
+    [
+     "istraživanje",
+     "research, study"
+    ],
+    [
+     "čestica",
+     "particle"
+    ],
+    [
+     "štetan",
+     "harmful"
+    ],
+    [
+     "doručak",
+     "breakfast"
+    ]
+   ]
+  },
+  {
+   "id": "261111029",
+   "source": "Klix.ba",
+   "section": "Tehnologija",
+   "url": "https://www.klix.ba/scitech/nauka/voyager-1-naredne-sedmice-prelazi-historijsku-granicu-nasa-pozvala-svijet-da-to-obiljezi-na-simbolican-nacin/261111029",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261111029.jpg",
+   "published": "2026-11-11T08:33:00+01:00",
+   "title": [
+    "Voyager 1 uskoro jedan svjetlosni dan od Zemlje",
+    "Voyager 1 soon one light-day from Earth"
+   ],
+   "body": [
+    [
+     [
+      "NASA-ina letjelica Voyager 1 bit će 18. novembra tačno jedan svjetlosni dan daleko od Zemlje.",
+      "NASA's spacecraft Voyager 1 will be exactly one light-day away from Earth on 18 November."
+     ],
+     [
+      "To znači da svjetlost s Zemlje do nje putuje cijela 24 sata.",
+      "This means that light from Earth travels to it for a full 24 hours."
+     ],
+     [
+      "Letjelica je lansirana 1977. godine i danas je najudaljeniji predmet koji su napravili ljudi.",
+      "The spacecraft was launched in 1977 and today it is the most distant object made by people."
+     ]
+    ],
+    [
+     [
+      "Voyager 1 je oko 25,89 milijardi kilometara od nas i leti brzinom od oko 61.155 kilometara na sat.",
+      "Voyager 1 is about 25.89 billion kilometres from us and flies at a speed of about 61,155 kilometres per hour."
+     ],
+     [
+      "Poruka do letjelice putuje jedan dan, a odgovor se vraća još jedan dan.",
+      "A message travels to the spacecraft for one day, and the answer comes back in another day."
+     ],
+     [
+      "Menadžerica projekta Suzanne Dodd rekla je da pošaljete poruku, odete kući i čekate dva dana.",
+      "Project manager Suzanne Dodd said that you send a message, go home and wait two days."
+     ],
+     [
+      "Letjelica svake godine gubi oko 4 vata snage, pa tim gasi sisteme koji nisu važni.",
+      "The spacecraft loses about 4 watts of power every year, so the team switches off systems that are not important."
+     ]
+    ],
+    [
+     [
+      "NASA poziva ljude da 17. novembra nakon zalaska sunca zasvijetle mobitelima.",
+      "NASA invites people to light up with their phones on 17 November after sunset."
+     ],
+     [
+      "Telefoni će Morseovom azbukom slati znak „VGR“, ime letjelice.",
+      "The phones will send the sign “VGR”, the spacecraft's name, in Morse code."
+     ],
+     [
+      "Dva dana kasnije bit će i razgovor s naučnicima, koji će se prenositi na internetu.",
+      "Two days later there will also be a talk with scientists, which will be broadcast on the internet."
+     ],
+     [
+      "Misija će 2027. godine proslaviti 50 godina.",
+      "The mission will celebrate 50 years in 2027."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "letjelica",
+     "spacecraft"
+    ],
+    [
+     "svjetlost",
+     "light"
+    ],
+    [
+     "udaljen",
+     "distant"
+    ],
+    [
+     "brzina",
+     "speed"
+    ],
+    [
+     "poruka",
+     "message"
+    ],
+    [
+     "odgovor",
+     "answer"
+    ],
+    [
+     "snaga",
+     "power"
+    ],
+    [
+     "naučnik",
+     "scientist"
+    ]
+   ]
+  },
   {
    "id": "261110247",
    "source": "Klix.ba",
@@ -4840,796 +5714,6 @@
     [
      "povremeno",
      "occasionally"
-    ]
-   ]
-  },
-  {
-   "id": "261108146",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/film-tv/you-can-see-everything-postao-drugi-najunosniji-dokumentarac-u-sjevernoj-americi/261108146",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261108146.jpg",
-   "published": "2026-11-08T20:09:00+01:00",
-   "title": [
-    "Dokumentarac o Elizabeth Holmes zaradio 80 miliona dolara",
-    "Documentary about Elizabeth Holmes has earned 80 million dollars"
-   ],
-   "body": [
-    [
-     [
-      "Film „You Can See Everything“ postao je drugi najunosniji dokumentarac u historiji Sjeverne Amerike, ne računajući muzičke filmove.",
-      "The film “You Can See Everything” has become the second highest-grossing documentary in North American history, not counting music films."
-     ],
-     [
-      "Poslije četiri vikenda u kinima zaradio je 80 miliona dolara, piše Variety.",
-      "After four weekends in cinemas it has earned 80 million dollars, Variety writes."
-     ],
-     [
-      "Film su režirali Nathan Fielder i Lance Oppenheim, a govori o Elizabeth Holmes, osnivačici firme Theranos.",
-      "The film was directed by Nathan Fielder and Lance Oppenheim, and it is about Elizabeth Holmes, the founder of the company Theranos."
-     ]
-    ],
-    [
-     [
-      "Prošlog vikenda film je zaradio 8,8 miliona dolara u 2.473 kina, što je 23 posto manje nego prethodnog vikenda.",
-      "Last weekend the film earned 8.8 million dollars in 2,473 cinemas, which is 23 percent less than the weekend before."
-     ],
-     [
-      "Tako je prestigao film „Marš pingvina“ iz 2005. godine, koji je zaradio 77 miliona.",
-      "With that it passed the film “March of the Penguins” from 2005, which earned 77 million."
-     ],
-     [
-      "Ispred njega je još samo „Fahrenheit 9/11“ Michaela Moorea sa 119 miliona dolara.",
-      "Ahead of it is only Michael Moore's “Fahrenheit 9/11” with 119 million dollars."
-     ],
-     [
-      "Film košta samo 7 miliona dolara, pa će biti vrlo isplativ.",
-      "The film cost only 7 million dollars, so it will be very profitable."
-     ]
-    ],
-    [
-     [
-      "Analitičar Paul Dergarabedian rekao je da je film promijenio pravila o tome kako dokumentarac može proći u kinima.",
-      "Analyst Paul Dergarabedian said that the film has changed the rules about how a documentary can do in cinemas."
-     ],
-     [
-      "Premijera je bila na festivalu u Tellurideu, a prvog vikenda film je zaradio 15 miliona dolara.",
-      "The premiere was at the festival in Telluride, and on the first weekend the film earned 15 million dollars."
-     ],
-     [
-      "Mnogi gledaoci vratili su se da ga gledaju ponovo, iako traje skoro tri sata.",
-      "Many viewers came back to watch it again, even though it lasts almost three hours."
-     ],
-     [
-      "Izvan Sjeverne Amerike film će se prikazivati od kraja novembra.",
-      "Outside North America the film will be shown from the end of November."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "dokumentarac",
-     "documentary"
-    ],
-    [
-     "zaraditi",
-     "to earn"
-    ],
-    [
-     "kino",
-     "cinema"
-    ],
-    [
-     "režirati",
-     "to direct"
-    ],
-    [
-     "osnivačica",
-     "founder (female)"
-    ],
-    [
-     "premijera",
-     "premiere"
-    ],
-    [
-     "gledalac",
-     "viewer"
-    ]
-   ]
-  },
-  {
-   "id": "261108103",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/otvorena-pobuna-u-sds-u-jos-jedan-clan-porucio-da-blanusa-mora-otici-trazi-povratak-milicevica/261108103",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261108103.jpg",
-   "published": "2026-11-08T18:33:00+01:00",
-   "title": [
-    "Pobuna u SDS-u: još jedan član traži Blanušin odlazak",
-    "Revolt in SDS: another member demands Blanuša’s departure"
-   ],
-   "body": [
-    [
-     [
-      "U stranci SDS nastavlja se otvorena pobuna protiv predsjednika Branka Blanuše nakon izbora.",
-      "In the SDS party the open revolt against president Branko Blanuša continues after the elections."
-     ],
-     [
-      "Član Glavnog odbora Daniel Jakovljević objavio je dugu poruku na Facebooku.",
-      "Main Board member Daniel Jakovljević published a long message on Facebook."
-     ],
-     [
-      "U njoj je napisao da Blanuša više ne može biti predsjednik jer je izgubio povjerenje članova i birača.",
-      "In it he wrote that Blanuša can no longer be president because he has lost the trust of members and voters."
-     ]
-    ],
-    [
-     [
-      "Jakovljević kaže da je oko šest sedmica šutio i da je kolege molio da probleme iznesu u tijelima stranke, koja se ne sazivaju.",
-      "Jakovljević says he was silent for about six weeks and asked colleagues to raise the problems in party bodies, which are not being convened."
-     ],
-     [
-      "Smatra da je velika greška što SDS nije prihvatio prijedlog da članovi PSS-a kolektivno pristupe stranci.",
-      "He thinks it is a big mistake that SDS did not accept the proposal that PSS members join the party collectively."
-     ],
-     [
-      "Po njegovom mišljenju, SDS bi tada imao oko 30 poslanika, a Stanivuković bi pobijedio na izborima za predsjednika Republike Srpske.",
-      "In his opinion, SDS would then have about 30 MPs, and Stanivuković would have won the election for president of Republika Srpska."
-     ],
-     [
-      "Želi da stranku ponovo vodi Milan Milićević, kojeg naziva patriotom i kaže da je nepravedno uklonjen prije izbora.",
-      "He wants Milan Milićević to lead the party again; he calls him a patriot and says he was unfairly removed before the elections."
-     ]
-    ],
-    [
-     [
-      "Ljubiša Petrović, isključen iz stranke jer je podržao kandidata druge stranke, uložio je žalbu Glavnom odboru.",
-      "Ljubiša Petrović, expelled from the party because he supported another party’s candidate, has appealed to the Main Board."
-     ],
-     [
-      "Blanuša je 2. novembra rekao da neće podnijeti ostavku, jer bi to produbilo krizu.",
-      "On 2 November Blanuša said he will not resign, because that would deepen the crisis."
-     ],
-     [
-      "Jakovljević najavljuje da će na sljedećoj sjednici glasati za Petrovićev povratak, ali datum sjednice nije poznat.",
-      "Jakovljević announces that he will vote for Petrović’s return at the next session, but the date of the session is not known."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "pobuna",
-     "revolt"
-    ],
-    [
-     "predsjednik",
-     "president"
-    ],
-    [
-     "ostavka",
-     "resignation"
-    ],
-    [
-     "Glavni odbor",
-     "Main Board"
-    ],
-    [
-     "poslanik",
-     "MP (member of parliament)"
-    ],
-    [
-     "žalba",
-     "appeal"
-    ],
-    [
-     "isključen",
-     "expelled"
-    ]
-   ]
-  },
-  {
-   "id": "261108131",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/rukomet/rukometasi-bih-potpuno-nemocni-u-tuzli-dozivjeli-su-tezak-poraz-od-ceske/261108131",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261108131.jpg",
-   "published": "2026-11-08T18:29:00+01:00",
-   "title": [
-    "Rukometaši BiH teško poraženi od Češke u Tuzli",
-    "Handball players of BiH heavily beaten by the Czech Republic in Tuzla"
-   ],
-   "body": [
-    [
-     [
-      "Rukometaši Bosne i Hercegovine izgubili su u Tuzli od Češke 19:32 u kvalifikacijama za Evropsko prvenstvo 2028.",
-      "The handball players of Bosnia and Herzegovina lost 19:32 to the Czech Republic in Tuzla in qualifiers for the 2028 European Championship."
-     ],
-     [
-      "Utakmica je igrana u dvorani Mejdan, a BiH je poveo već u prvoj minuti golom Mehmedovića.",
-      "The match was played in the Mejdan hall, and BiH took the lead in the very first minute with a goal by Mehmedović."
-     ],
-     [
-      "To je, ipak, bilo jedino vodstvo domaćina.",
-      "That was, however, the only lead of the hosts."
-     ]
-    ],
-    [
-     [
-      "Česi su brzo preuzeli kontrolu i poslije 12 minuta vodili su 7:1.",
-      "The Czechs quickly took control and after 12 minutes they led 7:1."
-     ],
-     [
-      "Trener Damir Doborac je do 20. minute potrošio oba tajm-auta, ali to nije pomoglo.",
-      "Coach Damir Doborac used both timeouts by the 20th minute, but that did not help."
-     ],
-     [
-      "Šoljić i Faljić dobili su po dvije isključenja, pa je BiH u jednom trenutku igrala sa dva igrača manje.",
-      "Šoljić and Faljić each got two suspensions, so at one point BiH played with two players fewer."
-     ],
-     [
-      "Poluvrijeme je završilo rezultatom 13:7 za goste.",
-      "The first half ended 13:7 for the guests."
-     ],
-     [
-      "U drugom dijelu Šahinović je s linije sedmeraca držao BiH u igri, a golman Brkić odbranio je dva sedmerca.",
-      "In the second half Šahinović kept BiH in the game from the seven-metre line, and goalkeeper Brkić saved two seven-metre throws."
-     ],
-     [
-      "Šest minuta prije kraja razlika je bila 14 golova.",
-      "Six minutes before the end the gap was 14 goals."
-     ]
-    ],
-    [
-     [
-      "BiH je to drugi poraz u kvalifikacijama, jer je u prvom kolu izgubila od Slovenije 38:28 u Kopru.",
-      "This is BiH's second defeat in the qualifiers, because in the first round it lost to Slovenia 38:28 in Koper."
-     ],
-     [
-      "Ona je jedina ekipa u grupi 5 koja još nema bodova, dok Češka ima četiri.",
-      "It is the only team in group 5 that still has no points, while the Czech Republic has four."
-     ],
-     [
-      "Kvalifikacije se nastavljaju u martu 2027. s dvije utakmice protiv Izraela, a u maju BiH dočekuje Sloveniju.",
-      "The qualifiers continue in March 2027 with two matches against Israel, and in May BiH hosts Slovenia."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "rukometaš",
-     "handball player"
-    ],
-    [
-     "kvalifikacije",
-     "qualifiers"
-    ],
-    [
-     "poraz",
-     "defeat"
-    ],
-    [
-     "vodstvo",
-     "lead"
-    ],
-    [
-     "golman",
-     "goalkeeper"
-    ],
-    [
-     "dvorana",
-     "hall"
-    ]
-   ]
-  },
-  {
-   "id": "261108097",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/gradonacelnik-izraelskog-grada-pokusao-na-ulici-uruciti-tuzbu-iranskom-diplomati-on-ga-ignorisao/261108097",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261108097.jpg",
-   "published": "2026-11-08T17:16:00+01:00",
-   "title": [
-    "Gradonačelnik pokušao uručiti tužbu iranskom diplomati",
-    "Mayor tried to hand a lawsuit to an Iranian diplomat"
-   ],
-   "body": [
-    [
-     [
-      "Gradonačelnik izraelskog grada Bat Jam, Cvika Brot, pokušao je prošle sedmice u New Yorku uručiti tužbu iranskom diplomati.",
-      "The mayor of the Israeli city of Bat Yam, Tzvika Brot, tried last week in New York to hand a lawsuit to an Iranian diplomat."
-     ],
-     [
-      "Radi se o prvom sekretaru iranske misije pri Ujedinjenim nacijama.",
-      "He is the first secretary of Iran’s mission to the United Nations."
-     ],
-     [
-      "Brot mu je prišao na pješačkom prelazu i rekao na engleskom da je gradonačelnik i da je dokument tužba protiv njegove države.",
-      "Brot approached him at a crosswalk and said in English that he was the mayor and that the document was a lawsuit against his country."
-     ]
-    ],
-    [
-     [
-      "Diplomata je odgovorio da je diplomata i da mu je žao, a zatim je otišao.",
-      "The diplomat answered that he was a diplomat and that he was sorry, and then he walked away."
-     ],
-     [
-      "Brot ga je pratio i zamolio da tužbu smatra službeno uručenom njegovoj vladi.",
-      "Brot followed him and asked him to consider the lawsuit officially served to his government."
-     ],
-     [
-      "Grad je podnio tužbu protiv Irana na sudu u Tel Avivu i traži 208 miliona šekela, oko 65 miliona dolara.",
-      "The city has filed a lawsuit against Iran in a court in Tel Aviv and demands 208 million shekels, about 65 million dollars."
-     ],
-     [
-      "Tužba se odnosi na iranski raketni napad od 15. juna 2025. koji je pogodio stambenu zgradu.",
-      "The lawsuit refers to the Iranian missile attack of 15 June 2025, which hit a residential building."
-     ]
-    ],
-    [
-     [
-      "U tom napadu poginulo je devet civila, a skoro 200 ljudi je povrijeđeno.",
-      "In that attack nine civilians were killed and almost 200 people were injured."
-     ],
-     [
-      "Priprema akcije trajala je četiri mjeseca, a prema izraelskim medijima u njoj su učestvovali i izraelski i američki zvaničnici.",
-      "The preparation of the action took four months, and according to Israeli media both Israeli and American officials took part."
-     ],
-     [
-      "Prema izraelskom zakonu, tuženi mora biti obaviješten o tužbi prije nego što postupak počne.",
-      "According to Israeli law, the defendant must be notified of the lawsuit before the proceedings can begin."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "gradonačelnik",
-     "mayor"
-    ],
-    [
-     "tužba",
-     "lawsuit"
-    ],
-    [
-     "uručiti",
-     "to hand over, serve"
-    ],
-    [
-     "diplomata",
-     "diplomat"
-    ],
-    [
-     "šekel",
-     "shekel"
-    ],
-    [
-     "civil",
-     "civilian"
-    ]
-   ]
-  },
-  {
-   "id": "261108119",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/nezaustavljivi-zmaj-haris-tabakovic-postigao-novi-gol-za-salzburg/261108119",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261108119.jpg",
-   "published": "2026-11-08T17:13:00+01:00",
-   "title": [
-    "Tabaković postigao osmi gol sezone za Salzburg",
-    "Tabaković scores his eighth goal of the season for Salzburg"
-   ],
-   "body": [
-    [
-     [
-      "Bosanski napadač Haris Tabaković i u nedjelju je zatresao mrežu u austrijskoj Bundesligi.",
-      "Bosnian striker Haris Tabaković shook the net again on Sunday in the Austrian Bundesliga."
-     ],
-     [
-      "Igrao je za Red Bull Salzburg protiv Sturma u 12. kolu.",
-      "He played for Red Bull Salzburg against Sturm in round 12."
-     ]
-    ],
-    [
-     [
-      "Gol je postigao već u 5. minuti i tako je Salzburgu donio vodstvo.",
-      "He scored already in the 5th minute and so gave Salzburg the lead."
-     ],
-     [
-      "Asistent je bio Mazurek.",
-      "The assist came from Mazurek."
-     ],
-     [
-      "To je Tabakovićev osmi gol u ovoj sezoni.",
-      "It is Tabaković’s eighth goal this season."
-     ],
-     [
-      "Zahvaljujući tome, nalazi se na drugom mjestu liste strijelaca u austrijskoj ligi.",
-      "Thanks to that, he is in second place on the scorers’ list in the Austrian league."
-     ]
-    ],
-    [
-     [
-      "Klix u tekstu ne navodi konačan rezultat utakmice.",
-      "In the text Klix does not give the final score of the match."
-     ],
-     [
-      "Navodi samo da je Tabakovićev gol donio Salzburgu prednost.",
-      "It only says that Tabaković’s goal gave Salzburg an advantage."
-     ],
-     [
-      "Gol možete pogledati na videu koji je objavila televizija Sky Sport Austria.",
-      "You can watch the goal in a video published by the television channel Sky Sport Austria."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "napadač",
-     "striker"
-    ],
-    [
-     "mreža",
-     "net"
-    ],
-    [
-     "kolo",
-     "round"
-    ],
-    [
-     "vodstvo",
-     "lead"
-    ],
-    [
-     "strijelac",
-     "scorer"
-    ],
-    [
-     "sezona",
-     "season"
-    ]
-   ]
-  },
-  {
-   "id": "261108120",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/carolija-zmaja-bajraktarevic-divnim-driblingom-prevario-cuvara-pa-upisao-i-drugu-asistenciju/261108120",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261108120.jpg",
-   "published": "2026-11-08T17:12:00+01:00",
-   "title": [
-    "Bajraktarević za PSV upisao drugu asistenciju",
-    "Bajraktarević records his second assist for PSV"
-   ],
-   "body": [
-    [
-     [
-      "Bosanski reprezentativac Esmir Bajraktarević briljirao je u utakmici 12. kola holandske Eredivisie između Cambuura i PSV-a.",
-      "Bosnian international Esmir Bajraktarević shone in the round 12 match of the Dutch Eredivisie between Cambuur and PSV."
-     ],
-     [
-      "PSV je gostovao i nakon 19 minuta vodio je 3:0.",
-      "PSV was the away team and after 19 minutes led 3:0."
-     ]
-    ],
-    [
-     [
-      "U 15. minuti drugi gol za goste postigao je Mijnans, a asistirao je Ruben van Bommel.",
-      "In the 15th minute Mijnans scored the second goal for the guests, and Ruben van Bommel assisted."
-     ],
-     [
-      "Već u 19. minuti treći gol dao je sam Van Bommel.",
-      "In the 19th minute Van Bommel himself scored the third goal."
-     ],
-     [
-      "Asistent je bio Bajraktarević, koji je lijepim driblingom prevario odbrambenog igrača i dodao loptu saigraču.",
-      "The assist came from Bajraktarević, who beat a defender with a nice dribble and passed the ball to a teammate."
-     ],
-     [
-      "Bilo je to njegovo drugo asistiranje u toj utakmici.",
-      "It was his second assist in that match."
-     ]
-    ],
-    [
-     [
-      "Poslije 19. minute utakmica je prekinuta zbog sukoba navijača.",
-      "After the 19th minute the match was stopped because of clashes between fans."
-     ],
-     [
-      "U trenutku objave teksta igra još nije bila nastavljena.",
-      "At the time the text was published the game had not yet continued."
-     ],
-     [
-      "Klix ne navodi ko je postigao prvi gol za PSV.",
-      "Klix does not say who scored the first goal for PSV."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "reprezentativac",
-     "national team player"
-    ],
-    [
-     "asistencija",
-     "assist"
-    ],
-    [
-     "dribling",
-     "dribble"
-    ],
-    [
-     "gostovati",
-     "to play away"
-    ],
-    [
-     "navijači",
-     "fans"
-    ],
-    [
-     "prekinuti",
-     "to stop, interrupt"
-    ]
-   ]
-  },
-  {
-   "id": "261108115",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/crna-hronika/sarajevo-gore-stari-vagoni-na-depou-zeljeznicke-stanice-u-rajlovcu/261108115",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261108115.jpg",
-   "published": "2026-11-08T16:57:00+01:00",
-   "title": [
-    "U Rajlovcu gore stari vagoni, niko nije ugrožen",
-    "Old wagons are burning in Rajlovac, nobody is in danger"
-   ],
-   "body": [
-    [
-     [
-      "U Sarajevu je u nedjelju izbio požar na starim vagonima na depou željezničke stanice u Rajlovcu.",
-      "On Sunday a fire broke out in Sarajevo on old wagons at the depot of the railway station in Rajlovac."
-     ],
-     [
-      "Čitaoci su Klixu poslali fotografije i video snimke na kojima se vidi veliki plamen i gust crni dim iznad vagona.",
-      "Readers sent Klix photos and videos showing a big flame and thick black smoke above the wagons."
-     ]
-    ],
-    [
-     [
-      "Iz Kantonalne profesionalne vatrogasne jedinice potvrdili su da su na terenu nekoliko ekipa.",
-      "The Cantonal Professional Fire Brigade confirmed that several crews are on the scene."
-     ],
-     [
-      "Vagoni su stari i napušteni, pa vatra ne prijeti ni ljudima ni privatnoj imovini.",
-      "The wagons are old and abandoned, so the fire threatens neither people nor private property."
-     ],
-     [
-      "Vatrogasci su požar brzo ograničili da se ne bi proširio, a sada ga gase do kraja.",
-      "Firefighters quickly limited the fire so it would not spread, and now they are putting it out completely."
-     ],
-     [
-      "Nema podataka o povrijeđenima niti o šteti.",
-      "There is no information about injured people or about damage."
-     ]
-    ],
-    [
-     [
-      "Uzrok požara za sada nije poznat.",
-      "The cause of the fire is not known for now."
-     ],
-     [
-      "Kada se vatra ugasi, policija će izvršiti uviđaj na licu mjesta.",
-      "When the fire is out, the police will carry out an on-site investigation."
-     ],
-     [
-      "Tada bi trebalo biti jasno je li požar podmetnut, a ako jest, ko je za to odgovoran.",
-      "Then it should become clear whether the fire was set on purpose and, if so, who is responsible."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "požar",
-     "fire"
-    ],
-    [
-     "vagon",
-     "railway wagon"
-    ],
-    [
-     "vatrogasac",
-     "firefighter"
-    ],
-    [
-     "uviđaj",
-     "on-site investigation"
-    ],
-    [
-     "napušten",
-     "abandoned"
-    ],
-    [
-     "uzrok",
-     "cause"
-    ]
-   ]
-  },
-  {
-   "id": "261108105",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/film-tv/mini-serija-taken-na-vrhu-netflixa-potresna-prica-o-tinejdzerki-nestaloj-na-ekskurziji/261108105",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261108105.jpg",
-   "published": "2026-11-08T16:28:00+01:00",
-   "title": [
-    "Serija „Taken“ na vrhu Netflixa: priča o nestaloj tinejdžerki",
-    "Series “Taken” tops Netflix: the story of a missing teenager"
-   ],
-   "body": [
-    [
-     [
-      "Dokumentarna mini-serija „Taken: Natalee Holloway“ trenutno je na prvom mjestu gledanosti na Netflixu.",
-      "The documentary mini-series “Taken: Natalee Holloway” is currently first in viewership on Netflix."
-     ],
-     [
-      "Na platformi je od 4. novembra, a prema stranici FlixPatrol prva je među serijama od 7. novembra, sa 707 bodova.",
-      "It has been on the platform since 4 November, and according to the site FlixPatrol it has been first among series since 7 November, with 707 points."
-     ],
-     [
-      "Ima tri epizode, svaka traje od 30 do 45 minuta, a režirali su je Dani Sloane i Matthew Galkin.",
-      "It has three episodes, each lasting 30 to 45 minutes, and it was directed by Dani Sloane and Matthew Galkin."
-     ]
-    ],
-    [
-     [
-      "Serija govori o Natalee Holloway, koja je nestala 30. maja 2005. na maturalnom putovanju na Arubi.",
-      "The series is about Natalee Holloway, who disappeared on 30 May 2005 on a graduation trip to Aruba."
-     ],
-     [
-      "Imala je 18 godina, a posljednji put viđena je kada je izlazila iz bara s Holanđaninom Joranom van der Sloot.",
-      "She was 18 years old, and she was last seen leaving a bar with the Dutchman Joran van der Sloot."
-     ],
-     [
-      "Priča je ispričana uglavnom iz ugla njene majke Beth, a ima i ranije neobjavljenih snimaka razgovora s istražiteljima.",
-      "The story is told mainly from the point of view of her mother Beth, and it also includes previously unpublished recordings of conversations with investigators."
-     ]
-    ],
-    [
-     [
-      "Kritičari nisu jedinstveni.",
-      "Critics are not united."
-     ],
-     [
-      "Neki kažu da serija ne donosi mnogo novog onima koji su pratili slučaj, ali dobro prikazuje šta su prošle majka i prijatelji.",
-      "Some say the series does not bring much new to those who followed the case, but shows well what the mother and friends went through."
-     ],
-     [
-      "Drugi je kritikuju zbog kratkih epizoda, jer smatraju da bi dugometražni film bolje ispričao priču.",
-      "Others criticise it for the short episodes, because they think a feature-length film would tell the story better."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "mini-serija",
-     "mini-series"
-    ],
-    [
-     "dokumentarni",
-     "documentary"
-    ],
-    [
-     "gledanost",
-     "viewership"
-    ],
-    [
-     "nestati",
-     "to disappear"
-    ],
-    [
-     "majka",
-     "mother"
-    ],
-    [
-     "kritičar",
-     "critic"
-    ],
-    [
-     "istražitelj",
-     "investigator"
-    ]
-   ]
-  },
-  {
-   "id": "261108086",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/nauka/nasa-izabrala-osam-firmi-za-dostave-na-mjesec-do-10-milijardi-dolara/261108086",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261108086.jpg",
-   "published": "2026-11-08T14:28:00+01:00",
-   "title": [
-    "NASA izabrala osam firmi za dostave na Mjesec",
-    "NASA chose eight companies for deliveries to the Moon"
-   ],
-   "body": [
-    [
-     [
-      "Američka svemirska agencija NASA izabrala je osam kompanija koje će dostavljati teret na Mjesec.",
-      "The American space agency NASA chose eight companies that will deliver cargo to the Moon."
-     ],
-     [
-      "To su SpaceX, Blue Origin, Firefly Aerospace, Intuitive Machines, iSpace US, Lockheed Martin Space, Northrop Grumman Space Systems i Voyager Technologies.",
-      "They are SpaceX, Blue Origin, Firefly Aerospace, Intuitive Machines, iSpace US, Lockheed Martin Space, Northrop Grumman Space Systems and Voyager Technologies."
-     ],
-     [
-      "Odluka je objavljena u subotu na sajmu na svemirskom centru Kennedy na Floridi.",
-      "The decision was announced on Saturday at a fair at the Kennedy Space Center in Florida."
-     ]
-    ],
-    [
-     [
-      "Ugovor vrijedi do 10 milijardi dolara u narednih 10 godina.",
-      "The contract is worth up to 10 billion dollars over the next 10 years."
-     ],
-     [
-      "To je gornja granica za buduće misije, a ne novac koji je već dodijeljen, jer će se firme takmičiti za svaku pojedinačnu dostavu.",
-      "This is an upper limit for future missions, not money that has already been awarded, because the companies will compete for each individual delivery."
-     ],
-     [
-      "Granica trenutnog ugovora povećana je s 2,6 na 4,2 milijarde dolara.",
-      "The limit of the current contract was raised from 2.6 to 4.2 billion dollars."
-     ],
-     [
-      "Blue Origin je dobio 94 miliona dolara za robotsko vozilo PROMISE, koje će raditi i tokom duge mjesečeve noći.",
-      "Blue Origin received 94 million dollars for the PROMISE rover, which will work even during the long lunar night."
-     ],
-     [
-      "Lansiranje je planirano krajem 2028.",
-      "The launch is planned for the end of 2028."
-     ]
-    ],
-    [
-     [
-      "Cilj je stalna baza na južnom polu Mjeseca.",
-      "The goal is a permanent base at the Moon’s south pole."
-     ],
-     [
-      "Šef NASA-e Jared Isaacman rekao je da grade bazu na Mjesecu misiju po misiju.",
-      "NASA chief Jared Isaacman said that they are building a base on the Moon mission by mission."
-     ],
-     [
-      "SpaceX će 2028. raketom Starship lansirati i komunikacijske satelite.",
-      "In 2028 SpaceX will also launch communication satellites with its Starship rocket."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "svemirski",
-     "space (adj.)"
-    ],
-    [
-     "teret",
-     "cargo"
-    ],
-    [
-     "ugovor",
-     "contract"
-    ],
-    [
-     "baza",
-     "base"
-    ],
-    [
-     "pol",
-     "pole"
-    ],
-    [
-     "lansiranje",
-     "launch"
-    ],
-    [
-     "vozilo",
-     "vehicle"
     ]
    ]
   }
