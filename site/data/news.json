@@ -1,18 +1,798 @@
 {
- "updated": "2026-11-11T13:45:00+01:00",
+ "updated": "2026-11-11T18:50:00+01:00",
  "front": [
-  "261111176",
-  "261111171",
-  "261111128",
-  "261111145",
-  "261111157",
-  "261111118",
-  "261111172",
+  "261111141",
+  "261111293",
+  "261111300",
+  "261111291",
+  "261111297",
+  "261111296",
+  "261111301",
   "261111046",
-  "261111029"
+  "261111202"
  ],
  "level": "A2",
  "articles": [
+  {
+   "id": "261111300",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/u-istocnom-sarajevu-osvanuo-mural-o-egzodusu-srba-na-njemu-je-lik-popa-zuce-koji-je-terorisao-grbavicu/261111300",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261111300.jpg",
+   "published": "2026-11-11T18:41:00+01:00",
+   "title": [
+    "Novi mural u Istočnom Sarajevu prikazuje popa Žuću",
+    "New mural in East Sarajevo shows pop Žućo"
+   ],
+   "body": [
+    [
+     [
+      "Na jednoj stambenoj zgradi u Istočnom Novom Sarajevu nedavno je naslikan novi mural.",
+      "A new mural was recently painted on a residential building in East Novo Sarajevo."
+     ],
+     [
+      "Zgrada je blizu parka Gavrilo Princip, a mural govori o takozvanom egzodusu Srba iz Sarajeva od 1992. do 1996. godine.",
+      "The building is near Gavrilo Princip park, and the mural is about the so-called exodus of Serbs from Sarajevo from 1992 to 1996."
+     ],
+     [
+      "Na njemu je pravoslavni sveštenik Vojislav Čarkić, poznat kao pop Žućo.",
+      "On it is the Orthodox priest Vojislav Čarkić, known as pop Žućo."
+     ]
+    ],
+    [
+     [
+      "Tokom rata Čarkić je nosio uniformu i komandovao četničkim odredom na Grbavici.",
+      "During the war Čarkić wore a uniform and commanded a Chetnik unit in Grbavica."
+     ],
+     [
+      "Klix piše da je blagosiljao topove i minobacače koji su svaki dan granatirali Sarajevo.",
+      "Klix writes that he blessed the cannons and mortars which shelled Sarajevo every day."
+     ],
+     [
+      "U opsadi grada ubijeno je 1.601 dijete.",
+      "1,601 children were killed in the siege of the city."
+     ],
+     [
+      "Njegov dolazak u Sarajevo 2021. godine, tokom posjete patrijarha Porfirija, izazvao je veliko negodovanje.",
+      "His arrival in Sarajevo in 2021, during the visit of Patriarch Porfirije, caused great outrage."
+     ]
+    ],
+    [
+     [
+      "Klix piše da su priču o egzodusu opovrgnuli historijski dokumenti i presude Haškog tribunala.",
+      "Klix writes that the story of the exodus has been refuted by historical documents and judgments of the Hague Tribunal."
+     ],
+     [
+      "Prema tim izvorima, Srbi nisu bili protjerani, nego je preseljenje početkom 1996. organizovalo rukovodstvo sa Pala.",
+      "According to those sources, the Serbs were not expelled, but the relocation in early 1996 was organized by the leadership in Pale."
+     ],
+     [
+      "SDS je tada širio strah i ljudima davao autobuse i kamione za odlazak.",
+      "At that time the SDS spread fear and gave people buses and trucks to leave."
+     ],
+     [
+      "Zato Klix mural vidi kao prekrajanje historije.",
+      "That is why Klix sees the mural as a rewriting of history."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "mural",
+     "mural"
+    ],
+    [
+     "zgrada",
+     "building"
+    ],
+    [
+     "sveštenik",
+     "priest"
+    ],
+    [
+     "rat",
+     "war"
+    ],
+    [
+     "opsada",
+     "siege"
+    ],
+    [
+     "historija",
+     "history"
+    ],
+    [
+     "presuda",
+     "judgment, verdict"
+    ],
+    [
+     "preseljenje",
+     "relocation"
+    ]
+   ]
+  },
+  {
+   "id": "261111301",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/muzika/objavljen-lineup-coachelle-za-2027-godinu-predvode-ga-dua-lipa-tame-impala-i-sza/261111301",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261111301.jpg",
+   "published": "2026-11-11T18:19:00+01:00",
+   "title": [
+    "Dua Lipa, Tame Impala i SZA predvode Coachellu 2027.",
+    "Dua Lipa, Tame Impala and SZA lead Coachella 2027"
+   ],
+   "body": [
+    [
+     [
+      "Organizatori festivala Coachella objavili su u srijedu imena izvođača za 2027. godinu.",
+      "The organizers of the Coachella festival announced the names of the performers for 2027 on Wednesday."
+     ],
+     [
+      "Glavne zvijezde bit će Dua Lipa, Tame Impala i SZA, a svako od njih predvodit će jednu večer.",
+      "The main stars will be Dua Lipa, Tame Impala and SZA, and each of them will lead one evening."
+     ],
+     [
+      "Festival se održava u kalifornijskoj pustinji, u gradu Indio.",
+      "The festival is held in the Californian desert, in the town of Indio."
+     ]
+    ],
+    [
+     [
+      "Coachella traje dva vikenda po 3 dana, od 9. do 11. i od 16. do 18. aprila.",
+      "Coachella lasts two weekends of 3 days each, from 9 to 11 and from 16 to 18 April."
+     ],
+     [
+      "Tame Impala je bio glavna zvijezda i 2019. godine.",
+      "Tame Impala was also a headliner in 2019."
+     ],
+     [
+      "Tada je Kevin Parker postao prvi Australac koji je predvodio festival.",
+      "Then Kevin Parker became the first Australian to headline the festival."
+     ],
+     [
+      "Dua Lipa je na Coachelli nastupila 2017. godine s Martinom Garrixom.",
+      "Dua Lipa performed at Coachella in 2017 with Martin Garrix."
+     ]
+    ],
+    [
+     [
+      "Prvi put će nastupiti Daddy Yankee, koji je prošlog mjeseca objavio novi album.",
+      "Daddy Yankee will perform for the first time, who released a new album last month."
+     ],
+     [
+      "Na listi su i Madonna, Weezer, Robyn, Måneskin, Kygo i mnogi drugi.",
+      "Also on the list are Madonna, Weezer, Robyn, Måneskin, Kygo and many others."
+     ],
+     [
+      "Ulaznice se počinju prodavati u petak.",
+      "Tickets go on sale on Friday."
+     ],
+     [
+      "Vijest je prenijela agencija AP.",
+      "The news was reported by the AP agency."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "festival",
+     "festival"
+    ],
+    [
+     "izvođač",
+     "performer"
+    ],
+    [
+     "zvijezda",
+     "star"
+    ],
+    [
+     "nastupiti",
+     "to perform"
+    ],
+    [
+     "pustinja",
+     "desert"
+    ],
+    [
+     "vikend",
+     "weekend"
+    ],
+    [
+     "ulaznica",
+     "ticket"
+    ],
+    [
+     "album",
+     "album"
+    ]
+   ]
+  },
+  {
+   "id": "261111296",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/kakav-je-ibrahimovic-kao-otac-sin-je-povratio-a-on-ga-je-natjerao-da-nastavi-trening/261111296",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261111296.jpg",
+   "published": "2026-11-11T18:13:00+01:00",
+   "title": [
+    "Kakav je Zlatan Ibrahimović kao otac na treningu",
+    "What Zlatan Ibrahimović is like as a father at training"
+   ],
+   "body": [
+    [
+     [
+      "Novinar Luigi Garlando ispričao je priču o Zlatanu Ibrahimoviću u jednom podcastu.",
+      "Journalist Luigi Garlando told a story about Zlatan Ibrahimović on a podcast."
+     ],
+     [
+      "Garlando je zajedno sa Zlatanom napisao njegovu knjigu Adrenalina.",
+      "Garlando wrote his book Adrenalina together with Zlatan."
+     ],
+     [
+      "Porodica Ibrahimović bila je na jahti na Ibizi, a Zlatan se vratio s treninga sav znojan.",
+      "The Ibrahimović family was on a yacht in Ibiza, and Zlatan came back from training all sweaty."
+     ]
+    ],
+    [
+     [
+      "Probudio je sinove Maximiliana i Vincenta i odveo ih na trening bez doručka.",
+      "He woke his sons Maximilian and Vincent and took them to training without breakfast."
+     ],
+     [
+      "Bilo je vruće, pa je mlađem Vincentu bilo teško, dok je stariji Maximilian sve završio.",
+      "It was hot, so the younger Vincent had a hard time, while the older Maximilian finished everything."
+     ],
+     [
+      "Vincent je povratio, ali ga je otac natjerao da trči još jednom.",
+      "Vincent vomited, but his father made him run once more."
+     ],
+     [
+      "Zlatan mu je onda rekao da uvijek možeš još malo, čak i kada misliš da više ne možeš.",
+      "Zlatan then told him that you can always do a little more, even when you think you can't anymore."
+     ]
+    ],
+    [
+     [
+      "Garlando je rekao da Zlatan nije htio tu priču u knjizi.",
+      "Garlando said that Zlatan did not want that story in the book."
+     ],
+     [
+      "U šali mu je rekao da će mu oduzeti švedsko državljanstvo ako je objavi.",
+      "He jokingly told him that he would take away his Swedish citizenship if he published it."
+     ],
+     [
+      "Ipak, Zlatan je pustio sinove da sami otkriju fudbal i nije im stalno dolazio na treninge.",
+      "However, Zlatan let his sons discover football themselves and did not keep coming to their training sessions."
+     ],
+     [
+      "Danas obojica igraju fudbal na visokom nivou.",
+      "Today both of them play football at a high level."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "otac",
+     "father"
+    ],
+    [
+     "sin",
+     "son"
+    ],
+    [
+     "trening",
+     "training"
+    ],
+    [
+     "probuditi",
+     "to wake (someone) up"
+    ],
+    [
+     "doručak",
+     "breakfast"
+    ],
+    [
+     "povratiti",
+     "to vomit"
+    ],
+    [
+     "natjerati",
+     "to force, to make (someone do something)"
+    ],
+    [
+     "državljanstvo",
+     "citizenship"
+    ]
+   ]
+  },
+  {
+   "id": "261111297",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/alajbegovic-fotografisan-kamerom-koja-je-stara-129-godina-isto-koliko-i-juventus/261111297",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261111297.jpg",
+   "published": "2026-11-11T18:07:00+01:00",
+   "title": [
+    "Alajbegović fotografisan kamerom staroj 129 godina",
+    "Alajbegović photographed with a 129-year-old camera"
+   ],
+   "body": [
+    [
+     [
+      "Juventus je na Facebooku objavio crno-bijele portrete svojih igrača.",
+      "Juventus published black-and-white portraits of its players on Facebook."
+     ],
+     [
+      "Fotografije su snimljene kamerom koja je stara 129 godina, isto koliko i klub.",
+      "The photos were taken with a camera that is 129 years old, the same age as the club."
+     ],
+     [
+      "Juventus je osnovan 1897. godine.",
+      "Juventus was founded in 1897."
+     ]
+    ],
+    [
+     [
+      "Među igračima je i bh. reprezentativac Kerim Alajbegović.",
+      "Among the players is also the Bosnia and Herzegovina international Kerim Alajbegović."
+     ],
+     [
+      "Na slici se smiješi u tamnoj jakni ispred bijelog zida.",
+      "In the picture he smiles in a dark jacket in front of a white wall."
+     ],
+     [
+      "Klub je uz fotografije napisao: Stari objektiv, bezvremenske boje.",
+      "Alongside the photos the club wrote: Old lens, timeless colours."
+     ],
+     [
+      "Alajbegović ima 19 godina i igra kao krilo, a nosi broj 17.",
+      "Alajbegović is 19 years old and plays as a winger, and he wears number 17."
+     ]
+    ],
+    [
+     [
+      "U Juventus je došao u augustu iz Bayer Leverkusena.",
+      "He came to Juventus in August from Bayer Leverkusen."
+     ],
+     [
+      "Do sada je odigrao 10 utakmica u Seriji A, ukupno 470 minuta.",
+      "So far he has played 10 matches in Serie A, a total of 470 minutes."
+     ],
+     [
+      "Za to vrijeme postigao je 1 gol i dao 1 asistenciju.",
+      "In that time he scored 1 goal and made 1 assist."
+     ],
+     [
+      "Rođen je 2007. godine u Kölnu, a prije je igrao i za Red Bull Salzburg.",
+      "He was born in 2007 in Cologne, and he previously also played for Red Bull Salzburg."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "kamera",
+     "camera"
+    ],
+    [
+     "fotografija",
+     "photo"
+    ],
+    [
+     "igrač",
+     "player"
+    ],
+    [
+     "klub",
+     "club"
+    ],
+    [
+     "reprezentativac",
+     "national team player"
+    ],
+    [
+     "osnovati",
+     "to found"
+    ],
+    [
+     "utakmica",
+     "match"
+    ],
+    [
+     "krilo",
+     "winger (literally: wing)"
+    ]
+   ]
+  },
+  {
+   "id": "261111293",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/pandurevic-iskljucena-iz-glavnog-odbora-sds-a-trazi-smjenu-blanuse-i-optuzuje-ga-za-pakt-s-dodikom/261111293",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261111293.jpg",
+   "published": "2026-11-11T18:00:00+01:00",
+   "title": [
+    "Pandurević isključena iz SDS-a, traži smjenu Blanuše",
+    "Pandurević removed in SDS, demands Blanuša's dismissal"
+   ],
+   "body": [
+    [
+     [
+      "Predsjednik SDS-a Branko Blanuša isključio je Aleksandru Pandurević iz Glavnog odbora stranke.",
+      "SDS president Branko Blanuša has removed Aleksandra Pandurević from the party's Main Board."
+     ],
+     [
+      "Iz odbora su isključena i još 3 delegata iz Bijeljine.",
+      "Three more delegates from Bijeljina were also removed from the board."
+     ],
+     [
+      "Pandurević kaže da je ta odluka diktatorska i da je protiv statuta stranke.",
+      "Pandurević says that this decision is dictatorial and against the party statute."
+     ]
+    ],
+    [
+     [
+      "Blanuša se pozvao na pravilo po kojem predsjednik može sam izabrati 26 članova odbora.",
+      "Blanuša referred to a rule by which the president can choose 26 board members himself."
+     ],
+     [
+      "Pandurević tvrdi da nijedno pravilo ne dozvoljava isključenje članova.",
+      "Pandurević claims that no rule allows members to be removed."
+     ],
+     [
+      "Ona misli da Blanuša želi osigurati većinu u odboru i mjesto u Domu naroda BiH.",
+      "She thinks that Blanuša wants to secure a majority on the board and a seat in the House of Peoples of BiH."
+     ],
+     [
+      "Prema njenim riječima, Blanuša je napravio tajni dogovor sa Miloradom Dodikom i SNSD-om.",
+      "According to her, Blanuša made a secret deal with Milorad Dodik and the SNSD."
+     ]
+    ],
+    [
+     [
+      "Ona tvrdi da bi Bijeljina pripala SNSD-u, a SDS bi zauzvrat dobio podršku za mjesto delegata.",
+      "She claims that Bijeljina would go to the SNSD, and in return the SDS would get support for a delegate seat."
+     ],
+     [
+      "Gradonačelnik Bijeljine Ljubiša Petrović i delegati iz tog grada protiv su dogovora sa Dodikom.",
+      "The mayor of Bijeljina, Ljubiša Petrović, and the delegates from that city are against deals with Dodik."
+     ],
+     [
+      "Pandurević je najavila inicijativu da se Blanuša smijeni i isključi iz stranke.",
+      "Pandurević announced an initiative to dismiss Blanuša and expel him from the party."
+     ],
+     [
+      "Rekla je da njihova borba tek počinje.",
+      "She said that their fight is only beginning."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "stranka",
+     "political party"
+    ],
+    [
+     "odbor",
+     "board, committee"
+    ],
+    [
+     "isključiti",
+     "to remove, to expel"
+    ],
+    [
+     "smjena",
+     "dismissal"
+    ],
+    [
+     "statut",
+     "statute, party rules"
+    ],
+    [
+     "dogovor",
+     "deal, agreement"
+    ],
+    [
+     "većina",
+     "majority"
+    ],
+    [
+     "gradonačelnik",
+     "mayor"
+    ]
+   ]
+  },
+  {
+   "id": "261111291",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/erdogan-ugostio-becirovica-i-komsica-u-antaliji-dogovoreno-jacanje-saradnje-bih-i-turske-u-svim-oblastima/261111291",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261111291.jpg",
+   "published": "2026-11-11T17:55:00+01:00",
+   "title": [
+    "Erdogan se u Antaliji sastao s Bećirovićem i Komšićem",
+    "Erdogan met Bećirović and Komšić in Antalya"
+   ],
+   "body": [
+    [
+     [
+      "Turski predsjednik Recep Tayyip Erdogan sastao se u srijedu u Antaliji s Denisom Bećirovićem i Željkom Komšićem.",
+      "Turkish President Recep Tayyip Erdogan met Denis Bećirović and Željko Komšić in Antalya on Wednesday."
+     ],
+     [
+      "Bećirović je predsjedavajući, a Komšić član Predsjedništva BiH.",
+      "Bećirović is the chairman, and Komšić a member of the BiH Presidency."
+     ],
+     [
+      "Sastanak je bio tokom samita lidera na COP31, konferenciji UN-a o klimatskim promjenama.",
+      "The meeting was during the leaders' summit at COP31, the UN conference on climate change."
+     ]
+    ],
+    [
+     [
+      "Gosti iz BiH zahvalili su Erdoganu na tradicionalno toplom gostoprimstvu.",
+      "The guests from BiH thanked Erdogan for the traditionally warm hospitality."
+     ],
+     [
+      "Čestitali su Turskoj jer je uspješno organizovala konferenciju, na koju su došle desetine hiljada ljudi iz cijelog svijeta.",
+      "They congratulated Turkey because it successfully organized the conference, which tens of thousands of people from all over the world came to."
+     ],
+     [
+      "Obje strane su potvrdile da žele jačati saradnju u svim oblastima.",
+      "Both sides confirmed that they want to strengthen cooperation in all areas."
+     ],
+     [
+      "Posebno su govorili o političkoj i ekonomskoj saradnji.",
+      "They spoke especially about political and economic cooperation."
+     ]
+    ],
+    [
+     [
+      "Odnose dvije zemlje opisali su kao prijateljske i kao snažno partnerstvo.",
+      "They described the relations between the two countries as friendly and as a strong partnership."
+     ],
+     [
+      "Rekli su da je važno nastaviti politički dijalog i češće organizovati posjete na najvišem nivou.",
+      "They said that it is important to continue the political dialogue and to organize visits at the highest level more often."
+     ],
+     [
+      "Na sastanku je bio i turski ministar vanjskih poslova Hakan Fidan.",
+      "Turkish Foreign Minister Hakan Fidan was also at the meeting."
+     ],
+     [
+      "Informacije je objavilo Predsjedništvo BiH.",
+      "The information was published by the BiH Presidency."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "sastanak",
+     "meeting"
+    ],
+    [
+     "predsjedništvo",
+     "presidency"
+    ],
+    [
+     "saradnja",
+     "cooperation"
+    ],
+    [
+     "jačati",
+     "to strengthen"
+    ],
+    [
+     "gostoprimstvo",
+     "hospitality"
+    ],
+    [
+     "odnos",
+     "relation, relationship"
+    ],
+    [
+     "posjeta",
+     "visit"
+    ],
+    [
+     "klimatske promjene",
+     "climate change"
+    ]
+   ]
+  },
+  {
+   "id": "261111141",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/nekada-gost-na-sedmicnom-nivou-danas-ga-nema-ni-na-vidiku-zasto-dodik-danima-nije-krocio-u-srbiju/261111141",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261111141.jpg",
+   "published": "2026-11-11T17:32:00+01:00",
+   "title": [
+    "Dodik već 17 dana nije bio u Srbiji",
+    "Dodik has not been to Serbia for 17 days"
+   ],
+   "body": [
+    [
+     [
+      "Milorad Dodik je ranije gotovo svake sedmice dolazio u Beograd.",
+      "Milorad Dodik used to come to Belgrade almost every week."
+     ],
+     [
+      "Od izbora u Srbiji 25. oktobra nije bio tamo već 17 dana.",
+      "Since the election in Serbia on 25 October, he has not been there for 17 days."
+     ],
+     [
+      "Te noći bio je pored Aleksandra Vučića, kada je njegova stranka izgubila vlast nakon 14 godina.",
+      "That night he was beside Aleksandar Vučić, when his party lost power after 14 years."
+     ]
+    ],
+    [
+     [
+      "Vučić je tada rekao da će se uskoro vidjeti promjene u odnosima prema Republici Srpskoj i Sarajevu.",
+      "Vučić said then that changes in relations towards Republika Srpska and Sarajevo would soon be seen."
+     ],
+     [
+      "Dodik se posljednji put sa Vučićem sastao 11. oktobra u jednom beogradskom restoranu.",
+      "Dodik last met Vučić on 11 October in a Belgrade restaurant."
+     ],
+     [
+      "U Srbiji je za dvije sedmice uhapšeno više od 90 ljudi, javio je Al Jazeera Balkans.",
+      "More than 90 people have been arrested in Serbia in two weeks, Al Jazeera Balkans reported."
+     ],
+     [
+      "Među njima su visoki policajci, bankari i direktori javnih preduzeća, a u srijedu je na aerodromu uhapšen i bivši ministar Rade Basta.",
+      "Among them are senior police officers, bankers and directors of public companies, and on Wednesday former minister Rade Basta was also arrested at the airport."
+     ]
+    ],
+    [
+     [
+      "Neki od uhapšenih godinama su bili dio Vučićevog sistema vlasti.",
+      "Some of those arrested were part of Vučić's system of power for years."
+     ],
+     [
+      "Zato Klix pita da li Dodik izbjegava Srbiju jer se boji hapšenja.",
+      "That is why Klix asks whether Dodik is avoiding Serbia because he is afraid of arrest."
+     ],
+     [
+      "Za Dan primirja 11. novembra Dodik nije otišao u Beograd, nego je čestitke poslao iz Banje Luke.",
+      "For Armistice Day on 11 November, Dodik did not go to Belgrade, but sent his greetings from Banja Luka."
+     ],
+     [
+      "On je čestitao pobjedu Studentskoj listi i rekao da će Republika Srpska i Srbija nastaviti saradnju.",
+      "He congratulated the Student List on its victory and said that Republika Srpska and Serbia would continue cooperation."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "sedmica",
+     "week"
+    ],
+    [
+     "izbori",
+     "election"
+    ],
+    [
+     "vlast",
+     "power, government"
+    ],
+    [
+     "hapšenje",
+     "arrest"
+    ],
+    [
+     "uhapsiti",
+     "to arrest"
+    ],
+    [
+     "izbjegavati",
+     "to avoid"
+    ],
+    [
+     "saradnja",
+     "cooperation"
+    ],
+    [
+     "čestitati",
+     "to congratulate"
+    ]
+   ]
+  },
+  {
+   "id": "261111202",
+   "source": "Klix.ba",
+   "section": "Tehnologija",
+   "url": "https://www.klix.ba/scitech/gaming/playstation-5-presao-granicu-od-100-miliona-isporucenih-konzola/261111202",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261111202.jpg",
+   "published": "2026-11-11T14:22:00+01:00",
+   "title": [
+    "Sony isporučio više od 100 miliona konzola PlayStation 5",
+    "Sony has shipped more than 100 million PlayStation 5 consoles"
+   ],
+   "body": [
+    [
+     [
+      "Sony je do 10. novembra isporučio više od 100 miliona konzola PlayStation 5.",
+      "By 10 November Sony had shipped more than 100 million PlayStation 5 consoles."
+     ],
+     [
+      "To je četvrta Sonyjeva konzola koja je prešla tu granicu, nakon PS1, PS2 i PS4.",
+      "It is the fourth Sony console to pass that mark, after the PS1, PS2 and PS4."
+     ],
+     [
+      "PS5 je izašao 12. novembra 2020., pa uskoro slavi 6 godina.",
+      "The PS5 came out on 12 November 2020, so it will soon celebrate 6 years."
+     ]
+    ],
+    [
+     [
+      "Broj pokazuje koliko je konzola poslano prodavnicama, a ne koliko su ih kupci kupili.",
+      "The number shows how many consoles were sent to shops, not how many customers bought."
+     ],
+     [
+      "Krajem septembra Sony je imao 97,9 miliona isporučenih konzola.",
+      "At the end of September Sony had 97.9 million shipped consoles."
+     ],
+     [
+      "Za nešto više od mjesec dana poslano je još najmanje 2,1 milion, i to prije izlaska igre GTA 6 19. novembra.",
+      "In just over a month at least 2.1 million more were sent, ahead of the release of the game GTA 6 on 19 November."
+     ],
+     [
+      "Ipak, prodaja je sporija nego ranije, jer je od jula do septembra isporučeno 2,6 miliona, a godinu prije 4 miliona.",
+      "However, sales are slower than before, because 2.6 million were shipped from July to September, compared with 4 million a year earlier."
+     ]
+    ],
+    [
+     [
+      "Najbolja godina za PS5 bila je od aprila 2023. do marta 2024., s 20,8 miliona konzola.",
+      "The best year for the PS5 was from April 2023 to March 2024, with 20.8 million consoles."
+     ],
+     [
+      "Najprodavanija Sonyjeva konzola i dalje je PS2, s više od 160 miliona.",
+      "Sony's best-selling console is still the PS2, with more than 160 million."
+     ],
+     [
+      "Sony procjenjuje da PlayStation svaki mjesec koristi 127 miliona ljudi.",
+      "Sony estimates that 127 million people use PlayStation every month."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "konzola",
+     "console"
+    ],
+    [
+     "isporučiti",
+     "to ship, to deliver"
+    ],
+    [
+     "granica",
+     "limit, mark"
+    ],
+    [
+     "kupac",
+     "customer, buyer"
+    ],
+    [
+     "prodaja",
+     "sales"
+    ],
+    [
+     "igra",
+     "game"
+    ],
+    [
+     "procjenjivati",
+     "to estimate"
+    ],
+    [
+     "prodavnica",
+     "shop"
+    ]
+   ]
+  },
   {
    "id": "261111171",
    "source": "Klix.ba",
@@ -4986,734 +5766,6 @@
     [
      "primorski",
      "coastal"
-    ]
-   ]
-  },
-  {
-   "id": "261109033",
-   "source": "Klix.ba",
-   "section": "Zdravlje",
-   "url": "https://www.klix.ba/lifestyle/zdravlje/zasto-se-osjecate-umorno-poslije-rucka-i-kako-to-ublaziti/261109033",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261109033.jpg",
-   "published": "2026-11-09T08:26:00+01:00",
-   "title": [
-    "Zašto smo umorni poslije ručka i kako to ublažiti",
-    "Why we feel tired after lunch and how to reduce it"
-   ],
-   "body": [
-    [
-     [
-      "Mnogi ljudi poslije ručka osjećaju pospanost, a to se ljekarski zove postprandijalna somnolencija.",
-      "Many people feel sleepy after lunch, and this is medically called postprandial somnolence."
-     ],
-     [
-      "Dijetetičarka Erin Palinski-Wade kaže da tijelo prirodno gubi budnost obično između 14 i 16 sati.",
-      "Dietitian Erin Palinski-Wade says the body naturally loses alertness, usually between 2 and 4 p.m."
-     ],
-     [
-      "Taj pad se dešava čak i ako potpuno preskočite ručak.",
-      "This dip happens even if you skip lunch completely."
-     ]
-    ],
-    [
-     [
-      "Nedostatak sna pojačava umor, a velik obrok ga čini još gorim.",
-      "Lack of sleep increases tiredness, and a large meal makes it even worse."
-     ],
-     [
-      "U jednoj studiji ljudi koji su spavali pet sati pravili su mnogo više grešaka u vožnji nakon ručka od 922 kalorije.",
-      "In one study, people who slept five hours made many more driving errors after a lunch of 922 calories."
-     ],
-     [
-      "Rafinirani ugljikohidrati, poput bijelog hljeba i tjestenine, izazivaju veće skokove šećera u krvi.",
-      "Refined carbohydrates, like white bread and pasta, cause bigger spikes in blood sugar."
-     ],
-     [
-      "Popodne tijelo i slabije obrađuje glukozu, pa takav ručak dodatno smanjuje energiju.",
-      "In the afternoon the body also processes glucose less efficiently, so such a lunch reduces energy even more."
-     ]
-    ],
-    [
-     [
-      "Savjet je da ugljikohidrate kombinujete sa zdravim mastima, na primjer s kriškama avokada.",
-      "The advice is to combine carbohydrates with healthy fats, for example with slices of avocado."
-     ],
-     [
-      "Tanjir treba sadržavati nemasno meso, povrće, mahunarke i integralne žitarice.",
-      "The plate should contain lean meat, vegetables, legumes and whole grains."
-     ],
-     [
-      "Za mnoge odrasle dobar početak je ručak od 400 do 600 kalorija, a ne 900 ili više.",
-      "For many adults a good start is a lunch of 400 to 600 calories, not 900 or more."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "pospanost",
-     "sleepiness"
-    ],
-    [
-     "ručak",
-     "lunch"
-    ],
-    [
-     "ugljikohidrati",
-     "carbohydrates"
-    ],
-    [
-     "šećer u krvi",
-     "blood sugar"
-    ],
-    [
-     "mahunarke",
-     "legumes"
-    ],
-    [
-     "žitarice",
-     "grains"
-    ]
-   ]
-  },
-  {
-   "id": "261109023",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/barbarez-u-11-sati-izlazi-pred-novinare-zmajevima-treba-jedna-pobjeda-do-baraza-za-ligu-a/261109023",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261109023.jpg",
-   "published": "2026-11-09T07:34:00+01:00",
-   "title": [
-    "Zmajevima treba jedna pobjeda do baraža za Ligu A",
-    "The Dragons need one win to reach the play-off for League A"
-   ],
-   "body": [
-    [
-     [
-      "Selektor Sergej Barbarez danas u 11 sati izlazi pred novinare u prostorijama Nogometnog saveza BiH.",
-      "Selector Sergej Barbarez will appear before the press today at 11:00 at the premises of the Football Association of BiH."
-     ],
-     [
-      "Time počinje posljednje okupljanje reprezentacije u ovoj godini.",
-      "With this the national team's last gathering this year begins."
-     ],
-     [
-      "Spisak igrača već je objavljen na stranici saveza.",
-      "The list of players has already been published on the association's website."
-     ]
-    ],
-    [
-     [
-      "Zmajevi igraju posljednja dva kola Lige nacija.",
-      "The Dragons play the last two rounds of the Nations League."
-     ],
-     [
-      "U subotu, 14. novembra, igraju protiv Švedske u Stockholmu, a 17. novembra primaju Rumuniju na Bilinom polju u Zenici.",
-      "On Saturday, 14 November, they play against Sweden in Stockholm, and on 17 November they host Romania at Bilino polje in Zenica."
-     ],
-     [
-      "Igrači će se okupiti u Sarajevu, gdje će trenirati na Grbavici i Koševu.",
-      "The players will gather in Sarajevo, where they will train at Grbavica and Koševo."
-     ]
-    ],
-    [
-     [
-      "U grupi Švedska ima 10 bodova, BiH 8, Poljska 4, a Rumunija nijedan.",
-      "In the group Sweden has 10 points, BiH 8, Poland 4 and Romania none."
-     ],
-     [
-      "Jedna pobjeda u posljednja dva meča donosi drugo mjesto i baraž za Ligu A u martu 2027.",
-      "One win in the last two matches brings second place and a play-off for League A in March 2027."
-     ],
-     [
-      "Ako BiH dobije oba meča, plasirat će se direktno u Ligu A.",
-      "If BiH wins both matches, it will go up directly to League A."
-     ],
-     [
-      "Jedini konkurent za drugo mjesto je Poljska.",
-      "The only rival for second place is Poland."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "selektor",
-     "national team coach"
-    ],
-    [
-     "novinari",
-     "journalists"
-    ],
-    [
-     "reprezentacija",
-     "national team"
-    ],
-    [
-     "pobjeda",
-     "win"
-    ],
-    [
-     "baraž",
-     "play-off"
-    ],
-    [
-     "bod",
-     "point"
-    ],
-    [
-     "utakmica",
-     "match"
-    ]
-   ]
-  },
-  {
-   "id": "261109022",
-   "source": "Klix.ba",
-   "section": "Biznis",
-   "url": "https://www.klix.ba/biznis/ekonomija/pocinju-trodnevni-pregovori-o-minimalcu-u-rs-u-radnici-traze-vece-plate-za-kvalitetniji-zivot-minic-zeli-dogovor/261109022",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261109022.jpg",
-   "published": "2026-11-09T07:33:00+01:00",
-   "title": [
-    "U RS-u počinju trodnevni pregovori o minimalnoj plati",
-    "Three-day talks about the minimum wage begin in RS"
-   ],
-   "body": [
-    [
-     [
-      "Vlada Republike Srpske danas počinje trodnevne razgovore o minimalnoj plati.",
-      "The Government of Republika Srpska begins three days of talks about the minimum wage today."
-     ],
-     [
-      "Premijer Savo Minić rekao je da će se sastajati sa sindikatima i poslodavcima danas, sutra i u srijedu.",
-      "Prime Minister Savo Minić said he will meet with unions and employers today, tomorrow and on Wednesday."
-     ],
-     [
-      "Vlada želi da se do rješenja dođe dogovorom, a ne jednostranom odlukom.",
-      "The government wants a solution to be reached by agreement, not by a one-sided decision."
-     ]
-    ],
-    [
-     [
-      "Na sastanku Ekonomsko-socijalnog vijeća 2. novembra svi su se složili da plata mora rasti ove godine, ali ne i za koliko.",
-      "At the Economic and Social Council meeting on 2 November everyone agreed that the wage must rise this year, but not by how much."
-     ],
-     [
-      "Poslodavci traže da povećanje prati makroekonomske pokazatelje i da se razlika nadoknadi nižim porezima.",
-      "Employers want the increase to follow macroeconomic indicators and the difference to be covered by lower taxes."
-     ],
-     [
-      "Sindikat poručuje da radnici očekuju veću platu kako bi kvalitetnije živjeli.",
-      "The union says workers expect a higher wage so that they can live better."
-     ],
-     [
-      "Danas osnovna minimalna plata iznosi 1.000 KM, a za više kvalifikacije do 1.450 KM.",
-      "Today the basic minimum wage is 1,000 KM, and for higher qualifications up to 1,450 KM."
-     ]
-    ],
-    [
-     [
-      "Prosječna neto plata u RS-u u septembru bila je 1.727 KM.",
-      "The average net wage in RS in September was 1,727 KM."
-     ],
-     [
-      "Osnovna minimalna plata je oko 58 posto prosječne.",
-      "The basic minimum wage is about 58 percent of the average."
-     ],
-     [
-      "Prije pet godina minimalac je iznosio samo 520 KM.",
-      "Five years ago the minimum wage was only 520 KM."
-     ],
-     [
-      "Minić je naglasio da sindikati i poslodavci moraju donijeti stvarne podatke.",
-      "Minić stressed that unions and employers must bring real data."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "minimalna plata",
-     "minimum wage"
-    ],
-    [
-     "pregovori",
-     "negotiations"
-    ],
-    [
-     "sindikat",
-     "trade union"
-    ],
-    [
-     "poslodavac",
-     "employer"
-    ],
-    [
-     "vlada",
-     "government"
-    ],
-    [
-     "povećanje",
-     "increase"
-    ],
-    [
-     "dogovor",
-     "agreement"
-    ]
-   ]
-  },
-  {
-   "id": "261109020",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/preminuo-napadac-iz-krakowa-koji-je-na-glavnom-trgu-ubio-sest-ljudi/261109020",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261109020.jpg",
-   "published": "2026-11-09T07:20:00+01:00",
-   "title": [
-    "Preminuo napadač iz Krakowa koji je ubio šest ljudi",
-    "The attacker from Kraków who killed six people has died"
-   ],
-   "body": [
-    [
-     [
-      "Napadač koji je u subotu na glavnom trgu u Krakowu ubio šest ljudi preminuo je u bolnici.",
-      "The attacker who on Saturday killed six people on the main square in Kraków has died in hospital."
-     ],
-     [
-      "To je jutros objavila policija regije Malopolska na društvenoj mreži X.",
-      "The police of the Lesser Poland region announced this this morning on the social network X."
-     ],
-     [
-      "Riječ je o 24-godišnjem muškarcu iz grada Ostrowiec Swietokrzyski.",
-      "He is a 24-year-old man from the town of Ostrowiec Swietokrzyski."
-     ]
-    ],
-    [
-     [
-      "Napad se dogodio u subotu oko 15:00, kada je vozilom stigao na trg i pucao na slučajne prolaznike.",
-      "The attack happened on Saturday around 15:00, when he arrived at the square by car and shot at random passers-by."
-     ],
-     [
-      "Poginule su četiri žene i dva muškarca, među njima i jedan Britanac i jedna Austrijanka.",
-      "Four women and two men were killed, among them a British man and an Austrian woman."
-     ],
-     [
-      "Petnaest osoba je ranjeno.",
-      "Fifteen people were wounded."
-     ],
-     [
-      "Policija ga je zaustavila u pokušaju bijega, a u razmjeni vatre ranjena su i dva policajca.",
-      "Police stopped him as he tried to flee, and two officers were wounded in the exchange of fire."
-     ]
-    ],
-    [
-     [
-      "Napadač je poslije hapšenja više puta operisan, ali je stanje bilo kritično.",
-      "After the arrest the attacker had several operations, but his condition was critical."
-     ],
-     [
-      "Tužilaštvo je u nedjelju otvorilo istragu i slučaj tretira kao teroristički čin.",
-      "The prosecutor's office opened an investigation on Sunday and treats the case as a terrorist act."
-     ],
-     [
-      "Vlasti su ranije rekle da je imao ultranacionalističke stavove.",
-      "Authorities said earlier that he held ultranationalist views."
-     ],
-     [
-      "Poljska je proglasila dva dana nacionalne žalosti.",
-      "Poland has declared two days of national mourning."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "napadač",
-     "attacker"
-    ],
-    [
-     "preminuti",
-     "to die"
-    ],
-    [
-     "bolnica",
-     "hospital"
-    ],
-    [
-     "istraga",
-     "investigation"
-    ],
-    [
-     "tužilaštvo",
-     "prosecutor's office"
-    ],
-    [
-     "žalost",
-     "mourning"
-    ],
-    [
-     "ranjen",
-     "wounded"
-    ]
-   ]
-  },
-  {
-   "id": "261109016",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/preminuo-dzevad-prekazi-legenda-koju-su-na-rukama-nosili-beograd-i-istanbul/261109016",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261109016.jpg",
-   "published": "2026-11-09T07:14:00+01:00",
-   "title": [
-    "Preminuo Dževad Prekazi, legenda Partizana i Galatasaraya",
-    "Dževad Prekazi, a legend of Partizan and Galatasaray, has died"
-   ],
-   "body": [
-    [
-     [
-      "Nekadašnji fudbaler Dževad Prekazi preminuo je u 70. godini.",
-      "Former footballer Dževad Prekazi has died at the age of 70."
-     ],
-     [
-      "Vijest je u nedjelju potvrdio beogradski Partizan, koji se od njega oprostio emotivnom porukom.",
-      "The news was confirmed on Sunday by Belgrade's Partizan, which said goodbye to him with an emotional message."
-     ],
-     [
-      "Rođen je 18. augusta 1957. u Kosovskoj Mitrovici.",
-      "He was born on 18 August 1957 in Kosovska Mitrovica."
-     ]
-    ],
-    [
-     [
-      "U Partizanu je prošao kroz omladinski pogon, a za prvi tim igrao je od 1976. do 1983.",
-      "At Partizan he went through the youth system, and he played for the first team from 1976 to 1983."
-     ],
-     [
-      "Prema podacima kluba, odigrao je 175 utakmica i postigao 23 gola.",
-      "According to the club's data, he played 175 matches and scored 23 goals."
-     ],
-     [
-      "Osvojio je tri titule prvaka Jugoslavije i Mitropa kup 1978.",
-      "He won three Yugoslav league titles and the Mitropa Cup in 1978."
-     ],
-     [
-      "Poslije sukoba s upravom Partizana prešao je u Hajduk, s kojim je osvojio Kup Jugoslavije.",
-      "After a dispute with Partizan's management he moved to Hajduk, with whom he won the Yugoslav Cup."
-     ]
-    ],
-    [
-     [
-      "Godine 1985. otišao je u Galatasaray, gdje je proveo šest sezona.",
-      "In 1985 he went to Galatasaray, where he spent six seasons."
-     ],
-     [
-      "Tamo je osvojio dva naslova prvaka Turske, a navijači su ga zvali „Cevad“.",
-      "There he won two Turkish league titles, and fans called him “Cevad”."
-     ],
-     [
-      "Kasnije je trenirao Železnik i radio s mladim igračima u OFK Beogradu i Partizanu.",
-      "Later he coached Železnik and worked with young players at OFK Beograd and Partizan."
-     ],
-     [
-      "U intervjuu iz 2017. rekao je da želi biti sahranjen u crno-bijelom dresu Partizana.",
-      "In an interview in 2017 he said he wanted to be buried in the black-and-white Partizan jersey."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "fudbaler",
-     "footballer"
-    ],
-    [
-     "preminuti",
-     "to die"
-    ],
-    [
-     "titula",
-     "title"
-    ],
-    [
-     "prvak",
-     "champion"
-    ],
-    [
-     "navijač",
-     "fan"
-    ],
-    [
-     "dres",
-     "jersey"
-    ],
-    [
-     "oprostiti se",
-     "to say goodbye"
-    ]
-   ]
-  },
-  {
-   "id": "261103134",
-   "source": "Klix.ba",
-   "section": "Biznis",
-   "url": "https://www.klix.ba/biznis/ekonomija/domaci-farmeri-u-zacaranom-krugu-meso-ne-mogu-izvoziti-a-na-vlastitom-trzistu-gube-bitku-s-uvozom/261103134",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261103134.jpg",
-   "published": "2026-11-09T07:06:00+01:00",
-   "title": [
-    "Farmeri u BiH ne mogu izvoziti meso, a uvoz raste",
-    "Farmers in BiH cannot export meat, while imports are growing"
-   ],
-   "body": [
-    [
-     [
-      "Domaći stočari u Bosni i Hercegovini kažu da su u začaranom krugu.",
-      "Domestic livestock farmers in Bosnia and Herzegovina say they are in a vicious circle."
-     ],
-     [
-      "Meso ne mogu izvoziti u Evropsku uniju, a na svom tržištu sve teže konkurišu uvozu.",
-      "They cannot export meat to the European Union, and on their own market it is getting harder to compete with imports."
-     ],
-     [
-      "Miljan Erbez iz udruženja proizvođača kaže da BiH više od tri decenije poslije rata nema mehanizme za ispunjavanje evropskih standarda.",
-      "Miljan Erbez from the producers' association says that more than three decades after the war BiH has no mechanisms to meet European standards."
-     ]
-    ],
-    [
-     [
-      "Prošle godine BiH je izvezla meso i mesne prerađevine vrijedne 140,25 miliona KM, što je 3,09 posto manje nego ranije.",
-      "Last year BiH exported meat and meat products worth 140.25 million KM, which is 3.09 percent less than before."
-     ],
-     [
-      "Uvoz je istovremeno porastao za 3,56 posto i iznosio je 719,84 miliona KM.",
-      "At the same time imports grew by 3.56 percent and reached 719.84 million KM."
-     ],
-     [
-      "Izvoz, dakle, pokriva samo 19,48 posto uvoza.",
-      "So exports cover only 19.48 percent of imports."
-     ],
-     [
-      "Posebno je rastao uvoz smrznutog goveđeg mesa, i to za više od 80 posto.",
-      "Imports of frozen beef grew especially, by more than 80 percent."
-     ]
-    ],
-    [
-     [
-      "Udruženje kaže da u zemlji ne radi sistem za označavanje i praćenje stoke.",
-      "The association says the system for marking and tracking cattle does not work in the country."
-     ],
-     [
-      "Zato se mnoge firme boje da će izgubiti i tradicionalna tržišta, posebno hrvatsko.",
-      "That is why many firms fear they will lose traditional markets too, especially the Croatian one."
-     ],
-     [
-      "Mljekari su u lošoj situaciji jer je otkupna cijena mlijeka pala i do 30 posto.",
-      "Dairy farmers are in a bad situation because the purchase price of milk has fallen by up to 30 percent."
-     ],
-     [
-      "Prema njihovom izračunu, jedna krava donosi 634 KM gubitka godišnje.",
-      "According to their calculation, one cow brings a loss of 634 KM per year."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "stočar",
-     "livestock farmer"
-    ],
-    [
-     "izvoz",
-     "export"
-    ],
-    [
-     "uvoz",
-     "import"
-    ],
-    [
-     "tržište",
-     "market"
-    ],
-    [
-     "otkupna cijena",
-     "purchase price"
-    ],
-    [
-     "mesne prerađevine",
-     "meat products"
-    ],
-    [
-     "standard",
-     "standard"
-    ]
-   ]
-  },
-  {
-   "id": "261109013",
-   "source": "Klix.ba",
-   "section": "Biznis",
-   "url": "https://www.klix.ba/biznis/finansije/cijena-nafte-stabilna-nakon-najveceg-sedmicnog-pada-od-pocetka-pandemije-koronavirusa/261109013",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261109013.jpg",
-   "published": "2026-11-09T07:02:00+01:00",
-   "title": [
-    "Cijena nafte stabilna nakon velikog sedmičnog pada",
-    "The oil price is stable after a big weekly drop"
-   ],
-   "body": [
-    [
-     [
-      "Svjetske cijene nafte u ponedjeljak ujutro gotovo se nisu promijenile.",
-      "World oil prices hardly changed on Monday morning."
-     ],
-     [
-      "Brent nafta porasla je za 3 centa na 98,35 dolara za barel, javlja agencija Reuters.",
-      "Brent crude rose by 3 cents to 98.35 dollars a barrel, the Reuters agency reports."
-     ],
-     [
-      "Američka nafta WTI porasla je za 0,5 posto, na 91,30 dolara.",
-      "American WTI crude rose by 0.5 percent, to 91.30 dollars."
-     ]
-    ],
-    [
-     [
-      "Na otvaranju tržišta cijena je pala za 64 centa, a u jednom trenutku čak za više od jednog dolara.",
-      "When the market opened, the price fell by 64 cents, and at one moment by more than one dollar."
-     ],
-     [
-      "Prošle sedmice Brent je pao za 16 posto, što je najveći sedmični pad od početka pandemije 2020. godine.",
-      "Last week Brent fell by 16 percent, which is the biggest weekly drop since the start of the pandemic in 2020."
-     ],
-     [
-      "Cijene su pale jer se nada da bi razgovori SAD-a i Irana mogli smanjiti opasnost za snabdijevanje kroz Hormuški moreuz.",
-      "Prices fell because there is hope that talks between the USA and Iran could reduce the danger for supply through the Strait of Hormuz."
-     ]
-    ],
-    [
-     [
-      "Uprkos padu, nafta je i dalje oko 54 posto skuplja nego prije godinu dana.",
-      "Despite the drop, oil is still about 54 percent more expensive than a year ago."
-     ],
-     [
-      "Banka JPMorgan procjenjuje da je svjetski višak nafte u oktobru porastao na 1,4 miliona barela dnevno.",
-      "The bank JPMorgan estimates that the world oil surplus rose to 1.4 million barrels a day in October."
-     ],
-     [
-      "Razlozi su oporavak ponude na Bliskom istoku, veća proizvodnja u drugim zemljama i slaba potražnja.",
-      "The reasons are the recovery of supply in the Middle East, higher production in other countries and weak demand."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "nafta",
-     "oil"
-    ],
-    [
-     "barel",
-     "barrel"
-    ],
-    [
-     "pad",
-     "drop"
-    ],
-    [
-     "moreuz",
-     "strait"
-    ],
-    [
-     "višak",
-     "surplus"
-    ],
-    [
-     "potražnja",
-     "demand"
-    ],
-    [
-     "proizvodnja",
-     "production"
-    ]
-   ]
-  },
-  {
-   "id": "261109010",
-   "source": "Klix.ba",
-   "section": "Vrijeme",
-   "url": "https://www.klix.ba/vijesti/bih/danas-vecinom-oblacno-kisa-u-hercegovini-i-dijelu-bosne-uz-porast-temperature/261109010",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261109010.jpg",
-   "published": "2026-11-09T06:49:00+01:00",
-   "title": [
-    "Danas oblačno, kiša u Hercegovini i dijelu Bosne",
-    "Cloudy today, rain in Herzegovina and part of Bosnia"
-   ],
-   "body": [
-    [
-     [
-      "Danas će u Bosni i Hercegovini biti pretežno oblačno, javlja Federalni hidrometeorološki zavod.",
-      "Today it will be mostly cloudy in Bosnia and Herzegovina, the Federal Hydrometeorological Institute reports."
-     ],
-     [
-      "Kiša se očekuje uglavnom u prvom dijelu dana, i to u Hercegovini, istočnoj Bosni i dijelu središnje Bosne.",
-      "Rain is expected mainly in the first part of the day, in Herzegovina, eastern Bosnia and part of central Bosnia."
-     ],
-     [
-      "Vjetar će biti slab, sa zapada ili sjeverozapada.",
-      "The wind will be weak, from the west or northwest."
-     ]
-    ],
-    [
-     [
-      "Jutarnja temperatura bit će od 3 do 9 stepeni, a na jugu do 13.",
-      "Morning temperature will be from 3 to 9 degrees, and in the south up to 13."
-     ],
-     [
-      "Tokom dana bit će od 9 do 15 stepeni, a na jugu do 19.",
-      "During the day it will be from 9 to 15 degrees, and in the south up to 19."
-     ],
-     [
-      "U Sarajevu će biti umjereno do pretežno oblačno, uz povremenu slabu kišu.",
-      "In Sarajevo it will be moderately to mostly cloudy, with occasional light rain."
-     ],
-     [
-      "Ujutro će biti oko 5 stepeni, a popodne oko 13.",
-      "In the morning it will be about 5 degrees, and in the afternoon about 13."
-     ]
-    ],
-    [
-     [
-      "U utorak se očekuje oblačno vrijeme s kišom, koja će biti najjača poslijepodne i u noći.",
-      "On Tuesday cloudy weather with rain is expected, which will be strongest in the afternoon and at night."
-     ],
-     [
-      "Kiša nastavlja i u srijedu, uz temperature do 16 stepeni, a na jugu do 18.",
-      "The rain continues on Wednesday, with temperatures up to 16 degrees, and in the south up to 18."
-     ],
-     [
-      "U četvrtak će biti najtoplije, do 23 stepeni, uz umjeren do jak jugozapadni vjetar.",
-      "On Thursday it will be the warmest, up to 23 degrees, with a moderate to strong southwest wind."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "kiša",
-     "rain"
-    ],
-    [
-     "oblačno",
-     "cloudy"
-    ],
-    [
-     "vjetar",
-     "wind"
-    ],
-    [
-     "temperatura",
-     "temperature"
-    ],
-    [
-     "stepen",
-     "degree"
-    ],
-    [
-     "prognoza",
-     "forecast"
-    ],
-    [
-     "povremeno",
-     "occasionally"
     ]
    ]
   }
