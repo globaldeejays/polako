@@ -1,18 +1,864 @@
 {
- "updated": "2026-11-12T07:50:00+01:00",
+ "updated": "2026-11-12T13:50:00+01:00",
  "front": [
-  "261112013",
-  "261112002",
-  "261112003",
+  "261112085",
+  "261112134",
+  "261112127",
+  "261112175",
+  "261112154",
+  "261112170",
   "261112010",
-  "261112004",
-  "261112025",
-  "261112016",
-  "261111336",
-  "261111338"
+  "261112153",
+  "261112036",
+  "261112139"
  ],
- "level": "A2",
  "articles": [
+  {
+   "id": "261112175",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/bh-fanaticosi-najavili-show-na-ulicama-stockholma-od-navijaca-bih-traze-da-dodu-u-crnom/261112175",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261112175.jpg",
+   "published": "2026-11-12T13:27:00+01:00",
+   "title": [
+    "BH Fanaticosi pozivaju navijače da u Solnu dođu u crnom",
+    "BH Fanaticos call on fans to come to Solna in black"
+   ],
+   "body": [
+    [
+     [
+      "Navijačka grupa BH Fanaticos pozvala je navijače BiH na zajednički marš do stadiona u Solni.",
+      "The fan group BH Fanaticos has called BiH fans to a joint march to the stadium in Solna."
+     ],
+     [
+      "Reprezentacija BiH u subotu igra protiv Švedske u Ligi nacija.",
+      "The BiH national team plays against Sweden in the Nations League on Saturday."
+     ],
+     [
+      "Navijači trebaju doći obučeni u crno, jer će i grupa nositi crnu odjeću.",
+      "Fans should come dressed in black, because the group will also wear black clothes."
+     ]
+    ],
+    [
+     [
+      "Poziv je objavljen na Facebook stranici \"Operacija Stockholm\".",
+      "The call was published on the Facebook page \"Operacija Stockholm\"."
+     ],
+     [
+      "Mjesto i vrijeme okupljanja biće objavljeni na dan utakmice.",
+      "The meeting place and time will be announced on the day of the match."
+     ],
+     [
+      "Svih 52.000 ulaznica je prodano, a sektor za gostujuće navijače je pun.",
+      "All 52,000 tickets have been sold, and the section for away fans is full."
+     ],
+     [
+      "Utakmica počinje u 20:45, a pobjeda bi Zmajeve dovela na prvo mjesto u grupi.",
+      "The match starts at 20:45, and a win would take the Dragons to first place in the group."
+     ]
+    ],
+    [
+     [
+      "Grupa podsjeća da u Švedskoj živi mnogo ljudi porijeklom iz BiH, a hiljade će doći i iz drugih zemalja.",
+      "The group reminds that many people of BiH origin live in Sweden, and thousands will also come from other countries."
+     ],
+     [
+      "Od navijača traže da budu glasni, ali i dostojanstveni.",
+      "They ask fans to be loud, but also dignified."
+     ],
+     [
+      "Sličan marš organizovali su u oktobru u Zenici, kada su BiH i Švedska igrale 1:1.",
+      "They organised a similar march in October in Zenica, when BiH and Sweden played 1:1."
+     ],
+     [
+      "Švedski selektor Graham Potter rekao je da očekuje mnogo navijača BiH na tribinama.",
+      "Swedish head coach Graham Potter said that he expects many BiH fans in the stands."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "navijač",
+     "fan, supporter"
+    ],
+    [
+     "marš",
+     "march"
+    ],
+    [
+     "obučen",
+     "dressed"
+    ],
+    [
+     "ulaznica",
+     "ticket"
+    ],
+    [
+     "okupljanje",
+     "gathering"
+    ],
+    [
+     "dostojanstven",
+     "dignified"
+    ],
+    [
+     "tribina",
+     "stand (in a stadium)"
+    ]
+   ]
+  },
+  {
+   "id": "261112170",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/katic-o-kolegi-idem-toliko-daleko-pa-cu-reci-muharemovic-medu-pet-najboljih-stopera-svijeta/261112170",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261112170.jpg",
+   "published": "2026-11-12T13:12:00+01:00",
+   "title": [
+    "Katić: Muharemović je među pet najboljih stopera svijeta",
+    "Katić: Muharemović is among the five best centre-backs in the world"
+   ],
+   "body": [
+    [
+     [
+      "Štoper reprezentacije BiH Nikola Katić rekao je da je subotnja utakmica protiv Švedske najvažnija u ovom dijelu Lige nacija.",
+      "BiH national team centre-back Nikola Katić said that Saturday's match against Sweden is the most important in this part of the Nations League."
+     ],
+     [
+      "Zmajevi igraju u Solni kod Stockholma, a tri dana kasnije dočekuju Rumuniju u Zenici.",
+      "The Dragons play in Solna near Stockholm, and three days later they host Romania in Zenica."
+     ],
+     [
+      "Jedna pobjeda donosi drugo mjesto, a dvije pobjede prvo mjesto u grupi.",
+      "One win brings second place, and two wins first place in the group."
+     ]
+    ],
+    [
+     [
+      "Katić kaže da Švedska ima brze igrače s mnogo kvaliteta.",
+      "Katić says that Sweden has fast players with a lot of quality."
+     ],
+     [
+      "Ipak, smatra da i BiH ima talentovane igrače i da će igrati bez straha.",
+      "Still, he thinks that BiH also has talented players and that they will play without fear."
+     ],
+     [
+      "Na utakmici neće igrati Tarik Muharemović, jer ima previše žutih kartona.",
+      "Tarik Muharemović will not play in the match, because he has too many yellow cards."
+     ],
+     [
+      "Katić je rekao da je to veliki gubitak i da je Muharemović možda među pet najboljih štopera na svijetu.",
+      "Katić said that this is a big loss and that Muharemović may be among the five best centre-backs in the world."
+     ]
+    ],
+    [
+     [
+      "Dodao je da će ostali odbrambeni igrači dobro odraditi posao.",
+      "He added that the other defenders will do the job well."
+     ],
+     [
+      "Edin Džeko, koji se u oktobru oprostio od reprezentacije, doći će na utakmicu da podrži tim.",
+      "Edin Džeko, who said goodbye to the national team in October, will come to the match to support the team."
+     ],
+     [
+      "Katić je rekao da se on i Džeko stalno čuju i da će ga biti teško zamijeniti.",
+      "Katić said that he and Džeko talk all the time and that he will be hard to replace."
+     ],
+     [
+      "Katić ima ugovor sa Schalkeom do ljeta 2028. godine.",
+      "Katić has a contract with Schalke until the summer of 2028."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "štoper",
+     "centre-back"
+    ],
+    [
+     "pobjeda",
+     "win, victory"
+    ],
+    [
+     "strah",
+     "fear"
+    ],
+    [
+     "žuti karton",
+     "yellow card"
+    ],
+    [
+     "gubitak",
+     "loss"
+    ],
+    [
+     "zamijeniti",
+     "to replace"
+    ],
+    [
+     "ugovor",
+     "contract"
+    ]
+   ]
+  },
+  {
+   "id": "261112153",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/kultura/preminuo-britanski-fotoreporter-steve-connors-covjek-koji-je-biljezio-stradanje-opkoljenog-sarajeva/261112153",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261112153.jpg",
+   "published": "2026-11-12T12:57:00+01:00",
+   "title": [
+    "Preminuo Steve Connors, fotoreporter iz opkoljenog Sarajeva",
+    "Steve Connors, photojournalist from besieged Sarajevo, has died"
+   ],
+   "body": [
+    [
+     [
+      "Preminuo je britanski fotoreporter i dokumentarista Steve Connors, koji je snimao opkoljeno Sarajevo tokom rata.",
+      "British photojournalist and documentary maker Steve Connors, who photographed besieged Sarajevo during the war, has died."
+     ],
+     [
+      "Vijest je objavio Sniper Alley, arhiv fotografija i svjedočenja fotografa iz vremena opsade.",
+      "The news was announced by Sniper Alley, an archive of photographs and testimonies of photographers from the time of the siege."
+     ],
+     [
+      "Na Instagramu su ga nazvali dragim prijateljem i izuzetnim čovjekom.",
+      "On Instagram they called him a dear friend and an exceptional man."
+     ]
+    ],
+    [
+     [
+      "Napisali su i da ga Bosanci nikada neće zaboraviti.",
+      "They also wrote that Bosnians will never forget him."
+     ],
+     [
+      "Connors je rođen u Sheffieldu, na sjeveru Engleske.",
+      "Connors was born in Sheffield, in the north of England."
+     ],
+     [
+      "Bio je vojni policajac u britanskoj vojsci, gdje je sam naučio fotografisati.",
+      "He was a military policeman in the British army, where he taught himself to take photographs."
+     ],
+     [
+      "Kasnije je izvještavao iz bivše Jugoslavije, Afganistana, Iraka, Čečenije, Ukrajine i drugih zemalja.",
+      "Later he reported from the former Yugoslavia, Afghanistan, Iraq, Chechnya, Ukraine and other countries."
+     ]
+    ],
+    [
+     [
+      "Njegove fotografije objavljivali su Time, Newsweek, Der Spiegel i The Guardian.",
+      "His photographs were published by Time, Newsweek, Der Spiegel and The Guardian."
+     ],
+     [
+      "Pomogao je osnovati neprofitnu novinsku organizaciju Orb Media.",
+      "He helped found the non-profit news organisation Orb Media."
+     ],
+     [
+      "Godine 2007. s novinarkom Molly Bingham snimio je dokumentarni film \"Meeting Resistance\" o ratu u Iraku.",
+      "In 2007, with journalist Molly Bingham, he made the documentary film \"Meeting Resistance\" about the war in Iraq."
+     ],
+     [
+      "Za taj film proveli su deset mjeseci s pobunjenicima u Bagdadu.",
+      "For that film they spent ten months with insurgents in Baghdad."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "preminuti",
+     "to pass away"
+    ],
+    [
+     "fotoreporter",
+     "photojournalist"
+    ],
+    [
+     "opkoljen",
+     "besieged"
+    ],
+    [
+     "opsada",
+     "siege"
+    ],
+    [
+     "rat",
+     "war"
+    ],
+    [
+     "izvještavati",
+     "to report"
+    ],
+    [
+     "dokumentarni film",
+     "documentary film"
+    ]
+   ]
+  },
+  {
+   "id": "261112154",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/ovako-bi-mogla-izgledati-grupa-zmajeva-po-novom-formatu-medu-rivalima-engleska-i-spanija/261112154",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261112154.jpg",
+   "published": "2026-11-12T12:49:00+01:00",
+   "title": [
+    "Simulacija: BiH bi mogla igrati s Engleskom i Španijom",
+    "Simulation: BiH could play England and Spain"
+   ],
+   "body": [
+    [
+     [
+      "Portal Football Meets Data objavio je simulaciju žrijeba za kvalifikacije za Svjetsko prvenstvo 2030. godine.",
+      "The portal Football Meets Data published a simulation of the draw for the 2030 World Cup qualifiers."
+     ],
+     [
+      "Po toj simulaciji, BiH bi bila u grupi od 12 reprezentacija, među kojima su Engleska, Španija, Italija i Hrvatska.",
+      "According to that simulation, BiH would be in a group of 12 national teams, including England, Spain, Italy and Croatia."
+     ],
+     [
+      "To nije zvanični žrijeb, nego samo primjer kako bi grupa mogla izgledati.",
+      "It is not an official draw, but only an example of how the group could look."
+     ]
+    ],
+    [
+     [
+      "To će biti prve kvalifikacije po novom formatu UEFA-e, koji je predstavljen u maju.",
+      "These will be the first qualifiers under UEFA's new format, which was presented in May."
+     ],
+     [
+      "Svih 54 evropske reprezentacije biće podijeljene u dvije lige, prema rezultatima u Ligi nacija.",
+      "All 54 European national teams will be divided into two leagues, according to their results in the Nations League."
+     ],
+     [
+      "U prvoj ligi su 36 timova u tri grupe od po 12, a svaki tim igra šest utakmica.",
+      "The first league has 36 teams in three groups of 12, and each team plays six matches."
+     ],
+     [
+      "Pobjednici tih grupa direktno idu na Svjetsko prvenstvo.",
+      "The winners of those groups go directly to the World Cup."
+     ],
+     [
+      "Timovi iz druge lige mogu se plasirati samo kroz baraž.",
+      "Teams from the second league can qualify only through the playoffs."
+     ]
+    ],
+    [
+     [
+      "Bit će manje utakmica, ali mnogo više susreta jakih reprezentacija.",
+      "There will be fewer matches, but many more meetings of strong national teams."
+     ],
+     [
+      "BiH više ne bi igrala protiv San Marina, Andore ili Gibraltara.",
+      "BiH would no longer play against San Marino, Andorra or Gibraltar."
+     ],
+     [
+      "Predsjednik UEFA-e Aleksander Čeferin rekao je da će novi format smanjiti broj utakmica u kojima se ništa ne odlučuje.",
+      "UEFA President Aleksander Čeferin said that the new format would reduce the number of matches in which nothing is decided."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "žrijeb",
+     "draw (in sport)"
+    ],
+    [
+     "kvalifikacije",
+     "qualifiers"
+    ],
+    [
+     "Svjetsko prvenstvo",
+     "World Cup"
+    ],
+    [
+     "reprezentacija",
+     "national team"
+    ],
+    [
+     "simulacija",
+     "simulation"
+    ],
+    [
+     "baraž",
+     "playoff"
+    ],
+    [
+     "zvaničan",
+     "official"
+    ]
+   ]
+  },
+  {
+   "id": "261112139",
+   "source": "Klix.ba",
+   "section": "Tehnologija",
+   "url": "https://www.klix.ba/scitech/tehnologija/whatsapp-uvodi-views-once-opciju-za-tekstualne-poruke-nestaju-nakon-sto-ih-primalac-procita/261112139",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261112139.jpg",
+   "published": "2026-11-12T12:17:00+01:00",
+   "title": [
+    "WhatsApp testira poruke koje nestaju nakon čitanja",
+    "WhatsApp tests messages that disappear after reading"
+   ],
+   "body": [
+    [
+     [
+      "WhatsApp testira opciju \"View Once\" i za tekstualne poruke.",
+      "WhatsApp is testing the \"View Once\" option for text messages too."
+     ],
+     [
+      "Takva poruka može se pročitati samo jednom, a nakon toga nestaje.",
+      "Such a message can be read only once, and after that it disappears."
+     ],
+     [
+      "Prema portalu WABetaInfo, opcija je sada dostupna nekim korisnicima beta verzije za Android.",
+      "According to the portal WABetaInfo, the option is now available to some users of the beta version for Android."
+     ]
+    ],
+    [
+     [
+      "Ova opcija već postoji za fotografije, video snimke i glasovne poruke.",
+      "This option already exists for photos, videos and voice messages."
+     ],
+     [
+      "Da bi poslao takvu poruku, korisnik treba duže držati dugme za slanje i izabrati \"View Once\".",
+      "To send such a message, the user needs to hold the send button longer and choose \"View Once\"."
+     ],
+     [
+      "Primalac poruku otvara u posebnom prozoru, a kada ga zatvori, ne može je ponovo otvoriti.",
+      "The recipient opens the message in a separate window, and when they close it, they cannot open it again."
+     ],
+     [
+      "Poruka se ne može kopirati ni proslijediti, a aplikacija blokira snimke ekrana.",
+      "The message cannot be copied or forwarded, and the app blocks screenshots."
+     ]
+    ],
+    [
+     [
+      "Ipak, sadržaj se i dalje može fotografisati kamerom drugog telefona.",
+      "However, the content can still be photographed with the camera of another phone."
+     ],
+     [
+      "Ni WhatsApp ni pošiljalac to ne mogu spriječiti.",
+      "Neither WhatsApp nor the sender can prevent that."
+     ],
+     [
+      "Zasad nije poznato kada će nova opcija biti dostupna svim korisnicima.",
+      "For now it is not known when the new option will be available to all users."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "poruka",
+     "message"
+    ],
+    [
+     "nestati",
+     "to disappear"
+    ],
+    [
+     "korisnik",
+     "user"
+    ],
+    [
+     "primalac",
+     "recipient"
+    ],
+    [
+     "pošiljalac",
+     "sender"
+    ],
+    [
+     "dostupan",
+     "available"
+    ],
+    [
+     "spriječiti",
+     "to prevent"
+    ]
+   ]
+  },
+  {
+   "id": "261112134",
+   "source": "Klix.ba",
+   "section": "Biznis",
+   "url": "https://www.klix.ba/biznis/ekonomija/ponisten-tender-vrijedan-skoro-34-miliona-km-za-bukobrane-na-autoputu/261112134",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261112134.jpg",
+   "published": "2026-11-12T12:08:00+01:00",
+   "title": [
+    "Poništen tender od 34 miliona KM za zidove protiv buke",
+    "A 34-million-KM tender for noise walls is cancelled"
+   ],
+   "body": [
+    [
+     [
+      "Tender za gradnju zidova protiv buke na autoputu A1 između Drivuše i Visokog je poništen.",
+      "The tender for building noise walls on the A1 motorway between Drivuša and Visoko has been cancelled."
+     ],
+     [
+      "Odluku je donio Ured za razmatranje žalbi, nakon što je neko podnio žalbu.",
+      "The decision was made by the Appeals Review Office, after someone filed a complaint."
+     ],
+     [
+      "Tender je raspisala firma JP Autoceste FBiH krajem juna.",
+      "The tender was announced by the company JP Autoceste FBiH at the end of June."
+     ]
+    ],
+    [
+     [
+      "Posao je bio vrijedan 29 miliona KM bez PDV-a, odnosno skoro 34 miliona KM s PDV-om.",
+      "The job was worth 29 million KM without VAT, or almost 34 million KM with VAT."
+     ],
+     [
+      "Ugovor bi trajao tri godine, a pobijedila bi firma s najnižom cijenom.",
+      "The contract would last three years, and the company with the lowest price would win."
+     ],
+     [
+      "Nije poznato ko je podnio žalbu i da li će biti raspisan novi tender.",
+      "It is not known who filed the complaint or whether a new tender will be announced."
+     ],
+     [
+      "Istog dana raspisan je i tender za nadzor radova, vrijedan 702.000 KM s PDV-om.",
+      "On the same day a tender for supervising the works, worth 702,000 KM with VAT, was also announced."
+     ]
+    ],
+    [
+     [
+      "Dionica Drivuša–Visoko otvorena je 2005. godine bez zidova protiv buke.",
+      "The Drivuša–Visoko section opened in 2005 without noise walls."
+     ],
+     [
+      "Firma kaže da tada zakon nije tražio da se misli na buku.",
+      "The company says that the law at that time did not require thinking about noise."
+     ],
+     [
+      "Zidovi bi pomogli stanovnicima naselja kao što su Arnautovići, Kalotići i Čifluk.",
+      "The walls would help residents of settlements such as Arnautovići, Kalotići and Čifluk."
+     ],
+     [
+      "Autoceste FBiH su ove godine poništile 37 od 199 svojih nabavki.",
+      "Autoceste FBiH has cancelled 37 of its 199 procurements this year."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "tender",
+     "tender (public bid)"
+    ],
+    [
+     "poništiti",
+     "to cancel"
+    ],
+    [
+     "buka",
+     "noise"
+    ],
+    [
+     "zid",
+     "wall"
+    ],
+    [
+     "autoput",
+     "motorway"
+    ],
+    [
+     "žalba",
+     "complaint, appeal"
+    ],
+    [
+     "nadzor",
+     "supervision"
+    ]
+   ]
+  },
+  {
+   "id": "261112127",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/regija/goran-milic-postoje-dvije-drzave-na-svijetu-u-kojima-hrvati-zive-bolje-od-vecine-to-su-cile-i-bih/261112127",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261112127.jpg",
+   "published": "2026-11-12T11:53:00+01:00",
+   "title": [
+    "Goran Milić: Hrvati u Čileu i BiH žive bolje od većine",
+    "Goran Milić: Croats in Chile and BiH live better than the majority"
+   ],
+   "body": [
+    [
+     [
+      "Hrvatski novinar Goran Milić rekao je da postoje samo dvije zemlje u kojima Hrvati kao manjina žive bolje od većine.",
+      "Croatian journalist Goran Milić said there are only two countries where Croats as a minority live better than the majority."
+     ],
+     [
+      "To su, kako je rekao, Čile i Bosna i Hercegovina.",
+      "These are, as he said, Chile and Bosnia and Herzegovina."
+     ],
+     [
+      "Milić je bio gost podcasta Kliker, gdje je govorio o Hrvatima u Južnoj Americi.",
+      "Milić was a guest on the Kliker podcast, where he talked about Croats in South America."
+     ]
+    ],
+    [
+     [
+      "Rekao je da su Hrvati u Čileu u prosjeku bogatiji od Čileanaca španskog i italijanskog porijekla.",
+      "He said that Croats in Chile are on average richer than Chileans of Spanish and Italian origin."
+     ],
+     [
+      "Kao primjer je naveo da su Hrvati bili predsjednici Čilea, a neki su danas senatori.",
+      "As an example he mentioned that Croats have been presidents of Chile, and some are senators today."
+     ],
+     [
+      "Trener Mirko Jozić donio je Čileu najveći nogometni uspjeh, a aerodrom je projektovao hrvatski arhitekt.",
+      "Coach Mirko Jozić brought Chile its greatest football success, and the airport was designed by a Croatian architect."
+     ],
+     [
+      "U Argentini su Hrvati također uspješni, ali ne kao u Čileu.",
+      "In Argentina Croats are also successful, but not like in Chile."
+     ]
+    ],
+    [
+     [
+      "Prema Miliću, Hrvati u Njemačkoj i Americi bogatiji su od Hrvata u Hrvatskoj.",
+      "According to Milić, Croats in Germany and America are richer than Croats in Croatia."
+     ],
+     [
+      "Ipak, nisu bogatiji od Nijemaca ili Amerikanaca.",
+      "However, they are not richer than Germans or Americans."
+     ],
+     [
+      "Za BiH je rekao da je to jedina druga zemlja gdje najmanji narod ima bolji položaj od najvećeg.",
+      "About BiH he said that it is the only other country where the smallest people has a better position than the largest."
+     ],
+     [
+      "Njegove riječi izazvale su mnogo komentara na portalu.",
+      "His words caused many comments on the portal."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "novinar",
+     "journalist"
+    ],
+    [
+     "manjina",
+     "minority"
+    ],
+    [
+     "većina",
+     "majority"
+    ],
+    [
+     "bogat",
+     "rich"
+    ],
+    [
+     "porijeklo",
+     "origin"
+    ],
+    [
+     "položaj",
+     "position, status"
+    ],
+    [
+     "narod",
+     "people, nation"
+    ]
+   ]
+  },
+  {
+   "id": "261112085",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/kako-ce-izgledati-borba-za-fotelje-u-vijecu-ministara-koplja-ce-se-lomiti-na-tri-ministarstva/261112085",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261112085.jpg",
+   "published": "2026-11-12T11:39:00+01:00",
+   "title": [
+    "Stranke se bore za tri ministarstva u Vijeću ministara",
+    "Parties fight over three ministries in the Council of Ministers"
+   ],
+   "body": [
+    [
+     [
+      "Stranke koje žele formirati novu vlast na nivou BiH još nisu sjele za zajednički sto.",
+      "The parties that want to form the new state-level government have not yet sat down at a common table."
+     ],
+     [
+      "Do sada su održani samo odvojeni sastanci, između HDZ-a i SNSD-a, te Dragana Čovića s liderima SDA i SDP-a.",
+      "So far there have only been separate meetings, between HDZ and SNSD, and between Dragan Čović and the leaders of SDA and SDP."
+     ],
+     [
+      "Konkretnog dogovora o podjeli ministarstava zasad nema.",
+      "There is no concrete agreement on dividing the ministries for now."
+     ]
+    ],
+    [
+     [
+      "Prema nezvaničnim informacijama, SNSD i partneri traže četiri ministarstva, ali bi prihvatili i tri.",
+      "According to unofficial information, SNSD and its partners are asking for four ministries, but would also accept three."
+     ],
+     [
+      "HDZ želi tri, a SDA i njeni partneri bi dobili dva ili tri ministarstva i mjesto predsjedavajućeg.",
+      "HDZ wants three, while SDA and its partners would get two or three ministries and the post of chairman."
+     ],
+     [
+      "Najveća borba očekuje se oko ministarstava vanjskih poslova, finansija i vanjske trgovine.",
+      "The biggest fight is expected over the ministries of foreign affairs, finance and foreign trade."
+     ],
+     [
+      "Vanjske poslove žele i SDA i HDZ, dok SNSD želi zadržati finansije.",
+      "Both SDA and HDZ want foreign affairs, while SNSD wants to keep finance."
+     ],
+     [
+      "Za vanjsku trgovinu, koju sada vodi Staša Košarac iz SNSD-a, zanima se i SDA.",
+      "SDA is also interested in foreign trade, which is now run by Staša Košarac of SNSD."
+     ]
+    ],
+    [
+     [
+      "Ministarstvo odbrane bi, kako se očekuje, trebalo pripasti SDA.",
+      "The Ministry of Defence is expected to go to SDA."
+     ],
+     [
+      "Prema nepisanom pravilu, predsjedavajući bi sada trebao doći iz probosanskog bloka.",
+      "According to an unwritten rule, the chairman should now come from the pro-Bosnian bloc."
+     ],
+     [
+      "Prethodni predsjedavajući bili su Zoran Tegeltija iz SNSD-a i Borjana Krišto iz HDZ-a.",
+      "The previous chairs were Zoran Tegeltija of SNSD and Borjana Krišto of HDZ."
+     ],
+     [
+      "Konačan dogovor zavisi od toga koliko su stranke spremne na kompromis.",
+      "The final agreement depends on how ready the parties are to compromise."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "stranka",
+     "party"
+    ],
+    [
+     "vlast",
+     "government, authority"
+    ],
+    [
+     "ministarstvo",
+     "ministry"
+    ],
+    [
+     "dogovor",
+     "agreement"
+    ],
+    [
+     "predsjedavajući",
+     "chairman"
+    ],
+    [
+     "vanjski poslovi",
+     "foreign affairs"
+    ],
+    [
+     "kompromis",
+     "compromise"
+    ]
+   ]
+  },
+  {
+   "id": "261112036",
+   "source": "Klix.ba",
+   "section": "Zdravlje",
+   "url": "https://www.klix.ba/lifestyle/zdravlje/kako-mozak-zapravo-nauci-voljeti-kafu-prvi-gutljaj-vam-je-bio-odbojan-a-danas-bez-nje-ne-mozete/261112036",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261112036.jpg",
+   "published": "2026-11-12T08:00:00+01:00",
+   "title": [
+    "Kako mozak nauči voljeti kafu i drugu hranu",
+    "How the brain learns to love coffee and other food"
+   ],
+   "body": [
+    [
+     [
+      "Naučnici s Univerziteta Kalifornije u San Franciscu otkrili su kako mozak polako uči voljeti određenu hranu.",
+      "Scientists from the University of California, San Francisco have discovered how the brain slowly learns to love certain food."
+     ],
+     [
+      "Istraživanje je 4. novembra objavljeno u časopisu Nature.",
+      "The research was published on 4 November in the journal Nature."
+     ],
+     [
+      "Važnu ulogu ima dopamin, hemijska tvar u mozgu koja je povezana s nagradom i učenjem.",
+      "An important role is played by dopamine, a chemical in the brain that is linked to reward and learning."
+     ]
+    ],
+    [
+     [
+      "Kada hrana dođe u crijeva, ona šalju mozgu informaciju o šećeru i masti.",
+      "When food reaches the gut, it sends the brain information about sugar and fat."
+     ],
+     [
+      "Tada se dopamin oslobađa polako, nekoliko minuta, a mi to ne primjećujemo.",
+      "Then dopamine is released slowly, for several minutes, and we do not notice it."
+     ],
+     [
+      "Profesor Zachary Knight objasnio je da kafa postaje ugodna kada mozak poveže njen okus s djelovanjem kofeina.",
+      "Professor Zachary Knight explained that coffee becomes pleasant when the brain links its taste with the effect of caffeine."
+     ],
+     [
+      "U eksperimentima su miševi prestali učiti koji okus donosi kalorije kada su naučnici prekinuli taj put.",
+      "In experiments, mice stopped learning which taste brings calories when the scientists interrupted that pathway."
+     ],
+     [
+      "Slični rezultati dobijeni su i kod ljudi, a reakcija je bila jača u lijevoj strani mozga.",
+      "Similar results were also found in people, and the reaction was stronger in the left side of the brain."
+     ]
+    ],
+    [
+     [
+      "Naučnici kažu da bi se jednog dana moglo mijenjati koliko volimo određenu hranu.",
+      "Scientists say that one day it might be possible to change how much we like certain food."
+     ],
+     [
+      "Knight smatra da lijekovi GLP-1, koji smanjuju apetit, možda slabe ovaj signal.",
+      "Knight thinks that GLP-1 drugs, which reduce appetite, may weaken this signal."
+     ],
+     [
+      "Ipak, to istraživanje nije provjeravalo, pa je to zasad samo pretpostavka.",
+      "However, the research did not test that, so for now it is only an assumption."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "mozak",
+     "brain"
+    ],
+    [
+     "kafa",
+     "coffee"
+    ],
+    [
+     "okus",
+     "taste"
+    ],
+    [
+     "crijeva",
+     "gut, intestines"
+    ],
+    [
+     "nagrada",
+     "reward"
+    ],
+    [
+     "lijek",
+     "medicine, drug"
+    ],
+    [
+     "pretpostavka",
+     "assumption, hypothesis"
+    ]
+   ]
+  },
   {
    "id": "261112025",
    "source": "Klix.ba",
@@ -4960,896 +5806,6 @@
     [
      "spreman",
      "ready"
-    ]
-   ]
-  },
-  {
-   "id": "261109329",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/kultura/forbes-paul-mccartney-je-milijarder-i-treci-najbogatiji-muzicar-na-svijetu/261109329",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261109329.jpg",
-   "published": "2026-11-09T23:15:00+01:00",
-   "title": [
-    "Paul McCartney je milijarder, piše Forbes",
-    "Paul McCartney is a billionaire, Forbes writes"
-   ],
-   "body": [
-    [
-     [
-      "Magazin Forbes objavio je da je Paul McCartney postao milijarder.",
-      "Forbes magazine has announced that Paul McCartney has become a billionaire."
-     ],
-     [
-      "Njegovo bogatstvo procjenjuje na najmanje 1,4 milijarde dolara.",
-      "It estimates his wealth at no less than 1.4 billion dollars."
-     ],
-     [
-      "Bivši član Beatlesa ima 84 godine i treći je najbogatiji muzičar na svijetu.",
-      "The former Beatles member is 84 years old and is the third richest musician in the world."
-     ],
-     [
-      "Ispred njega su samo Jay-Z s 2,8 milijardi i Taylor Swift s 2 milijarde dolara.",
-      "Only Jay-Z with 2.8 billion and Taylor Swift with 2 billion dollars are ahead of him."
-     ]
-    ],
-    [
-     [
-      "Najveći dio novca dolazi od kompanije MPL Communications, koju je osnovao 1969. godine.",
-      "The biggest part of the money comes from the company MPL Communications, which he founded in 1969."
-     ],
-     [
-      "Ona posjeduje prava na pjesme drugih umjetnika, mjuzikle i božićne pjesme, a Forbes je procjenjuje na najmanje 250 miliona dolara.",
-      "It owns rights to songs of other artists, musicals and Christmas songs, and Forbes values it at no less than 250 million dollars."
-     ],
-     [
-      "Kompanija Apple Corps, koja pripada Beatlesima, zarađuje više od 50 miliona dolara godišnje.",
-      "The company Apple Corps, which belongs to the Beatles, earns more than 50 million dollars a year."
-     ],
-     [
-      "Svaki od četiri vlasnika ima 25 posto, a udio vrijedi više od 150 miliona dolara.",
-      "Each of the four owners has 25 percent, and a share is worth more than 150 million dollars."
-     ]
-    ],
-    [
-     [
-      "McCartney je sudovima vratio prava na pjesme Beatlesa, koja donose najmanje 10 miliona godišnje.",
-      "McCartney won back the rights to the Beatles' songs through the courts, and they bring in at least 10 million a year."
-     ],
-     [
-      "Ima i nekretnine u Velikoj Britaniji i Hamptonsu te zbirku umjetnina s djelima Picassa i Magrittea.",
-      "He also has property in Great Britain and in the Hamptons and a collection of art with works by Picasso and Magritte."
-     ],
-     [
-      "Forbes kaže da McCartney nije htio komentarisati procjene.",
-      "Forbes says that McCartney did not want to comment on the estimates."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "bogatstvo",
-     "wealth"
-    ],
-    [
-     "milijarda",
-     "billion"
-    ],
-    [
-     "muzičar",
-     "musician"
-    ],
-    [
-     "pjesma",
-     "song"
-    ],
-    [
-     "pravo",
-     "right"
-    ],
-    [
-     "nekretnina",
-     "property"
-    ],
-    [
-     "procjena",
-     "estimate"
-    ]
-   ]
-  },
-  {
-   "id": "261109280",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/dodik-vladu-rs-a-formirat-cemo-brze-nego-drugi-u-bih/261109280",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261109280.jpg",
-   "published": "2026-11-09T18:28:00+01:00",
-   "title": [
-    "Dodik: Vladu RS-a formirat ćemo brže nego drugi u BiH",
-    "Dodik: We will form the RS government faster than others in BiH"
-   ],
-   "body": [
-    [
-     [
-      "Lider SNSD-a Milorad Dodik rekao je da će Vlada Republike Srpske biti formirana brže nego druge vlade u BiH.",
-      "SNSD leader Milorad Dodik said that the government of Republika Srpska will be formed faster than other governments in BiH."
-     ],
-     [
-      "Govorio je nakon sastanka predstavnika stranaka u Narodnoj skupštini.",
-      "He spoke after a meeting of party representatives in the National Assembly."
-     ],
-     [
-      "Stranke su se dogovorile o formiranju novog saziva bez političkih nesuglasica.",
-      "The parties agreed on forming the new assembly without political disagreements."
-     ]
-    ],
-    [
-     [
-      "Dodik kaže da počinje period stabilnosti u kojem će vladajuća koalicija ostati na vlasti.",
-      "Dodik says a period of stability is starting in which the ruling coalition will stay in power."
-     ],
-     [
-      "Prema njegovim riječima, koaliciju će ojačati dodatni ljudi.",
-      "In his words, additional people will strengthen the coalition."
-     ],
-     [
-      "Na konstituirajućoj sjednici Skupština će izabrati predsjednika i druga tijela.",
-      "At the constitutive session, the Assembly will elect its president and other bodies."
-     ],
-     [
-      "Zakletvu će položiti i član Predsjedništva BiH Željka Cvijanović i predsjednik RS-a.",
-      "The member of the BiH Presidency Željka Cvijanović and the RS president will also take their oath."
-     ]
-    ],
-    [
-     [
-      "Savo Minić je danas u Centralnoj izbornoj komisiji preuzeo mandat predsjednika RS-a.",
-      "Savo Minić took over the mandate of RS president today at the Central Election Commission."
-     ],
-     [
-      "Rekao je da će zakletvu položiti na konstituirajućoj sjednici.",
-      "He said he will take the oath at the constitutive session."
-     ],
-     [
-      "Dodik je objasnio da predsjednik RS-a nakon zakletve može odmah predložiti mandatara za novu vladu.",
-      "Dodik explained that after the oath the RS president can immediately nominate a mandatary for the new government."
-     ],
-     [
-      "Dodik je dodao da je dan svečan, ali i radni.",
-      "Dodik added that the day is ceremonial, but also a working day."
-     ],
-     [
-      "Siguran je da će nastavak saradnje ubrzati formiranje vlade.",
-      "He is sure that continued cooperation will speed up forming the government."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "vlada",
-     "government"
-    ],
-    [
-     "koalicija",
-     "coalition"
-    ],
-    [
-     "zakletva",
-     "oath"
-    ],
-    [
-     "mandat",
-     "mandate"
-    ],
-    [
-     "mandatar",
-     "prime minister-designate"
-    ],
-    [
-     "stabilnost",
-     "stability"
-    ],
-    [
-     "nesuglasica",
-     "disagreement"
-    ]
-   ]
-  },
-  {
-   "id": "261109281",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/vukanovic-tvrdi-da-je-dodik-na-papiricu-napisao-ko-prelazi-u-snsd/261109281",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261109281.jpg",
-   "published": "2026-11-09T18:27:00+01:00",
-   "title": [
-    "Vukanović tvrdi da je Dodik na papiriću zapisao ko prelazi u SNSD",
-    "Vukanović claims Dodik wrote on a slip of paper who is moving to SNSD"
-   ],
-   "body": [
-    [
-     [
-      "Nebojša Vukanović tvrdi da je Milorad Dodik na malom papiru zapisao koji opozicioni poslanici prelaze u SNSD.",
-      "Nebojša Vukanović claims that Milorad Dodik wrote on a small piece of paper which opposition deputies are moving to SNSD."
-     ],
-     [
-      "Vukanović je to rekao novinarima nakon sastanka u Narodnoj skupštini Republike Srpske.",
-      "Vukanović told reporters this after a meeting in the National Assembly of Republika Srpska."
-     ],
-     [
-      "Sastanak je održan prije konstituisanja novog saziva skupštine.",
-      "The meeting was held before the new assembly convenes."
-     ]
-    ],
-    [
-     [
-      "Prema njegovim riječima, na papiru piše da jedan poslanik SDS-a prelazi u Ujedinjenu Srpsku, a drugi bi trebao preći u SNSD.",
-      "According to him, the paper says that one SDS deputy is moving to Ujedinjena Srpska, and another should move to SNSD."
-     ],
-     [
-      "Zapisano je i da tri poslanika PSS-a idu u SNSD, a čeka se još troje.",
-      "It also says that three PSS deputies are going to SNSD, and three more are awaited."
-     ],
-     [
-      "Maja Dragojević iz PSS-a, kako piše na papiru, ide kod Banjca.",
-      "Maja Dragojević from PSS, as the paper says, goes to Banjac."
-     ],
-     [
-      "Vukanović je rekao da je to ono što je napisano na papiriću.",
-      "Vukanović said this is what was written on the paper."
-     ]
-    ],
-    [
-     [
-      "Ipak, ne zna se da li će sve biti tačno, a to će se vidjeti u narednom periodu.",
-      "However, it is not known whether everything will be true, and that will be seen in the coming period."
-     ],
-     [
-      "Vukanović je dodao da će sjednica u ponedjeljak u svakom slučaju biti zanimljiva.",
-      "Vukanović added that the session on Monday will be interesting in any case."
-     ],
-     [
-      "Predsjednik Narodne skupštine Nenad Stevandić rekao je da se Vukanović na tom sastanku dva puta uzdržao i da niko nije glasao protiv.",
-      "The president of the National Assembly, Nenad Stevandić, said that Vukanović abstained twice at that meeting and that nobody voted against."
-     ],
-     [
-      "Vukanovićeve tvrdnje za sada nisu potvrđene.",
-      "Vukanović's claims have not been confirmed so far."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "poslanik",
-     "deputy, MP"
-    ],
-    [
-     "opozicija",
-     "opposition"
-    ],
-    [
-     "papirić",
-     "slip of paper"
-    ],
-    [
-     "prelaziti",
-     "to switch, to move over"
-    ],
-    [
-     "sjednica",
-     "session"
-    ],
-    [
-     "uzdržati se",
-     "to abstain"
-    ],
-    [
-     "tvrditi",
-     "to claim"
-    ]
-   ]
-  },
-  {
-   "id": "261109270",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/procurile-informacije-iz-rosstata-u-ukrajini-je-poginulo-blizu-pola-miliona-ruskih-vojnika/261109270",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261109270.jpg",
-   "published": "2026-11-09T17:54:00+01:00",
-   "title": [
-    "Procurili podaci: U ratu poginulo blizu pola miliona ruskih vojnika",
-    "Leaked data: Nearly half a million Russian soldiers killed in the war"
-   ],
-   "body": [
-    [
-     [
-      "Hakeri su došli do podataka ruske statističke službe Rosstat, koji pokazuju veliki broj mrtvih ruskih vojnika u Ukrajini.",
-      "Hackers got hold of data from the Russian statistics service Rosstat, which show a large number of dead Russian soldiers in Ukraine."
-     ],
-     [
-      "O tome je pisao britanski list The Guardian.",
-      "The British paper The Guardian wrote about it."
-     ],
-     [
-      "Podatke je analizirao Janis Kluge, šef odjela za Rusiju u jednom njemačkom institutu.",
-      "The data was analysed by Janis Kluge, head of the Russia department at a German institute."
-     ],
-     [
-      "On je rekao da su brojke šokantne i veće od većine procjena.",
-      "He said the figures are shocking and bigger than most estimates."
-     ]
-    ],
-    [
-     [
-      "Baza sadrži više od 11 miliona potvrda o smrti, a u 412.576 njih smrt je povezana s ratom.",
-      "The database contains more than 11 million death notices, and in 412,576 of them the death is linked to the war."
-     ],
-     [
-      "Krajem 2024. i tokom 2025. umiralo je više od 15.000 vojnika mjesečno, otprilike 500 dnevno.",
-      "In late 2024 and during 2025, more than 15,000 soldiers died every month, about 500 a day."
-     ],
-     [
-      "Najteže su pogođeni najsiromašniji regioni na istoku Rusije.",
-      "The poorest regions in eastern Russia were hit hardest."
-     ],
-     [
-      "U Burjatiji, Tuvi i Zabajkalskom kraju rat je do sredine 2024. činio otprilike trećinu svih smrti muškaraca od 18 do 49 godina.",
-      "In Buryatia, Tuva and Zabaykalsky Krai, the war made up about a third of all deaths of men aged 18 to 49 until mid-2024."
-     ]
-    ],
-    [
-     [
-      "Kluge upozorava da je pravi broj vjerovatno veći, jer se smrti upisuju sa zakašnjenjem od oko šest mjeseci.",
-      "Kluge warns that the real number is probably higher, because deaths are recorded with a delay of about six months."
-     ],
-     [
-      "Prema njegovim riječima, sada smo bliže 500.000 mrtvih nego 400.000.",
-      "In his words, we are now closer to 500,000 dead than to 400,000."
-     ],
-     [
-      "The Guardian nije mogao sam provjeriti cijelu bazu, ali kaže da se brojke slažu s drugim procjenama.",
-      "The Guardian could not check the whole database itself, but says the figures match other estimates."
-     ],
-     [
-      "Rosstat je potvrdio napad hakera, ali tvrdi da osjetljivi podaci nisu ukradeni.",
-      "Rosstat confirmed the hacker attack, but claims sensitive data was not stolen."
-     ],
-     [
-      "Izvor blizak Putinu rekao je da će ovakvi gubici prije učvrstiti njegove namjere nego ga natjerati na dogovor.",
-      "A source close to Putin said such losses are more likely to harden his intentions than push him toward a deal."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "statistika",
-     "statistics"
-    ],
-    [
-     "hakeri",
-     "hackers"
-    ],
-    [
-     "procjena",
-     "estimate"
-    ],
-    [
-     "potvrda o smrti",
-     "death notice"
-    ],
-    [
-     "gubici",
-     "losses"
-    ],
-    [
-     "analizirati",
-     "to analyse"
-    ],
-    [
-     "siromašan",
-     "poor"
-    ]
-   ]
-  },
-  {
-   "id": "261109268",
-   "source": "Klix.ba",
-   "section": "Biznis",
-   "url": "https://www.klix.ba/biznis/ekonomija/vraca-se-putnicki-voz-iz-bih-za-beograd-linija-krece-13-decembra/261109268",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261109268.jpg",
-   "published": "2026-11-09T17:35:00+01:00",
-   "title": [
-    "Putnički voz iz BiH ponovo vozi za Beograd od 13. decembra",
-    "Passenger train from BiH to Belgrade runs again from 13 December"
-   ],
-   "body": [
-    [
-     [
-      "Vlada Republike Srpske odobrila je novi red vožnje za putničke vozove za 2026/2027. godinu.",
-      "The Government of Republika Srpska approved a new timetable for passenger trains for 2026/2027."
-     ],
-     [
-      "Pripremile su ga Željeznice Republike Srpske, a počinje da važi 13. decembra.",
-      "It was prepared by Željeznice Republike Srpske, and it takes effect on 13 December."
-     ],
-     [
-      "Najvažnija novost je nova linija od Zvornika do Beograda i nazad.",
-      "The most important novelty is a new line from Zvornik to Belgrade and back."
-     ]
-    ],
-    [
-     [
-      "Željeznice su se za tu liniju dogovorile s beogradskim prevoznikom Srbijavoz.",
-      "The railway company agreed on this line with the Belgrade operator Srbijavoz."
-     ],
-     [
-      "Kažu da je linija posebno važna za stanovnike zvorničkog kraja, koji su posljednjih godina morali koristiti drugi prevoz.",
-      "They say the line is especially important for residents of the Zvornik area, who in recent years had to use other transport."
-     ],
-     [
-      "Plan predviđa i 13 putničkih vozova u unutrašnjem saobraćaju.",
-      "The plan also includes 13 passenger trains in domestic traffic."
-     ],
-     [
-      "Troškovi vuče iznose 2.729.367,80 KM godišnje.",
-      "Traction costs are 2,729,367.80 KM per year."
-     ]
-    ],
-    [
-     [
-      "Dogovoreno je i povezivanje s Hrvatskim željeznicama, a putnici će mijenjati voz u Volinji.",
-      "A connection with Croatian Railways was also agreed, and passengers will change trains at Volinja."
-     ],
-     [
-      "Vozovi na liniji Banjaluka – Novi Grad – Dobrljin bit će povezani s vozovima u Volinji, ali vremena još nisu usaglašena s hrvatskom stranom.",
-      "Trains on the Banja Luka – Novi Grad – Dobrljin line will connect with trains at Volinja, but the times have not yet been agreed with the Croatian side."
-     ],
-     [
-      "To je rekao vršilac dužnosti direktora Dragan Zelenković.",
-      "This was said by acting director Dragan Zelenković."
-     ],
-     [
-      "Željeznice su prevezle 62.100 putnika u 2025. godini, a u prvih deset mjeseci ove godine skoro 25.000.",
-      "The railways carried 62,100 passengers in 2025 and almost 25,000 in the first ten months of this year."
-     ],
-     [
-      "Pad objašnjavaju manjim brojem linija prošle godine.",
-      "They explain the drop by the smaller number of lines last year."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "red vožnje",
-     "timetable"
-    ],
-    [
-     "putnik",
-     "passenger"
-    ],
-    [
-     "linija",
-     "line, route"
-    ],
-    [
-     "prevoznik",
-     "operator, carrier"
-    ],
-    [
-     "troškovi",
-     "costs"
-    ],
-    [
-     "godišnje",
-     "per year"
-    ],
-    [
-     "stanovnik",
-     "resident"
-    ]
-   ]
-  },
-  {
-   "id": "261109256",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/lifestyle/gastro/sta-znace-rokovi-trajanja-na-hrani-jedna-oznaka-govori-o-sigurnosti-druga-o-kvalitetu/261109256",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261109256.jpg",
-   "published": "2026-11-09T17:08:00+01:00",
-   "title": [
-    "Šta znače rokovi trajanja na hrani",
-    "What the expiry dates on food mean"
-   ],
-   "body": [
-    [
-     [
-      "Na ambalaži hrane često piše „upotrijebiti do“ ili „najbolje upotrijebiti do“, a te dvije oznake nisu isto.",
-      "Food packaging often says \"use by\" or \"best before\", and these two labels are not the same."
-     ],
-     [
-      "Prva oznaka govori o sigurnosti, a druga o kvalitetu.",
-      "The first label is about safety, and the second is about quality."
-     ],
-     [
-      "Obje su obavezne u BiH, a Agencija za sigurnost hrane objasnila je razliku u smjernicama iz decembra 2024.",
-      "Both are required in BiH, and the Food Safety Agency explained the difference in guidelines from December 2024."
-     ]
-    ],
-    [
-     [
-      "Hranu s oznakom „upotrijebiti do“ ne treba jesti nakon tog datuma, čak i ako izgleda i miriše dobro.",
-      "Food marked \"use by\" should not be eaten after that date, even if it looks and smells fine."
-     ],
-     [
-      "To su svježe meso i riba, svježi mliječni proizvodi, hladna gotova jela i svježe cijeđeni sokovi.",
-      "These are fresh meat and fish, fresh dairy products, cold ready meals and freshly squeezed juices."
-     ],
-     [
-      "Oznaka „najbolje upotrijebiti do“ pokazuje do kada hrana zadržava boju, okus i miris.",
-      "The \"best before\" label shows how long food keeps its colour, taste and smell."
-     ],
-     [
-      "Ako je pakovanje zatvoreno i hrana je dobro čuvana, ona je često sigurna još neko vrijeme.",
-      "If the package is closed and the food was stored well, it is often safe for some time longer."
-     ],
-     [
-      "Brašno, šećer, tjestenina, riža, kafa i konzerve mogu trajati i do godinu dana poslije tog datuma.",
-      "Flour, sugar, pasta, rice, coffee and canned food can last up to a year after that date."
-     ]
-    ],
-    [
-     [
-      "Čokolada, majoneza i žitarice traju oko dva mjeseca duže.",
-      "Chocolate, mayonnaise and cereals last about two months longer."
-     ],
-     [
-      "Kolače, šunku i jogurt bolje je baciti kada rok istekne.",
-      "Cakes, ham and yogurt are better thrown away when the date passes."
-     ],
-     [
-      "Bebi-hrana se nikada ne smije koristiti nakon datuma.",
-      "Baby food must never be used after the date."
-     ],
-     [
-      "Hranu treba baciti ako ima plijesan, užegao miris, promijenjenu boju ili insekte, ili ako je konzerva zardala ili nabubrila.",
-      "Food should be thrown away if it has mould, a rancid smell, changed colour or insects, or if a can is rusty or swollen."
-     ],
-     [
-      "EUFIC navodi da se čak 10% hrane koja se baci u EU veže za pogrešno razumijevanje ovih oznaka.",
-      "EUFIC says that up to 10% of the food wasted in the EU is linked to misunderstanding these labels."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "rok trajanja",
-     "expiry date"
-    ],
-    [
-     "ambalaža",
-     "packaging"
-    ],
-    [
-     "sigurnost",
-     "safety"
-    ],
-    [
-     "kvalitet",
-     "quality"
-    ],
-    [
-     "plijesan",
-     "mould"
-    ],
-    [
-     "konzerva",
-     "tin, can"
-    ],
-    [
-     "bacati",
-     "to throw away"
-    ]
-   ]
-  },
-  {
-   "id": "261109253",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/trump-doveo-u-pitanje-ispravnost-izbora-u-sad-u-nakon-poraza-republikanaca-masine-su-vaznije-od-glasaca/261109253",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261109253.jpg",
-   "published": "2026-11-09T16:52:00+01:00",
-   "title": [
-    "Trump sumnja u izbore nakon poraza Republikanaca",
-    "Trump doubts the elections after the Republicans' defeat"
-   ],
-   "body": [
-    [
-     [
-      "Američki predsjednik Donald Trump dovodi u pitanje ispravnost izbora u kojima su Republikanci izgubili.",
-      "US President Donald Trump is questioning the fairness of the elections in which the Republicans lost."
-     ],
-     [
-      "Demokrate su dobile obje kuće Kongresa na izborima na polovini mandata.",
-      "The Democrats won both chambers of Congress in the midterm elections."
-     ],
-     [
-      "Trump je na mreži Truth Social napisao: „Da li iko zaista vjeruje da su ovi izbori bili pošteni?“",
-      "On Truth Social, Trump wrote: \"Does anyone really believe these elections were fair?\""
-     ],
-     [
-      "Krivio je ankete i mašine za glasanje.",
-      "He blamed the polls and the voting machines."
-     ]
-    ],
-    [
-     [
-      "Tvrdio je da su neke grupe glasačkih listića bile toliko velike da Republikanci nisu mogli pobijediti, ali nije pokazao nikakve dokaze.",
-      "He claimed that some batches of ballots were so large that Republicans could not have won, but he showed no evidence."
-     ],
-     [
-      "Napisao je i da je sve u mašinama, koje su važnije od glasača.",
-      "He also wrote that it is all about the machines, which are more important than voters."
-     ],
-     [
-      "Stručnjaci su ranije upozoravali na takve tvrdnje.",
-      "Experts had warned earlier against such claims."
-     ],
-     [
-      "Neke države prebroje poštanske glasove odmah i objave ih čim se birališta zatvore, pa prvi rezultati mogu ići u korist Demokrata.",
-      "Some states count mail-in ballots right away and publish them as soon as polling stations close, so the first results can favour the Democrats."
-     ],
-     [
-      "Mašine za glasanje nisu spojene na internet i prije izbora se detaljno testiraju.",
-      "Voting machines are not connected to the internet and are tested thoroughly before elections."
-     ]
-    ],
-    [
-     [
-      "Prema podacima agencije AP, Demokrate u Senatu imaju 54 mjesta, a Republikanci 44.",
-      "According to the AP agency, Democrats have 54 seats in the Senate and Republicans 44."
-     ],
-     [
-      "U Predstavničkom domu Demokrate imaju 254 mjesta, a Republikanci 162.",
-      "In the House of Representatives the Democrats have 254 seats and the Republicans 162."
-     ],
-     [
-      "To je najveća demokratska većina u tom domu od 2008. godine.",
-      "This is the largest Democratic majority in that chamber since 2008."
-     ],
-     [
-      "Trump je u nedjelju rekao da je Amerika napravila veliki korak unazad, ali nije rekao da su izbori namješteni.",
-      "On Sunday Trump said America took a big step backward, but he did not say the elections were rigged."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "izbori",
-     "elections"
-    ],
-    [
-     "glasač",
-     "voter"
-    ],
-    [
-     "glasački listić",
-     "ballot"
-    ],
-    [
-     "dokaz",
-     "evidence"
-    ],
-    [
-     "većina",
-     "majority"
-    ],
-    [
-     "anketa",
-     "poll"
-    ],
-    [
-     "pošten",
-     "fair, honest"
-    ],
-    [
-     "birališta",
-     "polling stations"
-    ]
-   ]
-  },
-  {
-   "id": "261109241",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/formula1/dobio-prednost-ispred-beganovica-u-formuli-1-a-ima-zdravstvenih-problema-camara-je-kratkovid-i-ima-astigmatizam/261109241",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261109241.jpg",
-   "published": "2026-11-09T16:42:00+01:00",
-   "title": [
-    "Camara dobio mjesto u Haasu, a kratkovid je i nosi sočiva",
-    "Camara got the Haas seat, but he is short-sighted and wears lenses"
-   ],
-   "body": [
-    [
-     [
-      "Rafael Camara, 21-godišnji Brazilac, debitovao je prošle sedmice u Formuli 1 na Velikoj nagradi Sao Paula.",
-      "Rafael Camara, a 21-year-old Brazilian, made his Formula 1 debut last week at the Sao Paulo Grand Prix."
-     ],
-     [
-      "Haas ga je potvrdio kao zamjenu za Estebana Ocona u sezoni 2027.",
-      "Haas confirmed him as the replacement for Esteban Ocon in the 2027 season."
-     ],
-     [
-      "Za mjesto su se borila dva vozača iz Ferrarijeve akademije: Camara i Dino Beganović, Šveđanin bosanskog porijekla.",
-      "Two drivers from the Ferrari academy fought for the seat: Camara and Dino Beganović, a Swede of Bosnian descent."
-     ]
-    ],
-    [
-     [
-      "Sada je poznato da Camara ima zdravstvenih problema s vidom.",
-      "It is now known that Camara has health problems with his sight."
-     ],
-     [
-      "Kratkovid je i ima astigmatizam, a dioptrija mu je -2,75 i -2,50.",
-      "He is short-sighted and has astigmatism, and his prescription is -2.75 and -2.50."
-     ],
-     [
-      "Zbog astigmatizma mu se svjetla čine veoma jaka, pa u bolidu nosi kontaktna sočiva.",
-      "Because of the astigmatism, lights seem very strong to him, so he wears contact lenses in the car."
-     ],
-     [
-      "To je rekao u intervjuu za zvanični prenos Formule 2.",
-      "He said this in an interview for the official Formula 2 broadcast."
-     ]
-    ],
-    [
-     [
-      "Ispričao je i smiješnu priču iz Formule Regional.",
-      "He also told a funny story from Formula Regional."
-     ],
-     [
-      "Prije kvalifikacija je u hotelu zaboravio sočiva, a nije imao vremena da ih donese.",
-      "Before qualifying he forgot his lenses at the hotel and had no time to bring them."
-     ],
-     [
-      "Vozio je s naočalama i spustio vizir kaciga da ga tim ne vidi.",
-      "He drove with glasses and lowered his helmet visor so the team would not see him."
-     ],
-     [
-      "Kvalifikacije je završio kao drugi, manje od pola desetinke sekunde iza pole pozicije.",
-      "He finished qualifying second, less than half a tenth of a second behind pole position."
-     ],
-     [
-      "Kaže da je zbog naočala izgubio pole poziciju.",
-      "He says he lost pole position because of his glasses."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "vozač",
-     "driver"
-    ],
-    [
-     "kratkovid",
-     "short-sighted"
-    ],
-    [
-     "sočiva",
-     "contact lenses"
-    ],
-    [
-     "naočale",
-     "glasses"
-    ],
-    [
-     "kvalifikacije",
-     "qualifying"
-    ],
-    [
-     "zamjena",
-     "replacement"
-    ],
-    [
-     "debitovati",
-     "to make a debut"
-    ]
-   ]
-  },
-  {
-   "id": "261109251",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/kultura/photo-east-fest-2026-u-decembru-prijavite-svoje-radove-na-medunarodnoj-izlozbi-i-ucestvujte-u-radionicama/261109251",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261109251.jpg",
-   "published": "2026-11-09T16:23:00+01:00",
-   "title": [
-    "Photo East Fest u decembru: poziv fotografima da šalju radove",
-    "Photo East Fest in December: photographers invited to send their work"
-   ],
-   "body": [
-    [
-     [
-      "Foto-kino klub Istočno Sarajevo organizuje festival fotografije Photo East Fest od 4. do 6. decembra.",
-      "The Foto-kino klub Istočno Sarajevo is organising the photography festival Photo East Fest from 4 to 6 December."
-     ],
-     [
-      "Na festivalu će biti izložbe, radionice, predavanja i susreti s umjetnicima.",
-      "The festival will include exhibitions, workshops, lectures and meetings with artists."
-     ],
-     [
-      "Klub poziva fotografe da pošalju radove za drugu međunarodnu izložbu fotografije.",
-      "The club invites photographers to send works for the second international photography exhibition."
-     ]
-    ],
-    [
-     [
-      "Prijave su otvorene od 5. novembra, a zatvaraju se 25. novembra u 23:59.",
-      "Entries have been open since 5 November and close on 25 November at 23:59."
-     ],
-     [
-      "Žiri će raditi od 26. do 29. novembra, a rezultati će biti objavljeni 1. decembra.",
-      "The jury will work from 26 to 29 November, and the results will be published on 1 December."
-     ],
-     [
-      "Postoje tri kategorije: otvorena u boji, otvorena crno-bijela i nova tema „Ljudi“.",
-      "There are three categories: open colour, open black-and-white and the new theme \"People\"."
-     ],
-     [
-      "Autori mogu poslati najviše četiri fotografije po kategoriji, dakle ukupno 12.",
-      "Authors can send at most four photos per category, so 12 in total."
-     ],
-     [
-      "Bit će podijeljeno 18 medalja i 30 priznanja, a kotizacija je 10 eura.",
-      "18 medals and 30 commendations will be awarded, and the entry fee is 10 euros."
-     ]
-    ],
-    [
-     [
-      "Festival počinje 4. decembra radionicom za srednjoškolce, a uveče slijedi razgovor o umjetnosti i film „Foto Nomad“.",
-      "The festival starts on 4 December with a workshop for high school students, and in the evening there is an art talk and the film \"Foto Nomad\"."
-     ],
-     [
-      "Otvaranje festivala i izložbe je 5. decembra u 19:00 u Galeriji Žarko Vidović.",
-      "The opening of the festival and the exhibition is on 5 December at 19:00 in the Žarko Vidović Gallery."
-     ],
-     [
-      "Posljednjeg dana, 6. decembra, predavanje će održati Goran Kukić, koji će predstaviti i svoju izložbu.",
-      "On the last day, 6 December, Goran Kukić will give a lecture and will also present his exhibition."
-     ],
-     [
-      "Organizatori pozivaju sve ljubitelje fotografije da dođu u Istočno Sarajevo.",
-      "The organisers invite all photography fans to come to East Sarajevo."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "fotografija",
-     "photograph, photography"
-    ],
-    [
-     "izložba",
-     "exhibition"
-    ],
-    [
-     "radionica",
-     "workshop"
-    ],
-    [
-     "prijava",
-     "entry, application"
-    ],
-    [
-     "žiri",
-     "jury"
-    ],
-    [
-     "kotizacija",
-     "entry fee"
-    ],
-    [
-     "priznanje",
-     "commendation, award"
     ]
    ]
   }
