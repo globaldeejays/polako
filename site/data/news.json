@@ -1,18 +1,884 @@
 {
- "updated": "2026-11-11T18:50:00+01:00",
+ "updated": "2026-11-12T07:50:00+01:00",
  "front": [
-  "261111141",
-  "261111293",
-  "261111300",
-  "261111291",
-  "261111297",
-  "261111296",
-  "261111301",
-  "261111046",
-  "261111202"
+  "261112013",
+  "261112002",
+  "261112003",
+  "261112010",
+  "261112004",
+  "261112025",
+  "261112016",
+  "261111336",
+  "261111338"
  ],
  "level": "A2",
  "articles": [
+  {
+   "id": "261112025",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/kosarka/garza-prvi-put-u-petorci-boston-preokrenuo-minus-od-22-poena-u-torontu/261112025",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261112025.jpg",
+   "published": "2026-11-12T07:20:00+01:00",
+   "title": [
+    "Garza prvi put u petorci, Boston slavio u Torontu",
+    "Garza in the starting five for the first time, Boston wins in Toronto"
+   ],
+   "body": [
+    [
+     [
+      "Bosanskohercegovački centar Luka Garza prvi put je ove sezone počeo utakmicu u prvoj petorci Boston Celticsa.",
+      "Bosnian-Herzegovinian centre Luka Garza started a game in the Boston Celtics' starting five for the first time this season."
+     ],
+     [
+      "Boston je u Torontu nadoknadio minus od 22 poena i pobijedio Raptorse rezultatom 98:93.",
+      "In Toronto Boston made up a 22-point deficit and beat the Raptors 98:93."
+     ],
+     [
+      "Trener Joe Mazzulla igrao je s dva centra, Garzom i Neemiasom Quetom, jer je Paul George bio bolestan.",
+      "Coach Joe Mazzulla played with two centres, Garza and Neemias Queta, because Paul George was ill."
+     ]
+    ],
+    [
+     [
+      "Garza je za 11 minuta postigao 5 poena i imao jedan skok.",
+      "Garza scored 5 points in 11 minutes and had one rebound."
+     ],
+     [
+      "Prije ove utakmice prosječno je postizao 6,5 poena, a imao je i najbolji šut za tri poena u timu.",
+      "Before this game he averaged 6.5 points, and he also had the best three-point shooting on the team."
+     ],
+     [
+      "Jayson Tatum je 25 sekundi prije kraja pogodio dva slobodna bacanja i donio Bostonu vodstvo.",
+      "Jayson Tatum made two free throws 25 seconds before the end and gave Boston the lead."
+     ],
+     [
+      "Tatum je završio s 24 poena, a Boston sada ima pet pobjeda zaredom i omjer 10-2.",
+      "Tatum finished with 24 points, and Boston now has five wins in a row and a 10-2 record."
+     ]
+    ],
+    [
+     [
+      "Garza je rekao da mu igra s dva centra daje još jednu priliku da dobije minute.",
+      "Garza said that playing with two centres gives him one more chance to get minutes."
+     ],
+     [
+      "Dodao je da želi potpuno prihvatiti tu ulogu.",
+      "He added that he wants to fully accept that role."
+     ],
+     [
+      "Iste noći San Antonio je pobijedio Chicago, a Victor Wembanyama postigao je 32 poena.",
+      "The same night San Antonio beat Chicago, and Victor Wembanyama scored 32 points."
+     ],
+     [
+      "Stephen Curry povrijedio se u prvoj četvrtini i nije se vratio u igru.",
+      "Stephen Curry got injured in the first quarter and did not return to the game."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "petorka",
+     "starting five"
+    ],
+    [
+     "poen",
+     "point"
+    ],
+    [
+     "skok",
+     "rebound; jump"
+    ],
+    [
+     "trener",
+     "coach"
+    ],
+    [
+     "slobodno bacanje",
+     "free throw"
+    ],
+    [
+     "vodstvo",
+     "lead"
+    ],
+    [
+     "zaredom",
+     "in a row"
+    ],
+    [
+     "uloga",
+     "role"
+    ]
+   ]
+  },
+  {
+   "id": "261112016",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/film-tv/scarlett-johansson-bez-dlake-na-jeziku-o-holivudskim-ponudama-ne-znam-za-koga-pravite-ove-filmove/261112016",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261112016.jpg",
+   "published": "2026-11-12T07:19:00+01:00",
+   "title": [
+    "Scarlett Johansson otvoreno o lošim ponudama iz Hollywooda",
+    "Scarlett Johansson speaks openly about bad offers from Hollywood"
+   ],
+   "body": [
+    [
+     [
+      "Glumica Scarlett Johansson rekla je da joj veliki holivudski studiji ponekad nude čudne projekte.",
+      "Actress Scarlett Johansson said that big Hollywood studios sometimes offer her strange projects."
+     ],
+     [
+      "Kod nekih filmova pita se zašto ih uopće snimaju.",
+      "With some films she wonders why they are being made at all."
+     ],
+     [
+      "To je rekla u intervjuu za Los Angeles Times, dok je promovisala nezavisnu dramu „Paper Tiger“.",
+      "She said this in an interview with the Los Angeles Times, while she was promoting the independent drama \"Paper Tiger\"."
+     ]
+    ],
+    [
+     [
+      "Producentima je rekla da bi snimanje takvih filmova bilo neodgovorno.",
+      "She told producers that making such films would be irresponsible."
+     ],
+     [
+      "Kada bira ulogu, pita se da li pravi nešto što drugi ljudi žele gledati.",
+      "When she chooses a role, she asks herself whether she is making something other people want to watch."
+     ],
+     [
+      "Nije rekla koji su je studiji razočarali.",
+      "She did not say which studios had disappointed her."
+     ],
+     [
+      "Film „Paper Tiger“ kupila je kompanija Neon prije premijere na festivalu u Cannesu.",
+      "The film \"Paper Tiger\" was bought by the company Neon before its premiere at the festival in Cannes."
+     ]
+    ],
+    [
+     [
+      "Johansson je poznata po ulozi Crne udovice u Marvelovim filmovima.",
+      "Johansson is known for the role of Black Widow in the Marvel films."
+     ],
+     [
+      "Uskoro će glumiti u novom filmu reditelja Arija Astera „Scapegoat“, s Judeom Lawom.",
+      "She will soon act in director Ari Aster's new film \"Scapegoat\", with Jude Law."
+     ],
+     [
+      "Kaže da je scenarij vrlo intenzivan i da je dok ga je čitala stalno govorila „O, Bože!“.",
+      "She says that the script is very intense and that while she was reading it she kept saying \"Oh, God!\"."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "glumica",
+     "actress"
+    ],
+    [
+     "ponuda",
+     "offer"
+    ],
+    [
+     "snimati",
+     "to film, to shoot"
+    ],
+    [
+     "neodgovorno",
+     "irresponsible"
+    ],
+    [
+     "razočarati",
+     "to disappoint"
+    ],
+    [
+     "reditelj",
+     "director (film)"
+    ],
+    [
+     "scenarij",
+     "script"
+    ],
+    [
+     "uloga",
+     "role"
+    ]
+   ]
+  },
+  {
+   "id": "261112013",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/duratovic-snsd-bi-mogao-dobiti-petog-delegata-jer-u-opoziciji-ima-spavaca-petak-je-pazarni-dan-u-banjoj-luci/261112013",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261112013.jpg",
+   "published": "2026-11-12T06:52:00+01:00",
+   "title": [
+    "Duratović: SNSD bi mogao dobiti petog delegata u Domu naroda",
+    "Duratović: SNSD could get a fifth delegate in the House of Peoples"
+   ],
+   "body": [
+    [
+     [
+      "Mirsad Duratović, poslanik SDP-a u Narodnoj skupštini RS-a, upozorio je da u opoziciji ima „spavača“.",
+      "Mirsad Duratović, an SDP deputy in the RS National Assembly, warned that there are \"sleepers\" in the opposition."
+     ],
+     [
+      "Tako on naziva ljude koji tajno rade protiv jedinstva opozicije.",
+      "That is what he calls people who secretly work against the unity of the opposition."
+     ],
+     [
+      "Zbog njih bi SNSD i partneri mogli dobiti petog delegata u Domu naroda Parlamentarne skupštine BiH.",
+      "Because of them, SNSD and its partners could get a fifth delegate in the House of Peoples of the Parliamentary Assembly of BiH."
+     ],
+     [
+      "Duratović je to rekao u utorak uveče u emisiji „Plenum“ na Federalnoj televiziji.",
+      "Duratović said this on Tuesday evening on the programme \"Plenum\" on Federal Television."
+     ]
+    ],
+    [
+     [
+      "Prije četiri godine SNSD je dobio četvrtog delegata, a krivica je prebačena na bošnjačke poslanike.",
+      "Four years ago SNSD got a fourth delegate, and the blame was shifted to the Bosniak deputies."
+     ],
+     [
+      "Duratović kaže da su oni tada glasali za svog kandidata, a da su krivi bili „preletači“ i svađa između SDS-a i PDP-a.",
+      "Duratović says they voted for their own candidate at the time, and that \"defectors\" and the quarrel between SDS and PDP were to blame."
+     ],
+     [
+      "Prema nekim informacijama, vladajuća koalicija sada bi mogla imati 57 ili 58 poslanika u skupštini.",
+      "According to some reports, the ruling coalition could now have 57 or 58 deputies in the assembly."
+     ],
+     [
+      "Neki poslanici čija se imena spominju rekli su da ne prelaze na drugu stranu.",
+      "Some deputies whose names are mentioned have said that they are not switching sides."
+     ]
+    ],
+    [
+     [
+      "Duratović je rekao da je petak „pazarni dan“ u Banjoj Luci, kada se mogu praviti dogovori.",
+      "Duratović said that Friday is \"market day\" in Banja Luka, when deals can be made."
+     ],
+     [
+      "Dodao je da će stvari biti jasnije nakon ponedjeljka.",
+      "He added that things will be clearer after Monday."
+     ],
+     [
+      "SDP neće podržati kandidate SDS-a ni SNSD-a, ali konačnu odluku još nije donio.",
+      "SDP will not support SDS or SNSD candidates, but it has not yet made a final decision."
+     ],
+     [
+      "Stranka bi mogla imati svog kandidata ili ne bi glasala.",
+      "The party could have its own candidate or not vote."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "poslanik",
+     "deputy, MP"
+    ],
+    [
+     "opozicija",
+     "opposition"
+    ],
+    [
+     "delegat",
+     "delegate"
+    ],
+    [
+     "koalicija",
+     "coalition"
+    ],
+    [
+     "krivica",
+     "blame, guilt"
+    ],
+    [
+     "dogovor",
+     "deal, agreement"
+    ],
+    [
+     "odluka",
+     "decision"
+    ],
+    [
+     "podržati",
+     "to support"
+    ]
+   ]
+  },
+  {
+   "id": "261112010",
+   "source": "Klix.ba",
+   "section": "Vrijeme",
+   "url": "https://www.klix.ba/vijesti/bih/upaljen-narandzasti-meteoalarm-zbog-jakog-vjetra-u-bih-temperatura-do-22c/261112010",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261112010.jpg",
+   "published": "2026-11-12T06:46:00+01:00",
+   "title": [
+    "Narandžasto upozorenje zbog jakog vjetra u BiH",
+    "Orange warning for strong wind in BiH"
+   ],
+   "body": [
+    [
+     [
+      "U BiH je danas upaljen narandžasti meteoalarm zbog jakog i olujnog vjetra.",
+      "An orange weather alert for strong and stormy wind has been issued in BiH today."
+     ],
+     [
+      "Upozorenje počinje u 12 sati i traje do petka, 13. novembra, u 9 sati.",
+      "The warning starts at 12 o'clock and lasts until Friday, 13 November, at 9 o'clock."
+     ],
+     [
+      "Federalni hidrometeorološki zavod očekuje udare vjetra od 60 do 80 kilometara na sat, a lokalno i do 90.",
+      "The Federal Hydrometeorological Institute expects wind gusts of 60 to 80 kilometres per hour, and locally up to 90."
+     ]
+    ],
+    [
+     [
+      "Danas će biti pretežno oblačno, uz slabu kišu i lokalne pljuskove.",
+      "Today will be mostly cloudy, with light rain and local showers."
+     ],
+     [
+      "Jutarnja temperatura bit će od 11 do 17, a dnevna od 16 do 22 stepena.",
+      "The morning temperature will be from 11 to 17, and the daytime temperature from 16 to 22 degrees."
+     ],
+     [
+      "U Sarajevu se ujutro očekuje oko 12, a tokom dana oko 18 stepeni.",
+      "In Sarajevo about 12 degrees is expected in the morning, and about 18 during the day."
+     ],
+     [
+      "Za petak je izdato i upozorenje za obilnu kišu u Hercegovini i jugozapadnoj Bosni, gdje može pasti od 40 do 80 litara po kvadratnom metru.",
+      "For Friday a warning for heavy rain has also been issued in Herzegovina and southwestern Bosnia, where 40 to 80 litres per square metre may fall."
+     ]
+    ],
+    [
+     [
+      "Civilna zaštita Kantona Sarajevo savjetuje građanima da s balkona sklone stvari koje vjetar može odnijeti.",
+      "Sarajevo Canton civil protection advises citizens to remove things from their balconies that the wind could carry away."
+     ],
+     [
+      "Automobile ne treba parkirati blizu velikih stabala, a izlete u prirodu treba odgoditi.",
+      "Cars should not be parked near large trees, and trips into nature should be postponed."
+     ],
+     [
+      "U subotu dolazi primjetno zahlađenje, a u višim dijelovima Bosne očekuje se snijeg.",
+      "On Saturday a noticeable cold spell arrives, and snow is expected in the higher parts of Bosnia."
+     ],
+     [
+      "Dnevna temperatura tada će biti od 2 do 8 stepeni, na jugu do 13.",
+      "The daytime temperature will then be from 2 to 8 degrees, up to 13 in the south."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "upozorenje",
+     "warning"
+    ],
+    [
+     "vjetar",
+     "wind"
+    ],
+    [
+     "udar",
+     "gust, blow"
+    ],
+    [
+     "oblačno",
+     "cloudy"
+    ],
+    [
+     "pljusak",
+     "shower (of rain)"
+    ],
+    [
+     "stepen",
+     "degree"
+    ],
+    [
+     "zahlađenje",
+     "cold spell, cooling"
+    ],
+    [
+     "stablo",
+     "tree"
+    ]
+   ]
+  },
+  {
+   "id": "261112004",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/pripadnik-pocasne-garde-srusio-se-dok-je-macron-docekivao-predsjednika-slovacke/261112004",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261112004.jpg",
+   "published": "2026-11-12T06:21:00+01:00",
+   "title": [
+    "Gardista se srušio dok je Macron dočekivao slovačkog predsjednika",
+    "A guardsman collapsed while Macron was welcoming the Slovak president"
+   ],
+   "body": [
+    [
+     [
+      "Pripadnik počasne garde srušio se u srijedu ispred Elizejske palate u Parizu.",
+      "A member of the guard of honour collapsed on Wednesday in front of the Élysée Palace in Paris."
+     ],
+     [
+      "To se desilo dok je francuski predsjednik Emmanuel Macron dočekivao slovačkog predsjednika Petera Pellegrinija.",
+      "It happened while French President Emmanuel Macron was welcoming Slovak President Peter Pellegrini."
+     ],
+     [
+      "Snimak je objavila slovačka televizija TV JOJ, a dalje ga je poslala agencija Reuters.",
+      "The footage was published by Slovak television TV JOJ, and the Reuters agency distributed it further."
+     ]
+    ],
+    [
+     [
+      "Na snimku se vidi kako Pellegrinijev automobil dolazi pred palatu.",
+      "The footage shows Pellegrini's car arriving in front of the palace."
+     ],
+     [
+      "Malo kasnije jedan gardista, koji je stajao pored stepenica, pao je na tlo.",
+      "A little later one guardsman, who was standing next to the stairs, fell to the ground."
+     ],
+     [
+      "Do njega su odmah došli članovi osoblja, a prišao mu je i Macron.",
+      "Staff members went to him immediately, and Macron also approached him."
+     ],
+     [
+      "Osoblje ga je zatim odnijelo sa stepenica.",
+      "The staff then carried him away from the stairs."
+     ]
+    ],
+    [
+     [
+      "Nakon toga Macron je pozdravio Pellegrinija i dvojica predsjednika ušla su u zgradu.",
+      "After that Macron greeted Pellegrini and the two presidents entered the building."
+     ],
+     [
+      "Nije poznato zašto se gardista srušio.",
+      "It is not known why the guardsman collapsed."
+     ],
+     [
+      "TV JOJ je javila da se još ne zna ni kako se on sada osjeća.",
+      "TV JOJ reported that it is also not yet known how he is feeling now."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "garda",
+     "guard"
+    ],
+    [
+     "srušiti se",
+     "to collapse"
+    ],
+    [
+     "dočekivati",
+     "to welcome, to receive"
+    ],
+    [
+     "palata",
+     "palace"
+    ],
+    [
+     "snimak",
+     "footage, recording"
+    ],
+    [
+     "osoblje",
+     "staff"
+    ],
+    [
+     "stepenice",
+     "stairs"
+    ],
+    [
+     "pozdraviti",
+     "to greet"
+    ]
+   ]
+  },
+  {
+   "id": "261112003",
+   "source": "Klix.ba",
+   "section": "Biznis",
+   "url": "https://www.klix.ba/biznis/ekonomija/nastavak-problema-za-huanga-odbor-nvidije-mu-sprema-smjenu-nakon-dvije-afere-iako-je-suosnivac-kompanije/261112003",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261112003.jpg",
+   "published": "2026-11-12T06:20:00+01:00",
+   "title": [
+    "Odbor Nvidije možda smjenjuje šefa Jensena Huanga",
+    "Nvidia's board may remove its boss Jensen Huang"
+   ],
+   "body": [
+    [
+     [
+      "Upravni odbor kompanije Nvidia sprema se smijeniti direktora Jensena Huanga, piše Wall Street Journal.",
+      "Nvidia's board of directors is preparing to remove CEO Jensen Huang, the Wall Street Journal writes."
+     ],
+     [
+      "Razlog su dvije afere, odnosno dvije ljubavne veze izvan braka.",
+      "The reason is two affairs, that is, two romantic relationships outside marriage."
+     ],
+     [
+      "Članovi odbora sastali su se u srijedu uveče po američkom vremenu, ali odluka do kasno u noć nije objavljena.",
+      "The board members met on Wednesday evening US time, but no decision had been announced by late at night."
+     ]
+    ],
+    [
+     [
+      "New York Times piše da je Huang imao vezu s Kimberly Powell, potpredsjednicom kompanije koja radi direktno za njega.",
+      "The New York Times writes that Huang had a relationship with Kimberly Powell, a company vice president who works directly for him."
+     ],
+     [
+      "U nedjelju je priznao i vezu s Alice Huang, koju američke službe smatraju kineskom špijunkom, što Kina negira.",
+      "On Sunday he also admitted a relationship with Alice Huang, whom US agencies consider a Chinese spy, which China denies."
+     ],
+     [
+      "Huang ima 63 godine i vodi Nvidiju od njenog osnivanja 1993. godine.",
+      "Huang is 63 years old and has led Nvidia since it was founded in 1993."
+     ],
+     [
+      "On ima oko 3,6 posto dionica, pa ga odbor od 11 članova može smijeniti običnom većinom.",
+      "He owns about 3.6 percent of the shares, so the 11-member board can remove him by a simple majority."
+     ]
+    ],
+    [
+     [
+      "Prema portalu Semafor, neki članovi odbora žele da finansijska direktorica Colette Kress privremeno preuzme kompaniju.",
+      "According to the Semafor website, some board members want CFO Colette Kress to take over the company temporarily."
+     ],
+     [
+      "Bloomberg javlja da Nvidia s vanjskom agencijom već traži novog direktora.",
+      "Bloomberg reports that Nvidia is already looking for a new CEO with an outside agency."
+     ],
+     [
+      "Nakon ovih vijesti cijena dionica Nvidije pala je za skoro 9 posto.",
+      "After this news, the price of Nvidia shares fell by almost 9 percent."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "odbor",
+     "board, committee"
+    ],
+    [
+     "smijeniti",
+     "to dismiss, to remove"
+    ],
+    [
+     "direktor",
+     "director, CEO"
+    ],
+    [
+     "veza",
+     "relationship"
+    ],
+    [
+     "dionica",
+     "share (stock)"
+    ],
+    [
+     "većina",
+     "majority"
+    ],
+    [
+     "privremeno",
+     "temporarily"
+    ],
+    [
+     "osnivanje",
+     "founding"
+    ]
+   ]
+  },
+  {
+   "id": "261112002",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/historijski-trenutak-demokrata-scott-colom-pobijedio-na-izborima-za-senatora-u-mississippiju/261112002",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261112002.jpg",
+   "published": "2026-11-12T06:19:00+01:00",
+   "title": [
+    "Demokrata Scott Colom pobijedio na izborima u Mississippiju",
+    "Democrat Scott Colom wins the election in Mississippi"
+   ],
+   "body": [
+    [
+     [
+      "Demokrata Scott Colom pobijedio je na izborima za senatora američke savezne države Mississippi.",
+      "Democrat Scott Colom has won the election for senator of the US state of Mississippi."
+     ],
+     [
+      "Pobijedio je republikansku senatorku Cindy Hyde-Smith, objavila je agencija Associated Press.",
+      "He defeated Republican senator Cindy Hyde-Smith, the Associated Press agency reported."
+     ],
+     [
+      "Prema CNN-u, on je prvi demokrata kojeg je Mississippi poslao u Senat nakon više od 40 godina.",
+      "According to CNN, he is the first Democrat whom Mississippi has sent to the Senate in more than 40 years."
+     ]
+    ],
+    [
+     [
+      "Kada je prebrojano oko 99 posto glasova, Colom je imao 473.336 glasova, odnosno 49,2 posto.",
+      "When about 99 percent of the votes had been counted, Colom had 473,336 votes, or 49.2 percent."
+     ],
+     [
+      "Hyde-Smith je dobila 468.667 glasova, a nezavisni kandidat Ty Pinkins 20.234.",
+      "Hyde-Smith received 468,667 votes, and independent candidate Ty Pinkins 20,234."
+     ],
+     [
+      "Izbori su bili 3. novembra, ali rezultat danima nije bio siguran.",
+      "The election was on 3 November, but the result was uncertain for days."
+     ],
+     [
+      "Hyde-Smith je na Facebooku napisala da njen tim ne odustaje.",
+      "Hyde-Smith wrote on Facebook that her team is not giving up."
+     ]
+    ],
+    [
+     [
+      "Colom je tužilac u sjevernom Mississippiju, a 2023. ga je Joe Biden predložio za saveznog sudiju.",
+      "Colom is a prosecutor in northern Mississippi, and in 2023 Joe Biden nominated him to be a federal judge."
+     ],
+     [
+      "Hyde-Smith je tada blokirala njegovo imenovanje, a kasnije se time hvalila u kampanji.",
+      "Hyde-Smith blocked his appointment at the time, and later boasted about it in her campaign."
+     ],
+     [
+      "Većina analitičara mislila je da republikanci ne mogu izgubiti ovo mjesto.",
+      "Most analysts thought that the Republicans could not lose this seat."
+     ],
+     [
+      "Colom će biti prvi Afroamerikanac koji predstavlja Mississippi u Senatu nakon 19. stoljeća.",
+      "Colom will be the first African American to represent Mississippi in the Senate since the 19th century."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "pobijediti",
+     "to win, to defeat"
+    ],
+    [
+     "izbori",
+     "election"
+    ],
+    [
+     "glas",
+     "vote"
+    ],
+    [
+     "savezna država",
+     "federal state"
+    ],
+    [
+     "tužilac",
+     "prosecutor"
+    ],
+    [
+     "sudija",
+     "judge"
+    ],
+    [
+     "odustati",
+     "to give up"
+    ],
+    [
+     "predstavljati",
+     "to represent"
+    ]
+   ]
+  },
+  {
+   "id": "261111336",
+   "source": "Klix.ba",
+   "section": "Zdravlje",
+   "url": "https://www.klix.ba/lifestyle/zdravlje/sta-je-samrtni-hropac-i-zasto-se-javlja-u-posljednjim-satima-zivota/261111336",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261111336.jpg",
+   "published": "2026-11-11T22:48:00+01:00",
+   "title": [
+    "Šta je samrtni hropac i zašto se javlja",
+    "What the death rattle is and why it happens"
+   ],
+   "body": [
+    [
+     [
+      "Neki ljudi u posljednjim satima ili danima života dišu uz vlažan, grgljajući zvuk.",
+      "Some people in the last hours or days of life breathe with a wet, gurgling sound."
+     ],
+     [
+      "Taj zvuk zove se samrtni hropac, a ljekari ga nazivaju terminalnim respiratornim sekretom.",
+      "This sound is called the death rattle, and doctors call it terminal respiratory secretions."
+     ],
+     [
+      "Porodicama je teško slušati ga, ali prema medicinskim saznanjima vjerovatno ne izaziva bol.",
+      "It is hard for families to listen to, but according to medical knowledge it probably does not cause pain."
+     ]
+    ],
+    [
+     [
+      "Prema američkom Nacionalnom institutu za rak, pljuvačka i druge tečnosti skupljaju se u grlu.",
+      "According to the US National Cancer Institute, saliva and other fluids collect in the throat."
+     ],
+     [
+      "Zdrava osoba ih proguta ili iskašlje, ali umiruća osoba to više ne može, pa zrak prolazi kroz tečnost.",
+      "A healthy person swallows them or coughs them up, but a dying person can no longer do that, so air passes through the fluid."
+     ],
+     [
+      "Zvuk može biti tih kao jecanje ili glasan kao hrkanje.",
+      "The sound can be quiet like moaning or loud like snoring."
+     ],
+     [
+      "Portal Healthline navodi da osoba nakon pojave hropca živi u prosjeku oko 23 sata, ali to je različito.",
+      "The Healthline website states that after the rattle appears a person lives about 23 hours on average, but this varies."
+     ]
+    ],
+    [
+     [
+      "Stručnjaci kažu da to nije isto što i nedostatak zraka.",
+      "Experts say that this is not the same as a lack of air."
+     ],
+     [
+      "Stanje se može olakšati ako se osoba okrene na bok i ako se višak tečnosti ukloni iz usta.",
+      "The condition can be eased if the person is turned onto their side and if excess fluid is removed from the mouth."
+     ],
+     [
+      "Pomaže i kada se smanji unos tečnosti.",
+      "It also helps when fluid intake is reduced."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "disati",
+     "to breathe"
+    ],
+    [
+     "zvuk",
+     "sound"
+    ],
+    [
+     "bol",
+     "pain"
+    ],
+    [
+     "pljuvačka",
+     "saliva"
+    ],
+    [
+     "tečnost",
+     "fluid, liquid"
+    ],
+    [
+     "grlo",
+     "throat"
+    ],
+    [
+     "progutati",
+     "to swallow"
+    ],
+    [
+     "olakšati",
+     "to ease, to relieve"
+    ]
+   ]
+  },
+  {
+   "id": "261111338",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/auto/nakon-kine-i-eu-zeli-zabraniti-uvucene-rucke-na-automobilima/261111338",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261111338.jpg",
+   "published": "2026-11-11T21:20:00+01:00",
+   "title": [
+    "EU želi zabraniti skrivene ručke na vratima automobila",
+    "The EU wants to ban hidden handles on car doors"
+   ],
+   "body": [
+    [
+     [
+      "Evropska unija mogla bi zabraniti uvučene ručke na vratima automobila, kao što je već uradila Kina.",
+      "The European Union could ban recessed handles on car doors, as China has already done."
+     ],
+     [
+      "Prema prijedlogu, vrata putničkih automobila i lakih dostavnih vozila uvijek bi se morala moći otvoriti mehanički.",
+      "According to the proposal, the doors of passenger cars and light delivery vehicles would always have to be able to be opened mechanically."
+     ],
+     [
+      "To bi važilo i za otvaranje iznutra i za otvaranje izvana.",
+      "This would apply both to opening from the inside and to opening from the outside."
+     ]
+    ],
+    [
+     [
+      "Mnogi proizvođači posljednjih godina mijenjaju klasične ručke modernim rješenjima.",
+      "In recent years many manufacturers have been replacing classic handles with modern solutions."
+     ],
+     [
+      "Takve ručke nisu uvijek jednostavne za korištenje, a neke su izazvale i teške povrede.",
+      "Such handles are not always easy to use, and some have even caused serious injuries."
+     ],
+     [
+      "U nesreći mogu postati smrtonosna zamka, posebno ručke koje rade na struju.",
+      "In an accident they can become a deadly trap, especially handles that work on electricity."
+     ],
+     [
+      "Kineske vlasti već su postrožile pravila o tome kako ručke moraju izgledati.",
+      "Chinese authorities have already tightened the rules on how handles must look."
+     ]
+    ],
+    [
+     [
+      "EU bi mogla uvesti i sistem koji osigurava da nijedno dijete ne ostane zaključano u automobilu.",
+      "The EU could also introduce a system that ensures that no child is left locked in a car."
+     ],
+     [
+      "O prijedlogu će se glasati do kraja ove godine.",
+      "The proposal will be voted on by the end of this year."
+     ],
+     [
+      "Ako bude usvojen, o njemu će se zatim pregovarati sa zemljama članicama.",
+      "If it is adopted, it will then be negotiated with the member states."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "ručka",
+     "handle"
+    ],
+    [
+     "vrata",
+     "door"
+    ],
+    [
+     "zabraniti",
+     "to ban"
+    ],
+    [
+     "prijedlog",
+     "proposal"
+    ],
+    [
+     "proizvođač",
+     "manufacturer"
+    ],
+    [
+     "povreda",
+     "injury"
+    ],
+    [
+     "nesreća",
+     "accident"
+    ],
+    [
+     "zaključan",
+     "locked"
+    ]
+   ]
+  },
   {
    "id": "261111300",
    "source": "Klix.ba",
@@ -4984,788 +5850,6 @@
     [
      "priznanje",
      "commendation, award"
-    ]
-   ]
-  },
-  {
-   "id": "261109196",
-   "source": "Klix.ba",
-   "section": "Zdravlje",
-   "url": "https://www.klix.ba/lifestyle/zdravlje/koje-navike-vam-mogu-pomoci-u-svakodnevnom-zivotu-ako-se-borite-s-anksioznoscu/261109196",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261109196.jpg",
-   "published": "2026-11-09T14:56:00+01:00",
-   "title": [
-    "Navike koje pomažu ljudima koji se bore s anksioznošću",
-    "Habits that help people who struggle with anxiety"
-   ],
-   "body": [
-    [
-     [
-      "Ljudi koji žive s anksioznošću često se oslanjaju na poznate stvari, na primjer na istu hranu, omiljenu seriju ili ustaljenu rutinu.",
-      "People who live with anxiety often rely on familiar things, for example the same food, a favourite series or a fixed routine."
-     ],
-     [
-      "Te navike ne rješavaju sve probleme, ali pomažu kada osoba osjeti da gubi kontrolu.",
-      "These habits do not solve every problem, but they help when a person feels they are losing control."
-     ],
-     [
-      "Svako ko živi s anksioznošću ima svoj način da pronađe utjehu.",
-      "Everyone who lives with anxiety has their own way of finding comfort."
-     ]
-    ],
-    [
-     [
-      "Omiljene serije su siguran izbor jer su likovi i radnja poznati, a kraj se zna unaprijed.",
-      "Favourite series are a safe choice because the characters and plot are known, and the ending is known in advance."
-     ],
-     [
-      "Slično je i u restoranu: ako unaprijed znate šta ćete naručiti, osjećate se mirnije.",
-      "It is similar in a restaurant: if you know in advance what you will order, you feel calmer."
-     ],
-     [
-      "Drugima to može izgledati kao izbirljivost, ali razlog je često strah da će se osoba osjećati loše nakon nove hrane.",
-      "To others this may look like pickiness, but the reason is often fear of feeling sick after new food."
-     ],
-     [
-      "U nepoznatim prostorima, na primjer u koncertnoj dvorani, anksiozni ljudi prvo pronađu izlaze, što im donosi mir.",
-      "In unfamiliar places, for example a concert hall, anxious people first find the exits, which brings them calm."
-     ],
-     [
-      "Neki osjećaju veliku tjeskobu zbog dogovorenih planova, pa im je lakše kada neko drugi otkaže.",
-      "Some feel great dread about agreed plans, so it is easier for them when someone else cancels."
-     ]
-    ],
-    [
-     [
-      "Neki ljudi imaju i vremensku anksioznost: stalno gledaju na sat i često dođu oko 15 minuta ranije.",
-      "Some people also have time anxiety: they constantly watch the clock and often arrive about 15 minutes early."
-     ],
-     [
-      "Igrice i muzika također mogu pomoći, jer na trenutak odvlače misli od briga.",
-      "Games and music can also help, because they briefly take thoughts away from worries."
-     ],
-     [
-      "Stručnjaci navode da ista rutina u stresnom periodu smanjuje napetost, a male navike, kao što je ujutro pospremiti krevet, daju osjećaj kontrole.",
-      "Experts say that the same routine in a stressful period reduces tension, and small habits, such as making the bed in the morning, give a sense of control."
-     ],
-     [
-      "Anksioznost može stvoriti i potrebu za kontrolom, pa se mnogi najsigurnije osjećaju kada sami voze automobil.",
-      "Anxiety can also create a need for control, so many feel safest when they drive the car themselves."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "anksioznost",
-     "anxiety"
-    ],
-    [
-     "navika",
-     "habit"
-    ],
-    [
-     "rutina",
-     "routine"
-    ],
-    [
-     "kontrola",
-     "control"
-    ],
-    [
-     "utjeha",
-     "comfort"
-    ],
-    [
-     "stres",
-     "stress"
-    ],
-    [
-     "tjeskoba",
-     "dread, unease"
-    ]
-   ]
-  },
-  {
-   "id": "261109161",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/savo-minic-u-sarajevu-preuzeo-mandat-predsjednika-rs-a-i-najavio-vladu-do-15-decembra/261109161",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261109161.jpg",
-   "published": "2026-11-09T13:32:00+01:00",
-   "title": [
-    "Savo Minić preuzeo mandat predsjednika RS-a, vlada do 15. decembra",
-    "Savo Minić took the RS president's mandate; government by 15 December"
-   ],
-   "body": [
-    [
-     [
-      "Savo Minić je u Sarajevu u CIK-u potpisao izjavu o prihvatanju mandata predsjednika Republike Srpske.",
-      "In Sarajevo, Savo Minić signed a statement accepting the mandate of president of Republika Srpska at the CIK."
-     ],
-     [
-      "Do sada je bio premijer, a sve ovlasti premijera prenio je na ministra Kuzmića.",
-      "Until now he was prime minister, and he handed all the prime minister's powers to minister Kuzmić."
-     ],
-     [
-      "Minić kaže da je potpisom u CIK-u zapravo postao predsjednik.",
-      "Minić says that with his signature at the CIK he actually became president."
-     ]
-    ],
-    [
-     [
-      "Mandat je prihvatio da bi izbjegao pravne sporove.",
-      "He accepted the mandate to avoid legal disputes."
-     ],
-     [
-      "Izmjene Izbornog zakona nazvao je nametnutim i rekao da ih treba tumačiti Parlamentarna skupština BiH, a ne CIK.",
-      "He called the changes to the Election Law imposed and said that the Parliamentary Assembly of BiH, not the CIK, should interpret them."
-     ],
-     [
-      "Zakletvu će položiti u ponedjeljak na konstitutivnoj sjednici Narodne skupštine RS-a.",
-      "He will take the oath on Monday at the constitutive session of the RS National Assembly."
-     ]
-    ],
-    [
-     [
-      "Nakon toga će od Siniše Karana preuzeti Ustav, a posao počinje u utorak.",
-      "After that he will receive the Constitution from Siniša Karan, and work starts on Tuesday."
-     ],
-     [
-      "Nova vlada RS-a bit će formirana najkasnije do 15. decembra, a razgovori počinju odmah.",
-      "The new RS government will be formed by 15 December at the latest, and talks start immediately."
-     ],
-     [
-      "Na kritike Elmedina Konakovića o raspodjeli državnih funkcija nije htio davati detalje.",
-      "He did not want to give details in response to Elmedin Konaković's criticism about the distribution of state posts."
-     ],
-     [
-      "Rekao je samo da je njegova strana odlično pobijedila.",
-      "He said only that his side won clearly."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "predsjednik",
-     "president"
-    ],
-    [
-     "premijer",
-     "prime minister"
-    ],
-    [
-     "ovlasti",
-     "powers"
-    ],
-    [
-     "izjava",
-     "statement"
-    ],
-    [
-     "zakletva",
-     "oath"
-    ],
-    [
-     "sjednica",
-     "session"
-    ]
-   ]
-  },
-  {
-   "id": "261109098",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/odlazeci-saziv-doma-naroda-fbih-bi-mogao-birati-drzavnog-delegata-koji-nece-ni-preuzeti-funkciju-niti-primati-platu/261109098",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261109098.jpg",
-   "published": "2026-11-09T13:20:00+01:00",
-   "title": [
-    "Stari saziv Doma naroda FBiH možda bira delegata bez funkcije",
-    "The outgoing House of Peoples of the FBiH may elect a delegate who will never serve"
-   ],
-   "body": [
-    [
-     [
-      "Četiri delegata Doma naroda BiH podnijela su ostavku jer su izabrani u Predstavnički dom.",
-      "Four delegates of the BiH House of Peoples resigned because they were elected to the House of Representatives."
-     ],
-     [
-      "Riječ je o Džemalu Smajiću, Dženanu Đonlagiću, Iliji Cvitanoviću i Želimiru Neškoviću, rekao je član CIK-a Suad Arnautović.",
-      "They are Džemal Smajić, Dženan Đonlagić, Ilija Cvitanović and Želimir Nešković, said CIK member Suad Arnautović."
-     ],
-     [
-      "Prema starim listama, njihova mjesta trebaju preuzeti Mirnes Gušić, Mensura Beganović, Ivan Vukadin i Tamara Evđić.",
-      "According to the old lists, their seats should be taken by Mirnes Gušić, Mensura Beganović, Ivan Vukadin and Tamara Evđić."
-     ]
-    ],
-    [
-     [
-      "Problem je u tome što su Gušić i Vukadin osvojili i mandate u kantonalnim skupštinama.",
-      "The problem is that Gušić and Vukadin also won seats in cantonal assemblies."
-     ],
-     [
-      "Ako ih prihvate, Cvitanovićevo mjesto bi pripalo Željku Josiću.",
-      "If they accept them, Cvitanović's seat would go to Željko Josić."
-     ],
-     [
-      "Gušićeva lista imala je samo dva imena, pa zakon ne kaže ko je sljedeći.",
-      "Gušić's list had only two names, so the law does not say who is next."
-     ],
-     [
-      "CIK bi zato mogao tražiti vanrednu sjednicu odlazećeg Doma naroda FBiH.",
-      "The CIK could therefore ask for an extraordinary session of the outgoing FBiH House of Peoples."
-     ]
-    ],
-    [
-     [
-      "Situacija se zove bizarnom jer novi delegati vjerovatno nikada neće raditi.",
-      "The situation is called bizarre because the new delegates will probably never work."
-     ],
-     [
-      "Ovaj saziv uskoro završava, pa oni neće položiti zakletvu niti primati platu.",
-      "This convocation ends soon, so they will not take the oath or receive a salary."
-     ],
-     [
-      "To je prva primjena pravila o mirovanju mandata poslije općih izbora.",
-      "This is the first use of the rule on suspended mandates after the general elections."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "delegat",
-     "delegate"
-    ],
-    [
-     "ostavka",
-     "resignation"
-    ],
-    [
-     "mandat",
-     "mandate"
-    ],
-    [
-     "saziv",
-     "convocation"
-    ],
-    [
-     "zakletva",
-     "oath"
-    ],
-    [
-     "plata",
-     "salary"
-    ]
-   ]
-  },
-  {
-   "id": "261109156",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/nauka/tragovi-kanabisa-pronadeni-u-sibirskoj-grobnici-staroj-2800-godina/261109156",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261109156.jpg",
-   "published": "2026-11-09T13:19:00+01:00",
-   "title": [
-    "Tragovi kanabisa nađeni u sibirskoj grobnici staroj 2.800 godina",
-    "Traces of cannabis found in a 2,800-year-old Siberian tomb"
-   ],
-   "body": [
-    [
-     [
-      "Međunarodni tim naučnika pronašao je oko 1.000 sjemenki kanabisa u drevnoj grobnici u južnom Sibiru.",
-      "An international team of scientists found about 1,000 cannabis seeds in an ancient tomb in southern Siberia."
-     ],
-     [
-      "Istraživanje je vodio arheolog Gino Caspari sa Univerziteta u Bernu.",
-      "The research was led by archaeologist Gino Caspari of the University of Bern."
-     ],
-     [
-      "Grobnica Tunnug 1 u Tuvi pripadala je visokopozicioniranoj osobi iz skitskog naroda.",
-      "The tomb Tunnug 1 in Tuva belonged to a high-ranking person of the Scythian people."
-     ]
-    ],
-    [
-     [
-      "Šest sjemenki datirano je radiokarbonskom metodom, a rezultati pokazuju da su stavljene u grobnicu početkom 8. vijeka prije nove ere.",
-      "Six seeds were dated by the radiocarbon method, and the results show they were put into the tomb in the early 8th century BCE."
-     ],
-     [
-      "U kosi iz središnje komore nađeni su tragovi kanabinola, spoja koji nastaje iz THC-a.",
-      "In hair from the central chamber, traces of cannabinol were found, a compound that forms from THC."
-     ],
-     [
-      "Naučnici kažu da je to najstariji direktno datiran dokaz upotrebe kanabisa zbog opojnog učinka.",
-      "The scientists say this is the oldest directly dated evidence of cannabis use for its intoxicating effect."
-     ]
-    ],
-    [
-     [
-      "Studija ne može pokazati koliko je kanabisa korišteno, niti da li su ga ljudi pušili ili jeli.",
-      "The study cannot show how much cannabis was used, or whether people smoked or ate it."
-     ],
-     [
-      "Sjemenke vjerovatno potiču od divljih biljaka.",
-      "The seeds probably come from wild plants."
-     ],
-     [
-      "Caspari kaže da je kanabis imao važnu ulogu u obredima oko sahrane.",
-      "Caspari says that cannabis had an important role in rituals around burial."
-     ],
-     [
-      "Studija je objavljena 5. novembra u časopisu Science.",
-      "The study was published on 5 November in the journal Science."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "grobnica",
-     "tomb"
-    ],
-    [
-     "sjemenka",
-     "seed"
-    ],
-    [
-     "arheolog",
-     "archaeologist"
-    ],
-    [
-     "dokaz",
-     "evidence"
-    ],
-    [
-     "obred",
-     "ritual"
-    ],
-    [
-     "sahrana",
-     "funeral"
-    ]
-   ]
-  },
-  {
-   "id": "261109105",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/dan-kada-je-pao-berlinski-zid-kako-je-jedna-greska-na-presici-srusila-najcuvaniju-granicu-evrope/261109105",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261109105.jpg",
-   "published": "2026-11-09T13:12:00+01:00",
-   "title": [
-    "Kako je jedna greška na konferenciji srušila Berlinski zid",
-    "How one mistake at a press conference brought down the Berlin Wall"
-   ],
-   "body": [
-    [
-     [
-      "Danas je godišnjica pada Berlinskog zida, koji je Berlin dijelio od 1961. godine.",
-      "Today is the anniversary of the fall of the Berlin Wall, which divided Berlin from 1961."
-     ],
-     [
-      "Istočnonjemačke vlasti počele su zatvarati granicu prema Zapadnom Berlinu 13. augusta te godine.",
-      "East German authorities began closing the border to West Berlin on 13 August of that year."
-     ],
-     [
-      "Do 1989. kod zida je poginulo najmanje 140 ljudi.",
-      "By 1989 at least 140 people had died at the wall."
-     ]
-    ],
-    [
-     [
-      "Večer 9. novembra 1989. zvaničnik Günter Schabowski objavio je nova pravila putovanja za Istočne Nijemce.",
-      "On the evening of 9 November 1989, official Günter Schabowski announced new travel rules for East Germans."
-     ],
-     [
-      "Na pitanje novinara kada počinju, odgovorio je da odmah, bez odlaganja.",
-      "Asked by a journalist when they start, he answered that it was immediately, without delay."
-     ],
-     [
-      "Prijelaz Bornholmer Straße propustio je prve ljude u 21:20, a oko 23:30 komandant je podigao rampu.",
-      "The Bornholmer Straße crossing let the first people through at 21:20, and around 23:30 the commander lifted the barrier."
-     ],
-     [
-      "Za sat vremena granicu je prešlo oko 20.000 ljudi.",
-      "Within an hour about 20,000 people crossed the border."
-     ]
-    ],
-    [
-     [
-      "Većina zida srušena je između juna i novembra 1990, a Njemačka je ujedinjena 3. oktobra.",
-      "Most of the wall was torn down between June and November 1990, and Germany was reunified on 3 October."
-     ],
-     [
-      "Berlin je obilježio godišnjicu kod Memorijala na ulici Bernauer Straße, uz oko 170 manifestacija.",
-      "Berlin marked the anniversary at the Memorial on Bernauer Straße, with about 170 events."
-     ],
-     [
-      "Novi izvještaj pokazuje da je prosječna neto imovina domaćinstva na istoku 125.500 eura, a na zapadu 257.100.",
-      "A new report shows that average net household assets are 125,500 euros in the East and 257,100 in the West."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "zid",
-     "wall"
-    ],
-    [
-     "granica",
-     "border"
-    ],
-    [
-     "godišnjica",
-     "anniversary"
-    ],
-    [
-     "prijelaz",
-     "border crossing"
-    ],
-    [
-     "rampa",
-     "barrier"
-    ],
-    [
-     "imovina",
-     "assets"
-    ]
-   ]
-  },
-  {
-   "id": "261109146",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/psv-objavio-snimak-driblinga-bajraktarevica-iz-drugog-ugla-protivnik-nije-znao-sta-ga-je-snaslo/261109146",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261109146.jpg",
-   "published": "2026-11-09T12:59:00+01:00",
-   "title": [
-    "PSV objavio novi snimak driblinga Bajraktarevića",
-    "PSV published a new video of Bajraktarević's dribble"
-   ],
-   "body": [
-    [
-     [
-      "PSV je na Instagramu objavio novi snimak driblinga bh. reprezentativca Esmira Bajraktarevića.",
-      "PSV published a new video of the dribbling of Bosnian international Esmir Bajraktarević on Instagram."
-     ],
-     [
-      "Akcija je iz 19. minute utakmice 12. kola Eredivisie, koju je PSV dobio protiv Cambuura sa 5:2.",
-      "The action is from the 19th minute of the Eredivisie round 12 match, which PSV won against Cambuur 5-2."
-     ],
-     [
-      "Bajraktarević je ušao u šesnaesterac, ostavio braniča bez odgovora i dodao Rubenu van Bommelu.",
-      "Bajraktarević entered the penalty area, left the defender helpless and passed to Ruben van Bommel."
-     ],
-     [
-      "Van Bommel je postigao gol za 3:0.",
-      "Van Bommel scored for 3-0."
-     ]
-    ],
-    [
-     [
-      "Bajraktarević je tako upisao petu asistenciju u sezoni, jednu više nego u cijeloj prošloj.",
-      "Bajraktarević thus made his fifth assist of the season, one more than in the whole of the last one."
-     ],
-     [
-      "Počeo je utakmicu jer je trener Peter Bosz odmarao Ivana Perišića, koji je imao povredu glave.",
-      "He started the match because coach Peter Bosz rested Ivan Perišić, who had a head injury."
-     ],
-     [
-      "Asistirao je i kod prvog gola Svena Mijnansa u prvoj minuti, a Mijnans je zabio tri gola.",
-      "He also assisted Sven Mijnans's first goal in the first minute, and Mijnans scored three."
-     ]
-    ],
-    [
-     [
-      "Zamijenjen je u 86. minuti, a Voetbal International mu je dao ocjenu 7,5.",
-      "He was substituted in the 86th minute, and Voetbal International gave him a rating of 7.5."
-     ],
-     [
-      "Navijači su poslije trećeg gola bacali čaše i flaše pa je utakmica nakratko prekinuta.",
-      "After the third goal fans threw cups and bottles, so the match was briefly stopped."
-     ],
-     [
-      "PSV je pobjedom prešao na vrh tabele s 26 bodova, jedan više od Feyenoorda i Ajaxa.",
-      "With the win, PSV moved to the top of the table with 26 points, one more than Feyenoord and Ajax."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "dribling",
-     "dribble"
-    ],
-    [
-     "asistencija",
-     "assist"
-    ],
-    [
-     "šesnaesterac",
-     "penalty area"
-    ],
-    [
-     "branič",
-     "defender"
-    ],
-    [
-     "tabela",
-     "table, standings"
-    ],
-    [
-     "ocjena",
-     "rating"
-    ]
-   ]
-  },
-  {
-   "id": "261109056",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/trump-u-prvom-intervjuu-nakon-potopa-na-izborima-prizao-gresku-pretjerao-sam-s-deportacijama/261109056",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261109056.jpg",
-   "published": "2026-11-09T12:49:00+01:00",
-   "title": [
-    "Trump priznao da je pretjerao s deportacijama",
-    "Trump admitted he went too far with deportations"
-   ],
-   "body": [
-    [
-     [
-      "Donald Trump je u prvom velikom intervjuu poslije izbora priznao da je politika deportacija bila prestroga.",
-      "In his first big interview after the elections, Donald Trump admitted that his deportation policy was too harsh."
-     ],
-     [
-      "U emisiji \"60 Minutes\" rekao je da ga je to koštalo podrške birača.",
-      "On \"60 Minutes\" he said it cost him voters' support."
-     ],
-     [
-      "Prema CBS-u, republikanci su izgubili više od 40 mjesta u Predstavničkom domu i najmanje sedam u Senatu.",
-      "According to CBS, Republicans lost more than 40 seats in the House of Representatives and at least seven in the Senate."
-     ]
-    ],
-    [
-     [
-      "Trump misli da su na rezultat uticali i deportacije ljudi s dobrim poslovima i slaba ekonomska poruka.",
-      "Trump thinks the result was also affected by the deportation of people with good jobs and a weak economic message."
-     ],
-     [
-      "Izlazne ankete CBS-a pokazuju da 63 posto birača ne odobrava njegov rad.",
-      "CBS exit polls show that 63 percent of voters disapprove of his work."
-     ],
-     [
-      "Njih 58 posto smatra da je vlast otišla predaleko u pitanju imigracije.",
-      "58 percent of them think the administration went too far on immigration."
-     ],
-     [
-      "Trump želi dogovor s demokratama za ljude koji dugo žive u zemlji, poput konobara i vrtlara.",
-      "Trump wants a deal with the Democrats for people who have lived in the country for a long time, such as waiters and gardeners."
-     ]
-    ],
-    [
-     [
-      "Priznao je i da se biračima nije dopao rat s Iranom i da ne želi eskalaciju.",
-      "He also admitted that voters did not like the war with Iran and that he does not want escalation."
-     ],
-     [
-      "Obećao je da će prije kraja mandata dati veliki broj pomilovanja.",
-      "He promised to grant a large number of pardons before the end of his term."
-     ],
-     [
-      "Sat poslije intervjua objavio je da će Stephen Miller zamijeniti Susie Wiles na mjestu šefa kabineta.",
-      "An hour after the interview he announced that Stephen Miller will replace Susie Wiles as chief of staff."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "deportacija",
-     "deportation"
-    ],
-    [
-     "izbori",
-     "elections"
-    ],
-    [
-     "podrška",
-     "support"
-    ],
-    [
-     "birač",
-     "voter"
-    ],
-    [
-     "pomilovanje",
-     "pardon"
-    ],
-    [
-     "mandat",
-     "term of office"
-    ]
-   ]
-  },
-  {
-   "id": "261109128",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/muzika/robbie-williams-o-optuzbama-da-je-olivia-rodrigo-kopirala-njegov-hit-candy-bas-me-briga-necu-je-tuziti/261109128",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261109128.jpg",
-   "published": "2026-11-09T12:14:00+01:00",
-   "title": [
-    "Robbie Williams neće tužiti Oliviju Rodrigo zbog pjesme",
-    "Robbie Williams will not sue Olivia Rodrigo over a song"
-   ],
-   "body": [
-    [
-     [
-      "Pjevač Robbie Williams rekao je da neće tužiti Oliviju Rodrigo zbog sličnosti njenih pjesama s njegovom.",
-      "Singer Robbie Williams said he will not sue Olivia Rodrigo over similarities between her song and his."
-     ],
-     [
-      "Slušaoci na društvenim mrežama uporedili su njenu božićnu pjesmu \"Take Me Home 4 Christmas\" s njegovim hitom \"Candy\" iz 2012.",
-      "Listeners on social media compared her Christmas song \"Take Me Home 4 Christmas\" with his 2012 hit \"Candy\"."
-     ],
-     [
-      "Rodrigo je pjesmu objavila prošle sedmice.",
-      "Rodrigo released the song last week."
-     ]
-    ],
-    [
-     [
-      "Williams, koji ima 52 godine, kaže da su takve reakcije razumljive, ali da se sličnost može desiti slučajno.",
-      "Williams, who is 52, says such reactions are understandable, but that a similarity can happen by accident."
-     ],
-     [
-      "Dodao je da neće ići protiv nje i da ne zna ima li tu veze s autorskim pravima.",
-      "He added that he will not go against her and that he does not know whether copyright is involved."
-     ],
-     [
-      "Pohvalio je i njenu pjesmu \"Brutal\" i rekao da bi voljao da ju je on napisao.",
-      "He also praised her song \"Brutal\" and said he would have liked to have written it himself."
-     ]
-    ],
-    [
-     [
-      "Pjesmu su s Rodrigo napisali Dan Nigro i Amy Allen, a inspiracija je bila \"Christmas Wrapping\" grupe The Waitresses iz 1981.",
-      "The song was written with Rodrigo by Dan Nigro and Amy Allen, and the inspiration was \"Christmas Wrapping\" by The Waitresses from 1981."
-     ],
-     [
-      "Rodrigo je tražila dozvolu od osnivača grupe Chrisa Butlera, a on ju je odobrio.",
-      "Rodrigo asked for permission from the group's founder Chris Butler, and he approved it."
-     ],
-     [
-      "Slične optužbe čula je i ranije, na primjer za pjesmu \"Good 4 U\".",
-      "She has heard similar accusations before, for example for the song \"Good 4 U\"."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "pjevač",
-     "singer"
-    ],
-    [
-     "sličnost",
-     "similarity"
-    ],
-    [
-     "tužiti",
-     "to sue"
-    ],
-    [
-     "optužba",
-     "accusation"
-    ],
-    [
-     "autorska prava",
-     "copyright"
-    ],
-    [
-     "dozvola",
-     "permission"
-    ]
-   ]
-  },
-  {
-   "id": "261109103",
-   "source": "Klix.ba",
-   "section": "Biznis",
-   "url": "https://www.klix.ba/biznis/nekretnine/gradani-bih-u-2025-u-hrvatskoj-kupili-464-nekretnine-vise-od-ceha-madara-i-poljaka/261109103",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261109103.jpg",
-   "published": "2026-11-09T12:00:00+01:00",
-   "title": [
-    "Građani BiH u Hrvatskoj kupili 464 nekretnine u 2025.",
-    "BiH citizens bought 464 properties in Croatia in 2025"
-   ],
-   "body": [
-    [
-     [
-      "Građani BiH su prošle godine u Hrvatskoj kupili 464 nekretnine.",
-      "BiH citizens bought 464 properties in Croatia last year."
-     ],
-     [
-      "Prema podacima hrvatske Porezne uprave, to ih svrstava na četvrto mjesto među stranim kupcima.",
-      "According to data from the Croatian Tax Administration, this puts them in fourth place among foreign buyers."
-     ],
-     [
-      "Kupili su više od Čeha, Mađara i Poljaka, ali manje od Slovenaca, Nijemaca i Austrijanaca.",
-      "They bought more than Czechs, Hungarians and Poles, but fewer than Slovenes, Germans and Austrians."
-     ]
-    ],
-    [
-     [
-      "Slovenci su kupili 2.576 nekretnina, Nijemci 1.962, a Austrijanci 875.",
-      "Slovenes bought 2,576 properties, Germans 1,962, and Austrians 875."
-     ],
-     [
-      "Stranci su ukupno kupili 9.159 nekretnina, što je 31 posto manje nego u rekordnoj 2022.",
-      "Foreigners bought 9,159 properties in total, which is 31 percent fewer than in the record year 2022."
-     ],
-     [
-      "Ipak, to je 59 posto više nego 2016. godine, a kupovina građana BiH je osam puta veća.",
-      "Still, that is 59 percent more than in 2016, and purchases by BiH citizens are eight times higher."
-     ]
-    ],
-    [
-     [
-      "Najviše stranaca kupovalo je u Istri, gdje je prodano 2.635 nekretnina.",
-      "Most foreigners bought in Istria, where 2,635 properties were sold."
-     ],
-     [
-      "Slijede Zadarska županija s 1.789 i Primorsko-goranska s 1.543 kupovine.",
-      "Zadar County follows with 1,789 and Primorje-Gorski Kotar with 1,543 purchases."
-     ],
-     [
-      "Hrvatska gospodarska komora navodi da oko 90 posto stranaca kupuje u primorskim županijama.",
-      "The Croatian Chamber of Economy says that about 90 percent of foreigners buy in coastal counties."
-     ],
-     [
-      "Porezna uprava dodaje da se brojke još mogu promijeniti.",
-      "The Tax Administration adds that the figures may still change."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "nekretnina",
-     "property"
-    ],
-    [
-     "kupac",
-     "buyer"
-    ],
-    [
-     "porezna uprava",
-     "tax administration"
-    ],
-    [
-     "rekordan",
-     "record"
-    ],
-    [
-     "županija",
-     "county"
-    ],
-    [
-     "primorski",
-     "coastal"
     ]
    ]
   }
