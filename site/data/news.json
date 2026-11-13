@@ -1,17 +1,974 @@
 {
- "updated": "2026-11-12T18:50:00+01:00",
+ "updated": "2026-11-13T07:50:00+01:00",
  "front": [
-  "261112219",
-  "261112265",
-  "261112296",
-  "261112177",
-  "261112256",
-  "261112275",
-  "261112295",
-  "261112277",
-  "261112289"
+  "261113006",
+  "261113009",
+  "261113010",
+  "261113011",
+  "261112104",
+  "261113002",
+  "261113005",
+  "261112357",
+  "261113017",
+  "261112341"
  ],
  "articles": [
+  {
+   "id": "261113017",
+   "source": "Klix.ba",
+   "section": "Zdravlje",
+   "url": "https://www.klix.ba/lifestyle/zdravlje/infarkt-i-uz-nizak-holesterol-dvije-masne-cestice-vezane-za-bolesti-srca/261113017",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261113017.jpg",
+   "published": "2026-11-13T07:35:00+01:00",
+   "title": [
+    "Infarkt je moguć i kada je holesterol nizak",
+    "A heart attack is possible even when cholesterol is low"
+   ],
+   "body": [
+    [
+     [
+      "Infarkt se može dogoditi i kada je LDL, takozvani loši holesterol, pod kontrolom.",
+      "A heart attack can happen even when LDL, the so-called bad cholesterol, is under control."
+     ],
+     [
+      "Novo istraživanje iz Švedske proučilo je dvije druge vrste masnih čestica u krvi.",
+      "A new study from Sweden examined two other kinds of fatty particles in the blood."
+     ],
+     [
+      "Studiju su vodili naučnici s Univerziteta Chalmers, a objavljena je u časopisu European Heart Journal.",
+      "The study was led by scientists from Chalmers University, and it was published in the journal European Heart Journal."
+     ]
+    ],
+    [
+     [
+      "Te dvije vrste čestica zovu se TRL i lipoprotein(a).",
+      "These two kinds of particles are called TRL and lipoprotein(a)."
+     ],
+     [
+      "Naučnici su u krvi izmjerili skoro 3.000 proteina i uporedili ih s genetskim podacima i zdravstvenim kartonima ljudi.",
+      "The scientists measured almost 3,000 proteins in the blood and compared them with people's genetic data and medical records."
+     ],
+     [
+      "Otkrili su da obje vrste čestica imaju sličan obrazac proteina, a oba obrasca povezana su s kasnijim bolestima srca.",
+      "They found that both kinds of particles have a similar pattern of proteins, and both patterns are linked to later heart disease."
+     ],
+     [
+      "Ti proteini mogu privući imunološke ćelije i tako izazvati upalu u krvnim sudovima.",
+      "These proteins can attract immune cells and so cause inflammation in the blood vessels."
+     ]
+    ],
+    [
+     [
+      "Istraživač Clemens Wittenbecher rekao je da je smanjenje LDL-a i dalje osnova prevencije.",
+      "Researcher Clemens Wittenbecher said that lowering LDL is still the basis of prevention."
+     ],
+     [
+      "Studija nije testirala novi lijek i nije donijela krvni test za svakodnevnu upotrebu.",
+      "The study did not test a new medicine and did not produce a blood test for everyday use."
+     ],
+     [
+      "Prema Svjetskoj zdravstvenoj organizaciji, od bolesti srca i krvnih sudova svake godine umre oko 17,9 miliona ljudi.",
+      "According to the World Health Organization, about 17.9 million people die from diseases of the heart and blood vessels every year."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "infarkt",
+     "heart attack"
+    ],
+    [
+     "holesterol",
+     "cholesterol"
+    ],
+    [
+     "čestica",
+     "particle"
+    ],
+    [
+     "krv",
+     "blood"
+    ],
+    [
+     "istraživanje",
+     "research, study"
+    ],
+    [
+     "upala",
+     "inflammation"
+    ],
+    [
+     "krvni sud",
+     "blood vessel"
+    ],
+    [
+     "lijek",
+     "medicine"
+    ]
+   ]
+  },
+  {
+   "id": "261113010",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/showbiz/otac-due-lipe-sa-suprugom-sam-1992-ostao-zarobljen-u-ratnom-sarajevu-govorim-hrvatski-s-bosanskim-naglaskom/261113010",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261113010.jpg",
+   "published": "2026-11-13T07:19:00+01:00",
+   "title": [
+    "Otac Due Lipe: Ratne 1992. bio sam u Sarajevu",
+    "Dua Lipa's father: In the war year 1992 I was in Sarajevo"
+   ],
+   "body": [
+    [
+     [
+      "Dukagjin Lipa, otac i menadžer pjevačice Due Lipe, govorio je za RTL o svom životu i poslu.",
+      "Dukagjin Lipa, father and manager of singer Dua Lipa, spoke to RTL about his life and work."
+     ],
+     [
+      "Rekao je da je 1992. sa suprugom ostao zarobljen u ratnom Sarajevu.",
+      "He said that in 1992 he and his wife were trapped in wartime Sarajevo."
+     ],
+     [
+      "U Sarajevu je proveo i veliki dio studentskih dana.",
+      "He also spent a large part of his student days in Sarajevo."
+     ]
+    ],
+    [
+     [
+      "Lipa je u četvrtak bio u Zagrebu na konferenciji o festivalu Sunny Hill, koji je pokrenuo u Prištini.",
+      "On Thursday Lipa was in Zagreb at a conference about the Sunny Hill festival, which he started in Priština."
+     ],
+     [
+      "Na festivalu su do sada nastupali Miley Cyrus, Katy Perry i drugi poznati muzičari.",
+      "Miley Cyrus, Katy Perry and other famous musicians have performed at the festival so far."
+     ],
+     [
+      "Iz Prištine je 1992. zbog politike otišao u London.",
+      "In 1992 he left Priština for London because of politics."
+     ],
+     [
+      "Kaže da odluke donosi zajedno s kćerkom, ali da u kreativnim pitanjima zadnju riječ uvijek ima Dua.",
+      "He says that he makes decisions together with his daughter, but that on creative questions Dua always has the last word."
+     ]
+    ],
+    [
+     [
+      "Porodica pokušava živjeti normalno, a sva tri djeteta tečno govore albanski.",
+      "The family tries to live normally, and all three children speak Albanian fluently."
+     ],
+     [
+      "On sam, kako kaže, govori hrvatski s bosanskim naglaskom.",
+      "He himself, as he says, speaks Croatian with a Bosnian accent."
+     ],
+     [
+      "Smatra da muzičari i sportisti mogu učiniti više za svoju zemlju nego političari.",
+      "He thinks that musicians and athletes can do more for their country than politicians."
+     ],
+     [
+      "Dodao je da je drago što mladi ljudi preuzimaju odgovornost.",
+      "He added that he is glad that young people are taking responsibility."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "otac",
+     "father"
+    ],
+    [
+     "supruga",
+     "wife"
+    ],
+    [
+     "zarobljen",
+     "trapped"
+    ],
+    [
+     "rat",
+     "war"
+    ],
+    [
+     "odluka",
+     "decision"
+    ],
+    [
+     "naglasak",
+     "accent"
+    ],
+    [
+     "tečno",
+     "fluently"
+    ],
+    [
+     "odgovornost",
+     "responsibility"
+    ]
+   ]
+  },
+  {
+   "id": "261112104",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/mauricio-pochettino-je-novi-trener-manchester-uniteda-stize-s-klupe-reprezentacije-sad-a/261112104",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261112104.jpg",
+   "published": "2026-11-13T07:19:00+01:00",
+   "title": [
+    "Pochettino je novi trener Manchester Uniteda",
+    "Pochettino is the new manager of Manchester United"
+   ],
+   "body": [
+    [
+     [
+      "Mauricio Pochettino bit će novi trener Manchester Uniteda, javio je novinar Fabrizio Romano.",
+      "Mauricio Pochettino will be the new manager of Manchester United, journalist Fabrizio Romano reported."
+     ],
+     [
+      "Pochettino ima 54 godine i sada vodi reprezentaciju SAD-a.",
+      "Pochettino is 54 years old and now leads the US national team."
+     ],
+     [
+      "Mijenja Michaela Carricka, kojeg je klub otpustio u četvrtak.",
+      "He replaces Michael Carrick, whom the club fired on Thursday."
+     ]
+    ],
+    [
+     [
+      "Manchester United ima samo 8 bodova iz 10 utakmica i nalazi se na 18. mjestu u Premier ligi.",
+      "Manchester United has only 8 points from 10 matches and is in 18th place in the Premier League."
+     ],
+     [
+      "To je najgori početak sezone za klub u posljednjih 40 godina.",
+      "That is the club's worst start to a season in the last 40 years."
+     ],
+     [
+      "Prema ESPN-u, United mora platiti 10 miliona dolara da bi Pochettino mogao napustiti američki savez.",
+      "According to ESPN, United must pay 10 million dollars so that Pochettino can leave the American federation."
+     ],
+     [
+      "Pochettino je osmi stalni trener kluba otkako je Sir Alex Ferguson otišao 2013. godine.",
+      "Pochettino is the club's eighth permanent manager since Sir Alex Ferguson left in 2013."
+     ]
+    ],
+    [
+     [
+      "Ranije je vodio Tottenham, PSG i Chelsea, a s PSG-om je 2022. osvojio prvenstvo Francuske.",
+      "Earlier he managed Tottenham, PSG and Chelsea, and with PSG he won the French league in 2022."
+     ],
+     [
+      "Reprezentaciju SAD-a vodi od septembra 2024, a ovog ljeta s njom je stigao do osmine finala Svjetskog prvenstva.",
+      "He has led the US national team since September 2024, and this summer he reached the round of 16 of the World Cup with it."
+     ],
+     [
+      "Prva velika utakmica čeka ga 22. novembra protiv Liverpoola na Anfieldu.",
+      "His first big match awaits him on 22 November against Liverpool at Anfield."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "trener",
+     "coach, manager"
+    ],
+    [
+     "reprezentacija",
+     "national team"
+    ],
+    [
+     "otpustiti",
+     "to fire, dismiss"
+    ],
+    [
+     "bod",
+     "point"
+    ],
+    [
+     "mjesto",
+     "place"
+    ],
+    [
+     "savez",
+     "federation"
+    ],
+    [
+     "osvojiti",
+     "to win"
+    ],
+    [
+     "prvenstvo",
+     "championship, league"
+    ]
+   ]
+  },
+  {
+   "id": "261113011",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/velicanstveni-prizori-kane-protiv-hrvatske-postavio-i-drugi-najveci-rekord-engleske-slavio-i-zlatnu-loptu/261113011",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261113011.jpg",
+   "published": "2026-11-13T07:15:00+01:00",
+   "title": [
+    "Kane oborio rekord Engleske u pobjedi protiv Hrvatske",
+    "Kane breaks England record in win over Croatia"
+   ],
+   "body": [
+    [
+     [
+      "Harry Kane je u četvrtak navečer na Wembleyju odigrao 126. utakmicu za Englesku.",
+      "On Thursday evening at Wembley, Harry Kane played his 126th match for England."
+     ],
+     [
+      "Tako je oborio rekord Petera Shiltona, koji je imao 125 nastupa od 1990. godine.",
+      "In that way he broke the record of Peter Shilton, who had had 125 appearances since 1990."
+     ],
+     [
+      "Engleska je pobijedila Hrvatsku 2:1, a Kane je postigao pobjednički gol iz penala u 64. minuti.",
+      "England beat Croatia 2–1, and Kane scored the winning goal from a penalty in the 64th minute."
+     ]
+    ],
+    [
+     [
+      "Prvi gol za Englesku dao je Morgan Rogers, a za Hrvatsku je izjednačio Petar Sučić.",
+      "Morgan Rogers scored the first goal for England, and Petar Sučić equalised for Croatia."
+     ],
+     [
+      "Prije utakmice Kane je navijačima pokazao Zlatnu loptu, koju je dobio krajem oktobra.",
+      "Before the match Kane showed the fans the Ballon d'Or, which he received at the end of October."
+     ],
+     [
+      "Shilton i princ William uručili su mu nagrade, a Luka Modrić dao mu je poklon hrvatskog saveza.",
+      "Shilton and Prince William presented him with awards, and Luka Modrić gave him a gift from the Croatian federation."
+     ],
+     [
+      "Kane je za Englesku postigao 92 gola, što je također rekord.",
+      "Kane has scored 92 goals for England, which is also a record."
+     ]
+    ],
+    [
+     [
+      "Kane ima 33 godine i igra za Bayern iz Münchena.",
+      "Kane is 33 years old and plays for Bayern Munich."
+     ],
+     [
+      "Rekao je da su ovo vjerovatno najveći uspjesi u njegovoj karijeri.",
+      "He said that these are probably the biggest successes of his career."
+     ],
+     [
+      "Engleska je s ovom pobjedom osigurala četvrtfinale Lige nacija u martu.",
+      "With this win England secured the Nations League quarter-final in March."
+     ],
+     [
+      "U nedjelju igra još jednu utakmicu, u gostima protiv Španije.",
+      "On Sunday it plays one more match, away against Spain."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "rekord",
+     "record"
+    ],
+    [
+     "oboriti",
+     "to break (a record)"
+    ],
+    [
+     "nastup",
+     "appearance"
+    ],
+    [
+     "penal",
+     "penalty"
+    ],
+    [
+     "izjednačiti",
+     "to equalise"
+    ],
+    [
+     "navijač",
+     "fan"
+    ],
+    [
+     "poklon",
+     "gift"
+    ],
+    [
+     "uspjeh",
+     "success"
+    ]
+   ]
+  },
+  {
+   "id": "261113009",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/regija/studenti-najavili-prekid-trgovine-oruzjem-s-izraelom-i-gasenje-fabrike-dronova-ono-sto-rade-je-mrlja-covjecanstvu/261113009",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261113009.jpg",
+   "published": "2026-11-13T07:10:00+01:00",
+   "title": [
+    "Studenti u Srbiji žele prekinuti trgovinu oružjem s Izraelom",
+    "Students in Serbia want to stop the arms trade with Israel"
+   ],
+   "body": [
+    [
+     [
+      "Studentska lista u Srbiji najavila je da bi prekinula trgovinu oružjem s Izraelom.",
+      "The Student List in Serbia announced that it would stop the arms trade with Israel."
+     ],
+     [
+      "To je rekao Filip Ubović, student i predstavnik pokreta, u podcastu britanskog novinara Arona Bastanija.",
+      "This was said by Filip Ubović, a student and representative of the movement, on the podcast of British journalist Aron Bastani."
+     ],
+     [
+      "Pokret želi zaustaviti i projekat izraelske fabrike dronova u Srbiji.",
+      "The movement also wants to stop the project of an Israeli drone factory in Serbia."
+     ]
+    ],
+    [
+     [
+      "Ubović je rekao da je ono što se tamo događa mrlja na čovječanstvu.",
+      "Ubović said that what is happening there is a stain on humanity."
+     ],
+     [
+      "Fabriku je predsjednik Aleksandar Vučić otvorio u septembru.",
+      "President Aleksandar Vučić opened the factory in September."
+     ],
+     [
+      "Izraelska kompanija Elbit Systems ima 51 posto fabrike, a srpska državna firma Yugoimport 49 posto.",
+      "The Israeli company Elbit Systems owns 51 percent of the factory, and the Serbian state firm Yugoimport 49 percent."
+     ],
+     [
+      "Prema BIRN-u, izvoz oružja iz Srbije u Izrael od 2023. porastao je 42 puta, na 114 miliona eura.",
+      "According to BIRN, arms exports from Serbia to Israel have grown 42 times since 2023, to 114 million euros."
+     ]
+    ],
+    [
+     [
+      "Vučić je na Instagramu rekao da strane službe žele uništiti srpsku vojnu industriju.",
+      "Vučić said on Instagram that foreign services want to destroy the Serbian military industry."
+     ],
+     [
+      "Bivša premijerka Ana Brnabić upozorila je da bi više od 20.000 radnika moglo ostati bez posla.",
+      "Former prime minister Ana Brnabić warned that more than 20,000 workers could lose their jobs."
+     ],
+     [
+      "Nova Narodna skupština Srbije prvi put će se sastati u utorak.",
+      "The new National Assembly of Serbia will meet for the first time on Tuesday."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "trgovina",
+     "trade"
+    ],
+    [
+     "oružje",
+     "weapons"
+    ],
+    [
+     "fabrika",
+     "factory"
+    ],
+    [
+     "dron",
+     "drone"
+    ],
+    [
+     "pokret",
+     "movement"
+    ],
+    [
+     "izvoz",
+     "export"
+    ],
+    [
+     "radnik",
+     "worker"
+    ],
+    [
+     "upozoriti",
+     "to warn"
+    ]
+   ]
+  },
+  {
+   "id": "261113006",
+   "source": "Klix.ba",
+   "section": "Tehnologija",
+   "url": "https://www.klix.ba/scitech/nauka/veliki-pad-microsoft-servisa-outlook-teams-i-copilot-ne-rade-satima/261113006",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261113006.jpg",
+   "published": "2026-11-13T06:40:00+01:00",
+   "title": [
+    "Veliki kvar: Outlook i Teams satima ne rade",
+    "Major outage: Outlook and Teams down for hours"
+   ],
+   "body": [
+    [
+     [
+      "Microsoft 365 usluge imaju veliki kvar od četvrtka navečer, a problemi se nastavljaju i u petak ujutro.",
+      "Microsoft 365 services have had a major outage since Thursday evening, and the problems are continuing on Friday morning."
+     ],
+     [
+      "Korisnici širom svijeta ne mogu normalno koristiti Outlook, Teams, SharePoint i Copilot.",
+      "Users around the world cannot use Outlook, Teams, SharePoint and Copilot normally."
+     ],
+     [
+      "Microsoft je rekao da problem može imati svako, u bilo kojoj regiji.",
+      "Microsoft said that anyone, in any region, could have the problem."
+     ]
+    ],
+    [
+     [
+      "Kompanija je problem potvrdila u četvrtak, malo prije 19 sati po lokalnom vremenu.",
+      "The company confirmed the problem on Thursday, shortly before 19:00 local time."
+     ],
+     [
+      "Na stranici Downdetector skoro 130.000 korisnika prijavilo je probleme s Outlookom.",
+      "On the Downdetector site, almost 130,000 users reported problems with Outlook."
+     ],
+     [
+      "Prvo se govorilo o većem opterećenju, ali uzrok je bio drugi.",
+      "At first there was talk of a higher load, but the cause was something else."
+     ],
+     [
+      "Neki serveri su neočekivano prestali raditi, pa su ostali serveri bili preopterećeni.",
+      "Some servers unexpectedly stopped working, so the other servers were overloaded."
+     ]
+    ],
+    [
+     [
+      "Inženjeri su promet preusmjerili na servere u drugim dijelovima svijeta i ponovo pokrenuli neispravne servere.",
+      "Engineers rerouted traffic to servers in other parts of the world and restarted the faulty servers."
+     ],
+     [
+      "Microsoft kaže da se usluge polako vraćaju, ali nije rekao kada će sve raditi.",
+      "Microsoft says that the services are slowly coming back, but it did not say when everything will work."
+     ],
+     [
+      "Kompanija ne vjeruje da je kvar izazvao hakerski napad.",
+      "The company does not believe that the outage was caused by a hacker attack."
+     ],
+     [
+      "Prema agenciji Reuters, kvar je pogodio i veze koje AI usluge OpenAI i Anthropic koriste za Microsoft 365.",
+      "According to the Reuters agency, the outage also hit the connections that the AI services OpenAI and Anthropic use for Microsoft 365."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "kvar",
+     "outage, breakdown"
+    ],
+    [
+     "usluga",
+     "service"
+    ],
+    [
+     "korisnik",
+     "user"
+    ],
+    [
+     "server",
+     "server"
+    ],
+    [
+     "opterećenje",
+     "load"
+    ],
+    [
+     "uzrok",
+     "cause"
+    ],
+    [
+     "inženjer",
+     "engineer"
+    ],
+    [
+     "napad",
+     "attack"
+    ]
+   ]
+  },
+  {
+   "id": "261113005",
+   "source": "Klix.ba",
+   "section": "Vrijeme",
+   "url": "https://www.klix.ba/vijesti/bih/zbog-jakih-padavina-u-hercegovini-moguca-izlijevanja-rijeka-bujice-i-urbane-poplave/261113005",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261113005.jpg",
+   "published": "2026-11-13T06:38:00+01:00",
+   "title": [
+    "Jaka kiša u Hercegovini: moguće su poplave",
+    "Heavy rain in Herzegovina: floods are possible"
+   ],
+   "body": [
+    [
+     [
+      "U Hercegovini se od 13. do 16. novembra očekuju vrlo jake padavine.",
+      "Very heavy rainfall is expected in Herzegovina from 13 to 16 November."
+     ],
+     [
+      "Zbog toga bi rijeke mogle porasti, a na nekim mjestima moguće su i poplave.",
+      "Because of that the rivers could rise, and in some places floods are also possible."
+     ],
+     [
+      "Za ovo područje izdato je narandžasto upozorenje.",
+      "An orange warning has been issued for this area."
+     ]
+    ],
+    [
+     [
+      "Najveći rizik je u slivu Neretve, u slivu rijeka Tihaljine, Mlade i Trebižata, te na rijeci Vrioštici.",
+      "The biggest risk is in the Neretva basin, in the basin of the rivers Tihaljina, Mlade and Trebižat, and on the river Vrioštica."
+     ],
+     [
+      "Manji potoci mogli bi se izliti, a moguće su bujice i poplave u gradovima.",
+      "Smaller streams could overflow, and flash floods and floods in towns are possible."
+     ],
+     [
+      "Bujica je nagla i brza voda koja nastaje nakon jake kiše.",
+      "A flash flood is sudden, fast water that forms after heavy rain."
+     ],
+     [
+      "Očekuju se viši nivo vode i brži tok rijeka.",
+      "Higher water levels and faster river flow are expected."
+     ]
+    ],
+    [
+     [
+      "Agencija za vodno područje Jadranskog mora pozvala je nadležne da prate situaciju.",
+      "The Agency for the Adriatic Sea Water Area called on the authorities to monitor the situation."
+     ],
+     [
+      "Civilna zaštita treba upozoriti stanovnike koji žive blizu rijeka da se ne približavaju obali.",
+      "Civil protection should warn residents who live near rivers not to approach the riverbank."
+     ],
+     [
+      "Ljudi bi trebali na vrijeme dobiti savjete kako smanjiti moguću štetu.",
+      "People should receive advice in time on how to reduce possible damage."
+     ],
+     [
+      "Narandžasto upozorenje zbog vjetra i kiše izdato je i za Sarajevo.",
+      "An orange warning for wind and rain has also been issued for Sarajevo."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "padavine",
+     "rainfall, precipitation"
+    ],
+    [
+     "poplava",
+     "flood"
+    ],
+    [
+     "upozorenje",
+     "warning"
+    ],
+    [
+     "sliv",
+     "river basin"
+    ],
+    [
+     "bujica",
+     "flash flood"
+    ],
+    [
+     "nivo",
+     "level"
+    ],
+    [
+     "obala",
+     "bank, shore"
+    ],
+    [
+     "šteta",
+     "damage"
+    ]
+   ]
+  },
+  {
+   "id": "261113002",
+   "source": "Klix.ba",
+   "section": "Biznis",
+   "url": "https://www.klix.ba/biznis/ekonomija/fbi-zaplijenio-vise-od-12-milijarde-dolara-iz-najvece-kripto-pljacke-u-historiji/261113002",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261113002.jpg",
+   "published": "2026-11-13T06:24:00+01:00",
+   "title": [
+    "FBI zaplijenio 1,2 milijarde dolara ukradenih kriptovaluta",
+    "FBI seizes 1.2 billion dollars of stolen cryptocurrency"
+   ],
+   "body": [
+    [
+     [
+      "Američko Ministarstvo pravde dobilo je dozvolu suda da zaplijeni ili blokira više od 1,2 milijarde dolara u kriptovalutama.",
+      "The US Department of Justice got permission from a court to seize or block more than 1.2 billion dollars in cryptocurrencies."
+     ],
+     [
+      "Novac je prošlog mjeseca ukraden s Binancea, najveće kripto berze na svijetu.",
+      "The money was stolen last month from Binance, the biggest crypto exchange in the world."
+     ],
+     [
+      "FBI kaže da iza krađe stoji sjevernokorejska hakerska grupa TraderTraitor.",
+      "The FBI says that the North Korean hacker group TraderTraitor is behind the theft."
+     ]
+    ],
+    [
+     [
+      "Ukradeno je oko 6,3 milijarde dolara, pa je to najveća kripto pljačka u historiji.",
+      "About 6.3 billion dollars was stolen, so it is the biggest crypto robbery in history."
+     ],
+     [
+      "Vlada SAD-a i privatne kompanije do sada su zamrznule više od 2,7 milijardi dolara.",
+      "The US government and private companies have so far frozen more than 2.7 billion dollars."
+     ],
+     [
+      "U ovakvim slučajevima sudija na kraju odlučuje ko ima pravo na vraćeni novac.",
+      "In cases like this, a judge decides in the end who has the right to the recovered money."
+     ]
+    ],
+    [
+     [
+      "Istog dana FBI je Sjevernu Koreju optužio i za drugu prevaru, koja se zove FaceStealer.",
+      "On the same day the FBI also accused North Korea of another scam, which is called FaceStealer."
+     ],
+     [
+      "Kroz nju je u posljednjih 18 mjeseci ukradeno oko 400 miliona dolara u kriptovalutama.",
+      "Through it, about 400 million dollars in cryptocurrencies has been stolen in the last 18 months."
+     ],
+     [
+      "Hakeri preuzimaju aplikacije za poruke i prave lažne video snimke, takozvane deepfake videe.",
+      "The hackers take over messaging apps and make fake video recordings, so-called deepfake videos."
+     ],
+     [
+      "Američki zvaničnici kažu da Sjeverna Koreja tim novcem finansira svoj program oružja.",
+      "American officials say that North Korea funds its weapons programme with that money."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "zaplijeniti",
+     "to seize"
+    ],
+    [
+     "kriptovaluta",
+     "cryptocurrency"
+    ],
+    [
+     "ukrasti",
+     "to steal"
+    ],
+    [
+     "berza",
+     "exchange"
+    ],
+    [
+     "krađa",
+     "theft"
+    ],
+    [
+     "pljačka",
+     "robbery"
+    ],
+    [
+     "zamrznuti",
+     "to freeze"
+    ],
+    [
+     "prevara",
+     "scam, fraud"
+    ]
+   ]
+  },
+  {
+   "id": "261112341",
+   "source": "Klix.ba",
+   "section": "Tehnologija",
+   "url": "https://www.klix.ba/scitech/nauka/amerika-otvara-vrata-zabranjenom-psihodeliku-ibogain-testiraju-kao-lijek-za-ptsp-i-ovisnost-o-opioidima/261112341",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261112341.jpg",
+   "published": "2026-11-12T23:31:00+01:00",
+   "title": [
+    "SAD daju novac za istraživanje zabranjene droge ibogain",
+    "US gives money for research on the banned drug ibogaine"
+   ],
+   "body": [
+    [
+     [
+      "Američko ministarstvo zdravlja dat će do 4,9 miliona dolara za razvoj ibogaina kao mogućeg lijeka.",
+      "The US Department of Health will give up to 4.9 million dollars for the development of ibogaine as a possible medicine."
+     ],
+     [
+      "Ibogain je psihodelična droga koja dolazi iz afričke biljke iboga i u SAD-u je zabranjena.",
+      "Ibogaine is a psychedelic drug that comes from the African iboga plant, and it is banned in the US."
+     ],
+     [
+      "Istraživači žele vidjeti može li pomoći veteranima koji imaju PTSP, poremećaj nakon teškog stresa.",
+      "Researchers want to see whether it can help veterans who have PTSD, a disorder after severe stress."
+     ]
+    ],
+    [
+     [
+      "Novac će biti podijeljen kroz pet godina preko agencije ARPA-H.",
+      "The money will be distributed over five years through the agency ARPA-H."
+     ],
+     [
+      "Istraživanje vodi farmaceutska kompanija milijardera Marka Cubana.",
+      "The research is led by the pharmaceutical company of billionaire Mark Cuban."
+     ],
+     [
+      "Kompanija Beond dat će podatke o sigurnosti, dozama i djelovanju ibogaina.",
+      "The company Beond will provide data on the safety, doses and effects of ibogaine."
+     ],
+     [
+      "Ministarstvo je najavilo i novac za istraživanje ibogaina kao lijeka za ovisnost o opioidima.",
+      "The ministry also announced money for research on ibogaine as a medicine for opioid addiction."
+     ]
+    ],
+    [
+     [
+      "Ministarstvo naglašava da novac nije za liječenje pacijenata i da FDA nije odobrila lijek.",
+      "The ministry stresses that the money is not for treating patients and that the FDA has not approved the medicine."
+     ],
+     [
+      "Novac je za pripremu kliničkih ispitivanja i za proizvodnju ibogaina u SAD-u.",
+      "The money is for preparing clinical trials and for producing ibogaine in the US."
+     ],
+     [
+      "Ibogain može izazvati opasne probleme sa srčanim ritmom, pa bi pacijente trebalo pažljivo pratiti.",
+      "Ibogaine can cause dangerous problems with heart rhythm, so patients would need to be carefully monitored."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "zabranjen",
+     "banned"
+    ],
+    [
+     "droga",
+     "drug"
+    ],
+    [
+     "biljka",
+     "plant"
+    ],
+    [
+     "poremećaj",
+     "disorder"
+    ],
+    [
+     "ovisnost",
+     "addiction"
+    ],
+    [
+     "odobriti",
+     "to approve"
+    ],
+    [
+     "ispitivanje",
+     "trial, testing"
+    ],
+    [
+     "proizvodnja",
+     "production"
+    ]
+   ]
+  },
+  {
+   "id": "261112357",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/muzika/muhamed-fazlagic-fazla-sjajnim-nastupom-u-slogi-odusevio-sarajlije-hitove-pjevali-s-njim-u-glas/261112357",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261112357.jpg",
+   "published": "2026-11-12T23:03:00+01:00",
+   "title": [
+    "Fazla oduševio publiku na koncertu u Slogi",
+    "Fazla thrills the audience at a concert in Sloga"
+   ],
+   "body": [
+    [
+     [
+      "Pjevač i kompozitor Muhamed Fazlagić Fazla održao je koncert u sarajevskom klubu Cinemas Sloga.",
+      "Singer and composer Muhamed Fazlagić Fazla held a concert in the Sarajevo club Cinemas Sloga."
+     ],
+     [
+      "Publika ga je dočekala dugim aplauzom i pjevala je s njim njegove poznate pjesme.",
+      "The audience welcomed him with long applause and sang his well-known songs with him."
+     ],
+     [
+      "Ljudi su plesali i uživali u muzici i atmosferi.",
+      "People danced and enjoyed the music and the atmosphere."
+     ]
+    ],
+    [
+     [
+      "Fazla je izveo mnoge hitove iz svoje karijere.",
+      "Fazla performed many hits from his career."
+     ],
+     [
+      "Među njima su bile pjesme \"Sva bol svijeta\", \"Kiša ruši grad\" i \"Linija života\".",
+      "Among them were the songs \"Sva bol svijeta\", \"Kiša ruši grad\" and \"Linija života\"."
+     ],
+     [
+      "Na koncertu je sa suprugom bio i član Predsjedništva BiH Željko Komšić.",
+      "Member of the BiH Presidency Željko Komšić was also at the concert with his wife."
+     ]
+    ],
+    [
+     [
+      "Koncert je najavio krajem oktobra novom pjesmom i spotom \"Zauvijek suđeni\".",
+      "He announced the concert at the end of October with a new song and music video, \"Zauvijek suđeni\"."
+     ],
+     [
+      "Muziku je napisao sam, a tekst je napisao Admir Srabović.",
+      "He wrote the music himself, and Admir Srabović wrote the lyrics."
+     ],
+     [
+      "Početkom novembra predstavio je i novi spot za pjesmu \"Linija života\".",
+      "At the beginning of November he also presented a new music video for the song \"Linija života\"."
+     ],
+     [
+      "Ta pjesma je prvi put izašla 1993. godine na njegovom prvom albumu, a sada ima novi aranžman.",
+      "That song first came out in 1993 on his first album, and now it has a new arrangement."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "pjevač",
+     "singer"
+    ],
+    [
+     "koncert",
+     "concert"
+    ],
+    [
+     "publika",
+     "audience"
+    ],
+    [
+     "pjesma",
+     "song"
+    ],
+    [
+     "izvesti",
+     "to perform"
+    ],
+    [
+     "spot",
+     "music video"
+    ],
+    [
+     "tekst",
+     "lyrics, text"
+    ],
+    [
+     "aranžman",
+     "arrangement"
+    ]
+   ]
+  },
   {
    "id": "261112296",
    "source": "Klix.ba",
@@ -4821,1002 +5778,6 @@
     [
      "glas",
      "vote"
-    ]
-   ]
-  },
-  {
-   "id": "261110231",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/stevandic-ponovo-na-celu-nsrs-a-dodik-sds-u-i-pss-u-ponudio-razgovore-o-formiranju-zajednicke-vlasti/261110231",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261110231.jpg",
-   "published": "2026-11-10T16:18:00+01:00",
-   "title": [
-    "Stevandić ponovo predsjednik Narodne skupštine RS-a",
-    "Stevandić again speaker of the RS National Assembly"
-   ],
-   "body": [
-    [
-     [
-      "Vladajuća koalicija u Republici Srpskoj dogovorila je da Nenad Stevandić ponovo bude predsjednik Narodne skupštine.",
-      "The ruling coalition in Republika Srpska agreed that Nenad Stevandić will again be speaker of the National Assembly."
-     ],
-     [
-      "To je u utorak u Banjoj Luci, nakon sastanka koalicije, objavio Milorad Dodik.",
-      "Milorad Dodik announced this on Tuesday in Banja Luka, after a coalition meeting."
-     ],
-     [
-      "Dodik je rekao da će RS prva u BiH početi formirati vlast.",
-      "Dodik said that RS will be the first in BiH to start forming a government."
-     ]
-    ],
-    [
-     [
-      "Prvo će se izabrati predsjednik i sekretar skupštine.",
-      "First the speaker and the secretary of the assembly will be elected."
-     ],
-     [
-      "Nakon toga zakletvu će položiti predsjednik RS-a i srpski član Predsjedništva BiH.",
-      "After that the RS president and the Serb member of the BiH Presidency will take the oath."
-     ],
-     [
-      "Zatim slijedi formiranje Vlade RS-a, a na kraju i vlasti na nivou BiH.",
-      "Then comes the formation of the RS Government, and finally of the authorities at the BiH level."
-     ],
-     [
-      "Cilj je da budžet RS-a bude usvojen do kraja godine.",
-      "The goal is for the RS budget to be adopted by the end of the year."
-     ],
-     [
-      "Koalicioni sporazum trebaju razmotriti stranke, a potpisivanje je najavljeno za iduću sedmicu.",
-      "The parties need to review the coalition agreement, and the signing is announced for next week."
-     ],
-     [
-      "Na nivou BiH koalicija ima 9 mjesta u Predstavničkom domu.",
-      "At the BiH level the coalition has 9 seats in the House of Representatives."
-     ]
-    ],
-    [
-     [
-      "Koalicija je prije 5 dana pozvala SDS i PSS na razgovore o vladi nacionalnog jedinstva.",
-      "Five days ago the coalition invited SDS and PSS to talks on a government of national unity."
-     ],
-     [
-      "SDS je bio spreman na sastanak, ali ne u prostorijama SNSD-a, dok PSS nije razumio dnevni red.",
-      "SDS was ready for a meeting, but not at SNSD's premises, while PSS did not understand the agenda."
-     ],
-     [
-      "Dodik je rekao da obje stranke propuštaju priliku da budu ozbiljne.",
-      "Dodik said that both parties are missing a chance to be serious."
-     ],
-     [
-      "Koalicija im je ponudila novi sastanak u srijedu u 17 sati u prostorijama SDS-a.",
-      "The coalition offered them a new meeting on Wednesday at 5 p.m. at SDS's premises."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "koalicija",
-     "coalition"
-    ],
-    [
-     "predsjednik skupštine",
-     "speaker of the assembly"
-    ],
-    [
-     "zakletva",
-     "oath"
-    ],
-    [
-     "budžet",
-     "budget"
-    ],
-    [
-     "usvojiti",
-     "to adopt"
-    ],
-    [
-     "sporazum",
-     "agreement"
-    ],
-    [
-     "dnevni red",
-     "agenda"
-    ],
-    [
-     "propuštati",
-     "to miss"
-    ]
-   ]
-  },
-  {
-   "id": "261110196",
-   "source": "Klix.ba",
-   "section": "Zdravlje",
-   "url": "https://www.klix.ba/lifestyle/zdravlje/kako-se-zastititi-od-zagadenog-zraka-i-ko-je-najugrozeniji/261110196",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261110196.jpg",
-   "published": "2026-11-10T15:25:00+01:00",
-   "title": [
-    "Kako se zaštititi od zagađenog zraka",
-    "How to protect yourself from polluted air"
-   ],
-   "body": [
-    [
-     [
-      "Zrak u Sarajevu u ponedjeljak navečer bio je vrlo zagađen.",
-      "The air in Sarajevo was very polluted on Monday evening."
-     ],
-     [
-      "U 21 sat prosječna koncentracija sitnih čestica PM2.5 bila je 92 mikrograma po kubnom metru.",
-      "At 9 p.m. the average concentration of fine PM2.5 particles was 92 micrograms per cubic metre."
-     ],
-     [
-      "Do 15 sati u utorak pala je na 34, ali je na stanici Sarajevsko polje zrak i dalje bio zagađen.",
-      "By 3 p.m. on Tuesday it fell to 34, but at the Sarajevsko polje station the air was still polluted."
-     ]
-    ],
-    [
-     [
-      "Između 13 i 14 sati najgori zrak u Federaciji BiH imao je Lukavac, a zatim Živinice i Ilidža.",
-      "Between 1 and 2 p.m. Lukavac had the worst air in the Federation of BiH, followed by Živinice and Ilidža."
-     ],
-     [
-      "Prema Svjetskoj zdravstvenoj organizaciji, zagađen zrak je 2019. uzrokovao oko 4,2 miliona preranih smrti u svijetu.",
-      "According to the World Health Organization, polluted air caused about 4.2 million premature deaths worldwide in 2019."
-     ],
-     [
-      "Zavod za javno zdravstvo KS upozorava da zagađenje iritira oči i disajne puteve.",
-      "The Sarajevo Canton Public Health Institute warns that pollution irritates the eyes and airways."
-     ],
-     [
-      "Može izazvati kašalj i otežano disanje, a pogoršava i bolesti srca i pluća.",
-      "It can cause coughing and difficulty breathing, and it also worsens heart and lung diseases."
-     ],
-     [
-      "Najugroženiji su djeca, trudnice, stariji ljudi i hronični bolesnici.",
-      "Those most at risk are children, pregnant women, older people and the chronically ill."
-     ]
-    ],
-    [
-     [
-      "Stručnjaci savjetuju da ljudi provode manje vremena napolju i ne vježbaju vani.",
-      "Experts advise people to spend less time outdoors and not to exercise outside."
-     ],
-     [
-      "Ako ljudi moraju izaći, trebaju nositi dobro zatvorenu masku FFP2 ili N95.",
-      "If people have to go out, they should wear a tight-fitting FFP2 or N95 mask."
-     ],
-     [
-      "Te maske ne štite od plinova i ne smiju se koristiti kod djece mlađe od 2 godine.",
-      "These masks do not protect against gases and must not be used on children under 2."
-     ],
-     [
-      "Stan treba kratko provjetriti kada je zagađenje najmanje, a u kući ne treba pušiti.",
-      "A flat should be aired briefly when pollution is lowest, and people should not smoke indoors."
-     ],
-     [
-      "Ko se grije na peć, trebao bi ugraditi detektor ugljen-monoksida i nikad ne paliti smeće.",
-      "Anyone who heats with a stove should install a carbon monoxide detector and never burn rubbish."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "zagađen",
-     "polluted"
-    ],
-    [
-     "čestica",
-     "particle"
-    ],
-    [
-     "upozoravati",
-     "to warn"
-    ],
-    [
-     "kašalj",
-     "cough"
-    ],
-    [
-     "disanje",
-     "breathing"
-    ],
-    [
-     "trudnica",
-     "pregnant woman"
-    ],
-    [
-     "provjetriti",
-     "to air out"
-    ],
-    [
-     "peć",
-     "stove"
-    ]
-   ]
-  },
-  {
-   "id": "261110156",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/nauka/meteor-koji-je-pao-u-zaljev-cape-cod-vjerovatno-je-prema-zemlji-skrenuo-jupiter/261110156",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261110156.jpg",
-   "published": "2026-11-10T13:55:00+01:00",
-   "title": [
-    "Meteor iznad Cape Coda prema Zemlji je vjerovatno poslao Jupiter",
-    "Jupiter probably sent the Cape Cod meteor toward Earth"
-   ],
-   "body": [
-    [
-     [
-      "Meteor koji je 30. maja eksplodirao iznad američke savezne države Massachusetts vjerovatno je prema Zemlji skrenuo Jupiter.",
-      "The meteor that exploded over the US state of Massachusetts on 30 May was probably deflected toward Earth by Jupiter."
-     ],
-     [
-      "Do tog zaključka došao je tim od 13 naučnika iz Evrope i SAD-a.",
-      "A team of 13 scientists from Europe and the US reached that conclusion."
-     ],
-     [
-      "Eksplozija je izazvala dvostruki prasak koji se čuo širom sjeveroistoka SAD-a, a dijelovi su pali u zaljev Cape Cod.",
-      "The explosion caused a double boom that was heard across the northeastern US, and pieces fell into Cape Cod Bay."
-     ]
-    ],
-    [
-     [
-      "Tim je vodio Juha Vierinen s Arktičkog univerziteta Norveške u Tromsøu.",
-      "The team was led by Juha Vierinen of the Arctic University of Norway in Tromsø."
-     ],
-     [
-      "Naučnici su koristili podatke radara, kamera i infrazvučnih senzora, koji bilježe zvuk preniske frekvencije za ljudsko uho.",
-      "The scientists used data from radars, cameras and infrasound sensors, which record sound too low in frequency for the human ear."
-     ],
-     [
-      "Radar je pratio meteor od 90 do 71 kilometar visine, a raspao se na samo oko 30 kilometara.",
-      "Radar tracked the meteor from 90 to 71 kilometres of altitude, and it broke apart at only about 30 kilometres."
-     ],
-     [
-      "Prema mjerenjima, eksplozija je oslobodila energiju od oko 500 tona TNT-a.",
-      "According to the measurements, the explosion released energy of about 500 tons of TNT."
-     ],
-     [
-      "Objekat je imao oko 1 metar, bio je čvrst i vjerovatno bogat željezom.",
-      "The object was about 1 metre across, it was strong and probably rich in iron."
-     ]
-    ],
-    [
-     [
-      "Njegova orbita oko Sunca bila je izdužena i dosezala je skoro do Jupitera.",
-      "Its orbit around the Sun was elongated and reached almost to Jupiter."
-     ],
-     [
-      "Član tima Marc Fries rekao je da je objekat vjerovatno prošao blizu Jupitera, koji ga je usmjerio prema Zemlji.",
-      "Team member Marc Fries said that the object probably passed close to Jupiter, which sent it toward Earth."
-     ],
-     [
-      "Naučnici nisu pronašli vezu s nekim poznatim tijelom ili kišom meteora.",
-      "The scientists found no link to any known body or meteor shower."
-     ],
-     [
-      "Kažu da se tako mali objekti teško otkriju u svemiru, pa je ovo rijetka prilika za istraživanje.",
-      "They say that such small objects are hard to detect in space, so this is a rare chance for research."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "skrenuti",
-     "to deflect, to turn"
-    ],
-    [
-     "zaključak",
-     "conclusion"
-    ],
-    [
-     "prasak",
-     "boom, bang"
-    ],
-    [
-     "zaljev",
-     "bay"
-    ],
-    [
-     "raspasti se",
-     "to break apart"
-    ],
-    [
-     "osloboditi",
-     "to release"
-    ],
-    [
-     "željezo",
-     "iron"
-    ],
-    [
-     "izdužen",
-     "elongated"
-    ]
-   ]
-  },
-  {
-   "id": "261110148",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/steta-ostaje-ministar-do-nove-vlade-ks-mandat-stavlja-u-mirovanje-necemo-blokirati-procese-kako-neki-prizeljkuju/261110148",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261110148.jpg",
-   "published": "2026-11-10T13:15:00+01:00",
-   "title": [
-    "Šteta ostaje ministar do nove Vlade KS",
-    "Šteta stays minister until the new KS government"
-   ],
-   "body": [
-    [
-     [
-      "Adnan Šteta, ministar saobraćaja Kantona Sarajevo, ostat će na funkciji do imenovanja nove vlade.",
-      "Adnan Šteta, the Sarajevo Canton transport minister, will stay in office until a new government is appointed."
-     ],
-     [
-      "On je član SDP-a BiH.",
-      "He is a member of SDP BiH."
-     ],
-     [
-      "Svoj mandat u Skupštini Kantona Sarajevo stavlja u mirovanje, a preuzet će ga kada se vlada formira.",
-      "He is putting his mandate in the Sarajevo Canton Assembly on hold, and he will take it up once the government is formed."
-     ],
-     [
-      "Odluku je objavio na društvenoj mreži.",
-      "He announced the decision on social media."
-     ]
-    ],
-    [
-     [
-      "Zahvalio je biračima na 21.824 glasa.",
-      "He thanked voters for 21,824 votes."
-     ],
-     [
-      "Kaže da je to najviše glasova koje je dobio ijedan kandidat za kantonalne skupštine u Federaciji BiH.",
-      "He says this is the most votes received by any candidate for cantonal assemblies in the Federation of BiH."
-     ],
-     [
-      "Pozvao je novu skupštinsku većinu da što prije formira vladu.",
-      "He called on the new assembly majority to form the government as soon as possible."
-     ],
-     [
-      "Prije nego što dođe nasljednik, predstavit će izvještaj o radu u 10 oblasti.",
-      "Before his successor arrives, he will present a report on his work in 10 areas."
-     ]
-    ],
-    [
-     [
-      "Taj izvještaj opisuje završene i otvorene projekte, kao i planirane aktivnosti.",
-      "The report describes completed and ongoing projects, as well as planned activities."
-     ],
-     [
-      "Šteta kaže da će tako olakšati predaju dužnosti.",
-      "Šteta says this will make the handover easier."
-     ],
-     [
-      "SDP će, rekao je, preuzeti političku odgovornost u skladu s povjerenjem građana.",
-      "SDP will, he said, take political responsibility in line with citizens' trust."
-     ],
-     [
-      "Dodao je da njegova stranka neće blokirati procese kako neki priželjkuju.",
-      "He added that his party will not block processes as some wish."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "ministar",
-     "minister"
-    ],
-    [
-     "mandat",
-     "mandate"
-    ],
-    [
-     "vlada",
-     "government"
-    ],
-    [
-     "skupština",
-     "assembly"
-    ],
-    [
-     "birač",
-     "voter"
-    ],
-    [
-     "nasljednik",
-     "successor"
-    ],
-    [
-     "izvještaj",
-     "report"
-    ]
-   ]
-  },
-  {
-   "id": "261110146",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/ko-je-alexander-alden-nekada-mulabdic-trumpov-covjek-koji-snazno-zagovara-dodikovu-politiku-u-sarajevu-upozoravao-evropljane/261110146",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261110146.jpg",
-   "published": "2026-11-10T13:05:00+01:00",
-   "title": [
-    "Ko je Alden, Trumpov čovjek za politiku prema Dodiku",
-    "Who is Alden, the Trump aide behind the policy on Dodik"
-   ],
-   "body": [
-    [
-     [
-      "Američki medij Semafor objavio je tekst o Alexanderu Aldenu, nekada Mulabdiću.",
-      "The US outlet Semafor has published an article about Alexander Alden, formerly Mulabdić."
-     ],
-     [
-      "On je savjetnik državnog sekretara Marca Rubija i Trumpov kandidat za ambasadora u Azerbejdžanu.",
-      "He is an adviser to Secretary of State Marco Rubio and Trump's nominee for ambassador to Azerbaijan."
-     ],
-     [
-      "Prema više od šest izvora, imao je vodeću ulogu u politici Vašingtona prema Miloradu Dodiku i Republici Srpskoj.",
-      "According to more than six sources, he had a leading role in Washington's policy towards Milorad Dodik and Republika Srpska."
-     ],
-     [
-      "Neki kolege su ga, kažu izvori, zvali Srbinom u State Departmentu.",
-      "Some colleagues, the sources say, called him a Serb in the State Department."
-     ]
-    ],
-    [
-     [
-      "Pet izvora tvrdi da je u junu na sastancima o BiH pritiskao evropske zvaničnike da prihvate američkog kandidata za visokog predstavnika.",
-      "Five sources claim that in June, at meetings about BiH, he pressed European officials to accept the US candidate for High Representative."
-     ],
-     [
-      "Dvojica izvora kažu da je lično izabrao italijanskog diplomatu Antonija Zanardija Landija, ali su ga Evropljani odbili.",
-      "Two sources say he personally chose the Italian diplomat Antonio Zanardi Landi, but the Europeans rejected him."
-     ],
-     [
-      "Vlada Republike Srpske je od 2025. potrošila više od 11 miliona dolara na lobiranje kod Trumpove administracije.",
-      "Since 2025, the government of Republika Srpska has spent more than 11 million dollars on lobbying the Trump administration."
-     ],
-     [
-      "To je otprilike četiri puta više nego u periodu od 2022. do 2024.",
-      "That is about four times more than in the period from 2022 to 2024."
-     ]
-    ],
-    [
-     [
-      "Senatorica Jeanne Shaheen poručila je da oni koji su iskvarili američku politiku moraju odgovarati.",
-      "Senator Jeanne Shaheen said that those who corrupted US policy must be held accountable."
-     ],
-     [
-      "State Department tvrdi da Alden uživa puno povjerenje rukovodstva.",
-      "The State Department says that Alden enjoys the full confidence of the leadership."
-     ],
-     [
-      "Senatori su razmatrali njegovu nominaciju, ali ga nije bilo na dnevnom redu.",
-      "Senators have considered his nomination, but he was not on the agenda."
-     ],
-     [
-      "Semafor navodi da bi mogao dobiti pitanja o lobiranju za interese Republike Srpske.",
-      "Semafor reports that he could get questions about lobbying for the interests of Republika Srpska."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "savjetnik",
-     "adviser"
-    ],
-    [
-     "ambasador",
-     "ambassador"
-    ],
-    [
-     "izvor",
-     "source"
-    ],
-    [
-     "lobiranje",
-     "lobbying"
-    ],
-    [
-     "visoki predstavnik",
-     "High Representative"
-    ],
-    [
-     "nominacija",
-     "nomination"
-    ]
-   ]
-  },
-  {
-   "id": "261110107",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/dennis-hadzikadunic-zvanicno-propusta-duele-protiv-svedske-i-rumunije/261110107",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261110107.jpg",
-   "published": "2026-11-10T12:40:00+01:00",
-   "title": [
-    "Hadžikadunić propušta utakmice sa Švedskom i Rumunijom",
-    "Hadžikadunić misses the matches against Sweden and Romania"
-   ],
-   "body": [
-    [
-     [
-      "Odbrambeni igrač Dennis Hadžikadunić neće igrati protiv Švedske i Rumunije.",
-      "Defender Dennis Hadžikadunić will not play against Sweden and Romania."
-     ],
-     [
-      "Obje utakmice su dio Lige nacija.",
-      "Both matches are part of the Nations League."
-     ],
-     [
-      "Savez je objavio da je on na pripreme došao povrijeđen.",
-      "The federation announced that he came to the preparations already injured."
-     ],
-     [
-      "Danas nije trenirao u Butmiru.",
-      "He did not train today in Butmir."
-     ]
-    ],
-    [
-     [
-      "Prema pisanju Liste, riječ je o rupturi mišića lijeve potkoljenice.",
-      "According to Lista, it is a ruptured muscle in the left lower leg."
-     ],
-     [
-      "Vijest je stigla na samom početku priprema pod selektorom Sergejom Barbarezom.",
-      "The news came right at the start of preparations under coach Sergej Barbarez."
-     ],
-     [
-      "Za Barbareza je to veliki problem, jer je Hadžikadunić važan igrač u odbrani.",
-      "For Barbarez this is a big problem, because Hadžikadunić is an important player in defence."
-     ],
-     [
-      "Reprezentacija je tek obavila drugi trening.",
-      "The national team has only just held its second training session."
-     ]
-    ],
-    [
-     [
-      "Hadžikadunić je i u septembru i oktobru propustio utakmice reprezentacije.",
-      "Hadžikadunić also missed national team matches in September and October."
-     ],
-     [
-      "Tada je tek pokušavao uhvatiti formu nakon prelaska u Hajduk iz Splita.",
-      "At that time he was still trying to find form after moving to Hajduk from Split."
-     ],
-     [
-      "Sada je redovno u prvoj postavi kluba i dobro igra ove sezone.",
-      "Now he regularly starts for the club and is playing well this season."
-     ],
-     [
-      "Zato je njegova povreda još veća šteta za Zmajeve.",
-      "That is why his injury is an even bigger loss for the Dragons."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "odbrambeni igrač",
-     "defender"
-    ],
-    [
-     "povreda",
-     "injury"
-    ],
-    [
-     "mišić",
-     "muscle"
-    ],
-    [
-     "trening",
-     "training"
-    ],
-    [
-     "selektor",
-     "national team coach"
-    ],
-    [
-     "reprezentacija",
-     "national team"
-    ],
-    [
-     "pripreme",
-     "preparations"
-    ]
-   ]
-  },
-  {
-   "id": "261110111",
-   "source": "Klix.ba",
-   "section": "Biznis",
-   "url": "https://www.klix.ba/biznis/ekonomija/edhem-bicakcic-do-350-kwh-potrosnje-struja-ne-mora-poskupjeti-ostalima-poskupljenje-nece-biti-malo/261110111",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261110111.jpg",
-   "published": "2026-11-10T12:20:00+01:00",
-   "title": [
-    "Bičakčić: Do 350 kWh struja ne mora poskupjeti",
-    "Bičakčić: Electricity does not have to get more expensive up to 350 kWh"
-   ],
-   "body": [
-    [
-     [
-      "Elektroprivreda BiH ne isključuje poskupljenje struje za domaćinstva u 2027. godini.",
-      "Elektroprivreda BiH does not rule out a rise in electricity prices for households in 2027."
-     ],
-     [
-      "Odluka se očekuje do sredine decembra.",
-      "A decision is expected by mid-December."
-     ],
-     [
-      "Edhem Bičakčić, počasni predsjednik komiteta CIGRE, rekao je za Klix.ba da bi domaćinstva do 350 kWh mjesečno mogla proći bez poskupljenja.",
-      "Edhem Bičakčić, honorary president of the CIGRE committee, told Klix.ba that households using up to 350 kWh a month could avoid a price rise."
-     ],
-     [
-      "On smatra da bi ostali potrošači morali platiti više.",
-      "He thinks other consumers would have to pay more."
-     ]
-    ],
-    [
-     [
-      "U Federaciji BiH vrijedi blok tarifa, a potrošnja do 350 kWh smatra se socijalnom kategorijom.",
-      "In the Federation of BiH a block tariff applies, and consumption up to 350 kWh is seen as a social category."
-     ],
-     [
-      "Za industriju je već najavljeno poskupljenje od 30 posto, što je veliki udarac za privredu.",
-      "A 30 percent rise has already been announced for industry, which is a big blow to the economy."
-     ],
-     [
-      "Bičakčić kaže da su Koksara i Željezara već stali s radom.",
-      "Bičakčić says that Koksara and Željezara have already stopped working."
-     ],
-     [
-      "Dodaje da su računi za struju trenutno niži od računa za internet i kablovsku televiziju, što on ne smatra normalnim.",
-      "He adds that electricity bills are currently lower than bills for internet and cable TV, which he does not consider normal."
-     ]
-    ],
-    [
-     [
-      "Grijanje na struju je sada najjeftinije, pa se mnogi domaćinstva vraćaju s drva i peleta na struju.",
-      "Electric heating is now the cheapest, so many households are switching from wood and pellets to electricity."
-     ],
-     [
-      "Socijalno ugrožene porodice mogu se prijaviti za besplatne solarne panele.",
-      "Socially vulnerable families can apply for free solar panels."
-     ],
-     [
-      "Domaćinstva s većom potrošnjom mogu dobiti podršku do 7.000 KM.",
-      "Households with higher consumption can get support of up to 7,000 KM."
-     ],
-     [
-      "Bičakčić je rekao da zapošljavanje u Elektroprivredi ne može ići po stranačkoj liniji.",
-      "Bičakčić said that hiring in Elektroprivreda cannot follow party lines."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "struja",
-     "electricity"
-    ],
-    [
-     "poskupljenje",
-     "price rise"
-    ],
-    [
-     "domaćinstvo",
-     "household"
-    ],
-    [
-     "potrošnja",
-     "consumption"
-    ],
-    [
-     "tarifa",
-     "tariff"
-    ],
-    [
-     "industrija",
-     "industry"
-    ],
-    [
-     "solarni panel",
-     "solar panel"
-    ]
-   ]
-  },
-  {
-   "id": "261110122",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/objavljen-snimak-iz-zraka-s-mjesta-stravicne-nesrece-u-bugarskoj-ucestvovalo-50-automobila-poginulo-11-osoba/261110122",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261110122.jpg",
-   "published": "2026-11-10T12:00:00+01:00",
-   "title": [
-    "Bugarska: u lančanom sudaru poginulo 11 osoba",
-    "Bulgaria: 11 people died in a chain-reaction crash"
-   ],
-   "body": [
-    [
-     [
-      "U Bugarskoj se u utorak oko 7 sati dogodila velika saobraćajna nesreća.",
-      "A big traffic accident happened in Bulgaria on Tuesday around 7 a.m."
-     ],
-     [
-      "Na autoputu Trakija, blizu grada Jambola, sudarilo se oko 50 vozila.",
-      "On the Trakia motorway, near the town of Yambol, about 50 vehicles collided."
-     ],
-     [
-      "Među njima su bili automobili, autobusi, kombiji i kamioni.",
-      "They included cars, buses, vans and trucks."
-     ],
-     [
-      "Premijer Rumen Radev rekao je da je poginulo najmanje 11 osoba.",
-      "Prime Minister Rumen Radev said that at least 11 people died."
-     ]
-    ],
-    [
-     [
-      "Povrijeđeno je oko 50 ljudi, a svi su prevezeni u bolnice.",
-      "About 50 people were injured, and all were taken to hospitals."
-     ],
-     [
-      "Vlasti kažu da su uzroci gusta magla, mokar kolovoz i prevelika brzina.",
-      "Authorities say the causes were thick fog, a wet road and too much speed."
-     ],
-     [
-      "Autoput je zatvoren u oba smjera.",
-      "The motorway is closed in both directions."
-     ],
-     [
-      "Snimak iz zraka, koji je objavila televizija Nova, pokazuje smrskana i prevrnuta vozila na više od šest traka.",
-      "Aerial footage released by Nova TV shows crushed and overturned vehicles across more than six lanes."
-     ]
-    ],
-    [
-     [
-      "Radev je za nesreću saznao dok je putovao u Varnu na sastanak s Ursulom von der Leyen.",
-      "Radev learned of the crash while travelling to Varna for a meeting with Ursula von der Leyen."
-     ],
-     [
-      "Naredio je ministru unutrašnjih poslova da odmah ode u Burgas i prebaci povrijeđene u Sofiju.",
-      "He ordered the interior minister to go to Burgas immediately and move the injured to Sofia."
-     ],
-     [
-      "Radev je najavio i da će posjetiti mjesto nesreće.",
-      "Radev also announced that he would visit the crash site."
-     ],
-     [
-      "Predsjednica Evropske komisije izrazila je saučešće porodicama žrtava.",
-      "The President of the European Commission expressed condolences to the victims' families."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "nesreća",
-     "accident"
-    ],
-    [
-     "sudar",
-     "collision"
-    ],
-    [
-     "autoput",
-     "motorway"
-    ],
-    [
-     "magla",
-     "fog"
-    ],
-    [
-     "povrijeđen",
-     "injured"
-    ],
-    [
-     "saučešće",
-     "condolences"
-    ],
-    [
-     "premijer",
-     "prime minister"
-    ]
-   ]
-  },
-  {
-   "id": "261110110",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/zeljeznicar-u-osmini-finala-gostuje-u-mostaru-borac-na-ispitu-u-gabeli/261110110",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261110110.jpg",
-   "published": "2026-11-10T12:00:00+01:00",
-   "title": [
-    "Kup BiH: Željezničar gostuje u Mostaru, Borac u Gabeli",
-    "BiH Cup: Željezničar plays away in Mostar, Borac in Gabela"
-   ],
-   "body": [
-    [
-     [
-      "U Nogometnom savezu BiH održan je žrijeb osmine finala Kupa Bosne i Hercegovine.",
-      "The draw for the round of 16 of the Bosnia and Herzegovina Cup was held at the Football Association of BiH."
-     ],
-     [
-      "Željezničar će gostovati u Mostaru kod Zrinjskog.",
-      "Željezničar will play away at Zrinjski in Mostar."
-     ],
-     [
-      "Borac iz Banje Luke igrat će kod GOŠK-a u Gabeli.",
-      "Borac from Banja Luka will play GOŠK in Gabela."
-     ],
-     [
-      "Utakmice su na rasporedu 30. i 31. januara 2027. godine.",
-      "The matches are scheduled for 30 and 31 January 2027."
-     ]
-    ],
-    [
-     [
-      "Među ostalim parovima su Famos i Posušje, Radnik i TOŠK te Tomislav i Travnik.",
-      "Other pairs include Famos and Posušje, Radnik and TOŠK, and Tomislav and Travnik."
-     ],
-     [
-      "Igra se samo jedna utakmica, pa nema popravnog ispita.",
-      "Only one match is played, so there is no second chance."
-     ],
-     [
-      "Ako nakon 90 minuta nema pobjednika, odmah slijede jedanaesterci.",
-      "If there is no winner after 90 minutes, penalties follow straight away."
-     ],
-     [
-      "Od četvrtfinala se igra dvomeč, kod kuće i u gostima.",
-      "From the quarter-finals, two legs are played, at home and away."
-     ]
-    ],
-    [
-     [
-      "Već su poznati i mogući parovi četvrtfinala.",
-      "The possible quarter-final pairs are also already known."
-     ],
-     [
-      "Pobjednik para Zrinjski i Željezničar igrat će protiv pobjednika para Zvijezda i Čelik.",
-      "The winner of Zrinjski and Željezničar will play the winner of Zvijezda and Čelik."
-     ],
-     [
-      "Pobjednik para GOŠK i Borac čeka pobjednika para Sloga i BSK.",
-      "The winner of GOŠK and Borac will face the winner of Sloga and BSK."
-     ],
-     [
-      "Tačni termini bit će objavljeni nakon žrijeba za četvrtfinale.",
-      "The exact dates will be announced after the quarter-final draw."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "žrijeb",
-     "draw"
-    ],
-    [
-     "osmina finala",
-     "round of 16"
-    ],
-    [
-     "gostovati",
-     "to play away"
-    ],
-    [
-     "utakmica",
-     "match"
-    ],
-    [
-     "jedanaesterci",
-     "penalties"
-    ],
-    [
-     "četvrtfinale",
-     "quarter-final"
-    ],
-    [
-     "pobjednik",
-     "winner"
-    ]
-   ]
-  },
-  {
-   "id": "261110065",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/kultura/dino-mustafic-o-optuzbama-da-je-doveo-narodno-pozoriste-sarajevo-do-kolapsa-nisam-ostavio-ni-fening-duga/261110065",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261110065.jpg",
-   "published": "2026-11-10T10:40:00+01:00",
-   "title": [
-    "Mustafić: Nisam ostavio ni fening duga Narodnom pozorištu",
-    "Mustafić: I did not leave a single fening of debt at the National Theatre"
-   ],
-   "body": [
-    [
-     [
-      "Reditelj Dino Mustafić odbacio je optužbe da je Narodno pozorište Sarajevo doveo do kolapsa.",
-      "Director Dino Mustafić has rejected accusations that he brought the National Theatre Sarajevo to collapse."
-     ],
-     [
-      "Bio je direktor te ustanove, a o tome je govorio na BHRT-u.",
-      "He was the director of that institution, and he spoke about it on BHRT."
-     ],
-     [
-      "Rekao je da nije ostavio ni fening duga.",
-      "He said that he did not leave a single fening of debt."
-     ],
-     [
-      "Objasnio je da direktor ne može praviti dugove bez dokumenata i strogog nadzora ministarstava kulture i finansija.",
-      "He explained that a director cannot make debts without documents and strict oversight by the ministries of culture and finance."
-     ]
-    ],
-    [
-     [
-      "Naveo je i brojke o radu pozorišta.",
-      "He also gave figures about the theatre's work."
-     ],
-     [
-      "Vlastiti prihodi bili su oko 900.000 KM u 2023, milion KM u 2024. i 1.425.000 KM u 2025.",
-      "Its own revenue was about 900,000 KM in 2023, 1 million KM in 2024 and 1,425,000 KM in 2025."
-     ],
-     [
-      "Od 2021. do 2025. bilo je 48 premijera, 34 nagrade i više od 200.000 gledalaca.",
-      "From 2021 to 2025 there were 48 premieres, 34 awards and more than 200,000 viewers."
-     ],
-     [
-      "Pozorište je, kaže, nastupilo i na 98 festivala.",
-      "The theatre, he says, also performed at 98 festivals."
-     ]
-    ],
-    [
-     [
-      "Govorio je i o zgradi pozorišta.",
-      "He also spoke about the theatre building."
-     ],
-     [
-      "Prema ugovoru koji je potpisao, fasada je trebala biti gotova do 31. decembra 2025, ali taj rok nije ispoštovan.",
-      "According to the contract he signed, the facade was to be finished by 31 December 2025, but that deadline was not met."
-     ],
-     [
-      "Kritikovao je i političke napade na Narodno pozorište.",
-      "He also criticised political attacks on the National Theatre."
-     ],
-     [
-      "Spomenuo je i Omladinsko pozorište u Mostaru, koje nakon 54 godine prijeti zatvaranje.",
-      "He also mentioned the Youth Theatre in Mostar, which faces closure after 54 years."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "reditelj",
-     "director"
-    ],
-    [
-     "optužba",
-     "accusation"
-    ],
-    [
-     "dug",
-     "debt"
-    ],
-    [
-     "prihod",
-     "revenue"
-    ],
-    [
-     "premijera",
-     "premiere"
-    ],
-    [
-     "fasada",
-     "facade"
-    ],
-    [
-     "pozorište",
-     "theatre"
     ]
    ]
   }
