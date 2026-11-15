@@ -1,18 +1,742 @@
 {
- "updated": "2026-11-15T13:50:00+01:00",
+ "updated": "2026-11-15T18:45:00+01:00",
  "front": [
-  "261115043",
-  "261115065",
-  "261115073",
-  "261115072",
-  "261115048",
-  "261115064",
+  "261114156",
+  "261112216",
+  "261115120",
+  "261115124",
+  "261115126",
+  "261115112",
   "261115003",
-  "261115030",
+  "261111104",
   "261115007",
-  "261115016"
+  "261115089"
  ],
  "articles": [
+  {
+   "id": "261115126",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/kruna-i-srce-za-dijamanta-kulusevski-odusevio-objavom-s-edinom-dzekom/261115126",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261115126.jpg",
+   "published": "2026-11-15T18:32:00+01:00",
+   "title": [
+    "Kuluševski objavio fotografiju s Edinom Džekom",
+    "Kulusevski posted a photo with Edin Džeko"
+   ],
+   "body": [
+    [
+     [
+      "Švedski nogometaš Dejan Kuluševski objavio je na Instagramu fotografiju s Edinom Džekom.",
+      "Swedish footballer Dejan Kulusevski posted a photo with Edin Džeko on Instagram."
+     ],
+     [
+      "Na slici se obojica smiju, a Kuluševski je dodao emotikone krune i srca.",
+      "Both are smiling in the picture, and Kulusevski added crown and heart emojis."
+     ],
+     [
+      "On je u subotu prvi put nakon 725 dana igrao za Švedsku, i to protiv BiH.",
+      "On Saturday he played for Sweden for the first time in 725 days, and it was against BiH."
+     ]
+    ],
+    [
+     [
+      "Švedska je na poluvremenu vodila 3:0, ali je BiH u drugom poluvremenu smanjila na 2:3.",
+      "Sweden led 3:0 at half-time, but BiH cut the lead to 2:3 in the second half."
+     ],
+     [
+      "Golove za BiH dali su Armin Gigović i Sead Kolašinac.",
+      "Armin Gigović and Sead Kolašinac scored the goals for BiH."
+     ],
+     [
+      "Kuluševski je u igru ušao nakon sat vremena, jer se vraća nakon teške povrede koljena.",
+      "Kulusevski came into the game after an hour, because he is coming back after a serious knee injury."
+     ],
+     [
+      "Džeko se od reprezentacije oprostio 2. oktobra u Zenici, upravo protiv Švedske.",
+      "Džeko said goodbye to the national team on 2 October in Zenica, against Sweden of all teams."
+     ]
+    ],
+    [
+     [
+      "Kuluševski je rekao da je kraj utakmice bio previše uzbudljiv, ali da je pobjeda najvažnija.",
+      "Kulusevski said that the end of the match was too exciting, but that the win is the most important thing."
+     ],
+     [
+      "Dodao je da je atmosfera bila kao na velikom takmičenju.",
+      "He added that the atmosphere was like at a big tournament."
+     ],
+     [
+      "Švedska je osvojila prvo mjesto u grupi, a u utorak igra u Poljskoj.",
+      "Sweden won first place in the group, and on Tuesday it plays in Poland."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "nogometaš",
+     "footballer"
+    ],
+    [
+     "objaviti",
+     "to post, to publish"
+    ],
+    [
+     "fotografija",
+     "photo"
+    ],
+    [
+     "poluvrijeme",
+     "half (of a match)"
+    ],
+    [
+     "povreda",
+     "injury"
+    ],
+    [
+     "koljeno",
+     "knee"
+    ],
+    [
+     "reprezentacija",
+     "national team"
+    ]
+   ]
+  },
+  {
+   "id": "261115120",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/gradanska-svijest-na-djelu-stotine-hiljada-ceha-ustalo-da-odbrani-javni-servis-od-politicke-kontrole/261115120",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261115120.jpg",
+   "published": "2026-11-15T18:25:00+01:00",
+   "title": [
+    "Stotine hiljada Čeha protestovale za javni radio i televiziju",
+    "Hundreds of thousands of Czechs protested for public radio and television"
+   ],
+   "body": [
+    [
+     [
+      "Stotine hiljada ljudi okupile su se u nedjelju u Pragu na velikom protestu.",
+      "Hundreds of thousands of people gathered on Sunday in Prague at a big protest."
+     ],
+     [
+      "Protestovali su protiv plana vlade Andreja Babiša da promijeni finansiranje javnog radija i televizije.",
+      "They protested against the plan of Andrej Babiš’s government to change the funding of public radio and television."
+     ],
+     [
+      "Skup je održan u parku Letná, gdje su ljudi protestovali i 1989. godine.",
+      "The rally was held in Letná park, where people also protested in 1989."
+     ]
+    ],
+    [
+     [
+      "Organizatori kažu da je na protestu bilo oko 350.000 ljudi.",
+      "The organisers say that there were about 350,000 people at the protest."
+     ],
+     [
+      "Prema planu, javni mediji bi dobijali novac iz državnog budžeta, a ne od taksi koje plaćaju građani.",
+      "According to the plan, public media would get money from the state budget, and not from fees that citizens pay."
+     ],
+     [
+      "Dobili bi oko 15 posto manje novca, pa bi neki ljudi mogli ostati bez posla.",
+      "They would get about 15 percent less money, so some people could lose their jobs."
+     ],
+     [
+      "Kritičari misle da bi vlada tako mogla preuzeti kontrolu nad medijima, kao u Slovačkoj i Mađarskoj.",
+      "Critics think that the government could in this way take control of the media, as in Slovakia and Hungary."
+     ]
+    ],
+    [
+     [
+      "Parlament je prvu verziju zakona izglasao 24. oktobra u 4:36 ujutro.",
+      "Parliament voted for the first version of the law on 24 October at 4:36 in the morning."
+     ],
+     [
+      "Nakon toga su zaposleni u javnim medijima 3. novembra stupili u štrajk.",
+      "After that, employees of public media went on strike on 3 November."
+     ],
+     [
+      "Babiš je rekao da će nastaviti s planom i da to neće ugroziti slobodu medija.",
+      "Babiš said that he would continue with the plan and that it would not threaten media freedom."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "protest",
+     "protest"
+    ],
+    [
+     "vlada",
+     "government"
+    ],
+    [
+     "finansiranje",
+     "funding"
+    ],
+    [
+     "javni",
+     "public"
+    ],
+    [
+     "budžet",
+     "budget"
+    ],
+    [
+     "kontrola",
+     "control"
+    ],
+    [
+     "štrajk",
+     "strike"
+    ]
+   ]
+  },
+  {
+   "id": "261112216",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/muzika/vedran-vexon-bh-muzicar-koji-je-odusevio-na-supertalentu-halid-beslic-mi-je-rekao-da-nastavim-snimati/261112216",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261112216.jpg",
+   "published": "2026-11-15T18:24:00+01:00",
+   "title": [
+    "Bh. muzičar Vedran Vexon oduševio žiri na Supertalentu",
+    "BiH musician Vedran Vexon thrilled the jury on Supertalent"
+   ],
+   "body": [
+    [
+     [
+      "Muzičar Vedran Tomičić, poznatiji kao Vedran Vexon, nastupio je u hrvatskoj emisiji „Supertalent“.",
+      "Musician Vedran Tomičić, better known as Vedran Vexon, performed on the Croatian show “Supertalent”."
+     ],
+     [
+      "Pjevao je pjesmu „Stanica Podlugovi“ Zdravka Čolića i oduševio žiri i publiku.",
+      "He sang the song “Stanica Podlugovi” by Zdravko Čolić and thrilled the jury and the audience."
+     ],
+     [
+      "Publika je ustala već na prvom refrenu i pljeskala do kraja pjesme.",
+      "The audience stood up already at the first chorus and clapped until the end of the song."
+     ]
+    ],
+    [
+     [
+      "Vexon ima 43 godine i godinama je nastupao kao pjevač i gitarista u bendu.",
+      "Vexon is 43 years old and for years performed as a singer and guitarist in a band."
+     ],
+     [
+      "Na takmičenje se prijavio slučajno, a odgovor mu je stigao u spam.",
+      "He applied for the competition by chance, and the reply came to his spam folder."
+     ],
+     [
+      "Iako je dobio prolaz od žirija, nije pozvan u polufinale.",
+      "Although he got through with the jury, he was not invited to the semi-final."
+     ],
+     [
+      "Objasnio je da se mnogo pjevača, mađioničara i plesača bori za malo mjesta.",
+      "He explained that many singers, magicians and dancers compete for few places."
+     ]
+    ],
+    [
+     [
+      "Solo karijeru je počeo tek 2024. godine pjesmom „Kap u kiši“.",
+      "He started his solo career only in 2024 with the song “Kap u kiši”."
+     ],
+     [
+      "Nedavno je objavio novi singl „Tišina od glasa“, za koji je sam napisao muziku i tekst.",
+      "He recently released a new single “Tišina od glasa”, for which he wrote the music and lyrics himself."
+     ],
+     [
+      "Rekao je da je danas teško uspjeti, ali da nikada ne treba odustati.",
+      "He said that it is hard to succeed today, but that one should never give up."
+     ],
+     [
+      "Drugim muzičarima savjetuje da se prijave na takva takmičenja.",
+      "He advises other musicians to apply for such competitions."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "muzičar",
+     "musician"
+    ],
+    [
+     "nastupiti",
+     "to perform"
+    ],
+    [
+     "žiri",
+     "jury"
+    ],
+    [
+     "publika",
+     "audience"
+    ],
+    [
+     "takmičenje",
+     "competition"
+    ],
+    [
+     "prijaviti se",
+     "to apply, to sign up"
+    ],
+    [
+     "odustati",
+     "to give up"
+    ]
+   ]
+  },
+  {
+   "id": "261114156",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/ajatolah-alireza-arafi-iran-s-posebnom-naklonoscu-i-ljubavi-gleda-na-bosnu-i-hercegovinu/261114156",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261114156.jpg",
+   "published": "2026-11-15T17:57:00+01:00",
+   "title": [
+    "Iranski ajatolah A’rafi govorio o vezama Irana i BiH",
+    "Iranian ayatollah A’rafi spoke about ties between Iran and BiH"
+   ],
+   "body": [
+    [
+     [
+      "Iranski vjerski lider ajatolah Alireza A’rafi ovih dana boravi u Bosni i Hercegovini.",
+      "Iranian religious leader Ayatollah Alireza A’rafi is in Bosnia and Herzegovina these days."
+     ],
+     [
+      "Došao je na poziv Islamske zajednice, na svečanost za novog reisul-ulemu.",
+      "He came at the invitation of the Islamic Community, for a ceremony for the new reis-ul-ulema."
+     ],
+     [
+      "U intervjuu za Klix.ba govorio je o ratu u kojem je Iran napadnut i o odnosima s BiH.",
+      "In an interview for Klix.ba he spoke about the war in which Iran was attacked and about relations with BiH."
+     ]
+    ],
+    [
+     [
+      "A’rafi je član Vijeća čuvara ustava i od 2016. godine vodi sve vjerske škole u Iranu.",
+      "A’rafi is a member of the Guardian Council and has led all religious schools in Iran since 2016."
+     ],
+     [
+      "U martu 2026. godine kratko je bio u privremenom vodstvu zemlje, nakon pogibije vrhovnog vođe Alija Hameneija.",
+      "In March 2026 he was briefly part of the country’s interim leadership, after the death of supreme leader Ali Khamenei."
+     ],
+     [
+      "Rekao je da Iran uvijek podržava pregovore, ali da je Donald Trump uništio povjerenje u njih.",
+      "He said that Iran always supports negotiations, but that Donald Trump destroyed trust in them."
+     ],
+     [
+      "Prema njegovim riječima, SAD je dva puta napao Iran dok su pregovori još trajali.",
+      "According to him, the US attacked Iran twice while the negotiations were still going on."
+     ]
+    ],
+    [
+     [
+      "A’rafi je rekao da Iran gleda na BiH s posebnom ljubavi i da želi bolje odnose.",
+      "A’rafi said that Iran looks at BiH with special love and wants better relations."
+     ],
+     [
+      "Dodao je da se o ratu u BiH uči na iranskim fakultetima i univerzitetima.",
+      "He added that the war in BiH is studied at Iranian faculties and universities."
+     ],
+     [
+      "Zemlje bi, kako kaže, mogle više sarađivati u kulturi, umjetnosti, poeziji i filozofiji.",
+      "The countries, he says, could cooperate more in culture, art, poetry and philosophy."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "ajatolah",
+     "ayatollah"
+    ],
+    [
+     "vjerski",
+     "religious"
+    ],
+    [
+     "intervju",
+     "interview"
+    ],
+    [
+     "pregovori",
+     "negotiations"
+    ],
+    [
+     "povjerenje",
+     "trust"
+    ],
+    [
+     "odnos",
+     "relation, relationship"
+    ],
+    [
+     "saradnja",
+     "cooperation"
+    ]
+   ]
+  },
+  {
+   "id": "261115124",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/haos-u-berlinu-policija-se-brutalno-obracunala-s-mladim-demonstrantima-bunt-protiv-vojnog-roka-izmakao-kontroli/261115124",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261115124.jpg",
+   "published": "2026-11-15T17:55:00+01:00",
+   "title": [
+    "Sukob policije i mladih na protestu u Berlinu",
+    "Clash between police and young people at a protest in Berlin"
+   ],
+   "body": [
+    [
+     [
+      "U subotu navečer u Berlinu došlo je do sukoba između policije i mladih demonstranata.",
+      "On Saturday evening in Berlin there was a clash between police and young demonstrators."
+     ],
+     [
+      "Protest je organizovala inicijativa „Gen Z regelt“, koja je protiv obaveznog vojnog roka.",
+      "The protest was organised by the initiative “Gen Z regelt”, which is against compulsory military service."
+     ],
+     [
+      "Oni protestuju i protiv loših uslova u školama i rezova na univerzitetima.",
+      "They also protest against bad conditions in schools and cuts at universities."
+     ]
+    ],
+    [
+     [
+      "Skup je bio prijavljen za 100 ljudi, ali je kroz grad prošlo oko 1.200 učesnika.",
+      "The rally was registered for 100 people, but about 1,200 participants went through the city."
+     ],
+     [
+      "Na terenu je bilo oko 700 policajaca, a kolona je više puta zaustavljena.",
+      "There were about 700 police officers on the ground, and the march was stopped several times."
+     ],
+     [
+      "Policija kaže da su učesnici pokušali probiti policijski lanac prije polaska.",
+      "The police say that the participants tried to break through the police line before setting off."
+     ],
+     [
+      "Privremeno je uhapšeno 20 osoba, a povrijeđena su 3 policajca.",
+      "Twenty people were temporarily arrested, and 3 police officers were injured."
+     ]
+    ],
+    [
+     [
+      "Organizatori su rekli da je skup bio miran i da su protiv nasilja.",
+      "The organisers said that the rally was peaceful and that they are against violence."
+     ],
+     [
+      "Krajem oktobra ista inicijativa je organizovala proteste u više od 30 njemačkih gradova.",
+      "At the end of October the same initiative organised protests in more than 30 German cities."
+     ],
+     [
+      "Za 20. novembar najavljen je evropski štrajk mladih, a samo u Berlinu očekuje se 15.000 ljudi.",
+      "A European youth strike has been announced for 20 November, and 15,000 people are expected in Berlin alone."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "sukob",
+     "clash, conflict"
+    ],
+    [
+     "demonstrant",
+     "demonstrator"
+    ],
+    [
+     "vojni rok",
+     "military service"
+    ],
+    [
+     "učesnik",
+     "participant"
+    ],
+    [
+     "uhapsiti",
+     "to arrest"
+    ],
+    [
+     "povrijeđen",
+     "injured"
+    ],
+    [
+     "nasilje",
+     "violence"
+    ]
+   ]
+  },
+  {
+   "id": "261115112",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/branislav-borenovic-u-beogradu-ozenio-sonju-tomas-direktoricu-ekonomske-skole-u-banjoj-luci/261115112",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261115112.jpg",
+   "published": "2026-11-15T17:37:00+01:00",
+   "title": [
+    "Političar Branislav Borenović oženio se u Beogradu",
+    "Politician Branislav Borenović got married in Belgrade"
+   ],
+   "body": [
+    [
+     [
+      "Branislav Borenović, dugogodišnji poslanik u Parlamentu BiH, oženio se u Beogradu.",
+      "Branislav Borenović, a long-time member of the BiH Parliament, got married in Belgrade."
+     ],
+     [
+      "Njegova supruga je Sonja Tomaš, direktorica Ekonomske škole u Banjoj Luci.",
+      "His wife is Sonja Tomaš, the head of the School of Economics in Banja Luka."
+     ],
+     [
+      "Vjenčanje je bilo u crkvi, a fotografije je Borenović objavio na društvenim mrežama.",
+      "The wedding was in a church, and Borenović posted the photos on social media."
+     ]
+    ],
+    [
+     [
+      "Uz fotografije je napisao da je ljubav putovanje koje je najljepše kada se dijeli.",
+      "With the photos he wrote that love is a journey that is most beautiful when it is shared."
+     ],
+     [
+      "Mladenci će svadbu proslaviti u Banjoj Luci.",
+      "The newlyweds will celebrate the wedding party in Banja Luka."
+     ],
+     [
+      "Članak o vjenčanju na Klixu brzo je dobio 26 komentara.",
+      "The article about the wedding on Klix quickly got 26 comments."
+     ]
+    ],
+    [
+     [
+      "Borenović je već dugi niz godina poslanik u Predstavničkom domu Parlamentarne skupštine BiH.",
+      "Borenović has been a member of the House of Representatives of the BiH Parliamentary Assembly for many years."
+     ],
+     [
+      "Na Općim izborima 4. oktobra ponovo je osvojio direktan mandat, s liste PSS-a.",
+      "At the general election on 4 October he again won a direct seat, from the PSS list."
+     ],
+     [
+      "Tako će i u novom sazivu ostati u državnom parlamentu.",
+      "So he will also stay in the state parliament in the new term."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "oženiti se",
+     "to get married (of a man)"
+    ],
+    [
+     "vjenčanje",
+     "wedding"
+    ],
+    [
+     "supruga",
+     "wife"
+    ],
+    [
+     "direktorica",
+     "director, head (female)"
+    ],
+    [
+     "svadba",
+     "wedding party"
+    ],
+    [
+     "poslanik",
+     "member of parliament"
+    ],
+    [
+     "mandat",
+     "mandate, seat"
+    ]
+   ]
+  },
+  {
+   "id": "261111104",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/zanimljivosti/drozgometva-kod-hadzica-selo-drevnog-imena-koje-je-dalo-velikog-vezira-a-danas-mu-broj-stanovnika-raste/261111104",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261111104.jpg",
+   "published": "2026-11-15T15:50:00+01:00",
+   "title": [
+    "Drozgometva kod Hadžića: staro selo u kojem raste broj stanovnika",
+    "Drozgometva near Hadžići: an old village where the population is growing"
+   ],
+   "body": [
+    [
+     [
+      "Drozgometva je danas malo selo u općini Hadžići, na oko 614 metara nadmorske visine.",
+      "Drozgometva is today a small village in the municipality of Hadžići, at about 614 metres above sea level."
+     ],
+     [
+      "U 15. vijeku bila je najveće naselje ovog kraja.",
+      "In the 15th century it was the largest settlement in this area."
+     ],
+     [
+      "Iz sela je potekao Hadim Ali-paša, koji je dva puta bio veliki vezir Osmanskog carstva.",
+      "Hadim Ali Pasha, who was grand vizier of the Ottoman Empire twice, came from the village."
+     ]
+    ],
+    [
+     [
+      "Prema popisu iz 2013. godine, u selu je živjelo 298 stanovnika.",
+      "According to the 2013 census, 298 inhabitants lived in the village."
+     ],
+     [
+      "Mještani kažu da danas na području mjesne zajednice živi 740 odraslih ljudi.",
+      "Locals say that today 740 adults live in the area of the local community."
+     ],
+     [
+      "Sanela Proha iz savjeta mjesne zajednice kaže da gotovo svaki dan dobiva pozive ljudi koji žele kupiti kuću.",
+      "Sanela Proha from the local community council says that almost every day she gets calls from people who want to buy a house."
+     ],
+     [
+      "Dodala je da u selu ima mnogo djece.",
+      "She added that there are many children in the village."
+     ]
+    ],
+    [
+     [
+      "Historičar Vahid Alađuz misli da ime dolazi od stare riječi „drozga“.",
+      "Historian Vahid Alađuz thinks that the name comes from the old word “drozga”."
+     ],
+     [
+      "Tako se zvao otpad koji ostaje kada se topi ruda, a danas bismo rekli šljaka.",
+      "That was the name for the waste that remains when ore is melted, and today we would say slag."
+     ],
+     [
+      "To pokazuje da su ljudi ovdje nekada kopali rudu.",
+      "This shows that people once dug for ore here."
+     ],
+     [
+      "Prvi osmanski popis iz 1468. godine bilježi u selu 35 domova i čak 13 mlinova.",
+      "The first Ottoman census from 1468 records 35 households and as many as 13 mills in the village."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "selo",
+     "village"
+    ],
+    [
+     "stanovnik",
+     "inhabitant"
+    ],
+    [
+     "popis",
+     "census"
+    ],
+    [
+     "vezir",
+     "vizier"
+    ],
+    [
+     "ruda",
+     "ore"
+    ],
+    [
+     "mještanin",
+     "local (person)"
+    ],
+    [
+     "mlin",
+     "mill"
+    ]
+   ]
+  },
+  {
+   "id": "261115089",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/auto/rent-a-car-kompanije-ne-usuduju-se-iznajmiti-vozila-za-ovaj-put-na-aljasci-dug-666-kilometara/261115089",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261115089.jpg",
+   "published": "2026-11-15T14:37:00+01:00",
+   "title": [
+    "Put na Aljasci kojim ne smijete voziti iznajmljeni auto",
+    "A road in Alaska where you may not drive a rented car"
+   ],
+   "body": [
+    [
+     [
+      "Na sjeveru Aljaske postoji put dug oko 666 kilometara koji se zove Dalton Highway.",
+      "In the north of Alaska there is a road about 666 kilometres long which is called the Dalton Highway."
+     ],
+     [
+      "Mnoge rent-a-car kompanije ne dozvoljavaju da se njime vozi iznajmljeni automobil.",
+      "Many rent-a-car companies do not allow a rented car to be driven on it."
+     ],
+     [
+      "Ako vozač ipak ide tim putem, u slučaju nesreće sam plaća sve troškove.",
+      "If a driver goes on that road anyway, in case of an accident he pays all the costs himself."
+     ]
+    ],
+    [
+     [
+      "Put vodi od mjesta blizu Fairbanksa do naftnih polja na sjeveru.",
+      "The road leads from a place near Fairbanks to the oil fields in the north."
+     ],
+     [
+      "Veći dio je izgrađen za samo 5 mjeseci 1974. godine, zbog izgradnje naftovoda.",
+      "Most of it was built in just 5 months in 1974, because of the construction of an oil pipeline."
+     ],
+     [
+      "Put je uzak i uglavnom prekriven šljunkom ili zemljom, a zimi ima snijega i leda.",
+      "The road is narrow and mostly covered with gravel or dirt, and in winter there is snow and ice."
+     ],
+     [
+      "Na dijelu od 386 kilometara nema nijedne benzinske pumpe.",
+      "On a stretch of 386 kilometres there is not a single petrol station."
+     ]
+    ],
+    [
+     [
+      "Putovanje traje najmanje 13 sati, čak i kada je vrijeme dobro.",
+      "The journey takes at least 13 hours, even when the weather is good."
+     ],
+     [
+      "Signal za mobitel ne postoji svugdje, pa vozači kamiona koriste radio-stanice.",
+      "There is no mobile phone signal everywhere, so truck drivers use radio sets."
+     ],
+     [
+      "Službe savjetuju da se nose rezervna guma, dodatno gorivo, topla odjeća i hrana.",
+      "Authorities advise carrying a spare tyre, extra fuel, warm clothes and food."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "iznajmiti",
+     "to rent"
+    ],
+    [
+     "vozač",
+     "driver"
+    ],
+    [
+     "nesreća",
+     "accident"
+    ],
+    [
+     "trošak",
+     "cost"
+    ],
+    [
+     "šljunak",
+     "gravel"
+    ],
+    [
+     "benzinska pumpa",
+     "petrol station"
+    ],
+    [
+     "gorivo",
+     "fuel"
+    ]
+   ]
+  },
   {
    "id": "261115072",
    "source": "Klix.ba",
@@ -4950,746 +5674,6 @@
     [
      "tužilaštvo",
      "prosecutor's office"
-    ]
-   ]
-  },
-  {
-   "id": "261113188",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/muzika/turski-reperi-pred-sudom-zbog-spornih-stihova-i-scena-u-spotu-za-pjesmu-kahpe-prijeti-im-pet-godina-zatvora/261113188",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261113188.jpg",
-   "published": "2026-11-13T16:16:00+01:00",
-   "title": [
-    "Turskim reperima prijeti zatvor zbog pjesme \"Kahpe\"",
-    "Turkish rappers face prison over the song \"Kahpe\""
-   ],
-   "body": [
-    [
-     [
-      "Turski reperi Lvbel C5 i Alizade te kompozitor Can Akdogan moraju pred sud zbog pjesme \"Kahpe\".",
-      "Turkish rappers Lvbel C5 and Alizade and composer Can Akdogan must go to court over the song \"Kahpe\"."
-     ],
-     [
-      "Tužilaštvo ih optužuje da javno potiču na krivična djela.",
-      "The prosecution accuses them of publicly inciting criminal acts."
-     ],
-     [
-      "Ako ih sud proglasi krivim, prijeti im do pet godina zatvora.",
-      "If the court finds them guilty, they face up to five years in prison."
-     ]
-    ],
-    [
-     [
-      "Istraga je počela nakon što se više građana žalilo predsjedničkom centru za komunikaciju.",
-      "The investigation started after several citizens complained to the presidential communication centre."
-     ],
-     [
-      "Sporni su stihovi pjesme i scene iz spota u kojima četiri osobe tuku čovjeka na podu.",
-      "The disputed parts are the lyrics of the song and scenes from the video in which four people beat a man on the floor."
-     ],
-     [
-      "Tužilaštvo kaže da pjesmu slušaju mladi i da bi mogla ugroziti javnu sigurnost.",
-      "The prosecution says that young people listen to the song and that it could threaten public safety."
-     ]
-    ],
-    [
-     [
-      "Lvbel C5 je na sudu rekao da su stihovi samo mašta i da nije želio poticati nasilje.",
-      "Lvbel C5 said in court that the lyrics are only imagination and that he did not want to incite violence."
-     ],
-     [
-      "Akdogan tvrdi da nije znao šta sporni stihovi znače.",
-      "Akdogan claims that he did not know what the disputed lyrics mean."
-     ],
-     [
-      "Alizade je izvan Turske, pa je njen advokat poslao pisanu izjavu.",
-      "Alizade is outside Turkey, so her lawyer sent a written statement."
-     ],
-     [
-      "Lvbel C5 ranije nije smio napustiti zemlju, a morao je i pohađati časove turske književnosti.",
-      "Earlier Lvbel C5 was not allowed to leave the country, and he also had to attend Turkish literature classes."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "reper",
-     "rapper"
-    ],
-    [
-     "pjesma",
-     "song"
-    ],
-    [
-     "stih",
-     "line of verse, lyric"
-    ],
-    [
-     "spot",
-     "music video"
-    ],
-    [
-     "sud",
-     "court"
-    ],
-    [
-     "zatvor",
-     "prison"
-    ],
-    [
-     "nasilje",
-     "violence"
-    ],
-    [
-     "mašta",
-     "imagination"
-    ]
-   ]
-  },
-  {
-   "id": "261113184",
-   "source": "Klix.ba",
-   "section": "Zdravlje",
-   "url": "https://www.klix.ba/lifestyle/zdravlje/ustajete-svaki-dan-u-drugo-vrijeme-studija-otkriva-kako-to-utjece-na-depresiju-i-anksioznost/261113184",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261113184.jpg",
-   "published": "2026-11-13T16:00:00+01:00",
-   "title": [
-    "Neredovan san povezan s depresijom i anksioznošću",
-    "Irregular sleep linked to depression and anxiety"
-   ],
-   "body": [
-    [
-     [
-      "Ljudi koji svaki dan liježu i ustaju u drugo vrijeme češće imaju simptome depresije i anksioznosti.",
-      "People who go to bed and get up at a different time every day more often have symptoms of depression and anxiety."
-     ],
-     [
-      "To pokazuje novo istraživanje naučnika iz Kalifornije, objavljeno u časopisu Scientific Reports.",
-      "This is shown by a new study by scientists from California, published in the journal Scientific Reports."
-     ],
-     [
-      "Takvi ljudi se također češće osjećaju usamljeno.",
-      "Such people also feel lonely more often."
-     ]
-    ],
-    [
-     [
-      "Naučnici su koristili podatke oko 23.000 odraslih koji su nosili pametni prsten Oura.",
-      "The scientists used data from about 23,000 adults who wore the Oura smart ring."
-     ],
-     [
-      "Za svaku osobu su izračunali koliko je san redovan, na skali od 0 do 100.",
-      "For each person they calculated how regular their sleep is, on a scale from 0 to 100."
-     ],
-     [
-      "Ljudi bez simptoma imali su u prosjeku 84, a oni s teškom depresijom 75.",
-      "People without symptoms had an average of 84, and those with severe depression 75."
-     ],
-     [
-      "Kod teške anksioznosti prosjek je bio 79.",
-      "With severe anxiety the average was 79."
-     ]
-    ],
-    [
-     [
-      "Glavna autorica Ashley Mason kaže da ne treba svima osam sati sna, ali da je redovan raspored vjerovatno važniji.",
-      "Lead author Ashley Mason says that not everyone needs eight hours of sleep, but that a regular schedule is probably more important."
-     ],
-     [
-      "Neredovan san uporedila je s jet lagom bez putovanja.",
-      "She compared irregular sleep to jet lag without travelling."
-     ],
-     [
-      "Autori upozoravaju da veza ide u oba smjera, jer depresija i anksioznost također otežavaju redovan san.",
-      "The authors warn that the link goes both ways, because depression and anxiety also make regular sleep harder."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "san",
-     "sleep"
-    ],
-    [
-     "ustajati",
-     "to get up"
-    ],
-    [
-     "istraživanje",
-     "study, research"
-    ],
-    [
-     "simptom",
-     "symptom"
-    ],
-    [
-     "usamljen",
-     "lonely"
-    ],
-    [
-     "prosjek",
-     "average"
-    ],
-    [
-     "raspored",
-     "schedule"
-    ],
-    [
-     "redovan",
-     "regular"
-    ]
-   ]
-  },
-  {
-   "id": "261113142",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/tehnologija/kineski-robot-u-hotelu-sam-skuplja-ves-pere-ga-i-vraca-u-sobe/261113142",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261113142.jpg",
-   "published": "2026-11-13T14:04:00+01:00",
-   "title": [
-    "Kineski robot u hotelu sam pere veš",
-    "Chinese robot in a hotel does the laundry by itself"
-   ],
-   "body": [
-    [
-     [
-      "Kineska kompanija ACE Robotics predstavila je robota koji u hotelu sam brine o vešu.",
-      "Chinese company ACE Robotics has presented a robot that takes care of the laundry in a hotel by itself."
-     ],
-     [
-      "Robot iz soba skuplja korpe s vešom i nosi ih u vešeraj.",
-      "The robot collects baskets of laundry from the rooms and takes them to the laundry room."
-     ],
-     [
-      "Tamo koristi mašine za pranje i sušenje, a zatim vraća čistu odjeću u sobe.",
-      "There it uses the washing and drying machines, and then it returns the clean clothes to the rooms."
-     ]
-    ],
-    [
-     [
-      "Sistem se zove Mundo i napravljen je sa univerzitetom iz Singapura.",
-      "The system is called Mundo and was made with a university from Singapore."
-     ],
-     [
-      "Od fotografija pravi digitalne kopije soba i hodnika, pa robot može vježbati prije pravog posla.",
-      "It makes digital copies of rooms and corridors from photos, so the robot can practise before the real work."
-     ],
-     [
-      "Kompanija je napravila 165 pokušaja u 57 sati, samo za vađenje veša iz sušilice.",
-      "The company made 165 attempts in 57 hours, only for taking laundry out of the dryer."
-     ],
-     [
-      "Udio farmerki koje su ostale u sušilici pao je sa 48 na 32 posto.",
-      "The share of jeans that stayed in the dryer fell from 48 to 32 percent."
-     ]
-    ],
-    [
-     [
-      "Kada nešto krene loše, sistem pregleda snimke kamera i promijeni pokret robota.",
-      "When something goes wrong, the system checks the camera footage and changes the robot's movement."
-     ],
-     [
-      "Kompanija kaže da bi se ova tehnologija mogla koristiti i u trgovini.",
-      "The company says that this technology could also be used in retail."
-     ],
-     [
-      "Ipak, sve brojke dolaze od kompanije i niko ih nije nezavisno provjerio.",
-      "However, all the figures come from the company and nobody has checked them independently."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "veš",
-     "laundry"
-    ],
-    [
-     "korpa",
-     "basket"
-    ],
-    [
-     "vešeraj",
-     "laundry room"
-    ],
-    [
-     "mašina za pranje",
-     "washing machine"
-    ],
-    [
-     "sušilica",
-     "dryer"
-    ],
-    [
-     "pokušaj",
-     "attempt"
-    ],
-    [
-     "farmerke",
-     "jeans"
-    ],
-    [
-     "provjeriti",
-     "to check"
-    ]
-   ]
-  },
-  {
-   "id": "261113132",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/dzeko-otkrio-zanimljive-pojedinosti-iz-zivota-koristio-sam-slavu-da-rezervisem-sto-iako-to-ne-volim/261113132",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261113132.jpg",
-   "published": "2026-11-13T13:32:00+01:00",
-   "title": [
-    "Džeko priznao da je slavom dobio sto u restoranu",
-    "Džeko admitted he got a restaurant table thanks to his fame"
-   ],
-   "body": [
-    [
-     [
-      "Edin Džeko, napadač Schalkea, učestvovao je u zabavnom izazovu Bundeslige na društvenim mrežama.",
-      "Edin Džeko, Schalke's striker, took part in a fun Bundesliga challenge on social media."
-     ],
-     [
-      "Izazov se zove crveno svjetlo, zeleno svjetlo.",
-      "The challenge is called red light, green light."
-     ],
-     [
-      "Za svaku naviku igrač bira crveno ako je ne voli, a zeleno ako je odobrava.",
-      "For each habit, the player chooses red if he does not like it, and green if he approves of it."
-     ]
-    ],
-    [
-     [
-      "Džeko ne voli kada igrač ima dres uvučen u šorc.",
-      "Džeko does not like it when a player has his jersey tucked into his shorts."
-     ],
-     [
-      "Crveno je dao i igračima koji nakon utakmice odu iz svlačionice bez tuširanja.",
-      "He also gave red to players who leave the dressing room after a match without showering."
-     ],
-     [
-      "S druge strane, nema ništa protiv slavlja ispred navijača protivnika.",
-      "On the other hand, he has nothing against celebrating in front of the opponent's fans."
-     ],
-     [
-      "Također mu ne smeta kada igrači kopiraju tuđe proslave golova.",
-      "He also does not mind when players copy other people's goal celebrations."
-     ]
-    ],
-    [
-     [
-      "Najzanimljivije pitanje bilo je da li je koristio slavu da dobije sto u restoranu.",
-      "The most interesting question was whether he used his fame to get a table in a restaurant."
-     ],
-     [
-      "Džeko je rekao da to ne voli, ali da je to ipak ponekad radio.",
-      "Džeko said that he does not like it, but that he still sometimes did it."
-     ],
-     [
-      "Video je objavila Bundesliga na svojim društvenim mrežama.",
-      "The video was posted by the Bundesliga on its social media."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "napadač",
-     "striker, forward"
-    ],
-    [
-     "izazov",
-     "challenge"
-    ],
-    [
-     "navika",
-     "habit"
-    ],
-    [
-     "svlačionica",
-     "dressing room"
-    ],
-    [
-     "slavlje",
-     "celebration"
-    ],
-    [
-     "slava",
-     "fame"
-    ],
-    [
-     "sto",
-     "table"
-    ]
-   ]
-  },
-  {
-   "id": "261113122",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/covic-najavio-smjenu-generacija-u-hdz-u-tako-smo-poceli-s-clanicom-predsjednistva-bih/261113122",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261113122.jpg",
-   "published": "2026-11-13T13:08:00+01:00",
-   "title": [
-    "Čović najavio dolazak mlađih ljudi u vodstvo HDZ-a",
-    "Čović announced younger people coming into HDZ's leadership"
-   ],
-   "body": [
-    [
-     [
-      "Dragan Čović, predsjednik HDZ-a BiH, govorio je u petak novinarima u Mostaru.",
-      "Dragan Čović, president of HDZ BiH, spoke to journalists in Mostar on Friday."
-     ],
-     [
-      "To je bilo nakon sjednice Predsjedništva stranke.",
-      "That was after a session of the party's Presidency."
-     ],
-     [
-      "Najavio je da će u HDZ-u doći do smjene generacija.",
-      "He announced that there will be a generational change in HDZ."
-     ]
-    ],
-    [
-     [
-      "Čović je rekao da je ta promjena počela s hrvatskom članicom Predsjedništva BiH.",
-      "Čović said that this change began with the Croatian member of the Presidency of BiH."
-     ],
-     [
-      "Mlađi ljudi bi trebali doći na sve nivoe vlasti.",
-      "Younger people should come to all levels of government."
-     ],
-     [
-      "Novo vodstvo stranke bit će izabrano na Saboru HDZ-a, koji se očekuje za 7 mjeseci.",
-      "The party's new leadership will be elected at the HDZ Assembly, which is expected in 7 months."
-     ],
-     [
-      "Na pitanje hoće li se opet kandidovati za predsjednika, rekao je da je njegov stav poznat.",
-      "Asked whether he will run for president again, he said that his position is known."
-     ],
-     [
-      "Govorio je i o razgovorima o novoj vlasti nakon izbora, koje vodi s predstavnicima sva tri naroda.",
-      "He also spoke about talks on the new government after the elections, which he is holding with representatives of all three peoples."
-     ]
-    ],
-    [
-     [
-      "Čović je rekao da bi Hrvatska i premijer Andrej Plenković mogli pomoći BiH na putu prema EU.",
-      "Čović said that Croatia and Prime Minister Andrej Plenković could help BiH on the road towards the EU."
-     ],
-     [
-      "Prema njegovim riječima, Crna Gora će do kraja godine ispuniti sve uslove za EU.",
-      "According to him, Montenegro will meet all the conditions for the EU by the end of the year."
-     ],
-     [
-      "Dodao je da je BiH prije 15 do 20 godina bila ispred Crne Gore.",
-      "He added that 15 to 20 years ago BiH was ahead of Montenegro."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "stranka",
-     "political party"
-    ],
-    [
-     "smjena",
-     "change, replacement"
-    ],
-    [
-     "generacija",
-     "generation"
-    ],
-    [
-     "vodstvo",
-     "leadership"
-    ],
-    [
-     "izabrati",
-     "to elect"
-    ],
-    [
-     "uslov",
-     "condition"
-    ],
-    [
-     "sjednica",
-     "session"
-    ]
-   ]
-  },
-  {
-   "id": "261113117",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/ulice-stockholma-preplavit-ce-navijaci-bih-stizu-iz-podgorice-new-yorka-i-svih-krajeva-svijeta/261113117",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261113117.jpg",
-   "published": "2026-11-13T12:59:00+01:00",
-   "title": [
-    "Do 40.000 navijača BiH očekuje se u Stockholmu",
-    "Up to 40,000 BiH fans are expected in Stockholm"
-   ],
-   "body": [
-    [
-     [
-      "Navijači Bosne i Hercegovine ovih dana dolaze u Stockholm iz cijelog svijeta.",
-      "Fans of Bosnia and Herzegovina are arriving in Stockholm these days from all over the world."
-     ],
-     [
-      "Reprezentacija BiH u subotu igra protiv Švedske na stadionu u Solni, pored Stockholma.",
-      "The BiH national team plays against Sweden on Saturday at the stadium in Solna, next to Stockholm."
-     ],
-     [
-      "Novinari Klixa razgovarali su s navijačima prije utakmice.",
-      "Klix journalists talked to fans before the match."
-     ]
-    ],
-    [
-     [
-      "Očekuje se da će na utakmicu doći do 40.000 navijača BiH.",
-      "It is expected that up to 40,000 BiH fans will come to the match."
-     ],
-     [
-      "Neki su stigli iz Podgorice, a neki čak iz Sjedinjenih Američkih Država.",
-      "Some arrived from Podgorica, and some even from the United States of America."
-     ],
-     [
-      "Mnogi dolaze iz drugih evropskih zemalja i iz cijele Švedske, gdje živi velika bh. dijaspora.",
-      "Many are coming from other European countries and from all over Sweden, where a large Bosnian diaspora lives."
-     ],
-     [
-      "Švedske vlasti su potvrdile da su sve karte za gostujući sektor prodane.",
-      "The Swedish authorities confirmed that all the tickets for the away section have been sold."
-     ]
-    ],
-    [
-     [
-      "Navijači su dobro raspoloženi i vjeruju da će Zmajevi pobijediti.",
-      "The fans are in a good mood and believe that the Dragons will win."
-     ],
-     [
-      "Zbog velikog broja ljudi, Ambasada BiH u Švedskoj otvorila je posebnu telefonsku liniju za građane.",
-      "Because of the large number of people, the BiH Embassy in Sweden opened a special phone line for citizens."
-     ],
-     [
-      "Tako navijači mogu brzo dobiti pomoć ako im zatreba.",
-      "That way fans can get help quickly if they need it."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "navijač",
-     "fan, supporter"
-    ],
-    [
-     "reprezentacija",
-     "national team"
-    ],
-    [
-     "utakmica",
-     "match"
-    ],
-    [
-     "očekivati",
-     "to expect"
-    ],
-    [
-     "karta",
-     "ticket"
-    ],
-    [
-     "ambasada",
-     "embassy"
-    ],
-    [
-     "raspoložen",
-     "in a mood"
-    ]
-   ]
-  },
-  {
-   "id": "261113115",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/stanivukovic-o-kupovini-poslanika-u-rs-u-provjeravaju-im-racune-nude-poslove-pa-cak-i-fasade-na-kucama/261113115",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261113115.jpg",
-   "published": "2026-11-13T12:40:00+01:00",
-   "title": [
-    "Stanivuković tvrdi da vlast u RS-u kupuje opozicione poslanike",
-    "Stanivuković claims the government in RS is buying opposition MPs"
-   ],
-   "body": [
-    [
-     [
-      "Draško Stanivuković, predsjednik Pokreta Sigurna Srpska, održao je u petak konferenciju za medije.",
-      "Draško Stanivuković, president of the Sigurna Srpska Movement, held a press conference on Friday."
-     ],
-     [
-      "On tvrdi da vladajuća koalicija oko SNSD-a pokušava pridobiti poslanike opozicije.",
-      "He claims that the ruling coalition around SNSD is trying to win over opposition MPs."
-     ],
-     [
-      "Zbog toga će podnijeti krivične prijave za zloupotrebu položaja i trgovinu uticajem.",
-      "Because of that, he will file criminal complaints for abuse of office and trading in influence."
-     ]
-    ],
-    [
-     [
-      "Prema njegovim riječima, koalicija provjerava bankovne račune poslanika i traži one koji imaju kredite.",
-      "According to him, the coalition checks MPs' bank accounts and looks for those who have loans."
-     ],
-     [
-      "Tim ljudima nude da im otplate kredit, a nekima nude i posao ili mjesto zamjenika.",
-      "They offer those people to pay off their loan, and they offer some of them a job or a deputy post."
-     ],
-     [
-      "Stanivuković je rekao da su nekima ponudili čak i nove fasade na kućama.",
-      "Stanivuković said that some were even offered new facades on their houses."
-     ],
-     [
-      "Na konferenciji je pokazao plakat s rokom do 16. decembra.",
-      "At the conference he showed a poster with a deadline of 16 December."
-     ],
-     [
-      "Najavio je da će sljedeće sedmice podnijeti još prijava.",
-      "He announced that he will file more complaints next week."
-     ]
-    ],
-    [
-     [
-      "Nebojša Vukanović je 9. novembra pokazao papir za koji kaže da mu ga je dao Milorad Dodik.",
-      "On 9 November Nebojša Vukanović showed a piece of paper which he says Milorad Dodik gave him."
-     ],
-     [
-      "Na papiru je pisalo da bi tri poslanika PSS-a mogla prijeći u SNSD.",
-      "The paper said that three PSS MPs could move to SNSD."
-     ],
-     [
-      "Dodik je odbacio te priče i rekao da Stanivuković treba ići u tužilaštvo ako nešto zna.",
-      "Dodik rejected those stories and said that Stanivuković should go to the prosecutor's office if he knows something."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "poslanik",
-     "member of parliament"
-    ],
-    [
-     "opozicija",
-     "opposition"
-    ],
-    [
-     "koalicija",
-     "coalition"
-    ],
-    [
-     "kredit",
-     "loan"
-    ],
-    [
-     "krivična prijava",
-     "criminal complaint"
-    ],
-    [
-     "ponuditi",
-     "to offer"
-    ],
-    [
-     "tužilaštvo",
-     "prosecutor's office"
-    ]
-   ]
-  },
-  {
-   "id": "261113110",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/na-letu-iz-minhena-za-stockholm-orili-se-ljiljani-snimak-podijelila-sabrina-tabakovic/261113110",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261113110.jpg",
-   "published": "2026-11-13T12:36:00+01:00",
-   "title": [
-    "Navijači BiH pjevali „Ljiljane“ u avionu za Stockholm",
-    "BiH fans sang \"Ljiljani\" on the plane to Stockholm"
-   ],
-   "body": [
-    [
-     [
-      "Putnici na letu iz Minhena za Stockholm zajedno su pjevali pjesmu „Ljiljani“ Halida Bešlića.",
-      "Passengers on the flight from Munich to Stockholm sang the song \"Ljiljani\" by Halid Bešlić together."
-     ],
-     [
-      "Ta pjesma je u posljednje vrijeme postala neslužbena himna reprezentacije BiH.",
-      "That song has recently become an unofficial anthem of the BiH national team."
-     ],
-     [
-      "Kratak snimak iz aviona objavila je Sabrina Tabaković, supruga reprezentativca Harisa Tabakovića.",
-      "A short video from the plane was posted by Sabrina Tabaković, the wife of national team player Haris Tabaković."
-     ]
-    ],
-    [
-     [
-      "Na snimku se vidi kako putnici podižu ruke i pjevaju.",
-      "The video shows passengers raising their hands and singing."
-     ],
-     [
-      "Ona je na Instagramu podijelila i fotografije s aerodroma u Minhenu.",
-      "On Instagram she also shared photos from the airport in Munich."
-     ],
-     [
-      "Navijači su i na aerodromu u Banjoj Luci jutros pjevali istu pjesmu prije leta.",
-      "Fans also sang the same song at the airport in Banja Luka this morning before the flight."
-     ],
-     [
-      "Zmajevi su iz Sarajeva poletjeli u 11:00.",
-      "The Dragons took off from Sarajevo at 11:00."
-     ]
-    ],
-    [
-     [
-      "Švedska i BiH igraju u subotu u 20:45 u Solni, u Ligi nacija.",
-      "Sweden and BiH play on Saturday at 20:45 in Solna, in the Nations League."
-     ],
-     [
-      "Švedska je prva u grupi s 10 bodova, a BiH je druga s 8 bodova.",
-      "Sweden is first in the group with 10 points, and BiH is second with 8 points."
-     ],
-     [
-      "Ako pobijedi, BiH bi prije posljednjeg kola bila prva i mogla bi ući u Ligu A.",
-      "If it wins, BiH would be first before the last round and could get into League A."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "let",
-     "flight"
-    ],
-    [
-     "putnik",
-     "passenger"
-    ],
-    [
-     "pjesma",
-     "song"
-    ],
-    [
-     "himna",
-     "anthem"
-    ],
-    [
-     "snimak",
-     "video, recording"
-    ],
-    [
-     "supruga",
-     "wife"
-    ],
-    [
-     "bod",
-     "point"
     ]
    ]
   }
