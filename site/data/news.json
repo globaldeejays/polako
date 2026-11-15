@@ -1,18 +1,974 @@
 {
- "updated": "2026-11-14T18:50:00+01:00",
+ "updated": "2026-11-15T07:55:00+01:00",
  "front": [
-  "261114153",
-  "261114148",
-  "261110200",
-  "261114149",
-  "261114159",
-  "261114157",
-  "261114017",
-  "261114168",
-  "261114171",
-  "261114116"
+  "261114207",
+  "261115006",
+  "261115008",
+  "261114228",
+  "261114224",
+  "261115005",
+  "261115003",
+  "261114200",
+  "261115007",
+  "261114231"
  ],
  "articles": [
+  {
+   "id": "261115005",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/je-li-rubio-rijecima-kojima-je-zaprijetio-sudu-u-hagu-pokazao-da-mu-zakoni-nista-ne-znace-podrzao-ga-i-hegseth/261115005",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261115005.jpg",
+   "published": "2026-11-15T07:33:00+01:00",
+   "title": [
+    "Rubio zaprijetio Međunarodnom krivičnom sudu u Hagu",
+    "Rubio threatened the International Criminal Court in The Hague"
+   ],
+   "body": [
+    [
+     [
+      "Američki državni sekretar Marco Rubio u petak je oštro napao Međunarodni krivični sud u Hagu.",
+      "US Secretary of State Marco Rubio sharply attacked the International Criminal Court in The Hague on Friday."
+     ],
+     [
+      "Govorio je u Washingtonu na skupu Federalističkog društva, udruženja konzervativnih pravnika.",
+      "He spoke in Washington at a gathering of the Federalist Society, an association of conservative lawyers."
+     ],
+     [
+      "Sud je nazvao lažnim i rekao je da se stavlja iznad zakona suverenih država.",
+      "He called the court false and said that it puts itself above the laws of sovereign states."
+     ]
+    ],
+    [
+     [
+      "Rubio je kritikovao to što bi sud mogao istraživati i zatvarati američke građane.",
+      "Rubio criticised the fact that the court could investigate and imprison American citizens."
+     ],
+     [
+      "Pri tome je citirao rimskog generala Pompeja, a i sam je priznao da to nije politički korektno.",
+      "He quoted the Roman general Pompey, and he himself admitted that this was not politically correct."
+     ],
+     [
+      "Ministar odbrane Pete Hegseth podijelio je njegov govor na mreži X.",
+      "Defence Secretary Pete Hegseth shared his speech on the network X."
+     ],
+     [
+      "Dodao je poruku: „Prestanite citirati zakone ljudima s mačevima.“",
+      "He added the message: \"Stop quoting laws to men with swords.\""
+     ]
+    ],
+    [
+     [
+      "Prošlog mjeseca Trumpova administracija najavila je nove sankcije protiv suda.",
+      "Last month the Trump administration announced new sanctions against the court."
+     ],
+     [
+      "Ranije je već uvela sankcije sudijama i tužiocima tog suda.",
+      "It had already introduced sanctions against judges and prosecutors of that court."
+     ],
+     [
+      "Sud je osnovan 2002. godine da sudi za ratne zločine i genocid.",
+      "The court was founded in 2002 to try war crimes and genocide."
+     ],
+     [
+      "SAD su potpisale Rimski statut, ali ga nikada nisu ratifikovale, odnosno službeno prihvatile.",
+      "The USA signed the Rome Statute, but never ratified it, that is, officially accepted it."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "sud",
+     "court"
+    ],
+    [
+     "zaprijetiti",
+     "to threaten"
+    ],
+    [
+     "zakon",
+     "law"
+    ],
+    [
+     "sankcija",
+     "sanction"
+    ],
+    [
+     "sudija",
+     "judge"
+    ],
+    [
+     "tužilac",
+     "prosecutor"
+    ],
+    [
+     "zločin",
+     "crime"
+    ],
+    [
+     "mač",
+     "sword"
+    ]
+   ]
+  },
+  {
+   "id": "261115008",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/selektor-svedske-odao-veliko-priznanje-zmajevima-i-navijacima-bih-svaka-im-cast-bilo-je-kao-da-smo-gosti/261115008",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261115008.jpg",
+   "published": "2026-11-15T07:23:00+01:00",
+   "title": [
+    "Selektor Švedske pohvalio Zmajeve i navijače BiH",
+    "Sweden's head coach praised the Dragons and the BiH fans"
+   ],
+   "body": [
+    [
+     [
+      "Selektor Švedske Graham Potter pohvalio je igru reprezentacije BiH i njene navijače.",
+      "Sweden head coach Graham Potter praised the play of the BiH national team and its fans."
+     ],
+     [
+      "Švedska je u subotu u Solni pobijedila BiH 3:2.",
+      "Sweden beat BiH 3:2 in Solna on Saturday."
+     ],
+     [
+      "Tom pobjedom osigurala je prvo mjesto u grupi i ulazak u Ligu A.",
+      "With that win it secured first place in the group and entry into League A."
+     ]
+    ],
+    [
+     [
+      "Švedska je na poluvremenu vodila 3:0, ali su Armin Gigović i Sead Kolašinac u drugom poluvremenu postigli dva gola.",
+      "Sweden led 3:0 at half-time, but Armin Gigović and Sead Kolašinac scored two goals in the second half."
+     ],
+     [
+      "BiH je do kraja tražila gol za izjednačenje.",
+      "BiH looked for an equalising goal until the end."
+     ],
+     [
+      "Utakmicu je gledalo 51.049 ljudi, što je novi rekord švedske reprezentacije na tom stadionu.",
+      "The match was watched by 51,049 people, which is a new record for the Swedish national team at that stadium."
+     ],
+     [
+      "Mnogi od njih navijali su za BiH, pa je Potter rekao da su se Šveđani osjećali kao gosti.",
+      "Many of them supported BiH, so Potter said that the Swedes felt like guests."
+     ]
+    ],
+    [
+     [
+      "Za televiziju Viaplay rekao je da je njegov tim drugo poluvrijeme počeo previše opušteno.",
+      "He told the TV channel Viaplay that his team started the second half too relaxed."
+     ],
+     [
+      "Dodao je da BiH nikada ne odustaje i da je opasna ako dobije malo ohrabrenja.",
+      "He added that BiH never gives up and is dangerous if it gets a little encouragement."
+     ],
+     [
+      "Prema njegovim riječima, Švedska je prelako primila golove.",
+      "According to him, Sweden conceded the goals too easily."
+     ],
+     [
+      "Žrijeb za kvalifikacije za Euro bit će održan 6. decembra.",
+      "The draw for the Euro qualifiers will be held on 6 December."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "selektor",
+     "head coach of a national team"
+    ],
+    [
+     "pohvaliti",
+     "to praise"
+    ],
+    [
+     "gost",
+     "guest"
+    ],
+    [
+     "opušten",
+     "relaxed"
+    ],
+    [
+     "odustajati",
+     "to give up"
+    ],
+    [
+     "ohrabrenje",
+     "encouragement"
+    ],
+    [
+     "žrijeb",
+     "draw (of lots)"
+    ]
+   ]
+  },
+  {
+   "id": "261115007",
+   "source": "Klix.ba",
+   "section": "Zdravlje",
+   "url": "https://www.klix.ba/lifestyle/zdravlje/visak-kilograma-moze-ubrzati-slabljenje-pamcenja-i-koncentracije/261115007",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261115007.jpg",
+   "published": "2026-11-15T07:20:00+01:00",
+   "title": [
+    "Višak kilograma može brže oslabiti pamćenje",
+    "Excess weight can weaken memory faster"
+   ],
+   "body": [
+    [
+     [
+      "Novo istraživanje pokazuje da ljudi s više kilograma sa godinama brže gube pamćenje i koncentraciju.",
+      "A new study shows that people with more weight lose memory and concentration faster as they age."
+     ],
+     [
+      "Istraživanje su uradili naučnici sa Univerziteta Georgia u SAD-u.",
+      "The study was done by scientists from the University of Georgia in the USA."
+     ],
+     [
+      "Rezultati su objavljeni u časopisu Journal of Neurology.",
+      "The results were published in the Journal of Neurology."
+     ]
+    ],
+    [
+     [
+      "Naučnici su pratili više od 8.200 odraslih osoba starijih od 50 godina.",
+      "The scientists followed more than 8,200 adults older than 50."
+     ],
+     [
+      "Koristili su podatke od 1996. do 2020. godine, dakle iz perioda od 24 godine.",
+      "They used data from 1996 to 2020, so from a period of 24 years."
+     ],
+     [
+      "Svakoj osobi su više puta mjerili indeks tjelesne mase, odnosno odnos težine i visine.",
+      "They measured each person's body mass index, that is, the ratio of weight to height, several times."
+     ],
+     [
+      "Kada je taj indeks bio veći, slabljenje pamćenja i sposobnosti planiranja bilo je brže.",
+      "When that index was higher, the weakening of memory and of the ability to plan was faster."
+     ],
+     [
+      "Veza je bila najjača kod ljudi starijih od 65 godina.",
+      "The link was strongest in people older than 65."
+     ]
+    ],
+    [
+     [
+      "Autori studije kažu da ljudi koji kontrolišu težinu mogu značajno usporiti taj pad već za dvije godine.",
+      "The authors of the study say that people who control their weight can significantly slow this decline in just two years."
+     ],
+     [
+      "Studija ne dokazuje da višak kilograma direktno uzrokuje problem, ali pokazuje da je težina faktor rizika.",
+      "The study does not prove that excess weight directly causes the problem, but it shows that weight is a risk factor."
+     ],
+     [
+      "Lijeka za demenciju nema, zato je važno smanjiti svaki faktor rizika na koji možemo uticati.",
+      "There is no cure for dementia, so it is important to reduce every risk factor that we can influence."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "pamćenje",
+     "memory"
+    ],
+    [
+     "istraživanje",
+     "study, research"
+    ],
+    [
+     "naučnik",
+     "scientist"
+    ],
+    [
+     "težina",
+     "weight"
+    ],
+    [
+     "rizik",
+     "risk"
+    ],
+    [
+     "demencija",
+     "dementia"
+    ],
+    [
+     "usporiti",
+     "to slow down"
+    ],
+    [
+     "lijek",
+     "cure, medicine"
+    ]
+   ]
+  },
+  {
+   "id": "261115006",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/neocekivan-fijasko-za-svedske-legende-nakon-utakmice-sa-bih-preispitat-cemo-ubuduce-neke-stvari/261115006",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261115006.jpg",
+   "published": "2026-11-15T07:13:00+01:00",
+   "title": [
+    "Švedske legende se oprostile pred gotovo praznim tribinama",
+    "Swedish legends said goodbye in front of almost empty stands"
+   ],
+   "body": [
+    [
+     [
+      "Nakon utakmice Švedske i BiH u Solni, švedski savez je organizovao oproštaj za pet bivših reprezentativaca.",
+      "After the match between Sweden and BiH in Solna, the Swedish federation organised a farewell for five former national team players."
+     ],
+     [
+      "Riječ je o Emilu Forsbergu, Robinu Olsenu, Viktoru Claessonu, Martinu Olssonu i Emilu Krafthu.",
+      "They are Emil Forsberg, Robin Olsen, Viktor Claesson, Martin Olsson and Emil Krafth."
+     ],
+     [
+      "Ali kada je ceremonija počela, tribine su bile gotovo prazne.",
+      "But when the ceremony began, the stands were almost empty."
+     ]
+    ],
+    [
+     [
+      "Ovih pet igrača zajedno je odigralo 353 utakmice za Švedsku.",
+      "These five players together played 353 matches for Sweden."
+     ],
+     [
+      "Ceremonija je počela oko 10 minuta nakon kraja utakmice, iako je savez ranije zamolio navijače da ostanu.",
+      "The ceremony started about 10 minutes after the end of the match, although the federation had earlier asked fans to stay."
+     ],
+     [
+      "Na stadionu je bilo 51.049 gledalaca, što je rekord za mušku reprezentaciju Švedske na tom stadionu.",
+      "There were 51,049 spectators at the stadium, which is a record for Sweden's men's team at that stadium."
+     ],
+     [
+      "Švedski mediji pišu da su mnogi gledaoci navijali za BiH.",
+      "Swedish media write that many spectators were supporting BiH."
+     ]
+    ],
+    [
+     [
+      "Neki švedski listovi nazvali su oproštaj fijaskom.",
+      "Some Swedish newspapers called the farewell a fiasco."
+     ],
+     [
+      "Igrač Benjamin Nygren rekao je da je tužno što je tako ispalo.",
+      "Player Benjamin Nygren said it was sad that it turned out that way."
+     ],
+     [
+      "Petra Thorén iz saveza objasnila je da se takve ceremonije uvijek održavaju poslije utakmice, a ne na poluvremenu.",
+      "Petra Thorén from the federation explained that such ceremonies are always held after the match, not at half-time."
+     ],
+     [
+      "Dodala je da će savez u budućnosti preispitati neke stvari.",
+      "She added that the federation will reconsider some things in the future."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "oproštaj",
+     "farewell"
+    ],
+    [
+     "savez",
+     "federation, association"
+    ],
+    [
+     "tribina",
+     "stand (in a stadium)"
+    ],
+    [
+     "ceremonija",
+     "ceremony"
+    ],
+    [
+     "gledalac",
+     "spectator"
+    ],
+    [
+     "rekord",
+     "record"
+    ],
+    [
+     "preispitati",
+     "to reconsider"
+    ]
+   ]
+  },
+  {
+   "id": "261115003",
+   "source": "Klix.ba",
+   "section": "Vrijeme",
+   "url": "https://www.klix.ba/vijesti/bih/poplavljen-most-na-cesti-kladanj-brateljevici-put-zatvoren-za-sva-vozila-na-prevojima-moguca-poledica/261115003",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261115003.jpg",
+   "published": "2026-11-15T07:07:00+01:00",
+   "title": [
+    "Poplavljen most kod Kladnja, na prevojima moguća poledica",
+    "Bridge flooded near Kladanj, black ice possible on mountain passes"
+   ],
+   "body": [
+    [
+     [
+      "Most na regionalnom putu Kladanj – Brateljevići, kod mjesta Muška Voda, poplavljen je, pa je put zatvoren za sva vozila.",
+      "The bridge on the regional road Kladanj – Brateljevići, near Muška Voda, is flooded, so the road is closed to all vehicles."
+     ],
+     [
+      "To je u nedjelju ujutro objavio BIHAMK.",
+      "BIHAMK announced this on Sunday morning."
+     ],
+     [
+      "Postoji zaobilazni makadamski put, to jest put bez asfalta, ali je u lošem stanju, pa vozači trebaju voziti sporo.",
+      "There is an unpaved detour, that is, a road without asphalt, but it is in poor condition, so drivers need to drive slowly."
+     ]
+    ],
+    [
+     [
+      "Ceste u BiH su uglavnom suhe, a samo ponegdje su mokre.",
+      "Roads in BiH are mostly dry, and wet only in some places."
+     ],
+     [
+      "Zbog niskih jutarnjih temperatura na višim mjestima i na prevojima moguća je poledica.",
+      "Because of low morning temperatures in higher places and on mountain passes, black ice is possible."
+     ],
+     [
+      "U kotlinama je magla, pa je vidljivost mjestimično smanjena.",
+      "There is fog in the valleys, so visibility is reduced in places."
+     ],
+     [
+      "Na usjecima postoji opasnost od odrona kamenja.",
+      "On road cuttings there is a danger of rockfalls."
+     ]
+    ],
+    [
+     [
+      "BIHAMK savjetuje vozačima da voze oprezno.",
+      "BIHAMK advises drivers to drive carefully."
+     ],
+     [
+      "Zimska oprema je obavezna po zakonu.",
+      "Winter equipment is mandatory by law."
+     ],
+     [
+      "Na mnogim putevima zbog radova saobraćaj ide samo jednom trakom.",
+      "On many roads, because of roadworks, traffic goes in only one lane."
+     ],
+     [
+      "Na granici putnička vozila uglavnom čekaju do 30 minuta, ali zbog novog EU sistema EES čekanje može biti duže.",
+      "At the border passenger vehicles mostly wait up to 30 minutes, but because of the new EU system EES the wait can be longer."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "most",
+     "bridge"
+    ],
+    [
+     "poplavljen",
+     "flooded"
+    ],
+    [
+     "poledica",
+     "black ice"
+    ],
+    [
+     "prevoj",
+     "mountain pass"
+    ],
+    [
+     "magla",
+     "fog"
+    ],
+    [
+     "vozač",
+     "driver"
+    ],
+    [
+     "oprema",
+     "equipment"
+    ],
+    [
+     "saobraćaj",
+     "traffic"
+    ]
+   ]
+  },
+  {
+   "id": "261114231",
+   "source": "Klix.ba",
+   "section": "Tehnologija",
+   "url": "https://www.klix.ba/scitech/nauka/historijski-podvig-spacex-a-mehanicke-ruke-tornja-prvi-put-uhvatile-starship-nakon-leta-u-svemir/261114231",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261114231.jpg",
+   "published": "2026-11-14T23:33:00+01:00",
+   "title": [
+    "Toranj SpaceX-a prvi put uhvatio Starship nakon leta u svemir",
+    "SpaceX tower caught Starship for the first time after a flight to space"
+   ],
+   "body": [
+    [
+     [
+      "Kompanija SpaceX u subotu je prvi put uhvatila letjelicu Starship rukama tornja nakon leta u svemir.",
+      "On Saturday the company SpaceX for the first time caught the Starship spacecraft with the arms of a tower after a flight to space."
+     ],
+     [
+      "Letjelica se vratila na lansirnu rampu u Teksasu oko 22 sata nakon polijetanja.",
+      "The spacecraft returned to the launch pad in Texas about 22 hours after liftoff."
+     ],
+     [
+      "Mehaničke ruke tornja uhvatile su je dok se vertikalno spuštala.",
+      "The tower's mechanical arms caught it as it was coming down vertically."
+     ]
+    ],
+    [
+     [
+      "Raketa je poletjela u petak poslijepodne iz baze SpaceX-a blizu granice s Meksikom.",
+      "The rocket lifted off on Friday afternoon from the SpaceX base near the border with Mexico."
+     ],
+     [
+      "Visoka je 124 metra i smatra se najvećom raketom na svijetu.",
+      "It is 124 metres tall and is considered the largest rocket in the world."
+     ],
+     [
+      "Starship je u orbitu postavio 26 satelita Starlink i 14 puta obletio Zemlju.",
+      "Starship put 26 Starlink satellites into orbit and circled the Earth 14 times."
+     ],
+     [
+      "Prva faza rakete nije uspjela sletjeti, pa se sama uništila iznad Meksičkog zaljeva.",
+      "The first stage of the rocket failed to land, so it destroyed itself over the Gulf of Mexico."
+     ]
+    ],
+    [
+     [
+      "SpaceX kaže da je to dokaz da se Starship može koristiti više puta.",
+      "SpaceX says this is proof that Starship can be used many times."
+     ],
+     [
+      "NASA plaća milijarde dolara da Starship do kraja ove decenije odveze astronaute na Mjesec.",
+      "NASA is paying billions of dollars for Starship to take astronauts to the Moon by the end of this decade."
+     ],
+     [
+      "Šef NASA-e Jared Isaacman napisao je na mreži X da je to bilo gotovo magično.",
+      "NASA chief Jared Isaacman wrote on X that it was almost magical."
+     ],
+     [
+      "Inženjeri sada istražuju zašto prva faza nije uspjela.",
+      "Engineers are now investigating why the first stage failed."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "toranj",
+     "tower"
+    ],
+    [
+     "letjelica",
+     "spacecraft, aircraft"
+    ],
+    [
+     "svemir",
+     "space"
+    ],
+    [
+     "polijetanje",
+     "liftoff, take-off"
+    ],
+    [
+     "raketa",
+     "rocket"
+    ],
+    [
+     "satelit",
+     "satellite"
+    ],
+    [
+     "Mjesec",
+     "the Moon"
+    ],
+    [
+     "uhvatiti",
+     "to catch"
+    ]
+   ]
+  },
+  {
+   "id": "261114228",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/kerim-alajbegovic-ubili-smo-ih-u-drugom-poluvremenu-a-primili-glupe-golove/261114228",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261114228.jpg",
+   "published": "2026-11-14T23:19:00+01:00",
+   "title": [
+    "Alajbegović: Bili smo bolji u drugom poluvremenu",
+    "Alajbegović: We were better in the second half"
+   ],
+   "body": [
+    [
+     [
+      "Reprezentativac BiH Kerim Alajbegović govorio je za BHT1 nakon poraza od Švedske 3:2.",
+      "BiH national team player Kerim Alajbegović spoke to BHT1 after the 3:2 defeat by Sweden."
+     ],
+     [
+      "Utakmica je igrana u Solni, a BiH je na poluvremenu gubila 3:0.",
+      "The match was played in Solna, and BiH was losing 3:0 at half-time."
+     ],
+     [
+      "Alajbegović misli da je Švedska imala sreće i da je BiH zaslužila barem bod.",
+      "Alajbegović thinks that Sweden was lucky and that BiH deserved at least a point."
+     ]
+    ],
+    [
+     [
+      "Rekao je da su igrači u prvom poluvremenu napravili glupe greške.",
+      "He said that the players made silly mistakes in the first half."
+     ],
+     [
+      "Švedska je tada dobila dva penala i iz njih postigla dva gola.",
+      "Sweden then got two penalties and scored two goals from them."
+     ],
+     [
+      "U drugom poluvremenu BiH je bila mnogo bolja, kaže on.",
+      "In the second half BiH was much better, he says."
+     ],
+     [
+      "Alajbegović je imao asistenciju za gol Kolašinca, ali kaže da mu to malo znači nakon poraza.",
+      "Alajbegović had the assist for Kolašinac's goal, but says it means little to him after a defeat."
+     ]
+    ],
+    [
+     [
+      "Prema njegovim riječima, selektor Sergej Barbarez im je na poluvremenu rekao da igraju kao da je 0:0.",
+      "According to him, head coach Sergej Barbarez told them at half-time to play as if it were 0:0."
+     ],
+     [
+      "Pohvalio je i navijače i rekao da su navijači BiH najbolji na svijetu.",
+      "He also praised the fans and said that BiH fans are the best in the world."
+     ],
+     [
+      "Sljedeću utakmicu BiH igra kod kuće u Zenici, gdje je atmosfera uvijek luda.",
+      "BiH plays its next match at home in Zenica, where the atmosphere is always crazy."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "poraz",
+     "defeat"
+    ],
+    [
+     "greška",
+     "mistake"
+    ],
+    [
+     "penal",
+     "penalty"
+    ],
+    [
+     "zaslužiti",
+     "to deserve"
+    ],
+    [
+     "asistencija",
+     "assist"
+    ],
+    [
+     "sreća",
+     "luck"
+    ],
+    [
+     "atmosfera",
+     "atmosphere"
+    ]
+   ]
+  },
+  {
+   "id": "261114224",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/zmajevi-sigurno-u-barazu-za-ligu-a-na-putu-im-se-moze-isprijeciti-i-srbija/261114224",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261114224.jpg",
+   "published": "2026-11-14T22:59:00+01:00",
+   "title": [
+    "BiH igra baraž za Ligu A, moguć protivnik je Srbija",
+    "BiH plays a play-off for League A, Serbia is a possible opponent"
+   ],
+   "body": [
+    [
+     [
+      "Nogometna reprezentacija BiH sigurno će igrati baraž za ulazak u Ligu A Lige nacija.",
+      "The BiH football team will certainly play a play-off for entry into League A of the Nations League."
+     ],
+     [
+      "Iako je u subotu izgubila od Švedske 3:2, BiH je osigurala drugo mjesto u grupi.",
+      "Although it lost 3:2 to Sweden on Saturday, BiH secured second place in the group."
+     ],
+     [
+      "Pomogla joj je Rumunija, koja je u Bukureštu pobijedila Poljsku 2:1.",
+      "Romania helped it by beating Poland 2:1 in Bucharest."
+     ]
+    ],
+    [
+     [
+      "Švedska je prva u grupi i direktno ide u Ligu A.",
+      "Sweden is first in the group and goes directly to League A."
+     ],
+     [
+      "Protivnik BiH u baražu bit će ekipa koja je treća ili četvrta u jednoj od grupa Lige A.",
+      "BiH's opponent in the play-off will be a team that is third or fourth in one of the League A groups."
+     ],
+     [
+      "Jedna od mogućih ekipa je Srbija, koja je posljednja u svojoj grupi i još nema bodova.",
+      "One of the possible teams is Serbia, which is last in its group and still has no points."
+     ],
+     [
+      "Na listi četvrtoplasiranih ekipa prvi je Wales, a odmah iza njega je Srbija.",
+      "On the list of fourth-placed teams Wales is first, and right behind it is Serbia."
+     ]
+    ],
+    [
+     [
+      "Parovi će biti poznati nakon posljednjeg kola Lige A u utorak.",
+      "The pairings will be known after the last round of League A on Tuesday."
+     ],
+     [
+      "Žrijeb je zakazan za 20. novembar u 12:00.",
+      "The draw is scheduled for 20 November at 12:00."
+     ],
+     [
+      "Utakmice baraža igraju se od 25. do 30. marta 2027. godine, kod kuće i u gostima.",
+      "The play-off matches are played from 25 to 30 March 2027, at home and away."
+     ],
+     [
+      "Prije toga BiH u utorak igra posljednju utakmicu u grupi protiv Rumunije.",
+      "Before that, BiH plays its last group match against Romania on Tuesday."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "baraž",
+     "play-off"
+    ],
+    [
+     "protivnik",
+     "opponent"
+    ],
+    [
+     "kolo",
+     "round (of a competition)"
+    ],
+    [
+     "žrijeb",
+     "draw (of lots)"
+    ],
+    [
+     "osigurati",
+     "to secure"
+    ],
+    [
+     "ekipa",
+     "team"
+    ],
+    [
+     "bod",
+     "point"
+    ]
+   ]
+  },
+  {
+   "id": "261114207",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/zmajevi-iz-30-zamalo-do-cuda-u-stockholmu-svedani-drhtali-za-pobjedu-pred-35000-bh-navijaca/261114207",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261114207.jpg",
+   "published": "2026-11-14T22:39:00+01:00",
+   "title": [
+    "BiH izgubila 3:2 od Švedske pred 35.000 svojih navijača",
+    "BiH lost 3:2 to Sweden in front of 35,000 of its fans"
+   ],
+   "body": [
+    [
+     [
+      "Nogometna reprezentacija BiH izgubila je u subotu od Švedske 3:2 u Ligi nacija.",
+      "The Bosnia and Herzegovina football team lost 3:2 to Sweden on Saturday in the Nations League."
+     ],
+     [
+      "Utakmica je igrana na stadionu Strawberry Arena u Solni, pored Stockholma.",
+      "The match was played at the Strawberry Arena in Solna, near Stockholm."
+     ],
+     [
+      "Na tribinama je bilo oko 35.000 navijača iz BiH, pa su Zmajevi igrali kao da su kod kuće.",
+      "About 35,000 fans from BiH were in the stands, so the Dragons played as if they were at home."
+     ]
+    ],
+    [
+     [
+      "Švedska je vodila već u 5. minuti nakon gola Svenssona.",
+      "Sweden led as early as the 5th minute after a goal by Svensson."
+     ],
+     [
+      "Gyökeres je zatim dva puta zabio iz penala, pa je na poluvremenu bilo 3:0.",
+      "Gyökeres then scored twice from penalties, so it was 3:0 at half-time."
+     ],
+     [
+      "Gigović je smanjio u 47. minuti, a Kolašinac je glavom postigao gol za 3:2 u 62. minuti.",
+      "Gigović pulled one back in the 47th minute, and Kolašinac headed in the goal for 3:2 in the 62nd minute."
+     ],
+     [
+      "BiH je imala još nekoliko dobrih prilika, ali izjednačenje nije došlo.",
+      "BiH had several more good chances, but the equaliser did not come."
+     ]
+    ],
+    [
+     [
+      "Selektor Sergej Barbarez bio je ljut na italijanskog sudiju Simonea Sozzu.",
+      "Head coach Sergej Barbarez was angry with the Italian referee Simone Sozza."
+     ],
+     [
+      "Član stručnog štaba Zlatan Bajramović dobio je crveni karton.",
+      "Coaching staff member Zlatan Bajramović got a red card."
+     ],
+     [
+      "Švedska sada ima 13 bodova i sigurno je prva u grupi.",
+      "Sweden now has 13 points and is certain to finish first in the group."
+     ],
+     [
+      "BiH posljednju utakmicu u grupi igra protiv Rumunije.",
+      "BiH plays its last group match against Romania."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "reprezentacija",
+     "national team"
+    ],
+    [
+     "navijač",
+     "fan, supporter"
+    ],
+    [
+     "tribina",
+     "stand (in a stadium)"
+    ],
+    [
+     "penal",
+     "penalty"
+    ],
+    [
+     "poluvrijeme",
+     "half-time, half"
+    ],
+    [
+     "izjednačenje",
+     "equaliser"
+    ],
+    [
+     "sudija",
+     "referee, judge"
+    ],
+    [
+     "bod",
+     "point"
+    ]
+   ]
+  },
+  {
+   "id": "261114200",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/film-tv/zasto-su-kriticari-odusevljeni-dokumentarcem-you-can-see-everything/261114200",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261114200.jpg",
+   "published": "2026-11-14T21:08:00+01:00",
+   "title": [
+    "Kritičari oduševljeni dokumentarcem o Elizabeth Holmes",
+    "Critics delighted with the documentary about Elizabeth Holmes"
+   ],
+   "body": [
+    [
+     [
+      "Dokumentarni film „You Can See Everything“ kritičari hvale kao jedan od najboljih filmova godine.",
+      "Critics praise the documentary \"You Can See Everything\" as one of the best films of the year."
+     ],
+     [
+      "Režirali su ga Nathan Fielder i Lance Oppenheim, a producent je kompanija A24.",
+      "It was directed by Nathan Fielder and Lance Oppenheim, and the producer is the company A24."
+     ],
+     [
+      "Film je u američka kina došao 16. oktobra.",
+      "The film came to American cinemas on 16 October."
+     ]
+    ],
+    [
+     [
+      "Film prati Elizabeth Holmes, osnivačicu kompanije Theranos.",
+      "The film follows Elizabeth Holmes, the founder of the company Theranos."
+     ],
+     [
+      "Ona je tvrdila da može uraditi desetine testova iz nekoliko kapi krvi, ali tehnologija nije radila.",
+      "She claimed that she could do dozens of tests from a few drops of blood, but the technology did not work."
+     ],
+     [
+      "Zbog prevare investitora 2022. godine osuđena je na više od 11 godina zatvora.",
+      "For defrauding investors she was sentenced in 2022 to more than 11 years in prison."
+     ],
+     [
+      "Prije nego što je otišla u zatvor, pozvala je Fieldera da snima njen svakodnevni život.",
+      "Before she went to prison, she invited Fielder to film her everyday life."
+     ]
+    ],
+    [
+     [
+      "Na stranici Metacritic film ima ocjenu 97 od 100, a na Rotten Tomatoes 96 posto pozitivnih kritika.",
+      "On Metacritic the film has a score of 97 out of 100, and on Rotten Tomatoes 96 percent positive reviews."
+     ],
+     [
+      "Kritičari kažu da film postavlja pitanje koliko možemo vjerovati onome što vidimo.",
+      "Critics say that the film asks how much we can trust what we see."
+     ],
+     [
+      "Na dodjeli nagrada Critics Choice 8. novembra u New Yorku osvojio je svih pet nagrada za koje je bio nominovan.",
+      "At the Critics Choice awards on 8 November in New York it won all five awards it was nominated for."
+     ],
+     [
+      "U Sjevernoj Americi zaradio je skoro 80 miliona dolara, što je rijetko za dokumentarac od skoro tri sata.",
+      "In North America it earned almost 80 million dollars, which is rare for a documentary of almost three hours."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "kritičar",
+     "critic"
+    ],
+    [
+     "dokumentarac",
+     "documentary"
+    ],
+    [
+     "prevara",
+     "fraud"
+    ],
+    [
+     "zatvor",
+     "prison"
+    ],
+    [
+     "ocjena",
+     "score, grade"
+    ],
+    [
+     "nagrada",
+     "award"
+    ],
+    [
+     "zaraditi",
+     "to earn"
+    ]
+   ]
+  },
   {
    "id": "261114171",
    "source": "Klix.ba",
@@ -4730,954 +5686,6 @@
     [
      "uspjeh",
      "success"
-    ]
-   ]
-  },
-  {
-   "id": "261113009",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/regija/studenti-najavili-prekid-trgovine-oruzjem-s-izraelom-i-gasenje-fabrike-dronova-ono-sto-rade-je-mrlja-covjecanstvu/261113009",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261113009.jpg",
-   "published": "2026-11-13T07:10:00+01:00",
-   "title": [
-    "Studenti u Srbiji žele prekinuti trgovinu oružjem s Izraelom",
-    "Students in Serbia want to stop the arms trade with Israel"
-   ],
-   "body": [
-    [
-     [
-      "Studentska lista u Srbiji najavila je da bi prekinula trgovinu oružjem s Izraelom.",
-      "The Student List in Serbia announced that it would stop the arms trade with Israel."
-     ],
-     [
-      "To je rekao Filip Ubović, student i predstavnik pokreta, u podcastu britanskog novinara Arona Bastanija.",
-      "This was said by Filip Ubović, a student and representative of the movement, on the podcast of British journalist Aron Bastani."
-     ],
-     [
-      "Pokret želi zaustaviti i projekat izraelske fabrike dronova u Srbiji.",
-      "The movement also wants to stop the project of an Israeli drone factory in Serbia."
-     ]
-    ],
-    [
-     [
-      "Ubović je rekao da je ono što se tamo događa mrlja na čovječanstvu.",
-      "Ubović said that what is happening there is a stain on humanity."
-     ],
-     [
-      "Fabriku je predsjednik Aleksandar Vučić otvorio u septembru.",
-      "President Aleksandar Vučić opened the factory in September."
-     ],
-     [
-      "Izraelska kompanija Elbit Systems ima 51 posto fabrike, a srpska državna firma Yugoimport 49 posto.",
-      "The Israeli company Elbit Systems owns 51 percent of the factory, and the Serbian state firm Yugoimport 49 percent."
-     ],
-     [
-      "Prema BIRN-u, izvoz oružja iz Srbije u Izrael od 2023. porastao je 42 puta, na 114 miliona eura.",
-      "According to BIRN, arms exports from Serbia to Israel have grown 42 times since 2023, to 114 million euros."
-     ]
-    ],
-    [
-     [
-      "Vučić je na Instagramu rekao da strane službe žele uništiti srpsku vojnu industriju.",
-      "Vučić said on Instagram that foreign services want to destroy the Serbian military industry."
-     ],
-     [
-      "Bivša premijerka Ana Brnabić upozorila je da bi više od 20.000 radnika moglo ostati bez posla.",
-      "Former prime minister Ana Brnabić warned that more than 20,000 workers could lose their jobs."
-     ],
-     [
-      "Nova Narodna skupština Srbije prvi put će se sastati u utorak.",
-      "The new National Assembly of Serbia will meet for the first time on Tuesday."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "trgovina",
-     "trade"
-    ],
-    [
-     "oružje",
-     "weapons"
-    ],
-    [
-     "fabrika",
-     "factory"
-    ],
-    [
-     "dron",
-     "drone"
-    ],
-    [
-     "pokret",
-     "movement"
-    ],
-    [
-     "izvoz",
-     "export"
-    ],
-    [
-     "radnik",
-     "worker"
-    ],
-    [
-     "upozoriti",
-     "to warn"
-    ]
-   ]
-  },
-  {
-   "id": "261113006",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/nauka/veliki-pad-microsoft-servisa-outlook-teams-i-copilot-ne-rade-satima/261113006",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261113006.jpg",
-   "published": "2026-11-13T06:40:00+01:00",
-   "title": [
-    "Veliki kvar: Outlook i Teams satima ne rade",
-    "Major outage: Outlook and Teams down for hours"
-   ],
-   "body": [
-    [
-     [
-      "Microsoft 365 usluge imaju veliki kvar od četvrtka navečer, a problemi se nastavljaju i u petak ujutro.",
-      "Microsoft 365 services have had a major outage since Thursday evening, and the problems are continuing on Friday morning."
-     ],
-     [
-      "Korisnici širom svijeta ne mogu normalno koristiti Outlook, Teams, SharePoint i Copilot.",
-      "Users around the world cannot use Outlook, Teams, SharePoint and Copilot normally."
-     ],
-     [
-      "Microsoft je rekao da problem može imati svako, u bilo kojoj regiji.",
-      "Microsoft said that anyone, in any region, could have the problem."
-     ]
-    ],
-    [
-     [
-      "Kompanija je problem potvrdila u četvrtak, malo prije 19 sati po lokalnom vremenu.",
-      "The company confirmed the problem on Thursday, shortly before 19:00 local time."
-     ],
-     [
-      "Na stranici Downdetector skoro 130.000 korisnika prijavilo je probleme s Outlookom.",
-      "On the Downdetector site, almost 130,000 users reported problems with Outlook."
-     ],
-     [
-      "Prvo se govorilo o većem opterećenju, ali uzrok je bio drugi.",
-      "At first there was talk of a higher load, but the cause was something else."
-     ],
-     [
-      "Neki serveri su neočekivano prestali raditi, pa su ostali serveri bili preopterećeni.",
-      "Some servers unexpectedly stopped working, so the other servers were overloaded."
-     ]
-    ],
-    [
-     [
-      "Inženjeri su promet preusmjerili na servere u drugim dijelovima svijeta i ponovo pokrenuli neispravne servere.",
-      "Engineers rerouted traffic to servers in other parts of the world and restarted the faulty servers."
-     ],
-     [
-      "Microsoft kaže da se usluge polako vraćaju, ali nije rekao kada će sve raditi.",
-      "Microsoft says that the services are slowly coming back, but it did not say when everything will work."
-     ],
-     [
-      "Kompanija ne vjeruje da je kvar izazvao hakerski napad.",
-      "The company does not believe that the outage was caused by a hacker attack."
-     ],
-     [
-      "Prema agenciji Reuters, kvar je pogodio i veze koje AI usluge OpenAI i Anthropic koriste za Microsoft 365.",
-      "According to the Reuters agency, the outage also hit the connections that the AI services OpenAI and Anthropic use for Microsoft 365."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "kvar",
-     "outage, breakdown"
-    ],
-    [
-     "usluga",
-     "service"
-    ],
-    [
-     "korisnik",
-     "user"
-    ],
-    [
-     "server",
-     "server"
-    ],
-    [
-     "opterećenje",
-     "load"
-    ],
-    [
-     "uzrok",
-     "cause"
-    ],
-    [
-     "inženjer",
-     "engineer"
-    ],
-    [
-     "napad",
-     "attack"
-    ]
-   ]
-  },
-  {
-   "id": "261113005",
-   "source": "Klix.ba",
-   "section": "Vrijeme",
-   "url": "https://www.klix.ba/vijesti/bih/zbog-jakih-padavina-u-hercegovini-moguca-izlijevanja-rijeka-bujice-i-urbane-poplave/261113005",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261113005.jpg",
-   "published": "2026-11-13T06:38:00+01:00",
-   "title": [
-    "Jaka kiša u Hercegovini: moguće su poplave",
-    "Heavy rain in Herzegovina: floods are possible"
-   ],
-   "body": [
-    [
-     [
-      "U Hercegovini se od 13. do 16. novembra očekuju vrlo jake padavine.",
-      "Very heavy rainfall is expected in Herzegovina from 13 to 16 November."
-     ],
-     [
-      "Zbog toga bi rijeke mogle porasti, a na nekim mjestima moguće su i poplave.",
-      "Because of that the rivers could rise, and in some places floods are also possible."
-     ],
-     [
-      "Za ovo područje izdato je narandžasto upozorenje.",
-      "An orange warning has been issued for this area."
-     ]
-    ],
-    [
-     [
-      "Najveći rizik je u slivu Neretve, u slivu rijeka Tihaljine, Mlade i Trebižata, te na rijeci Vrioštici.",
-      "The biggest risk is in the Neretva basin, in the basin of the rivers Tihaljina, Mlade and Trebižat, and on the river Vrioštica."
-     ],
-     [
-      "Manji potoci mogli bi se izliti, a moguće su bujice i poplave u gradovima.",
-      "Smaller streams could overflow, and flash floods and floods in towns are possible."
-     ],
-     [
-      "Bujica je nagla i brza voda koja nastaje nakon jake kiše.",
-      "A flash flood is sudden, fast water that forms after heavy rain."
-     ],
-     [
-      "Očekuju se viši nivo vode i brži tok rijeka.",
-      "Higher water levels and faster river flow are expected."
-     ]
-    ],
-    [
-     [
-      "Agencija za vodno područje Jadranskog mora pozvala je nadležne da prate situaciju.",
-      "The Agency for the Adriatic Sea Water Area called on the authorities to monitor the situation."
-     ],
-     [
-      "Civilna zaštita treba upozoriti stanovnike koji žive blizu rijeka da se ne približavaju obali.",
-      "Civil protection should warn residents who live near rivers not to approach the riverbank."
-     ],
-     [
-      "Ljudi bi trebali na vrijeme dobiti savjete kako smanjiti moguću štetu.",
-      "People should receive advice in time on how to reduce possible damage."
-     ],
-     [
-      "Narandžasto upozorenje zbog vjetra i kiše izdato je i za Sarajevo.",
-      "An orange warning for wind and rain has also been issued for Sarajevo."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "padavine",
-     "rainfall, precipitation"
-    ],
-    [
-     "poplava",
-     "flood"
-    ],
-    [
-     "upozorenje",
-     "warning"
-    ],
-    [
-     "sliv",
-     "river basin"
-    ],
-    [
-     "bujica",
-     "flash flood"
-    ],
-    [
-     "nivo",
-     "level"
-    ],
-    [
-     "obala",
-     "bank, shore"
-    ],
-    [
-     "šteta",
-     "damage"
-    ]
-   ]
-  },
-  {
-   "id": "261113002",
-   "source": "Klix.ba",
-   "section": "Biznis",
-   "url": "https://www.klix.ba/biznis/ekonomija/fbi-zaplijenio-vise-od-12-milijarde-dolara-iz-najvece-kripto-pljacke-u-historiji/261113002",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261113002.jpg",
-   "published": "2026-11-13T06:24:00+01:00",
-   "title": [
-    "FBI zaplijenio 1,2 milijarde dolara ukradenih kriptovaluta",
-    "FBI seizes 1.2 billion dollars of stolen cryptocurrency"
-   ],
-   "body": [
-    [
-     [
-      "Američko Ministarstvo pravde dobilo je dozvolu suda da zaplijeni ili blokira više od 1,2 milijarde dolara u kriptovalutama.",
-      "The US Department of Justice got permission from a court to seize or block more than 1.2 billion dollars in cryptocurrencies."
-     ],
-     [
-      "Novac je prošlog mjeseca ukraden s Binancea, najveće kripto berze na svijetu.",
-      "The money was stolen last month from Binance, the biggest crypto exchange in the world."
-     ],
-     [
-      "FBI kaže da iza krađe stoji sjevernokorejska hakerska grupa TraderTraitor.",
-      "The FBI says that the North Korean hacker group TraderTraitor is behind the theft."
-     ]
-    ],
-    [
-     [
-      "Ukradeno je oko 6,3 milijarde dolara, pa je to najveća kripto pljačka u historiji.",
-      "About 6.3 billion dollars was stolen, so it is the biggest crypto robbery in history."
-     ],
-     [
-      "Vlada SAD-a i privatne kompanije do sada su zamrznule više od 2,7 milijardi dolara.",
-      "The US government and private companies have so far frozen more than 2.7 billion dollars."
-     ],
-     [
-      "U ovakvim slučajevima sudija na kraju odlučuje ko ima pravo na vraćeni novac.",
-      "In cases like this, a judge decides in the end who has the right to the recovered money."
-     ]
-    ],
-    [
-     [
-      "Istog dana FBI je Sjevernu Koreju optužio i za drugu prevaru, koja se zove FaceStealer.",
-      "On the same day the FBI also accused North Korea of another scam, which is called FaceStealer."
-     ],
-     [
-      "Kroz nju je u posljednjih 18 mjeseci ukradeno oko 400 miliona dolara u kriptovalutama.",
-      "Through it, about 400 million dollars in cryptocurrencies has been stolen in the last 18 months."
-     ],
-     [
-      "Hakeri preuzimaju aplikacije za poruke i prave lažne video snimke, takozvane deepfake videe.",
-      "The hackers take over messaging apps and make fake video recordings, so-called deepfake videos."
-     ],
-     [
-      "Američki zvaničnici kažu da Sjeverna Koreja tim novcem finansira svoj program oružja.",
-      "American officials say that North Korea funds its weapons programme with that money."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "zaplijeniti",
-     "to seize"
-    ],
-    [
-     "kriptovaluta",
-     "cryptocurrency"
-    ],
-    [
-     "ukrasti",
-     "to steal"
-    ],
-    [
-     "berza",
-     "exchange"
-    ],
-    [
-     "krađa",
-     "theft"
-    ],
-    [
-     "pljačka",
-     "robbery"
-    ],
-    [
-     "zamrznuti",
-     "to freeze"
-    ],
-    [
-     "prevara",
-     "scam, fraud"
-    ]
-   ]
-  },
-  {
-   "id": "261112341",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/nauka/amerika-otvara-vrata-zabranjenom-psihodeliku-ibogain-testiraju-kao-lijek-za-ptsp-i-ovisnost-o-opioidima/261112341",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261112341.jpg",
-   "published": "2026-11-12T23:31:00+01:00",
-   "title": [
-    "SAD daju novac za istraživanje zabranjene droge ibogain",
-    "US gives money for research on the banned drug ibogaine"
-   ],
-   "body": [
-    [
-     [
-      "Američko ministarstvo zdravlja dat će do 4,9 miliona dolara za razvoj ibogaina kao mogućeg lijeka.",
-      "The US Department of Health will give up to 4.9 million dollars for the development of ibogaine as a possible medicine."
-     ],
-     [
-      "Ibogain je psihodelična droga koja dolazi iz afričke biljke iboga i u SAD-u je zabranjena.",
-      "Ibogaine is a psychedelic drug that comes from the African iboga plant, and it is banned in the US."
-     ],
-     [
-      "Istraživači žele vidjeti može li pomoći veteranima koji imaju PTSP, poremećaj nakon teškog stresa.",
-      "Researchers want to see whether it can help veterans who have PTSD, a disorder after severe stress."
-     ]
-    ],
-    [
-     [
-      "Novac će biti podijeljen kroz pet godina preko agencije ARPA-H.",
-      "The money will be distributed over five years through the agency ARPA-H."
-     ],
-     [
-      "Istraživanje vodi farmaceutska kompanija milijardera Marka Cubana.",
-      "The research is led by the pharmaceutical company of billionaire Mark Cuban."
-     ],
-     [
-      "Kompanija Beond dat će podatke o sigurnosti, dozama i djelovanju ibogaina.",
-      "The company Beond will provide data on the safety, doses and effects of ibogaine."
-     ],
-     [
-      "Ministarstvo je najavilo i novac za istraživanje ibogaina kao lijeka za ovisnost o opioidima.",
-      "The ministry also announced money for research on ibogaine as a medicine for opioid addiction."
-     ]
-    ],
-    [
-     [
-      "Ministarstvo naglašava da novac nije za liječenje pacijenata i da FDA nije odobrila lijek.",
-      "The ministry stresses that the money is not for treating patients and that the FDA has not approved the medicine."
-     ],
-     [
-      "Novac je za pripremu kliničkih ispitivanja i za proizvodnju ibogaina u SAD-u.",
-      "The money is for preparing clinical trials and for producing ibogaine in the US."
-     ],
-     [
-      "Ibogain može izazvati opasne probleme sa srčanim ritmom, pa bi pacijente trebalo pažljivo pratiti.",
-      "Ibogaine can cause dangerous problems with heart rhythm, so patients would need to be carefully monitored."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "zabranjen",
-     "banned"
-    ],
-    [
-     "droga",
-     "drug"
-    ],
-    [
-     "biljka",
-     "plant"
-    ],
-    [
-     "poremećaj",
-     "disorder"
-    ],
-    [
-     "ovisnost",
-     "addiction"
-    ],
-    [
-     "odobriti",
-     "to approve"
-    ],
-    [
-     "ispitivanje",
-     "trial, testing"
-    ],
-    [
-     "proizvodnja",
-     "production"
-    ]
-   ]
-  },
-  {
-   "id": "261112357",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/muzika/muhamed-fazlagic-fazla-sjajnim-nastupom-u-slogi-odusevio-sarajlije-hitove-pjevali-s-njim-u-glas/261112357",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261112357.jpg",
-   "published": "2026-11-12T23:03:00+01:00",
-   "title": [
-    "Fazla oduševio publiku na koncertu u Slogi",
-    "Fazla thrills the audience at a concert in Sloga"
-   ],
-   "body": [
-    [
-     [
-      "Pjevač i kompozitor Muhamed Fazlagić Fazla održao je koncert u sarajevskom klubu Cinemas Sloga.",
-      "Singer and composer Muhamed Fazlagić Fazla held a concert in the Sarajevo club Cinemas Sloga."
-     ],
-     [
-      "Publika ga je dočekala dugim aplauzom i pjevala je s njim njegove poznate pjesme.",
-      "The audience welcomed him with long applause and sang his well-known songs with him."
-     ],
-     [
-      "Ljudi su plesali i uživali u muzici i atmosferi.",
-      "People danced and enjoyed the music and the atmosphere."
-     ]
-    ],
-    [
-     [
-      "Fazla je izveo mnoge hitove iz svoje karijere.",
-      "Fazla performed many hits from his career."
-     ],
-     [
-      "Među njima su bile pjesme \"Sva bol svijeta\", \"Kiša ruši grad\" i \"Linija života\".",
-      "Among them were the songs \"Sva bol svijeta\", \"Kiša ruši grad\" and \"Linija života\"."
-     ],
-     [
-      "Na koncertu je sa suprugom bio i član Predsjedništva BiH Željko Komšić.",
-      "Member of the BiH Presidency Željko Komšić was also at the concert with his wife."
-     ]
-    ],
-    [
-     [
-      "Koncert je najavio krajem oktobra novom pjesmom i spotom \"Zauvijek suđeni\".",
-      "He announced the concert at the end of October with a new song and music video, \"Zauvijek suđeni\"."
-     ],
-     [
-      "Muziku je napisao sam, a tekst je napisao Admir Srabović.",
-      "He wrote the music himself, and Admir Srabović wrote the lyrics."
-     ],
-     [
-      "Početkom novembra predstavio je i novi spot za pjesmu \"Linija života\".",
-      "At the beginning of November he also presented a new music video for the song \"Linija života\"."
-     ],
-     [
-      "Ta pjesma je prvi put izašla 1993. godine na njegovom prvom albumu, a sada ima novi aranžman.",
-      "That song first came out in 1993 on his first album, and now it has a new arrangement."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "pjevač",
-     "singer"
-    ],
-    [
-     "koncert",
-     "concert"
-    ],
-    [
-     "publika",
-     "audience"
-    ],
-    [
-     "pjesma",
-     "song"
-    ],
-    [
-     "izvesti",
-     "to perform"
-    ],
-    [
-     "spot",
-     "music video"
-    ],
-    [
-     "tekst",
-     "lyrics, text"
-    ],
-    [
-     "aranžman",
-     "arrangement"
-    ]
-   ]
-  },
-  {
-   "id": "261112296",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/pao-vojni-helikopter-u-turskoj-poginula-cetiri-vojnika-vatra-zahvatila-i-kucu/261112296",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261112296.jpg",
-   "published": "2026-11-12T18:35:00+01:00",
-   "title": [
-    "U Turskoj pao vojni helikopter, poginula četiri vojnika",
-    "Military helicopter crashes in Turkey, four soldiers killed"
-   ],
-   "body": [
-    [
-     [
-      "U Turskoj se u četvrtak srušio vojni helikopter, a sva četiri vojnika u njemu su poginula.",
-      "A military helicopter crashed in Turkey on Thursday, and all four soldiers on board were killed."
-     ],
-     [
-      "Nesreća se dogodila oko 18:45 po lokalnom vremenu, u selu Samankoy u provinciji Malatya.",
-      "The accident happened at around 18:45 local time, in the village of Samankoy in Malatya province."
-     ],
-     [
-      "U BiH je tada bilo 16:45.",
-      "In BiH it was 16:45 at the time."
-     ]
-    ],
-    [
-     [
-      "Helikopter tipa S-70 bio je na zadatku i pripadao je jednom puku kopnene vojske.",
-      "The S-70 helicopter was on a mission and belonged to an army regiment."
-     ],
-     [
-      "Nakon pada izbio je požar, koji je zahvatio i jednu kuću u blizini.",
-      "After the crash a fire broke out, which also spread to a nearby house."
-     ],
-     [
-      "Vatrogasci su ugasili vatru, a na mjesto su stigle i hitna pomoć i turska služba za katastrofe.",
-      "Firefighters put out the fire, and ambulances and the Turkish disaster service also arrived at the scene."
-     ],
-     [
-      "Turski mediji objavili su i snimak nesreće.",
-      "Turkish media also published a video of the accident."
-     ]
-    ],
-    [
-     [
-      "Tursko ministarstvo odbrane saopćilo je da uzrok nesreće još nije poznat.",
-      "The Turkish defence ministry said that the cause of the accident is not yet known."
-     ],
-     [
-      "Ministarstvo je izrazilo saučešće porodicama poginulih vojnika, ali njihova imena još nisu objavljena.",
-      "The ministry expressed condolences to the families of the killed soldiers, but their names have not yet been published."
-     ],
-     [
-      "Policija i vojska sada istražuju šta se dogodilo.",
-      "The police and the army are now investigating what happened."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "helikopter",
-     "helicopter"
-    ],
-    [
-     "vojnik",
-     "soldier"
-    ],
-    [
-     "poginuti",
-     "to be killed"
-    ],
-    [
-     "nesreća",
-     "accident"
-    ],
-    [
-     "požar",
-     "fire"
-    ],
-    [
-     "uzrok",
-     "cause"
-    ],
-    [
-     "saučešće",
-     "condolences"
-    ],
-    [
-     "vatrogasac",
-     "firefighter"
-    ]
-   ]
-  },
-  {
-   "id": "261112177",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/kosarka/kk-bosna-privremeno-seli-iz-zetre-iliriju-ce-docekati-na-grbavici/261112177",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261112177.jpg",
-   "published": "2026-11-12T18:31:00+01:00",
-   "title": [
-    "KK Bosna zbog bazara vjerovatno igra na Grbavici",
-    "Because of a bazaar, KK Bosna will probably play at Grbavica"
-   ],
-   "body": [
-    [
-     [
-      "Košarkaši Bosne BH Telecom vjerovatno će jednu utakmicu ABA lige igrati izvan dvorane Zetra.",
-      "The basketball players of Bosna BH Telecom will probably play one ABA League game outside the Zetra arena."
-     ],
-     [
-      "Protiv Ilirije u 9. kolu trebali bi igrati u dvorani \"Goran Čengić\" na Grbavici.",
-      "They should play against Ilirija in round 9 in the \"Goran Čengić\" hall at Grbavica."
-     ],
-     [
-      "Razlog je Diplomatski zimski bazar, koji počinje u Zetri u subotu u 11 sati.",
-      "The reason is the Diplomatic Winter Bazaar, which starts in Zetra on Saturday at 11 o'clock."
-     ]
-    ],
-    [
-     [
-      "Bosna u nedjelju u Zetri dočekuje Megu, a sljedeće sedmice igra dvije utakmice.",
-      "On Sunday, Bosna hosts Mega in Zetra, and next week it plays two games."
-     ],
-     [
-      "U srijedu, 18. novembra, igra protiv Lietkabelisa u Eurocupu.",
-      "On Wednesday, 18 November, it plays against Lietkabelis in the Eurocup."
-     ],
-     [
-      "Utakmica s Ilirijom bila je planirana za sljedeći dan, ali je pomjerena na petak, jer su dvije utakmice zaredom preteške za igrače.",
-      "The game with Ilirija was planned for the next day, but it was moved to Friday, because two games in a row are too hard for the players."
-     ],
-     [
-      "ABA liga je utakmicu zakazala za 20 sati.",
-      "The ABA League scheduled the game for 20:00."
-     ]
-    ],
-    [
-     [
-      "Štandovi za bazar moraju se postaviti dan ranije, pa Zetra u petak navečer neće biti slobodna.",
-      "The stalls for the bazaar must be set up a day earlier, so Zetra will not be free on Friday evening."
-     ],
-     [
-      "Na stranici ABA lige kao mjesto utakmice već piše dvorana na Grbavici.",
-      "The ABA League website already lists the hall at Grbavica as the venue of the game."
-     ],
-     [
-      "Ipak, Klix.ba navodi da bi se mjesto još moglo promijeniti.",
-      "However, Klix.ba states that the venue could still change."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "košarkaš",
-     "basketball player"
-    ],
-    [
-     "dvorana",
-     "hall, arena"
-    ],
-    [
-     "kolo",
-     "round (of a league)"
-    ],
-    [
-     "bazar",
-     "bazaar"
-    ],
-    [
-     "štand",
-     "stall"
-    ],
-    [
-     "zaredom",
-     "in a row"
-    ],
-    [
-     "pomjeriti",
-     "to move, to postpone"
-    ],
-    [
-     "zakazati",
-     "to schedule"
-    ]
-   ]
-  },
-  {
-   "id": "261112295",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/film-tv/quentin-tarantino-je-prije-snimanja-filma-nemilosrdni-gadovi-otpustio-dvije-glumice-ne-dugujem-im-nista/261112295",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261112295.jpg",
-   "published": "2026-11-12T18:28:00+01:00",
-   "title": [
-    "Tarantino otkrio da je prije snimanja otpustio dvije glumice",
-    "Tarantino reveals he fired two actresses before filming"
-   ],
-   "body": [
-    [
-     [
-      "Režiser Quentin Tarantino otkrio je da je prije snimanja filma \"Nemilosrdni gadovi\" otpustio dvije glumice.",
-      "Director Quentin Tarantino has revealed that he fired two actresses before shooting the film \"Inglourious Basterds\"."
-     ],
-     [
-      "O tome govori u novoj knjizi Jaya Glenniea o nastanku filma.",
-      "He talks about it in a new book by Jay Glennie about the making of the film."
-     ],
-     [
-      "Film je izašao 2009. godine i zaradio je 321 milion dolara.",
-      "The film came out in 2009 and earned 321 million dollars."
-     ]
-    ],
-    [
-     [
-      "Prva je bila Mélanie Laurent, koja je loše odigrala prvo čitanje scenarija.",
-      "The first was Mélanie Laurent, who performed badly at the first reading of the script."
-     ],
-     [
-      "Nekoliko dana kasnije nazvala je Tarantina i ponudila da sama plati put i hotel kako bi dobila novu priliku.",
-      "A few days later she called Tarantino and offered to pay for the trip and hotel herself to get a new chance."
-     ],
-     [
-      "Režiser je pristao, a nakon tri dana proba vratio joj je ulogu Shosanne.",
-      "The director agreed, and after three days of rehearsals he gave her back the role of Shosanna."
-     ],
-     [
-      "Isabelle Huppert nije došla na čitanje, a bilo je i problema s njenim ugovorom, pa je ulogu dobila Maggie Cheung.",
-      "Isabelle Huppert did not come to the reading, and there were also problems with her contract, so Maggie Cheung got the role."
-     ]
-    ],
-    [
-     [
-      "Na kraju su sve scene s tim likom izbačene iz filma.",
-      "In the end, all scenes with that character were cut from the film."
-     ],
-     [
-      "Tarantino je rekao da glumcima ne duguje ništa, ali da filmu duguje najbolje glumce koje može naći.",
-      "Tarantino said that he owes the actors nothing, but that he owes the film the best actors he can find."
-     ],
-     [
-      "Za Laurent je dodao da je odlično odigrala ulogu.",
-      "About Laurent he added that she played the role excellently."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "režiser",
-     "director"
-    ],
-    [
-     "glumica",
-     "actress"
-    ],
-    [
-     "otpustiti",
-     "to fire, to dismiss"
-    ],
-    [
-     "snimanje",
-     "filming"
-    ],
-    [
-     "scenarij",
-     "script"
-    ],
-    [
-     "uloga",
-     "role"
-    ],
-    [
-     "proba",
-     "rehearsal"
-    ],
-    [
-     "ugovor",
-     "contract"
-    ]
-   ]
-  },
-  {
-   "id": "261112265",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/nauka/nista-od-saradnje-s-nasa-om-vijece-ministara-zaustavilo-pristupanje-bh-skola-medunarodnom-naucnom-programu/261112265",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261112265.jpg",
-   "published": "2026-11-12T18:11:00+01:00",
-   "title": [
-    "Vijeće ministara zaustavilo saradnju škola s NASA-om",
-    "Council of Ministers stops schools' cooperation with NASA"
-   ],
-   "body": [
-    [
-     [
-      "Vijeće ministara BiH na današnjoj sjednici nije prihvatilo prijedlog za sporazum s američkom svemirskom agencijom NASA.",
-      "At today's session, the BiH Council of Ministers did not accept the proposal for an agreement with the American space agency NASA."
-     ],
-     [
-      "Sporazum je trebalo da potpiše Ministarstvo civilnih poslova BiH.",
-      "The agreement was to be signed by the BiH Ministry of Civil Affairs."
-     ],
-     [
-      "Zbog toga škole iz BiH zasad neće službeno učestvovati u programu GLOBE.",
-      "Because of this, schools from BiH will not officially take part in the GLOBE programme for now."
-     ]
-    ],
-    [
-     [
-      "GLOBE je međunarodni obrazovni i naučni program koji podržava NASA.",
-      "GLOBE is an international educational and scientific programme supported by NASA."
-     ],
-     [
-      "On povezuje škole, učenike, nastavnike i naučnike u više od 125 zemalja.",
-      "It connects schools, pupils, teachers and scientists in more than 125 countries."
-     ],
-     [
-      "Učenici u programu prate okoliš i klimatske promjene, a podatke dijele s naučnicima širom svijeta.",
-      "Pupils in the programme monitor the environment and climate change, and share data with scientists around the world."
-     ],
-     [
-      "Nastavnici dobijaju dodatnu obuku i nove metode rada.",
-      "Teachers get extra training and new working methods."
-     ]
-    ],
-    [
-     [
-      "Ministarstvo je pokrenulo ovaj proces jer želi da škole iz cijele BiH uđu u mrežu.",
-      "The ministry started this process because it wants schools from all of BiH to join the network."
-     ],
-     [
-      "U članku nije navedeno zašto je Vijeće ministara odbilo prijedlog.",
-      "The article does not state why the Council of Ministers rejected the proposal."
-     ],
-     [
-      "Iz ministarstva su poručili da će nastaviti raditi kako bi škole i naučne institucije mogle ući u međunarodne programe.",
-      "The ministry said that it will continue working so that schools and scientific institutions can join international programmes."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "sporazum",
-     "agreement"
-    ],
-    [
-     "sjednica",
-     "session"
-    ],
-    [
-     "učenik",
-     "pupil"
-    ],
-    [
-     "nastavnik",
-     "teacher"
-    ],
-    [
-     "naučnik",
-     "scientist"
-    ],
-    [
-     "okoliš",
-     "environment"
-    ],
-    [
-     "mreža",
-     "network"
-    ],
-    [
-     "odbiti",
-     "to reject"
     ]
    ]
   }
