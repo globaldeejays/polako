@@ -1,18 +1,946 @@
 {
- "updated": "2026-11-15T18:45:00+01:00",
+ "updated": "2026-11-16T07:50:00+01:00",
  "front": [
-  "261114156",
-  "261112216",
-  "261115120",
-  "261115124",
-  "261115126",
-  "261115112",
-  "261115003",
-  "261111104",
-  "261115007",
-  "261115089"
+  "261116017",
+  "261116001",
+  "261116006",
+  "261116019",
+  "261116012",
+  "261116015",
+  "261116013",
+  "261115061",
+  "261115161",
+  "261115146"
  ],
  "articles": [
+  {
+   "id": "261115061",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/muzika/bihac-objavio-program-winter-parka-dubioza-kolektiv-parni-valjak-let-3-vanna-i-drugi/261115061",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261115061.jpg",
+   "published": "2026-11-16T07:22:00+01:00",
+   "title": [
+    "Bihać objavio program koncerata za Winter Park",
+    "Bihać announces the concert programme for Winter Park"
+   ],
+   "body": [
+    [
+     [
+      "Grad Bihać objavio je program manifestacije Winter Park, koja traje od 24. decembra do 1. januara.",
+      "The city of Bihać has announced the programme of the Winter Park event, which lasts from 24 December to 1 January."
+     ],
+     [
+      "Svake večeri nastupaju poznati muzičari iz BiH i regije.",
+      "Every evening well-known musicians from BiH and the region perform."
+     ],
+     [
+      "Novu godinu publika će dočekati uz grupu Dubioza kolektiv.",
+      "The audience will welcome the New Year with the group Dubioza kolektiv."
+     ]
+    ],
+    [
+     [
+      "Festival 24. decembra otvaraju Divlje jagode, a dan kasnije nastupa Ilma Karahmet.",
+      "Divlje jagode open the festival on 24 December, and a day later Ilma Karahmet performs."
+     ],
+     [
+      "Grupa Let 3 svira 26. decembra, a Željko Samardžić dolazi 27. decembra.",
+      "The group Let 3 plays on 26 December, and Željko Samardžić comes on 27 December."
+     ],
+     [
+      "Publika će zatim slušati Adija Šošu, Parni valjak i pjevačicu Vannu.",
+      "The audience will then listen to Adi Šoše, Parni valjak and the singer Vanna."
+     ],
+     [
+      "Na Staru godinu nastupaju i Belo Kopče i dva DJ-a, a Dubioza kolektiv izlazi na binu u 23:00.",
+      "On New Year's Eve Belo Kopče and two DJs also perform, and Dubioza kolektiv goes on stage at 23:00."
+     ]
+    ],
+    [
+     [
+      "Festival 1. januara zatvara beogradska grupa Galija.",
+      "The Belgrade group Galija closes the festival on 1 January."
+     ],
+     [
+      "Prije Winter Parka u gradu će biti još nekoliko koncerata, među njima i božićni koncert 19. decembra.",
+      "Before Winter Park there will be several more concerts in the city, among them a Christmas concert on 19 December."
+     ],
+     [
+      "Cijene ulaznica u tekstu nisu navedene.",
+      "Ticket prices are not given in the article."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "program",
+     "programme"
+    ],
+    [
+     "manifestacija",
+     "event, festival"
+    ],
+    [
+     "nastupati",
+     "to perform"
+    ],
+    [
+     "doček Nove godine",
+     "New Year's Eve celebration"
+    ],
+    [
+     "publika",
+     "audience"
+    ],
+    [
+     "bina",
+     "stage"
+    ],
+    [
+     "ulaznica",
+     "ticket"
+    ]
+   ]
+  },
+  {
+   "id": "261116019",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/dok-su-ostali-zmajevi-trenirali-u-duksericama-katic-trcao-po-kisi-u-majici-kratkih-rukava/261116019",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261116019.jpg",
+   "published": "2026-11-16T07:19:00+01:00",
+   "title": [
+    "Katić trenirao na kiši u majici kratkih rukava",
+    "Katić trained in the rain in a short-sleeved shirt"
+   ],
+   "body": [
+    [
+     [
+      "Fudbaleri reprezentacije BiH trenirali su na jakoj kiši u kampu FK Sarajevo na Butmiru.",
+      "The BiH national team footballers trained in heavy rain at the FK Sarajevo camp in Butmir."
+     ],
+     [
+      "Većina igrača nosila je duksericu, a neki su na glavi imali i kapuljaču.",
+      "Most players wore a sweatshirt, and some also had a hood on their head."
+     ],
+     [
+      "Nikola Katić je ipak trčao po kiši samo u majici kratkih rukava.",
+      "Nikola Katić, however, ran in the rain in just a short-sleeved shirt."
+     ]
+    ],
+    [
+     [
+      "Reprezentacija se u nedjelju navečer vratila iz Stockholma i odmah je počela s treningom.",
+      "The national team returned from Stockholm on Sunday evening and started training straight away."
+     ],
+     [
+      "Tako su počele pripreme za posljednju, šestu utakmicu Lige nacija protiv Rumunije.",
+      "That is how preparations began for the last, sixth Nations League match against Romania."
+     ],
+     [
+      "Utakmica se igra u utorak, 17. novembra, na stadionu Bilino polje u Zenici od 20:45.",
+      "The match will be played on Tuesday, 17 November, at the Bilino polje stadium in Zenica from 20:45."
+     ],
+     [
+      "Prijenos uživo imaju BHT i MY TV.",
+      "BHT and MY TV have the live broadcast."
+     ]
+    ],
+    [
+     [
+      "Katić je i ranije privukao pažnju jer mu hladno vrijeme ne smeta.",
+      "Katić has drawn attention before because cold weather does not bother him."
+     ],
+     [
+      "U Njemačkoj su ga zbog toga zvali „ledeni čovjek“.",
+      "In Germany they called him \"the ice man\" because of that."
+     ],
+     [
+      "Igrači danas od 18:00 treniraju na stadionu Asim Ferhatović Hase.",
+      "The players train today from 18:00 at the Asim Ferhatović Hase stadium."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "reprezentacija",
+     "national team"
+    ],
+    [
+     "kiša",
+     "rain"
+    ],
+    [
+     "majica",
+     "T-shirt, shirt"
+    ],
+    [
+     "dukserica",
+     "sweatshirt"
+    ],
+    [
+     "trening",
+     "training"
+    ],
+    [
+     "pripreme",
+     "preparations"
+    ],
+    [
+     "utakmica",
+     "match"
+    ],
+    [
+     "hladan",
+     "cold"
+    ]
+   ]
+  },
+  {
+   "id": "261116015",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/showbiz/zapaljen-automobil-aleksandre-prijovic-i-filipa-zivojinovica-u-beogradu/261116015",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261116015.jpg",
+   "published": "2026-11-16T07:18:00+01:00",
+   "title": [
+    "U Beogradu zapaljen automobil pjevačice Aleksandre Prijović",
+    "Singer Aleksandra Prijović's car set on fire in Belgrade"
+   ],
+   "body": [
+    [
+     [
+      "Automobil pjevačice Aleksandre Prijović i njenog supruga Filipa Živojinovića zapaljen je u Beogradu.",
+      "The car of singer Aleksandra Prijović and her husband Filip Živojinović was set on fire in Belgrade."
+     ],
+     [
+      "To se dogodilo u noći s nedjelje na ponedjeljak u naselju Bežanijska kosa.",
+      "It happened in the night from Sunday to Monday in the Bežanijska kosa neighbourhood."
+     ],
+     [
+      "Automobil je bio parkiran odmah pored kuće u kojoj par živi.",
+      "The car was parked right next to the house where the couple lives."
+     ]
+    ],
+    [
+     [
+      "Vatra se proširila i na drugi automobil koji je stajao pored.",
+      "The fire also spread to another car that was standing next to it."
+     ],
+     [
+      "Na mjesto su došli vatrogasci i policija.",
+      "Firefighters and police came to the scene."
+     ],
+     [
+      "Policija je počela istragu i prikuplja dokaze kako bi otkrila šta se tačno dogodilo.",
+      "The police have started an investigation and are collecting evidence to find out what exactly happened."
+     ],
+     [
+      "Policajci su također čuvali ulaz u kuću para.",
+      "Police officers also guarded the entrance to the couple's house."
+     ]
+    ],
+    [
+     [
+      "Portal Telegraf.rs objavio je snimak na kojem se vidi da su Prijović i Živojinović uznemireni.",
+      "The Telegraf.rs portal published a video in which you can see that Prijović and Živojinović are upset."
+     ],
+     [
+      "Oni su stajali ispred svoje kuće dok su vatrogasci radili.",
+      "They were standing in front of their house while the firefighters worked."
+     ],
+     [
+      "Za sada nije poznato ko je zapalio automobil ni zašto.",
+      "For now it is not known who set the car on fire or why."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "zapaliti",
+     "to set on fire"
+    ],
+    [
+     "automobil",
+     "car"
+    ],
+    [
+     "vatra",
+     "fire"
+    ],
+    [
+     "vatrogasac",
+     "firefighter"
+    ],
+    [
+     "istraga",
+     "investigation"
+    ],
+    [
+     "dokaz",
+     "evidence"
+    ],
+    [
+     "suprug",
+     "husband"
+    ],
+    [
+     "uznemiren",
+     "upset"
+    ]
+   ]
+  },
+  {
+   "id": "261116017",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/predsjednistvo-bih-danas-dobija-novi-saziv-filipovic-sjeda-u-komsicevu-fotelju/261116017",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261116017.jpg",
+   "published": "2026-11-16T07:13:00+01:00",
+   "title": [
+    "Novo Predsjedništvo BiH danas preuzima dužnost",
+    "The new Presidency of BiH takes office today"
+   ],
+   "body": [
+    [
+     [
+      "Novi članovi Predsjedništva BiH danas u 16:00 sati u Sarajevu preuzimaju dužnost.",
+      "The new members of the Presidency of BiH take office today at 16:00 in Sarajevo."
+     ],
+     [
+      "To su Denis Bećirović, Darijana Filipović i Željka Cvijanović, a njihov mandat traje do 2030. godine.",
+      "They are Denis Bećirović, Darijana Filipović and Željka Cvijanović, and their term lasts until 2030."
+     ],
+     [
+      "Bećirović i Cvijanović počinju drugi mandat zaredom, dok je Filipović nova u Predsjedništvu.",
+      "Bećirović and Cvijanović are starting their second term in a row, while Filipović is new in the Presidency."
+     ]
+    ],
+    [
+     [
+      "Kandidatkinja HDZ-a BiH Filipović dolazi na mjesto Željka Komšića, koji je bio član Predsjedništva četiri mandata.",
+      "HDZ BiH candidate Filipović takes the place of Željko Komšić, who was a member of the Presidency for four terms."
+     ],
+     [
+      "Na sjednici će dobiti uvjerenja, a zatim će potpisati svečanu izjavu.",
+      "At the session they will receive certificates and then sign a solemn declaration."
+     ],
+     [
+      "Opšti izbori su održani 4. oktobra, a Centralna izborna komisija potvrdila je rezultate 3. novembra.",
+      "The general elections were held on 4 October, and the Central Election Commission confirmed the results on 3 November."
+     ],
+     [
+      "Cvijanović je dobila 319.705 glasova, Bećirović 222.484, a Filipović 120.701 glas.",
+      "Cvijanović won 319,705 votes, Bećirović 222,484 and Filipović 120,701 votes."
+     ]
+    ],
+    [
+     [
+      "Prema pravilima, predsjedavajući postaje član koji je sljedeći na redu, osim ako se članovi drugačije dogovore.",
+      "According to the rules, the chair goes to the member who is next in line, unless the members agree otherwise."
+     ],
+     [
+      "Predsjedništvo vodi vanjsku politiku i imenuje ambasadore.",
+      "The Presidency conducts foreign policy and appoints ambassadors."
+     ],
+     [
+      "Ono također predstavlja BiH u međunarodnim organizacijama i predlaže godišnji budžet parlamentu.",
+      "It also represents BiH in international organisations and proposes the annual budget to parliament."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "predsjedništvo",
+     "presidency"
+    ],
+    [
+     "mandat",
+     "term of office"
+    ],
+    [
+     "dužnost",
+     "duty, office"
+    ],
+    [
+     "sjednica",
+     "session"
+    ],
+    [
+     "glas",
+     "vote"
+    ],
+    [
+     "izbori",
+     "elections"
+    ],
+    [
+     "ambasador",
+     "ambassador"
+    ],
+    [
+     "budžet",
+     "budget"
+    ]
+   ]
+  },
+  {
+   "id": "261116012",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/chelsea-i-dalje-vreba-alajbegovica-juventus-vec-dize-zid-pred-januarski-prijelazni-rok/261116012",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261116012.jpg",
+   "published": "2026-11-16T07:07:00+01:00",
+   "title": [
+    "Chelsea i dalje želi Alajbegovića, Juventus ga ne pušta",
+    "Chelsea still wants Alajbegović, Juventus won't let him go"
+   ],
+   "body": [
+    [
+     [
+      "Engleski klub Chelsea nije odustao od reprezentativca BiH Kerima Alajbegovića.",
+      "The English club Chelsea has not given up on BiH international Kerim Alajbegović."
+     ],
+     [
+      "Talijanski list Gazzetta dello Sport piše da ljudi iz Chelseaja pažljivo prate mladog igrača.",
+      "The Italian paper Gazzetta dello Sport writes that people from Chelsea are closely watching the young player."
+     ],
+     [
+      "Juventus se zato već sprema da ga zadrži ako u januaru stigne ponuda iz Premier lige.",
+      "That is why Juventus is already getting ready to keep him if an offer from the Premier League arrives in January."
+     ]
+    ],
+    [
+     [
+      "Prošlog ljeta Alajbegović je bio vrlo blizu prelaska u Chelsea.",
+      "Last summer Alajbegović was very close to a move to Chelsea."
+     ],
+     [
+      "Ipak, Juventus je brzo reagovao i za bivšeg igrača Bayer Leverkusena platio 30 miliona eura.",
+      "However, Juventus reacted quickly and paid 30 million euros for the former Bayer Leverkusen player."
+     ],
+     [
+      "Alajbegović ima ugovor s Juventusom do 2031. godine.",
+      "Alajbegović has a contract with Juventus until 2031."
+     ],
+     [
+      "Trener Luciano Spalletti i uprava kluba smatraju da je on nezamjenjiv igrač.",
+      "Coach Luciano Spalletti and the club's management consider him an irreplaceable player."
+     ]
+    ],
+    [
+     [
+      "Prema listu, trenutno nema pregovora, ali Juventus zna da interes postoji.",
+      "According to the paper, there are no negotiations at the moment, but Juventus knows the interest exists."
+     ],
+     [
+      "Gazzetta očekuje da će klub odbiti svaku ponudu do kraja januarskog prijelaznog roka.",
+      "Gazzetta expects the club to reject every offer until the end of the January transfer window."
+     ],
+     [
+      "Prije utakmice BiH protiv Švedske Juventus je Alajbegoviću poslao posebnu poruku podrške.",
+      "Before BiH's match against Sweden, Juventus sent Alajbegović a special message of support."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "klub",
+     "club"
+    ],
+    [
+     "odustati",
+     "to give up"
+    ],
+    [
+     "ponuda",
+     "offer"
+    ],
+    [
+     "prelazak",
+     "transfer, move"
+    ],
+    [
+     "ugovor",
+     "contract"
+    ],
+    [
+     "pregovori",
+     "negotiations"
+    ],
+    [
+     "prijelazni rok",
+     "transfer window"
+    ],
+    [
+     "podrška",
+     "support"
+    ]
+   ]
+  },
+  {
+   "id": "261116013",
+   "source": "Klix.ba",
+   "section": "Vrijeme",
+   "url": "https://www.klix.ba/vijesti/bih/stize-jugo-s-jakim-udarima-u-hercegovini-i-na-zapadu-bosne-jace-padavine/261116013",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261116013.jpg",
+   "published": "2026-11-16T07:07:00+01:00",
+   "title": [
+    "Stiže jugo s jakim udarima i kišom",
+    "The jugo wind is coming with strong gusts and rain"
+   ],
+   "body": [
+    [
+     [
+      "U Bosni i Hercegovini danas će biti uglavnom oblačno, s kišom i pljuskovima.",
+      "In Bosnia and Herzegovina today it will be mostly cloudy, with rain and showers."
+     ],
+     [
+      "Najviše kiše očekuje se u Hercegovini, javlja Federalni hidrometeorološki zavod.",
+      "The most rain is expected in Herzegovina, reports the Federal Hydrometeorological Institute."
+     ],
+     [
+      "Puhat će južni vjetar, a povremeno su mogući i jaki udari juga.",
+      "A southern wind will blow, and at times strong gusts of the jugo are also possible."
+     ],
+     [
+      "Jugo je topao vjetar koji puše s juga, od mora.",
+      "The jugo is a warm wind that blows from the south, from the sea."
+     ]
+    ],
+    [
+     [
+      "Jutarnje temperature bit će od 3 do 8 stepeni, a na jugu do 14.",
+      "Morning temperatures will be from 3 to 8 degrees, and in the south up to 14."
+     ],
+     [
+      "Najviše dnevne temperature bit će od 10 do 15, a na jugu do 18 stepeni.",
+      "The highest daytime temperatures will be from 10 to 15, and in the south up to 18 degrees."
+     ],
+     [
+      "U Sarajevu se ujutro očekuje oko 6, a tokom dana oko 12 stepeni.",
+      "In Sarajevo around 6 degrees is expected in the morning, and around 12 during the day."
+     ]
+    ],
+    [
+     [
+      "U utorak će biti djelimično sunčano, ali ujutro može biti magle u dolinama.",
+      "On Tuesday it will be partly sunny, but in the morning there may be fog in the valleys."
+     ],
+     [
+      "Navečer opet počinje kiša, koja će biti najjača u Hercegovini i na zapadu Bosne.",
+      "In the evening rain starts again, and it will be heaviest in Herzegovina and in the west of Bosnia."
+     ],
+     [
+      "U srijedu će biti znatno toplije, s temperaturama do 20 stepeni, ali i s kišom i jakim vjetrom.",
+      "On Wednesday it will be noticeably warmer, with temperatures up to 20 degrees, but also with rain and strong wind."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "jugo",
+     "jugo (warm south wind)"
+    ],
+    [
+     "udar",
+     "gust"
+    ],
+    [
+     "oblačno",
+     "cloudy"
+    ],
+    [
+     "pljusak",
+     "shower"
+    ],
+    [
+     "vjetar",
+     "wind"
+    ],
+    [
+     "magla",
+     "fog"
+    ],
+    [
+     "dolina",
+     "valley"
+    ],
+    [
+     "toplo",
+     "warm"
+    ]
+   ]
+  },
+  {
+   "id": "261116006",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/kakva-ce-biti-rusija-poslije-putina-najbogatiji-rusi-zele-kraj-vladavine-jednog-covjeka-i-povratak-u-devedesete/261116006",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261116006.jpg",
+   "published": "2026-11-16T06:35:00+01:00",
+   "title": [
+    "Šta najbogatiji Rusi žele nakon Putina",
+    "What the richest Russians want after Putin"
+   ],
+   "body": [
+    [
+     [
+      "BBC je objavio analizu o tome kakvu Rusiju žele najbogatiji ljudi u zemlji nakon Vladimira Putina.",
+      "The BBC published an analysis of what kind of Russia the richest people in the country want after Vladimir Putin."
+     ],
+     [
+      "Prema magazinu Forbes, Rusija ima 155 milijardera koji zajedno imaju skoro 700 milijardi dolara.",
+      "According to Forbes magazine, Russia has 155 billionaires who together have almost 700 billion dollars."
+     ],
+     [
+      "Putin je u prvim godinama vlasti, nakon 2000. godine, stavio bogate biznismene pod svoju kontrolu.",
+      "In his first years in power, after 2000, Putin put rich businessmen under his control."
+     ]
+    ],
+    [
+     [
+      "Na dan napada na Ukrajinu 2022. godine Putin je u Kremlju tražio od milijardera podršku za rat, a niko nije ništa rekao.",
+      "On the day of the attack on Ukraine in 2022, Putin asked billionaires in the Kremlin for support for the war, and nobody said anything."
+     ],
+     [
+      "Oni koji su kritikovali rat izgubili su imovinu, a lojalni su dobili unosne državne ugovore.",
+      "Those who criticised the war lost their property, and the loyal ones got lucrative state contracts."
+     ],
+     [
+      "Andrej Meljničenko, najbogatiji proizvođač gnojiva u Rusiji, dao je rijedak intervju magazinu The Economist.",
+      "Andrei Melnichenko, the richest fertiliser producer in Russia, gave a rare interview to The Economist magazine."
+     ],
+     [
+      "Rekao je da je potreban kraj vladavine jednog čovjeka i više otvorenosti prema svijetu.",
+      "He said that an end to one-man rule and more openness to the world are needed."
+     ]
+    ],
+    [
+     [
+      "Analitičari kažu da mnogi bogati Rusi žele povratak u devedesete, kada su imali više utjecaja.",
+      "Analysts say that many rich Russians want a return to the nineties, when they had more influence."
+     ],
+     [
+      "Ako Putin ode, vlast bi privremeno preuzeo premijer Mihail Mišustin.",
+      "If Putin leaves, Prime Minister Mikhail Mishustin would temporarily take over power."
+     ],
+     [
+      "Kritičar Kremlja Bill Browder misli da bogataši neće ništa uraditi dok je Putin živ, jer se boje zatvora.",
+      "Kremlin critic Bill Browder thinks the rich will do nothing while Putin is alive, because they are afraid of prison."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "milijarder",
+     "billionaire"
+    ],
+    [
+     "vlast",
+     "power, government"
+    ],
+    [
+     "imovina",
+     "property, assets"
+    ],
+    [
+     "ugovor",
+     "contract"
+    ],
+    [
+     "vladavina",
+     "rule"
+    ],
+    [
+     "utjecaj",
+     "influence"
+    ],
+    [
+     "zatvor",
+     "prison"
+    ]
+   ]
+  },
+  {
+   "id": "261116001",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/veliki-preokret-u-jemenu-snage-koje-podrzava-saudijska-arabija-prepustile-kljucni-moreuz-hutima/261116001",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261116001.jpg",
+   "published": "2026-11-16T06:11:00+01:00",
+   "title": [
+    "Vladine snage u Jemenu napustile važan moreuz",
+    "Government forces in Yemen leave an important strait"
+   ],
+   "body": [
+    [
+     [
+      "Vladine snage u Jemenu, koje podržava Saudijska Arabija, potvrdile su da se povlače s područja kod moreuza Bab al-Mandeb.",
+      "Government forces in Yemen, which are backed by Saudi Arabia, confirmed that they are withdrawing from the area near the Bab al-Mandeb strait."
+     ],
+     [
+      "Moreuz je uski morski prolaz na jugu Crvenog mora, a sada ga ponovo kontrolišu Huti.",
+      "A strait is a narrow sea passage, this one at the south of the Red Sea, and the Houthis control it again now."
+     ],
+     [
+      "Hute podržava Iran, a oni su ovo područje zauzeli iznenadnim napadom u septembru.",
+      "The Houthis are backed by Iran, and they took this area in a surprise attack in September."
+     ]
+    ],
+    [
+     [
+      "Vojska je saopćila da vojnici idu braniti Aden, privremeni glavni grad zemlje.",
+      "The army said the soldiers are going to defend Aden, the country's temporary capital."
+     ],
+     [
+      "Prema agenciji Reuters, jedinice napuštaju aerodrom Dhubab i cijelo područje oko moreuza.",
+      "According to the Reuters agency, the units are leaving Dhubab airport and the whole area around the strait."
+     ],
+     [
+      "Kao razlog su naveli potrebu da ojačaju linije fronta, a Aden je za njih apsolutni prioritet.",
+      "As the reason they gave the need to strengthen the front lines, and Aden is the absolute priority for them."
+     ]
+    ],
+    [
+     [
+      "Ovim povlačenjem završila je ofanziva koju su vladine snage vodile nekoliko sedmica.",
+      "With this withdrawal the offensive that government forces had led for several weeks came to an end."
+     ],
+     [
+      "Mediji pod kontrolom Huta potvrdili su da su njihove snage preuzele potpunu kontrolu nad područjem.",
+      "Media controlled by the Houthis confirmed that their forces had taken full control of the area."
+     ],
+     [
+      "Saudijska Arabija do objave vijesti nije komentarisala situaciju.",
+      "Saudi Arabia had not commented on the situation by the time the news was published."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "moreuz",
+     "strait"
+    ],
+    [
+     "snage",
+     "forces"
+    ],
+    [
+     "povlačiti se",
+     "to withdraw"
+    ],
+    [
+     "napad",
+     "attack"
+    ],
+    [
+     "vojnik",
+     "soldier"
+    ],
+    [
+     "braniti",
+     "to defend"
+    ],
+    [
+     "ofanziva",
+     "offensive"
+    ],
+    [
+     "kontrola",
+     "control"
+    ]
+   ]
+  },
+  {
+   "id": "261115161",
+   "source": "Klix.ba",
+   "section": "Zdravlje",
+   "url": "https://www.klix.ba/lifestyle/zdravlje/ove-tri-navike-utjecu-na-razvoj-stresa-u-jutarnjim-satima/261115161",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261115161.jpg",
+   "published": "2026-11-15T22:51:00+01:00",
+   "title": [
+    "Tri jutarnje navike koje stvaraju stres",
+    "Three morning habits that create stress"
+   ],
+   "body": [
+    [
+     [
+      "Stručnjaci za mentalno zdravlje kažu da tri navike mogu dan početi s nepotrebnim stresom.",
+      "Mental health experts say that three habits can start the day with unnecessary stress."
+     ],
+     [
+      "Savjete su za magazin Real Simple dale savjetnica Mindy DeSeta i terapeutkinja Christine Hathaway.",
+      "The advice was given to Real Simple magazine by counsellor Mindy DeSeta and therapist Christine Hathaway."
+     ],
+     [
+      "Prva loša navika je gledanje u telefon čim se probudimo.",
+      "The first bad habit is looking at the phone as soon as we wake up."
+     ]
+    ],
+    [
+     [
+      "DeSeta kaže da poruke i društvene mreže odmah ujutro stvaraju osjećaj da moramo nešto riješiti.",
+      "DeSeta says that messages and social networks first thing in the morning create a feeling that we have to deal with something."
+     ],
+     [
+      "Zato savjetuje da telefon ne koristimo barem 30 minuta i da ga punimo izvan spavaće sobe.",
+      "That is why she advises us not to use the phone for at least 30 minutes and to charge it outside the bedroom."
+     ],
+     [
+      "Druga navika je jutro bez rutine, kada svaku odluku donosimo u zadnji čas.",
+      "The second habit is a morning without a routine, when we make every decision at the last moment."
+     ],
+     [
+      "Hathaway kaže da tada lako zaboravimo stvari, preskočimo doručak i žurimo kroz vrata.",
+      "Hathaway says that then we easily forget things, skip breakfast and rush out the door."
+     ]
+    ],
+    [
+     [
+      "Treća navika je odgađanje alarma, jer pet minuta dodatnog sna ne donosi pravi odmor.",
+      "The third habit is snoozing the alarm, because five minutes of extra sleep does not bring real rest."
+     ],
+     [
+      "Stručnjakinje savjetuju da alarm stavimo na drugi kraj sobe, kako bismo morali ustati.",
+      "The experts advise putting the alarm on the other side of the room, so that we have to get up."
+     ],
+     [
+      "Također je važno ići na vrijeme u krevet i spavati sedam do osam sati.",
+      "It is also important to go to bed on time and sleep seven to eight hours."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "navika",
+     "habit"
+    ],
+    [
+     "stres",
+     "stress"
+    ],
+    [
+     "stručnjak",
+     "expert"
+    ],
+    [
+     "probuditi se",
+     "to wake up"
+    ],
+    [
+     "rutina",
+     "routine"
+    ],
+    [
+     "doručak",
+     "breakfast"
+    ],
+    [
+     "alarm",
+     "alarm"
+    ],
+    [
+     "odmor",
+     "rest"
+    ]
+   ]
+  },
+  {
+   "id": "261115146",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/auto/savjeti/vozaci-iz-bih-oprez-u-sloveniji-kocenje-pred-radarom-uskoro-nece-pomoci-kamere-ce-mjeriti-brzinu-na-cijeloj-dionici/261115146",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261115146.jpg",
+   "published": "2026-11-15T21:05:00+01:00",
+   "title": [
+    "Slovenija uvodi kamere koje mjere prosječnu brzinu",
+    "Slovenia introduces cameras that measure average speed"
+   ],
+   "body": [
+    [
+     [
+      "Na slovenskim autoputevima uskoro će raditi kamere koje mjere brzinu na cijeloj dionici puta.",
+      "Cameras that measure speed along a whole section of road will soon be working on Slovenian motorways."
+     ],
+     [
+      "Sistem je postavljen na četiri dionice oko Ljubljane, a svaka mjeri brzinu samo u jednom smjeru.",
+      "The system has been installed on four sections around Ljubljana, and each measures speed in one direction only."
+     ],
+     [
+      "Kazne se za sada ne izdaju, jer predaja sistema policiji još nije završena.",
+      "No fines are being issued for now, because the handover of the system to the police has not been finished yet."
+     ]
+    ],
+    [
+     [
+      "Kamera na početku dionice snimi vozilo i vrijeme ulaska, a kamera na kraju vrijeme izlaska.",
+      "A camera at the start of the section records the vehicle and the time of entry, and a camera at the end the time of exit."
+     ],
+     [
+      "Sistem iz dužine dionice i vremena vožnje izračuna prosječnu brzinu.",
+      "From the length of the section and the driving time, the system calculates the average speed."
+     ],
+     [
+      "Zato kočenje ispred kamere neće pomoći vozaču koji je prije toga vozio prebrzo.",
+      "That is why braking in front of a camera will not help a driver who drove too fast before that."
+     ],
+     [
+      "Ako vozač na autoputu pređe ograničenje za više od 60 km/h, kazna je 1.200 eura i devet kaznenih bodova.",
+      "If a driver on the motorway goes more than 60 km/h over the limit, the fine is 1,200 euros and nine penalty points."
+     ]
+    ],
+    [
+     [
+      "Slovenska kompanija za autoputeve DARS kaže da cilj nije kažnjavanje, nego veća sigurnost u saobraćaju.",
+      "The Slovenian motorway company DARS says that the goal is not punishment, but more safety in traffic."
+     ],
+     [
+      "Policija će odrediti datum početka i o tome ranije obavijestiti vozače.",
+      "The police will set the start date and inform drivers about it in advance."
+     ],
+     [
+      "Prosječnu brzinu na ovim dionicama vozači mogu pratiti u besplatnoj aplikaciji AMZS-a.",
+      "Drivers can follow the average speed on these sections in AMZS's free app."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "autoput",
+     "motorway"
+    ],
+    [
+     "dionica",
+     "section (of road)"
+    ],
+    [
+     "brzina",
+     "speed"
+    ],
+    [
+     "prosječan",
+     "average"
+    ],
+    [
+     "kazna",
+     "fine"
+    ],
+    [
+     "kočenje",
+     "braking"
+    ],
+    [
+     "vozač",
+     "driver"
+    ],
+    [
+     "sigurnost",
+     "safety"
+    ]
+   ]
+  },
   {
    "id": "261115126",
    "source": "Klix.ba",
@@ -4742,938 +5670,6 @@
     [
      "pritisak",
      "pressure"
-    ]
-   ]
-  },
-  {
-   "id": "261114001",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/ukinuta-zabrana-letova-u-sad-u-nakon-vise-od-cetiri-sata-totalne-blokade/261114001",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261114001.jpg",
-   "published": "2026-11-14T02:40:00+01:00",
-   "title": [
-    "U SAD-u ponovo lete avioni nakon četiri sata blokade",
-    "Planes fly again in the USA after a four-hour blockade"
-   ],
-   "body": [
-    [
-     [
-      "Američka agencija za avijaciju FAA u petak je ukinula zabranu letova u cijeloj zemlji.",
-      "The US aviation agency FAA lifted the ban on flights across the whole country on Friday."
-     ],
-     [
-      "Zabrana je trajala više od 4 sata i zaustavila je hiljade letova.",
-      "The ban lasted more than 4 hours and stopped thousands of flights."
-     ],
-     [
-      "Počela je oko 16 sati po istočnom vremenu, kada su centri za kontrolu letova imali problem s komunikacijom.",
-      "It started around 16:00 Eastern Time, when the flight control centres had a communication problem."
-     ]
-    ],
-    [
-     [
-      "Problemi su pogodili više od 10.000 letova.",
-      "The problems affected more than 10,000 flights."
-     ],
-     [
-      "FAA je rekla da je riječ o privremenom kvaru telekomunikacija i da je letove zaustavila iz opreza.",
-      "The FAA said that it was a temporary telecommunications fault and that it stopped the flights as a precaution."
-     ],
-     [
-      "Uzrok još nije poznat, ali ministar Markwayne Mullin rekao je da nema znakova prijetnje za SAD.",
-      "The cause is not yet known, but Secretary Markwayne Mullin said that there are no signs of a threat to the USA."
-     ],
-     [
-      "Avioni koji su već bili u zraku nastavili su let, a kompanija JetBlue otkazala je ostale letove tog dana.",
-      "Planes that were already in the air continued flying, and the company JetBlue cancelled its other flights that day."
-     ]
-    ],
-    [
-     [
-      "Oko 18 sati avioni su ponovo počeli polijetati, prvo prema Evropi i Aziji.",
-      "Around 18:00 planes started taking off again, first towards Europe and Asia."
-     ],
-     [
-      "Ovakve zabrane u cijeloj zemlji su vrlo rijetke.",
-      "Bans like this across the whole country are very rare."
-     ],
-     [
-      "Prošla je bila u januaru 2023. godine, a prije toga nakon napada 11. septembra 2001.",
-      "The last one was in January 2023, and before that after the attacks of 11 September 2001."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "zabrana",
-     "ban"
-    ],
-    [
-     "let",
-     "flight"
-    ],
-    [
-     "ukinuti",
-     "to lift, abolish"
-    ],
-    [
-     "kvar",
-     "fault, breakdown"
-    ],
-    [
-     "uzrok",
-     "cause"
-    ],
-    [
-     "prijetnja",
-     "threat"
-    ],
-    [
-     "otkazati",
-     "to cancel"
-    ],
-    [
-     "polijetati",
-     "to take off"
-    ]
-   ]
-  },
-  {
-   "id": "261113172",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/tehnologija/sest-godina-pod-lupom-vlasnik-tindera-kaznjen-s-11-miliona-eura-zbog-podataka-korisnika/261113172",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261113172.jpg",
-   "published": "2026-11-13T23:30:00+01:00",
-   "title": [
-    "Vlasnik Tindera kažnjen s 11 miliona eura",
-    "Tinder's owner fined 11 million euros"
-   ],
-   "body": [
-    [
-     [
-      "Irska agencija za zaštitu podataka kaznila je kompaniju Match Group s 11 miliona eura.",
-      "The Irish data protection agency fined the company Match Group 11 million euros."
-     ],
-     [
-      "Ta kompanija je vlasnik aplikacije za upoznavanje Tinder.",
-      "That company is the owner of the dating app Tinder."
-     ],
-     [
-      "Agencija je utvrdila da je Tinder prekršio evropska pravila o ličnim podacima.",
-      "The agency found that Tinder broke the European rules on personal data."
-     ]
-    ],
-    [
-     [
-      "Istraga je počela u februaru 2020. godine i trajala je više od 6 godina.",
-      "The investigation started in February 2020 and lasted more than 6 years."
-     ],
-     [
-      "Agencija je provjeravala kako Tinder odgovara kada korisnici traže svoje podatke ili žele da ih aplikacija izbriše.",
-      "The agency checked how Tinder responds when users ask for their data or want the app to delete it."
-     ],
-     [
-      "Provjeravala je i koliko dugo Tinder čuva podatke korisnika.",
-      "It also checked how long Tinder keeps users' data."
-     ],
-     [
-      "Po evropskim pravilima, koja se zovu GDPR, građani EU imaju pravo na kopiju svojih podataka.",
-      "Under the European rules, which are called GDPR, EU citizens have the right to a copy of their data."
-     ]
-    ],
-    [
-     [
-      "Konačna odluka donesena je 13. oktobra, a kompanija je kaznu objavila u svom izvještaju.",
-      "The final decision was made on 13 October, and the company announced the fine in its report."
-     ],
-     [
-      "Match Group je rekao da ima jaku odbranu i da će se žaliti.",
-      "Match Group said that it has a strong defence and that it will appeal."
-     ],
-     [
-      "Kazna je mala u poređenju s prihodom Tindera, koji je za 9 mjeseci zaradio 1,39 milijardi dolara.",
-      "The fine is small compared to Tinder's revenue, which earned 1.39 billion dollars in 9 months."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "kazna",
-     "fine, penalty"
-    ],
-    [
-     "kazniti",
-     "to fine, punish"
-    ],
-    [
-     "vlasnik",
-     "owner"
-    ],
-    [
-     "lični podaci",
-     "personal data"
-    ],
-    [
-     "istraga",
-     "investigation"
-    ],
-    [
-     "korisnik",
-     "user"
-    ],
-    [
-     "žaliti se",
-     "to appeal, complain"
-    ],
-    [
-     "prihod",
-     "revenue, income"
-    ]
-   ]
-  },
-  {
-   "id": "261113119",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/kultura/erozija-ljudskih-vrijednosti-u-drustvu-u-kojem-zivimo-predstava-nestajanje-otvara-tuzlanske-pozorisne-dane/261113119",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261113119.jpg",
-   "published": "2026-11-13T21:50:00+01:00",
-   "title": [
-    "Predstava \"Nestajanje\" otvara Tuzlanske pozorišne dane",
-    "The play \"Nestajanje\" opens the Tuzla Theatre Days"
-   ],
-   "body": [
-    [
-     [
-      "Tuzlanski pozorišni dani počinju 18. novembra i trajat će do 1. decembra.",
-      "The Tuzla Theatre Days begin on 18 November and will last until 1 December."
-     ],
-     [
-      "Festival će otvoriti predstava \"Nestajanje\" Narodnog pozorišta Tuzla.",
-      "The festival will be opened by the play \"Nestajanje\" of the Tuzla National Theatre."
-     ],
-     [
-      "Tekst je napisao hrvatski dramski pisac Tomislav Zajec, a režiju potpisuje Milan Nešković iz Beograda.",
-      "The text was written by Croatian playwright Tomislav Zajec, and it is directed by Milan Nešković from Belgrade."
-     ]
-    ],
-    [
-     [
-      "Nešković kaže da je to porodična drama o različitim oblicima zlostavljanja.",
-      "Nešković says that it is a family drama about different forms of abuse."
-     ],
-     [
-      "Predstava govori i o tome kako zlostavljanje utiče na porodicu i društvo.",
-      "The play also talks about how abuse affects the family and society."
-     ],
-     [
-      "Iako je tema teška, u predstavi ima i humora.",
-      "Although the topic is difficult, there is also humour in the play."
-     ],
-     [
-      "Glavne uloge igraju Admir Glamočak i Lamija Salihović, čija junakinja Tea ima 18 godina u prvom činu, a 40 u trećem.",
-      "The main roles are played by Admir Glamočak and Lamija Salihović, whose heroine Tea is 18 in the first act and 40 in the third."
-     ]
-    ],
-    [
-     [
-      "Direktor festivala Elmir Krivalić rekao je da prvi put učestvuju sva profesionalna pozorišta iz BiH.",
-      "Festival director Elmir Krivalić said that all professional theatres from BiH are taking part for the first time."
-     ],
-     [
-      "Doći će pozorišta iz Sarajeva, Zenice, Mostara, Banje Luke i drugih gradova.",
-      "Theatres from Sarajevo, Zenica, Mostar, Banja Luka and other cities will come."
-     ],
-     [
-      "On se nada boljoj saradnji među pozorištima, a najbolji će dobiti nagrade.",
-      "He hopes for better cooperation among theatres, and the best ones will get awards."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "predstava",
-     "play, performance"
-    ],
-    [
-     "pozorište",
-     "theatre"
-    ],
-    [
-     "režija",
-     "directing"
-    ],
-    [
-     "zlostavljanje",
-     "abuse"
-    ],
-    [
-     "uloga",
-     "role"
-    ],
-    [
-     "čin",
-     "act (of a play)"
-    ],
-    [
-     "saradnja",
-     "cooperation"
-    ],
-    [
-     "nagrada",
-     "award"
-    ]
-   ]
-  },
-  {
-   "id": "261113230",
-   "source": "Klix.ba",
-   "section": "Zdravlje",
-   "url": "https://www.klix.ba/lifestyle/zdravlje/sta-se-desava-sa-vasim-snom-ako-preskacete-veceru/261113230",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261113230.jpg",
-   "published": "2026-11-13T19:00:00+01:00",
-   "title": [
-    "Kako preskakanje večere utiče na san",
-    "How skipping dinner affects sleep"
-   ],
-   "body": [
-    [
-     [
-      "Mnogi ljudi preskaču večeru jer su umorni, nemaju apetit ili piju lijekove.",
-      "Many people skip dinner because they are tired, have no appetite or take medicine."
-     ],
-     [
-      "Nutricionistice Gabrielle Kishner i Samina Kalloo objašnjavaju da to može uticati na kvalitet sna.",
-      "Nutritionists Gabrielle Kishner and Samina Kalloo explain that this can affect the quality of sleep."
-     ],
-     [
-      "Za san je važno šta jedemo uveče, ali i kada jedemo.",
-      "For sleep it is important what we eat in the evening, but also when we eat."
-     ]
-    ],
-    [
-     [
-      "Veliki obrok prije spavanja drži probavu aktivnom i povećava temperaturu tijela.",
-      "A big meal before sleeping keeps digestion active and raises body temperature."
-     ],
-     [
-      "Ako legnete punog stomaka, može se javiti i žgaravica.",
-      "If you lie down on a full stomach, heartburn can also appear."
-     ],
-     [
-      "S druge strane, neki ljudi ne mogu zaspati kada su gladni, a glad ih može probuditi i noću.",
-      "On the other hand, some people cannot fall asleep when they are hungry, and hunger can also wake them at night."
-     ],
-     [
-      "Kalloo je rekla da preskakanje večere može izazvati veliku glad ujutro, pa ljudi onda jedu previše.",
-      "Kalloo said that skipping dinner can cause great hunger in the morning, so people then eat too much."
-     ]
-    ],
-    [
-     [
-      "Stručnjakinje savjetuju laganu užinu, na primjer jogurt s granolom ili tost s kikiriki puterom i bananom.",
-      "The experts advise a light snack, for example yogurt with granola or toast with peanut butter and banana."
-     ],
-     [
-      "Uveče treba izbjegavati masnu hranu, šećer, alkohol i kofein.",
-      "In the evening you should avoid fatty food, sugar, alcohol and caffeine."
-     ],
-     [
-      "Nakon velike večere bolje je čekati 2 do 3 sata prije nego što legnete.",
-      "After a big dinner it is better to wait 2 to 3 hours before you lie down."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "večera",
-     "dinner"
-    ],
-    [
-     "preskakati",
-     "to skip"
-    ],
-    [
-     "san",
-     "sleep"
-    ],
-    [
-     "obrok",
-     "meal"
-    ],
-    [
-     "probava",
-     "digestion"
-    ],
-    [
-     "glad",
-     "hunger"
-    ],
-    [
-     "užina",
-     "snack"
-    ],
-    [
-     "izbjegavati",
-     "to avoid"
-    ]
-   ]
-  },
-  {
-   "id": "261113232",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/bajraktarevic-pred-svedsku-imamo-najbolje-navijace-na-svijetu-i-to-ce-dokazati-sutra/261113232",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261113232.jpg",
-   "published": "2026-11-13T18:38:00+01:00",
-   "title": [
-    "Bajraktarević: Imamo najbolje navijače na svijetu",
-    "Bajraktarević: We have the best fans in the world"
-   ],
-   "body": [
-    [
-     [
-      "Reprezentacija BiH u subotu igra protiv Švedske u Solni u Ligi nacija.",
-      "The BiH national team plays against Sweden in Solna in the Nations League on Saturday."
-     ],
-     [
-      "Dan prije utakmice novinarima su se obratili selektor Sergej Barbarez i vezni igrač Esmir Bajraktarević.",
-      "The day before the match, head coach Sergej Barbarez and midfielder Esmir Bajraktarević spoke to journalists."
-     ],
-     [
-      "Bajraktarević je rekao da je cijela ekipa potpuno fokusirana na ovu utakmicu.",
-      "Bajraktarević said that the whole team is completely focused on this match."
-     ]
-    ],
-    [
-     [
-      "Novinari su ga pitali i za Edina Džeku, koji više ne igra za reprezentaciju.",
-      "Journalists also asked him about Edin Džeko, who no longer plays for the national team."
-     ],
-     [
-      "Bajraktarević je rekao da je Džeko legenda i da će ga ekipi nedostajati, ali da moraju ići dalje.",
-      "Bajraktarević said that Džeko is a legend and that the team will miss him, but that they must move on."
-     ],
-     [
-      "O Švedskoj je rekao da ima kvalitetne igrače i da je igrati u gostima drugačije nego u Zenici.",
-      "About Sweden he said that it has quality players and that playing away is different from playing in Zenica."
-     ]
-    ],
-    [
-     [
-      "U Solnu dolazi veliki broj navijača iz BiH i dijaspore.",
-      "A large number of fans from BiH and the diaspora are coming to Solna."
-     ],
-     [
-      "Švedski organizatori su potvrdili da su sve karte za gostujuće navijače prodane.",
-      "Swedish organisers have confirmed that all tickets for the away fans have been sold."
-     ],
-     [
-      "Bajraktarević je rekao da im navijači daju energiju i da će to pokazati na utakmici.",
-      "Bajraktarević said that the fans give them energy and that they will show it at the match."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "navijač",
-     "fan, supporter"
-    ],
-    [
-     "utakmica",
-     "match"
-    ],
-    [
-     "selektor",
-     "national team coach"
-    ],
-    [
-     "reprezentacija",
-     "national team"
-    ],
-    [
-     "legenda",
-     "legend"
-    ],
-    [
-     "u gostima",
-     "away (game)"
-    ],
-    [
-     "karta",
-     "ticket"
-    ]
-   ]
-  },
-  {
-   "id": "261113212",
-   "source": "Klix.ba",
-   "section": "Vrijeme",
-   "url": "https://www.klix.ba/vijesti/bih/snijeg-zabijelio-bosanski-petrovac-i-dijelove-hrvatske-u-krajini-temperatura-drasticno-pala-za-samo-nekoliko-sati/261113212",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261113212.jpg",
-   "published": "2026-11-13T17:39:00+01:00",
-   "title": [
-    "Prvi snijeg u Bosanskom Petrovcu, temperatura naglo pala",
-    "First snow in Bosanski Petrovac, temperature drops sharply"
-   ],
-   "body": [
-    [
-     [
-      "U petak poslijepodne u Bosanskom Petrovcu počeo je padati snijeg.",
-      "On Friday afternoon snow started to fall in Bosanski Petrovac."
-     ],
-     [
-      "Mediji iz Republike Srpske javljaju da snijeg pada i u Šipovu.",
-      "Media from Republika Srpska report that snow is also falling in Šipovo."
-     ],
-     [
-      "Prognoze su govorile da snijeg stiže tek za vikend, ali hladan zrak je došao brže.",
-      "Forecasts had said that snow would only arrive at the weekend, but the cold air came faster."
-     ]
-    ],
-    [
-     [
-      "U Bihaću je temperatura od 7 do 13 sati pala sa 18 na 9 stepeni.",
-      "In Bihać the temperature fell from 18 to 9 degrees between 7 and 13 o'clock."
-     ],
-     [
-      "Snijeg je zabijelio i planinske dijelove Hrvatske, gdje bi do večeri moglo pasti 30 centimetara.",
-      "Snow has also whitened the mountain parts of Croatia, where 30 centimetres could fall by the evening."
-     ],
-     [
-      "Kamere su pokazale snijeg na autoputu A6 u Gorskom kotaru.",
-      "Cameras showed snow on the A6 motorway in Gorski kotar."
-     ]
-    ],
-    [
-     [
-      "Meteorolozi očekuju da u noći na subotu u višim dijelovima Bosne pada snijeg ili susnježica.",
-      "Meteorologists expect snow or sleet to fall in the higher parts of Bosnia on the night to Saturday."
-     ],
-     [
-      "U subotu ujutro u nižim dijelovima moguća je kiša ili snijeg, a u Hercegovini kiša.",
-      "On Saturday morning rain or snow is possible in the lower parts, and rain in Herzegovina."
-     ],
-     [
-      "Jutarnja temperatura bit će od -2 do 4 stepena, a dnevna od 2 do 8, na jugu do 14 stepeni.",
-      "The morning temperature will be from -2 to 4 degrees, and the daytime one from 2 to 8, in the south up to 14 degrees."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "snijeg",
-     "snow"
-    ],
-    [
-     "temperatura",
-     "temperature"
-    ],
-    [
-     "pasti",
-     "to fall"
-    ],
-    [
-     "prognoza",
-     "forecast"
-    ],
-    [
-     "susnježica",
-     "sleet"
-    ],
-    [
-     "autoput",
-     "motorway"
-    ],
-    [
-     "stepen",
-     "degree"
-    ]
-   ]
-  },
-  {
-   "id": "261113174",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/minic-o-programu-studentske-liste-za-rs-toplo-pozdravljam-podrsku-ustavnom-polozaju-i-entitetskoj-imovini/261113174",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261113174.jpg",
-   "published": "2026-11-13T17:20:00+01:00",
-   "title": [
-    "Minić pozdravio program Studentske liste o RS-u",
-    "Minić welcomes Student List's programme on RS"
-   ],
-   "body": [
-    [
-     [
-      "Novi predsjednik Republike Srpske Savo Minić pozdravio je program Studentske liste iz Srbije.",
-      "The new president of Republika Srpska Savo Minić welcomed the programme of the Student List from Serbia."
-     ],
-     [
-      "Ta lista je krajem oktobra pobijedila na prijevremenim parlamentarnim izborima u Srbiji.",
-      "That list won the early parliamentary elections in Serbia at the end of October."
-     ],
-     [
-      "Minić je na mreži X napisao da toplo pozdravlja njihovu podršku Republici Srpskoj.",
-      "Minić wrote on the X network that he warmly welcomes their support for Republika Srpska."
-     ]
-    ],
-    [
-     [
-      "U programu piše da će se lista zalagati za ustavni položaj i nadležnosti RS-a.",
-      "The programme says that the list will advocate for the constitutional position and powers of RS."
-     ],
-     [
-      "Lista želi zaštititi i imovinu RS-a te pravo veta u institucijama BiH.",
-      "The list also wants to protect the property of RS and the right of veto in BiH institutions."
-     ],
-     [
-      "Također traži da se ponovo razmotri kako visoki predstavnik koristi bonska ovlaštenja.",
-      "It also asks that the way the High Representative uses the Bonn powers be reviewed again."
-     ],
-     [
-      "Visokog predstavnika bi, prema programu, trebalo birati uz odobrenje Vijeća sigurnosti UN-a.",
-      "According to the programme, the High Representative should be chosen with the approval of the UN Security Council."
-     ]
-    ],
-    [
-     [
-      "Minić je rekao da će to ojačati saradnju i bratske veze između Srbije i RS-a.",
-      "Minić said that this will strengthen cooperation and brotherly ties between Serbia and RS."
-     ],
-     [
-      "Pohvalio je i plan za bliže veze sa Srbima u Hrvatskoj i Crnoj Gori.",
-      "He also praised the plan for closer ties with Serbs in Croatia and Montenegro."
-     ],
-     [
-      "Napisao je da je Srbija najjači oslonac srpskom narodu.",
-      "He wrote that Serbia is the strongest support for the Serb people."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "program",
-     "programme"
-    ],
-    [
-     "izbori",
-     "elections"
-    ],
-    [
-     "podrška",
-     "support"
-    ],
-    [
-     "imovina",
-     "property"
-    ],
-    [
-     "nadležnost",
-     "competence, power"
-    ],
-    [
-     "visoki predstavnik",
-     "High Representative"
-    ],
-    [
-     "saradnja",
-     "cooperation"
-    ],
-    [
-     "oslonac",
-     "support, pillar"
-    ]
-   ]
-  },
-  {
-   "id": "261113196",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/mevlid-jasarevic-ostaje-u-vojkovicima-produzen-mu-ekstradicijski-pritvor-do-27-decembra/261113196",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261113196.jpg",
-   "published": "2026-11-13T17:14:00+01:00",
-   "title": [
-    "Jašarević ostaje u pritvoru do 27. decembra",
-    "Jašarević stays in custody until 27 December"
-   ],
-   "body": [
-    [
-     [
-      "Mevlid Jašarević i dalje je u pritvoru u Vojkovićima, a pritvor mu je u petak produžen do 27. decembra.",
-      "Mevlid Jašarević is still in custody in Vojkovići, and on Friday his custody was extended until 27 December."
-     ],
-     [
-      "Sjedinjene Američke Države traže da im ga Bosna i Hercegovina izruči.",
-      "The United States of America is asking Bosnia and Herzegovina to hand him over."
-     ],
-     [
-      "To je potvrdio Siniša Perković, direktor ustanove za izvršenje krivičnih sankcija.",
-      "This was confirmed by Siniša Perković, the director of the institution for the execution of criminal sanctions."
-     ]
-    ],
-    [
-     [
-      "Jašarević je 28. oktobra 2011. ispalio više od 100 metaka na zgradu američke ambasade u Sarajevu.",
-      "On 28 October 2011 Jašarević fired more than 100 bullets at the building of the American embassy in Sarajevo."
-     ],
-     [
-      "Tada je teško ranio policajca Mirsada Velića, koji je čuvao zgradu.",
-      "At that time he seriously wounded police officer Mirsad Velić, who was guarding the building."
-     ],
-     [
-      "Za terorizam je 2013. osuđen na 15 godina zatvora.",
-      "In 2013 he was sentenced to 15 years in prison for terrorism."
-     ],
-     [
-      "Trebao je izaći 27. oktobra, ali je sud tada odredio pritvor od 18 dana.",
-      "He was supposed to come out on 27 October, but the court then ordered 18 days of custody."
-     ]
-    ],
-    [
-     [
-      "U Washingtonu je još 2012. podignuta optužnica protiv njega, između ostalog za pokušaj ubistva.",
-      "Back in 2012 an indictment was filed against him in Washington, among other things for attempted murder."
-     ],
-     [
-      "Njegova advokatica je rekla da se napad desio u BiH i da mu zato treba suditi ovdje.",
-      "His lawyer said that the attack happened in BiH and that he should therefore be tried here."
-     ],
-     [
-      "Jašarević je tražio da ga puste na mjesec ili dva kako bi bio sa sinom od 16 godina.",
-      "Jašarević asked to be released for a month or two so that he could be with his 16-year-old son."
-     ],
-     [
-      "On je državljanin Srbije i nema državljanstvo BiH.",
-      "He is a citizen of Serbia and does not have BiH citizenship."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "pritvor",
-     "custody, detention"
-    ],
-    [
-     "produžiti",
-     "to extend"
-    ],
-    [
-     "izručiti",
-     "to extradite"
-    ],
-    [
-     "ambasada",
-     "embassy"
-    ],
-    [
-     "metak",
-     "bullet"
-    ],
-    [
-     "osuditi",
-     "to sentence"
-    ],
-    [
-     "optužnica",
-     "indictment"
-    ],
-    [
-     "državljanin",
-     "citizen"
-    ]
-   ]
-  },
-  {
-   "id": "261113210",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/showbiz/hrvatski-influenser-moja-majka-je-bila-na-klinici-za-psihijatriju-sveti-ivan-tek-cu-progovoriti-o-svemu/261113210",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261113210.jpg",
-   "published": "2026-11-13T17:06:00+01:00",
-   "title": [
-    "Hrvatski influenser progovorio o smrti svoje majke",
-    "Croatian influencer speaks about his mother's death"
-   ],
-   "body": [
-    [
-     [
-      "Hrvatski influenser Marco Cuccurin prvi put je javno govorio o smrti svoje majke Sanje.",
-      "Croatian influencer Marco Cuccurin spoke publicly for the first time about the death of his mother Sanja."
-     ],
-     [
-      "Ona je 2021. bila pacijentica na Klinici za psihijatriju Sveti Ivan u Zagrebu.",
-      "In 2021 she was a patient at the Sveti Ivan Psychiatric Clinic in Zagreb."
-     ],
-     [
-      "Kasnije je umrla na odjelu za zarazne bolesti, a porodica je ostala s mnogo pitanja.",
-      "She later died on the infectious diseases ward, and the family was left with many questions."
-     ]
-    ],
-    [
-     [
-      "Cuccurin je na Instagramu objavio video u kojem mu traka s natpisom \"Dosta je\" pokriva usta.",
-      "Cuccurin posted a video on Instagram in which a tape with the words \"Enough\" covers his mouth."
-     ],
-     [
-      "Rekao je da je majku izgubio s 20 godina i da tada nije imao snage govoriti.",
-      "He said that he lost his mother at 20 and that he did not have the strength to talk then."
-     ],
-     [
-      "Sada se osjeća obaveznim da progovori, a radnicima klinike to nikada neće oprostiti.",
-      "Now he feels obliged to speak out, and he will never forgive the clinic's workers for it."
-     ]
-    ],
-    [
-     [
-      "Na istoj klinici je 21. oktobra umro bivši sportista Kristian Josip Periš.",
-      "The former athlete Kristian Josip Periš died at the same clinic on 21 October."
-     ],
-     [
-      "Četiri medicinska tehničara su u pritvoru, a direktorica klinike je podnijela ostavku.",
-      "Four medical technicians are in custody, and the clinic's director has resigned."
-     ],
-     [
-      "Cuccurin poziva građane da se u subotu u 12 sati okupe na Cvjetnom trgu u Zagrebu.",
-      "Cuccurin is calling on citizens to gather at Cvjetni trg in Zagreb on Saturday at 12 o'clock."
-     ],
-     [
-      "Tamo će osam minuta šutjeti u čast Periša, njegove majke i svih psihički oboljelih.",
-      "There they will be silent for eight minutes in honour of Periš, his mother and all the mentally ill."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "majka",
-     "mother"
-    ],
-    [
-     "smrt",
-     "death"
-    ],
-    [
-     "klinika",
-     "clinic"
-    ],
-    [
-     "pacijentica",
-     "(female) patient"
-    ],
-    [
-     "oprostiti",
-     "to forgive"
-    ],
-    [
-     "ostavka",
-     "resignation"
-    ],
-    [
-     "okupiti se",
-     "to gather"
-    ],
-    [
-     "šutjeti",
-     "to be silent"
-    ]
-   ]
-  },
-  {
-   "id": "261113200",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/prvi-preletac-u-nsrs-u-vladimir-copic-dobio-mandat-na-listi-sds-a-pa-otisao-u-ujedinjenu-srpsku/261113200",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261113200.jpg",
-   "published": "2026-11-13T16:50:00+01:00",
-   "title": [
-    "Poslanik SDS-a prešao u Ujedinjenu Srpsku",
-    "SDS deputy switches to United Srpska"
-   ],
-   "body": [
-    [
-     [
-      "Vladimir Ćopić je mandat u Narodnoj skupštini RS-a osvojio na listi SDS-a, ali je sada prešao u drugu stranku.",
-      "Vladimir Ćopić won his seat in the National Assembly of RS on the SDS list, but he has now switched to another party."
-     ],
-     [
-      "U petak je predao zahtjev da uđe u klub poslanika Ujedinjene Srpske, koju vodi Nenad Stevandić.",
-      "On Friday he submitted a request to join the club of deputies of United Srpska, which is led by Nenad Stevandić."
-     ],
-     [
-      "Klix.ba piše da je on prvi poslanik u novoj skupštini koji je promijenio stranku.",
-      "Klix.ba writes that he is the first deputy in the new assembly who has changed party."
-     ]
-    ],
-    [
-     [
-      "Nakon ovog prelaska SDS će imati 9 poslanika, a Ujedinjena Srpska 6.",
-      "After this switch SDS will have 9 deputies, and United Srpska 6."
-     ],
-     [
-      "Ćopić je na izborima dobio nešto više od 1.000 glasova i tako donio SDS-u jedini mandat u svojoj izbornoj jedinici.",
-      "In the election Ćopić won just over 1,000 votes and so brought SDS its only seat in his electoral unit."
-     ],
-     [
-      "Vladajuća koalicija koju vodi SNSD ima 55 poslanika.",
-      "The ruling coalition led by SNSD has 55 deputies."
-     ],
-     [
-      "To je jedan glas manje od dvotrećinske većine, koja joj treba za četvrtog delegata u Domu naroda BiH.",
-      "That is one vote short of the two-thirds majority it needs for a fourth delegate in the House of Peoples of BiH."
-     ]
-    ],
-    [
-     [
-      "Draško Stanivuković nije spomenuo Ćopića po imenu, ali je rekao da je poslaniku ponuđen posao za suprugu.",
-      "Draško Stanivuković did not mention Ćopić by name, but he said that the deputy had been offered a job for his wife."
-     ],
-     [
-      "Njegov pokret će takve ponude prijaviti tužilaštvu.",
-      "His movement will report such offers to the prosecutor's office."
-     ],
-     [
-      "Milorad Dodik tvrdi da vlast već ima sigurnu dvotrećinsku većinu, a priča se i o novim prelascima.",
-      "Milorad Dodik claims that the government already has a secure two-thirds majority, and there is also talk of new switches."
-     ],
-     [
-      "Nova skupština bi se trebala konstituisati 16. novembra.",
-      "The new assembly is due to be constituted on 16 November."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "poslanik",
-     "deputy, MP"
-    ],
-    [
-     "mandat",
-     "seat, mandate"
-    ],
-    [
-     "stranka",
-     "party"
-    ],
-    [
-     "prelazak",
-     "switch, defection"
-    ],
-    [
-     "većina",
-     "majority"
-    ],
-    [
-     "glas",
-     "vote"
-    ],
-    [
-     "ponuda",
-     "offer"
-    ],
-    [
-     "tužilaštvo",
-     "prosecutor's office"
     ]
    ]
   }
