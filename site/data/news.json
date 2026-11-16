@@ -1,18 +1,954 @@
 {
- "updated": "2026-11-16T07:50:00+01:00",
+ "updated": "2026-11-16T13:45:00+01:00",
  "front": [
-  "261116017",
-  "261116001",
-  "261116006",
-  "261116019",
-  "261116012",
-  "261116015",
-  "261116013",
-  "261115061",
-  "261115161",
-  "261115146"
+  "261116190",
+  "261116121",
+  "261116147",
+  "261116159",
+  "261116149",
+  "261116171",
+  "261116138",
+  "261116146",
+  "261116161",
+  "261116135"
  ],
  "articles": [
+  {
+   "id": "261116190",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/stanivukovic-predao-krivicne-prijave-zbog-kupovine-papaka-u-fokusu-vladimir-copic-i-snjezana-gvozden/261116190",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261116190.jpg",
+   "published": "2026-11-16T13:35:00+01:00",
+   "title": [
+    "Stanivuković podnio krivične prijave zbog kupovine poslanika",
+    "Stanivuković filed criminal complaints over the buying of MPs"
+   ],
+   "body": [
+    [
+     [
+      "Gradonačelnik Banje Luke Draško Stanivuković danas je predao krivične prijave Republičkom javnom tužilaštvu RS-a.",
+      "Banja Luka mayor Draško Stanivuković today submitted criminal complaints to the Republic Public Prosecutor's Office of RS."
+     ],
+     [
+      "On je i predsjednik stranke Pokret Sigurna Srpska, poznate kao PSS.",
+      "He is also the president of the Pokret Sigurna Srpska party, known as PSS."
+     ],
+     [
+      "Stanivuković tvrdi da se u Narodnoj skupštini RS-a kupuju poslanici.",
+      "Stanivuković claims that MPs are being bought in the National Assembly of RS."
+     ]
+    ],
+    [
+     [
+      "Prema njegovim riječima, nekim poslanicima su nudili funkcije, posao i novac ako pređu u vladajuću većinu.",
+      "According to him, some MPs were offered positions, jobs and money if they moved to the ruling majority."
+     ],
+     [
+      "Vladimir Ćopić izabran je na listi SDS-a, a zatim je prešao u Ujedinjenu Srpsku.",
+      "Vladimir Ćopić was elected on the SDS list, and then he moved to Ujedinjena Srpska."
+     ],
+     [
+      "Stanivuković kaže da je Ćopiću ponuđeno mjesto direktora bolnice u Prijedoru.",
+      "Stanivuković says that Ćopić was offered the post of director of the hospital in Prijedor."
+     ],
+     [
+      "Snježana Gvozden napustila je PSS i prešla u SNSD, a nakon toga je postala potpredsjednica skupštine.",
+      "Snježana Gvozden left PSS and moved to SNSD, and after that she became vice-president of the assembly."
+     ],
+     [
+      "Stanivuković je rekao da je to izdaja birača i spomenuo njenu platu od više od 5.000 KM.",
+      "Stanivuković said that this is a betrayal of the voters and mentioned her salary of more than 5,000 KM."
+     ]
+    ],
+    [
+     [
+      "PSS želi promijeniti Izborni zakon BiH, tako da mandat pripada stranci, a ne poslaniku.",
+      "PSS wants to change the Election Law of BiH so that the mandate belongs to the party, not to the MP."
+     ],
+     [
+      "Prijave dolaze u vrijeme kada se nakon izbora formira nova većina u skupštini.",
+      "The complaints come at a time when a new majority is being formed in the assembly after the elections."
+     ],
+     [
+      "Da li je bilo krivičnih djela, odlučit će pravosudne institucije.",
+      "Whether there were any criminal offences will be decided by the judicial institutions."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "krivična prijava",
+     "criminal complaint"
+    ],
+    [
+     "tužilaštvo",
+     "prosecutor's office"
+    ],
+    [
+     "poslanik",
+     "member of parliament"
+    ],
+    [
+     "većina",
+     "majority"
+    ],
+    [
+     "izdaja",
+     "betrayal"
+    ],
+    [
+     "birač",
+     "voter"
+    ],
+    [
+     "mandat",
+     "mandate, seat"
+    ]
+   ]
+  },
+  {
+   "id": "261116171",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/ko-je-palestinac-ahmed-tibi-koji-je-danas-izabran-za-potpredsjednika-izraelskog-parlamenta/261116171",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261116171.jpg",
+   "published": "2026-11-16T13:18:00+01:00",
+   "title": [
+    "Palestinac Ahmed Tibi izabran za potpredsjednika Knesseta",
+    "Palestinian Ahmed Tibi elected deputy speaker of the Knesset"
+   ],
+   "body": [
+    [
+     [
+      "Ahmed Tibi, lider stranke Ta'al, danas je izabran za potpredsjednika izraelskog parlamenta, Knesseta.",
+      "Ahmed Tibi, leader of the Ta'al party, was today elected deputy speaker of the Israeli parliament, the Knesset."
+     ],
+     [
+      "On je rekao da je to pobjeda nad krajnjom desnicom u Izraelu.",
+      "He said that this is a victory over the far right in Israel."
+     ],
+     [
+      "Prema njegovim riječima, Likud i ministar Itamar Ben-Gvir pokušali su spriječiti izbor, ali nisu uspjeli.",
+      "According to him, Likud and minister Itamar Ben-Gvir tried to prevent the election, but they did not succeed."
+     ]
+    ],
+    [
+     [
+      "Tibi je rođen 1958. godine u gradu Taibe, a po zanimanju je ljekar.",
+      "Tibi was born in 1958 in the town of Taibe, and he is a doctor by profession."
+     ],
+     [
+      "Od 1993. do 1999. bio je politički savjetnik palestinskog lidera Jasera Arafata.",
+      "From 1993 to 1999 he was a political adviser to the Palestinian leader Yasser Arafat."
+     ],
+     [
+      "Stranku Ta'al osnovao je 1996. godine, a u Knesset je prvi put ušao 1999.",
+      "He founded the Ta'al party in 1996, and he first entered the Knesset in 1999."
+     ]
+    ],
+    [
+     [
+      "Tibi podržava rješenje s dvije države i pravo palestinskih izbjeglica na povratak.",
+      "Tibi supports the two-state solution and the right of Palestinian refugees to return."
+     ],
+     [
+      "Za sebe kaže da je arapski Palestinac s izraelskim državljanstvom.",
+      "He says of himself that he is an Arab Palestinian with Israeli citizenship."
+     ],
+     [
+      "Godine 2000. slomljena mu je ruka dok se suprotstavio Arielu Sharonu kod džamije Al-Aqsa.",
+      "In 2000 his arm was broken while he confronted Ariel Sharon near the Al-Aqsa mosque."
+     ],
+     [
+      "U Knessetu je 2016. godine proučio ezan, poziv na molitvu, kao protest protiv jednog zakona.",
+      "In the Knesset in 2016 he recited the adhan, the call to prayer, as a protest against a law."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "parlament",
+     "parliament"
+    ],
+    [
+     "potpredsjednik",
+     "vice-president, deputy speaker"
+    ],
+    [
+     "krajnja desnica",
+     "far right"
+    ],
+    [
+     "ljekar",
+     "doctor"
+    ],
+    [
+     "savjetnik",
+     "adviser"
+    ],
+    [
+     "izbjeglica",
+     "refugee"
+    ],
+    [
+     "državljanstvo",
+     "citizenship"
+    ]
+   ]
+  },
+  {
+   "id": "261116159",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/zeljka-cvijanovic-polozila-zakletvu-u-nsrs-u-pa-u-govoru-hvalila-dodika-sve-je-izdrzao-stoicki/261116159",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261116159.jpg",
+   "published": "2026-11-16T12:31:00+01:00",
+   "title": [
+    "Cvijanović položila zakletvu u Banjoj Luci i hvalila Dodika",
+    "Cvijanović took an oath in Banja Luka and praised Dodik"
+   ],
+   "body": [
+    [
+     [
+      "Članica Predsjedništva BiH Željka Cvijanović danas je položila zakletvu u Narodnoj skupštini RS-a.",
+      "Member of the BiH Presidency Željka Cvijanović today took an oath in the National Assembly of RS."
+     ],
+     [
+      "Ta zakletva nema pravnu snagu, jer Ustav BiH ne daje entitetskim skupštinama ulogu u tome.",
+      "That oath has no legal force, because the Constitution of BiH gives entity assemblies no role in it."
+     ],
+     [
+      "Cvijanović dužnost preuzima tek u 16 sati, na sjednici Predsjedništva u Sarajevu.",
+      "Cvijanović takes up her duty only at 16:00, at the session of the Presidency in Sarajevo."
+     ]
+    ],
+    [
+     [
+      "Ovu ceremoniju uveo je Milorad Dodik nakon izbora 2018. godine, a Cvijanović ju je ponovila i 2022.",
+      "This ceremony was introduced by Milorad Dodik after the 2018 elections, and Cvijanović repeated it in 2022 as well."
+     ],
+     [
+      "U govoru je rekla da će ponovo koristiti ustavni mehanizam za zaštitu vitalnih interesa RS-a.",
+      "In her speech she said that she will again use the constitutional mechanism to protect the vital interests of RS."
+     ],
+     [
+      "Za to joj treba podrška skupštine, ali se nada da će takvi mehanizmi biti manje potrebni.",
+      "For that she needs the support of the assembly, but she hopes such mechanisms will be needed less."
+     ]
+    ],
+    [
+     [
+      "Cvijanović je pozdravila „predsjednika Dodika“, iako on više nije predsjednik RS-a.",
+      "Cvijanović greeted \"President Dodik\", although he is no longer president of RS."
+     ],
+     [
+      "Zahvalila mu je što je cijeli taj period, kako je rekla, izdržao stoički, odnosno mirno i bez žalbe.",
+      "She thanked him for enduring that whole period, as she said, stoically, that is calmly and without complaint."
+     ],
+     [
+      "Pozvala je i da se nova vlada RS-a izabere što prije.",
+      "She also called for the new RS government to be elected as soon as possible."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "zakletva",
+     "oath"
+    ],
+    [
+     "Predsjedništvo",
+     "Presidency"
+    ],
+    [
+     "ustav",
+     "constitution"
+    ],
+    [
+     "dužnost",
+     "duty"
+    ],
+    [
+     "ceremonija",
+     "ceremony"
+    ],
+    [
+     "podrška",
+     "support"
+    ],
+    [
+     "izdržati",
+     "to endure"
+    ]
+   ]
+  },
+  {
+   "id": "261116161",
+   "source": "Klix.ba",
+   "section": "Zdravlje",
+   "url": "https://www.klix.ba/lifestyle/zdravlje/visok-krvni-pritisak-moze-biti-jedan-od-prvih-znakova-bolesti-bubrega/261116161",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261116161.jpg",
+   "published": "2026-11-16T12:30:00+01:00",
+   "title": [
+    "Visok krvni pritisak može biti znak bolesti bubrega",
+    "High blood pressure can be a sign of kidney disease"
+   ],
+   "body": [
+    [
+     [
+      "Visok krvni pritisak može biti jedan od prvih znakova bolesti bubrega.",
+      "High blood pressure can be one of the first signs of kidney disease."
+     ],
+     [
+      "Bolest bubrega na početku obično nema simptome, pa se često otkrije slučajno.",
+      "Kidney disease usually has no symptoms at the start, so it is often discovered by chance."
+     ],
+     [
+      "To pišu američke i britanske zdravstvene institucije, među njima i NHS.",
+      "This is written by American and British health institutions, among them the NHS."
+     ]
+    ],
+    [
+     [
+      "Visok pritisak polako oštećuje male krvne sudove u bubrezima, koji čiste krv.",
+      "High pressure slowly damages the small blood vessels in the kidneys, which clean the blood."
+     ],
+     [
+      "Oštećeni bubrezi teže izbacuju višak soli i vode, pa pritisak još više raste.",
+      "Damaged kidneys have more trouble removing excess salt and water, so the pressure rises even more."
+     ],
+     [
+      "Visok pritisak je drugi najčešći uzrok hronične bolesti bubrega.",
+      "High pressure is the second most common cause of chronic kidney disease."
+     ],
+     [
+      "Skoro jedna od pet odraslih osoba s visokim pritiskom ima i bolest bubrega.",
+      "Almost one in five adults with high pressure also has kidney disease."
+     ]
+    ],
+    [
+     [
+      "Kasnije se mogu javiti umor, otečeni gležnjevi, mučnina i često mokrenje noću.",
+      "Later, tiredness, swollen ankles, nausea and frequent urination at night can appear."
+     ],
+     [
+      "Stručnjaci savjetuju da s ljekarom razgovarate o jednostavnim testovima krvi i urina.",
+      "Experts advise that you talk to a doctor about simple blood and urine tests."
+     ],
+     [
+      "Ljudi s visokim pritiskom ili dijabetesom trebali bi redovno ići na kontrole.",
+      "People with high pressure or diabetes should go for regular check-ups."
+     ],
+     [
+      "Najbolji način da se bubrezi zaštite je spuštanje pritiska, a pomažu i lijekovi.",
+      "The best way to protect the kidneys is lowering the pressure, and medicines also help."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "krvni pritisak",
+     "blood pressure"
+    ],
+    [
+     "bubreg",
+     "kidney"
+    ],
+    [
+     "bolest",
+     "disease"
+    ],
+    [
+     "simptom",
+     "symptom"
+    ],
+    [
+     "krvni sud",
+     "blood vessel"
+    ],
+    [
+     "uzrok",
+     "cause"
+    ],
+    [
+     "umor",
+     "tiredness"
+    ],
+    [
+     "lijek",
+     "medicine"
+    ]
+   ]
+  },
+  {
+   "id": "261116147",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/savo-minic-u-nsrs-u-dodika-oslovio-predsjednikom-republike-srpske/261116147",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261116147.jpg",
+   "published": "2026-11-16T12:04:00+01:00",
+   "title": [
+    "Savo Minić u skupštini Dodika nazvao predsjednikom RS-a",
+    "Savo Minić called Dodik president of RS in the assembly"
+   ],
+   "body": [
+    [
+     [
+      "Novi predsjednik Republike Srpske Savo Minić danas je govorio na konstituirajućoj sjednici Narodne skupštine RS-a.",
+      "The new President of Republika Srpska, Savo Minić, spoke today at the constituent session of the National Assembly of RS."
+     ],
+     [
+      "Govor je počeo riječima: „Poštovani predsjedniče Republike Srpske, predsjedniče Dodik.“",
+      "He began the speech with the words: \"Honourable President of Republika Srpska, President Dodik.\""
+     ],
+     [
+      "To je privuklo pažnju, jer Milorad Dodik više od godinu dana nema tu funkciju.",
+      "That drew attention, because Milorad Dodik has not held that office for more than a year."
+     ]
+    ],
+    [
+     [
+      "Minić je zatim predstavio svoj program za naredni mandat.",
+      "Minić then presented his programme for the next term."
+     ],
+     [
+      "Rekao je da će uskoro početi formiranje nove vlade.",
+      "He said that the formation of the new government will begin soon."
+     ],
+     [
+      "On je kandidat SNSD-a i pobijedio je na općim izborima 4. oktobra.",
+      "He is the SNSD candidate and he won the general elections on 4 October."
+     ]
+    ],
+    [
+     [
+      "Sud BiH osudio je Dodika na godinu zatvora i šest godina zabrane obavljanja funkcije predsjednika RS-a.",
+      "The Court of BiH sentenced Dodik to a year in prison and a six-year ban on holding the office of RS president."
+     ],
+     [
+      "Kaznu zatvora kasnije je zamijenila novčana kazna.",
+      "The prison sentence was later replaced by a fine."
+     ],
+     [
+      "Centralna izborna komisija oduzela mu je mandat u augustu 2025. godine.",
+      "The Central Election Commission took away his mandate in August 2025."
+     ],
+     [
+      "Dodik te odluke nije prihvatio, a danas je predsjednik SNSD-a.",
+      "Dodik did not accept those decisions, and today he is the president of SNSD."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "sjednica",
+     "session"
+    ],
+    [
+     "govor",
+     "speech"
+    ],
+    [
+     "funkcija",
+     "office, position"
+    ],
+    [
+     "vlada",
+     "government"
+    ],
+    [
+     "izbori",
+     "elections"
+    ],
+    [
+     "zabrana",
+     "ban"
+    ],
+    [
+     "novčana kazna",
+     "fine"
+    ]
+   ]
+  },
+  {
+   "id": "261116149",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/pravilo-o-kosovu-cini-srbiju-najvjerovatnijim-rivalom-bih-u-barazu/261116149",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261116149.jpg",
+   "published": "2026-11-16T12:03:00+01:00",
+   "title": [
+    "Srbija mogući rival BiH u baražu zbog pravila o Kosovu",
+    "Serbia a possible BiH rival in the play-off because of the Kosovo rule"
+   ],
+   "body": [
+    [
+     [
+      "Reprezentacija BiH igrat će baraž za ulazak u Diviziju A Lige nacija.",
+      "The BiH national team will play a play-off for entry into Division A of the Nations League."
+     ],
+     [
+      "Žrijeb je u petak, 20. novembra, u 12 sati u švicarskom gradu Nyonu.",
+      "The draw is on Friday, 20 November, at 12:00 in the Swiss town of Nyon."
+     ],
+     [
+      "Zbog jednog pravila UEFA-e, Srbija bi mogla biti najvjerovatniji protivnik BiH.",
+      "Because of one UEFA rule, Serbia could be the most likely opponent of BiH."
+     ]
+    ],
+    [
+     [
+      "UEFA je odlučila da Kosovo ne može igrati protiv Srbije ni protiv BiH.",
+      "UEFA decided that Kosovo cannot play against Serbia or against BiH."
+     ],
+     [
+      "Ako Kosovo uđe u baraž, Srbija bi imala samo tri moguća rivala, a jedan od njih je BiH.",
+      "If Kosovo enters the play-off, Serbia would have only three possible rivals, and one of them is BiH."
+     ],
+     [
+      "Tada bi šansa za susret BiH i Srbije bila 33,3 posto.",
+      "Then the chance of a BiH–Serbia meeting would be 33.3 percent."
+     ],
+     [
+      "Portal Football Meets Data trenutno daje 28 posto šanse za taj par.",
+      "The portal Football Meets Data currently gives a 28 percent chance for that pairing."
+     ]
+    ],
+    [
+     [
+      "Srbija večeras u 20:45 igra protiv Grčke u Volosu i ne smije izgubiti visoko.",
+      "Serbia plays against Greece tonight at 20:45 in Volos and must not lose heavily."
+     ],
+     [
+      "Kosovo u utorak igra u Irskoj, a za baraž mu je dovoljan i neriješen rezultat.",
+      "Kosovo plays in Ireland on Tuesday, and a draw is enough for it to reach the play-off."
+     ],
+     [
+      "Utakmice baraža igraju se od 25. do 30. marta 2027. godine.",
+      "The play-off matches are played from 25 to 30 March 2027."
+     ],
+     [
+      "BiH će prvu utakmicu igrati kod kuće.",
+      "BiH will play the first match at home."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "žrijeb",
+     "draw (in sport)"
+    ],
+    [
+     "pravilo",
+     "rule"
+    ],
+    [
+     "protivnik",
+     "opponent"
+    ],
+    [
+     "rival",
+     "rival"
+    ],
+    [
+     "šansa",
+     "chance"
+    ],
+    [
+     "neriješen rezultat",
+     "draw, tie"
+    ],
+    [
+     "kod kuće",
+     "at home"
+    ]
+   ]
+  },
+  {
+   "id": "261116146",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/film-tv/predstavljen-program-prvog-witness-festivala-u-sarajevu-pocela-online-prodaja-ulaznica/261116146",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261116146.jpg",
+   "published": "2026-11-16T12:01:00+01:00",
+   "title": [
+    "Sarajevo dobija novi festival dokumentarnog filma",
+    "Sarajevo is getting a new documentary film festival"
+   ],
+   "body": [
+    [
+     [
+      "U Sarajevu je danas predstavljen program prvog WITNESS festivala.",
+      "The programme of the first WITNESS festival was presented in Sarajevo today."
+     ],
+     [
+      "Festival će se održati od 24. do 28. novembra, a organizuju ga Sarajevo Film Festival i fondacija WARM.",
+      "The festival will be held from 24 to 28 November, and it is organised by the Sarajevo Film Festival and the WARM foundation."
+     ],
+     [
+      "Filmovi će se prikazivati na četiri mjesta, a glavna kuća festivala je kino Meeting Point.",
+      "The films will be shown at four venues, and the main house of the festival is the Meeting Point cinema."
+     ]
+    ],
+    [
+     [
+      "Festival otvara film Sophie Fiennes, a rediteljka će doći u Sarajevo.",
+      "The festival opens with a film by Sophie Fiennes, and the director will come to Sarajevo."
+     ],
+     [
+      "Zatvara ga film Marka Cousinsa o dokumentarnom filmu devedesetih godina.",
+      "It closes with Mark Cousins's film about the documentary film of the nineties."
+     ],
+     [
+      "U programu je i film „Godina poslije Dejtona“ o prvoj godini mira u BiH.",
+      "The programme also includes the film \"A Year After Dayton\" about the first year of peace in BiH."
+     ],
+     [
+      "Ulaznice koštaju 15 KM u kinu Meeting Point i 10 KM u drugim kinima.",
+      "Tickets cost 15 KM at the Meeting Point cinema and 10 KM in the other cinemas."
+     ]
+    ],
+    [
+     [
+      "Online prodaja počela je danas u 12 sati, a blagajne se otvaraju 24. novembra.",
+      "Online sales began today at 12:00, and the box offices open on 24 November."
+     ],
+     [
+      "Izložbe i jutarnji razgovori bit će besplatni.",
+      "The exhibitions and morning talks will be free."
+     ],
+     [
+      "Organizatori su rekli da je ideja nastala iz pitanja šta bismo pitali svjedoka nakon filma.",
+      "The organisers said that the idea came from the question of what we would ask a witness after a film."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "festival",
+     "festival"
+    ],
+    [
+     "dokumentarni film",
+     "documentary film"
+    ],
+    [
+     "program",
+     "programme"
+    ],
+    [
+     "rediteljka",
+     "director (female)"
+    ],
+    [
+     "ulaznica",
+     "ticket"
+    ],
+    [
+     "blagajna",
+     "box office"
+    ],
+    [
+     "izložba",
+     "exhibition"
+    ],
+    [
+     "svjedok",
+     "witness"
+    ]
+   ]
+  },
+  {
+   "id": "261116135",
+   "source": "Klix.ba",
+   "section": "Tehnologija",
+   "url": "https://www.klix.ba/scitech/tehnologija/roboti-sviraju-klavir-i-oponasaju-pokrete-ljudskih-ociju-pomocu-umjetnih-misica/261116135",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261116135.jpg",
+   "published": "2026-11-16T11:50:00+01:00",
+   "title": [
+    "Roboti s umjetnim mišićima sviraju klavir i pomjeraju oči",
+    "Robots with artificial muscles play the piano and move their eyes"
+   ],
+   "body": [
+    [
+     [
+      "Inženjeri s Univerziteta u Pennsylvaniji razvili su nove umjetne mišiće za robote.",
+      "Engineers from the University of Pennsylvania have developed new artificial muscles for robots."
+     ],
+     [
+      "Pokazali su ih na robotskim prstima koji sviraju klavir i na očima koje gledaju kao ljudske.",
+      "They showed them on robotic fingers that play the piano and on eyes that look like human ones."
+     ],
+     [
+      "Mišići su tanka vlakna koja se mogu pomjeriti u željeni položaj i ostati u njemu.",
+      "The muscles are thin fibres that can move into a desired position and stay in it."
+     ]
+    ],
+    [
+     [
+      "Vlakna su napravljena od posebnog materijala koji mijenja oblik kada se zagrije.",
+      "The fibres are made of a special material that changes shape when it is heated."
+     ],
+     [
+      "U njima je i tanka bakarna žica, koja grije materijal i istovremeno mjeri njegov položaj.",
+      "Inside them there is also a thin copper wire, which heats the material and at the same time measures its position."
+     ],
+     [
+      "Zato robotu ne treba poseban senzor, a grafen čini materijal mekšim i jačim.",
+      "That is why the robot does not need a separate sensor, and graphene makes the material softer and stronger."
+     ],
+     [
+      "Mišići rade u parovima, slično kao mišići u ljudskom tijelu.",
+      "The muscles work in pairs, similar to the muscles in the human body."
+     ]
+    ],
+    [
+     [
+      "Profesorica Cynthia Sung rekla je da je ovo prvi put da je takvo upravljanje pokazano na ovom materijalu.",
+      "Professor Cynthia Sung said that this is the first time such control has been shown on this material."
+     ],
+     [
+      "Istraživači misle da bi se mišići mogli koristiti za lica humanoidnih robota.",
+      "The researchers think the muscles could be used for the faces of humanoid robots."
+     ],
+     [
+      "Za prirodan izraz lica potrebno je mnogo malih mišića koji rade zajedno.",
+      "A natural facial expression requires many small muscles working together."
+     ],
+     [
+      "Tim sada planira koristiti umjetnu inteligenciju za složenije pokrete.",
+      "The team now plans to use artificial intelligence for more complex movements."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "umjetni",
+     "artificial"
+    ],
+    [
+     "mišić",
+     "muscle"
+    ],
+    [
+     "klavir",
+     "piano"
+    ],
+    [
+     "vlakno",
+     "fibre"
+    ],
+    [
+     "položaj",
+     "position"
+    ],
+    [
+     "zagrijati",
+     "to heat"
+    ],
+    [
+     "istraživač",
+     "researcher"
+    ],
+    [
+     "pokret",
+     "movement"
+    ]
+   ]
+  },
+  {
+   "id": "261116121",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/muharemovic-nadam-se-velsu-u-barazu-jer-i-moji-saigraci-iz-leedsa-isto-zele/261116121",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261116121.jpg",
+   "published": "2026-11-16T11:36:00+01:00",
+   "title": [
+    "Muharemović se vraća i želi Vels u baražu",
+    "Muharemović returns and wants Wales in the play-off"
+   ],
+   "body": [
+    [
+     [
+      "Tarik Muharemović, štoper reprezentacije BiH i Leedsa, vraća se u tim za utakmicu protiv Rumunije.",
+      "Tarik Muharemović, a centre-back for the BiH national team and Leeds, returns to the team for the match against Romania."
+     ],
+     [
+      "Utakmica Lige nacija igra se u utorak u Zenici od 20:45.",
+      "The Nations League match is played on Tuesday in Zenica from 20:45."
+     ],
+     [
+      "Protiv Švedske nije mogao igrati jer je imao previše žutih kartona.",
+      "He could not play against Sweden because he had too many yellow cards."
+     ]
+    ],
+    [
+     [
+      "Muharemović je za Klix.ba rekao da mu je bilo teško gledati utakmicu s tribina.",
+      "Muharemović told Klix.ba that it was hard for him to watch the match from the stands."
+     ],
+     [
+      "Posebno mu se dopalo drugo poluvrijeme, kada su se igrači borili za svaku loptu.",
+      "He especially liked the second half, when the players fought for every ball."
+     ],
+     [
+      "Rumuniju smatra vrlo jakim timom, a BiH je s njom često igrala u posljednje dvije godine.",
+      "He considers Romania a very strong team, and BiH has often played against it in the last two years."
+     ],
+     [
+      "On misli da će Rumuni htjeti revanš za ranije rezultate.",
+      "He thinks the Romanians will want revenge for earlier results."
+     ]
+    ],
+    [
+     [
+      "BiH će u baražu igrati za plasman u Diviziju A Lige nacija.",
+      "BiH will play in the play-off for promotion to Division A of the Nations League."
+     ],
+     [
+      "Muharemović se nada da će protivnik biti Vels.",
+      "Muharemović hopes that the opponent will be Wales."
+     ],
+     [
+      "Rekao je da to žele i njegovi saigrači iz Velsa u Leedsu, jer traže revanš.",
+      "He said that his teammates from Wales at Leeds want this too, because they are looking for revenge."
+     ],
+     [
+      "Utakmicu s Rumunijom uživo prenose BHT i MY TV.",
+      "The match with Romania is broadcast live by BHT and MY TV."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "štoper",
+     "centre-back"
+    ],
+    [
+     "reprezentacija",
+     "national team"
+    ],
+    [
+     "žuti karton",
+     "yellow card"
+    ],
+    [
+     "tribina",
+     "stand (in a stadium)"
+    ],
+    [
+     "poluvrijeme",
+     "half (of a match)"
+    ],
+    [
+     "revanš",
+     "revenge, return match"
+    ],
+    [
+     "baraž",
+     "play-off"
+    ],
+    [
+     "saigrač",
+     "teammate"
+    ]
+   ]
+  },
+  {
+   "id": "261116138",
+   "source": "Klix.ba",
+   "section": "Vrijeme",
+   "url": "https://www.klix.ba/vijesti/bih/prognoza-vremena-za-naredne-dvije-sedmice-jugo-kisa-i-magla-na-kraju-mjeseca-ocekuje-se-snijeg/261116138",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261116138.jpg",
+   "published": "2026-11-16T11:34:00+01:00",
+   "title": [
+    "Dvije sedmice juga i kiše, krajem mjeseca moguć snijeg",
+    "Two weeks of jugo and rain, snow possible at the end of the month"
+   ],
+   "body": [
+    [
+     [
+      "Federalni hidrometeorološki zavod objavio je prognozu vremena od 17. do 30. novembra.",
+      "The Federal Hydrometeorological Institute has published a weather forecast from 17 to 30 November."
+     ],
+     [
+      "U Bosni i Hercegovini u narednim danima bit će oblačno, s kišom i pljuskovima.",
+      "In Bosnia and Herzegovina in the coming days it will be cloudy, with rain and showers."
+     ],
+     [
+      "Najviše padavina očekuje se na jugu i jugozapadu zemlje.",
+      "The most precipitation is expected in the south and southwest of the country."
+     ]
+    ],
+    [
+     [
+      "Jugo će donijeti temperature više od prosjeka za ovo doba godine.",
+      "The jugo will bring temperatures above average for this time of year."
+     ],
+     [
+      "Najniže temperature bit će od 7 do 13, a najviše od 12 do 17 stepeni.",
+      "The lowest temperatures will be from 7 to 13, and the highest from 12 to 17 degrees."
+     ],
+     [
+      "Na jugu Hercegovine moglo bi biti i do 20 stepeni.",
+      "In the south of Herzegovina it could be up to 20 degrees."
+     ],
+     [
+      "Ujutro je moguća magla u kotlinama i uz rijeke, posebno u utorak i petak.",
+      "In the morning fog is possible in valleys and along rivers, especially on Tuesday and Friday."
+     ]
+    ],
+    [
+     [
+      "U petak i za vikend na sjeveru i u centralnim dijelovima postepeno će se razvedravati.",
+      "On Friday and over the weekend it will gradually clear up in the north and central parts."
+     ],
+     [
+      "Početkom naredne sedmice vrijeme će biti nestabilno, s kišom i malo nižim temperaturama.",
+      "At the beginning of next week the weather will be unstable, with rain and slightly lower temperatures."
+     ],
+     [
+      "Krajem mjeseca snijeg je moguć i u višim i u nižim krajevima Bosne.",
+      "At the end of the month snow is possible in both higher and lower areas of Bosnia."
+     ],
+     [
+      "Tada bi najniže temperature mogle pasti od -2 do 3 stepena.",
+      "Then the lowest temperatures could fall to between -2 and 3 degrees."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "prognoza",
+     "forecast"
+    ],
+    [
+     "jugo",
+     "warm south wind"
+    ],
+    [
+     "padavine",
+     "precipitation"
+    ],
+    [
+     "prosjek",
+     "average"
+    ],
+    [
+     "magla",
+     "fog"
+    ],
+    [
+     "razvedravati se",
+     "to clear up"
+    ],
+    [
+     "snijeg",
+     "snow"
+    ]
+   ]
+  },
   {
    "id": "261115061",
    "source": "Klix.ba",
@@ -4710,966 +5646,6 @@
     [
      "poraz",
      "defeat"
-    ]
-   ]
-  },
-  {
-   "id": "261114094",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/domaci-teren-u-svedskoj-rijeke-bh-navijaca-preplavile-stockholm-pred-kljucni-mec-lige-nacija/261114094",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261114094.jpg",
-   "published": "2026-11-14T12:15:00+01:00",
-   "title": [
-    "Hiljade navijača BiH u Stockholmu pred utakmicu sa Švedskom",
-    "Thousands of BiH fans in Stockholm before the match against Sweden"
-   ],
-   "body": [
-    [
-     [
-      "Nogometna reprezentacija Bosne i Hercegovine večeras igra protiv Švedske u Ligi nacija.",
-      "The national football team of Bosnia and Herzegovina plays against Sweden tonight in the Nations League."
-     ],
-     [
-      "Utakmica počinje u 20:45 u Solni, gradu pored Stockholma.",
-      "The match starts at 20:45 in Solna, a town next to Stockholm."
-     ],
-     [
-      "Obje ekipe igraju za prvo mjesto u grupi, zato je meč vrlo važan.",
-      "Both teams are playing for first place in the group, so the match is very important."
-     ]
-    ],
-    [
-     [
-      "Novinari Klixa javljaju da su bh. navijači već danas preplavili ulice Stockholma.",
-      "Klix reporters say that BiH fans already flooded the streets of Stockholm today."
-     ],
-     [
-      "Na ulicama se čuju bosanski jezik i bosanske pjesme.",
-      "Bosnian language and Bosnian songs can be heard in the streets."
-     ],
-     [
-      "Svih 52.000 ulaznica je prodano, a Ambasada BiH u Švedskoj očekuje do 40.000 navijača iz BiH i dijaspore.",
-      "All 52,000 tickets have been sold, and the BiH Embassy in Sweden expects up to 40,000 fans from BiH and the diaspora."
-     ],
-     [
-      "Ambasada je za njih otvorila i posebnu telefonsku liniju.",
-      "The embassy has also opened a special phone line for them."
-     ]
-    ],
-    [
-     [
-      "Nogometni savez BiH ipak je osigurao dodatne ulaznice za navijače.",
-      "The Football Association of BiH has nevertheless secured extra tickets for the fans."
-     ],
-     [
-      "One se prodaju od 15:00 u Solna Parku, a koštaju 30 ili 60 eura.",
-      "They are on sale from 15:00 at Solna Park, and they cost 30 or 60 euros."
-     ],
-     [
-      "Mediji navijače često zovu dvanaestim igračem reprezentacije.",
-      "The media often call the fans the team's twelfth player."
-     ],
-     [
-      "Utakmicu uživo prenosi BHT.",
-      "BHT is broadcasting the match live."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "navijač",
-     "fan, supporter"
-    ],
-    [
-     "ulaznica",
-     "ticket"
-    ],
-    [
-     "utakmica",
-     "match"
-    ],
-    [
-     "ulica",
-     "street"
-    ],
-    [
-     "ambasada",
-     "embassy"
-    ],
-    [
-     "prodati",
-     "to sell"
-    ],
-    [
-     "dijaspora",
-     "diaspora"
-    ],
-    [
-     "prenositi",
-     "to broadcast"
-    ]
-   ]
-  },
-  {
-   "id": "261114080",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/nauka/leonidi-u-noci-s-utorka-na-srijedu-kada-i-kako-gledati-kisu-meteora/261114080",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261114080.jpg",
-   "published": "2026-11-14T12:05:00+01:00",
-   "title": [
-    "Kiša meteora Leonidi najjača u noći na srijedu",
-    "Leonid meteor shower strongest on the night to Wednesday"
-   ],
-   "body": [
-    [
-     [
-      "Kiša meteora Leonidi bit će najjača u noći s utorka na srijedu, od 17. na 18. novembra.",
-      "The Leonid meteor shower will be strongest on the night from Tuesday to Wednesday, 17 to 18 November."
-     ],
-     [
-      "Pod tamnim nebom moglo bi se vidjeti 10 do 15 meteora na sat.",
-      "Under a dark sky 10 to 15 meteors per hour could be seen."
-     ],
-     [
-      "Najbolje vrijeme za gledanje je nakon ponoći, oko 00:45 po našem vremenu.",
-      "The best time for watching is after midnight, around 00:45 our time."
-     ]
-    ],
-    [
-     [
-      "Leonidi su aktivni od 6. do 30. novembra, pa se pojedini meteori vide i drugih noći.",
-      "The Leonids are active from 6 to 30 November, so some meteors can be seen on other nights too."
-     ],
-     [
-      "Oni su ostaci komete 55P/Tempel-Tuttle, koja oko Sunca obiđe svake 33 godine.",
-      "They are the remains of the comet 55P/Tempel-Tuttle, which goes around the Sun every 33 years."
-     ],
-     [
-      "Prema NASA-i, u atmosferu ulaze brzinom od oko 71 kilometar u sekundi.",
-      "According to NASA, they enter the atmosphere at a speed of about 71 kilometres per second."
-     ],
-     [
-      "Zato su često vrlo svijetli, a ponekad se vide i veliki bljeskovi koji traju duže.",
-      "That is why they are often very bright, and sometimes big flashes that last longer can also be seen."
-     ]
-    ],
-    [
-     [
-      "Meteori dolaze iz pravca sazviježđa Lav, ali se mogu pojaviti bilo gdje na nebu.",
-      "The meteors come from the direction of the constellation Leo, but they can appear anywhere in the sky."
-     ],
-     [
-      "Stručnjaci savjetuju da odete daleko od gradskih svjetala, na mjesto bez zgrada i drveća.",
-      "Experts advise you to go far from city lights, to a place without buildings and trees."
-     ],
-     [
-      "Dvogled i teleskop nisu potrebni, jer smanjuju dio neba koji vidite.",
-      "Binoculars and a telescope are not needed, because they reduce the part of the sky that you see."
-     ],
-     [
-      "Očima treba oko 30 minuta da se naviknu na mrak, zato tada ne gledajte u telefon.",
-      "The eyes need about 30 minutes to get used to the dark, so do not look at your phone during that time."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "meteor",
-     "meteor"
-    ],
-    [
-     "nebo",
-     "sky"
-    ],
-    [
-     "kometa",
-     "comet"
-    ],
-    [
-     "ponoć",
-     "midnight"
-    ],
-    [
-     "brzina",
-     "speed"
-    ],
-    [
-     "sazviježđe",
-     "constellation"
-    ],
-    [
-     "mrak",
-     "darkness"
-    ],
-    [
-     "dvogled",
-     "binoculars"
-    ]
-   ]
-  },
-  {
-   "id": "261114063",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/muzika/prvi-azijski-eurosong-odrzava-se-u-bangkoku-nastupa-11-zemalja/261114063",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261114063.jpg",
-   "published": "2026-11-14T11:00:00+01:00",
-   "title": [
-    "Prvi azijski Eurosong danas u Bangkoku",
-    "The first Asian Eurovision today in Bangkok"
-   ],
-   "body": [
-    [
-     [
-      "Prvo finale azijskog Eurosonga održava se danas u Bangkoku, glavnom gradu Tajlanda.",
-      "The first final of the Asian Eurovision is being held today in Bangkok, the capital of Thailand."
-     ],
-     [
-      "Program počinje u 14:30 po našem vremenu, a nastupa 11 zemalja.",
-      "The show starts at 14:30 our time, and 11 countries are performing."
-     ],
-     [
-      "Eurosong ove godine slavi 70. rođendan i prvi put se održava izvan Evrope.",
-      "Eurovision celebrates its 70th birthday this year and is being held outside Europe for the first time."
-     ]
-    ],
-    [
-     [
-      "Pored Tajlanda, nastupaju i Malezija, Filipini, Vijetnam, Južna Koreja i Mongolija.",
-      "Besides Thailand, Malaysia, the Philippines, Vietnam, South Korea and Mongolia are also performing."
-     ],
-     [
-      "Tu su i Kambodža, Laos, Bangladeš, Nepal i Butan, ali nema Indije, Kine i Japana.",
-      "Cambodia, Laos, Bangladesh, Nepal and Bhutan are there too, but India, China and Japan are not."
-     ],
-     [
-      "Pobjednika biraju publika i žiri, svaki s 50 posto glasova.",
-      "The winner is chosen by the audience and the jury, each with 50 percent of the votes."
-     ],
-     [
-      "Tri sedmice prije finala budžet je iznenada smanjen za milion dolara.",
-      "Three weeks before the final the budget was suddenly cut by a million dollars."
-     ]
-    ],
-    [
-     [
-      "Zbog toga neki tehničari nisu došli, a fanovi su kritikovali zvuk i svjetlo na probama.",
-      "Because of that some technicians did not come, and fans criticised the sound and light at rehearsals."
-     ],
-     [
-      "Favorit je Malezija, čija pjevačica Aina Abdul pjeva pjesmu inspirisanu svojom mačkom.",
-      "The favourite is Malaysia, whose singer Aina Abdul sings a song inspired by her cat."
-     ],
-     [
-      "Najmlađa učesnica je Filipinka Carmelle Collado, koja ima 19 godina.",
-      "The youngest participant is Carmelle Collado from the Philippines, who is 19 years old."
-     ],
-     [
-      "Organizatori se nadaju da bi takmičenje moglo rasti u regiji gdje živi pola svjetske populacije.",
-      "The organisers hope the contest could grow in a region where half of the world's population lives."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "takmičenje",
-     "competition, contest"
-    ],
-    [
-     "nastupati",
-     "to perform"
-    ],
-    [
-     "publika",
-     "audience"
-    ],
-    [
-     "žiri",
-     "jury"
-    ],
-    [
-     "glas",
-     "vote; voice"
-    ],
-    [
-     "budžet",
-     "budget"
-    ],
-    [
-     "pjevačica",
-     "singer (female)"
-    ],
-    [
-     "proba",
-     "rehearsal"
-    ]
-   ]
-  },
-  {
-   "id": "261114020",
-   "source": "Klix.ba",
-   "section": "Zdravlje",
-   "url": "https://www.klix.ba/lifestyle/zdravlje/zadrzavanje-mokrace-nije-bezazleno-sta-se-desava-s-mjehurom-kad-dugo-trpite/261114020",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261114020.jpg",
-   "published": "2026-11-14T08:00:00+01:00",
-   "title": [
-    "Zašto nije dobro dugo trpjeti potrebu za toaletom",
-    "Why it is not good to hold off going to the toilet for long"
-   ],
-   "body": [
-    [
-     [
-      "Ako ponekad dugo izdržite bez odlaska u toalet, to obično nije opasno.",
-      "If you sometimes go a long time without going to the toilet, that is usually not dangerous."
-     ],
-     [
-      "Ali urolozi upozoravaju da redovno zadržavanje mokraće može oslabiti mjehur.",
-      "But urologists warn that regularly holding urine can weaken the bladder."
-     ],
-     [
-      "Tako raste rizik od infekcije, a u težim slučajevima mogu stradati i bubrezi.",
-      "That raises the risk of infection, and in more serious cases the kidneys can also be damaged."
-     ]
-    ],
-    [
-     [
-      "Prema profesoru Jasonu Kimu, zdrav mjehur može primiti oko 400 do 600 ml.",
-      "According to professor Jason Kim, a healthy bladder can hold about 400 to 600 ml."
-     ],
-     [
-      "Kada je napola pun, mozak dobija signal da je vrijeme za toalet.",
-      "When it is half full, the brain gets a signal that it is time for the toilet."
-     ],
-     [
-      "Mokraća koja dugo stoji u mjehuru postaje dobro mjesto za razvoj bakterija.",
-      "Urine that stays in the bladder for a long time becomes a good place for bacteria to grow."
-     ],
-     [
-      "Ako stalno ignorišemo potrebu, signal može postati slabiji, što Kim često vidi kod medicinskih sestara i nastavnika.",
-      "If we keep ignoring the need, the signal can become weaker, which Kim often sees in nurses and teachers."
-     ]
-    ],
-    [
-     [
-      "Doktorica Giulia Ippolito savjetuje da se mjehur prazni svaka 3 do 4 sata tokom dana.",
-      "Doctor Giulia Ippolito advises emptying the bladder every 3 to 4 hours during the day."
-     ],
-     [
-      "Posebno trebaju paziti starije osobe, trudnice i ljudi s bolestima bubrega.",
-      "Older people, pregnant women and people with kidney diseases need to be especially careful."
-     ],
-     [
-      "Ako ne možete mokriti, ljekari kažu da ne treba čekati, nego otići ljekaru.",
-      "If you cannot urinate, doctors say you should not wait, but go to a doctor."
-     ],
-     [
-      "Previše čest odlazak u toalet također može biti znak dijabetesa ili infekcije.",
-      "Going to the toilet too often can also be a sign of diabetes or an infection."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "mjehur",
-     "bladder"
-    ],
-    [
-     "mokraća",
-     "urine"
-    ],
-    [
-     "toalet",
-     "toilet"
-    ],
-    [
-     "infekcija",
-     "infection"
-    ],
-    [
-     "bubreg",
-     "kidney"
-    ],
-    [
-     "upozoravati",
-     "to warn"
-    ],
-    [
-     "savjetovati",
-     "to advise"
-    ],
-    [
-     "ljekar",
-     "doctor"
-    ]
-   ]
-  },
-  {
-   "id": "261114016",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/mediji-nemilosrdni-nakon-novog-debakla-orlova-kisa-potopila-beograd-a-njemacka-srbiju/261114016",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261114016.jpg",
-   "published": "2026-11-14T07:30:00+01:00",
-   "title": [
-    "Njemačka pobijedila Srbiju 3:1, srpski mediji vrlo kritični",
-    "Germany beat Serbia 3-1, Serbian media very critical"
-   ],
-   "body": [
-    [
-     [
-      "Nogometna reprezentacija Srbije izgubila je od Njemačke 3:1 u Ligi nacija.",
-      "Serbia's national football team lost 3-1 to Germany in the Nations League."
-     ],
-     [
-      "Utakmica je igrana na stadionu Marakana u Beogradu, pred skoro praznim tribinama.",
-      "The match was played at the Marakana stadium in Belgrade, in front of almost empty stands."
-     ],
-     [
-      "Bio je to peti uzastopni poraz Srbije, koja u grupi još nema nijedan bod.",
-      "It was Serbia's fifth consecutive defeat, and it still has not a single point in the group."
-     ]
-    ],
-    [
-     [
-      "Njemačka je vodila već u 3. minuti, nakon autogola Srđana Babića.",
-      "Germany was leading already in the 3rd minute, after an own goal by Srđan Babić."
-     ],
-     [
-      "Florian Wirtz povećao je na 2:0, a Brajan Gruda je u 50. minuti postigao treći gol.",
-      "Florian Wirtz made it 2-0, and Brajan Gruda scored the third goal in the 50th minute."
-     ],
-     [
-      "Babić je kasnije postigao gol i za Srbiju.",
-      "Babić later scored a goal for Serbia as well."
-     ],
-     [
-      "Srbija je utakmicu završila s 9 igrača, jer su Vanja Dragojević i Andrija Živković dobili crveni karton.",
-      "Serbia finished the match with 9 players, because Vanja Dragojević and Andrija Živković got a red card."
-     ]
-    ],
-    [
-     [
-      "Srpski mediji su nakon utakmice bili nemilosrdni prema timu trenera Veljka Paunovića.",
-      "After the match the Serbian media were merciless towards coach Veljko Paunović's team."
-     ],
-     [
-      "Jedan portal napisao je da je kiša potopila Beograd, a Njemačka Srbiju.",
-      "One portal wrote that the rain flooded Belgrade, and Germany flooded Serbia."
-     ],
-     [
-      "Srbija posljednju utakmicu u ovom ciklusu igra protiv Grčke 16. novembra.",
-      "Serbia plays its last match in this cycle against Greece on 16 November."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "reprezentacija",
-     "national team"
-    ],
-    [
-     "poraz",
-     "defeat"
-    ],
-    [
-     "uzastopni",
-     "consecutive"
-    ],
-    [
-     "bod",
-     "point"
-    ],
-    [
-     "autogol",
-     "own goal"
-    ],
-    [
-     "crveni karton",
-     "red card"
-    ],
-    [
-     "nemilosrdan",
-     "merciless"
-    ],
-    [
-     "trener",
-     "coach"
-    ]
-   ]
-  },
-  {
-   "id": "261114017",
-   "source": "Klix.ba",
-   "section": "Vrijeme",
-   "url": "https://www.klix.ba/vijesti/bih/stanje-na-putevima-u-bih-snijeg-i-poledica-na-komaru-kupresu-i-putu-za-jahorinu-upozorenje-i-na-odrone/261114017",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261114017.jpg",
-   "published": "2026-11-14T07:29:00+01:00",
-   "title": [
-    "Snijeg i poledica na planinskim putevima u BiH",
-    "Snow and black ice on mountain roads in BiH"
-   ],
-   "body": [
-    [
-     [
-      "Vozači u Bosni i Hercegovini jutros voze u lošim uslovima.",
-      "Drivers in Bosnia and Herzegovina are driving in poor conditions this morning."
-     ],
-     [
-      "Na višim planinskim putevima ima snijega i poledice, a ostali putevi su mokri i klizavi.",
-      "On higher mountain roads there is snow and black ice, and the other roads are wet and slippery."
-     ],
-     [
-      "Na nekim mjestima ima i magle, javio je BIHAMK.",
-      "In some places there is also fog, BIHAMK reported."
-     ]
-    ],
-    [
-     [
-      "Snijeg i poledica su na Komaru, Kupresu, Rostovu, Mliništu i na putu od Pala do Jahorine.",
-      "Snow and black ice are on Komar, Kupres, Rostovo, Mlinište and on the road from Pale to Jahorina."
-     ],
-     [
-      "Vozači ne smiju putovati bez zimske opreme, jer je ona obavezna po zakonu.",
-      "Drivers must not travel without winter equipment, because it is required by law."
-     ],
-     [
-      "Moraju prilagoditi brzinu vremenu i paziti na odrone, odnosno kamenje koje pada na cestu.",
-      "They must adapt their speed to the weather and watch out for rockfalls, that is, stones that fall onto the road."
-     ],
-     [
-      "Most Hercegovina na autoputu kod Počitelja zatvoren je zbog radova.",
-      "The Hercegovina bridge on the motorway near Počitelj is closed because of works."
-     ]
-    ],
-    [
-     [
-      "Zbog radova se na mnogim putevima vozi samo jednom trakom.",
-      "Because of works, on many roads traffic uses only one lane."
-     ],
-     [
-      "Na granicama automobili čekaju najviše 30 minuta.",
-      "At the borders, cars wait at most 30 minutes."
-     ],
-     [
-      "BIHAMK upozorava da bi čekanje moglo biti duže zbog novog sistema EU za ulazak i izlazak.",
-      "BIHAMK warns that the waiting could be longer because of the new EU entry and exit system."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "poledica",
-     "black ice"
-    ],
-    [
-     "klizav",
-     "slippery"
-    ],
-    [
-     "magla",
-     "fog"
-    ],
-    [
-     "zimska oprema",
-     "winter equipment"
-    ],
-    [
-     "obavezan",
-     "required"
-    ],
-    [
-     "odron",
-     "rockfall, landslide"
-    ],
-    [
-     "traka",
-     "lane"
-    ],
-    [
-     "granica",
-     "border"
-    ]
-   ]
-  },
-  {
-   "id": "261114010",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/zvanicno-potvrdeno-lideri-tri-najvece-nuklearne-sile-odrzat-ce-razgovor-o-naoruzanju/261114010",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261114010.jpg",
-   "published": "2026-11-14T07:24:00+01:00",
-   "title": [
-    "Trump, Xi i Putin sljedeće sedmice razgovaraju o oružju",
-    "Trump, Xi and Putin will talk about weapons next week"
-   ],
-   "body": [
-    [
-     [
-      "Bijela kuća potvrdila je da će se Donald Trump, Xi Jinping i Vladimir Putin sastati sljedeće sedmice u Kini.",
-      "The White House confirmed that Donald Trump, Xi Jinping and Vladimir Putin will meet next week in China."
-     ],
-     [
-      "Sastanak će biti u gradu Shenzhenu, tokom samita APEC-a 18. i 19. novembra.",
-      "The meeting will be in the city of Shenzhen, during the APEC summit on 18 and 19 November."
-     ],
-     [
-      "To bi bio prvi zajednički sastanak lidera SAD-a, Kine i Rusije.",
-      "It would be the first joint meeting of the leaders of the USA, China and Russia."
-     ]
-    ],
-    [
-     [
-      "Trump želi razgovarati o smanjenju nuklearnog oružja u svijetu, ali i o ratu u Iranu.",
-      "Trump wants to talk about reducing nuclear weapons in the world, but also about the war in Iran."
-     ],
-     [
-      "Ukrajina neće biti tema, jer Kina nije dio tog procesa.",
-      "Ukraine will not be a topic, because China is not part of that process."
-     ],
-     [
-      "Američki zvaničnik rekao je da Washington ne očekuje dogovor, nego samo početak razgovora.",
-      "A US official said that Washington does not expect an agreement, but only the start of talks."
-     ],
-     [
-      "Ugovor New START između SAD-a i Rusije istekao je u februaru, pa prvi put nakon 50 godina nema ograničenja.",
-      "The New START treaty between the USA and Russia expired in February, so for the first time in 50 years there are no limits."
-     ]
-    ],
-    [
-     [
-      "Ukrajinski predsjednik Volodimir Zelenski upozorio je da bi to mogla biti nova podjela svijeta, kao na Jalti 1945. godine.",
-      "Ukrainian President Volodymyr Zelensky warned that this could be a new division of the world, as at Yalta in 1945."
-     ],
-     [
-      "Kremlj je odbacio to poređenje, ali je sastanak nazvao izuzetno važnim.",
-      "The Kremlin rejected that comparison, but called the meeting extremely important."
-     ],
-     [
-      "Trump prije Kine putuje na Filipine, a s njim će ići i Elon Musk.",
-      "Before China, Trump is travelling to the Philippines, and Elon Musk will go with him."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "sastanak",
-     "meeting"
-    ],
-    [
-     "lider",
-     "leader"
-    ],
-    [
-     "nuklearno oružje",
-     "nuclear weapons"
-    ],
-    [
-     "smanjenje",
-     "reduction"
-    ],
-    [
-     "ugovor",
-     "treaty, contract"
-    ],
-    [
-     "ograničenje",
-     "limit"
-    ],
-    [
-     "upozoriti",
-     "to warn"
-    ],
-    [
-     "poređenje",
-     "comparison"
-    ]
-   ]
-  },
-  {
-   "id": "261114008",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/muzika/pitbull-priredio-show-u-beogradu-spomenuo-dokovica-i-jokica-pa-podigao-casu-sljivovice/261114008",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261114008.jpg",
-   "published": "2026-11-14T07:19:00+01:00",
-   "title": [
-    "Pitbull napunio arenu u Beogradu i pozdravio Đokovića",
-    "Pitbull filled the arena in Belgrade and greeted Đoković"
-   ],
-   "body": [
-    [
-     [
-      "Američki reper Pitbull održao je koncert u punoj Beogradskoj areni.",
-      "American rapper Pitbull held a concert in the full Belgrade Arena."
-     ],
-     [
-      "Nastup je dio njegove svjetske turneje pod nazivom \"I'm Back\".",
-      "The performance is part of his world tour called \"I'm Back\"."
-     ],
-     [
-      "Publika ga je dočekala s velikim ovacijama.",
-      "The audience welcomed him with big ovations."
-     ]
-    ],
-    [
-     [
-      "Tokom koncerta pozdravio je Novaka Đokovića i rekao da je on jedan od najboljih tenisera ikada.",
-      "During the concert he greeted Novak Đoković and said that he is one of the best tennis players ever."
-     ],
-     [
-      "Spomenuo je i košarkaša Nikolu Jokića, jednog od svojih omiljenih igrača u NBA ligi.",
-      "He also mentioned basketball player Nikola Jokić, one of his favourite players in the NBA league."
-     ],
-     [
-      "Na bini je držao bocu šljivovice, a publici je na srpskom rekao: \"Hvala, Beograde\".",
-      "On stage he held a bottle of plum brandy, and he told the audience in Serbian: \"Thank you, Belgrade\"."
-     ],
-     [
-      "Pjevao je svoje velike hitove, kao što su \"Give Me Everything\" i \"International Love\".",
-      "He sang his big hits, such as \"Give Me Everything\" and \"International Love\"."
-     ]
-    ],
-    [
-     [
-      "Jokić voli Pitbullovu muziku, a kamere su ga 2025. snimile kako na klupi pjeva njegovu pjesmu.",
-      "Jokić loves Pitbull's music, and in 2025 cameras filmed him singing his song on the bench."
-     ],
-     [
-      "Na koncertu su bile i mnoge poznate osobe iz Srbije.",
-      "Many well-known people from Serbia were also at the concert."
-     ],
-     [
-      "Pitbull je trebao istog dana nastupiti u Bratislavi, glavnom gradu Slovačke.",
-      "Pitbull was due to perform the same day in Bratislava, the capital of Slovakia."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "reper",
-     "rapper"
-    ],
-    [
-     "koncert",
-     "concert"
-    ],
-    [
-     "turneja",
-     "tour"
-    ],
-    [
-     "publika",
-     "audience"
-    ],
-    [
-     "teniser",
-     "tennis player"
-    ],
-    [
-     "košarkaš",
-     "basketball player"
-    ],
-    [
-     "bina",
-     "stage"
-    ],
-    [
-     "šljivovica",
-     "plum brandy"
-    ]
-   ]
-  },
-  {
-   "id": "261114007",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/americki-zvanicnici-se-oglasili-nakon-najveceg-prekida-aviosaobracaja-jos-od-2001-godine-zestoko-kritikovali-kongres/261114007",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261114007.jpg",
-   "published": "2026-11-14T07:14:00+01:00",
-   "title": [
-    "Duffy traži više novca za kontrolu letova u SAD-u",
-    "Duffy asks for more money for flight control in the USA"
-   ],
-   "body": [
-    [
-     [
-      "Američki zvaničnici održali su u petak konferenciju za medije u Bijeloj kući.",
-      "US officials held a press conference at the White House on Friday."
-     ],
-     [
-      "Govorili su o najvećem prekidu avionskog saobraćaja u SAD-u još od 2001. godine.",
-      "They talked about the biggest disruption of air traffic in the USA since 2001."
-     ],
-     [
-      "Ministar saobraćaja Sean Duffy potvrdio je da je zračni prostor ponovo otvoren.",
-      "Transportation Secretary Sean Duffy confirmed that the airspace has been reopened."
-     ]
-    ],
-    [
-     [
-      "Duffy je rekao da je sistem kontrole letova jako star.",
-      "Duffy said that the flight control system is very old."
-     ],
-     [
-      "Ruteri su bili preopterećeni podacima, pa su podaci postali neusklađeni.",
-      "The routers were overloaded with data, so the data became inconsistent."
-     ],
-     [
-      "On je branio radove na modernizaciji sistema, iako su oni možda doprinijeli problemu.",
-      "He defended the work on modernizing the system, although it may have contributed to the problem."
-     ],
-     [
-      "Prema njegovim riječima, mnogo je veći rizik ne raditi ništa.",
-      "According to him, doing nothing is a much bigger risk."
-     ]
-    ],
-    [
-     [
-      "Duffy već mjesecima traži od Kongresa dodatnih 30 milijardi dolara za modernizaciju.",
-      "For months Duffy has been asking Congress for an additional 30 billion dollars for modernization."
-     ],
-     [
-      "U petak je rekao da bi mu trebalo i 50 milijardi dolara.",
-      "On Friday he said that he would even need 50 billion dollars."
-     ],
-     [
-      "Rekao je da ne može ništa graditi ako nema novca.",
-      "He said that he cannot build anything if he has no money."
-     ],
-     [
-      "Ministar Markwayne Mullin rekao je da se slični problemi mogu očekivati i u budućnosti, jer potpuna obnova sistema traje dugo.",
-      "Secretary Markwayne Mullin said that similar problems can be expected in the future too, because a complete overhaul of the system takes a long time."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "zvaničnik",
-     "official"
-    ],
-    [
-     "saobraćaj",
-     "traffic"
-    ],
-    [
-     "zračni prostor",
-     "airspace"
-    ],
-    [
-     "ruter",
-     "router"
-    ],
-    [
-     "podatak",
-     "piece of data"
-    ],
-    [
-     "modernizacija",
-     "modernization"
-    ],
-    [
-     "milijarda",
-     "billion"
-    ],
-    [
-     "Kongres",
-     "Congress"
-    ]
-   ]
-  },
-  {
-   "id": "261114006",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/poraz-argentine-na-startu-ere-bez-messija-urugvaj-slavio-na-bomboneri/261114006",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261114006.jpg",
-   "published": "2026-11-14T07:09:00+01:00",
-   "title": [
-    "Argentina bez Messija izgubila od Urugvaja 2:1",
-    "Argentina without Messi lost 2-1 to Uruguay"
-   ],
-   "body": [
-    [
-     [
-      "Nogometna reprezentacija Argentine izgubila je od Urugvaja 2:1 na stadionu Bombonera.",
-      "Argentina's national football team lost 2-1 to Uruguay at the Bombonera stadium."
-     ],
-     [
-      "Bila je to prijateljska utakmica i prva u novoj eri bez Lionela Messija.",
-      "It was a friendly match and the first in a new era without Lionel Messi."
-     ],
-     [
-      "Argentina je igrala prvi put otkako je trener Lionel Scaloni produžio ugovor do 2030. godine.",
-      "Argentina played for the first time since coach Lionel Scaloni extended his contract until 2030."
-     ]
-    ],
-    [
-     [
-      "Urugvaj, kojeg vodi Diego Forlan, do poluvremena nije imao nijedan udarac u okvir gola, ali je ipak poveo.",
-      "Uruguay, coached by Diego Forlan, had no shot on target until half-time, but still took the lead."
-     ],
-     [
-      "Lisandro Martinez je loše izbio loptu, koja je udarila saigrača Leonarda Balerdija u lice i ušla u gol.",
-      "Lisandro Martinez cleared the ball badly, and it hit teammate Leonardo Balerdi in the face and went into the goal."
-     ],
-     [
-      "Ronald Araujo je nakon kornera povećao na 2:0.",
-      "After a corner, Ronald Araujo made it 2-0."
-     ],
-     [
-      "U 72. minuti Julián Álvarez je smanjio na 2:1, nakon dodavanja Gianluce Prestiannija.",
-      "In the 72nd minute Julián Álvarez cut the lead to 2-1, after a pass from Gianluca Prestianni."
-     ]
-    ],
-    [
-     [
-      "Argentina je igrala pred polupraznim tribinama i nije dobro igrala.",
-      "Argentina played in front of half-empty stands and did not play well."
-     ],
-     [
-      "Domaćim igračima nedostajala je Messijeva kreativnost, pa nisu mogli probiti odbranu Urugvaja.",
-      "The home players lacked Messi's creativity, so they could not break through Uruguay's defence."
-     ],
-     [
-      "Pred kraj je pritisak Argentine oslabio, a Urugvaj je sačuvao pobjedu.",
-      "Towards the end Argentina's pressure weakened, and Uruguay kept the win."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "prijateljska utakmica",
-     "friendly match"
-    ],
-    [
-     "era",
-     "era"
-    ],
-    [
-     "produžiti",
-     "to extend"
-    ],
-    [
-     "poluvrijeme",
-     "half-time"
-    ],
-    [
-     "saigrač",
-     "teammate"
-    ],
-    [
-     "dodavanje",
-     "pass"
-    ],
-    [
-     "odbrana",
-     "defence"
-    ],
-    [
-     "pritisak",
-     "pressure"
     ]
    ]
   }
