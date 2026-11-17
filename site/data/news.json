@@ -1,18 +1,786 @@
 {
- "updated": "2026-11-16T18:45:00+01:00",
+ "updated": "2026-11-17T07:44:00+01:00",
  "front": [
-  "261116118",
-  "261116295",
-  "261116300",
-  "261116281",
-  "261116284",
-  "261116286",
+  "261116181",
+  "261117006",
+  "261117004",
+  "261117003",
+  "261116314",
+  "261117008",
   "261116138",
-  "261116257",
-  "261116161",
-  "261116282"
+  "261116352",
+  "261117011",
+  "261116273"
  ],
  "articles": [
+  {
+   "id": "261117011",
+   "source": "Klix.ba",
+   "section": "Zdravlje",
+   "url": "https://www.klix.ba/lifestyle/zdravlje/glavobolja-nije-uvijek-neuroloske-prirode-naucnici-ukazuju-na-povezanost-s-probavnim-sistemom/261117011",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261117011.jpg",
+   "published": "2026-11-17T07:35:00+01:00",
+   "title": [
+    "Naučnici: Glavobolja može biti povezana s probavom",
+    "Scientists: Headaches may be linked to digestion"
+   ],
+   "body": [
+    [
+     [
+      "Sve više istraživanja pokazuje da glavobolja nije uvijek problem samo u mozgu.",
+      "More and more research shows that a headache is not always a problem only in the brain."
+     ],
+     [
+      "Naučnici pronalaze vezu između migrene i probavnog sistema, posebno bakterija u crijevima.",
+      "Scientists are finding a link between migraine and the digestive system, especially bacteria in the gut."
+     ],
+     [
+      "Crijeva i mozak stalno razmjenjuju signale preko nerava, hormona i imunog sistema.",
+      "The gut and the brain constantly exchange signals through nerves, hormones and the immune system."
+     ]
+    ],
+    [
+     [
+      "Pregled studija iz maja 2025. godine pokazao je da ljudi s migrenom često imaju drugačije bakterije u crijevima.",
+      "A review of studies from May 2025 showed that people with migraine often have different bacteria in the gut."
+     ],
+     [
+      "Velika britanska studija analizirala je podatke 489.753 osobe.",
+      "A large British study analysed data from 489,753 people."
+     ],
+     [
+      "Kod ljudi s migrenom šansa za sindrom iritabilnog crijeva bila je više nego dvostruko veća.",
+      "In people with migraine, the chance of irritable bowel syndrome was more than twice as high."
+     ],
+     [
+      "Ipak, to ne dokazuje da jedan problem direktno izaziva drugi.",
+      "However, this does not prove that one problem directly causes the other."
+     ]
+    ],
+    [
+     [
+      "Naučnici još ispituju da li bolja probava može smanjiti broj migrena.",
+      "Scientists are still examining whether better digestion can reduce the number of migraines."
+     ],
+     [
+      "Zasad nema dovoljno dokaza da se migrena tako liječi.",
+      "So far there is not enough evidence to treat migraine that way."
+     ],
+     [
+      "Stručnjaci kažu da ljudi s čestim glavoboljama trebaju otkriti šta ih izaziva.",
+      "Experts say that people with frequent headaches should find out what causes them."
+     ],
+     [
+      "Ako je potrebno, trebali bi otići i kod neurologa i kod gastroenterologa.",
+      "If necessary, they should see both a neurologist and a gastroenterologist."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "glavobolja",
+     "headache"
+    ],
+    [
+     "probava",
+     "digestion"
+    ],
+    [
+     "crijevo",
+     "intestine, gut"
+    ],
+    [
+     "mozak",
+     "brain"
+    ],
+    [
+     "istraživanje",
+     "research"
+    ],
+    [
+     "bakterija",
+     "bacterium"
+    ],
+    [
+     "dokaz",
+     "evidence, proof"
+    ],
+    [
+     "izazivati",
+     "to cause"
+    ]
+   ]
+  },
+  {
+   "id": "261116181",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/rastereceni-zmajevi-veceras-u-zenici-protiv-rumunije-zatvaraju-uspjesnu-godinu-u-ligi-nacija/261116181",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261116181.jpg",
+   "published": "2026-11-17T07:32:00+01:00",
+   "title": [
+    "BiH večeras igra protiv Rumunije posljednju utakmicu godine",
+    "BiH plays Romania tonight in its last match of the year"
+   ],
+   "body": [
+    [
+     [
+      "Reprezentacija BiH večeras u 20:45 igra protiv Rumunije na Bilinom polju u Zenici.",
+      "The BiH national team plays Romania tonight at 20:45 at Bilino polje in Zenica."
+     ],
+     [
+      "To je posljednje kolo grupe B4 u Ligi nacija i posljednja utakmica ove godine.",
+      "It is the last round of group B4 in the Nations League and the last match of this year."
+     ],
+     [
+      "BiH je već osigurala drugo mjesto, pa će igrati baraž za ulazak u Ligu A.",
+      "BiH has already secured second place, so it will play a play-off for promotion to League A."
+     ]
+    ],
+    [
+     [
+      "Protivnik u baražu bit će poznat nakon žrijeba u petak.",
+      "The play-off opponent will be known after the draw on Friday."
+     ],
+     [
+      "Napadač Haris Tabaković neće igrati, jer ove sedmice ide na operaciju meniskusa.",
+      "Striker Haris Tabaković will not play, because he is having meniscus surgery this week."
+     ],
+     [
+      "Tarik Muharemović se vratio nakon suspenzije, a Jovo Lukić normalno trenira nakon problema s leđima.",
+      "Tarik Muharemović is back after a suspension, and Jovo Lukić is training normally after back problems."
+     ],
+     [
+      "Rumunija je izgubila prve četiri utakmice, a u subotu je pobijedila Poljsku sa 2:1.",
+      "Romania lost its first four matches, and on Saturday it beat Poland 2:1."
+     ],
+     [
+      "BiH je pobijedila Rumuniju u posljednja tri susreta, a u septembru je slavila sa 4:2 u Bukureštu.",
+      "BiH beat Romania in their last three meetings, and in September it won 4:2 in Bucharest."
+     ]
+    ],
+    [
+     [
+      "Selektor Sergej Barbarez rekao je da tim ozbiljno shvata ovu utakmicu.",
+      "Head coach Sergej Barbarez said that the team takes this match seriously."
+     ],
+     [
+      "On želi da godina završi pobjedom pred domaćim navijačima.",
+      "He wants the year to end with a win in front of the home fans."
+     ],
+     [
+      "Utakmicu sudi Španac Jose Maria Sanchez Martinez, a prenosit će je BHT i MY TV.",
+      "The match is refereed by Spaniard Jose Maria Sanchez Martinez, and BHT and MY TV will broadcast it."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "reprezentacija",
+     "national team"
+    ],
+    [
+     "utakmica",
+     "match"
+    ],
+    [
+     "kolo",
+     "round"
+    ],
+    [
+     "baraž",
+     "play-off"
+    ],
+    [
+     "žrijeb",
+     "draw"
+    ],
+    [
+     "operacija",
+     "surgery"
+    ],
+    [
+     "navijač",
+     "fan"
+    ],
+    [
+     "pobjeda",
+     "win"
+    ]
+   ]
+  },
+  {
+   "id": "261117008",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/barbarez-odabrao-23-igraca-za-rumuniju-napravio-je-dvije-izmjene-u-odnosu-na-svedsku/261117008",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261117008.jpg",
+   "published": "2026-11-17T07:03:00+01:00",
+   "title": [
+    "Barbarez odabrao 23 igrača za utakmicu s Rumunijom",
+    "Barbarez picks 23 players for the match with Romania"
+   ],
+   "body": [
+    [
+     [
+      "Selektor Sergej Barbarez odabrao je 23 igrača za večerašnju utakmicu protiv Rumunije.",
+      "Head coach Sergej Barbarez has picked 23 players for tonight's match against Romania."
+     ],
+     [
+      "Utakmica šestog kola Lige nacija igra se u 20:45 na Bilinom polju u Zenici.",
+      "The sixth-round Nations League match is played at 20:45 at Bilino polje in Zenica."
+     ],
+     [
+      "U odnosu na utakmicu sa Švedskom, Barbarez je napravio dvije izmjene.",
+      "Compared with the match against Sweden, Barbarez made two changes."
+     ]
+    ],
+    [
+     [
+      "Na spisku su sada Jovo Lukić i Tarik Muharemović.",
+      "Jovo Lukić and Tarik Muharemović are now on the list."
+     ],
+     [
+      "Ispali su Matej Deket i Haris Tabaković, koji mora na operaciju.",
+      "Matej Deket and Haris Tabaković, who needs surgery, have dropped out."
+     ],
+     [
+      "Dennis Hadžikadunić je povrijeđen i neće igrati nijednu utakmicu u novembru.",
+      "Dennis Hadžikadunić is injured and will not play any match in November."
+     ],
+     [
+      "Selektor ima 3 golmana, 8 odbrambenih igrača, 8 veznih igrača i 4 napadača.",
+      "The coach has 3 goalkeepers, 8 defenders, 8 midfielders and 4 strikers."
+     ]
+    ],
+    [
+     [
+      "U petom kolu Švedska je u Solni pobijedila BiH sa 3:2.",
+      "In the fifth round, Sweden beat BiH 3:2 in Solna."
+     ],
+     [
+      "Golove za BiH dali su Armin Gigović i Sead Kolašinac.",
+      "The goals for BiH were scored by Armin Gigović and Sead Kolašinac."
+     ],
+     [
+      "Poljska je istog dana izgubila od Rumunije, zato je BiH osigurala baraž za Ligu A.",
+      "Poland lost to Romania on the same day, so BiH secured a play-off for League A."
+     ],
+     [
+      "Utakmicu prenose BHT i MY TV, a Klix.ba će pisati prenos uživo.",
+      "The match is broadcast by BHT and MY TV, and Klix.ba will run a live text commentary."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "selektor",
+     "head coach (of a national team)"
+    ],
+    [
+     "igrač",
+     "player"
+    ],
+    [
+     "izmjena",
+     "change"
+    ],
+    [
+     "spisak",
+     "list"
+    ],
+    [
+     "povrijeđen",
+     "injured"
+    ],
+    [
+     "golman",
+     "goalkeeper"
+    ],
+    [
+     "napadač",
+     "striker"
+    ],
+    [
+     "gol",
+     "goal"
+    ]
+   ]
+  },
+  {
+   "id": "261117006",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/iran-objavio-snimak-obaranja-americkog-f-15e-pad-uz-trag-dima-i-vatrena-kugla-na-tlu/261117006",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261117006.jpg",
+   "published": "2026-11-17T06:51:00+01:00",
+   "title": [
+    "Iran objavio snimak obaranja američkog aviona F-15E",
+    "Iran releases footage of the downing of a US F-15E plane"
+   ],
+   "body": [
+    [
+     [
+      "Iranska državna televizija IRIB objavila je snimak za koji kaže da prikazuje obaranje američkog aviona.",
+      "Iranian state television IRIB released a video which it says shows the downing of an American plane."
+     ],
+     [
+      "Riječ je o borbenom avionu F-15E, koji je pao 3. aprila iznad jugozapadnog Irana.",
+      "It is an F-15E fighter jet, which went down on 3 April over south-western Iran."
+     ],
+     [
+      "Snimak je objavljen 16. novembra, oko 7 mjeseci nakon tog događaja.",
+      "The video was released on 16 November, about 7 months after that event."
+     ]
+    ],
+    [
+     [
+      "Video traje oko 35 sekundi i snimljen je termalnom kamerom, koja snima toplotu.",
+      "The video lasts about 35 seconds and was filmed with a thermal camera, which records heat."
+     ],
+     [
+      "Na njemu se vidi kako avion pada uz trag dima, a zatim vatrena kugla na tlu.",
+      "It shows the plane falling with a trail of smoke, and then a fireball on the ground."
+     ],
+     [
+      "Na kraju se vide i dijelovi aviona na zemlji.",
+      "At the end, parts of the plane on the ground can also be seen."
+     ],
+     [
+      "Snimak je dio intervjua s vojnicima protivzračne odbrane koji kažu da su oborili avion.",
+      "The video is part of an interview with air defence soldiers who say they shot down the plane."
+     ]
+    ],
+    [
+     [
+      "SAD su potvrdile da je avion oboren, a oba pilota su preživjela i spašena su.",
+      "The US confirmed that the plane was shot down, and both crew members survived and were rescued."
+     ],
+     [
+      "Predsjednik Donald Trump rekao je da je Iran koristio raketu koja se ispaljuje s ramena.",
+      "President Donald Trump said that Iran used a missile that is fired from the shoulder."
+     ],
+     [
+      "Na snimku se ne vidi kakvo oružje je pogodilo avion.",
+      "The video does not show what kind of weapon hit the plane."
+     ],
+     [
+      "Iranski mediji su ranije objavili fotografije dijelova aviona, ali ovo je prvi video obaranja.",
+      "Iranian media earlier published photos of parts of the plane, but this is the first video of the downing."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "snimak",
+     "video, footage"
+    ],
+    [
+     "obaranje",
+     "shooting down"
+    ],
+    [
+     "avion",
+     "plane"
+    ],
+    [
+     "pasti",
+     "to fall, go down"
+    ],
+    [
+     "dim",
+     "smoke"
+    ],
+    [
+     "tlo",
+     "ground"
+    ],
+    [
+     "preživjeti",
+     "to survive"
+    ],
+    [
+     "raketa",
+     "missile"
+    ]
+   ]
+  },
+  {
+   "id": "261117004",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/regija/u-srbiji-se-danas-bira-novi-predsjednik-skupstine-on-ce-postati-i-vd-predsjednika-drzave-dva-imena-u-igri/261117004",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261117004.jpg",
+   "published": "2026-11-17T06:51:00+01:00",
+   "title": [
+    "Srbija danas bira novog predsjednika Skupštine",
+    "Serbia elects a new speaker of parliament today"
+   ],
+   "body": [
+    [
+     [
+      "Nova Narodna skupština Srbije danas u 10:00 ima prvu sjednicu.",
+      "Serbia's new National Assembly holds its first session today at 10:00."
+     ],
+     [
+      "Poslanici će potvrditi mandate i izabrati predsjednika Skupštine i potpredsjednike.",
+      "The MPs will confirm their mandates and elect the speaker and the deputy speakers."
+     ],
+     [
+      "Novi predsjednik Skupštine postat će i vršilac dužnosti predsjednika Srbije.",
+      "The new speaker will also become acting president of Serbia."
+     ]
+    ],
+    [
+     [
+      "Sjednicu je 8. novembra sazvala Ana Brnabić, koja je sada predsjednica Skupštine i vršilac dužnosti predsjednika države.",
+      "The session was called on 8 November by Ana Brnabić, who is now the speaker and acting head of state."
+     ],
+     [
+      "Ona ima tu ulogu otkako je Aleksandar Vučić podnio ostavku.",
+      "She has had this role since Aleksandar Vučić resigned."
+     ],
+     [
+      "Dok se ne izabere novi predsjednik, sjednicu vodi najstariji poslanik Stojan Radenović.",
+      "Until a new speaker is elected, the session is led by the oldest MP, Stojan Radenović."
+     ],
+     [
+      "Mediji kažu da su kandidati Studentske liste profesori Katarina Šćepanović i Aleksandar Čupić.",
+      "The media say that the Student List's candidates are professors Katarina Šćepanović and Aleksandar Čupić."
+     ]
+    ],
+    [
+     [
+      "Prema ustavu, predsjednik Skupštine može zamijeniti predsjednika države najviše 3 mjeseca.",
+      "According to the constitution, the speaker can replace the head of state for at most 3 months."
+     ],
+     [
+      "U tom roku mora raspisati predsjedničke izbore.",
+      "Within that period, he or she must call presidential elections."
+     ],
+     [
+      "Studenti nisu dobili dozvolu da prisustvuju sjednici, zato su najavili okupljanje u parku kod Skupštine.",
+      "The students did not get permission to attend the session, so they announced a gathering in the park near the Assembly."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "skupština",
+     "assembly, parliament"
+    ],
+    [
+     "sjednica",
+     "session"
+    ],
+    [
+     "poslanik",
+     "member of parliament"
+    ],
+    [
+     "ostavka",
+     "resignation"
+    ],
+    [
+     "ustav",
+     "constitution"
+    ],
+    [
+     "izbori",
+     "elections"
+    ],
+    [
+     "kandidat",
+     "candidate"
+    ],
+    [
+     "okupljanje",
+     "gathering"
+    ]
+   ]
+  },
+  {
+   "id": "261117003",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/el-sayed-trump-je-idiot-ali-vance-je-gori-od-njega-jer-je-zapravo-pametan/261117003",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261117003.jpg",
+   "published": "2026-11-17T06:30:00+01:00",
+   "title": [
+    "Novi senator El-Sayed oštro kritikovao Trumpa i Vancea",
+    "New senator El-Sayed sharply criticises Trump and Vance"
+   ],
+   "body": [
+    [
+     [
+      "Abdul El-Sayed, novi senator iz Michigana, oštro je kritikovao predsjednika SAD-a Donalda Trumpa.",
+      "Abdul El-Sayed, the new senator from Michigan, sharply criticised US President Donald Trump."
+     ],
+     [
+      "U intervjuu za emisiju novinara Mehdija Hasana nazvao ga je idiotom i narcisom.",
+      "In an interview for journalist Mehdi Hasan's show, he called him an idiot and a narcissist."
+     ],
+     [
+      "Intervju je objavljen 6. novembra, a 16. novembra se snimak proširio društvenim mrežama.",
+      "The interview was published on 6 November, and on 16 November the clip spread on social media."
+     ]
+    ],
+    [
+     [
+      "El-Sayed je rekao da je potpredsjednik JD Vance gori od Trumpa, jer je zapravo pametan.",
+      "El-Sayed said that Vice President JD Vance is worse than Trump, because he is actually smart."
+     ],
+     [
+      "Prema njegovim riječima, Vance hvali Trumpa iako misli da je on budala.",
+      "According to him, Vance praises Trump even though he thinks he is a fool."
+     ],
+     [
+      "On smatra da Vance to radi da bi bio bliže vlasti.",
+      "He believes that Vance does this to be closer to power."
+     ],
+     [
+      "El-Sayed je rekao i da se 2028. godine neće kandidovati za predsjednika.",
+      "El-Sayed also said that he will not run for president in 2028."
+     ]
+    ],
+    [
+     [
+      "El-Sayed je ljekar i epidemiolog, a izbore je dobio 3. novembra.",
+      "El-Sayed is a doctor and epidemiologist, and he won the election on 3 November."
+     ],
+     [
+      "Pobijedio je republikanca Mikea Rogersa i postao prvi musliman u američkom Senatu.",
+      "He defeated Republican Mike Rogers and became the first Muslim in the US Senate."
+     ],
+     [
+      "Dužnost preuzima u januaru 2027. godine, a zakletvu bi mu trebao dati upravo Vance.",
+      "He takes office in January 2027, and it is Vance who is expected to swear him in."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "senator",
+     "senator"
+    ],
+    [
+     "kritikovati",
+     "to criticise"
+    ],
+    [
+     "potpredsjednik",
+     "vice president"
+    ],
+    [
+     "pametan",
+     "smart"
+    ],
+    [
+     "hvaliti",
+     "to praise"
+    ],
+    [
+     "vlast",
+     "power"
+    ],
+    [
+     "ljekar",
+     "doctor"
+    ],
+    [
+     "zakletva",
+     "oath"
+    ]
+   ]
+  },
+  {
+   "id": "261116314",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/u-prijedlogu-budzeta-americkog-senata-pojavila-se-nova-nuklearna-bomba-b94-a-niko-ne-objasnjava-sta-je/261116314",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261116314.jpg",
+   "published": "2026-11-17T06:19:00+01:00",
+   "title": [
+    "U budžetu američkog Senata pojavila se nova nuklearna bomba",
+    "A new nuclear bomb appears in the US Senate budget"
+   ],
+   "body": [
+    [
+     [
+      "U prijedlogu budžeta američkog Senata za 2027. godinu pojavila se nova nuklearna bomba B94.",
+      "A new nuclear bomb, the B94, has appeared in the US Senate's budget proposal for 2027."
+     ],
+     [
+      "Za nju je planirano 77,1 milion dolara, ali niko nije objasnio šta je to oružje.",
+      "77.1 million dollars has been planned for it, but nobody has explained what this weapon is."
+     ],
+     [
+      "To je prva nova oznaka za američku nuklearnu bombu od 1991. godine.",
+      "It is the first new designation for an American nuclear bomb since 1991."
+     ]
+    ],
+    [
+     [
+      "Odbor Senata za budžet objavio je dokument 12. novembra.",
+      "The Senate budget committee published the document on 12 November."
+     ],
+     [
+      "U njemu nema opisa bombe, njene namjene ili plana za razvoj.",
+      "It contains no description of the bomb, its purpose or a development plan."
+     ],
+     [
+      "Stavku je prva primijetila stručnjakinja Eliana Johns iz Federacije američkih naučnika.",
+      "The item was first noticed by expert Eliana Johns from the Federation of American Scientists."
+     ],
+     [
+      "Slovo B znači bombu koja se baca iz aviona, a slovo W bojevu glavu za raketu.",
+      "The letter B means a bomb that is dropped from a plane, and the letter W a warhead for a missile."
+     ]
+    ],
+    [
+     [
+      "Stručnjak Jeffrey Lewis sa Univerziteta Stanford rekao je da B94 liči na projekat NDS-A.",
+      "Expert Jeffrey Lewis from Stanford University said that the B94 looks like the NDS-A project."
+     ],
+     [
+      "Ta bomba bi trebala uništavati ciljeve koji su duboko pod zemljom.",
+      "That bomb would be meant to destroy targets that are deep underground."
+     ],
+     [
+      "Novac još nije odobren, jer prijedlog mora proći Senat i Predstavnički dom.",
+      "The money has not been approved yet, because the proposal must pass the Senate and the House of Representatives."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "budžet",
+     "budget"
+    ],
+    [
+     "prijedlog",
+     "proposal"
+    ],
+    [
+     "nuklearni",
+     "nuclear"
+    ],
+    [
+     "oružje",
+     "weapon"
+    ],
+    [
+     "oznaka",
+     "designation, label"
+    ],
+    [
+     "odbor",
+     "committee"
+    ],
+    [
+     "cilj",
+     "target"
+    ],
+    [
+     "odobriti",
+     "to approve"
+    ]
+   ]
+  },
+  {
+   "id": "261116352",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/film-tv/matt-damon-moj-kolega-ben-affleck-je-bio-odusevljen-ulogom-pattinsona-u-the-odysseyu-fantastican-je/261116352",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261116352.jpg",
+   "published": "2026-11-16T22:51:00+01:00",
+   "title": [
+    "Matt Damon: Ben Affleck oduševljen Pattinsonom u filmu „The Odyssey“",
+    "Matt Damon: Ben Affleck thrilled with Pattinson in \"The Odyssey\""
+   ],
+   "body": [
+    [
+     [
+      "Glumac Matt Damon rekao je da je Ben Affleck oduševljen ulogom Roberta Pattinsona u filmu „The Odyssey“.",
+      "Actor Matt Damon said that Ben Affleck is thrilled with Robert Pattinson's role in the film \"The Odyssey\"."
+     ],
+     [
+      "Film je režirao Christopher Nolan, a Damon igra glavnu ulogu.",
+      "The film was directed by Christopher Nolan, and Damon plays the lead role."
+     ],
+     [
+      "Damon je o tome govorio za magazin People.",
+      "Damon talked about this to People magazine."
+     ]
+    ],
+    [
+     [
+      "Affleck je pogledao film i nakon toga je Damona zvao telefonom oko 45 minuta.",
+      "Affleck watched the film and afterwards called Damon on the phone for about 45 minutes."
+     ],
+     [
+      "Prema Damonovim riječima, oko 20 minuta je pričao samo o Pattinsonu.",
+      "According to Damon, he talked only about Pattinson for about 20 minutes."
+     ],
+     [
+      "Pattinson igra Antinoja, vođu muškaraca koji žele oženiti Penelopu dok Odisej nije kod kuće.",
+      "Pattinson plays Antinous, the leader of the men who want to marry Penelope while Odysseus is away from home."
+     ],
+     [
+      "Damon je rekao da je Pattinson zanimljiv i hrabar glumac i da je fantastičan.",
+      "Damon said that Pattinson is an interesting and fearless actor and that he is fantastic."
+     ]
+    ],
+    [
+     [
+      "Film je nastao prema Homerovom epu i prati Odisejev put kući nakon Trojanskog rata.",
+      "The film is based on Homer's epic and follows Odysseus's journey home after the Trojan War."
+     ],
+     [
+      "U filmu igraju i Anne Hathaway kao Penelopa i Tom Holland kao njihov sin.",
+      "Anne Hathaway as Penelope and Tom Holland as their son also appear in the film."
+     ],
+     [
+      "Pattinson je u ponedjeljak predstavljen kao novi James Bond, a uskoro igra i u filmu „Dune: Part Three“.",
+      "Pattinson was presented as the new James Bond on Monday, and he will soon also appear in \"Dune: Part Three\"."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "glumac",
+     "actor"
+    ],
+    [
+     "uloga",
+     "role"
+    ],
+    [
+     "oduševljen",
+     "thrilled"
+    ],
+    [
+     "režirati",
+     "to direct"
+    ],
+    [
+     "vođa",
+     "leader"
+    ],
+    [
+     "hrabar",
+     "brave, fearless"
+    ],
+    [
+     "ep",
+     "epic (poem)"
+    ],
+    [
+     "rat",
+     "war"
+    ]
+   ]
+  },
   {
    "id": "261116300",
    "source": "Klix.ba",
@@ -554,6 +1322,100 @@
     [
      "bitka",
      "battle"
+    ]
+   ]
+  },
+  {
+   "id": "261116273",
+   "source": "Klix.ba",
+   "section": "Tehnologija",
+   "url": "https://www.klix.ba/scitech/gaming/preuzimanja-gta-vi-srusila-rekord-najveceg-internet-cvorista-u-evropi/261116273",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261116273.jpg",
+   "published": "2026-11-16T17:21:00+01:00",
+   "title": [
+    "Preuzimanja igre GTA VI srušila rekord interneta u Frankfurtu",
+    "GTA VI downloads break an internet record in Frankfurt"
+   ],
+   "body": [
+    [
+     [
+      "Preuzimanja igre GTA VI srušila su rekord u DE-CIX-u u Frankfurtu, najvećem internet čvorištu u Evropi.",
+      "Downloads of the game GTA VI broke a record at DE-CIX in Frankfurt, the largest internet hub in Europe."
+     ],
+     [
+      "Čvorište je mjesto gdje se povezuju mreže mnogih internet kompanija.",
+      "A hub is a place where the networks of many internet companies connect."
+     ],
+     [
+      "Igrači koji su unaprijed kupili igru mogu je preuzimati od 10. novembra.",
+      "Players who bought the game in advance have been able to download it since 10 November."
+     ]
+    ],
+    [
+     [
+      "Promet je dostigao rekordnih 22,3 terabita u sekundi, što je 19% više nego prije.",
+      "Traffic reached a record 22.3 terabits per second, which is 19% more than before."
+     ],
+     [
+      "Samo igra GTA VI činila je 4 terabita u sekundi, javila je agencija Reuters.",
+      "The game GTA VI alone made up 4 terabits per second, the Reuters agency reported."
+     ],
+     [
+      "U svim čvorištima DE-CIX-a u svijetu promet je dostigao novi rekord od 33 terabita.",
+      "In all DE-CIX hubs around the world, traffic reached a new record of 33 terabits."
+     ],
+     [
+      "Igra službeno izlazi u četvrtak, 19. novembra.",
+      "The game is officially released on Thursday, 19 November."
+     ]
+    ],
+    [
+     [
+      "Tehnički direktor Thomas King rekao je da je teško reći hoće li tada pasti novi rekord.",
+      "Technical director Thomas King said that it is hard to say whether a new record will fall then."
+     ],
+     [
+      "Reuters procjenjuje da bi kompanija Take-Two mogla zaraditi 5,2 milijarde dolara u prvoj sedmici.",
+      "Reuters estimates that the company Take-Two could earn 5.2 billion dollars in the first week."
+     ],
+     [
+      "Prethodna igra GTA V izašla je 2013. godine i prodata je u 230 miliona primjeraka.",
+      "The previous game, GTA V, came out in 2013 and has sold 230 million copies."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "preuzimanje",
+     "download"
+    ],
+    [
+     "igra",
+     "game"
+    ],
+    [
+     "srušiti rekord",
+     "to break a record"
+    ],
+    [
+     "čvorište",
+     "hub"
+    ],
+    [
+     "promet",
+     "traffic"
+    ],
+    [
+     "unaprijed",
+     "in advance"
+    ],
+    [
+     "zaraditi",
+     "to earn"
+    ],
+    [
+     "primjerak",
+     "copy"
     ]
    ]
   },
@@ -4748,856 +5610,6 @@
     [
      "atmosfera",
      "atmosphere"
-    ]
-   ]
-  },
-  {
-   "id": "261114224",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/zmajevi-sigurno-u-barazu-za-ligu-a-na-putu-im-se-moze-isprijeciti-i-srbija/261114224",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261114224.jpg",
-   "published": "2026-11-14T22:59:00+01:00",
-   "title": [
-    "BiH igra baraž za Ligu A, moguć protivnik je Srbija",
-    "BiH plays a play-off for League A, Serbia is a possible opponent"
-   ],
-   "body": [
-    [
-     [
-      "Nogometna reprezentacija BiH sigurno će igrati baraž za ulazak u Ligu A Lige nacija.",
-      "The BiH football team will certainly play a play-off for entry into League A of the Nations League."
-     ],
-     [
-      "Iako je u subotu izgubila od Švedske 3:2, BiH je osigurala drugo mjesto u grupi.",
-      "Although it lost 3:2 to Sweden on Saturday, BiH secured second place in the group."
-     ],
-     [
-      "Pomogla joj je Rumunija, koja je u Bukureštu pobijedila Poljsku 2:1.",
-      "Romania helped it by beating Poland 2:1 in Bucharest."
-     ]
-    ],
-    [
-     [
-      "Švedska je prva u grupi i direktno ide u Ligu A.",
-      "Sweden is first in the group and goes directly to League A."
-     ],
-     [
-      "Protivnik BiH u baražu bit će ekipa koja je treća ili četvrta u jednoj od grupa Lige A.",
-      "BiH's opponent in the play-off will be a team that is third or fourth in one of the League A groups."
-     ],
-     [
-      "Jedna od mogućih ekipa je Srbija, koja je posljednja u svojoj grupi i još nema bodova.",
-      "One of the possible teams is Serbia, which is last in its group and still has no points."
-     ],
-     [
-      "Na listi četvrtoplasiranih ekipa prvi je Wales, a odmah iza njega je Srbija.",
-      "On the list of fourth-placed teams Wales is first, and right behind it is Serbia."
-     ]
-    ],
-    [
-     [
-      "Parovi će biti poznati nakon posljednjeg kola Lige A u utorak.",
-      "The pairings will be known after the last round of League A on Tuesday."
-     ],
-     [
-      "Žrijeb je zakazan za 20. novembar u 12:00.",
-      "The draw is scheduled for 20 November at 12:00."
-     ],
-     [
-      "Utakmice baraža igraju se od 25. do 30. marta 2027. godine, kod kuće i u gostima.",
-      "The play-off matches are played from 25 to 30 March 2027, at home and away."
-     ],
-     [
-      "Prije toga BiH u utorak igra posljednju utakmicu u grupi protiv Rumunije.",
-      "Before that, BiH plays its last group match against Romania on Tuesday."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "baraž",
-     "play-off"
-    ],
-    [
-     "protivnik",
-     "opponent"
-    ],
-    [
-     "kolo",
-     "round (of a competition)"
-    ],
-    [
-     "žrijeb",
-     "draw (of lots)"
-    ],
-    [
-     "osigurati",
-     "to secure"
-    ],
-    [
-     "ekipa",
-     "team"
-    ],
-    [
-     "bod",
-     "point"
-    ]
-   ]
-  },
-  {
-   "id": "261114207",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/zmajevi-iz-30-zamalo-do-cuda-u-stockholmu-svedani-drhtali-za-pobjedu-pred-35000-bh-navijaca/261114207",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261114207.jpg",
-   "published": "2026-11-14T22:39:00+01:00",
-   "title": [
-    "BiH izgubila 3:2 od Švedske pred 35.000 svojih navijača",
-    "BiH lost 3:2 to Sweden in front of 35,000 of its fans"
-   ],
-   "body": [
-    [
-     [
-      "Nogometna reprezentacija BiH izgubila je u subotu od Švedske 3:2 u Ligi nacija.",
-      "The Bosnia and Herzegovina football team lost 3:2 to Sweden on Saturday in the Nations League."
-     ],
-     [
-      "Utakmica je igrana na stadionu Strawberry Arena u Solni, pored Stockholma.",
-      "The match was played at the Strawberry Arena in Solna, near Stockholm."
-     ],
-     [
-      "Na tribinama je bilo oko 35.000 navijača iz BiH, pa su Zmajevi igrali kao da su kod kuće.",
-      "About 35,000 fans from BiH were in the stands, so the Dragons played as if they were at home."
-     ]
-    ],
-    [
-     [
-      "Švedska je vodila već u 5. minuti nakon gola Svenssona.",
-      "Sweden led as early as the 5th minute after a goal by Svensson."
-     ],
-     [
-      "Gyökeres je zatim dva puta zabio iz penala, pa je na poluvremenu bilo 3:0.",
-      "Gyökeres then scored twice from penalties, so it was 3:0 at half-time."
-     ],
-     [
-      "Gigović je smanjio u 47. minuti, a Kolašinac je glavom postigao gol za 3:2 u 62. minuti.",
-      "Gigović pulled one back in the 47th minute, and Kolašinac headed in the goal for 3:2 in the 62nd minute."
-     ],
-     [
-      "BiH je imala još nekoliko dobrih prilika, ali izjednačenje nije došlo.",
-      "BiH had several more good chances, but the equaliser did not come."
-     ]
-    ],
-    [
-     [
-      "Selektor Sergej Barbarez bio je ljut na italijanskog sudiju Simonea Sozzu.",
-      "Head coach Sergej Barbarez was angry with the Italian referee Simone Sozza."
-     ],
-     [
-      "Član stručnog štaba Zlatan Bajramović dobio je crveni karton.",
-      "Coaching staff member Zlatan Bajramović got a red card."
-     ],
-     [
-      "Švedska sada ima 13 bodova i sigurno je prva u grupi.",
-      "Sweden now has 13 points and is certain to finish first in the group."
-     ],
-     [
-      "BiH posljednju utakmicu u grupi igra protiv Rumunije.",
-      "BiH plays its last group match against Romania."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "reprezentacija",
-     "national team"
-    ],
-    [
-     "navijač",
-     "fan, supporter"
-    ],
-    [
-     "tribina",
-     "stand (in a stadium)"
-    ],
-    [
-     "penal",
-     "penalty"
-    ],
-    [
-     "poluvrijeme",
-     "half-time, half"
-    ],
-    [
-     "izjednačenje",
-     "equaliser"
-    ],
-    [
-     "sudija",
-     "referee, judge"
-    ],
-    [
-     "bod",
-     "point"
-    ]
-   ]
-  },
-  {
-   "id": "261114200",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/film-tv/zasto-su-kriticari-odusevljeni-dokumentarcem-you-can-see-everything/261114200",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261114200.jpg",
-   "published": "2026-11-14T21:08:00+01:00",
-   "title": [
-    "Kritičari oduševljeni dokumentarcem o Elizabeth Holmes",
-    "Critics delighted with the documentary about Elizabeth Holmes"
-   ],
-   "body": [
-    [
-     [
-      "Dokumentarni film „You Can See Everything“ kritičari hvale kao jedan od najboljih filmova godine.",
-      "Critics praise the documentary \"You Can See Everything\" as one of the best films of the year."
-     ],
-     [
-      "Režirali su ga Nathan Fielder i Lance Oppenheim, a producent je kompanija A24.",
-      "It was directed by Nathan Fielder and Lance Oppenheim, and the producer is the company A24."
-     ],
-     [
-      "Film je u američka kina došao 16. oktobra.",
-      "The film came to American cinemas on 16 October."
-     ]
-    ],
-    [
-     [
-      "Film prati Elizabeth Holmes, osnivačicu kompanije Theranos.",
-      "The film follows Elizabeth Holmes, the founder of the company Theranos."
-     ],
-     [
-      "Ona je tvrdila da može uraditi desetine testova iz nekoliko kapi krvi, ali tehnologija nije radila.",
-      "She claimed that she could do dozens of tests from a few drops of blood, but the technology did not work."
-     ],
-     [
-      "Zbog prevare investitora 2022. godine osuđena je na više od 11 godina zatvora.",
-      "For defrauding investors she was sentenced in 2022 to more than 11 years in prison."
-     ],
-     [
-      "Prije nego što je otišla u zatvor, pozvala je Fieldera da snima njen svakodnevni život.",
-      "Before she went to prison, she invited Fielder to film her everyday life."
-     ]
-    ],
-    [
-     [
-      "Na stranici Metacritic film ima ocjenu 97 od 100, a na Rotten Tomatoes 96 posto pozitivnih kritika.",
-      "On Metacritic the film has a score of 97 out of 100, and on Rotten Tomatoes 96 percent positive reviews."
-     ],
-     [
-      "Kritičari kažu da film postavlja pitanje koliko možemo vjerovati onome što vidimo.",
-      "Critics say that the film asks how much we can trust what we see."
-     ],
-     [
-      "Na dodjeli nagrada Critics Choice 8. novembra u New Yorku osvojio je svih pet nagrada za koje je bio nominovan.",
-      "At the Critics Choice awards on 8 November in New York it won all five awards it was nominated for."
-     ],
-     [
-      "U Sjevernoj Americi zaradio je skoro 80 miliona dolara, što je rijetko za dokumentarac od skoro tri sata.",
-      "In North America it earned almost 80 million dollars, which is rare for a documentary of almost three hours."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "kritičar",
-     "critic"
-    ],
-    [
-     "dokumentarac",
-     "documentary"
-    ],
-    [
-     "prevara",
-     "fraud"
-    ],
-    [
-     "zatvor",
-     "prison"
-    ],
-    [
-     "ocjena",
-     "score, grade"
-    ],
-    [
-     "nagrada",
-     "award"
-    ],
-    [
-     "zaraditi",
-     "to earn"
-    ]
-   ]
-  },
-  {
-   "id": "261114171",
-   "source": "Klix.ba",
-   "section": "Zdravlje",
-   "url": "https://www.klix.ba/lifestyle/zdravlje/redovno-konzumiranje-kafe-povezano-s-promjenama-u-radu-crijeva/261114171",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261114171.jpg",
-   "published": "2026-11-14T18:30:00+01:00",
-   "title": [
-    "Istraživanje: Kafa može promijeniti rad crijeva",
-    "Study: Coffee can change how the gut works"
-   ],
-   "body": [
-    [
-     [
-      "Naučnici sa Univerziteta u Kopenhagenu istraživali su kako kafa utiče na rad crijeva.",
-      "Scientists from the University of Copenhagen researched how coffee affects how the gut works."
-     ],
-     [
-      "U istraživanju je učestvovala 61 zdrava odrasla osoba.",
-      "61 healthy adults took part in the study."
-     ],
-     [
-      "Rezultati su objavljeni u naučnom časopisu, a o njima je pisao Euronews.",
-      "The results were published in a scientific journal, and Euronews wrote about them."
-     ]
-    ],
-    [
-     [
-      "Pedeset učesnika progutalo je malu elektronsku kapsulu koja je prolazila kroz probavni sistem.",
-      "Fifty participants swallowed a small electronic capsule that passed through the digestive system."
-     ],
-     [
-      "Kapsula je mjerila temperaturu, kiselost i pokrete crijeva.",
-      "The capsule measured temperature, acidity and the movements of the gut."
-     ],
-     [
-      "Učesnici su podijeljeni u dvije grupe prema tome koliko često piju kafu.",
-      "The participants were divided into two groups according to how often they drink coffee."
-     ],
-     [
-      "Prva grupa pila je jednu do pet šoljica dnevno više od tri dana u toku osam dana istraživanja.",
-      "The first group drank one to five cups a day on more than three of the eight days of the study."
-     ]
-    ],
-    [
-     [
-      "Kod ljudi koji redovno piju kafu bilo je više različitih vrsta crijevnih bakterija.",
-      "In people who regularly drink coffee there were more different kinds of gut bacteria."
-     ],
-     [
-      "Njihovo debelo crijevo češće se stezalo, a u tankom crijevu kiselost je bila veća.",
-      "Their large intestine contracted more often, and acidity was higher in the small intestine."
-     ],
-     [
-      "Autori ipak kažu da kafa samo može uticati na probavu, jer istraživanje ne dokazuje uzrok.",
-      "The authors nevertheless say that coffee only may affect digestion, because the study does not prove a cause."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "kafa",
-     "coffee"
-    ],
-    [
-     "crijevo",
-     "intestine, gut"
-    ],
-    [
-     "naučnik",
-     "scientist"
-    ],
-    [
-     "istraživanje",
-     "study, research"
-    ],
-    [
-     "kapsula",
-     "capsule"
-    ],
-    [
-     "kiselost",
-     "acidity"
-    ],
-    [
-     "probava",
-     "digestion"
-    ],
-    [
-     "šoljica",
-     "cup"
-    ]
-   ]
-  },
-  {
-   "id": "261114168",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/muzika/filipinka-carmelle-pobijedila-na-prvom-azijskom-eurosongu-trofej-joj-urucila-bugarska-pjevacica-dara/261114168",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261114168.jpg",
-   "published": "2026-11-14T18:20:00+01:00",
-   "title": [
-    "Pjevačica s Filipina pobijedila na prvom azijskom Eurosongu",
-    "A singer from the Philippines won the first Asian Eurovision"
-   ],
-   "body": [
-    [
-     [
-      "Filipinska pjevačica Carmelle pobijedila je na prvom azijskom Eurosongu s pjesmom \"Sobra-Sobra\".",
-      "Filipino singer Carmelle won the first Asian Eurovision with the song \"Sobra-Sobra\"."
-     ],
-     [
-      "Finale je održano u subotu u Bangkoku, glavnom gradu Tajlanda.",
-      "The final was held on Saturday in Bangkok, the capital of Thailand."
-     ],
-     [
-      "Trofej joj je uručila bugarska pjevačica DARA, koja je pobijedila na ovogodišnjem Eurosongu u Beču.",
-      "The trophy was presented to her by Bulgarian singer DARA, who won this year's Eurovision in Vienna."
-     ]
-    ],
-    [
-     [
-      "Carmelle je osvojila 211 bodova i bila je prva i kod žirija i kod publike.",
-      "Carmelle won 211 points and was first both with the jury and with the public."
-     ],
-     [
-      "Drugo mjesto zauzeo je tajlandski duo MANG x DAOU sa 170 bodova, a treća je bila Tóc Tiên iz Vijetnama.",
-      "Second place went to the Thai duo MANG x DAOU with 170 points, and third was Tóc Tiên from Vietnam."
-     ],
-     [
-      "Na takmičenju je učestvovalo 11 zemalja, a pjesme su se pjevale na deset lokalnih jezika i engleskom.",
-      "11 countries took part in the competition, and songs were sung in ten local languages and English."
-     ],
-     [
-      "Prema organizatorima, glasovi su stigli iz 183 zemlje i teritorije.",
-      "According to the organisers, votes came from 183 countries and territories."
-     ]
-    ],
-    [
-     [
-      "Carmelle je poznata iz televizijskih takmičenja, a pjesmu pjeva na filipinskom i engleskom.",
-      "Carmelle is known from television competitions, and she sings the song in Filipino and English."
-     ],
-     [
-      "Pjesma govori o snazi žena na Filipinima.",
-      "The song is about the strength of women in the Philippines."
-     ],
-     [
-      "Direktor Eurosonga Martin Green rekao je da je prvo azijsko izdanje veliki korak za takmičenje.",
-      "Eurovision director Martin Green said that the first Asian edition is a big step for the competition."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "pjevačica",
-     "singer (female)"
-    ],
-    [
-     "pobijediti",
-     "to win"
-    ],
-    [
-     "finale",
-     "final"
-    ],
-    [
-     "trofej",
-     "trophy"
-    ],
-    [
-     "žiri",
-     "jury"
-    ],
-    [
-     "publika",
-     "audience, public"
-    ],
-    [
-     "takmičenje",
-     "competition"
-    ],
-    [
-     "glas",
-     "vote, voice"
-    ]
-   ]
-  },
-  {
-   "id": "261114153",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/bh-fanaticosi-zapalili-stockholm-i-u-korteu-krenuli-prema-strawberry-areni-u-solni/261114153",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261114153.jpg",
-   "published": "2026-11-14T18:15:00+01:00",
-   "title": [
-    "Navijači BiH u velikoj koloni krenuli prema stadionu u Solni",
-    "BiH fans set off in a big column towards the stadium in Solna"
-   ],
-   "body": [
-    [
-     [
-      "Navijači Bosne i Hercegovine u subotu su u velikoj koloni krenuli prema stadionu Strawberry Arena u Solni.",
-      "Fans of Bosnia and Herzegovina set off on Saturday in a big column towards the Strawberry Arena stadium in Solna."
-     ],
-     [
-      "Kolonu je predvodila navijačka grupa BH Fanaticosi.",
-      "The column was led by the fan group BH Fanaticosi."
-     ],
-     [
-      "Reprezentacija BiH večeras u 20:45 igra protiv Švedske u petom kolu Lige nacija.",
-      "The BiH national team plays against Sweden tonight at 20:45 in the fifth round of the Nations League."
-     ]
-    ],
-    [
-     [
-      "Navijači su se cijeli dan okupljali u Stockholmu, a prema stadionu su krenuli u 18:00.",
-      "Fans gathered in Stockholm all day, and they set off towards the stadium at 18:00."
-     ],
-     [
-      "Na ulicama grada zapalili su mnogo baklji, pa je atmosfera bila vrlo jaka.",
-      "They lit many flares on the city streets, so the atmosphere was very strong."
-     ],
-     [
-      "Grupa je šetnju najavila na Facebooku pod imenom \"Operacija Stockholm\" i zamolila navijače da dođu u crnom.",
-      "The group announced the march on Facebook under the name \"Operation Stockholm\" and asked fans to come in black."
-     ],
-     [
-      "Prema Nogometnom savezu BiH, sektor F za bh. navijače otvara se u 18:30, sat prije ostatka stadiona.",
-      "According to the Football Association of BiH, sector F for BiH fans opens at 18:30, an hour before the rest of the stadium."
-     ]
-    ],
-    [
-     [
-      "Savez je pozvao navijače da dođu ranije, kako ne bi bilo gužve na ulazima.",
-      "The association called on fans to come early so that there would be no crowds at the entrances."
-     ],
-     [
-      "BiH je nakon četiri kola druga u grupi s 8 bodova, dva manje od Švedske.",
-      "After four rounds, BiH is second in the group with 8 points, two fewer than Sweden."
-     ],
-     [
-      "Ako večeras pobijedi, reprezentacija BiH bi preuzela prvo mjesto.",
-      "If it wins tonight, the BiH national team would take over first place."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "navijač",
-     "fan"
-    ],
-    [
-     "kolona",
-     "column, procession"
-    ],
-    [
-     "baklja",
-     "flare, torch"
-    ],
-    [
-     "stadion",
-     "stadium"
-    ],
-    [
-     "kolo",
-     "round (of a competition)"
-    ],
-    [
-     "gužva",
-     "crowd"
-    ],
-    [
-     "ulaz",
-     "entrance"
-    ],
-    [
-     "bod",
-     "point"
-    ]
-   ]
-  },
-  {
-   "id": "261114159",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/navijaci-bih-okupirali-metro-u-stockholmu-sprema-se-pravi-spektakl/261114159",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261114159.jpg",
-   "published": "2026-11-14T17:30:00+01:00",
-   "title": [
-    "Navijači BiH ispunili metro u Stockholmu pred veliku utakmicu",
-    "BiH fans filled the Stockholm metro before the big match"
-   ],
-   "body": [
-    [
-     [
-      "Navijači Bosne i Hercegovine u subotu su ispunili metro u Stockholmu.",
-      "Fans of Bosnia and Herzegovina filled the metro in Stockholm on Saturday."
-     ],
-     [
-      "Novinari Klixa javljaju da su se u vagonima čule pjesme i vidjele boje BiH.",
-      "Klix reporters report that songs were heard and the colours of BiH were seen in the carriages."
-     ],
-     [
-      "Reprezentacija večeras u 20:45 igra protiv Švedske na stadionu u Solni.",
-      "The national team plays against Sweden tonight at 20:45 at the stadium in Solna."
-     ]
-    ],
-    [
-     [
-      "Utakmica petog kola grupe B4 odlučuje o prvom mjestu.",
-      "The match of the fifth round of group B4 decides first place."
-     ],
-     [
-      "Švedska ima 10 bodova, a BiH 8, pa bi pobjeda Švedske donijela prvo mjesto i ulazak u Ligu A.",
-      "Sweden has 10 points and BiH 8, so a Swedish win would bring first place and entry into League A."
-     ],
-     [
-      "Ako pobijedi BiH, pobjednik grupe dobit će se tek u zadnjem kolu.",
-      "If BiH wins, the group winner will only be decided in the last round."
-     ],
-     [
-      "Zbog velikog interesa, savez je pustio u prodaju dodatne ulaznice po 30 i 60 eura.",
-      "Because of great interest, the association put extra tickets on sale for 30 and 60 euros."
-     ]
-    ],
-    [
-     [
-      "BiH je u ovoj grupi igrala 0:0 u Poljskoj, pobijedila Rumuniju 4:2 i igrala 1:1 sa Švedskom.",
-      "In this group BiH drew 0:0 in Poland, beat Romania 4:2 and drew 1:1 with Sweden."
-     ],
-     [
-      "Nakon toga je kod kuće pobijedila Poljsku 1:0.",
-      "After that it beat Poland 1:0 at home."
-     ],
-     [
-      "Selektor Sergej Barbarez rekao je da očekuje podršku navijača kao i uvijek, ali da Švedska ima dobru ekipu.",
-      "Head coach Sergej Barbarez said that he expects the fans' support as always, but that Sweden has a good team."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "metro",
-     "metro, underground"
-    ],
-    [
-     "vagon",
-     "carriage"
-    ],
-    [
-     "pjesma",
-     "song"
-    ],
-    [
-     "pobjeda",
-     "win, victory"
-    ],
-    [
-     "pobjednik",
-     "winner"
-    ],
-    [
-     "ulaznica",
-     "ticket"
-    ],
-    [
-     "selektor",
-     "national team head coach"
-    ],
-    [
-     "podrška",
-     "support"
-    ]
-   ]
-  },
-  {
-   "id": "261114157",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/pirotehnika-skupo-kostala-sarajevo-i-zeljeznicar-kosevu-prijeti-zatvaranje/261114157",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261114157.jpg",
-   "published": "2026-11-14T17:30:00+01:00",
-   "title": [
-    "Sarajevo i Željezničar kažnjeni zbog pirotehnike na derbiju",
-    "Sarajevo and Željezničar fined over pyrotechnics at the derby"
-   ],
-   "body": [
-    [
-     [
-      "Disciplinska komisija Nogometnog saveza BiH kaznila je FK Sarajevo i FK Željezničar zbog pirotehnike.",
-      "The disciplinary committee of the Football Association of BiH fined FK Sarajevo and FK Željezničar over pyrotechnics."
-     ],
-     [
-      "Sarajevo mora platiti 16.500 KM, a Željezničar ukupno 20.000 KM.",
-      "Sarajevo must pay 16,500 KM, and Željezničar a total of 20,000 KM."
-     ],
-     [
-      "Kazne su uglavnom zbog gradskog derbija na stadionu Koševo.",
-      "The fines are mainly because of the city derby at the Koševo stadium."
-     ]
-    ],
-    [
-     [
-      "Sarajevo je platilo 10.000 KM zbog pirotehnike i 5.000 KM zbog loše organizacije utakmice.",
-      "Sarajevo paid 10,000 KM because of pyrotechnics and 5,000 KM because of poor organisation of the match."
-     ],
-     [
-      "Još 1.500 KM klub plaća zbog dronova, lasera i drugih svjetlosnih efekata.",
-      "The club pays another 1,500 KM because of drones, lasers and other light effects."
-     ],
-     [
-      "Ako se to ponovi u narednih šest mjeseci, Sarajevo će igrati pred praznim stadionom.",
-      "If this happens again in the next six months, Sarajevo will play in front of an empty stadium."
-     ],
-     [
-      "Željezničar je dobio 10.000 KM kazne za derbi i još 10.000 KM za utakmicu protiv Zrinjskog.",
-      "Željezničar got a 10,000 KM fine for the derby and another 10,000 KM for the match against Zrinjski."
-     ]
-    ],
-    [
-     [
-      "Željezničar je tu utakmicu kod kuće izgubio 0:4.",
-      "Željezničar lost that match at home 0:4."
-     ],
-     [
-      "I njemu prijeti zabrana dolaska navijača na jednu utakmicu ako se prekršaj ponovi.",
-      "It is also threatened with a ban on fans attending one match if the offence is repeated."
-     ],
-     [
-      "Kazne su dobili i drugi klubovi, među njima Zrinjski 6.000 KM i Borac 5.500 KM.",
-      "Other clubs also got fines, among them Zrinjski 6,000 KM and Borac 5,500 KM."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "kazna",
-     "fine, penalty"
-    ],
-    [
-     "kazniti",
-     "to fine, to punish"
-    ],
-    [
-     "pirotehnika",
-     "pyrotechnics"
-    ],
-    [
-     "derbi",
-     "derby"
-    ],
-    [
-     "prazan",
-     "empty"
-    ],
-    [
-     "zabrana",
-     "ban"
-    ],
-    [
-     "prekršaj",
-     "offence"
-    ],
-    [
-     "klub",
-     "club"
-    ]
-   ]
-  },
-  {
-   "id": "261110200",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/strucnjaci-o-deponiji-u-vodozastitnoj-zoni-na-ilidzi-zagadenje-bi-moglo-ostati-godinama/261110200",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261110200.jpg",
-   "published": "2026-11-14T17:20:00+01:00",
-   "title": [
-    "Stručnjaci: Deponija na Ilidži mogla bi godinama zagađivati tlo",
-    "Experts: The dump in Ilidža could pollute the soil for years"
-   ],
-   "body": [
-    [
-     [
-      "Divlja deponija na Ilidži nalazi se u prvoj zoni zaštite izvorišta vode Sarajevsko polje.",
-      "A wild dump in Ilidža is located in the first protection zone of the Sarajevsko polje water source."
-     ],
-     [
-      "Stručnjaci upozoravaju da bi zagađenje tla moglo ostati godinama.",
-      "Experts warn that the soil pollution could remain for years."
-     ],
-     [
-      "Otpad se zakopava i pali pored rijeke Željeznice, između Sokolović Kolonije i Hrasnice.",
-      "Waste is buried and burned next to the Željeznica river, between Sokolović Kolonija and Hrasnica."
-     ]
-    ],
-    [
-     [
-      "Profesor Haris Kalajdžisalihović rekao je da bi zagađenje iz prve zone brzo moglo doći do bunara.",
-      "Professor Haris Kalajdžisalihović said that pollution from the first zone could quickly reach the wells."
-     ],
-     [
-      "Podzemna voda je tu obično 5 do 10 metara ispod površine.",
-      "The groundwater there is usually 5 to 10 metres below the surface."
-     ],
-     [
-      "Biolog Admir Aladžuz najviše brine zbog ulja i metala, jer ih kiša može odnijeti u podzemnu vodu.",
-      "Biologist Admir Aladžuz is most worried about oils and metals, because rain can carry them into the groundwater."
-     ],
-     [
-      "Zato predlaže da se voda testira na metale i ulja.",
-      "That is why he suggests that the water be tested for metals and oils."
-     ]
-    ],
-    [
-     [
-      "Sarajevsko polje snabdijeva vodom više od polovine stanovnika Sarajeva, a grad nema drugi izvor slične veličine.",
-      "Sarajevsko polje supplies water to more than half of Sarajevo's residents, and the city has no other source of similar size."
-     ],
-     [
-      "Kalajdžisalihović kaže da treba utvrditi ko je odgovoran, zaustaviti odlaganje otpada i naći novac za čišćenje.",
-      "Kalajdžisalihović says it is necessary to establish who is responsible, stop the dumping of waste and find money for the clean-up."
-     ],
-     [
-      "Tužilaštvo Kantona Sarajevo je u julu odlučilo da ne pokrene istragu protiv bivšeg načelnika Ilidže.",
-      "The Sarajevo Canton Prosecutor's Office decided in July not to open an investigation against the former mayor of Ilidža."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "deponija",
-     "dump, landfill"
-    ],
-    [
-     "zagađenje",
-     "pollution"
-    ],
-    [
-     "otpad",
-     "waste"
-    ],
-    [
-     "izvorište",
-     "water source"
-    ],
-    [
-     "bunar",
-     "well"
-    ],
-    [
-     "podzemna voda",
-     "groundwater"
-    ],
-    [
-     "tlo",
-     "soil"
-    ],
-    [
-     "stručnjak",
-     "expert"
     ]
    ]
   }
