@@ -1,18 +1,926 @@
 {
- "updated": "2026-11-18T13:50:00+01:00",
+ "updated": "2026-11-18T18:43:00+01:00",
  "front": [
-  "261118147",
-  "261118123",
-  "261118157",
-  "261118154",
-  "261118149",
-  "261118108",
-  "261118021",
-  "261118144",
-  "261118024",
-  "261118096"
+  "261118257",
+  "261118269",
+  "261118254",
+  "261118248",
+  "261118247",
+  "261118260",
+  "261118261",
+  "261118217",
+  "261118255",
+  "261118246"
  ],
  "articles": [
+  {
+   "id": "261118269",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/kompletirana-lista-buducih-ministara-u-vladi-tk-samo-jedna-osoba-ostala-iz-jos-uvijek-aktuelnog-saziva/261118269",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261118269.jpg",
+   "published": "2026-11-18T18:32:00+01:00",
+   "title": [
+    "Poznata su imena svih budućih ministara u Vladi TK",
+    "The names of all future ministers in the Tuzla Canton government are known"
+   ],
+   "body": [
+    [
+     [
+      "Stranke koje formiraju novu vlast u Tuzlanskom kantonu predložile su kandidate za svih 12 ministarstava.",
+      "The parties forming the new government in Tuzla Canton have proposed candidates for all 12 ministries."
+     ],
+     [
+      "Posljednji je svoje kandidate predložio Demokratski front.",
+      "The Democratic Front was the last to propose its candidates."
+     ],
+     [
+      "Novu vladu će voditi mandatar Omer Kovčić iz SDA.",
+      "The new government will be led by prime minister-designate Omer Kovčić from the SDA."
+     ]
+    ],
+    [
+     [
+      "SDA će imati 7 ministara, Stranka za BiH i Demokratski front po 2, a SBB jednog.",
+      "The SDA will have 7 ministers, the Party for BiH and the Democratic Front 2 each, and the SBB one."
+     ],
+     [
+      "Za ministra finansija SDA predlaže Eldina Omića, a za ministra zdravstva Muju Imširovića.",
+      "For finance minister the SDA proposes Eldin Omić, and for health minister Mujo Imširović."
+     ],
+     [
+      "Ministarstvo unutrašnjih poslova trebao bi voditi Sejfo Muharemović.",
+      "The interior ministry should be led by Sejfo Muharemović."
+     ],
+     [
+      "Samo jedna osoba ostaje iz sadašnje vlade, a to je Nataša Matošević, ministrica pravosuđa i uprave.",
+      "Only one person stays from the current government, and that is Nataša Matošević, the minister of justice and administration."
+     ]
+    ],
+    [
+     [
+      "Kovčić će prvo razgovarati sa strankama, a onda će odrediti konačan sastav vlade.",
+      "Kovčić will first talk with the parties, and then he will decide the final composition of the government."
+     ],
+     [
+      "Nove ministre na kraju moraju potvrditi zastupnici u kantonalnoj skupštini.",
+      "In the end the new ministers must be confirmed by the deputies in the cantonal assembly."
+     ],
+     [
+      "Tek nakon toga nova vlada može početi raditi.",
+      "Only after that can the new government start working."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "ministar",
+     "minister"
+    ],
+    [
+     "vlada",
+     "government"
+    ],
+    [
+     "stranka",
+     "party"
+    ],
+    [
+     "kandidat",
+     "candidate"
+    ],
+    [
+     "mandatar",
+     "prime minister-designate"
+    ],
+    [
+     "sastav",
+     "composition"
+    ],
+    [
+     "zastupnik",
+     "deputy, MP"
+    ]
+   ]
+  },
+  {
+   "id": "261118261",
+   "source": "Klix.ba",
+   "section": "Vrijeme",
+   "url": "https://www.klix.ba/vijesti/regija/snazno-nevrijeme-pogodilo-beograd-ulice-pod-vodom-saobracaj-otezan/261118261",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261118261.jpg",
+   "published": "2026-11-18T18:08:00+01:00",
+   "title": [
+    "Jako nevrijeme u Beogradu, mnoge ulice pod vodom",
+    "Heavy storm in Belgrade, many streets under water"
+   ],
+   "body": [
+    [
+     [
+      "Snažno nevrijeme s pljuskom, grmljavinom i jakim vjetrom pogodilo je danas poslijepodne Beograd.",
+      "A strong storm with a downpour, thunder and strong wind hit Belgrade this afternoon."
+     ],
+     [
+      "Kiša je padala od ranije, ali je oko 14:40 postala mnogo jača.",
+      "Rain had been falling since earlier, but at about 14:40 it became much stronger."
+     ],
+     [
+      "Mnoge ulice u centru grada bile su pod vodom.",
+      "Many streets in the city centre were under water."
+     ]
+    ],
+    [
+     [
+      "Saobraćaj je skoro dva sata bio veoma otežan, a na glavnim ulicama bile su velike gužve.",
+      "Traffic was very difficult for almost two hours, and there were big traffic jams on the main streets."
+     ],
+     [
+      "Ministarstvo unutrašnjih poslova Srbije upozorilo je vozače da budu oprezni.",
+      "The Serbian Ministry of the Interior warned drivers to be careful."
+     ],
+     [
+      "Hidrometeorološki zavod Srbije izdao je posebno upozorenje zbog obilne kiše.",
+      "Serbia’s Hydrometeorological Institute issued a special warning because of heavy rain."
+     ],
+     [
+      "Upozorenje važi za Beograd, ali i za ostale dijelove Srbije.",
+      "The warning applies to Belgrade, but also to other parts of Serbia."
+     ]
+    ],
+    [
+     [
+      "Jaka kiša očekuje se od Bačke i Srema preko zapadne i centralne Srbije do istoka i jugoistoka zemlje.",
+      "Heavy rain is expected from Bačka and Srem across western and central Serbia to the east and south-east of the country."
+     ],
+     [
+      "Moglo bi pasti od 30 do 50 milimetara kiše, a negdje i više.",
+      "Between 30 and 50 millimetres of rain could fall, and in some places more."
+     ],
+     [
+      "Prema radarskim snimcima, kiša će u Beogradu padati i večeras, u noći na četvrtak.",
+      "According to radar images, rain will fall in Belgrade tonight as well, in the night to Thursday."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "nevrijeme",
+     "storm, bad weather"
+    ],
+    [
+     "pljusak",
+     "downpour"
+    ],
+    [
+     "grmljavina",
+     "thunder"
+    ],
+    [
+     "saobraćaj",
+     "traffic"
+    ],
+    [
+     "gužva",
+     "traffic jam, crowd"
+    ],
+    [
+     "upozorenje",
+     "warning"
+    ],
+    [
+     "obilan",
+     "heavy, abundant"
+    ]
+   ]
+  },
+  {
+   "id": "261118260",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/deja-vu-rumunski-mediji-bajraktarevica-zovu-ubicom-a-njegov-udarac-torpedom/261118260",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261118260.jpg",
+   "published": "2026-11-18T17:58:00+01:00",
+   "title": [
+    "Rumunski mediji pišu o golu Esmira Bajraktarevića",
+    "Romanian media write about Esmir Bajraktarević’s goal"
+   ],
+   "body": [
+    [
+     [
+      "Bosna i Hercegovina je u utorak navečer u Zenici pobijedila Rumuniju 2:1 u Ligi nacija.",
+      "On Tuesday evening in Zenica Bosnia and Herzegovina beat Romania 2:1 in the Nations League."
+     ],
+     [
+      "Pobjednički gol postigao je Esmir Bajraktarević u 82. minuti jakim udarcem iz kaznenog prostora.",
+      "The winning goal was scored by Esmir Bajraktarević in the 82nd minute with a strong shot from the penalty area."
+     ],
+     [
+      "Rumunski mediji danas mnogo pišu o tom golu.",
+      "Romanian media are writing a lot about that goal today."
+     ]
+    ],
+    [
+     [
+      "Portal Sport.ro nazvao je Bajraktarevića \"ubicom Rumunije\", a njegov udarac \"torpedom\".",
+      "The website Sport.ro called Bajraktarević \"the killer of Romania\", and his shot \"a torpedo\"."
+     ],
+     [
+      "Golman Rumunije nije imao nikakvu šansu da odbrani taj udarac.",
+      "Romania’s goalkeeper had no chance to save that shot."
+     ],
+     [
+      "Portal Golazo.ro napisao je da je to \"déjà vu\", jer je Rumunija i prošle godine izgubila od BiH u Zenici.",
+      "The website Golazo.ro wrote that it is a \"déjà vu\", because Romania also lost to BiH in Zenica last year."
+     ],
+     [
+      "Bajraktarević ima 21 godinu, rođen je u SAD-u i igra za PSV.",
+      "Bajraktarević is 21 years old, he was born in the USA and plays for PSV."
+     ]
+    ],
+    [
+     [
+      "Rumunski igrač Daniel Bîrligea rekao je da je BiH dala jako lijep gol.",
+      "Romanian player Daniel Bîrligea said that BiH scored a very beautiful goal."
+     ],
+     [
+      "Rumunija je završila posljednja u grupi i igrat će baraž za opstanak u Ligi B.",
+      "Romania finished last in the group and will play a playoff to stay in League B."
+     ],
+     [
+      "BiH je druga i u petak će saznati protivnika u baražu za ulazak u Ligu A.",
+      "BiH is second and on Friday it will find out its opponent in the playoff for entry into League A."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "udarac",
+     "shot, kick"
+    ],
+    [
+     "gol",
+     "goal"
+    ],
+    [
+     "postići",
+     "to score, to achieve"
+    ],
+    [
+     "golman",
+     "goalkeeper"
+    ],
+    [
+     "odbraniti",
+     "to save, to defend"
+    ],
+    [
+     "protivnik",
+     "opponent"
+    ],
+    [
+     "opstanak",
+     "survival, staying (in a league)"
+    ]
+   ]
+  },
+  {
+   "id": "261118255",
+   "source": "Klix.ba",
+   "section": "Zdravlje",
+   "url": "https://www.klix.ba/lifestyle/zdravlje/kaki-je-u-sezoni-jedan-plod-daje-vise-od-pola-dnevne-potrebe-za-vitaminom-a/261118255",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261118255.jpg",
+   "published": "2026-11-18T17:57:00+01:00",
+   "title": [
+    "Kaki je u sezoni i ima mnogo vitamina A",
+    "Persimmon is in season and has a lot of vitamin A"
+   ],
+   "body": [
+    [
+     [
+      "Na pijacama i u trgovinama ovih dana ima mnogo kakija, voća koje se zove i japanska jabuka.",
+      "There is a lot of persimmon at markets and in shops these days, a fruit that is also called the Japanese apple."
+     ],
+     [
+      "Prema Američkom udruženju za srce, kaki je najbolji od septembra do decembra, kada je sezona većine drugog voća već završila.",
+      "According to the American Heart Association, persimmon is best from September to December, when the season of most other fruit has already ended."
+     ],
+     [
+      "Može se jesti svjež, sušen ili u salatama i kolačima.",
+      "It can be eaten fresh, dried, or in salads and cakes."
+     ]
+    ],
+    [
+     [
+      "Jedan plod od 168 grama ima oko 118 kalorija i 6 grama vlakana.",
+      "One fruit of 168 grams has about 118 calories and 6 grams of fibre."
+     ],
+     [
+      "Daje 55 posto dnevne potrebe za vitaminom A i više od 20 posto potrebe za vitaminom C.",
+      "It gives 55 percent of the daily need for vitamin A and more than 20 percent of the need for vitamin C."
+     ],
+     [
+      "Narandžasta boja dolazi od beta-karotena, koji tijelo pretvara u vitamin A, važan za vid i imunitet.",
+      "The orange colour comes from beta-carotene, which the body turns into vitamin A, important for vision and immunity."
+     ],
+     [
+      "Vlakna pomažu da se osjećamo siti i usporavaju rast šećera u krvi.",
+      "Fibre helps us feel full and slows the rise of sugar in the blood."
+     ]
+    ],
+    [
+     [
+      "Stručnjaci savjetuju da se kaki jede sa zdravom masnoćom, na primjer s orasima ili maslinovim uljem.",
+      "Experts advise eating persimmon with a healthy fat, for example with walnuts or olive oil."
+     ],
+     [
+      "Ako se pojede previše, u želucu se rijetko mogu stvoriti tvrde grudve hrane.",
+      "If too much is eaten, hard lumps of food can rarely form in the stomach."
+     ],
+     [
+      "Zato treba jesti zrele plodove, dobro ih žvakati i ne pretjerivati.",
+      "So one should eat ripe fruit, chew it well and not overdo it."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "plod",
+     "fruit (single piece)"
+    ],
+    [
+     "voće",
+     "fruit"
+    ],
+    [
+     "vlakna",
+     "fibre"
+    ],
+    [
+     "vid",
+     "eyesight, vision"
+    ],
+    [
+     "zreo",
+     "ripe"
+    ],
+    [
+     "žvakati",
+     "to chew"
+    ],
+    [
+     "šećer u krvi",
+     "blood sugar"
+    ]
+   ]
+  },
+  {
+   "id": "261118257",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/korak-blize-sarajevu-senatski-odbor-odobrio-nominaciju-ronalda-johnsona-za-ambasadora-sad-a-u-bih/261118257",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261118257.jpg",
+   "published": "2026-11-18T17:39:00+01:00",
+   "title": [
+    "Senatski odbor podržao Johnsona za ambasadora SAD-a u BiH",
+    "Senate committee backs Johnson as US ambassador to BiH"
+   ],
+   "body": [
+    [
+     [
+      "Odbor za vanjske poslove američkog Senata odobrio je nominaciju Ronalda Johnsona za novog ambasadora SAD-a u Bosni i Hercegovini.",
+      "The US Senate Foreign Relations Committee has approved the nomination of Ronald Johnson as the new US ambassador to Bosnia and Herzegovina."
+     ],
+     [
+      "Johnson je penzionisani brigadni general američkih marinaca iz Massachusettsa.",
+      "Johnson is a retired brigadier general of the US Marines from Massachusetts."
+     ],
+     [
+      "Sada o njegovoj nominaciji mora glasati cijeli Senat.",
+      "Now the whole Senate must vote on his nomination."
+     ]
+    ],
+    [
+     [
+      "Za Johnsona je glasalo 16 članova odbora, a protiv je bilo 5.",
+      "16 members of the committee voted for Johnson, and 5 were against."
+     ],
+     [
+      "Podržali su ga i neki demokrati, među njima Jeanne Shaheen, Chris Coons, Tim Kaine i Jacky Rosen.",
+      "Some Democrats also supported him, among them Jeanne Shaheen, Chris Coons, Tim Kaine and Jacky Rosen."
+     ],
+     [
+      "Shaheen je na saslušanju u septembru rekla da je u Srebrenici bio genocid i da se mora poštovati teritorijalni integritet BiH.",
+      "At the hearing in September Shaheen said that there was genocide in Srebrenica and that the territorial integrity of BiH must be respected."
+     ],
+     [
+      "Johnson je tada rekao da BiH ima složene probleme, ali da je spreman da ih rješava odlučno i razborito.",
+      "Johnson said then that BiH has complex problems, but that he is ready to deal with them decisively and prudently."
+     ]
+    ],
+    [
+     [
+      "Bijela kuća je nominaciju poslala Senatu 1. juna, a Predsjedništvo BiH ju je prihvatilo u augustu.",
+      "The White House sent the nomination to the Senate on 1 June, and the Presidency of BiH accepted it in August."
+     ],
+     [
+      "Datum glasanja u Senatu još nije poznat.",
+      "The date of the vote in the Senate is not yet known."
+     ],
+     [
+      "Ako ga Senat potvrdi, predsjednik Donald Trump će ga zvanično imenovati.",
+      "If the Senate confirms him, President Donald Trump will officially appoint him."
+     ],
+     [
+      "Nakon toga Johnson će doći u Sarajevo i predati akreditive Predsjedništvu BiH, kada počinje njegov mandat.",
+      "After that Johnson will come to Sarajevo and present his credentials to the Presidency of BiH, when his term begins."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "ambasador",
+     "ambassador"
+    ],
+    [
+     "odbor",
+     "committee"
+    ],
+    [
+     "nominacija",
+     "nomination"
+    ],
+    [
+     "glasati",
+     "to vote"
+    ],
+    [
+     "potvrditi",
+     "to confirm"
+    ],
+    [
+     "penzionisan",
+     "retired"
+    ],
+    [
+     "mandat",
+     "term of office"
+    ]
+   ]
+  },
+  {
+   "id": "261118254",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/bivsi-predsjednik-slovenije-borut-pahor-posumnjao-u-gps-na-putu-za-sarajevo-pa-pitao-policajce-za-smjer/261118254",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261118254.jpg",
+   "published": "2026-11-18T17:26:00+01:00",
+   "title": [
+    "Borut Pahor na putu za Sarajevo pitao policajce za put",
+    "Borut Pahor asked police officers for directions on the way to Sarajevo"
+   ],
+   "body": [
+    [
+     [
+      "Bivši predsjednik Slovenije Borut Pahor putovao je automobilom u Sarajevo na jednu međunarodnu konferenciju.",
+      "The former president of Slovenia Borut Pahor travelled by car to Sarajevo for an international conference."
+     ],
+     [
+      "Na putu je posumnjao da mu GPS ne pokazuje pravi smjer.",
+      "On the way he suspected that his GPS was not showing the right direction."
+     ],
+     [
+      "Zato je stao pored ceste i pitao policajce kuda treba ići.",
+      "So he stopped by the road and asked police officers where to go."
+     ]
+    ],
+    [
+     [
+      "Pahor je o tome napisao objavu na Instagramu, na slovenskom jeziku.",
+      "Pahor wrote a post about it on Instagram, in Slovenian."
+     ],
+     [
+      "Uz tekst je objavio fotografiju na kojoj čovjek pokazuje smjer dvojici policajaca pored ceste.",
+      "With the text he posted a photo in which a man shows a direction to two police officers by the road."
+     ],
+     [
+      "Napisao je da su policajci bili ljubazni i da je od njih tražio pomoć jer nije vjerovao GPS-u.",
+      "He wrote that the police officers were friendly and that he asked them for help because he did not trust the GPS."
+     ],
+     [
+      "Objavu je završio nasmijanim emotikonom i rečenicom da GPS ipak nije griješio.",
+      "He ended the post with a smiling emoji and the sentence that the GPS was not wrong after all."
+     ]
+    ],
+    [
+     [
+      "Pahor nije napisao gdje je fotografija nastala.",
+      "Pahor did not write where the photo was taken."
+     ],
+     [
+      "Također nije rekao o kojoj konferenciji u Sarajevu se radi.",
+      "He also did not say which conference in Sarajevo it is."
+     ],
+     [
+      "Pahor je bio predsjednik Slovenije od 2012. do 2022. godine.",
+      "Pahor was president of Slovenia from 2012 to 2022."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "bivši",
+     "former"
+    ],
+    [
+     "posumnjati",
+     "to suspect, to doubt"
+    ],
+    [
+     "smjer",
+     "direction"
+    ],
+    [
+     "policajac",
+     "police officer"
+    ],
+    [
+     "objava",
+     "post (on social media)"
+    ],
+    [
+     "ljubazan",
+     "friendly, kind"
+    ],
+    [
+     "griješiti",
+     "to be wrong, to make a mistake"
+    ]
+   ]
+  },
+  {
+   "id": "261118248",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/muzika/detalji-dolaska-naomi-campbell-u-bih-na-otvorenju-ski-sezone-na-jahorini-ce-nastupiti-kao-dj-ica/261118248",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261118248.jpg",
+   "published": "2026-11-18T17:07:00+01:00",
+   "title": [
+    "Naomi Campbell će kao DJ otvoriti ski sezonu na Jahorini",
+    "Naomi Campbell will open the ski season on Jahorina as a DJ"
+   ],
+   "body": [
+    [
+     [
+      "Britanska manekenka Naomi Campbell nastupit će 28. novembra na otvorenju zimske sezone na Jahorini.",
+      "British model Naomi Campbell will perform on 28 November at the opening of the winter season on Jahorina."
+     ],
+     [
+      "Ona neće biti tamo kao manekenka, nego kao DJ-ica.",
+      "She will not be there as a model, but as a DJ."
+     ],
+     [
+      "Događaj organizuju Travel 4Fun i SKI Fenix, a nastupit će i drugi DJ-evi s međunarodne scene.",
+      "The event is organised by Travel 4Fun and SKI Fenix, and other DJs from the international scene will also perform."
+     ]
+    ],
+    [
+     [
+      "Campbell je godinama puštala muziku samo za prijatelje.",
+      "For years Campbell played music only for friends."
+     ],
+     [
+      "Prvi javni nastup kao DJ imala je u martu 2025. godine.",
+      "She had her first public performance as a DJ in March 2025."
+     ],
+     [
+      "Od tada je nastupala na sedmicama mode i zabavama u Dubaiju, Parizu, Münchenu i Azerbejdžanu.",
+      "Since then she has performed at fashion weeks and parties in Dubai, Paris, Munich and Azerbaijan."
+     ],
+     [
+      "U septembru 2026. na sedmici mode u Milanu predstavila je svoje muzičko izdanje.",
+      "In September 2026 at Milan fashion week she presented her own music release."
+     ]
+    ],
+    [
+     [
+      "Campbell je počela karijeru kao tinejdžerka i postala jedna od najpoznatijih manekenki svih vremena.",
+      "Campbell started her career as a teenager and became one of the most famous models of all time."
+     ],
+     [
+      "Radila je s velikim modnim kućama i bila je na naslovnicama važnih magazina.",
+      "She worked with big fashion houses and was on the covers of important magazines."
+     ],
+     [
+      "Ulaznice za otvorenje sezone prodaju se preko stranice ulaznica.org.",
+      "Tickets for the season opening are sold through the website ulaznica.org."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "manekenka",
+     "(female) model"
+    ],
+    [
+     "nastupiti",
+     "to perform"
+    ],
+    [
+     "otvorenje",
+     "opening"
+    ],
+    [
+     "sezona",
+     "season"
+    ],
+    [
+     "događaj",
+     "event"
+    ],
+    [
+     "ulaznica",
+     "ticket"
+    ],
+    [
+     "naslovnica",
+     "cover, front page"
+    ]
+   ]
+  },
+  {
+   "id": "261118246",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/lifestyle/putovanja/bbc-izabrao-20-najboljih-destinacija-za-2027-godinu-na-listi-madagaskar-sardinija-i-bohinj/261118246",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261118246.jpg",
+   "published": "2026-11-18T16:58:00+01:00",
+   "title": [
+    "BBC izabrao 20 destinacija za 2027., među njima i Bohinj",
+    "BBC picks 20 destinations for 2027, including Bohinj"
+   ],
+   "body": [
+    [
+     [
+      "Urednici BBC Travela objavili su listu od 20 mjesta koja vrijedi posjetiti u 2027. godini.",
+      "The editors of BBC Travel have published a list of 20 places worth visiting in 2027."
+     ],
+     [
+      "Na listi nisu najpoznatiji gradovi poput New Yorka i Venecije, nego mjesta koja iduće godine nude nešto posebno.",
+      "The list does not include the most famous cities like New York and Venice, but places that offer something special next year."
+     ],
+     [
+      "Prema BBC-ju, turisti na tim mjestima mogu pomoći i lokalnim ljudima i prirodi.",
+      "According to the BBC, tourists in those places can also help local people and nature."
+     ]
+    ],
+    [
+     [
+      "Prvi na listi je Madagaskar, gdje oko 92 posto sisara ne živi nigdje drugo na svijetu.",
+      "First on the list is Madagascar, where about 92 percent of mammals live nowhere else in the world."
+     ],
+     [
+      "Na listi je i slovenski Bohinj, gdje je 2026. otvorena nova biciklistička staza duga 28 kilometara.",
+      "Also on the list is Slovenia’s Bohinj, where a new 28-kilometre cycle path was opened in 2026."
+     ],
+     [
+      "Staza povezuje Bled i Bohinjsko jezero, pa turisti sada mogu sigurno voziti bicikl kroz Alpe.",
+      "The path connects Bled and Lake Bohinj, so tourists can now ride a bike safely through the Alps."
+     ],
+     [
+      "BBC preporučuje i Sardiniju, koju opisuje kao \"Italiju bez gužve\".",
+      "The BBC also recommends Sardinia, which it describes as \"Italy without crowds\"."
+     ]
+    ],
+    [
+     [
+      "Na listi su i Quebec u Kanadi, Gana, koja slavi 70 godina nezavisnosti, i Almati u Kazahstanu.",
+      "Also on the list are Quebec in Canada, Ghana, which celebrates 70 years of independence, and Almaty in Kazakhstan."
+     ],
+     [
+      "U japanskom mjestu Ise-Shima u ljeto 2027. bit će ritual koji se održava samo svakih 20 godina.",
+      "In the Japanese place Ise-Shima in summer 2027 there will be a ritual that is held only every 20 years."
+     ],
+     [
+      "Tu je i udaljeno ostrvo Sveta Helena, s oko 4.000 stanovnika i samo jednim letom sedmično.",
+      "There is also the remote island of Saint Helena, with about 4,000 inhabitants and only one flight a week."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "destinacija",
+     "destination"
+    ],
+    [
+     "posjetiti",
+     "to visit"
+    ],
+    [
+     "urednik",
+     "editor"
+    ],
+    [
+     "staza",
+     "path, trail"
+    ],
+    [
+     "jezero",
+     "lake"
+    ],
+    [
+     "ostrvo",
+     "island"
+    ],
+    [
+     "nezavisnost",
+     "independence"
+    ]
+   ]
+  },
+  {
+   "id": "261118247",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/zmajevi-su-medu-24-reprezentacije-koje-bi-trebale-igrati-na-euru-23-nosilac-kvalifikacija/261118247",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261118247.jpg",
+   "published": "2026-11-18T16:53:00+01:00",
+   "title": [
+    "Analiza: BiH ima 46 posto šanse da igra na Euru",
+    "Analysis: BiH has a 46 percent chance of playing at the Euro"
+   ],
+   "body": [
+    [
+     [
+      "Prema novoj analizi portala Football Meets Data, Bosna i Hercegovina je među 24 reprezentacije koje bi mogle igrati na Euru 2028.",
+      "According to a new analysis by the website Football Meets Data, Bosnia and Herzegovina is among the 24 national teams that could play at Euro 2028."
+     ],
+     [
+      "Na prvenstvu će igrati 24 reprezentacije, a BiH je na toj listi 23.",
+      "24 national teams will play at the championship, and BiH is 23rd on that list."
+     ],
+     [
+      "Analiza je objavljena 18. novembra.",
+      "The analysis was published on 18 November."
+     ]
+    ],
+    [
+     [
+      "Šansa da se BiH plasira na Euro je 46,3 posto.",
+      "The chance that BiH qualifies for the Euro is 46.3 percent."
+     ],
+     [
+      "Samo Srbija ima manju šansu na listi, 45,2 posto.",
+      "Only Serbia has a smaller chance on the list, 45.2 percent."
+     ],
+     [
+      "Najveće favorite su Engleska i Španija, koje imaju skoro 100 posto šanse.",
+      "The biggest favourites are England and Spain, which have almost a 100 percent chance."
+     ],
+     [
+      "Od reprezentacija iz regije najbolja je Hrvatska na 15. mjestu, a Slovenija je 20.",
+      "Of the teams from the region the best is Croatia in 15th place, and Slovenia is 20th."
+     ]
+    ],
+    [
+     [
+      "Žrijeb kvalifikacijskih grupa bit će 6. decembra u Belfastu.",
+      "The draw for the qualifying groups will be on 6 December in Belfast."
+     ],
+     [
+      "Utakmice će se igrati od marta do novembra 2027. godine u 12 grupa.",
+      "The matches will be played from March to November 2027 in 12 groups."
+     ],
+     [
+      "Pobjednici grupa i osam najboljih drugoplasiranih idu direktno na Euro, a ostala mjesta odlučit će baraž u martu 2028.",
+      "Group winners and the eight best runners-up go directly to the Euro, and the other places will be decided by a playoff in March 2028."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "reprezentacija",
+     "national team"
+    ],
+    [
+     "prvenstvo",
+     "championship"
+    ],
+    [
+     "šansa",
+     "chance"
+    ],
+    [
+     "plasirati se",
+     "to qualify"
+    ],
+    [
+     "žrijeb",
+     "draw (lottery)"
+    ],
+    [
+     "kvalifikacije",
+     "qualifiers"
+    ],
+    [
+     "baraž",
+     "playoff"
+    ]
+   ]
+  },
+  {
+   "id": "261118217",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/film-tv/pattinson-ulogu-bonda-osvojio-conneryjevom-scenom-zavodenja-glumio-ju-je-svaki-kandidat/261118217",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261118217.jpg",
+   "published": "2026-11-18T15:55:00+01:00",
+   "title": [
+    "Kako je Robert Pattinson dobio ulogu Jamesa Bonda",
+    "How Robert Pattinson got the role of James Bond"
+   ],
+   "body": [
+    [
+     [
+      "Robert Pattinson je ulogu Jamesa Bonda dobio nakon audicije sa scenom iz starog filma sa Seanom Conneryjem.",
+      "Robert Pattinson got the role of James Bond after an audition with a scene from an old film with Sean Connery."
+     ],
+     [
+      "To piše britanski list Daily Mail.",
+      "This is what the British paper Daily Mail writes."
+     ],
+     [
+      "Scena je iz filma \"Iz Rusije s ljubavlju\" iz 1963. godine, a glumi je svaki kandidat za Bonda.",
+      "The scene is from the film \"From Russia with Love\" from 1963, and every candidate for Bond acts it."
+     ]
+    ],
+    [
+     [
+      "U toj sceni Bond u Istanbulu upoznaje sovjetsku agenticu koja ga pokušava zavesti.",
+      "In that scene Bond meets a Soviet agent in Istanbul who tries to seduce him."
+     ],
+     [
+      "Reditelj Denis Villeneuve pozvao je Pattinsona na posljednji test pred kamerom.",
+      "Director Denis Villeneuve invited Pattinson to a final test in front of the camera."
+     ],
+     [
+      "Pattinson prvo nije bio na listi, nego je pozvan u zadnji čas, kada producenti nisu mogli odlučiti.",
+      "Pattinson was not on the list at first, but was invited at the last minute, when the producers could not decide."
+     ],
+     [
+      "Prema pisanju medija, za audiciju je dobio milion dolara.",
+      "According to the media, he received a million dollars for the audition."
+     ]
+    ],
+    [
+     [
+      "Jeff Bezos je potvrdio da je učestvovao u testiranju i da je pet kandidata snimilo po tri scene.",
+      "Jeff Bezos confirmed that he took part in the testing and that five candidates filmed three scenes each."
+     ],
+     [
+      "Rekao je da je u Pattinsonu bilo \"nešto posebno\".",
+      "He said that there was \"something special\" about Pattinson."
+     ],
+     [
+      "Pattinson ima 40 godina, a poznat je po filmovima \"Sumrak\" i \"Batman\".",
+      "Pattinson is 40 years old, and he is known for the films \"Twilight\" and \"The Batman\"."
+     ],
+     [
+      "To će biti prvi film o Bondu otkako je Amazon kupio studio MGM.",
+      "It will be the first Bond film since Amazon bought the MGM studio."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "uloga",
+     "role"
+    ],
+    [
+     "audicija",
+     "audition"
+    ],
+    [
+     "scena",
+     "scene"
+    ],
+    [
+     "reditelj",
+     "director"
+    ],
+    [
+     "producent",
+     "producer"
+    ],
+    [
+     "zavesti",
+     "to seduce"
+    ],
+    [
+     "snimiti",
+     "to film, to record"
+    ]
+   ]
+  },
   {
    "id": "261118157",
    "source": "Klix.ba",
@@ -4646,926 +5554,6 @@
     [
      "bitka",
      "battle"
-    ]
-   ]
-  },
-  {
-   "id": "261116273",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/gaming/preuzimanja-gta-vi-srusila-rekord-najveceg-internet-cvorista-u-evropi/261116273",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261116273.jpg",
-   "published": "2026-11-16T17:21:00+01:00",
-   "title": [
-    "Preuzimanja igre GTA VI srušila rekord interneta u Frankfurtu",
-    "GTA VI downloads break an internet record in Frankfurt"
-   ],
-   "body": [
-    [
-     [
-      "Preuzimanja igre GTA VI srušila su rekord u DE-CIX-u u Frankfurtu, najvećem internet čvorištu u Evropi.",
-      "Downloads of the game GTA VI broke a record at DE-CIX in Frankfurt, the largest internet hub in Europe."
-     ],
-     [
-      "Čvorište je mjesto gdje se povezuju mreže mnogih internet kompanija.",
-      "A hub is a place where the networks of many internet companies connect."
-     ],
-     [
-      "Igrači koji su unaprijed kupili igru mogu je preuzimati od 10. novembra.",
-      "Players who bought the game in advance have been able to download it since 10 November."
-     ]
-    ],
-    [
-     [
-      "Promet je dostigao rekordnih 22,3 terabita u sekundi, što je 19% više nego prije.",
-      "Traffic reached a record 22.3 terabits per second, which is 19% more than before."
-     ],
-     [
-      "Samo igra GTA VI činila je 4 terabita u sekundi, javila je agencija Reuters.",
-      "The game GTA VI alone made up 4 terabits per second, the Reuters agency reported."
-     ],
-     [
-      "U svim čvorištima DE-CIX-a u svijetu promet je dostigao novi rekord od 33 terabita.",
-      "In all DE-CIX hubs around the world, traffic reached a new record of 33 terabits."
-     ],
-     [
-      "Igra službeno izlazi u četvrtak, 19. novembra.",
-      "The game is officially released on Thursday, 19 November."
-     ]
-    ],
-    [
-     [
-      "Tehnički direktor Thomas King rekao je da je teško reći hoće li tada pasti novi rekord.",
-      "Technical director Thomas King said that it is hard to say whether a new record will fall then."
-     ],
-     [
-      "Reuters procjenjuje da bi kompanija Take-Two mogla zaraditi 5,2 milijarde dolara u prvoj sedmici.",
-      "Reuters estimates that the company Take-Two could earn 5.2 billion dollars in the first week."
-     ],
-     [
-      "Prethodna igra GTA V izašla je 2013. godine i prodata je u 230 miliona primjeraka.",
-      "The previous game, GTA V, came out in 2013 and has sold 230 million copies."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "preuzimanje",
-     "download"
-    ],
-    [
-     "igra",
-     "game"
-    ],
-    [
-     "srušiti rekord",
-     "to break a record"
-    ],
-    [
-     "čvorište",
-     "hub"
-    ],
-    [
-     "promet",
-     "traffic"
-    ],
-    [
-     "unaprijed",
-     "in advance"
-    ],
-    [
-     "zaraditi",
-     "to earn"
-    ],
-    [
-     "primjerak",
-     "copy"
-    ]
-   ]
-  },
-  {
-   "id": "261116118",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/becirovic-cvijanovic-i-filipovic-preuzeli-duznost-prvi-put-u-predsjednistvu-bih-sjedit-ce-dvije-zene/261116118",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261116118.jpg",
-   "published": "2026-11-16T16:40:00+01:00",
-   "title": [
-    "Novo Predsjedništvo BiH preuzelo dužnost, prvi put dvije žene",
-    "New BiH Presidency takes office, two women for the first time"
-   ],
-   "body": [
-    [
-     [
-      "Denis Bećirović, Željka Cvijanović i Darijana Filipović u ponedjeljak su preuzeli dužnost članova Predsjedništva BiH.",
-      "Denis Bećirović, Željka Cvijanović and Darijana Filipović took office as members of the BiH Presidency on Monday."
-     ],
-     [
-      "Svečana sjednica održana je u zgradi Predsjedništva u Sarajevu.",
-      "The ceremonial session was held in the Presidency building in Sarajevo."
-     ],
-     [
-      "Ovo je deveti saziv Predsjedništva i prvi put u njemu sjede dvije žene.",
-      "This is the ninth composition of the Presidency and for the first time two women sit in it."
-     ]
-    ],
-    [
-     [
-      "Predsjednik CIK-a Jovan Kalaba predao im je mandate, a oni su potpisali svečanu izjavu.",
-      "The president of the Central Election Commission, Jovan Kalaba, handed them their mandates, and they signed a solemn declaration."
-     ],
-     [
-      "Na izborima 4. oktobra Cvijanović je dobila 319.705 glasova, Bećirović 222.484, a Filipović 120.701.",
-      "In the elections on 4 October Cvijanović won 319,705 votes, Bećirović 222,484 and Filipović 120,701."
-     ],
-     [
-      "Bećirović i Cvijanović počinju drugi mandat zaredom, a mandat traje do 2030. godine.",
-      "Bećirović and Cvijanović are starting a second term in a row, and the term lasts until 2030."
-     ],
-     [
-      "Filipović je potpredsjednica HDZ-a BiH i dolazi umjesto Željka Komšića, koji je bio član četiri mandata.",
-      "Filipović is vice-president of HDZ BiH and replaces Željko Komšić, who was a member for four terms."
-     ]
-    ],
-    [
-     [
-      "Cvijanović je rekla da su se dogovorili o rotaciji i o tome ko će predsjedavati.",
-      "Cvijanović said they had agreed on the rotation and on who will chair."
-     ],
-     [
-      "Filipović je rekla da se trojica članova neće slagati o mnogo pitanja, ali da je to demokratija.",
-      "Filipović said the three members will not agree on many questions, but that this is democracy."
-     ],
-     [
-      "Bećirović je kao prioritete naveo ljudska prava, suverenitet BiH te put prema EU i NATO-u.",
-      "Bećirović named human rights, the sovereignty of BiH and the path towards the EU and NATO as priorities."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "dužnost",
-     "duty, office"
-    ],
-    [
-     "predsjedništvo",
-     "presidency"
-    ],
-    [
-     "mandat",
-     "term of office, mandate"
-    ],
-    [
-     "glas",
-     "vote"
-    ],
-    [
-     "izjava",
-     "statement, declaration"
-    ],
-    [
-     "prioritet",
-     "priority"
-    ],
-    [
-     "saziv",
-     "composition, convocation"
-    ]
-   ]
-  },
-  {
-   "id": "261116257",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/film-tv/robert-pattinson-je-novi-james-bond-objavljena-prva-fotografija-u-ulozi-agenta-007/261116257",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261116257.jpg",
-   "published": "2026-11-16T16:05:00+01:00",
-   "title": [
-    "Robert Pattinson je novi James Bond",
-    "Robert Pattinson is the new James Bond"
-   ],
-   "body": [
-    [
-     [
-      "Britanski glumac Robert Pattinson izabran je za novog Jamesa Bonda.",
-      "British actor Robert Pattinson has been chosen as the new James Bond."
-     ],
-     [
-      "Vijest je objavio magazin Variety, a objavljena je i prva fotografija.",
-      "The news was published by the magazine Variety, and the first photo has also been published."
-     ],
-     [
-      "Tako je završena potraga kompanije Amazon MGM za nasljednikom Daniela Craiga.",
-      "This ended the search by the company Amazon MGM for Daniel Craig's successor."
-     ]
-    ],
-    [
-     [
-      "Craig je glumio Bonda u pet filmova, od \"Casino Royale\" 2006. do \"No Time to Die\" 2021. godine.",
-      "Craig played Bond in five films, from \"Casino Royale\" in 2006 to \"No Time to Die\" in 2021."
-     ],
-     [
-      "Za ulogu su se spominjali i Jacob Elordi, Callum Turner, Nicholas Hoult i Harry Styles.",
-      "Jacob Elordi, Callum Turner, Nicholas Hoult and Harry Styles were also mentioned for the role."
-     ],
-     [
-      "Pattinson ove godine ima veliki uspjeh, a film \"The Drama\" zaradio je 134 miliona dolara.",
-      "Pattinson is having great success this year, and the film \"The Drama\" earned 134 million dollars."
-     ],
-     [
-      "U decembru izlazi i film \"Dune: Part Three\", u kojem također glumi.",
-      "In December the film \"Dune: Part Three\", in which he also acts, comes out as well."
-     ]
-    ],
-    [
-     [
-      "Novi film o Bondu režirat će Denis Villeneuve.",
-      "The new Bond film will be directed by Denis Villeneuve."
-     ],
-     [
-      "On je ranije rekao da je veliki fan Bonda.",
-      "He said earlier that he is a big Bond fan."
-     ],
-     [
-      "Pattinson glumi i Batmana, a nastavak tog filma očekuje se 2028. godine.",
-      "Pattinson also plays Batman, and the sequel to that film is expected in 2028."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "glumac",
-     "actor"
-    ],
-    [
-     "uloga",
-     "role"
-    ],
-    [
-     "potraga",
-     "search"
-    ],
-    [
-     "nasljednik",
-     "successor"
-    ],
-    [
-     "zaraditi",
-     "to earn"
-    ],
-    [
-     "režirati",
-     "to direct (a film)"
-    ],
-    [
-     "nastavak",
-     "sequel, continuation"
-    ]
-   ]
-  },
-  {
-   "id": "261116190",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/stanivukovic-predao-krivicne-prijave-zbog-kupovine-papaka-u-fokusu-vladimir-copic-i-snjezana-gvozden/261116190",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261116190.jpg",
-   "published": "2026-11-16T13:35:00+01:00",
-   "title": [
-    "Stanivuković podnio krivične prijave zbog kupovine poslanika",
-    "Stanivuković filed criminal complaints over the buying of MPs"
-   ],
-   "body": [
-    [
-     [
-      "Gradonačelnik Banje Luke Draško Stanivuković danas je predao krivične prijave Republičkom javnom tužilaštvu RS-a.",
-      "Banja Luka mayor Draško Stanivuković today submitted criminal complaints to the Republic Public Prosecutor's Office of RS."
-     ],
-     [
-      "On je i predsjednik stranke Pokret Sigurna Srpska, poznate kao PSS.",
-      "He is also the president of the Pokret Sigurna Srpska party, known as PSS."
-     ],
-     [
-      "Stanivuković tvrdi da se u Narodnoj skupštini RS-a kupuju poslanici.",
-      "Stanivuković claims that MPs are being bought in the National Assembly of RS."
-     ]
-    ],
-    [
-     [
-      "Prema njegovim riječima, nekim poslanicima su nudili funkcije, posao i novac ako pređu u vladajuću većinu.",
-      "According to him, some MPs were offered positions, jobs and money if they moved to the ruling majority."
-     ],
-     [
-      "Vladimir Ćopić izabran je na listi SDS-a, a zatim je prešao u Ujedinjenu Srpsku.",
-      "Vladimir Ćopić was elected on the SDS list, and then he moved to Ujedinjena Srpska."
-     ],
-     [
-      "Stanivuković kaže da je Ćopiću ponuđeno mjesto direktora bolnice u Prijedoru.",
-      "Stanivuković says that Ćopić was offered the post of director of the hospital in Prijedor."
-     ],
-     [
-      "Snježana Gvozden napustila je PSS i prešla u SNSD, a nakon toga je postala potpredsjednica skupštine.",
-      "Snježana Gvozden left PSS and moved to SNSD, and after that she became vice-president of the assembly."
-     ],
-     [
-      "Stanivuković je rekao da je to izdaja birača i spomenuo njenu platu od više od 5.000 KM.",
-      "Stanivuković said that this is a betrayal of the voters and mentioned her salary of more than 5,000 KM."
-     ]
-    ],
-    [
-     [
-      "PSS želi promijeniti Izborni zakon BiH, tako da mandat pripada stranci, a ne poslaniku.",
-      "PSS wants to change the Election Law of BiH so that the mandate belongs to the party, not to the MP."
-     ],
-     [
-      "Prijave dolaze u vrijeme kada se nakon izbora formira nova većina u skupštini.",
-      "The complaints come at a time when a new majority is being formed in the assembly after the elections."
-     ],
-     [
-      "Da li je bilo krivičnih djela, odlučit će pravosudne institucije.",
-      "Whether there were any criminal offences will be decided by the judicial institutions."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "krivična prijava",
-     "criminal complaint"
-    ],
-    [
-     "tužilaštvo",
-     "prosecutor's office"
-    ],
-    [
-     "poslanik",
-     "member of parliament"
-    ],
-    [
-     "većina",
-     "majority"
-    ],
-    [
-     "izdaja",
-     "betrayal"
-    ],
-    [
-     "birač",
-     "voter"
-    ],
-    [
-     "mandat",
-     "mandate, seat"
-    ]
-   ]
-  },
-  {
-   "id": "261116171",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/ko-je-palestinac-ahmed-tibi-koji-je-danas-izabran-za-potpredsjednika-izraelskog-parlamenta/261116171",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261116171.jpg",
-   "published": "2026-11-16T13:18:00+01:00",
-   "title": [
-    "Palestinac Ahmed Tibi izabran za potpredsjednika Knesseta",
-    "Palestinian Ahmed Tibi elected deputy speaker of the Knesset"
-   ],
-   "body": [
-    [
-     [
-      "Ahmed Tibi, lider stranke Ta'al, danas je izabran za potpredsjednika izraelskog parlamenta, Knesseta.",
-      "Ahmed Tibi, leader of the Ta'al party, was today elected deputy speaker of the Israeli parliament, the Knesset."
-     ],
-     [
-      "On je rekao da je to pobjeda nad krajnjom desnicom u Izraelu.",
-      "He said that this is a victory over the far right in Israel."
-     ],
-     [
-      "Prema njegovim riječima, Likud i ministar Itamar Ben-Gvir pokušali su spriječiti izbor, ali nisu uspjeli.",
-      "According to him, Likud and minister Itamar Ben-Gvir tried to prevent the election, but they did not succeed."
-     ]
-    ],
-    [
-     [
-      "Tibi je rođen 1958. godine u gradu Taibe, a po zanimanju je ljekar.",
-      "Tibi was born in 1958 in the town of Taibe, and he is a doctor by profession."
-     ],
-     [
-      "Od 1993. do 1999. bio je politički savjetnik palestinskog lidera Jasera Arafata.",
-      "From 1993 to 1999 he was a political adviser to the Palestinian leader Yasser Arafat."
-     ],
-     [
-      "Stranku Ta'al osnovao je 1996. godine, a u Knesset je prvi put ušao 1999.",
-      "He founded the Ta'al party in 1996, and he first entered the Knesset in 1999."
-     ]
-    ],
-    [
-     [
-      "Tibi podržava rješenje s dvije države i pravo palestinskih izbjeglica na povratak.",
-      "Tibi supports the two-state solution and the right of Palestinian refugees to return."
-     ],
-     [
-      "Za sebe kaže da je arapski Palestinac s izraelskim državljanstvom.",
-      "He says of himself that he is an Arab Palestinian with Israeli citizenship."
-     ],
-     [
-      "Godine 2000. slomljena mu je ruka dok se suprotstavio Arielu Sharonu kod džamije Al-Aqsa.",
-      "In 2000 his arm was broken while he confronted Ariel Sharon near the Al-Aqsa mosque."
-     ],
-     [
-      "U Knessetu je 2016. godine proučio ezan, poziv na molitvu, kao protest protiv jednog zakona.",
-      "In the Knesset in 2016 he recited the adhan, the call to prayer, as a protest against a law."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "parlament",
-     "parliament"
-    ],
-    [
-     "potpredsjednik",
-     "vice-president, deputy speaker"
-    ],
-    [
-     "krajnja desnica",
-     "far right"
-    ],
-    [
-     "ljekar",
-     "doctor"
-    ],
-    [
-     "savjetnik",
-     "adviser"
-    ],
-    [
-     "izbjeglica",
-     "refugee"
-    ],
-    [
-     "državljanstvo",
-     "citizenship"
-    ]
-   ]
-  },
-  {
-   "id": "261116159",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/zeljka-cvijanovic-polozila-zakletvu-u-nsrs-u-pa-u-govoru-hvalila-dodika-sve-je-izdrzao-stoicki/261116159",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261116159.jpg",
-   "published": "2026-11-16T12:31:00+01:00",
-   "title": [
-    "Cvijanović položila zakletvu u Banjoj Luci i hvalila Dodika",
-    "Cvijanović took an oath in Banja Luka and praised Dodik"
-   ],
-   "body": [
-    [
-     [
-      "Članica Predsjedništva BiH Željka Cvijanović danas je položila zakletvu u Narodnoj skupštini RS-a.",
-      "Member of the BiH Presidency Željka Cvijanović today took an oath in the National Assembly of RS."
-     ],
-     [
-      "Ta zakletva nema pravnu snagu, jer Ustav BiH ne daje entitetskim skupštinama ulogu u tome.",
-      "That oath has no legal force, because the Constitution of BiH gives entity assemblies no role in it."
-     ],
-     [
-      "Cvijanović dužnost preuzima tek u 16 sati, na sjednici Predsjedništva u Sarajevu.",
-      "Cvijanović takes up her duty only at 16:00, at the session of the Presidency in Sarajevo."
-     ]
-    ],
-    [
-     [
-      "Ovu ceremoniju uveo je Milorad Dodik nakon izbora 2018. godine, a Cvijanović ju je ponovila i 2022.",
-      "This ceremony was introduced by Milorad Dodik after the 2018 elections, and Cvijanović repeated it in 2022 as well."
-     ],
-     [
-      "U govoru je rekla da će ponovo koristiti ustavni mehanizam za zaštitu vitalnih interesa RS-a.",
-      "In her speech she said that she will again use the constitutional mechanism to protect the vital interests of RS."
-     ],
-     [
-      "Za to joj treba podrška skupštine, ali se nada da će takvi mehanizmi biti manje potrebni.",
-      "For that she needs the support of the assembly, but she hopes such mechanisms will be needed less."
-     ]
-    ],
-    [
-     [
-      "Cvijanović je pozdravila „predsjednika Dodika“, iako on više nije predsjednik RS-a.",
-      "Cvijanović greeted \"President Dodik\", although he is no longer president of RS."
-     ],
-     [
-      "Zahvalila mu je što je cijeli taj period, kako je rekla, izdržao stoički, odnosno mirno i bez žalbe.",
-      "She thanked him for enduring that whole period, as she said, stoically, that is calmly and without complaint."
-     ],
-     [
-      "Pozvala je i da se nova vlada RS-a izabere što prije.",
-      "She also called for the new RS government to be elected as soon as possible."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "zakletva",
-     "oath"
-    ],
-    [
-     "Predsjedništvo",
-     "Presidency"
-    ],
-    [
-     "ustav",
-     "constitution"
-    ],
-    [
-     "dužnost",
-     "duty"
-    ],
-    [
-     "ceremonija",
-     "ceremony"
-    ],
-    [
-     "podrška",
-     "support"
-    ],
-    [
-     "izdržati",
-     "to endure"
-    ]
-   ]
-  },
-  {
-   "id": "261116161",
-   "source": "Klix.ba",
-   "section": "Zdravlje",
-   "url": "https://www.klix.ba/lifestyle/zdravlje/visok-krvni-pritisak-moze-biti-jedan-od-prvih-znakova-bolesti-bubrega/261116161",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261116161.jpg",
-   "published": "2026-11-16T12:30:00+01:00",
-   "title": [
-    "Visok krvni pritisak može biti znak bolesti bubrega",
-    "High blood pressure can be a sign of kidney disease"
-   ],
-   "body": [
-    [
-     [
-      "Visok krvni pritisak može biti jedan od prvih znakova bolesti bubrega.",
-      "High blood pressure can be one of the first signs of kidney disease."
-     ],
-     [
-      "Bolest bubrega na početku obično nema simptome, pa se često otkrije slučajno.",
-      "Kidney disease usually has no symptoms at the start, so it is often discovered by chance."
-     ],
-     [
-      "To pišu američke i britanske zdravstvene institucije, među njima i NHS.",
-      "This is written by American and British health institutions, among them the NHS."
-     ]
-    ],
-    [
-     [
-      "Visok pritisak polako oštećuje male krvne sudove u bubrezima, koji čiste krv.",
-      "High pressure slowly damages the small blood vessels in the kidneys, which clean the blood."
-     ],
-     [
-      "Oštećeni bubrezi teže izbacuju višak soli i vode, pa pritisak još više raste.",
-      "Damaged kidneys have more trouble removing excess salt and water, so the pressure rises even more."
-     ],
-     [
-      "Visok pritisak je drugi najčešći uzrok hronične bolesti bubrega.",
-      "High pressure is the second most common cause of chronic kidney disease."
-     ],
-     [
-      "Skoro jedna od pet odraslih osoba s visokim pritiskom ima i bolest bubrega.",
-      "Almost one in five adults with high pressure also has kidney disease."
-     ]
-    ],
-    [
-     [
-      "Kasnije se mogu javiti umor, otečeni gležnjevi, mučnina i često mokrenje noću.",
-      "Later, tiredness, swollen ankles, nausea and frequent urination at night can appear."
-     ],
-     [
-      "Stručnjaci savjetuju da s ljekarom razgovarate o jednostavnim testovima krvi i urina.",
-      "Experts advise that you talk to a doctor about simple blood and urine tests."
-     ],
-     [
-      "Ljudi s visokim pritiskom ili dijabetesom trebali bi redovno ići na kontrole.",
-      "People with high pressure or diabetes should go for regular check-ups."
-     ],
-     [
-      "Najbolji način da se bubrezi zaštite je spuštanje pritiska, a pomažu i lijekovi.",
-      "The best way to protect the kidneys is lowering the pressure, and medicines also help."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "krvni pritisak",
-     "blood pressure"
-    ],
-    [
-     "bubreg",
-     "kidney"
-    ],
-    [
-     "bolest",
-     "disease"
-    ],
-    [
-     "simptom",
-     "symptom"
-    ],
-    [
-     "krvni sud",
-     "blood vessel"
-    ],
-    [
-     "uzrok",
-     "cause"
-    ],
-    [
-     "umor",
-     "tiredness"
-    ],
-    [
-     "lijek",
-     "medicine"
-    ]
-   ]
-  },
-  {
-   "id": "261116147",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/savo-minic-u-nsrs-u-dodika-oslovio-predsjednikom-republike-srpske/261116147",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261116147.jpg",
-   "published": "2026-11-16T12:04:00+01:00",
-   "title": [
-    "Savo Minić u skupštini Dodika nazvao predsjednikom RS-a",
-    "Savo Minić called Dodik president of RS in the assembly"
-   ],
-   "body": [
-    [
-     [
-      "Novi predsjednik Republike Srpske Savo Minić danas je govorio na konstituirajućoj sjednici Narodne skupštine RS-a.",
-      "The new President of Republika Srpska, Savo Minić, spoke today at the constituent session of the National Assembly of RS."
-     ],
-     [
-      "Govor je počeo riječima: „Poštovani predsjedniče Republike Srpske, predsjedniče Dodik.“",
-      "He began the speech with the words: \"Honourable President of Republika Srpska, President Dodik.\""
-     ],
-     [
-      "To je privuklo pažnju, jer Milorad Dodik više od godinu dana nema tu funkciju.",
-      "That drew attention, because Milorad Dodik has not held that office for more than a year."
-     ]
-    ],
-    [
-     [
-      "Minić je zatim predstavio svoj program za naredni mandat.",
-      "Minić then presented his programme for the next term."
-     ],
-     [
-      "Rekao je da će uskoro početi formiranje nove vlade.",
-      "He said that the formation of the new government will begin soon."
-     ],
-     [
-      "On je kandidat SNSD-a i pobijedio je na općim izborima 4. oktobra.",
-      "He is the SNSD candidate and he won the general elections on 4 October."
-     ]
-    ],
-    [
-     [
-      "Sud BiH osudio je Dodika na godinu zatvora i šest godina zabrane obavljanja funkcije predsjednika RS-a.",
-      "The Court of BiH sentenced Dodik to a year in prison and a six-year ban on holding the office of RS president."
-     ],
-     [
-      "Kaznu zatvora kasnije je zamijenila novčana kazna.",
-      "The prison sentence was later replaced by a fine."
-     ],
-     [
-      "Centralna izborna komisija oduzela mu je mandat u augustu 2025. godine.",
-      "The Central Election Commission took away his mandate in August 2025."
-     ],
-     [
-      "Dodik te odluke nije prihvatio, a danas je predsjednik SNSD-a.",
-      "Dodik did not accept those decisions, and today he is the president of SNSD."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "sjednica",
-     "session"
-    ],
-    [
-     "govor",
-     "speech"
-    ],
-    [
-     "funkcija",
-     "office, position"
-    ],
-    [
-     "vlada",
-     "government"
-    ],
-    [
-     "izbori",
-     "elections"
-    ],
-    [
-     "zabrana",
-     "ban"
-    ],
-    [
-     "novčana kazna",
-     "fine"
-    ]
-   ]
-  },
-  {
-   "id": "261116149",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/pravilo-o-kosovu-cini-srbiju-najvjerovatnijim-rivalom-bih-u-barazu/261116149",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261116149.jpg",
-   "published": "2026-11-16T12:03:00+01:00",
-   "title": [
-    "Srbija mogući rival BiH u baražu zbog pravila o Kosovu",
-    "Serbia a possible BiH rival in the play-off because of the Kosovo rule"
-   ],
-   "body": [
-    [
-     [
-      "Reprezentacija BiH igrat će baraž za ulazak u Diviziju A Lige nacija.",
-      "The BiH national team will play a play-off for entry into Division A of the Nations League."
-     ],
-     [
-      "Žrijeb je u petak, 20. novembra, u 12 sati u švicarskom gradu Nyonu.",
-      "The draw is on Friday, 20 November, at 12:00 in the Swiss town of Nyon."
-     ],
-     [
-      "Zbog jednog pravila UEFA-e, Srbija bi mogla biti najvjerovatniji protivnik BiH.",
-      "Because of one UEFA rule, Serbia could be the most likely opponent of BiH."
-     ]
-    ],
-    [
-     [
-      "UEFA je odlučila da Kosovo ne može igrati protiv Srbije ni protiv BiH.",
-      "UEFA decided that Kosovo cannot play against Serbia or against BiH."
-     ],
-     [
-      "Ako Kosovo uđe u baraž, Srbija bi imala samo tri moguća rivala, a jedan od njih je BiH.",
-      "If Kosovo enters the play-off, Serbia would have only three possible rivals, and one of them is BiH."
-     ],
-     [
-      "Tada bi šansa za susret BiH i Srbije bila 33,3 posto.",
-      "Then the chance of a BiH–Serbia meeting would be 33.3 percent."
-     ],
-     [
-      "Portal Football Meets Data trenutno daje 28 posto šanse za taj par.",
-      "The portal Football Meets Data currently gives a 28 percent chance for that pairing."
-     ]
-    ],
-    [
-     [
-      "Srbija večeras u 20:45 igra protiv Grčke u Volosu i ne smije izgubiti visoko.",
-      "Serbia plays against Greece tonight at 20:45 in Volos and must not lose heavily."
-     ],
-     [
-      "Kosovo u utorak igra u Irskoj, a za baraž mu je dovoljan i neriješen rezultat.",
-      "Kosovo plays in Ireland on Tuesday, and a draw is enough for it to reach the play-off."
-     ],
-     [
-      "Utakmice baraža igraju se od 25. do 30. marta 2027. godine.",
-      "The play-off matches are played from 25 to 30 March 2027."
-     ],
-     [
-      "BiH će prvu utakmicu igrati kod kuće.",
-      "BiH will play the first match at home."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "žrijeb",
-     "draw (in sport)"
-    ],
-    [
-     "pravilo",
-     "rule"
-    ],
-    [
-     "protivnik",
-     "opponent"
-    ],
-    [
-     "rival",
-     "rival"
-    ],
-    [
-     "šansa",
-     "chance"
-    ],
-    [
-     "neriješen rezultat",
-     "draw, tie"
-    ],
-    [
-     "kod kuće",
-     "at home"
-    ]
-   ]
-  },
-  {
-   "id": "261116146",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/film-tv/predstavljen-program-prvog-witness-festivala-u-sarajevu-pocela-online-prodaja-ulaznica/261116146",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261116146.jpg",
-   "published": "2026-11-16T12:01:00+01:00",
-   "title": [
-    "Sarajevo dobija novi festival dokumentarnog filma",
-    "Sarajevo is getting a new documentary film festival"
-   ],
-   "body": [
-    [
-     [
-      "U Sarajevu je danas predstavljen program prvog WITNESS festivala.",
-      "The programme of the first WITNESS festival was presented in Sarajevo today."
-     ],
-     [
-      "Festival će se održati od 24. do 28. novembra, a organizuju ga Sarajevo Film Festival i fondacija WARM.",
-      "The festival will be held from 24 to 28 November, and it is organised by the Sarajevo Film Festival and the WARM foundation."
-     ],
-     [
-      "Filmovi će se prikazivati na četiri mjesta, a glavna kuća festivala je kino Meeting Point.",
-      "The films will be shown at four venues, and the main house of the festival is the Meeting Point cinema."
-     ]
-    ],
-    [
-     [
-      "Festival otvara film Sophie Fiennes, a rediteljka će doći u Sarajevo.",
-      "The festival opens with a film by Sophie Fiennes, and the director will come to Sarajevo."
-     ],
-     [
-      "Zatvara ga film Marka Cousinsa o dokumentarnom filmu devedesetih godina.",
-      "It closes with Mark Cousins's film about the documentary film of the nineties."
-     ],
-     [
-      "U programu je i film „Godina poslije Dejtona“ o prvoj godini mira u BiH.",
-      "The programme also includes the film \"A Year After Dayton\" about the first year of peace in BiH."
-     ],
-     [
-      "Ulaznice koštaju 15 KM u kinu Meeting Point i 10 KM u drugim kinima.",
-      "Tickets cost 15 KM at the Meeting Point cinema and 10 KM in the other cinemas."
-     ]
-    ],
-    [
-     [
-      "Online prodaja počela je danas u 12 sati, a blagajne se otvaraju 24. novembra.",
-      "Online sales began today at 12:00, and the box offices open on 24 November."
-     ],
-     [
-      "Izložbe i jutarnji razgovori bit će besplatni.",
-      "The exhibitions and morning talks will be free."
-     ],
-     [
-      "Organizatori su rekli da je ideja nastala iz pitanja šta bismo pitali svjedoka nakon filma.",
-      "The organisers said that the idea came from the question of what we would ask a witness after a film."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "festival",
-     "festival"
-    ],
-    [
-     "dokumentarni film",
-     "documentary film"
-    ],
-    [
-     "program",
-     "programme"
-    ],
-    [
-     "rediteljka",
-     "director (female)"
-    ],
-    [
-     "ulaznica",
-     "ticket"
-    ],
-    [
-     "blagajna",
-     "box office"
-    ],
-    [
-     "izložba",
-     "exhibition"
-    ],
-    [
-     "svjedok",
-     "witness"
     ]
    ]
   }
