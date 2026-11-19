@@ -1,18 +1,872 @@
 {
- "updated": "2026-11-19T13:50:00+01:00",
+ "updated": "2026-11-19T18:45:00+01:00",
  "front": [
-  "261119142",
-  "261119153",
-  "261119124",
-  "261119146",
-  "261119130",
-  "261119114",
+  "261119216",
+  "261119262",
+  "261119231",
+  "261119251",
+  "261119254",
+  "261119240",
   "261119127",
-  "261119149",
-  "261119134",
-  "261119148"
+  "261119217",
+  "261119218",
+  "261119236"
  ],
  "articles": [
+  {
+   "id": "261119262",
+   "source": "Klix.ba",
+   "section": "Biznis",
+   "url": "https://www.klix.ba/biznis/finansije/historijski-debi-na-wall-streetu-anthropic-srusio-rekord-spacex-a-i-prikupio-813-milijarde-dolara/261119262",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261119262.jpg",
+   "published": "2026-11-19T18:22:00+01:00",
+   "title": [
+    "Anthropic na berzi prikupio rekordnih 81,3 milijarde dolara",
+    "Anthropic raised a record 81.3 billion dollars on the stock exchange"
+   ],
+   "body": [
+    [
+     [
+      "Kompanija Anthropic, koja pravi AI asistenta Claude, danas je počela trgovati na berzi Nasdaq u New Yorku.",
+      "The company Anthropic, which makes the AI assistant Claude, began trading on the Nasdaq stock exchange in New York today."
+     ],
+     [
+      "Prodajom dionica prikupila je 81,3 milijarde dolara, što je najveći iznos u historiji.",
+      "By selling shares it raised 81.3 billion dollars, the largest amount in history."
+     ],
+     [
+      "Tako je srušila rekord SpaceX-a, koji je u junu prikupio 75 milijardi dolara.",
+      "It thus broke the record of SpaceX, which raised 75 billion dollars in June."
+     ]
+    ],
+    [
+     [
+      "Cijena dionice bila je 83 dolara, a prva trgovina je otvorena na 111,50 dolara.",
+      "The share price was 83 dollars, and the first trade opened at 111.50 dollars."
+     ],
+     [
+      "To je 34 posto više od početne cijene.",
+      "That is 34 percent more than the starting price."
+     ],
+     [
+      "Nakon nekoliko minuta cijena je pala na 101,24 dolara, ali je i dalje bila visoka.",
+      "After a few minutes the price fell to 101.24 dollars, but it was still high."
+     ],
+     [
+      "Vrijednost kompanije procjenjuje se na oko 1.500 milijardi dolara.",
+      "The value of the company is estimated at about 1,500 billion dollars."
+     ],
+     [
+      "Debi je bio dobar iako je cijelo tržište tog dana padalo.",
+      "The debut was good even though the whole market was falling that day."
+     ]
+    ],
+    [
+     [
+      "Osnivači Dario i Daniela Amodei otvorili su trgovanje i govorili o koristima i rizicima umjetne inteligencije.",
+      "The founders Dario and Daniela Amodei opened trading and spoke about the benefits and risks of artificial intelligence."
+     ],
+     [
+      "Dario Amodei je rekao da bi i druge kompanije mogle slijediti njihov primjer ako pokažu da sigurnost i uspjeh idu zajedno.",
+      "Dario Amodei said that other companies could follow their example if they show that safety and success go together."
+     ],
+     [
+      "Kompaniju su 2021. godine osnovali bivši istraživači OpenAI-ja, a u septembru je imala 14.000 poslovnih klijenata.",
+      "The company was founded in 2021 by former OpenAI researchers, and in September it had 14,000 business clients."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "berza",
+     "stock exchange"
+    ],
+    [
+     "dionica",
+     "share, stock"
+    ],
+    [
+     "prikupiti",
+     "to raise, to collect"
+    ],
+    [
+     "rekord",
+     "record"
+    ],
+    [
+     "cijena",
+     "price"
+    ],
+    [
+     "vrijednost",
+     "value"
+    ],
+    [
+     "osnivač",
+     "founder"
+    ],
+    [
+     "umjetna inteligencija",
+     "artificial intelligence"
+    ]
+   ]
+  },
+  {
+   "id": "261119254",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/imas-37-godina-i-dvoje-djece-supruga-ga-ismijala-a-everton-mu-ispunio-trenerski-san/261119254",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261119254.jpg",
+   "published": "2026-11-19T18:19:00+01:00",
+   "title": [
+    "Supruga ga ismijala, a Everton mu ispunio trenerski san",
+    "His wife mocked him, but Everton made his coaching dream come true"
+   ],
+   "body": [
+    [
+     [
+      "Navijač Evertona star 37 godina postao je poznat na društvenim mrežama zbog jednog kratkog videa.",
+      "A 37-year-old Everton fan became famous on social media because of one short video."
+     ],
+     [
+      "Igrao je igricu Football Manager i u svojoj spavaćoj sobi održao izmišljenu konferenciju za medije kao trener Evertona.",
+      "He was playing the game Football Manager and held a made-up press conference in his bedroom as Everton's coach."
+     ],
+     [
+      "Tada je u sobu ušla njegova supruga i sve snimila telefonom.",
+      "Then his wife came into the room and filmed everything with her phone."
+     ]
+    ],
+    [
+     [
+      "Ona mu se smijala i rekla da ima 37 godina i dvoje djece, a pretvara se da vodi ekipu.",
+      "She laughed at him and said that he was 37 and had two children, yet was pretending to run a team."
+     ],
+     [
+      "Snimak se brzo proširio internetom i došao je do samog kluba.",
+      "The clip quickly spread across the internet and reached the club itself."
+     ],
+     [
+      "Everton je zato odlučio da mu ispuni san i pozvao ga je u svoje prostorije.",
+      "Everton therefore decided to make his dream come true and invited him to its premises."
+     ],
+     [
+      "Tamo je održao pravu konferenciju za medije.",
+      "There he held a real press conference."
+     ]
+    ],
+    [
+     [
+      "Klub je video objavio u srijedu, a navijača je dočekao kapiten James Tarkowski.",
+      "The club published the video on Wednesday, and captain James Tarkowski welcomed the fan."
+     ],
+     [
+      "Tarkowski mu je rekao: Dobro jutro, treneru, a on je odgovorio: Dobro jutro, kapitenu.",
+      "Tarkowski said to him: Good morning, coach, and he replied: Good morning, captain."
+     ],
+     [
+      "Navijač je kasnije rekao da je svima pričao da je kapiten bio tamo.",
+      "The fan later said that he had told everyone that the captain was there."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "navijač",
+     "fan, supporter"
+    ],
+    [
+     "supruga",
+     "wife"
+    ],
+    [
+     "san",
+     "dream"
+    ],
+    [
+     "trener",
+     "coach"
+    ],
+    [
+     "konferencija za medije",
+     "press conference"
+    ],
+    [
+     "snimak",
+     "recording, clip"
+    ],
+    [
+     "kapiten",
+     "captain"
+    ],
+    [
+     "ispuniti",
+     "to fulfil"
+    ]
+   ]
+  },
+  {
+   "id": "261119251",
+   "source": "Klix.ba",
+   "section": "Biznis",
+   "url": "https://www.klix.ba/biznis/investicije/ovako-ce-izgledati-kulturno-edukativni-centar-islamske-zajednice-na-ilidzi/261119251",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261119251.jpg",
+   "published": "2026-11-19T17:55:00+01:00",
+   "title": [
+    "Islamska zajednica pokazala izgled novog centra na Ilidži",
+    "Islamic Community shows the look of a new centre in Ilidža"
+   ],
+   "body": [
+    [
+     [
+      "Medžlis Islamske zajednice Sarajevo objavio je video s idejnim rješenjem novog centra na Ilidži.",
+      "The Medžlis of the Islamic Community Sarajevo published a video with the conceptual design of a new centre in Ilidža."
+     ],
+     [
+      "Kulturno-edukativni centar bit će izgrađen pored Centralne džamije u naselju Pejton.",
+      "The cultural and educational centre will be built next to the Central Mosque in the Pejton neighbourhood."
+     ],
+     [
+      "U njemu će se održavati vjerske, kulturne i obrazovne aktivnosti.",
+      "Religious, cultural and educational activities will be held in it."
+     ]
+    ],
+    [
+     [
+      "Općinsko vijeće Ilidže usvojilo je izmjene plana 29. oktobra, a one su stupile na snagu u novembru.",
+      "The Ilidža Municipal Council adopted the changes to the plan on 29 October, and they came into force in November."
+     ],
+     [
+      "Lokacija u ulici 12. mart ima 1,11 hektara.",
+      "The site on 12. mart street covers 1.11 hectares."
+     ],
+     [
+      "Zgrada će imati podrum, prizemlje i jedan sprat, a ukupna površina može biti najviše 2.615 kvadratnih metara.",
+      "The building will have a basement, a ground floor and one storey, and the total area can be at most 2,615 square metres."
+     ],
+     [
+      "U podrumu će biti garaža s najmanje 65 parking mjesta.",
+      "In the basement there will be a garage with at least 65 parking spaces."
+     ]
+    ],
+    [
+     [
+      "Garaža će služiti posjetiocima džamije i centra, ali i stanovnicima naselja.",
+      "The garage will serve visitors to the mosque and the centre, but also residents of the neighbourhood."
+     ],
+     [
+      "Novi centar bi trebao zamijeniti stare garaže koje se sada nalaze na tom mjestu.",
+      "The new centre should replace the old garages that are now on that site."
+     ],
+     [
+      "Plan predviđa i novu cestu dugu 200 metara uz rijeku Željeznicu, pa će Pejton dobiti drugi ulaz i izlaz.",
+      "The plan also includes a new 200-metre road along the Željeznica river, so Pejton will get a second entrance and exit."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "zajednica",
+     "community"
+    ],
+    [
+     "centar",
+     "centre"
+    ],
+    [
+     "džamija",
+     "mosque"
+    ],
+    [
+     "izgraditi",
+     "to build"
+    ],
+    [
+     "zgrada",
+     "building"
+    ],
+    [
+     "površina",
+     "area, surface"
+    ],
+    [
+     "garaža",
+     "garage"
+    ],
+    [
+     "naselje",
+     "neighbourhood, settlement"
+    ]
+   ]
+  },
+  {
+   "id": "261119240",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/lifestyle/fitness/emina-jahovic-otkrila-tajnu-vitke-linije-preskace-dorucak-ali-jedan-porok-ne-ostavlja/261119240",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261119240.jpg",
+   "published": "2026-11-19T17:55:00+01:00",
+   "title": [
+    "Emina Jahović otkrila kako se hrani: dva obroka dnevno",
+    "Emina Jahović revealed how she eats: two meals a day"
+   ],
+   "body": [
+    [
+     [
+      "Pjevačica Emina Jahović za srbijanski portal Blic govorila je o tome kako se hrani.",
+      "Singer Emina Jahović spoke to the Serbian portal Blic about how she eats."
+     ],
+     [
+      "Ona kaže da nema tri obroka dnevno, nego samo jedan ili dva.",
+      "She says that she doesn't have three meals a day, but only one or two."
+     ],
+     [
+      "Često preskače doručak, a dan završava laganom večerom oko 18 ili 19 sati.",
+      "She often skips breakfast and ends the day with a light dinner around 6 or 7 pm."
+     ]
+    ],
+    [
+     [
+      "Između obroka ne jede ništa, a ranije je rekla da ponekad posti i do 48 sati.",
+      "She eats nothing between meals, and she said earlier that she sometimes fasts for up to 48 hours."
+     ],
+     [
+      "Izbacila je mliječne proizvode i izbjegava gluten, protein u kojem ima brašna od pšenice.",
+      "She has cut out dairy products and avoids gluten, a protein found in wheat flour."
+     ],
+     [
+      "Većinu proteina dobija iz mesa i mnogo trenira.",
+      "She gets most of her protein from meat and trains a lot."
+     ],
+     [
+      "Ajvar ne kupuje u prodavnici, nego ga pravi njena majka u Novom Pazaru s maslinovim uljem.",
+      "She doesn't buy ajvar in a shop; her mother makes it in Novi Pazar with olive oil."
+     ]
+    ],
+    [
+     [
+      "Rekla je da ne pojede cijelu teglu ajvara, nego dvije kašike.",
+      "She said that she doesn't eat a whole jar of ajvar, but two spoonfuls."
+     ],
+     [
+      "Jedini porok koji priznaje je kafa, jer joj smanjuje glad.",
+      "The only vice she admits to is coffee, because it reduces her hunger."
+     ],
+     [
+      "Kada prekrši pravila, počasti se picom s Nutellom, vaflima i čokoladom.",
+      "When she breaks the rules, she treats herself to pizza with Nutella, waffles and chocolate."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "obrok",
+     "meal"
+    ],
+    [
+     "doručak",
+     "breakfast"
+    ],
+    [
+     "večera",
+     "dinner"
+    ],
+    [
+     "postiti",
+     "to fast"
+    ],
+    [
+     "tegla",
+     "jar"
+    ],
+    [
+     "kašika",
+     "spoon, spoonful"
+    ],
+    [
+     "porok",
+     "vice"
+    ],
+    [
+     "glad",
+     "hunger"
+    ]
+   ]
+  },
+  {
+   "id": "261119231",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/atletika/zasto-danasnja-djeca-ne-mogu-uraditi-pokrete-koje-smo-mi-radili-bez-razmisljanja/261119231",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261119231.jpg",
+   "published": "2026-11-19T17:32:00+01:00",
+   "title": [
+    "Zašto se današnja djeca kreću manje nego ranije",
+    "Why today's children move less than before"
+   ],
+   "body": [
+    [
+     [
+      "Današnja djeca često imaju organizirane treninge, ali tokom dana mnogo više sjede nego ranije generacije.",
+      "Today's children often have organised training sessions, but during the day they sit much more than earlier generations."
+     ],
+     [
+      "O tome piše kineziolog i atletski trener Elmir Ćerimagić, koji je i otac četvero djece.",
+      "Kinesiologist and athletics coach Elmir Ćerimagić, who is also a father of four, writes about this."
+     ],
+     [
+      "On smatra da trening ne može zamijeniti slobodnu igru.",
+      "He believes that training cannot replace free play."
+     ]
+    ],
+    [
+     [
+      "Ranije su se djeca penjala na drveće, skakala preko potoka i igrala žmire i lastiš.",
+      "Earlier, children climbed trees, jumped over streams and played hide-and-seek and elastics."
+     ],
+     [
+      "Tako su razvijala ravnotežu, snagu i koordinaciju, a da to nisu ni znala.",
+      "That way they developed balance, strength and coordination without even knowing it."
+     ],
+     [
+      "Danas dijete može imati 3 treninga nogometa sedmično, a ostatak dana provodi u školi, uz telefon ili televizor.",
+      "Today a child can have 3 football sessions a week, and spends the rest of the day at school, with a phone or the TV."
+     ],
+     [
+      "Svjetska zdravstvena organizacija preporučuje djeci od 5 do 17 godina najmanje 60 minuta kretanja dnevno.",
+      "The World Health Organization recommends at least 60 minutes of movement a day for children aged 5 to 17."
+     ]
+    ],
+    [
+     [
+      "Autor kaže da roditelji često zabranjuju djeci da se penju i skaču, ili sve urade umjesto njih.",
+      "The author says that parents often forbid children to climb and jump, or do everything for them."
+     ],
+     [
+      "On savjetuje svakodnevnu igru napolju i različite pokrete, kao što su skakanje, puzanje i balansiranje.",
+      "He advises daily outdoor play and different movements, such as jumping, crawling and balancing."
+     ],
+     [
+      "Organizirani sport treba biti dodatak, a ne zamjena za kretanje.",
+      "Organised sport should be an addition, not a replacement for movement."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "kretanje",
+     "movement"
+    ],
+    [
+     "trening",
+     "training session"
+    ],
+    [
+     "igra",
+     "play, game"
+    ],
+    [
+     "ravnoteža",
+     "balance"
+    ],
+    [
+     "snaga",
+     "strength"
+    ],
+    [
+     "roditelj",
+     "parent"
+    ],
+    [
+     "preporučiti",
+     "to recommend"
+    ],
+    [
+     "penjati se",
+     "to climb"
+    ]
+   ]
+  },
+  {
+   "id": "261119216",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/rekla-mi-je-sestra-da-te-dario-osmekao-i-da-ne-dolazis-detalji-iz-sudnice-o-uhapsenoj-inspektorici-sipa-e/261119216",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261119216.jpg",
+   "published": "2026-11-19T16:50:00+01:00",
+   "title": [
+    "Tužilaštvo traži pritvor za uhapšenu inspektoricu SIPA-e",
+    "Prosecutors seek detention for arrested SIPA inspector"
+   ],
+   "body": [
+    [
+     [
+      "Pred Sudom BiH danas je održano ročište o pritvoru za inspektoricu SIPA-e Jelenu Mičić.",
+      "A hearing on detention for SIPA inspector Jelena Mičić was held today before the Court of BiH."
+     ],
+     [
+      "Sumnja se da je zloupotrijebila položaj i da je preko brata upozorila kriminalca Miljana Radonju na istragu.",
+      "She is suspected of abusing her position and of warning the criminal Miljan Radonja about an investigation through her brother."
+     ],
+     [
+      "Za to krivično djelo prijeti kazna od 6 mjeseci do 5 godina zatvora.",
+      "That criminal offence carries a sentence of 6 months to 5 years in prison."
+     ]
+    ],
+    [
+     [
+      "Tužilac je tražio jedan mjesec pritvora, jer bi ona mogla uništiti dokaze ili uticati na svjedoke.",
+      "The prosecutor asked for one month of detention, because she could destroy evidence or influence witnesses."
+     ],
+     [
+      "Prema tužilaštvu, njen brat je informaciju poslao Radonji preko aplikacije Sky 2021. godine.",
+      "According to the prosecution, her brother sent the information to Radonja via the Sky app in 2021."
+     ],
+     [
+      "Policija joj je oduzela telefon, ali ona nije htjela dati šifru.",
+      "The police seized her phone, but she would not give the password."
+     ],
+     [
+      "Kod nje je pronađen i USB s obavještajnim podacima iz 2021. godine.",
+      "A USB stick with intelligence data from 2021 was also found with her."
+     ]
+    ],
+    [
+     [
+      "Odbrana je rekla da poruke nisu dokazane i da je šutnja njeno pravo.",
+      "The defence said the messages had not been proven and that silence is her right."
+     ],
+     [
+      "Advokati su predložili blaže mjere, na primjer zabranu razgovora o predmetu.",
+      "The lawyers proposed milder measures, for example a ban on talking about the case."
+     ],
+     [
+      "Naveli su i da je ona majka dvoje djece i da brine o baki.",
+      "They also stated that she is a mother of two children and looks after her grandmother."
+     ],
+     [
+      "Sud će odluku o pritvoru donijeti naknadno.",
+      "The court will make its decision on detention later."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "sud",
+     "court"
+    ],
+    [
+     "pritvor",
+     "detention, custody"
+    ],
+    [
+     "tužilac",
+     "prosecutor"
+    ],
+    [
+     "istraga",
+     "investigation"
+    ],
+    [
+     "dokaz",
+     "evidence, proof"
+    ],
+    [
+     "svjedok",
+     "witness"
+    ],
+    [
+     "odbrana",
+     "defence"
+    ],
+    [
+     "odluka",
+     "decision"
+    ]
+   ]
+  },
+  {
+   "id": "261119236",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/lifestyle/putovanja/zagreb-proglasen-najboljom-bozicnom-destinacijom-u-evropi-iza-njega-sofija-i-budimpesta/261119236",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261119236.jpg",
+   "published": "2026-11-19T16:45:00+01:00",
+   "title": [
+    "Zagreb proglašen najboljom božićnom destinacijom u Evropi",
+    "Zagreb named the best Christmas destination in Europe"
+   ],
+   "body": [
+    [
+     [
+      "Platforma European Best Destinations proglasila je Zagreb najboljom božićnom destinacijom u Evropi za 2026. godinu.",
+      "The platform European Best Destinations named Zagreb the best Christmas destination in Europe for 2026."
+     ],
+     [
+      "Na drugom mjestu je Sofija, a na četvrtom Budimpešta.",
+      "Sofia is in second place, and Budapest is fourth."
+     ],
+     [
+      "Platforma nije objasnila kako je birala gradove, ali kaže da Zagreb nudi posebnu atmosferu.",
+      "The platform did not explain how it chose the cities, but it says that Zagreb offers a special atmosphere."
+     ]
+    ],
+    [
+     [
+      "Advent u Zagrebu je već tri godine zaredom bio najbolji božićni sajam u Evropi.",
+      "Advent in Zagreb was already the best Christmas market in Europe three years in a row."
+     ],
+     [
+      "Ove godine službeno počinje u subotu, 28. novembra, i traje do 7. januara 2027. godine.",
+      "This year it officially starts on Saturday, 28 November, and lasts until 7 January 2027."
+     ],
+     [
+      "Neke lokacije bi mogle biti otvorene već od 25. novembra.",
+      "Some locations could be open as early as 25 November."
+     ],
+     [
+      "Program će biti na više mjesta u centru, a na Trgu kralja Tomislava bit će i ledeni park.",
+      "The programme will be in several places in the centre, and there will also be an ice park on King Tomislav Square."
+     ]
+    ],
+    [
+     [
+      "Na listi od 10 destinacija su i Beč, Lisabon, Riga i Salamanca.",
+      "Vienna, Lisbon, Riga and Salamanca are also on the list of 10 destinations."
+     ],
+     [
+      "Deseto mjesto pripalo je Mariboru u Sloveniji.",
+      "Tenth place went to Maribor in Slovenia."
+     ],
+     [
+      "Advent će početi paljenjem prve svijeće na Trgu bana Jelačića.",
+      "Advent will begin with the lighting of the first candle on Ban Jelačić Square."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "destinacija",
+     "destination"
+    ],
+    [
+     "božićni",
+     "Christmas (adj.)"
+    ],
+    [
+     "proglasiti",
+     "to declare, to name"
+    ],
+    [
+     "sajam",
+     "fair, market"
+    ],
+    [
+     "mjesto",
+     "place"
+    ],
+    [
+     "lista",
+     "list"
+    ],
+    [
+     "trg",
+     "square"
+    ],
+    [
+     "svijeća",
+     "candle"
+    ]
+   ]
+  },
+  {
+   "id": "261119217",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/film-tv/novak-dokovic-u-novom-filmu-focker-in-law-pojavljuje-se-u-sceni-s-robertom-de-nirom-i-owenom-wilsonom/261119217",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261119217.jpg",
+   "published": "2026-11-19T16:24:00+01:00",
+   "title": [
+    "Novak Đoković glumi u novoj komediji s Robertom De Nirom",
+    "Novak Đoković acts in a new comedy with Robert De Niro"
+   ],
+   "body": [
+    [
+     [
+      "Teniser Novak Đoković ima malu ulogu u filmu Focker-In-Law, četvrtom dijelu poznate komedije.",
+      "Tennis player Novak Đoković has a small role in the film Focker-In-Law, the fourth part of a well-known comedy."
+     ],
+     [
+      "Scena s njim može se vidjeti u najavi filma, koju je objavio regionalni distributer.",
+      "The scene with him can be seen in the film's trailer, which was published by the regional distributor."
+     ],
+     [
+      "Film u američka kina stiže 25. novembra.",
+      "The film arrives in American cinemas on 25 November."
+     ]
+    ],
+    [
+     [
+      "U sceni Đoković nosi bijelu majicu i torbu s reketima, a razgovara s Owenom Wilsonom.",
+      "In the scene Đoković wears a white T-shirt and a racket bag, and talks with Owen Wilson."
+     ],
+     [
+      "Kaže mu da je trening bio odličan i da treba nastaviti raditi na forhendu.",
+      "He tells him the training was excellent and that he should keep working on his forehand."
+     ],
+     [
+      "Kada ga Wilson pita za bekhend, Đoković odgovara da može i bolje.",
+      "When Wilson asks him about the backhand, Đoković replies that he can do better."
+     ],
+     [
+      "U istom kadru su i Robert De Niro i Teri Polo.",
+      "Robert De Niro and Teri Polo are also in the same shot."
+     ]
+    ],
+    [
+     [
+      "U filmu se vraćaju Ben Stiller, Robert De Niro i Owen Wilson, a nova je i Ariana Grande.",
+      "Ben Stiller, Robert De Niro and Owen Wilson return in the film, and Ariana Grande is new."
+     ],
+     [
+      "Film je napisao i režirao John Hamburg, koji je radio i na prethodna tri dijela.",
+      "The film was written and directed by John Hamburg, who also worked on the previous three parts."
+     ],
+     [
+      "Ovo nije prvi Đokovićev film, jer se 2011. godine kratko pojavio i u filmu The Expendables 2.",
+      "This is not Đoković's first film, because in 2011 he also briefly appeared in the film The Expendables 2."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "uloga",
+     "role"
+    ],
+    [
+     "glumiti",
+     "to act"
+    ],
+    [
+     "komedija",
+     "comedy"
+    ],
+    [
+     "najava",
+     "trailer, announcement"
+    ],
+    [
+     "kino",
+     "cinema"
+    ],
+    [
+     "scena",
+     "scene"
+    ],
+    [
+     "režirati",
+     "to direct (a film)"
+    ],
+    [
+     "teniser",
+     "tennis player"
+    ]
+   ]
+  },
+  {
+   "id": "261119218",
+   "source": "Klix.ba",
+   "section": "Zdravlje",
+   "url": "https://www.klix.ba/lifestyle/zdravlje/planirate-igrati-gta-6-satima-fizioterapeut-upozorava-na-opasnosti-koje-vrebaju-ispred-ekrana/261119218",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261119218.jpg",
+   "published": "2026-11-19T16:13:00+01:00",
+   "title": [
+    "Fizioterapeut upozorava igrače GTA 6 na duge sate sjedenja",
+    "Physiotherapist warns GTA 6 players about long hours of sitting"
+   ],
+   "body": [
+    [
+     [
+      "Mnogi ljudi ovih dana satima igraju novu video igru GTA 6.",
+      "Many people are playing the new video game GTA 6 for hours these days."
+     ],
+     [
+      "Fizioterapeut Anthony Pavlich za New York Post upozorava da dugo igranje bez pauze može štetiti zdravlju.",
+      "Physiotherapist Anthony Pavlich warns in the New York Post that long gaming without a break can harm health."
+     ],
+     [
+      "Najčešći problemi su bol u vratu i leđima, problemi sa zglobom šake i slabiji protok krvi u nogama.",
+      "The most common problems are neck and back pain, wrist problems and weaker blood flow in the legs."
+     ]
+    ],
+    [
+     [
+      "Većina igrača sjedi pogrbljeno na kauču, a glava teška oko 5 kilograma opterećuje vrat.",
+      "Most players sit hunched on the couch, and the head, which weighs about 5 kilograms, strains the neck."
+     ],
+     [
+      "Prema jednom istraživanju iz 2015. godine, 6 sati sjedenja smanjuje protok krvi u nogama.",
+      "According to one study from 2015, 6 hours of sitting reduces blood flow in the legs."
+     ],
+     [
+      "Šetnja od 10 minuta nakon toga vratila je vrijednosti u normalu.",
+      "A 10-minute walk afterwards brought the values back to normal."
+     ],
+     [
+      "Ako se tako sjedi mjesecima, mišići mogu postati kraći i slabiji.",
+      "If people sit like that for months, the muscles can become shorter and weaker."
+     ]
+    ],
+    [
+     [
+      "Pavlich kaže da ne postoji tačan broj sati koji je siguran za odrasle.",
+      "Pavlich says that there is no exact number of hours that is safe for adults."
+     ],
+     [
+      "Savjetuje da svakih 30 do 60 minuta ustanete i krećete se 2 do 5 minuta.",
+      "He advises getting up every 30 to 60 minutes and moving for 2 to 5 minutes."
+     ],
+     [
+      "On preporučuje i nekoliko jednostavnih vježbi istezanja za vrat, prsa, kukove i ruke.",
+      "He also recommends several simple stretching exercises for the neck, chest, hips and arms."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "fizioterapeut",
+     "physiotherapist"
+    ],
+    [
+     "upozoravati",
+     "to warn"
+    ],
+    [
+     "sjedenje",
+     "sitting"
+    ],
+    [
+     "bol",
+     "pain"
+    ],
+    [
+     "vrat",
+     "neck"
+    ],
+    [
+     "leđa",
+     "back"
+    ],
+    [
+     "mišić",
+     "muscle"
+    ],
+    [
+     "vježba",
+     "exercise"
+    ]
+   ]
+  },
   {
    "id": "261119124",
    "source": "Klix.ba",
@@ -4720,832 +5574,6 @@
     [
      "povratak",
      "return"
-    ]
-   ]
-  },
-  {
-   "id": "261117215",
-   "source": "Klix.ba",
-   "section": "Biznis",
-   "url": "https://www.klix.ba/biznis/ekonomija/velika-promjena-za-strane-radnike-u-fbih-certifikati-vise-ne-vrijede-bez-diplome-nema-radne-dozvole/261117215",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261117215.jpg",
-   "published": "2026-11-17T17:57:00+01:00",
-   "title": [
-    "Strani radnici u FBiH bez diplome neće dobiti radnu dozvolu",
-    "Foreign workers in FBiH will not get a work permit without a diploma"
-   ],
-   "body": [
-    [
-     [
-      "Strani državljani u Federaciji BiH više ne mogu dobiti radnu dozvolu samo na osnovu certifikata.",
-      "Foreign citizens in the Federation of BiH can no longer get a work permit on the basis of a certificate alone."
-     ],
-     [
-      "Federalno ministarstvo obrazovanja i nauke saopćilo je da je sada potrebna diploma.",
-      "The Federal Ministry of Education and Science announced that a diploma is now required."
-     ],
-     [
-      "Novi pravilnik o radnim dozvolama počeo je važiti 12. novembra.",
-      "The new rulebook on work permits came into force on 12 November."
-     ]
-    ],
-    [
-     [
-      "Diploma mora biti prevedena na jedan od službenih jezika, a potreban je i dokaz da je priznata u BiH.",
-      "The diploma must be translated into one of the official languages, and proof that it is recognised in BiH is also needed."
-     ],
-     [
-      "Osnovne i srednje diplome priznaju kantonalna ministarstva, a fakultetske diplome univerziteti.",
-      "Primary and secondary diplomas are recognised by cantonal ministries, and university diplomas by universities."
-     ],
-     [
-      "Ministarstvo moli poslodavce da više ne traže priznavanje certifikata samo zbog dozvole, kako ne bi plaćali taksu od 35 KM.",
-      "The ministry asks employers to stop requesting recognition of certificates just for a permit, so that they do not pay a 35 KM fee."
-     ],
-     [
-      "Ko povuče svoj zahtjev, može tražiti da mu se taksa vrati.",
-      "Whoever withdraws their request can ask for the fee to be returned."
-     ]
-    ],
-    [
-     [
-      "Prije izdavanja dozvole, služba za zapošljavanje provjerava da li neki nezaposleni domaći radnik može dobiti taj posao.",
-      "Before a permit is issued, the employment service checks whether an unemployed local worker could get that job."
-     ],
-     [
-      "Ako domaći kandidat prihvati posao, dozvola se ne može izdati.",
-      "If a local candidate accepts the job, the permit cannot be issued."
-     ],
-     [
-      "Radna dozvola važi najviše godinu dana, a odluka se mora donijeti u roku od 30 dana.",
-      "A work permit is valid for at most one year, and a decision must be made within 30 days."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "radna dozvola",
-     "work permit"
-    ],
-    [
-     "diploma",
-     "diploma"
-    ],
-    [
-     "certifikat",
-     "certificate"
-    ],
-    [
-     "pravilnik",
-     "rulebook, regulation"
-    ],
-    [
-     "poslodavac",
-     "employer"
-    ],
-    [
-     "taksa",
-     "fee"
-    ],
-    [
-     "nezaposlen",
-     "unemployed"
-    ],
-    [
-     "priznati",
-     "to recognise"
-    ]
-   ]
-  },
-  {
-   "id": "261117207",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/film-tv/netflixov-hit-the-body-izazvao-burne-reakcije-medu-najgledanijim-je-serijama-ali-hiljade-ljudi-traze-ukidanje/261117207",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261117207.jpg",
-   "published": "2026-11-17T17:23:00+01:00",
-   "title": [
-    "Netflixova serija The Body hit, ali hiljade ljudi traže ukidanje",
-    "Netflix series The Body is a hit, but thousands want it cancelled"
-   ],
-   "body": [
-    [
-     [
-      "Nova Netflixova horor serija The Body brzo je postala jedna od najgledanijih na svijetu.",
-      "Netflix's new horror series The Body quickly became one of the most watched in the world."
-     ],
-     [
-      "Samo nekoliko dana nakon premijere došla je na prvo mjesto globalne liste.",
-      "Only a few days after its premiere, it reached first place on the global chart."
-     ],
-     [
-      "Ipak, mnogi ljudi potpisuju peticiju u kojoj traže da Netflix ukine seriju.",
-      "However, many people are signing a petition asking Netflix to cancel the series."
-     ]
-    ],
-    [
-     [
-      "Do 13. novembra peticiju je potpisalo oko 84.000 ljudi, a cilj je 100.000 potpisa.",
-      "By 13 November, about 84,000 people had signed the petition, and the goal is 100,000 signatures."
-     ],
-     [
-      "Potpisnici kažu da serija vrijeđa kršćane i njihovu vjeru.",
-      "The signers say that the series insults Christians and their faith."
-     ],
-     [
-      "Serija ima osam epizoda, a radnja se dešava u katoličkoj školi 2004. godine.",
-      "The series has eight episodes, and the story takes place in a Catholic school in 2004."
-     ],
-     [
-      "Nakon jednog rituala djevojke iz plesne grupe počinju imati čudne vizije, pa u mjestu nastaje panika.",
-      "After a ritual, the girls from the dance group start having strange visions, so panic spreads in the town."
-     ]
-    ],
-    [
-     [
-      "Netflix do sada nije komentarisao peticiju.",
-      "So far, Netflix has not commented on the petition."
-     ],
-     [
-      "Autorica serije Quinn Shephard rekla je da serija kritikuje one koji zloupotrebljavaju vjeru, ali pokazuje i njenu ljepotu.",
-      "The creator of the series, Quinn Shephard, said that the series criticises those who misuse faith but also shows its beauty."
-     ],
-     [
-      "Kritičari su seriju dobro ocijenili, a na IMDb-u ima ocjenu 7,6.",
-      "Critics rated the series well, and it has a rating of 7.6 on IMDb."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "serija",
-     "TV series"
-    ],
-    [
-     "peticija",
-     "petition"
-    ],
-    [
-     "ukinuti",
-     "to cancel"
-    ],
-    [
-     "potpis",
-     "signature"
-    ],
-    [
-     "vjera",
-     "faith, religion"
-    ],
-    [
-     "epizoda",
-     "episode"
-    ],
-    [
-     "ocjena",
-     "rating"
-    ]
-   ]
-  },
-  {
-   "id": "261117223",
-   "source": "Klix.ba",
-   "section": "Biznis",
-   "url": "https://www.klix.ba/biznis/finansije/u-bh-bankama-41-milijarda-km-vise-od-polovine-pripada-gradanima-za-godinu-48-milijardi-vise/261117223",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261117223.jpg",
-   "published": "2026-11-17T17:14:00+01:00",
-   "title": [
-    "U bankama u BiH 41 milijarda KM, većina pripada građanima",
-    "41 billion KM in banks in BiH, most of it belongs to citizens"
-   ],
-   "body": [
-    [
-     [
-      "U bankama u Bosni i Hercegovini krajem septembra bilo je 41,05 milijardi KM depozita.",
-      "At the end of September, there were 41.05 billion KM in deposits in banks in Bosnia and Herzegovina."
-     ],
-     [
-      "Podatke je objavila Centralna banka BiH, a više od polovine novca pripada građanima.",
-      "The data was published by the Central Bank of BiH, and more than half of the money belongs to citizens."
-     ],
-     [
-      "U odnosu na august, depoziti su porasli za 145,6 miliona KM.",
-      "Compared with August, deposits rose by 145.6 million KM."
-     ]
-    ],
-    [
-     [
-      "Građani u bankama imaju 21,39 milijardi KM, što je oko 52 posto svih depozita.",
-      "Citizens have 21.39 billion KM in banks, which is about 52 percent of all deposits."
-     ],
-     [
-      "Samo u septembru njihova štednja povećala se za 208,2 miliona KM.",
-      "In September alone, their savings increased by 208.2 million KM."
-     ],
-     [
-      "Privatne firme imaju 9,37 milijardi KM, a jedino su vladine institucije imale manje novca nego mjesec ranije.",
-      "Private companies have 9.37 billion KM, and only government institutions had less money than a month earlier."
-     ],
-     [
-      "Njihovi depoziti pali su za 192,2 miliona KM, na 5,9 milijardi KM.",
-      "Their deposits fell by 192.2 million KM, to 5.9 billion KM."
-     ]
-    ],
-    [
-     [
-      "Za godinu dana ukupni depoziti porasli su za 4,82 milijarde KM, odnosno 13,3 posto.",
-      "In one year, total deposits grew by 4.82 billion KM, or 13.3 percent."
-     ],
-     [
-      "Građani najviše novca drže na tekućim računima, i to 51,4 posto.",
-      "Citizens keep most of their money in current accounts, 51.4 percent."
-     ],
-     [
-      "Oročeni depoziti čine 29,3 posto, a ostatak je novac koji se može podići bilo kada.",
-      "Term deposits make up 29.3 percent, and the rest is money that can be withdrawn at any time."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "banka",
-     "bank"
-    ],
-    [
-     "depozit",
-     "deposit"
-    ],
-    [
-     "građanin",
-     "citizen"
-    ],
-    [
-     "štednja",
-     "savings"
-    ],
-    [
-     "porasti",
-     "to grow, to rise"
-    ],
-    [
-     "tekući račun",
-     "current account"
-    ],
-    [
-     "oročen",
-     "fixed-term"
-    ]
-   ]
-  },
-  {
-   "id": "261117220",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/koljic-upozorio-rumune-uoci-zenice-bit-ce-vatrena-utakmica-nadam-se-da-ce-lukic-igrati/261117220",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261117220.jpg",
-   "published": "2026-11-17T17:12:00+01:00",
-   "title": [
-    "Koljić prije meča u Zenici: Bit će vatrena utakmica",
-    "Koljić before the match in Zenica: It will be a fiery game"
-   ],
-   "body": [
-    [
-     [
-      "Bh. napadač Elvir Koljić najavio je večerašnju utakmicu BiH i Rumunije u Zenici.",
-      "Bosnian striker Elvir Koljić previewed tonight's match between BiH and Romania in Zenica."
-     ],
-     [
-      "Koljić je ranije igrao za rumunske klubove Craiovu i Rapid, a sada igra u grčkom Iraklisu.",
-      "Koljić used to play for the Romanian clubs Craiova and Rapid, and he now plays for Greek club Iraklis."
-     ],
-     [
-      "Rumunskom listu Gazeta Sporturilor rekao je da očekuje vatrenu atmosferu.",
-      "He told the Romanian paper Gazeta Sporturilor that he expects a fiery atmosphere."
-     ]
-    ],
-    [
-     [
-      "Prema njegovim riječima, BiH je pod selektorom Sergejem Barbarezom napravila dobar tim s mladim igračima.",
-      "According to him, BiH under head coach Sergej Barbarez has built a good team with young players."
-     ],
-     [
-      "Nada se da će igrati Jovo Lukić, s kojim je igrao u Krupi i Craiovi.",
-      "He hopes that Jovo Lukić, with whom he played at Krupa and Craiova, will play."
-     ],
-     [
-      "Lukić nije igrao u porazu od Švedske, ali je Barbarez rekao da je spreman.",
-      "Lukić did not play in the defeat against Sweden, but Barbarez said that he is ready."
-     ],
-     [
-      "Koljić misli da Rumunija može pobijediti, jer vjeruje u selektora Gheorghea Hagija.",
-      "Koljić thinks that Romania can win because he believes in head coach Gheorghe Hagi."
-     ]
-    ],
-    [
-     [
-      "Rumunija je posljednja u grupi i mora pobijediti u Zenici.",
-      "Romania is last in the group and must win in Zenica."
-     ],
-     [
-      "Koljić je za reprezentaciju BiH odigrao četiri utakmice, posljednju 2020. godine.",
-      "Koljić played four matches for the BiH national team, the last one in 2020."
-     ],
-     [
-      "Utakmica počinje u 20:45 na Bilinom polju, a prenosi je BHT1.",
-      "The match starts at 20:45 at Bilino polje, and BHT1 is broadcasting it."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "napadač",
-     "striker"
-    ],
-    [
-     "vatren",
-     "fiery"
-    ],
-    [
-     "selektor",
-     "national team coach"
-    ],
-    [
-     "poraz",
-     "defeat"
-    ],
-    [
-     "pobijediti",
-     "to win"
-    ],
-    [
-     "reprezentacija",
-     "national team"
-    ]
-   ]
-  },
-  {
-   "id": "261117147",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/nauka/iznad-vecine-gradova-sada-je-vise-satelita-nego-vidljivih-zvijezda/261117147",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261117147.jpg",
-   "published": "2026-11-17T14:10:00+01:00",
-   "title": [
-    "Iznad gradova sada je više satelita nego vidljivih zvijezda",
-    "Above cities there are now more satellites than visible stars"
-   ],
-   "body": [
-    [
-     [
-      "Iznad većine gradova noću sada ima više satelita nego zvijezda koje vidimo golim okom.",
-      "Above most cities at night there are now more satellites than stars that we can see with the naked eye."
-     ],
-     [
-      "To pokazuje analiza kompanije Accu Components, koju još nisu provjerili drugi naučnici.",
-      "This is shown by an analysis by the company Accu Components, which other scientists have not yet checked."
-     ],
-     [
-      "Analiza je obuhvatila 15.833 aktivna satelita u niskoj orbiti oko Zemlje.",
-      "The analysis covered 15,833 active satellites in low orbit around the Earth."
-     ]
-    ],
-    [
-     [
-      "Iznad prosječnog britanskog grada u svakom trenutku ima oko 710 satelita.",
-      "Above an average British city there are about 710 satellites at any moment."
-     ],
-     [
-      "Oko 105 njih vidljivo je, jer satelite vidimo samo kada ih obasjava Sunce, a na zemlji je već mrak.",
-      "About 105 of them are visible, because we see satellites only when the Sun lights them up and it is already dark on the ground."
-     ],
-     [
-      "Slično je u većem dijelu Evrope i SAD-a, ali i u Bosni i Hercegovini.",
-      "It is similar in most of Europe and the USA, but also in Bosnia and Herzegovina."
-     ],
-     [
-      "Iznad velikih gradova kao što su London i New York u ponoć se vidi samo nekoliko desetina zvijezda.",
-      "Above big cities such as London and New York, only a few dozen stars can be seen at midnight."
-     ]
-    ],
-    [
-     [
-      "Broj satelita jako je porastao nakon što je SpaceX počeo lansirati satelite Starlink.",
-      "The number of satellites has risen sharply since SpaceX started launching Starlink satellites."
-     ],
-     [
-      "Kompanije planiraju još stotine hiljada satelita u narednim decenijama.",
-      "Companies are planning hundreds of thousands more satellites in the coming decades."
-     ],
-     [
-      "Astronomi su zabrinuti, jer sateliti ostavljaju tragove na snimcima teleskopa i čine nebo svjetlijim.",
-      "Astronomers are worried because satellites leave trails on telescope images and make the sky brighter."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "satelit",
-     "satellite"
-    ],
-    [
-     "zvijezda",
-     "star"
-    ],
-    [
-     "nebo",
-     "sky"
-    ],
-    [
-     "orbita",
-     "orbit"
-    ],
-    [
-     "vidljiv",
-     "visible"
-    ],
-    [
-     "lansirati",
-     "to launch"
-    ],
-    [
-     "astronom",
-     "astronomer"
-    ],
-    [
-     "zabrinut",
-     "worried"
-    ]
-   ]
-  },
-  {
-   "id": "261117133",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/film-tv/automobil-udario-reporterku-rtv-vojvodine-tokom-javljanja-uzivo/261117133",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261117133.jpg",
-   "published": "2026-11-17T13:26:00+01:00",
-   "title": [
-    "Automobil udario reporterku tokom javljanja uživo",
-    "Car hits a reporter during a live broadcast"
-   ],
-   "body": [
-    [
-     [
-      "Automobil je u utorak udario reporterku Radio-televizije Vojvodine dok se javljala uživo iz Stare Pazove.",
-      "On Tuesday a car hit a reporter of Radio-Television Vojvodina while she was reporting live from Stara Pazova."
-     ],
-     [
-      "Kamera je snimila cijeli događaj, a snimak se brzo proširio na društvenim mrežama.",
-      "The camera recorded the whole event, and the footage quickly spread on social networks."
-     ]
-    ],
-    [
-     [
-      "Na snimku se vidi kako vozilo izlazi unazad s parkinga i udara reporterku.",
-      "The footage shows a vehicle reversing out of a parking space and hitting the reporter."
-     ],
-     [
-      "Ona izgleda zbunjeno i pokušava se skloniti s puta.",
-      "She looks confused and tries to get out of the way."
-     ],
-     [
-      "Prema pisanju srbijanskih medija, vozač je nakon udarca nastavio voziti.",
-      "According to Serbian media reports, the driver continued driving after the impact."
-     ],
-     [
-      "Zasad se ne zna da li je reporterka povrijeđena.",
-      "For now it is not known whether the reporter was injured."
-     ]
-    ],
-    [
-     [
-      "RTV Vojvodina još nije komentarisala ovaj događaj.",
-      "RTV Vojvodina has not yet commented on this event."
-     ],
-     [
-      "Reporterka se javila na mreži X, gdje koristi ime „Mokoš“.",
-      "The reporter posted on the X network, where she uses the name \"Mokoš\"."
-     ],
-     [
-      "Podsjetila je da je prije nekoliko godina, dok je čitala vremensku prognozu, pas iza nje povraćao pred kamerom.",
-      "She recalled that a few years ago, while she was reading the weather forecast, a dog behind her vomited in front of the camera."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "reporterka",
-     "reporter (female)"
-    ],
-    [
-     "javljanje uživo",
-     "live report"
-    ],
-    [
-     "snimak",
-     "footage, recording"
-    ],
-    [
-     "udariti",
-     "to hit"
-    ],
-    [
-     "vozač",
-     "driver"
-    ],
-    [
-     "povrijeđen",
-     "injured"
-    ],
-    [
-     "proširiti se",
-     "to spread"
-    ],
-    [
-     "zbunjen",
-     "confused"
-    ]
-   ]
-  },
-  {
-   "id": "261117135",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/rumunski-novinari-usli-na-travnjak-bilinog-polja-cuvar-ih-prvobitno-zaustavio-pa-kasnije-popustio/261117135",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261117135.jpg",
-   "published": "2026-11-17T13:25:00+01:00",
-   "title": [
-    "Rumunski novinari ušli na teren stadiona u Zenici",
-    "Romanian journalists walk onto the pitch of the stadium in Zenica"
-   ],
-   "body": [
-    [
-     [
-      "Novinari rumunskog sportskog portala Golazo.ro jutros su ušli na travnjak stadiona Bilino polje u Zenici.",
-      "Journalists from the Romanian sports portal Golazo.ro this morning walked onto the grass of the Bilino polje stadium in Zenica."
-     ],
-     [
-      "Večeras u 21:45 na tom stadionu igraju reprezentacije BiH i Rumunije u Ligi nacija.",
-      "Tonight at 21:45 the national teams of BiH and Romania play at that stadium in the Nations League."
-     ]
-    ],
-    [
-     [
-      "Čuvar ih na ulazu prvo nije htio pustiti, ali je popustio kada su rekli da će ostati samo jednu minutu.",
-      "At the entrance the guard at first did not want to let them in, but he gave in when they said they would stay only one minute."
-     ],
-     [
-      "Prolaz između tribina bio je otvoren, pa su otišli direktno na travu.",
-      "The passage between the stands was open, so they went straight onto the grass."
-     ],
-     [
-      "Tada je domar stadiona počeo vikati i zabranio fotografisanje.",
-      "Then the stadium caretaker started shouting and banned taking photos."
-     ],
-     [
-      "Kasnije se smirio i dozvolio im da teren slikaju mobitelima, ali ne profesionalnim kamerama.",
-      "Later he calmed down and allowed them to photograph the pitch with mobile phones, but not with professional cameras."
-     ]
-    ],
-    [
-     [
-      "Novinari su napisali da teren ima tamne mrlje i male neravnine, ali da je dobar za igru.",
-      "The journalists wrote that the pitch has dark spots and small bumps, but that it is good for playing."
-     ],
-     [
-      "Iako je posljednjih dana padala jaka kiša, jutros je bilo sunčano i toplije.",
-      "Although heavy rain fell in recent days, this morning it was sunny and warmer."
-     ],
-     [
-      "Prema njihovom mišljenju, teren je skoro isti kao 15. novembra 2025., kada je BiH pobijedila Rumuniju 3:1.",
-      "In their opinion, the pitch is almost the same as on 15 November 2025, when BiH beat Romania 3:1."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "travnjak",
-     "lawn, grass pitch"
-    ],
-    [
-     "čuvar",
-     "guard"
-    ],
-    [
-     "popustiti",
-     "to give in"
-    ],
-    [
-     "tribina",
-     "stand (in a stadium)"
-    ],
-    [
-     "zabraniti",
-     "to ban"
-    ],
-    [
-     "teren",
-     "pitch, field"
-    ],
-    [
-     "mrlja",
-     "spot, stain"
-    ],
-    [
-     "domar",
-     "caretaker"
-    ]
-   ]
-  },
-  {
-   "id": "261117128",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/zastupnik-tuzlanskog-sdp-a-dzevad-hadzic-pretresen-na-aerodromu-u-beogradu-po-nalogu-bia-e/261117128",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261117128.jpg",
-   "published": "2026-11-17T13:18:00+01:00",
-   "title": [
-    "Zastupnik SDP-a iz Tuzle pretresen na aerodromu u Beogradu",
-    "SDP representative from Tuzla searched at Belgrade airport"
-   ],
-   "body": [
-    [
-     [
-      "Dževad Hadžić, poznati političar SDP-a iz Tuzle, kaže da je u Srbiji više puta zaustavljen i pretresen.",
-      "Dževad Hadžić, a well-known SDP politician from Tuzla, says that he was stopped and searched several times in Serbia."
-     ],
-     [
-      "Hadžić je predsjednik SDP-a u Tuzlanskom kantonu i delegat u Domu naroda Parlamenta Federacije BiH.",
-      "Hadžić is the president of the SDP in Tuzla Canton and a delegate in the House of Peoples of the Parliament of the Federation of BiH."
-     ]
-    ],
-    [
-     [
-      "Prvo su ga zaustavili na graničnom prelazu Karakaj, gdje su ga ispitivali oko 40 minuta.",
-      "First they stopped him at the Karakaj border crossing, where they questioned him for about 40 minutes."
-     ],
-     [
-      "Na povratku su ga na beogradskom aerodromu izdvojili iz redovne kontrole.",
-      "On the way back they separated him from the regular check at Belgrade airport."
-     ],
-     [
-      "Policajci su pregledali njegove lične stvari i dokumente.",
-      "Police officers examined his personal belongings and documents."
-     ],
-     [
-      "Pitali su ga gdje je boravio, kuda putuje i odakle je automobil kojim je došao na aerodrom.",
-      "They asked him where he had stayed, where he was travelling and where the car he came to the airport in was from."
-     ],
-     [
-      "Kada je pitao zašto ga provjeravaju, rekli su mu da rade po nalogu BIA-e, srbijanske sigurnosne agencije.",
-      "When he asked why they were checking him, they told him they were acting on the order of the BIA, the Serbian security agency."
-     ]
-    ],
-    [
-     [
-      "Nakon pretresa i ispitivanja pušten je, ali nije dobio objašnjenje.",
-      "After the search and questioning he was released, but he did not get an explanation."
-     ],
-     [
-      "Hadžić je rekao da su slično iskustvo imala još trojica zastupnika iz drugih stranaka.",
-      "Hadžić said that three other representatives from other parties had a similar experience."
-     ],
-     [
-      "Srbijanske vlasti zasad nisu objasnile razloge za ove kontrole.",
-      "The Serbian authorities have not explained the reasons for these checks so far."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "pretresti",
-     "to search"
-    ],
-    [
-     "zastupnik",
-     "representative, MP"
-    ],
-    [
-     "granični prelaz",
-     "border crossing"
-    ],
-    [
-     "ispitivati",
-     "to question"
-    ],
-    [
-     "nalog",
-     "order"
-    ],
-    [
-     "pustiti",
-     "to release"
-    ],
-    [
-     "objašnjenje",
-     "explanation"
-    ],
-    [
-     "stranka",
-     "political party"
-    ]
-   ]
-  },
-  {
-   "id": "261117130",
-   "source": "Klix.ba",
-   "section": "Biznis",
-   "url": "https://www.klix.ba/biznis/ekonomija/je-li-projekt-juzna-interkonekcija-pod-upitnikom-americke-banke-se-ograduju-iz-aafs-a-tvrde-da-nema-problema/261117130",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261117130.jpg",
-   "published": "2026-11-17T13:16:00+01:00",
-   "title": [
-    "Američke banke ne žele finansirati Južnu interkonekciju",
-    "US banks do not want to finance the Southern Interconnection"
-   ],
-   "body": [
-    [
-     [
-      "Američko finansiranje velikih projekata kompanije AAFS u Bosni i Hercegovini je pod upitnikom, piše agencija Bloomberg.",
-      "US financing of the large projects of the company AAFS in Bosnia and Herzegovina is in question, the Bloomberg agency writes."
-     ],
-     [
-      "Riječ je o projektima vrijednim 2,3 milijarde dolara, a među njima su gasovod Južna interkonekcija i aerodromi u Sarajevu i Mostaru.",
-      "These are projects worth 2.3 billion dollars, and among them are the Southern Interconnection gas pipeline and the airports in Sarajevo and Mostar."
-     ],
-     [
-      "Dvije američke razvojne banke sada se ograđuju od tog plana.",
-      "Two American development banks are now distancing themselves from that plan."
-     ]
-    ],
-    [
-     [
-      "Glasnogovornik banke EXIM rekao je da banka trenutno nije odobrila nikakav novac za kompaniju.",
-      "A spokesperson for the EXIM bank said that the bank has currently not approved any money for the company."
-     ],
-     [
-      "Izvor upoznat sa situacijom rekao je Bloombergu da ni u banci DFC projekat ne ide naprijed.",
-      "A source familiar with the situation told Bloomberg that the project is not moving forward at the DFC bank either."
-     ],
-     [
-      "Kompaniju AAFS vode Jesse Binnall, bivši advokat Donalda Trumpa, i Joseph Flynn, brat Trumpovog bivšeg savjetnika.",
-      "The company AAFS is run by Jesse Binnall, Donald Trump's former lawyer, and Joseph Flynn, the brother of Trump's former adviser."
-     ],
-     [
-      "Šef AAFS-a u BiH Amer Bekan potvrdio je da su razgovori s bankom EXIM prekinuti.",
-      "The head of AAFS in BiH, Amer Bekan, confirmed that the talks with the EXIM bank have been stopped."
-     ]
-    ],
-    [
-     [
-      "Bekan je rekao da kompanija pregovara s drugim investitorima i da već ima do 450 miliona eura za gasovod.",
-      "Bekan said that the company is negotiating with other investors and already has up to 450 million euros for the pipeline."
-     ],
-     [
-      "On očekuje da AAFS uskoro potpiše ugovor s Vladom Federacije BiH i kaže da se projekti nastavljaju.",
-      "He expects AAFS to soon sign a contract with the Government of the Federation of BiH and says the projects are continuing."
-     ],
-     [
-      "Južna interkonekcija bi preko Hrvatske povezala BiH s evropskom mrežom gasa.",
-      "The Southern Interconnection would connect BiH with the European gas network via Croatia."
-     ],
-     [
-      "Tako BiH više ne bi zavisila samo od ruskog gasa.",
-      "That way BiH would no longer depend only on Russian gas."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "gasovod",
-     "gas pipeline"
-    ],
-    [
-     "banka",
-     "bank"
-    ],
-    [
-     "finansiranje",
-     "financing"
-    ],
-    [
-     "ograditi se",
-     "to distance oneself"
-    ],
-    [
-     "investitor",
-     "investor"
-    ],
-    [
-     "ugovor",
-     "contract"
-    ],
-    [
-     "pregovarati",
-     "to negotiate"
-    ],
-    [
-     "zavisiti",
-     "to depend"
     ]
    ]
   }
