@@ -1,18 +1,974 @@
 {
- "updated": "2026-11-19T07:44:00+01:00",
+ "updated": "2026-11-19T13:50:00+01:00",
  "front": [
-  "261119005",
-  "261119004",
-  "261118327",
-  "261119006",
-  "261119001",
-  "261119008",
-  "261118261",
-  "261118319",
-  "261119016",
-  "261118316"
+  "261119142",
+  "261119153",
+  "261119124",
+  "261119146",
+  "261119130",
+  "261119114",
+  "261119127",
+  "261119149",
+  "261119134",
+  "261119148"
  ],
  "articles": [
+  {
+   "id": "261119124",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/regija/studentska-lista-izabrala-aleksandra-cupica-za-predsjednika-skupstine-srbije-nakon-tri-dana-vucicevih-opstrukcija/261119124",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261119124.jpg",
+   "published": "2026-11-19T13:28:00+01:00",
+   "title": [
+    "Aleksandar Čupić novi predsjednik Skupštine Srbije",
+    "Aleksandar Čupić is the new speaker of Serbia's parliament"
+   ],
+   "body": [
+    [
+     [
+      "Poslanici Skupštine Srbije u četvrtak su izabrali Aleksandra Čupića za predsjednika Skupštine.",
+      "On Thursday MPs in Serbia's parliament elected Aleksandar Čupić as speaker of parliament."
+     ],
+     [
+      "Čupić je poslanik Studentske liste i docent na Saobraćajnom fakultetu u Beogradu.",
+      "Čupić is an MP of the Student List and an assistant professor at the Faculty of Transport in Belgrade."
+     ],
+     [
+      "Izbor je došao nakon sjednice koja je trebala trajati 5 sati, a trajala je 3 dana.",
+      "The election came after a session that was supposed to last 5 hours, but lasted 3 days."
+     ]
+    ],
+    [
+     [
+      "Čupić je dobio 140 glasova, a trebalo mu je najmanje 126.",
+      "Čupić received 140 votes, and he needed at least 126."
+     ],
+     [
+      "Kandidat SNS-a Stojan Radenović dobio je 97 glasova.",
+      "The SNS candidate Stojan Radenović received 97 votes."
+     ],
+     [
+      "Aleksandar Vučić je prvog dana govorio 1 sat i 40 minuta, a drugog dana se javio za riječ oko 30 puta.",
+      "Aleksandar Vučić spoke for 1 hour and 40 minutes on the first day, and on the second day took the floor about 30 times."
+     ],
+     [
+      "Zato je Studentska lista posljednjeg dana povukla sve svoje govornike kako bi se brže glasalo.",
+      "That is why on the last day the Student List withdrew all its speakers so the vote could happen sooner."
+     ]
+    ],
+    [
+     [
+      "Poslanici SNS-a tražili su da Čupić objasni porijeklo svoje imovine.",
+      "SNS MPs asked Čupić to explain the origin of his assets."
+     ],
+     [
+      "On je rekao da će izvještaj o imovini predati Agenciji za borbu protiv korupcije.",
+      "He said he would submit a report on his assets to the Anti-Corruption Agency."
+     ],
+     [
+      "Kao predsjednik Skupštine, Čupić će biti i vršilac dužnosti predsjednika Srbije.",
+      "As speaker of parliament, Čupić will also be acting president of Serbia."
+     ],
+     [
+      "Do 27. novembra mora raspisati predsjedničke izbore.",
+      "By 27 November he must call presidential elections."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "poslanik",
+     "member of parliament"
+    ],
+    [
+     "izabrati",
+     "to elect"
+    ],
+    [
+     "glas",
+     "vote"
+    ],
+    [
+     "sjednica",
+     "session"
+    ],
+    [
+     "govornik",
+     "speaker (person speaking)"
+    ],
+    [
+     "imovina",
+     "assets, property"
+    ],
+    [
+     "raspisati",
+     "to call (elections)"
+    ],
+    [
+     "vršilac dužnosti",
+     "acting (official)"
+    ]
+   ]
+  },
+  {
+   "id": "261119153",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/putin-odusevljen-sastankom-s-trumpom-i-xijem-nikada-prije-nije-bilo-ovako-ali-sada-se-to-desava/261119153",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261119153.jpg",
+   "published": "2026-11-19T13:18:00+01:00",
+   "title": [
+    "Putin zadovoljan sastankom s Trumpom i Xijem",
+    "Putin pleased with the meeting with Trump and Xi"
+   ],
+   "body": [
+    [
+     [
+      "Ruski predsjednik Vladimir Putin u četvrtak je u Shenzhenu govorio novinarima o sastanku s Donaldom Trumpom i Xi Jinpingom.",
+      "On Thursday in Shenzhen, Russian President Vladimir Putin spoke to journalists about the meeting with Donald Trump and Xi Jinping."
+     ],
+     [
+      "Rekao je da ovakav sastanak tri lidera nikada prije nije održan.",
+      "He said that such a meeting of three leaders had never been held before."
+     ],
+     [
+      "Prema njegovim riječima, to je novo poglavlje u historiji diplomatije.",
+      "In his words, it is a new chapter in the history of diplomacy."
+     ]
+    ],
+    [
+     [
+      "Lideri su razgovarali o ratu u Ukrajini, Bliskom istoku i Korejskom poluotoku.",
+      "The leaders talked about the war in Ukraine, the Middle East and the Korean Peninsula."
+     ],
+     [
+      "Razgovarali su i o reformi Ujedinjenih nacija, koje bi, kako kaže Putin, trebalo prilagoditi današnjem svijetu.",
+      "They also talked about reforming the United Nations, which, as Putin says, should be adapted to today's world."
+     ],
+     [
+      "Putinu se posebno svidio dio sastanka nakon zvaničnih govora, kada su lideri otvoreno razgovarali pred novinarima.",
+      "Putin especially liked the part of the meeting after the official speeches, when the leaders talked openly in front of journalists."
+     ]
+    ],
+    [
+     [
+      "Putin je rekao da bi volio da se ovakvi sastanci nastave.",
+      "Putin said he would like such meetings to continue."
+     ],
+     [
+      "Dodao je da su i teški dogovori bolji nego nikakvi.",
+      "He added that even difficult agreements are better than none."
+     ],
+     [
+      "Rekao je i da je politički sistem SAD-a komplikovan.",
+      "He also said that the US political system is complicated."
+     ],
+     [
+      "Ipak, ne sumnja da Trump iskreno želi završiti sukobe, uključujući rat u Ukrajini.",
+      "Still, he has no doubt that Trump sincerely wants to end conflicts, including the war in Ukraine."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "zadovoljan",
+     "pleased"
+    ],
+    [
+     "novinar",
+     "journalist"
+    ],
+    [
+     "poglavlje",
+     "chapter"
+    ],
+    [
+     "govor",
+     "speech"
+    ],
+    [
+     "dogovor",
+     "agreement"
+    ],
+    [
+     "sukob",
+     "conflict"
+    ],
+    [
+     "sumnjati",
+     "to doubt"
+    ]
+   ]
+  },
+  {
+   "id": "261119149",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/kultura/opera-nps-slavi-80-godina-na-gala-koncertu-prvi-put-arija-iz-iolante/261119149",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261119149.jpg",
+   "published": "2026-11-19T13:11:00+01:00",
+   "title": [
+    "Opera Narodnog pozorišta Sarajevo slavi 80 godina",
+    "The Opera of the National Theatre Sarajevo celebrates 80 years"
+   ],
+   "body": [
+    [
+     [
+      "Narodno pozorište Sarajevo večeras u 19:30 počinje proslavu 80 godina svoje Opere.",
+      "This evening at 19:30 the National Theatre Sarajevo begins the celebration of 80 years of its Opera."
+     ],
+     [
+      "Proslava počinje gala koncertom na kojem nastupaju solisti i hor Opere.",
+      "The celebration starts with a gala concert at which soloists and the Opera choir perform."
+     ],
+     [
+      "Prati ih Sarajevska filharmonija, a dirigent je Dario Vučić.",
+      "They are accompanied by the Sarajevo Philharmonic, and the conductor is Dario Vučić."
+     ]
+    ],
+    [
+     [
+      "Publika će čuti arije, duete i horske kompozicije Verdija, Puccinija, Rossinija, Bizeta i drugih kompozitora.",
+      "The audience will hear arias, duets and choral pieces by Verdi, Puccini, Rossini, Bizet and other composers."
+     ],
+     [
+      "Na programu su i djela bh. kompozitora Asima Horozića i Ammara Jažića.",
+      "The programme also includes works by BiH composers Asim Horozić and Ammar Jažić."
+     ],
+     [
+      "Arija kralja Renéa iz Čajkovskijeve opere Iolanta prvi put će se izvesti na sceni NPS-a.",
+      "The aria of King René from Tchaikovsky's opera Iolanta will be performed for the first time on the NPS stage."
+     ],
+     [
+      "Mecosopranistica Hanadi Karić prvi put nastupa na gala koncertu.",
+      "Mezzo-soprano Hanadi Karić is performing at a gala concert for the first time."
+     ]
+    ],
+    [
+     [
+      "Vučić je rekao da je program muzički pregled osam decenija Opere.",
+      "Vučić said that the programme is a musical overview of eight decades of the Opera."
+     ],
+     [
+      "Publika će čuti djela koja su izvedena u Sarajevu, ali i ona koja grad još nije čuo.",
+      "The audience will hear works that have been performed in Sarajevo, but also ones the city has not heard yet."
+     ],
+     [
+      "Historija Opere počela je 9. novembra 1946. godine, kada je izvedena Smetanina Prodana nevjesta.",
+      "The Opera's history began on 9 November 1946, when Smetana's The Bartered Bride was performed."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "pozorište",
+     "theatre"
+    ],
+    [
+     "proslava",
+     "celebration"
+    ],
+    [
+     "koncert",
+     "concert"
+    ],
+    [
+     "hor",
+     "choir"
+    ],
+    [
+     "dirigent",
+     "conductor"
+    ],
+    [
+     "arija",
+     "aria"
+    ],
+    [
+     "izvesti",
+     "to perform"
+    ],
+    [
+     "decenija",
+     "decade"
+    ]
+   ]
+  },
+  {
+   "id": "261119146",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/sud-u-hagu-prvi-put-u-historiji-presudio-da-je-drzava-kriva-za-genocid-mijanmar-odgovoran-za-stravicne-zlocine/261119146",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261119146.jpg",
+   "published": "2026-11-19T13:06:00+01:00",
+   "title": [
+    "Sud u Hagu: Mijanmar je kriv za genocid nad Rohingyama",
+    "Court in The Hague: Myanmar is guilty of genocide against the Rohingya"
+   ],
+   "body": [
+    [
+     [
+      "Međunarodni sud pravde u Hagu u četvrtak je presudio da je Mijanmar počinio genocid nad Rohingya muslimanima.",
+      "On Thursday the International Court of Justice in The Hague ruled that Myanmar committed genocide against Rohingya Muslims."
+     ],
+     [
+      "To je prvi put u historiji da je ovaj sud neku državu proglasio odgovornom za genocid.",
+      "It is the first time in history that this court has declared a state responsible for genocide."
+     ],
+     [
+      "Presudu je pročitao predsjednik suda Yuji Iwasawa.",
+      "The verdict was read by the president of the court, Yuji Iwasawa."
+     ]
+    ],
+    [
+     [
+      "Sudije su odlučile sa 9 glasova za i 6 protiv.",
+      "The judges decided with 9 votes for and 6 against."
+     ],
+     [
+      "Slučaj je 2019. godine pokrenula Gambija.",
+      "The case was started in 2019 by The Gambia."
+     ],
+     [
+      "Prema sudu, snage sigurnosti Mijanmara su 2017. godine u državi Rakhine ubile oko 10.000 Rohingya.",
+      "According to the court, Myanmar's security forces killed about 10,000 Rohingya in Rakhine State in 2017."
+     ],
+     [
+      "Oko 740.000 ljudi tada je pobjeglo u susjedni Bangladeš.",
+      "About 740,000 people then fled to neighbouring Bangladesh."
+     ]
+    ],
+    [
+     [
+      "Mijanmar negira genocid i kaže da je akcija bila usmjerena protiv pobunjenika.",
+      "Myanmar denies genocide and says the operation was aimed at insurgents."
+     ],
+     [
+      "Isti sud je 2007. godine, u slučaju koji je pokrenula BiH, presudio da je u Srebrenici počinjen genocid.",
+      "In 2007, in a case brought by BiH, the same court ruled that genocide was committed in Srebrenica."
+     ],
+     [
+      "Tada je zaključio da Srbija nije direktno odgovorna, ali da genocid nije spriječila.",
+      "It then concluded that Serbia was not directly responsible, but that it had not prevented the genocide."
+     ],
+     [
+      "Nova presuda bi mogla biti važna i za slučaj Južne Afrike protiv Izraela zbog rata u Gazi.",
+      "The new ruling could also be important for South Africa's case against Israel over the war in Gaza."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "sud",
+     "court"
+    ],
+    [
+     "presuditi",
+     "to rule, to judge"
+    ],
+    [
+     "genocid",
+     "genocide"
+    ],
+    [
+     "država",
+     "state"
+    ],
+    [
+     "odgovoran",
+     "responsible"
+    ],
+    [
+     "pobjeći",
+     "to flee"
+    ],
+    [
+     "negirati",
+     "to deny"
+    ],
+    [
+     "presuda",
+     "verdict"
+    ]
+   ]
+  },
+  {
+   "id": "261119148",
+   "source": "Klix.ba",
+   "section": "Tehnologija",
+   "url": "https://www.klix.ba/scitech/nauka/sta-je-sljedece-za-letjelicu-voyager-1-nakon-sto-je-ispisala-historiju/261119148",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261119148.jpg",
+   "published": "2026-11-19T12:57:00+01:00",
+   "title": [
+    "Šta dalje čeka letjelicu Voyager 1",
+    "What lies ahead for the Voyager 1 spacecraft"
+   ],
+   "body": [
+    [
+     [
+      "Voyager 1 postao je prva letjelica koja je od Zemlje udaljena jedan svjetlosni dan.",
+      "Voyager 1 has become the first spacecraft to be one light-day away from Earth."
+     ],
+     [
+      "To znači da njegovom signalu treba cijeli dan da stigne do nas.",
+      "This means its signal needs a whole day to reach us."
+     ],
+     [
+      "NASA sada planira da do 50. rođendana misije, u septembru 2027. godine, ne mijenja mnogo u radu letjelice.",
+      "NASA now plans not to change much in how the spacecraft works until the mission's 50th birthday in September 2027."
+     ]
+    ],
+    [
+     [
+      "Voyager 1 i dalje mjeri magnetno polje, plazmu i čestice dok se udaljava od Sunca.",
+      "Voyager 1 still measures the magnetic field, plasma and particles as it moves away from the Sun."
+     ],
+     [
+      "Naučnici žele saznati gdje prestaje uticaj Sunca i počinje međuzvjezdani prostor.",
+      "Scientists want to find out where the Sun's influence ends and interstellar space begins."
+     ],
+     [
+      "Problem je energija, jer obje letjelice Voyager svake godine gube oko 4 vata.",
+      "The problem is energy, because both Voyager spacecraft lose about 4 watts every year."
+     ],
+     [
+      "Na početku su imale 470 vati, a neki instrumenti su već isključeni.",
+      "At the start they had 470 watts, and some instruments have already been switched off."
+     ]
+    ],
+    [
+     [
+      "Prošlog mjeseca Voyager 1 oko 48 sati nije odgovarao na komande, ali se brzo oporavio.",
+      "Last month Voyager 1 did not respond to commands for about 48 hours, but it recovered quickly."
+     ],
+     [
+      "Menadžerica projekta Suzanne Dodd rekla je da je cilj da letjelica radi što duže.",
+      "Project manager Suzanne Dodd said the goal is for the spacecraft to keep working as long as possible."
+     ],
+     [
+      "Voyager 2 je u međuzvjezdani prostor ušao 2018. godine.",
+      "Voyager 2 entered interstellar space in 2018."
+     ],
+     [
+      "Do udaljenosti od jednog svjetlosnog dana trebao bi stići oko 2035. godine.",
+      "It should reach a distance of one light-day around 2035."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "letjelica",
+     "spacecraft"
+    ],
+    [
+     "udaljen",
+     "distant"
+    ],
+    [
+     "svjetlosni dan",
+     "light-day"
+    ],
+    [
+     "mjeriti",
+     "to measure"
+    ],
+    [
+     "prostor",
+     "space"
+    ],
+    [
+     "energija",
+     "energy"
+    ],
+    [
+     "isključiti",
+     "to switch off"
+    ],
+    [
+     "oporaviti se",
+     "to recover"
+    ]
+   ]
+  },
+  {
+   "id": "261119127",
+   "source": "Klix.ba",
+   "section": "Vrijeme",
+   "url": "https://www.klix.ba/vijesti/bih/upozorenje-za-bh-gradane-kroz-nekoliko-sati-se-ocekuju-olujni-i-lokalno-orkanski-udari-vjetra-jacine-do-90-kmh/261119127",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261119127.jpg",
+   "published": "2026-11-19T12:46:00+01:00",
+   "title": [
+    "Upozorenje: Večeras jak vjetar do 90 km/h u BiH",
+    "Warning: strong wind up to 90 km/h in BiH this evening"
+   ],
+   "body": [
+    [
+     [
+      "Meteorolozi upozoravaju da se danas u BiH očekuju olujni udari vjetra.",
+      "Meteorologists warn that storm-force wind gusts are expected in BiH today."
+     ],
+     [
+      "Jak vjetar bi trebao puhati od 16:00 do 21:00 sat.",
+      "The strong wind should blow from 16:00 to 21:00."
+     ],
+     [
+      "Prema BH Meteu, vjetar donosi duboki ciklon koji prolazi sjeverno od regije.",
+      "According to BH Meteo, the wind is brought by a deep cyclone passing north of the region."
+     ]
+    ],
+    [
+     [
+      "Najjači udari, od 60 do 90 km/h, očekuju se navečer na sjeveru i sjeveroistoku Bosne.",
+      "The strongest gusts, from 60 to 90 km/h, are expected in the evening in the north and northeast of Bosnia."
+     ],
+     [
+      "Sličan vjetar bit će i u planinskim i brdskim krajevima.",
+      "There will be similar wind in mountain and hill areas."
+     ],
+     [
+      "U kotlinama centralne i istočne Bosne, kao i u nizinama Hercegovine, vjetar će biti nešto slabiji, ali i dalje jak.",
+      "In the basins of central and eastern Bosnia, as well as in the lowlands of Herzegovina, the wind will be somewhat weaker, but still strong."
+     ],
+     [
+      "U Hercegovini i jugozapadnoj Bosni očekuje se obilna kiša, od 15 do 40 litara po metru kvadratnom.",
+      "Heavy rain is expected in Herzegovina and southwestern Bosnia, from 15 to 40 litres per square metre."
+     ],
+     [
+      "U planinama sjeverno od Mostara moglo bi pasti i do 90 litara.",
+      "In the mountains north of Mostar up to 90 litres could fall."
+     ]
+    ],
+    [
+     [
+      "Federalni hidrometeorološki zavod također je izdao upozorenje zbog vjetra i obilnih padavina.",
+      "The Federal Hydrometeorological Institute has also issued a warning because of wind and heavy precipitation."
+     ],
+     [
+      "Prema zavodu, u regijama Banje Luke, Prijedora i Trebinja vjetar bi mogao čupati drveće.",
+      "According to the institute, in the Banja Luka, Prijedor and Trebinje regions the wind could uproot trees."
+     ],
+     [
+      "Mogući su i nestanci struje, zato građani trebaju biti posebno oprezni.",
+      "Power cuts are also possible, so citizens should be especially careful."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "vjetar",
+     "wind"
+    ],
+    [
+     "udar",
+     "gust"
+    ],
+    [
+     "upozorenje",
+     "warning"
+    ],
+    [
+     "kiša",
+     "rain"
+    ],
+    [
+     "obilan",
+     "heavy, abundant"
+    ],
+    [
+     "oprezan",
+     "careful"
+    ],
+    [
+     "struja",
+     "electricity"
+    ]
+   ]
+  },
+  {
+   "id": "261119142",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/objavljena-deklaracija-koju-su-potpisali-xi-jinping-vladimir-putin-i-donald-trump-u-fokusu-nafta-i-nuklearno-oruzje/261119142",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261119142.jpg",
+   "published": "2026-11-19T12:38:00+01:00",
+   "title": [
+    "Xi, Putin i Trump objavili zajedničku deklaraciju o miru",
+    "Xi, Putin and Trump publish a joint peace declaration"
+   ],
+   "body": [
+    [
+     [
+      "Lideri Kine, Rusije i SAD-a sastali su se u četvrtak u kineskom gradu Shenzhenu.",
+      "The leaders of China, Russia and the US met on Thursday in the Chinese city of Shenzhen."
+     ],
+     [
+      "Sastanak je održan na marginama samita APEC-a, a domaćin je bio kineski predsjednik Xi Jinping.",
+      "The meeting was held on the sidelines of the APEC summit, and the host was Chinese President Xi Jinping."
+     ],
+     [
+      "Nakon razgovora su kineski državni mediji objavili deklaraciju o miru koja ima četiri tačke.",
+      "After the talks, Chinese state media published a peace declaration with four points."
+     ]
+    ],
+    [
+     [
+      "U prvoj tački tri zemlje kažu da žele reformu Ujedinjenih nacija.",
+      "In the first point the three countries say they want reform of the United Nations."
+     ],
+     [
+      "Sve tri su stalne članice Vijeća sigurnosti UN-a.",
+      "All three are permanent members of the UN Security Council."
+     ],
+     [
+      "Druga tačka govori o nafti, jer žele proizvoditi i isporučivati više naftnih derivata.",
+      "The second point is about oil, because they want to produce and supply more refined oil products."
+     ],
+     [
+      "U trećoj tački piše da Međunarodni krivični sud ne smije zloupotrebljavati svoju nadležnost.",
+      "The third point says that the International Criminal Court must not abuse its jurisdiction."
+     ],
+     [
+      "Četvrta tačka kaže da se nuklearni rat ne može dobiti i da se nikada ne smije voditi.",
+      "The fourth point says that a nuclear war cannot be won and must never be fought."
+     ]
+    ],
+    [
+     [
+      "Lideri su rekli da će razgovarati o tome kako smanjiti nuklearne rizike.",
+      "The leaders said they would talk about how to reduce nuclear risks."
+     ],
+     [
+      "Ruski mediji su ubrzo objavili isti tekst deklaracije.",
+      "Russian media soon published the same text of the declaration."
+     ],
+     [
+      "Iz SAD-a još nije stigla zvanična izjava o dokumentu.",
+      "No official statement about the document has come from the US yet."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "deklaracija",
+     "declaration"
+    ],
+    [
+     "lider",
+     "leader"
+    ],
+    [
+     "sastanak",
+     "meeting"
+    ],
+    [
+     "tačka",
+     "point"
+    ],
+    [
+     "nafta",
+     "oil"
+    ],
+    [
+     "nuklearni",
+     "nuclear"
+    ],
+    [
+     "rat",
+     "war"
+    ],
+    [
+     "sud",
+     "court"
+    ]
+   ]
+  },
+  {
+   "id": "261119130",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/regija/novi-haos-na-skupstini-srbije-poslanik-studenata-vikao-dok-je-optuzivao-vucica-za-veze-s-kriminalcima/261119130",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261119130.jpg",
+   "published": "2026-11-19T12:22:00+01:00",
+   "title": [
+    "Burna rasprava u Skupštini Srbije o vezama s kriminalcima",
+    "Heated debate in Serbia's parliament about ties to criminals"
+   ],
+   "body": [
+    [
+     [
+      "Na sjednici Skupštine Srbije u Beogradu ponovo je bilo burno.",
+      "It was stormy again at the session of Serbia's parliament in Belgrade."
+     ],
+     [
+      "Poslanik Studentske liste Jovo Bakić vikao je dok je optuživao Aleksandra Vučića i SNS za veze s kriminalcima.",
+      "Student List MP Jovo Bakić shouted while accusing Aleksandar Vučić and the SNS of ties to criminals."
+     ],
+     [
+      "Poslanici vladajuće koalicije dobacivali su mu, pa je on podigao glas.",
+      "MPs of the ruling coalition heckled him, so he raised his voice."
+     ]
+    ],
+    [
+     [
+      "Bakić je rekao da SNS i Vučić imaju veze s navijačkim grupama, koje je nazvao dilerima droge.",
+      "Bakić said that SNS and Vučić have ties to football fan groups, which he called drug dealers."
+     ],
+     [
+      "Prema njegovim riječima, te grupe su čuvale Vučića na inauguraciji 2017. godine.",
+      "In his words, these groups guarded Vučić at his inauguration in 2017."
+     ],
+     [
+      "Spomenuo je i škaljarski i kavački klan, kao i Veljka Belivuka i Luku Bojovića.",
+      "He also mentioned the Škaljari and Kavač clans, as well as Veljko Belivuk and Luka Bojović."
+     ]
+    ],
+    [
+     [
+      "Bakić je govorio i o Milanu Radoičiću.",
+      "Bakić also spoke about Milan Radoičić."
+     ],
+     [
+      "Rekao je da je Radoičić smio sjediti na galeriji Skupštine, a studenti nisu.",
+      "He said that Radoičić was allowed to sit in the parliament gallery, but the students were not."
+     ],
+     [
+      "Dodao je da je Vučić prvo tvrdio da ga ne poznaje, a kasnije ga je nazvao zaštitnikom Srba na Kosovu.",
+      "He added that Vučić first claimed not to know him, and later called him a protector of Serbs in Kosovo."
+     ],
+     [
+      "Na kraju je pitao ima li veće sramote za srpski narod.",
+      "In the end he asked whether there was a greater shame for the Serbian people."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "optuživati",
+     "to accuse"
+    ],
+    [
+     "veza",
+     "tie, connection"
+    ],
+    [
+     "kriminalac",
+     "criminal"
+    ],
+    [
+     "dobacivati",
+     "to heckle"
+    ],
+    [
+     "navijač",
+     "fan, supporter"
+    ],
+    [
+     "klan",
+     "clan"
+    ],
+    [
+     "sramota",
+     "shame"
+    ]
+   ]
+  },
+  {
+   "id": "261119134",
+   "source": "Klix.ba",
+   "section": "Zdravlje",
+   "url": "https://www.klix.ba/lifestyle/zdravlje/kome-dodaci-vitamina-d-zaista-pomazu-a-kome-ne-donose-korist/261119134",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261119134.jpg",
+   "published": "2026-11-19T12:19:00+01:00",
+   "title": [
+    "Kome dodaci vitamina D zaista pomažu",
+    "Who vitamin D supplements really help"
+   ],
+   "body": [
+    [
+     [
+      "Velika istraživanja pokazuju da dodaci vitamina D ne produžavaju život ljudima koji već imaju dovoljno ovog vitamina.",
+      "Large studies show that vitamin D supplements do not extend the lives of people who already have enough of this vitamin."
+     ],
+     [
+      "Oni im ne smanjuju ni rizik od raka ili bolesti srca.",
+      "Nor do they reduce their risk of cancer or heart disease."
+     ],
+     [
+      "Ipak, ljudima koji imaju manjak vitamina D on je potreban za kosti i mišiće.",
+      "Still, people who lack vitamin D need it for their bones and muscles."
+     ]
+    ],
+    [
+     [
+      "U najnovijoj britanskoj studiji učestvovalo je 3.886 pacijenata na dijalizi.",
+      "3,886 dialysis patients took part in the newest British study."
+     ],
+     [
+      "Dijaliza je postupak koji čisti krv kada bubrezi ne rade dobro.",
+      "Dialysis is a procedure that cleans the blood when the kidneys do not work well."
+     ],
+     [
+      "Visoka doza vitamina D nije im produžila život niti smanjila probleme sa srcem.",
+      "A high dose of vitamin D did not extend their lives or reduce heart problems."
+     ],
+     [
+      "U američkoj studiji VITAL skoro 26.000 odraslih je u prosjeku 5,3 godine uzimalo vitamin D ili placebo.",
+      "In the American VITAL study, almost 26,000 adults took vitamin D or a placebo for 5.3 years on average."
+     ],
+     [
+      "Ni tu nije bilo velike razlike kod raka i bolesti srca.",
+      "There was no big difference in cancer and heart disease there either."
+     ]
+    ],
+    [
+     [
+      "Manjak vitamina D češće imaju starije osobe, dojenčad, osobe s tamnijom kožom i ljudi koji su malo na suncu.",
+      "Older people, breastfed babies, people with darker skin and people who spend little time in the sun lack vitamin D more often."
+     ],
+     [
+      "Britanski NHS savjetuje da odrasli ne uzimaju više od 4.000 IU dnevno.",
+      "The British NHS advises adults not to take more than 4,000 IU a day."
+     ],
+     [
+      "Previše vitamina D može oštetiti kosti, bubrege i srce.",
+      "Too much vitamin D can damage the bones, kidneys and heart."
+     ],
+     [
+      "Zato je najbolje razgovarati s doktorom, koji može uraditi jednostavnu analizu krvi.",
+      "That is why it is best to talk to a doctor, who can do a simple blood test."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "dodatak",
+     "supplement"
+    ],
+    [
+     "istraživanje",
+     "research, study"
+    ],
+    [
+     "manjak",
+     "lack, deficiency"
+    ],
+    [
+     "kost",
+     "bone"
+    ],
+    [
+     "bubreg",
+     "kidney"
+    ],
+    [
+     "doza",
+     "dose"
+    ],
+    [
+     "rizik",
+     "risk"
+    ],
+    [
+     "krv",
+     "blood"
+    ]
+   ]
+  },
+  {
+   "id": "261119114",
+   "source": "Klix.ba",
+   "section": "Biznis",
+   "url": "https://www.klix.ba/biznis/ekonomija/banke-u-fbih-od-28-februara-2027-godine-moraju-nuditi-paket-usluga-s-naknadom-do-najvise-02-prosjecne-plate/261119114",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261119114.jpg",
+   "published": "2026-11-19T11:59:00+01:00",
+   "title": [
+    "Banke u FBiH moraju nuditi jeftin paket usluga",
+    "Banks in FBiH must offer a cheap service package"
+   ],
+   "body": [
+    [
+     [
+      "Agencija za bankarstvo FBiH donijela je odluku koja ograničava cijenu osnovnih bankarskih usluga.",
+      "The FBiH Banking Agency has adopted a decision that limits the price of basic banking services."
+     ],
+     [
+      "Od 28. februara 2027. godine banke moraju nuditi paket usluga uz platni račun.",
+      "From 28 February 2027 banks must offer a service package with a payment account."
+     ],
+     [
+      "Mjesečna naknada za taj paket ne smije biti veća od 0,2% prosječne neto plate u Federaciji.",
+      "The monthly fee for this package must not be higher than 0.2% of the average net salary in the Federation."
+     ]
+    ],
+    [
+     [
+      "Paket uključuje otvaranje i vođenje računa, kao i internet i mobilno bankarstvo.",
+      "The package includes opening and keeping an account, as well as internet and mobile banking."
+     ],
+     [
+      "Korisnici mogu svaki mjesec poslati 10 uplata u druge banke i 10 uplata unutar iste banke.",
+      "Users can send 10 payments to other banks and 10 payments within the same bank every month."
+     ],
+     [
+      "Plaćanje karticom u trgovinama u BiH nije ograničeno, a debitna kartica je dio paketa.",
+      "Card payments in shops in BiH are unlimited, and a debit card is part of the package."
+     ],
+     [
+      "Za svaku dodatnu uplatu banka će naplatiti redovnu cijenu.",
+      "For each extra payment the bank will charge the regular price."
+     ]
+    ],
+    [
+     [
+      "Banke ne smiju uvoditi skrivene naknade da bi zaobišle odluku.",
+      "Banks must not introduce hidden fees in order to get around the decision."
+     ],
+     [
+      "Uslove i cijene moraju jasno objaviti na internet stranicama i u poslovnicama.",
+      "They must clearly publish the conditions and prices on their websites and in their branches."
+     ],
+     [
+      "Odluka traži i da banke misle na starije osobe, osobe s invaliditetom i ljude sa slabijim digitalnim znanjem.",
+      "The decision also requires banks to keep in mind older people, people with disabilities and people with weaker digital skills."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "banka",
+     "bank"
+    ],
+    [
+     "naknada",
+     "fee"
+    ],
+    [
+     "račun",
+     "account"
+    ],
+    [
+     "paket",
+     "package"
+    ],
+    [
+     "uplata",
+     "payment"
+    ],
+    [
+     "kartica",
+     "card"
+    ],
+    [
+     "skriven",
+     "hidden"
+    ],
+    [
+     "poslovnica",
+     "branch (office)"
+    ]
+   ]
+  },
   {
    "id": "261119016",
    "source": "Klix.ba",
@@ -4590,958 +5546,6 @@
     [
      "zavisiti",
      "to depend"
-    ]
-   ]
-  },
-  {
-   "id": "261117127",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/tehnologija/evropska-komisija-utvrdila-preliminarne-povrede-digitalnih-pravila-eu-na-temuu/261117127",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261117127.jpg",
-   "published": "2026-11-17T13:03:00+01:00",
-   "title": [
-    "Evropska komisija: Temu ne štiti kupce od opasnih proizvoda",
-    "European Commission: Temu does not protect buyers from dangerous products"
-   ],
-   "body": [
-    [
-     [
-      "Evropska komisija je utvrdila da platforma za online kupovinu Temu vjerovatno krši pravila Evropske unije.",
-      "The European Commission has found that the online shopping platform Temu is probably breaking European Union rules."
-     ],
-     [
-      "Riječ je o Aktu o digitalnim uslugama, zakonu koji velikim platformama propisuje obaveze prema korisnicima.",
-      "This is the Digital Services Act, a law that sets obligations towards users for large platforms."
-     ],
-     [
-      "Prema Komisiji, Temu ne radi dovoljno da spriječi prodaju nezakonitih proizvoda.",
-      "According to the Commission, Temu does not do enough to prevent the sale of illegal products."
-     ]
-    ],
-    [
-     [
-      "Temu traži izvještaje o testiranju za vrlo malo proizvoda, a često ih ni ne provjerava.",
-      "Temu asks for test reports for very few products, and often does not even check them."
-     ],
-     [
-      "Igračke, elektronika i kozmetika smatraju se rizičnim, ali ne dobijaju prednost pri fizičkim kontrolama.",
-      "Toys, electronics and cosmetics are considered risky, but they do not get priority in physical inspections."
-     ],
-     [
-      "Broj proizvoda na platformi stalno raste, ali broj kontrola i zaposlenih koji pregledaju oglase nije porastao.",
-      "The number of products on the platform keeps growing, but the number of checks and of staff who review listings has not grown."
-     ],
-     [
-      "Komisija kaže i da kazne za prodavače nisu dovoljno jake.",
-      "The Commission also says that the penalties for sellers are not strong enough."
-     ]
-    ],
-    [
-     [
-      "Ovo su preliminarni nalazi, što znači da konačna odluka još nije donesena.",
-      "These are preliminary findings, which means that a final decision has not yet been made."
-     ],
-     [
-      "Temu ima pravo vidjeti dokumente Komisije i pismeno odgovoriti na nalaze.",
-      "Temu has the right to see the Commission's documents and to respond to the findings in writing."
-     ],
-     [
-      "Komisija će se konsultovati i s Evropskim odborom za digitalne usluge.",
-      "The Commission will also consult with the European Board for Digital Services."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "platforma",
-     "platform"
-    ],
-    [
-     "kupovina",
-     "shopping"
-    ],
-    [
-     "kršiti",
-     "to break (a rule)"
-    ],
-    [
-     "proizvod",
-     "product"
-    ],
-    [
-     "igračka",
-     "toy"
-    ],
-    [
-     "prodavač",
-     "seller"
-    ],
-    [
-     "nalaz",
-     "finding"
-    ],
-    [
-     "kazna",
-     "penalty, fine"
-    ]
-   ]
-  },
-  {
-   "id": "261117116",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/cik-dodijelio-mandat-marinku-cavari-u-domu-naroda-bih-nakon-ostavke-marine-pendes-najvjerovatnije-ce-ga-odbiti/261117116",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261117116.jpg",
-   "published": "2026-11-17T12:44:00+01:00",
-   "title": [
-    "Čavara dobio mandat u Domu naroda, ali ga vjerovatno neće prihvatiti",
-    "Čavara gets a mandate in the House of Peoples but will probably not accept it"
-   ],
-   "body": [
-    [
-     [
-      "Centralna izborna komisija BiH (CIK) danas je dodijelila Marinku Čavari mandat u Domu naroda Parlamentarne skupštine BiH.",
-      "The Central Election Commission of BiH (CIK) today assigned Marinko Čavara a mandate in the House of Peoples of the Parliamentary Assembly of BiH."
-     ],
-     [
-      "On je mandat dobio nakon što je Marina Pendeš dala ostavku na mjesto delegatkinje.",
-      "He received the mandate after Marina Pendeš resigned from her post as delegate."
-     ],
-     [
-      "Ipak, Čavara će ga najvjerovatnije odbiti.",
-      "However, Čavara will most likely refuse it."
-     ]
-    ],
-    [
-     [
-      "Čavara i Pendeš su na izborima osvojili mandate u Predstavničkom domu, koji počinje raditi 1. decembra.",
-      "Čavara and Pendeš won mandates in the House of Representatives in the elections, which starts working on 1 December."
-     ],
-     [
-      "U Domu naroda Čavara ne bi dobijao platu i vjerovatno ne bi ni položio zakletvu.",
-      "In the House of Peoples Čavara would not receive a salary and probably would not even take the oath."
-     ],
-     [
-      "Zato se očekuje da oboje uđu u Predstavnički dom, a CIK će morati izabrati privremenu zamjenu za Pendeš.",
-      "That is why both are expected to enter the House of Representatives, and the CIK will have to choose a temporary replacement for Pendeš."
-     ]
-    ],
-    [
-     [
-      "CIK je na sjednici donio i druge odluke o mandatima, između ostalog u Narodnoj skupštini RS-a i Skupštini Grada Banje Luke.",
-      "At the session the CIK also made other decisions on mandates, among others in the National Assembly of RS and the Banja Luka City Assembly."
-     ],
-     [
-      "U Banjoj Luci su ostavke dala četiri vijećnika, a njihova mjesta preuzimaju novi ljudi.",
-      "In Banja Luka four councillors resigned, and new people are taking their places."
-     ],
-     [
-      "Komisija je pokrenula i postupke protiv više od 70 stranaka zbog kršenja zakona o finansiranju stranaka.",
-      "The commission also started proceedings against more than 70 parties for breaking the law on the financing of parties."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "mandat",
-     "mandate, seat"
-    ],
-    [
-     "ostavka",
-     "resignation"
-    ],
-    [
-     "odbiti",
-     "to refuse"
-    ],
-    [
-     "zakletva",
-     "oath"
-    ],
-    [
-     "zamjena",
-     "replacement"
-    ],
-    [
-     "privremen",
-     "temporary"
-    ],
-    [
-     "sjednica",
-     "session"
-    ],
-    [
-     "kršenje",
-     "violation"
-    ]
-   ]
-  },
-  {
-   "id": "261117109",
-   "source": "Klix.ba",
-   "section": "Biznis",
-   "url": "https://www.klix.ba/biznis/ekonomija/sindikat-uputio-hitnu-inicijativu-radnik-s-fakultetom-da-ima-minimalac-jednak-prosjecnoj-plati-u-fbih/261117109",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261117109.jpg",
-   "published": "2026-11-17T12:09:00+01:00",
-   "title": [
-    "Sindikat traži da minimalna plata zavisi od obrazovanja",
-    "Union asks for the minimum wage to depend on education"
-   ],
-   "body": [
-    [
-     [
-      "Savez samostalnih sindikata BiH poslao je hitnu inicijativu Vladi Federacije BiH.",
-      "The Association of Independent Trade Unions of BiH has sent an urgent initiative to the Government of the Federation of BiH."
-     ],
-     [
-      "Sindikat želi da se minimalna plata računa kao dio prosječne neto plate u Federaciji.",
-      "The union wants the minimum wage to be calculated as a share of the average net wage in the Federation."
-     ],
-     [
-      "Inicijativu je potpisao predsjednik sindikata Samir Kurtović, a dobili su je premijer Nermin Nikšić i ministar finansija Toni Kraljević.",
-      "The initiative was signed by union president Samir Kurtović, and it was received by Prime Minister Nermin Nikšić and Finance Minister Toni Kraljević."
-     ]
-    ],
-    [
-     [
-      "Prema prijedlogu, radnik s osnovnom školom imao bi najmanje 80 posto prosječne plate.",
-      "According to the proposal, a worker with primary school would have at least 80 percent of the average wage."
-     ],
-     [
-      "Radnik sa srednjom školom imao bi 90 posto, a radnik s fakultetom 100 posto.",
-      "A worker with secondary school would have 90 percent, and a worker with a university degree 100 percent."
-     ],
-     [
-      "Sada se minimalna plata mijenja prema rastu cijena i ekonomije, ali sindikat kaže da je to pravilo zastarjelo.",
-      "Now the minimum wage changes according to the growth of prices and the economy, but the union says that rule is outdated."
-     ],
-     [
-      "Sindikat navodi da je dobit privrede u Federaciji 2025. godine bila 4,9 milijardi KM, a potrošačka korpa je ove godine poskupjela skoro 9 posto.",
-      "The union states that the profit of the economy in the Federation in 2025 was 4.9 billion KM, and the consumer basket has become almost 9 percent more expensive this year."
-     ]
-    ],
-    [
-     [
-      "Inicijativa je poslana dan nakon sastanka Ekonomsko-socijalnog vijeća, koji je završio bez dogovora o povećanju minimalne plate.",
-      "The initiative was sent a day after a meeting of the Economic-Social Council, which ended without agreement on raising the minimum wage."
-     ],
-     [
-      "Ministar Kraljević ranije je rekao da će način računanja ostati isti.",
-      "Minister Kraljević said earlier that the method of calculation will stay the same."
-     ],
-     [
-      "Odluka o minimalnoj plati za sljedeću godinu mora se donijeti najkasnije do 31. decembra.",
-      "The decision on the minimum wage for next year must be made by 31 December at the latest."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "sindikat",
-     "trade union"
-    ],
-    [
-     "minimalna plata",
-     "minimum wage"
-    ],
-    [
-     "prosječan",
-     "average"
-    ],
-    [
-     "obrazovanje",
-     "education"
-    ],
-    [
-     "prijedlog",
-     "proposal"
-    ],
-    [
-     "dobit",
-     "profit"
-    ],
-    [
-     "dogovor",
-     "agreement"
-    ],
-    [
-     "zastario",
-     "outdated"
-    ]
-   ]
-  },
-  {
-   "id": "261117094",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/sipa-objavila-detalje-akcije-krug-inspektorica-uhapsena-zbog-odavanja-tajni-pretresaju-se-cetiri-lokacije/261117094",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261117094.jpg",
-   "published": "2026-11-17T11:30:00+01:00",
-   "title": [
-    "SIPA uhapsila svoju inspektoricu zbog odavanja tajnih podataka",
-    "SIPA arrests its own inspector for leaking secret information"
-   ],
-   "body": [
-    [
-     [
-      "Državna agencija za istrage i zaštitu (SIPA) danas je provela akciju pod nazivom „Krug“.",
-      "The State Investigation and Protection Agency (SIPA) today carried out an operation called \"Krug\"."
-     ],
-     [
-      "U akciji je uhapšena inspektorica SIPA-e Jelena Mičić, koja je osumnjičena za zloupotrebu položaja.",
-      "In the operation SIPA inspector Jelena Mičić was arrested, who is suspected of abuse of position."
-     ],
-     [
-      "Prema nezvaničnim informacijama, istraga obuhvata i njenog brata Stefana Šiljegovića.",
-      "According to unofficial information, the investigation also includes her brother Stefan Šiljegović."
-     ]
-    ],
-    [
-     [
-      "Istraga je trajala nekoliko mjeseci, a počela je nakon podataka iz aplikacije SkyEcc.",
-      "The investigation lasted several months, and it started after data from the SkyEcc application."
-     ],
-     [
-      "Osumnjičena je, prema SIPA-i, s drugim osobama davala tajne informacije ljudima protiv kojih je SIPA vodila istrage.",
-      "According to SIPA, the suspect, together with other persons, gave secret information to people against whom SIPA was conducting investigations."
-     ],
-     [
-      "Tako su policijske akcije bile ugrožene.",
-      "In this way police operations were put at risk."
-     ],
-     [
-      "Pretresi se provode na četiri lokacije u Istočnom Sarajevu, ali i u službenim prostorijama SIPA-e.",
-      "Searches are being carried out at four locations in Istočno Sarajevo, but also in SIPA's official premises."
-     ]
-    ],
-    [
-     [
-      "Policija je oduzela i mobilne telefone od dvije osobe, a stručnjaci će ih detaljno pregledati.",
-      "The police also seized mobile phones from two persons, and experts will examine them in detail."
-     ],
-     [
-      "Akcija se vodi pod nadzorom Tužilaštva BiH.",
-      "The operation is being conducted under the supervision of the Prosecutor's Office of BiH."
-     ],
-     [
-      "SIPA je saopćila da će nastaviti rad na slučaju i provjeriti da li su odgovorne i druge osobe.",
-      "SIPA announced that it will continue work on the case and check whether other persons are also responsible."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "uhapsiti",
-     "to arrest"
-    ],
-    [
-     "inspektorica",
-     "inspector (female)"
-    ],
-    [
-     "istraga",
-     "investigation"
-    ],
-    [
-     "tajna",
-     "secret"
-    ],
-    [
-     "pretres",
-     "search (by police)"
-    ],
-    [
-     "osumnjičen",
-     "suspected"
-    ],
-    [
-     "zloupotreba",
-     "abuse"
-    ],
-    [
-     "tužilaštvo",
-     "prosecutor's office"
-    ]
-   ]
-  },
-  {
-   "id": "261117032",
-   "source": "Klix.ba",
-   "section": "Zdravlje",
-   "url": "https://www.klix.ba/lifestyle/zdravlje/ne-morate-cekati-dorucak-za-vitamin-c-vaznije-je-koliko-ga-uzimate/261117032",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261117032.jpg",
-   "published": "2026-11-17T08:23:00+01:00",
-   "title": [
-    "Vitamin C nije važno uzimati uz doručak",
-    "It does not matter whether you take vitamin C with breakfast"
-   ],
-   "body": [
-    [
-     [
-      "Stručnjaci s instituta Linus Pauling u SAD-u kažu da vitamin C ne morate uzimati uz obrok.",
-      "Experts from the Linus Pauling Institute in the USA say that you do not have to take vitamin C with a meal."
-     ],
-     [
-      "Tijelo ga jednako dobro prima i na prazan stomak, a važnija je količina koju uzimate.",
-      "The body absorbs it equally well on an empty stomach, and the amount you take is more important."
-     ]
-    ],
-    [
-     [
-      "Alexander Michels, stručnjak za vitamin C, rekao je da kalcij može malo smanjiti upijanje, ali da se razlika vjerovatno neće primijetiti.",
-      "Alexander Michels, a vitamin C expert, said that calcium can slightly reduce absorption, but that the difference probably will not be noticed."
-     ],
-     [
-      "Nekim ljudima vitamin C izaziva probleme sa stomakom ili žgaravicu.",
-      "In some people vitamin C causes stomach problems or heartburn."
-     ],
-     [
-      "Oni mogu probati blaži oblik vitamina, koji manje smeta stomaku.",
-      "They can try a milder form of the vitamin, which bothers the stomach less."
-     ],
-     [
-      "Kada osoba uzima od 30 do 180 miligrama dnevno, tijelo upije 70 do 90 posto.",
-      "When a person takes from 30 to 180 milligrams a day, the body absorbs 70 to 90 percent."
-     ],
-     [
-      "Ako je doza veća od jednog grama, tijelo upije manje od pola, a ostatak izlazi urinom.",
-      "If the dose is larger than one gram, the body absorbs less than half, and the rest leaves through urine."
-     ]
-    ],
-    [
-     [
-      "Michels savjetuje da se vitamin uzima dva puta dnevno, jer tako u krvi ostaje više vitamina.",
-      "Michels advises taking the vitamin twice a day, because that way more vitamin stays in the blood."
-     ],
-     [
-      "Muškarcima treba 90 miligrama dnevno, a ženama 75, dok pušačima treba 35 miligrama više.",
-      "Men need 90 milligrams a day and women 75, while smokers need 35 milligrams more."
-     ],
-     [
-      "Odrasli ne bi trebali uzimati više od 2.000 miligrama dnevno, jer to može izazvati proljev i mučninu.",
-      "Adults should not take more than 2,000 milligrams a day, because that can cause diarrhoea and nausea."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "obrok",
-     "meal"
-    ],
-    [
-     "prazan stomak",
-     "empty stomach"
-    ],
-    [
-     "količina",
-     "amount"
-    ],
-    [
-     "upijati",
-     "to absorb"
-    ],
-    [
-     "doza",
-     "dose"
-    ],
-    [
-     "pušač",
-     "smoker"
-    ],
-    [
-     "žgaravica",
-     "heartburn"
-    ],
-    [
-     "mučnina",
-     "nausea"
-    ]
-   ]
-  },
-  {
-   "id": "261117011",
-   "source": "Klix.ba",
-   "section": "Zdravlje",
-   "url": "https://www.klix.ba/lifestyle/zdravlje/glavobolja-nije-uvijek-neuroloske-prirode-naucnici-ukazuju-na-povezanost-s-probavnim-sistemom/261117011",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261117011.jpg",
-   "published": "2026-11-17T07:35:00+01:00",
-   "title": [
-    "Naučnici: Glavobolja može biti povezana s probavom",
-    "Scientists: Headaches may be linked to digestion"
-   ],
-   "body": [
-    [
-     [
-      "Sve više istraživanja pokazuje da glavobolja nije uvijek problem samo u mozgu.",
-      "More and more research shows that a headache is not always a problem only in the brain."
-     ],
-     [
-      "Naučnici pronalaze vezu između migrene i probavnog sistema, posebno bakterija u crijevima.",
-      "Scientists are finding a link between migraine and the digestive system, especially bacteria in the gut."
-     ],
-     [
-      "Crijeva i mozak stalno razmjenjuju signale preko nerava, hormona i imunog sistema.",
-      "The gut and the brain constantly exchange signals through nerves, hormones and the immune system."
-     ]
-    ],
-    [
-     [
-      "Pregled studija iz maja 2025. godine pokazao je da ljudi s migrenom često imaju drugačije bakterije u crijevima.",
-      "A review of studies from May 2025 showed that people with migraine often have different bacteria in the gut."
-     ],
-     [
-      "Velika britanska studija analizirala je podatke 489.753 osobe.",
-      "A large British study analysed data from 489,753 people."
-     ],
-     [
-      "Kod ljudi s migrenom šansa za sindrom iritabilnog crijeva bila je više nego dvostruko veća.",
-      "In people with migraine, the chance of irritable bowel syndrome was more than twice as high."
-     ],
-     [
-      "Ipak, to ne dokazuje da jedan problem direktno izaziva drugi.",
-      "However, this does not prove that one problem directly causes the other."
-     ]
-    ],
-    [
-     [
-      "Naučnici još ispituju da li bolja probava može smanjiti broj migrena.",
-      "Scientists are still examining whether better digestion can reduce the number of migraines."
-     ],
-     [
-      "Zasad nema dovoljno dokaza da se migrena tako liječi.",
-      "So far there is not enough evidence to treat migraine that way."
-     ],
-     [
-      "Stručnjaci kažu da ljudi s čestim glavoboljama trebaju otkriti šta ih izaziva.",
-      "Experts say that people with frequent headaches should find out what causes them."
-     ],
-     [
-      "Ako je potrebno, trebali bi otići i kod neurologa i kod gastroenterologa.",
-      "If necessary, they should see both a neurologist and a gastroenterologist."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "glavobolja",
-     "headache"
-    ],
-    [
-     "probava",
-     "digestion"
-    ],
-    [
-     "crijevo",
-     "intestine, gut"
-    ],
-    [
-     "mozak",
-     "brain"
-    ],
-    [
-     "istraživanje",
-     "research"
-    ],
-    [
-     "bakterija",
-     "bacterium"
-    ],
-    [
-     "dokaz",
-     "evidence, proof"
-    ],
-    [
-     "izazivati",
-     "to cause"
-    ]
-   ]
-  },
-  {
-   "id": "261116181",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/rastereceni-zmajevi-veceras-u-zenici-protiv-rumunije-zatvaraju-uspjesnu-godinu-u-ligi-nacija/261116181",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261116181.jpg",
-   "published": "2026-11-17T07:32:00+01:00",
-   "title": [
-    "BiH večeras igra protiv Rumunije posljednju utakmicu godine",
-    "BiH plays Romania tonight in its last match of the year"
-   ],
-   "body": [
-    [
-     [
-      "Reprezentacija BiH večeras u 20:45 igra protiv Rumunije na Bilinom polju u Zenici.",
-      "The BiH national team plays Romania tonight at 20:45 at Bilino polje in Zenica."
-     ],
-     [
-      "To je posljednje kolo grupe B4 u Ligi nacija i posljednja utakmica ove godine.",
-      "It is the last round of group B4 in the Nations League and the last match of this year."
-     ],
-     [
-      "BiH je već osigurala drugo mjesto, pa će igrati baraž za ulazak u Ligu A.",
-      "BiH has already secured second place, so it will play a play-off for promotion to League A."
-     ]
-    ],
-    [
-     [
-      "Protivnik u baražu bit će poznat nakon žrijeba u petak.",
-      "The play-off opponent will be known after the draw on Friday."
-     ],
-     [
-      "Napadač Haris Tabaković neće igrati, jer ove sedmice ide na operaciju meniskusa.",
-      "Striker Haris Tabaković will not play, because he is having meniscus surgery this week."
-     ],
-     [
-      "Tarik Muharemović se vratio nakon suspenzije, a Jovo Lukić normalno trenira nakon problema s leđima.",
-      "Tarik Muharemović is back after a suspension, and Jovo Lukić is training normally after back problems."
-     ],
-     [
-      "Rumunija je izgubila prve četiri utakmice, a u subotu je pobijedila Poljsku sa 2:1.",
-      "Romania lost its first four matches, and on Saturday it beat Poland 2:1."
-     ],
-     [
-      "BiH je pobijedila Rumuniju u posljednja tri susreta, a u septembru je slavila sa 4:2 u Bukureštu.",
-      "BiH beat Romania in their last three meetings, and in September it won 4:2 in Bucharest."
-     ]
-    ],
-    [
-     [
-      "Selektor Sergej Barbarez rekao je da tim ozbiljno shvata ovu utakmicu.",
-      "Head coach Sergej Barbarez said that the team takes this match seriously."
-     ],
-     [
-      "On želi da godina završi pobjedom pred domaćim navijačima.",
-      "He wants the year to end with a win in front of the home fans."
-     ],
-     [
-      "Utakmicu sudi Španac Jose Maria Sanchez Martinez, a prenosit će je BHT i MY TV.",
-      "The match is refereed by Spaniard Jose Maria Sanchez Martinez, and BHT and MY TV will broadcast it."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "reprezentacija",
-     "national team"
-    ],
-    [
-     "utakmica",
-     "match"
-    ],
-    [
-     "kolo",
-     "round"
-    ],
-    [
-     "baraž",
-     "play-off"
-    ],
-    [
-     "žrijeb",
-     "draw"
-    ],
-    [
-     "operacija",
-     "surgery"
-    ],
-    [
-     "navijač",
-     "fan"
-    ],
-    [
-     "pobjeda",
-     "win"
-    ]
-   ]
-  },
-  {
-   "id": "261117008",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/barbarez-odabrao-23-igraca-za-rumuniju-napravio-je-dvije-izmjene-u-odnosu-na-svedsku/261117008",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261117008.jpg",
-   "published": "2026-11-17T07:03:00+01:00",
-   "title": [
-    "Barbarez odabrao 23 igrača za utakmicu s Rumunijom",
-    "Barbarez picks 23 players for the match with Romania"
-   ],
-   "body": [
-    [
-     [
-      "Selektor Sergej Barbarez odabrao je 23 igrača za večerašnju utakmicu protiv Rumunije.",
-      "Head coach Sergej Barbarez has picked 23 players for tonight's match against Romania."
-     ],
-     [
-      "Utakmica šestog kola Lige nacija igra se u 20:45 na Bilinom polju u Zenici.",
-      "The sixth-round Nations League match is played at 20:45 at Bilino polje in Zenica."
-     ],
-     [
-      "U odnosu na utakmicu sa Švedskom, Barbarez je napravio dvije izmjene.",
-      "Compared with the match against Sweden, Barbarez made two changes."
-     ]
-    ],
-    [
-     [
-      "Na spisku su sada Jovo Lukić i Tarik Muharemović.",
-      "Jovo Lukić and Tarik Muharemović are now on the list."
-     ],
-     [
-      "Ispali su Matej Deket i Haris Tabaković, koji mora na operaciju.",
-      "Matej Deket and Haris Tabaković, who needs surgery, have dropped out."
-     ],
-     [
-      "Dennis Hadžikadunić je povrijeđen i neće igrati nijednu utakmicu u novembru.",
-      "Dennis Hadžikadunić is injured and will not play any match in November."
-     ],
-     [
-      "Selektor ima 3 golmana, 8 odbrambenih igrača, 8 veznih igrača i 4 napadača.",
-      "The coach has 3 goalkeepers, 8 defenders, 8 midfielders and 4 strikers."
-     ]
-    ],
-    [
-     [
-      "U petom kolu Švedska je u Solni pobijedila BiH sa 3:2.",
-      "In the fifth round, Sweden beat BiH 3:2 in Solna."
-     ],
-     [
-      "Golove za BiH dali su Armin Gigović i Sead Kolašinac.",
-      "The goals for BiH were scored by Armin Gigović and Sead Kolašinac."
-     ],
-     [
-      "Poljska je istog dana izgubila od Rumunije, zato je BiH osigurala baraž za Ligu A.",
-      "Poland lost to Romania on the same day, so BiH secured a play-off for League A."
-     ],
-     [
-      "Utakmicu prenose BHT i MY TV, a Klix.ba će pisati prenos uživo.",
-      "The match is broadcast by BHT and MY TV, and Klix.ba will run a live text commentary."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "selektor",
-     "head coach (of a national team)"
-    ],
-    [
-     "igrač",
-     "player"
-    ],
-    [
-     "izmjena",
-     "change"
-    ],
-    [
-     "spisak",
-     "list"
-    ],
-    [
-     "povrijeđen",
-     "injured"
-    ],
-    [
-     "golman",
-     "goalkeeper"
-    ],
-    [
-     "napadač",
-     "striker"
-    ],
-    [
-     "gol",
-     "goal"
-    ]
-   ]
-  },
-  {
-   "id": "261117006",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/iran-objavio-snimak-obaranja-americkog-f-15e-pad-uz-trag-dima-i-vatrena-kugla-na-tlu/261117006",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261117006.jpg",
-   "published": "2026-11-17T06:51:00+01:00",
-   "title": [
-    "Iran objavio snimak obaranja američkog aviona F-15E",
-    "Iran releases footage of the downing of a US F-15E plane"
-   ],
-   "body": [
-    [
-     [
-      "Iranska državna televizija IRIB objavila je snimak za koji kaže da prikazuje obaranje američkog aviona.",
-      "Iranian state television IRIB released a video which it says shows the downing of an American plane."
-     ],
-     [
-      "Riječ je o borbenom avionu F-15E, koji je pao 3. aprila iznad jugozapadnog Irana.",
-      "It is an F-15E fighter jet, which went down on 3 April over south-western Iran."
-     ],
-     [
-      "Snimak je objavljen 16. novembra, oko 7 mjeseci nakon tog događaja.",
-      "The video was released on 16 November, about 7 months after that event."
-     ]
-    ],
-    [
-     [
-      "Video traje oko 35 sekundi i snimljen je termalnom kamerom, koja snima toplotu.",
-      "The video lasts about 35 seconds and was filmed with a thermal camera, which records heat."
-     ],
-     [
-      "Na njemu se vidi kako avion pada uz trag dima, a zatim vatrena kugla na tlu.",
-      "It shows the plane falling with a trail of smoke, and then a fireball on the ground."
-     ],
-     [
-      "Na kraju se vide i dijelovi aviona na zemlji.",
-      "At the end, parts of the plane on the ground can also be seen."
-     ],
-     [
-      "Snimak je dio intervjua s vojnicima protivzračne odbrane koji kažu da su oborili avion.",
-      "The video is part of an interview with air defence soldiers who say they shot down the plane."
-     ]
-    ],
-    [
-     [
-      "SAD su potvrdile da je avion oboren, a oba pilota su preživjela i spašena su.",
-      "The US confirmed that the plane was shot down, and both crew members survived and were rescued."
-     ],
-     [
-      "Predsjednik Donald Trump rekao je da je Iran koristio raketu koja se ispaljuje s ramena.",
-      "President Donald Trump said that Iran used a missile that is fired from the shoulder."
-     ],
-     [
-      "Na snimku se ne vidi kakvo oružje je pogodilo avion.",
-      "The video does not show what kind of weapon hit the plane."
-     ],
-     [
-      "Iranski mediji su ranije objavili fotografije dijelova aviona, ali ovo je prvi video obaranja.",
-      "Iranian media earlier published photos of parts of the plane, but this is the first video of the downing."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "snimak",
-     "video, footage"
-    ],
-    [
-     "obaranje",
-     "shooting down"
-    ],
-    [
-     "avion",
-     "plane"
-    ],
-    [
-     "pasti",
-     "to fall, go down"
-    ],
-    [
-     "dim",
-     "smoke"
-    ],
-    [
-     "tlo",
-     "ground"
-    ],
-    [
-     "preživjeti",
-     "to survive"
-    ],
-    [
-     "raketa",
-     "missile"
-    ]
-   ]
-  },
-  {
-   "id": "261117004",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/regija/u-srbiji-se-danas-bira-novi-predsjednik-skupstine-on-ce-postati-i-vd-predsjednika-drzave-dva-imena-u-igri/261117004",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261117004.jpg",
-   "published": "2026-11-17T06:51:00+01:00",
-   "title": [
-    "Srbija danas bira novog predsjednika Skupštine",
-    "Serbia elects a new speaker of parliament today"
-   ],
-   "body": [
-    [
-     [
-      "Nova Narodna skupština Srbije danas u 10:00 ima prvu sjednicu.",
-      "Serbia's new National Assembly holds its first session today at 10:00."
-     ],
-     [
-      "Poslanici će potvrditi mandate i izabrati predsjednika Skupštine i potpredsjednike.",
-      "The MPs will confirm their mandates and elect the speaker and the deputy speakers."
-     ],
-     [
-      "Novi predsjednik Skupštine postat će i vršilac dužnosti predsjednika Srbije.",
-      "The new speaker will also become acting president of Serbia."
-     ]
-    ],
-    [
-     [
-      "Sjednicu je 8. novembra sazvala Ana Brnabić, koja je sada predsjednica Skupštine i vršilac dužnosti predsjednika države.",
-      "The session was called on 8 November by Ana Brnabić, who is now the speaker and acting head of state."
-     ],
-     [
-      "Ona ima tu ulogu otkako je Aleksandar Vučić podnio ostavku.",
-      "She has had this role since Aleksandar Vučić resigned."
-     ],
-     [
-      "Dok se ne izabere novi predsjednik, sjednicu vodi najstariji poslanik Stojan Radenović.",
-      "Until a new speaker is elected, the session is led by the oldest MP, Stojan Radenović."
-     ],
-     [
-      "Mediji kažu da su kandidati Studentske liste profesori Katarina Šćepanović i Aleksandar Čupić.",
-      "The media say that the Student List's candidates are professors Katarina Šćepanović and Aleksandar Čupić."
-     ]
-    ],
-    [
-     [
-      "Prema ustavu, predsjednik Skupštine može zamijeniti predsjednika države najviše 3 mjeseca.",
-      "According to the constitution, the speaker can replace the head of state for at most 3 months."
-     ],
-     [
-      "U tom roku mora raspisati predsjedničke izbore.",
-      "Within that period, he or she must call presidential elections."
-     ],
-     [
-      "Studenti nisu dobili dozvolu da prisustvuju sjednici, zato su najavili okupljanje u parku kod Skupštine.",
-      "The students did not get permission to attend the session, so they announced a gathering in the park near the Assembly."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "skupština",
-     "assembly, parliament"
-    ],
-    [
-     "sjednica",
-     "session"
-    ],
-    [
-     "poslanik",
-     "member of parliament"
-    ],
-    [
-     "ostavka",
-     "resignation"
-    ],
-    [
-     "ustav",
-     "constitution"
-    ],
-    [
-     "izbori",
-     "elections"
-    ],
-    [
-     "kandidat",
-     "candidate"
-    ],
-    [
-     "okupljanje",
-     "gathering"
     ]
    ]
   }
