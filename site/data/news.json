@@ -1,18 +1,832 @@
 {
- "updated": "2026-11-18T18:43:00+01:00",
+ "updated": "2026-11-19T07:44:00+01:00",
  "front": [
-  "261118257",
-  "261118269",
-  "261118254",
-  "261118248",
-  "261118247",
-  "261118260",
+  "261119005",
+  "261119004",
+  "261118327",
+  "261119006",
+  "261119001",
+  "261119008",
   "261118261",
-  "261118217",
-  "261118255",
-  "261118246"
+  "261118319",
+  "261119016",
+  "261118316"
  ],
  "articles": [
+  {
+   "id": "261119016",
+   "source": "Klix.ba",
+   "section": "Zdravlje",
+   "url": "https://www.klix.ba/lifestyle/zdravlje/zasto-antibiotik-ne-pomaze-kod-gripe-i-prehlade-i-kada-moze-naskoditi/261119016",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261119016.jpg",
+   "published": "2026-11-19T07:18:00+01:00",
+   "title": [
+    "Zašto antibiotik ne pomaže kod gripe i prehlade",
+    "Why an antibiotic does not help with flu and a cold"
+   ],
+   "body": [
+    [
+     [
+      "Svjetska zdravstvena organizacija upozorava da antibiotici ne djeluju protiv virusa.",
+      "The World Health Organization warns that antibiotics do not work against viruses."
+     ],
+     [
+      "Gripu, prehladu, većinu upala grla i bronhitis izazivaju virusi, pa tu antibiotik ne pomaže.",
+      "Flu, colds, most sore throats and bronchitis are caused by viruses, so an antibiotic does not help there."
+     ],
+     [
+      "Antibiotici liječe bakterijske infekcije, na primjer upalu pluća i tuberkulozu.",
+      "Antibiotics treat bacterial infections, for example pneumonia and tuberculosis."
+     ]
+    ],
+    [
+     [
+      "Kada ljudi uzimaju antibiotike bez potrebe, bakterije postaju otporne i infekcije se teže liječe.",
+      "When people take antibiotics without need, bacteria become resistant and infections are harder to treat."
+     ],
+     [
+      "U anketama je čak 64 posto ljudi pogrešno mislilo da se gripa i prehlada liječe antibioticima.",
+      "In surveys as many as 64 percent of people wrongly thought that flu and colds are treated with antibiotics."
+     ],
+     [
+      "U 2023. godini svaka šesta bakterijska infekcija u svijetu bila je otporna na antibiotike.",
+      "In 2023 every sixth bacterial infection in the world was resistant to antibiotics."
+     ],
+     [
+      "Prema UN-u, otpornost bakterija povezana je s više od 4,7 miliona smrti godišnje.",
+      "According to the UN, bacterial resistance is linked to more than 4.7 million deaths a year."
+     ]
+    ],
+    [
+     [
+      "Ove sedmice, od 18. do 24. novembra, obilježava se svjetska sedmica svijesti o ovom problemu.",
+      "This week, from 18 to 24 November, a world awareness week about this problem is being marked."
+     ],
+     [
+      "Stručnjaci savjetuju da se antibiotik uzima samo kada ga prepiše ljekar.",
+      "Experts advise that an antibiotic be taken only when a doctor prescribes it."
+     ],
+     [
+      "Ako ga dobijete, terapiju treba završiti do kraja, a lijekove koji ostanu ne treba bacati u odvod.",
+      "If you get one, the therapy should be finished to the end, and medicines that are left over should not be thrown down the drain."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "antibiotik",
+     "antibiotic"
+    ],
+    [
+     "gripa",
+     "flu"
+    ],
+    [
+     "prehlada",
+     "cold"
+    ],
+    [
+     "bakterija",
+     "bacterium"
+    ],
+    [
+     "otporan",
+     "resistant"
+    ],
+    [
+     "ljekar",
+     "doctor"
+    ],
+    [
+     "prepisati",
+     "to prescribe"
+    ]
+   ]
+  },
+  {
+   "id": "261119008",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/borilacki-sportovi/conor-mcgregor-dao-slobodan-dan-radnicima-da-mogu-igrati-gta-6/261119008",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261119008.jpg",
+   "published": "2026-11-19T06:47:00+01:00",
+   "title": [
+    "Conor McGregor dao radnicima slobodan dan zbog GTA 6",
+    "Conor McGregor gave workers a day off because of GTA 6"
+   ],
+   "body": [
+    [
+     [
+      "Bivši UFC prvak Conor McGregor dao je slobodan dan svim radnicima u svojim kompanijama.",
+      "Former UFC champion Conor McGregor gave a day off to all the workers in his companies."
+     ],
+     [
+      "Razlog je izlazak nove igre Grand Theft Auto VI.",
+      "The reason is the release of the new game Grand Theft Auto VI."
+     ],
+     [
+      "Odluku je objavio na mreži X u srijedu navečer, manje od 12 sati prije nego što je igra izašla.",
+      "He announced the decision on the network X on Wednesday evening, less than 12 hours before the game came out."
+     ]
+    ],
+    [
+     [
+      "McGregor kaže da zapošljava 400 ljudi u nekoliko zemalja na više kontinenata.",
+      "McGregor says he employs 400 people in several countries on several continents."
+     ],
+     [
+      "U poruci je poželio timu da uživa u igri.",
+      "In the message he wished the team to enjoy the game."
+     ],
+     [
+      "Potpisao se kao njihov prijatelj i šef.",
+      "He signed as their friend and boss."
+     ],
+     [
+      "Kasnije je objavio i video svog kutka za igranje, u kojem se vidio sat koji odbrojava do izlaska igre.",
+      "Later he also posted a video of his gaming corner, in which a clock counting down to the game's release could be seen."
+     ]
+    ],
+    [
+     [
+      "GTA VI izašao je danas za PlayStation 5 i Xbox Series X/S.",
+      "GTA VI came out today for PlayStation 5 and Xbox Series X/S."
+     ],
+     [
+      "To je prva nova igra u ovom serijalu nakon 13 godina.",
+      "It is the first new game in this series after 13 years."
+     ],
+     [
+      "Priča se vraća u Vice City, a glavni likovi su Jason i Lucia.",
+      "The story returns to Vice City, and the main characters are Jason and Lucia."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "prvak",
+     "champion"
+    ],
+    [
+     "slobodan dan",
+     "day off"
+    ],
+    [
+     "radnik",
+     "worker"
+    ],
+    [
+     "izlazak",
+     "release"
+    ],
+    [
+     "zapošljavati",
+     "to employ"
+    ],
+    [
+     "šef",
+     "boss"
+    ],
+    [
+     "serijal",
+     "series"
+    ]
+   ]
+  },
+  {
+   "id": "261119001",
+   "source": "Klix.ba",
+   "section": "Tehnologija",
+   "url": "https://www.klix.ba/scitech/gaming/cudni-svijet-gta-6-od-brijanja-grudi-do-bijega-ukradenim-avionom-i-lovaca-koji-vas-prizemlje/261119001",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261119001.jpg",
+   "published": "2026-11-19T06:41:00+01:00",
+   "title": [
+    "Neobični detalji iz prvih sati igre GTA 6",
+    "Unusual details from the first hours of the game GTA 6"
+   ],
+   "body": [
+    [
+     [
+      "Novinar Klixa je u prvim satima igre GTA 6 otkrio mnogo neobičnih detalja.",
+      "A Klix journalist discovered many unusual details in the first hours of the game GTA 6."
+     ],
+     [
+      "Kaže da je najzabavnije istraživati svijet izvan zadataka.",
+      "He says it is most fun to explore the world outside the missions."
+     ],
+     [
+      "Grad se otvara polako, kako priča napreduje.",
+      "The city opens slowly, as the story progresses."
+     ]
+    ],
+    [
+     [
+      "Prvi put u novijim GTA igrama automobilima može nestati goriva.",
+      "For the first time in recent GTA games cars can run out of fuel."
+     ],
+     [
+      "Rezervoar je prazan nakon 18 do 29 minuta vožnje, a punjenje traje oko 10 sekundi.",
+      "The tank is empty after 18 to 29 minutes of driving, and filling up takes about 10 seconds."
+     ],
+     [
+      "Policija se više ne vidi na mapi, a igrač može biti uhapšen ako samo stoji i gleda policijsku akciju.",
+      "The police can no longer be seen on the map, and the player can be arrested if he just stands and watches a police operation."
+     ],
+     [
+      "Ako ukrade avion iz vojne baze, odmah dobija pet zvjezdica, a vojni avioni ga brzo obore.",
+      "If he steals a plane from a military base, he immediately gets five stars, and military planes quickly shoot him down."
+     ]
+    ],
+    [
+     [
+      "Jason može obrijati prsa u svojoj kući, ali za novu frizuru mora ići kod brijača.",
+      "Jason can shave his chest in his house, but for a new haircut he has to go to a barber."
+     ],
+     [
+      "Autor je primijetio i nekoliko grešaka, na primjer kada je Lucia propala kroz zemlju.",
+      "The author also noticed a few bugs, for example when Lucia fell through the ground."
+     ],
+     [
+      "Ipak, on misli da je to samo nekoliko grešaka u igri koja je inače dobro urađena.",
+      "Still, he thinks these are only a few bugs in a game that is otherwise well made."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "neobičan",
+     "unusual"
+    ],
+    [
+     "gorivo",
+     "fuel"
+    ],
+    [
+     "vožnja",
+     "driving"
+    ],
+    [
+     "uhapsiti",
+     "to arrest"
+    ],
+    [
+     "ukrasti",
+     "to steal"
+    ],
+    [
+     "brijač",
+     "barber"
+    ],
+    [
+     "greška",
+     "mistake, bug"
+    ]
+   ]
+  },
+  {
+   "id": "261119006",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/ukrajinci-ponovo-napali-krimski-most-prekinuta-kljucna-linija-snabdijevanja-ruskih-trupa/261119006",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261119006.jpg",
+   "published": "2026-11-19T06:34:00+01:00",
+   "title": [
+    "Ukrajina ponovo napala Krimski most, saobraćaj prekinut",
+    "Ukraine attacked the Crimean Bridge again, traffic stopped"
+   ],
+   "body": [
+    [
+     [
+      "Krimski most ponovo je napadnut u četvrtak u ranim jutarnjim satima.",
+      "The Crimean Bridge was attacked again on Thursday in the early morning hours."
+     ],
+     [
+      "To je na Telegramu objavio Sergej Aksjonov, guverner Krima kojeg je postavila Moskva.",
+      "This was announced on Telegram by Sergei Aksyonov, the governor of Crimea appointed by Moscow."
+     ],
+     [
+      "Saobraćaj preko mosta privremeno je zaustavljen, a hitne službe procjenjuju štetu.",
+      "Traffic over the bridge was temporarily stopped, and emergency services are assessing the damage."
+     ]
+    ],
+    [
+     [
+      "Napad je došao samo nekoliko dana nakon što se dio mosta srušio u ranijem ukrajinskom udaru.",
+      "The attack came only a few days after part of the bridge collapsed in an earlier Ukrainian strike."
+     ],
+     [
+      "Most je dug oko 19 kilometara i najduži je u Evropi, a koštao je 3,7 milijardi dolara.",
+      "The bridge is about 19 kilometres long and is the longest in Europe, and it cost 3.7 billion dollars."
+     ],
+     [
+      "Prema ruskim državnim medijima, napravljen je za 40.000 automobila dnevno.",
+      "According to Russian state media, it was built for 40,000 cars a day."
+     ],
+     [
+      "Za ruske trupe to je važan put za snabdijevanje, a za Putina i važan simbol.",
+      "For Russian troops it is an important supply route, and for Putin also an important symbol."
+     ]
+    ],
+    [
+     [
+      "Ukrajinski predsjednik Volodimir Zelenski rekao je da su napadi na most odgovor na ruske udare na ukrajinsku infrastrukturu.",
+      "Ukrainian President Volodymyr Zelensky said that the attacks on the bridge are a response to Russian strikes on Ukrainian infrastructure."
+     ],
+     [
+      "Napad se desio dok se Putin sprema za sastanak s Trumpom i Xi Jinpingom u Kini.",
+      "The attack happened while Putin is preparing for a meeting with Trump and Xi Jinping in China."
+     ],
+     [
+      "Portparol Kremlja Dmitrij Peskov ranije je rekao da će most biti obnovljen i da će biti bolji nego prije.",
+      "Kremlin spokesman Dmitry Peskov said earlier that the bridge will be rebuilt and will be better than before."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "most",
+     "bridge"
+    ],
+    [
+     "napad",
+     "attack"
+    ],
+    [
+     "saobraćaj",
+     "traffic"
+    ],
+    [
+     "šteta",
+     "damage"
+    ],
+    [
+     "srušiti se",
+     "to collapse"
+    ],
+    [
+     "snabdijevanje",
+     "supply"
+    ],
+    [
+     "obnoviti",
+     "to rebuild"
+    ]
+   ]
+  },
+  {
+   "id": "261119005",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/trump-porucio-putinu-na-sastanku-iz-ovoga-mogu-proizaci-divne-stvari/261119005",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261119005.jpg",
+   "published": "2026-11-19T06:30:00+01:00",
+   "title": [
+    "Trump i Putin razgovarali 40 minuta na samitu u Kini",
+    "Trump and Putin talked for 40 minutes at the summit in China"
+   ],
+   "body": [
+    [
+     [
+      "Američki predsjednik Donald Trump i ruski predsjednik Vladimir Putin sastali su se jutros u kineskom gradu Shenzhenu.",
+      "US President Donald Trump and Russian President Vladimir Putin met this morning in the Chinese city of Shenzhen."
+     ],
+     [
+      "Oba lidera su tamo na samitu APEC-a, a prema CNN-u razgovor je trajao oko 40 minuta.",
+      "Both leaders are there for the APEC summit, and according to CNN the talk lasted about 40 minutes."
+     ],
+     [
+      "Pred kamerama je Trump rekao da on i Putin već mnogo godina imaju dobar odnos.",
+      "In front of the cameras Trump said that he and Putin have had a good relationship for many years."
+     ]
+    ],
+    [
+     [
+      "Trump je dodao da iz ovog sastanka mogu proizaći divne stvari.",
+      "Trump added that wonderful things could come out of this meeting."
+     ],
+     [
+      "Putin se zatim rukovao s američkim državnim sekretarom Marcom Rubijem i ministrom finansija Scottom Bessentom.",
+      "Putin then shook hands with US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent."
+     ],
+     [
+      "Bijela kuća kaže da to nije bio službeni bilateralni sastanak, nego kraći i manje formalan razgovor.",
+      "The White House says it was not an official bilateral meeting, but a shorter and less formal talk."
+     ],
+     [
+      "Trump i Putin su se kratko vidjeli i rukovali već u srijedu.",
+      "Trump and Putin had already briefly seen each other and shaken hands on Wednesday."
+     ]
+    ],
+    [
+     [
+      "Ni Kremlj ni Bijela kuća još nisu rekli o čemu su lideri razgovarali.",
+      "Neither the Kremlin nor the White House has yet said what the leaders talked about."
+     ],
+     [
+      "Kasnije danas očekuje se i prvi zajednički sastanak Trumpa, Putina i kineskog predsjednika Xi Jinpinga.",
+      "Later today the first joint meeting of Trump, Putin and Chinese President Xi Jinping is also expected."
+     ],
+     [
+      "Glavne teme bi trebale biti sporazum o nuklearnom oružju i rat SAD-a s Iranom, a o Ukrajini vjerovatno neće biti riječi.",
+      "The main topics should be an agreement on nuclear weapons and the US war with Iran, and Ukraine will probably not be discussed."
+     ],
+     [
+      "Mediji ovaj susret porede s Jaltskom konferencijom iz februara 1945. godine.",
+      "The media compare this meeting with the Yalta Conference of February 1945."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "sastati se",
+     "to meet"
+    ],
+    [
+     "samit",
+     "summit"
+    ],
+    [
+     "odnos",
+     "relationship"
+    ],
+    [
+     "rukovati se",
+     "to shake hands"
+    ],
+    [
+     "sporazum",
+     "agreement"
+    ],
+    [
+     "oružje",
+     "weapon(s)"
+    ],
+    [
+     "porediti",
+     "to compare"
+    ]
+   ]
+  },
+  {
+   "id": "261119004",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/trump-kaze-da-bi-ponovo-ratovao-s-iranom-bez-obzira-na-politicku-cijenu-razvijaju-hemijsko-i-biolosko-oruzje/261119004",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261119004.jpg",
+   "published": "2026-11-19T06:23:00+01:00",
+   "title": [
+    "Trump kaže da bi ponovo ušao u rat s Iranom",
+    "Trump says he would enter the war with Iran again"
+   ],
+   "body": [
+    [
+     [
+      "Američki predsjednik Donald Trump rekao je za Fox News da bi ponovo ratovao s Iranom.",
+      "US President Donald Trump told Fox News that he would go to war with Iran again."
+     ],
+     [
+      "Na pitanje da li bi opet donio istu odluku, odgovorio je da je odgovor apsolutno da.",
+      "Asked whether he would make the same decision again, he answered that the answer is absolutely yes."
+     ],
+     [
+      "Priznao je da je rat imao utjecaj na izbore, ali kaže da politika neće odlučivati o njegovim potezima.",
+      "He admitted that the war had an effect on the elections, but says politics will not decide his moves."
+     ]
+    ],
+    [
+     [
+      "Trump tvrdi da Iran sada istražuje hemijsko i biološko oružje jer su mu američki napadi otežali put do nuklearne bombe.",
+      "Trump claims that Iran is now researching chemical and biological weapons because US attacks made its path to a nuclear bomb harder."
+     ],
+     [
+      "On kaže da su američke snage uništile iransku mornaricu, avijaciju i protivzračnu odbranu.",
+      "He says US forces destroyed the Iranian navy, air force and air defence."
+     ],
+     [
+      "Prema njegovim riječima, Iranu je ostalo samo 12 do 13 posto raketnih kapaciteta.",
+      "According to his words, Iran has only 12 to 13 percent of its missile capacity left."
+     ],
+     [
+      "Ipak, Wall Street Journal je 15. novembra pisao da Iran još ima između 1.500 i 2.500 raketa.",
+      "However, the Wall Street Journal wrote on 15 November that Iran still has between 1,500 and 2,500 missiles."
+     ]
+    ],
+    [
+     [
+      "Trump je rekao da su raniji pregovori s Teheranom bili gubljenje vremena.",
+      "Trump said that the earlier negotiations with Tehran were a waste of time."
+     ],
+     [
+      "Dodao je da SAD ne treba pomoć Kine ili Rusije da završi rat.",
+      "He added that the US does not need help from China or Russia to end the war."
+     ],
+     [
+      "Ne vjeruje da će Iran napasti Washington, ali je zaprijetio jakim odgovorom ako se to desi.",
+      "He does not believe Iran will attack Washington, but he threatened a strong response if that happens."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "ratovati",
+     "to wage war"
+    ],
+    [
+     "odluka",
+     "decision"
+    ],
+    [
+     "tvrditi",
+     "to claim"
+    ],
+    [
+     "oružje",
+     "weapon(s)"
+    ],
+    [
+     "raketa",
+     "missile"
+    ],
+    [
+     "pregovori",
+     "negotiations"
+    ],
+    [
+     "zaprijetiti",
+     "to threaten"
+    ]
+   ]
+  },
+  {
+   "id": "261118327",
+   "source": "Klix.ba",
+   "section": "Tehnologija",
+   "url": "https://www.klix.ba/scitech/gaming/stigla-je-najiscekivanija-igra-ikada-donosimo-vam-pocetak-igre-gta-6/261118327",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261118327.jpg",
+   "published": "2026-11-19T01:09:00+01:00",
+   "title": [
+    "Igra GTA 6 stigla je u Evropu, ovako izgleda početak",
+    "The game GTA 6 has arrived in Europe, this is what the beginning looks like"
+   ],
+   "body": [
+    [
+     [
+      "Igra GTA 6 stigla je u većinu evropskih zemalja tačno u ponoć.",
+      "The game GTA 6 arrived in most European countries exactly at midnight."
+     ],
+     [
+      "Novinar Klixa igrao je prve sate i opisao kako počinje priča.",
+      "A Klix journalist played the first hours and described how the story begins."
+     ],
+     [
+      "Igra ne počinje velikim ulaskom u Vice City, nego polako predstavlja svijet Leonide.",
+      "The game does not start with a big entry into Vice City, but slowly introduces the world of Leonida."
+     ]
+    ],
+    [
+     [
+      "Na početku je Lucia Caminos u zatvoru, a kratki flashback pokazuje kako je tamo završila nakon pljačke prodavnice.",
+      "At the start Lucia Caminos is in prison, and a short flashback shows how she ended up there after a shop robbery."
+     ],
+     [
+      "Zatim se priča vraća na Jasona Duvala, čiji su prvi zadaci mirniji i svakodnevni.",
+      "Then the story returns to Jason Duval, whose first tasks are calmer and everyday."
+     ],
+     [
+      "On vozi brod i avion, a ima i dijelova u kojima se mora kretati tiho.",
+      "He drives a boat and a plane, and there are also parts where he has to move quietly."
+     ],
+     [
+      "Prvi sati igre dešavaju se u Key Lentu, manjem području koje je veoma drugačije od Vice Cityja.",
+      "The first hours of the game take place in Key Lento, a smaller area that is very different from Vice City."
+     ]
+    ],
+    [
+     [
+      "Autor kaže da se automobili voze drugačije nego ranije i da treba vremena da se igrač navikne.",
+      "The author says that cars drive differently than before and that it takes time for the player to get used to it."
+     ],
+     [
+      "Popravak oštećenog automobila sada košta novac.",
+      "Repairing a damaged car now costs money."
+     ],
+     [
+      "Spori početak možda neće svima odgovarati, ali autor misli da će odnos Jasona i Lucije nositi cijelu priču.",
+      "The slow start might not suit everyone, but the author thinks the relationship of Jason and Lucia will carry the whole story."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "igra",
+     "game"
+    ],
+    [
+     "ponoć",
+     "midnight"
+    ],
+    [
+     "zatvor",
+     "prison"
+    ],
+    [
+     "pljačka",
+     "robbery"
+    ],
+    [
+     "zadatak",
+     "task, mission"
+    ],
+    [
+     "popravak",
+     "repair"
+    ],
+    [
+     "naviknuti se",
+     "to get used to"
+    ]
+   ]
+  },
+  {
+   "id": "261118316",
+   "source": "Klix.ba",
+   "section": "Tehnologija",
+   "url": "https://www.klix.ba/scitech/tehnologija/nema-vise-brisanja-storyja-zbog-greske-u-kucanju-instagram-uveo-opciju-koja-se-godinama-cekala/261118316",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261118316.jpg",
+   "published": "2026-11-18T23:14:00+01:00",
+   "title": [
+    "Instagram sada dozvoljava uređivanje storyja nakon objave",
+    "Instagram now allows editing a story after posting"
+   ],
+   "body": [
+    [
+     [
+      "Korisnici Instagrama sada mogu urediti story nakon što ga objave.",
+      "Instagram users can now edit a story after they post it."
+     ],
+     [
+      "Promjenu je potvrdio Adam Mosseri, šef Instagrama.",
+      "The change was confirmed by Adam Mosseri, the head of Instagram."
+     ],
+     [
+      "Do sada je jedini način da se ispravi greška bio da se story obriše i ponovo objavi.",
+      "Until now the only way to fix a mistake was to delete the story and post it again."
+     ]
+    ],
+    [
+     [
+      "Tako su korisnici gubili i sve preglede koje je story već imao.",
+      "That way users also lost all the views the story already had."
+     ],
+     [
+      "Sada mogu dodati naljepnice i crteže, ispraviti tekst ili promijeniti muziku.",
+      "Now they can add stickers and drawings, fix the text or change the music."
+     ],
+     [
+      "Uređivanje je moguće samo u prvih 15 minuta nakon objave.",
+      "Editing is possible only in the first 15 minutes after posting."
+     ],
+     [
+      "Treba kliknuti na tri tačke na dnu ekrana i izabrati opciju za uređivanje.",
+      "You need to tap the three dots at the bottom of the screen and choose the editing option."
+     ]
+    ],
+    [
+     [
+      "Isto ograničenje od 15 minuta Instagram je u aprilu uveo i za uređivanje komentara.",
+      "Instagram introduced the same 15-minute limit for editing comments in April."
+     ],
+     [
+      "Ove godine korisnici su dobili i mogućnost da mijenjaju redoslijed fotografija nakon objave.",
+      "This year users also got the option to change the order of photos after posting."
+     ],
+     [
+      "Još nije jasno da li je nova opcija već dostupna svim korisnicima.",
+      "It is not yet clear whether the new option is already available to all users."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "korisnik",
+     "user"
+    ],
+    [
+     "urediti",
+     "to edit"
+    ],
+    [
+     "objaviti",
+     "to post, publish"
+    ],
+    [
+     "obrisati",
+     "to delete"
+    ],
+    [
+     "pregled",
+     "view"
+    ],
+    [
+     "naljepnica",
+     "sticker"
+    ],
+    [
+     "ograničenje",
+     "limit"
+    ]
+   ]
+  },
+  {
+   "id": "261118319",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/film-tv/novi-film-the-hunger-games-podijelio-kriticare-joseph-zada-dobio-pohvale/261118319",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261118319.jpg",
+   "published": "2026-11-18T22:51:00+01:00",
+   "title": [
+    "Kritičari podijeljeni o novom filmu iz serijala Igre gladi",
+    "Critics divided about the new film in the Hunger Games series"
+   ],
+   "body": [
+    [
+     [
+      "Novi film „The Hunger Games: Sunrise on the Reaping“ podijelio je filmske kritičare.",
+      "The new film \"The Hunger Games: Sunrise on the Reaping\" has divided film critics."
+     ],
+     [
+      "Prve kritike objavljene su u utorak, a na stranici Rotten Tomatoes film ima 76 posto pozitivnih ocjena.",
+      "The first reviews were published on Tuesday, and on the Rotten Tomatoes website the film has 76 percent positive ratings."
+     ],
+     [
+      "U kina u SAD-u stiže u petak, 20. novembra.",
+      "It comes to cinemas in the US on Friday, 20 November."
+     ]
+    ],
+    [
+     [
+      "Film je režirao Francis Lawrence, a priča se dešava 24 godine prije prvog filma.",
+      "The film was directed by Francis Lawrence, and the story takes place 24 years before the first film."
+     ],
+     [
+      "Glavni lik je 16-godišnji Haymitch Abernathy, kojeg igra mladi glumac Joseph Zada.",
+      "The main character is 16-year-old Haymitch Abernathy, who is played by young actor Joseph Zada."
+     ],
+     [
+      "Kritičar The Hollywood Reportera napisao je da će ova uloga od Zade napraviti zvijezdu.",
+      "The critic of The Hollywood Reporter wrote that this role will make Zada a star."
+     ],
+     [
+      "Time Out je filmu dao četiri zvjezdice, ali kaže da je predug jer traje dva i po sata.",
+      "Time Out gave the film four stars, but says it is too long because it lasts two and a half hours."
+     ]
+    ],
+    [
+     [
+      "Peter Bradshaw iz Guardiana dao je samo jednu zvjezdicu i napisao da film nema pravi razlog da postoji.",
+      "Peter Bradshaw from the Guardian gave only one star and wrote that the film has no real reason to exist."
+     ],
+     [
+      "Kritičar Varietyja misli da problemi dolaze iz knjige Suzanne Collins.",
+      "Variety's critic thinks the problems come from Suzanne Collins's book."
+     ],
+     [
+      "U filmu se vraćaju Jennifer Lawrence, Josh Hutcherson i Woody Harrelson, a predsjednika Snowa igra Ralph Fiennes.",
+      "Jennifer Lawrence, Josh Hutcherson and Woody Harrelson return in the film, and President Snow is played by Ralph Fiennes."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "kritičar",
+     "critic"
+    ],
+    [
+     "kritika",
+     "review"
+    ],
+    [
+     "podijeliti",
+     "to divide"
+    ],
+    [
+     "režirati",
+     "to direct"
+    ],
+    [
+     "glumac",
+     "actor"
+    ],
+    [
+     "uloga",
+     "role"
+    ],
+    [
+     "zvjezdica",
+     "star (rating)"
+    ]
+   ]
+  },
   {
    "id": "261118269",
    "source": "Klix.ba",
@@ -4728,832 +5542,6 @@
     [
      "okupljanje",
      "gathering"
-    ]
-   ]
-  },
-  {
-   "id": "261117003",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/el-sayed-trump-je-idiot-ali-vance-je-gori-od-njega-jer-je-zapravo-pametan/261117003",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261117003.jpg",
-   "published": "2026-11-17T06:30:00+01:00",
-   "title": [
-    "Novi senator El-Sayed oštro kritikovao Trumpa i Vancea",
-    "New senator El-Sayed sharply criticises Trump and Vance"
-   ],
-   "body": [
-    [
-     [
-      "Abdul El-Sayed, novi senator iz Michigana, oštro je kritikovao predsjednika SAD-a Donalda Trumpa.",
-      "Abdul El-Sayed, the new senator from Michigan, sharply criticised US President Donald Trump."
-     ],
-     [
-      "U intervjuu za emisiju novinara Mehdija Hasana nazvao ga je idiotom i narcisom.",
-      "In an interview for journalist Mehdi Hasan's show, he called him an idiot and a narcissist."
-     ],
-     [
-      "Intervju je objavljen 6. novembra, a 16. novembra se snimak proširio društvenim mrežama.",
-      "The interview was published on 6 November, and on 16 November the clip spread on social media."
-     ]
-    ],
-    [
-     [
-      "El-Sayed je rekao da je potpredsjednik JD Vance gori od Trumpa, jer je zapravo pametan.",
-      "El-Sayed said that Vice President JD Vance is worse than Trump, because he is actually smart."
-     ],
-     [
-      "Prema njegovim riječima, Vance hvali Trumpa iako misli da je on budala.",
-      "According to him, Vance praises Trump even though he thinks he is a fool."
-     ],
-     [
-      "On smatra da Vance to radi da bi bio bliže vlasti.",
-      "He believes that Vance does this to be closer to power."
-     ],
-     [
-      "El-Sayed je rekao i da se 2028. godine neće kandidovati za predsjednika.",
-      "El-Sayed also said that he will not run for president in 2028."
-     ]
-    ],
-    [
-     [
-      "El-Sayed je ljekar i epidemiolog, a izbore je dobio 3. novembra.",
-      "El-Sayed is a doctor and epidemiologist, and he won the election on 3 November."
-     ],
-     [
-      "Pobijedio je republikanca Mikea Rogersa i postao prvi musliman u američkom Senatu.",
-      "He defeated Republican Mike Rogers and became the first Muslim in the US Senate."
-     ],
-     [
-      "Dužnost preuzima u januaru 2027. godine, a zakletvu bi mu trebao dati upravo Vance.",
-      "He takes office in January 2027, and it is Vance who is expected to swear him in."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "senator",
-     "senator"
-    ],
-    [
-     "kritikovati",
-     "to criticise"
-    ],
-    [
-     "potpredsjednik",
-     "vice president"
-    ],
-    [
-     "pametan",
-     "smart"
-    ],
-    [
-     "hvaliti",
-     "to praise"
-    ],
-    [
-     "vlast",
-     "power"
-    ],
-    [
-     "ljekar",
-     "doctor"
-    ],
-    [
-     "zakletva",
-     "oath"
-    ]
-   ]
-  },
-  {
-   "id": "261116314",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/u-prijedlogu-budzeta-americkog-senata-pojavila-se-nova-nuklearna-bomba-b94-a-niko-ne-objasnjava-sta-je/261116314",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261116314.jpg",
-   "published": "2026-11-17T06:19:00+01:00",
-   "title": [
-    "U budžetu američkog Senata pojavila se nova nuklearna bomba",
-    "A new nuclear bomb appears in the US Senate budget"
-   ],
-   "body": [
-    [
-     [
-      "U prijedlogu budžeta američkog Senata za 2027. godinu pojavila se nova nuklearna bomba B94.",
-      "A new nuclear bomb, the B94, has appeared in the US Senate's budget proposal for 2027."
-     ],
-     [
-      "Za nju je planirano 77,1 milion dolara, ali niko nije objasnio šta je to oružje.",
-      "77.1 million dollars has been planned for it, but nobody has explained what this weapon is."
-     ],
-     [
-      "To je prva nova oznaka za američku nuklearnu bombu od 1991. godine.",
-      "It is the first new designation for an American nuclear bomb since 1991."
-     ]
-    ],
-    [
-     [
-      "Odbor Senata za budžet objavio je dokument 12. novembra.",
-      "The Senate budget committee published the document on 12 November."
-     ],
-     [
-      "U njemu nema opisa bombe, njene namjene ili plana za razvoj.",
-      "It contains no description of the bomb, its purpose or a development plan."
-     ],
-     [
-      "Stavku je prva primijetila stručnjakinja Eliana Johns iz Federacije američkih naučnika.",
-      "The item was first noticed by expert Eliana Johns from the Federation of American Scientists."
-     ],
-     [
-      "Slovo B znači bombu koja se baca iz aviona, a slovo W bojevu glavu za raketu.",
-      "The letter B means a bomb that is dropped from a plane, and the letter W a warhead for a missile."
-     ]
-    ],
-    [
-     [
-      "Stručnjak Jeffrey Lewis sa Univerziteta Stanford rekao je da B94 liči na projekat NDS-A.",
-      "Expert Jeffrey Lewis from Stanford University said that the B94 looks like the NDS-A project."
-     ],
-     [
-      "Ta bomba bi trebala uništavati ciljeve koji su duboko pod zemljom.",
-      "That bomb would be meant to destroy targets that are deep underground."
-     ],
-     [
-      "Novac još nije odobren, jer prijedlog mora proći Senat i Predstavnički dom.",
-      "The money has not been approved yet, because the proposal must pass the Senate and the House of Representatives."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "budžet",
-     "budget"
-    ],
-    [
-     "prijedlog",
-     "proposal"
-    ],
-    [
-     "nuklearni",
-     "nuclear"
-    ],
-    [
-     "oružje",
-     "weapon"
-    ],
-    [
-     "oznaka",
-     "designation, label"
-    ],
-    [
-     "odbor",
-     "committee"
-    ],
-    [
-     "cilj",
-     "target"
-    ],
-    [
-     "odobriti",
-     "to approve"
-    ]
-   ]
-  },
-  {
-   "id": "261116352",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/film-tv/matt-damon-moj-kolega-ben-affleck-je-bio-odusevljen-ulogom-pattinsona-u-the-odysseyu-fantastican-je/261116352",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261116352.jpg",
-   "published": "2026-11-16T22:51:00+01:00",
-   "title": [
-    "Matt Damon: Ben Affleck oduševljen Pattinsonom u filmu „The Odyssey“",
-    "Matt Damon: Ben Affleck thrilled with Pattinson in \"The Odyssey\""
-   ],
-   "body": [
-    [
-     [
-      "Glumac Matt Damon rekao je da je Ben Affleck oduševljen ulogom Roberta Pattinsona u filmu „The Odyssey“.",
-      "Actor Matt Damon said that Ben Affleck is thrilled with Robert Pattinson's role in the film \"The Odyssey\"."
-     ],
-     [
-      "Film je režirao Christopher Nolan, a Damon igra glavnu ulogu.",
-      "The film was directed by Christopher Nolan, and Damon plays the lead role."
-     ],
-     [
-      "Damon je o tome govorio za magazin People.",
-      "Damon talked about this to People magazine."
-     ]
-    ],
-    [
-     [
-      "Affleck je pogledao film i nakon toga je Damona zvao telefonom oko 45 minuta.",
-      "Affleck watched the film and afterwards called Damon on the phone for about 45 minutes."
-     ],
-     [
-      "Prema Damonovim riječima, oko 20 minuta je pričao samo o Pattinsonu.",
-      "According to Damon, he talked only about Pattinson for about 20 minutes."
-     ],
-     [
-      "Pattinson igra Antinoja, vođu muškaraca koji žele oženiti Penelopu dok Odisej nije kod kuće.",
-      "Pattinson plays Antinous, the leader of the men who want to marry Penelope while Odysseus is away from home."
-     ],
-     [
-      "Damon je rekao da je Pattinson zanimljiv i hrabar glumac i da je fantastičan.",
-      "Damon said that Pattinson is an interesting and fearless actor and that he is fantastic."
-     ]
-    ],
-    [
-     [
-      "Film je nastao prema Homerovom epu i prati Odisejev put kući nakon Trojanskog rata.",
-      "The film is based on Homer's epic and follows Odysseus's journey home after the Trojan War."
-     ],
-     [
-      "U filmu igraju i Anne Hathaway kao Penelopa i Tom Holland kao njihov sin.",
-      "Anne Hathaway as Penelope and Tom Holland as their son also appear in the film."
-     ],
-     [
-      "Pattinson je u ponedjeljak predstavljen kao novi James Bond, a uskoro igra i u filmu „Dune: Part Three“.",
-      "Pattinson was presented as the new James Bond on Monday, and he will soon also appear in \"Dune: Part Three\"."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "glumac",
-     "actor"
-    ],
-    [
-     "uloga",
-     "role"
-    ],
-    [
-     "oduševljen",
-     "thrilled"
-    ],
-    [
-     "režirati",
-     "to direct"
-    ],
-    [
-     "vođa",
-     "leader"
-    ],
-    [
-     "hrabar",
-     "brave, fearless"
-    ],
-    [
-     "ep",
-     "epic (poem)"
-    ],
-    [
-     "rat",
-     "war"
-    ]
-   ]
-  },
-  {
-   "id": "261116300",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/zmajevi-u-odlicnom-raspolozenju-odradili-posljednji-trening-pred-rumuniju/261116300",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261116300.jpg",
-   "published": "2026-11-16T18:35:00+01:00",
-   "title": [
-    "Zmajevi odradili posljednji trening pred utakmicu s Rumunijom",
-    "The Dragons hold their last training session before the match with Romania"
-   ],
-   "body": [
-    [
-     [
-      "Reprezentacija BiH u ponedjeljak je imala posljednji trening pred utakmicu s Rumunijom.",
-      "The BiH national team had its last training session on Monday before the match with Romania."
-     ],
-     [
-      "Trening je bio na stadionu Asim Ferhatović Hase u Sarajevu, a atmosfera je bila odlična.",
-      "The training was at the Asim Ferhatović Hase stadium in Sarajevo, and the atmosphere was excellent."
-     ],
-     [
-      "Utakmica Lige nacija igra se u utorak u 20:45 na Bilinom polju u Zenici.",
-      "The Nations League match is played on Tuesday at 20:45 at Bilino polje in Zenica."
-     ]
-    ],
-    [
-     [
-      "BiH je već osigurala drugo mjesto u grupi i igrat će baraž za Ligu A.",
-      "BiH has already secured second place in the group and will play a play-off for League A."
-     ],
-     [
-      "Napadač Haris Tabaković neće igrati, jer ima povredu meniskusa i ove sedmice ide na operaciju.",
-      "Striker Haris Tabaković will not play, because he has a meniscus injury and is having surgery this week."
-     ],
-     [
-      "Selektor Sergej Barbarez očekuje da se vrati u martu.",
-      "Head coach Sergej Barbarez expects him to return in March."
-     ],
-     [
-      "Tarik Muharemović i Jovo Lukić ponovo su spremni za igru.",
-      "Tarik Muharemović and Jovo Lukić are ready to play again."
-     ]
-    ],
-    [
-     [
-      "Osam igrača ima po jedan žuti karton manje do suspenzije, ali Barbarez kaže da to neće utjecati na tim.",
-      "Eight players are each one yellow card away from a suspension, but Barbarez says this will not affect the team."
-     ],
-     [
-      "Rumunija je izgubila prve četiri utakmice, a u subotu je pobijedila Poljsku sa 2:1.",
-      "Romania lost its first four matches, and on Saturday it beat Poland 2:1."
-     ],
-     [
-      "BiH je pobijedila Rumuniju u posljednja tri susreta, a utakmicu će prenositi BHT i MY TV.",
-      "BiH beat Romania in the last three meetings, and the match will be broadcast by BHT and MY TV."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "trening",
-     "training session"
-    ],
-    [
-     "utakmica",
-     "match"
-    ],
-    [
-     "reprezentacija",
-     "national team"
-    ],
-    [
-     "povreda",
-     "injury"
-    ],
-    [
-     "operacija",
-     "surgery"
-    ],
-    [
-     "žuti karton",
-     "yellow card"
-    ],
-    [
-     "pobijediti",
-     "to win, to beat"
-    ]
-   ]
-  },
-  {
-   "id": "261116284",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/le-pen-porucila-ukrajinskom-ambasadoru-ako-pobijedim-nema-vise-novca-za-kijev/261116284",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261116284.jpg",
-   "published": "2026-11-16T18:25:00+01:00",
-   "title": [
-    "Le Pen: Ako pobijedim, Francuska neće davati novac Kijevu",
-    "Le Pen: If I win, France will not give money to Kyiv"
-   ],
-   "body": [
-    [
-     [
-      "Marine Le Pen u ponedjeljak se u Parizu sastala s ambasadorom Ukrajine u Francuskoj.",
-      "Marine Le Pen met Ukraine's ambassador to France in Paris on Monday."
-     ],
-     [
-      "Rekla mu je da Francuska neće moći davati novac Ukrajini ako ona pobijedi na izborima.",
-      "She told him that France will not be able to give money to Ukraine if she wins the election."
-     ],
-     [
-      "Le Pen je kandidatkinja stranke Nacionalno okupljanje za predsjednicu Francuske.",
-      "Le Pen is the National Rally party's candidate for president of France."
-     ]
-    ],
-    [
-     [
-      "Prema njenim riječima, francuske javne finansije to više ne bi dozvolile.",
-      "According to her words, French public finances would no longer allow it."
-     ],
-     [
-      "Ipak, Francuska bi poštovala stare obaveze, kao što je kredit EU od 90 milijardi eura za Ukrajinu.",
-      "Still, France would respect old commitments, such as the EU loan of 90 billion euros for Ukraine."
-     ],
-     [
-      "Taj kredit treba pokriti potrebe Ukrajine za 2026. i 2027. godinu.",
-      "That loan is meant to cover Ukraine's needs for 2026 and 2027."
-     ],
-     [
-      "Le Pen procjenjuje da Francuska godišnje daje Ukrajini oko 6 milijardi eura.",
-      "Le Pen estimates that France gives Ukraine about 6 billion euros a year."
-     ]
-    ],
-    [
-     [
-      "Rekla je da bi materijalna i humanitarna pomoć ipak ostala.",
-      "She said that material and humanitarian aid would still remain."
-     ],
-     [
-      "Predsjednik Emmanuel Macron u subotu je kritikovao one koji žele smanjiti pomoć Ukrajini.",
-      "President Emmanuel Macron on Saturday criticised those who want to reduce aid to Ukraine."
-     ],
-     [
-      "Le Pen vodi u anketama pred predsjedničke izbore, koji će biti na proljeće 2027. godine.",
-      "Le Pen leads in polls ahead of the presidential election, which will be in spring 2027."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "ambasador",
-     "ambassador"
-    ],
-    [
-     "pobijediti",
-     "to win"
-    ],
-    [
-     "pomoć",
-     "aid, help"
-    ],
-    [
-     "kredit",
-     "loan"
-    ],
-    [
-     "obaveza",
-     "commitment, obligation"
-    ],
-    [
-     "anketa",
-     "poll, survey"
-    ],
-    [
-     "finansije",
-     "finances"
-    ]
-   ]
-  },
-  {
-   "id": "261116295",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/dodik-o-formiranju-vlasti-na-drzavnom-nivou-nema-zurbe-ne-pristajemo-na-rjesenja-koja-su-na-stetu-rs-a/261116295",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261116295.jpg",
-   "published": "2026-11-16T18:15:00+01:00",
-   "title": [
-    "Dodik: Nema žurbe s formiranjem vlasti na državnom nivou",
-    "Dodik: No hurry with forming the government at state level"
-   ],
-   "body": [
-    [
-     [
-      "Predsjednik SNSD-a Milorad Dodik u ponedjeljak je govorio o formiranju vlasti na nivou BiH.",
-      "SNSD president Milorad Dodik spoke on Monday about forming the government at the BiH level."
-     ],
-     [
-      "Oglasio se nakon konstituirajuće sjednice Narodne skupštine Republike Srpske.",
-      "He spoke up after the constituent session of the National Assembly of Republika Srpska."
-     ],
-     [
-      "Na društvenim mrežama napisao je da nema žurbe ni bilo kakvih pritisaka.",
-      "On social media he wrote that there is no hurry and no pressure of any kind."
-     ]
-    ],
-    [
-     [
-      "Dodik je rekao da RS neće prihvatiti rješenja koja su na njenu štetu.",
-      "Dodik said that RS will not accept solutions that are to its detriment."
-     ],
-     [
-      "SNSD i partneri će, kako je naveo, štititi interese RS-a u svim budućim procesima.",
-      "SNSD and its partners will, as he stated, protect the interests of RS in all future processes."
-     ],
-     [
-      "On traži da se preispitaju sve ranije odluke visokog predstavnika.",
-      "He wants all earlier decisions of the High Representative to be reviewed."
-     ],
-     [
-      "Također traži da se ponište odluke koje je nametnuo Christian Schmidt, jer smatra da on nema legitimitet.",
-      "He also wants the decisions imposed by Christian Schmidt to be annulled, because he believes Schmidt has no legitimacy."
-     ]
-    ],
-    [
-     [
-      "Dodik želi i novu platformu za buduće odnose u BiH.",
-      "Dodik also wants a new platform for future relations in BiH."
-     ],
-     [
-      "Rekao je da SNSD neće zloupotrijebiti svoju političku snagu na državnom nivou.",
-      "He said that SNSD will not misuse its political strength at the state level."
-     ],
-     [
-      "Prema njegovim riječima, tu snagu će koristiti samo da ojača ustavni položaj RS-a.",
-      "According to his words, it will use that strength only to strengthen the constitutional position of RS."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "vlast",
-     "government, authority"
-    ],
-    [
-     "žurba",
-     "hurry"
-    ],
-    [
-     "pritisak",
-     "pressure"
-    ],
-    [
-     "šteta",
-     "damage, detriment"
-    ],
-    [
-     "odluka",
-     "decision"
-    ],
-    [
-     "poništiti",
-     "to annul"
-    ],
-    [
-     "položaj",
-     "position"
-    ]
-   ]
-  },
-  {
-   "id": "261116282",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/lifestyle/putovanja/carobni-prizori-iz-pekinga-snijeg-prekrio-kineski-zid-brojni-posjetioci-stigli-na-badaling/261116282",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261116282.jpg",
-   "published": "2026-11-16T18:10:00+01:00",
-   "title": [
-    "Snijeg prekrio Kineski zid kod Pekinga",
-    "Snow covers the Great Wall of China near Beijing"
-   ],
-   "body": [
-    [
-     [
-      "Snijeg je u ponedjeljak ujutro prekrio dio Kineskog zida koji se zove Badaling.",
-      "On Monday morning snow covered the part of the Great Wall of China called Badaling."
-     ],
-     [
-      "Badaling je oko 60 kilometara sjeverozapadno od centra Pekinga.",
-      "Badaling is about 60 kilometres north-west of the centre of Beijing."
-     ],
-     [
-      "Ovo je drugi snijeg na tom dijelu zida ove jeseni, a stiglo je mnogo posjetilaca.",
-      "This is the second snow on that part of the wall this autumn, and many visitors came."
-     ]
-    ],
-    [
-     [
-      "Ljudi su fotografisali zid i šetali po snijegu, a neki su ga gledali iz žičare.",
-      "People photographed the wall and walked in the snow, and some watched it from the cable car."
-     ],
-     [
-      "Kompanija koja upravlja lokacijom tokom noći je očistila snijeg i led.",
-      "The company that manages the site cleared the snow and ice during the night."
-     ],
-     [
-      "Na strme dijelove radnici su stavili vreće s pijeskom i užad za sigurnost.",
-      "On the steep parts workers put sandbags and safety ropes."
-     ],
-     [
-      "Agencija Xinhua već je 8. novembra objavila fotografije snijega na ovom dijelu zida.",
-      "The Xinhua agency had already published photos of snow on this part of the wall on 8 November."
-     ]
-    ],
-    [
-     [
-      "Badaling je najbolje očuvan dio zida iz vremena dinastije Ming.",
-      "Badaling is the best-preserved part of the wall from the time of the Ming dynasty."
-     ],
-     [
-      "Za posjetioce je otvoren 1958. godine, a danas je otvoreno 3.741 metar zida.",
-      "It was opened to visitors in 1958, and today 3,741 metres of the wall are open."
-     ],
-     [
-      "Zid je od 1987. godine na UNESCO-voj listi svjetske baštine.",
-      "Since 1987 the wall has been on UNESCO's World Heritage list."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "snijeg",
-     "snow"
-    ],
-    [
-     "zid",
-     "wall"
-    ],
-    [
-     "posjetilac",
-     "visitor"
-    ],
-    [
-     "žičara",
-     "cable car"
-    ],
-    [
-     "led",
-     "ice"
-    ],
-    [
-     "strm",
-     "steep"
-    ],
-    [
-     "baština",
-     "heritage"
-    ]
-   ]
-  },
-  {
-   "id": "261116286",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/simulacija-zrijeba-engleska-i-sjeverna-makedonija-najvjerovatniji-rivali-bih-za-euro-2028/261116286",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261116286.jpg",
-   "published": "2026-11-16T17:55:00+01:00",
-   "title": [
-    "Engleska i Sjeverna Makedonija najvjerovatniji rivali BiH za Euro 2028",
-    "England and North Macedonia the most likely BiH rivals for Euro 2028"
-   ],
-   "body": [
-    [
-     [
-      "Statistički portal Football Meets Data napravio je simulaciju žrijeba za kvalifikacije za Euro 2028.",
-      "The statistics portal Football Meets Data made a simulation of the draw for the Euro 2028 qualifiers."
-     ],
-     [
-      "Prema rezultatima, Engleska i Sjeverna Makedonija su najvjerovatniji rivali BiH.",
-      "According to the results, England and North Macedonia are the most likely rivals of BiH."
-     ],
-     [
-      "Pravi žrijeb bit će 6. decembra u Belfastu.",
-      "The real draw will be on 6 December in Belfast."
-     ]
-    ],
-    [
-     [
-      "Portal je napravio 50.000 simulacija, jer konačan sastav šešira još nije poznat.",
-      "The portal ran 50,000 simulations, because the final make-up of the pots is not yet known."
-     ],
-     [
-      "BiH je u drugom šeširu, a iz prvog šešira Engleska ima 18 posto šanse.",
-      "BiH is in the second pot, and from the first pot England has an 18 percent chance."
-     ],
-     [
-      "Slijede Italija sa 14 i Španija sa 10 posto.",
-      "Italy follows with 14 and Spain with 10 percent."
-     ],
-     [
-      "Iz trećeg šešira Sjeverna Makedonija ima 14 posto, a Rumunija i Izrael po 13 posto.",
-      "From the third pot North Macedonia has 14 percent, and Romania and Israel 13 percent each."
-     ],
-     [
-      "BiH ima 77 posto šanse da bude u grupi s četiri ekipe.",
-      "BiH has a 77 percent chance of being in a group with four teams."
-     ]
-    ],
-    [
-     [
-      "Najvjerovatniji rivali su ekipe koje u martu 2027. igraju utakmice Lige nacija.",
-      "The most likely rivals are teams that play Nations League matches in March 2027."
-     ],
-     [
-      "Bit će 12 grupa sa četiri ili pet ekipa.",
-      "There will be 12 groups with four or five teams."
-     ],
-     [
-      "Kvalifikacije će trajati do novembra 2027. godine.",
-      "The qualifiers will last until November 2027."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "žrijeb",
-     "draw"
-    ],
-    [
-     "kvalifikacije",
-     "qualifiers"
-    ],
-    [
-     "rival",
-     "rival"
-    ],
-    [
-     "šešir",
-     "pot (in a draw), hat"
-    ],
-    [
-     "šansa",
-     "chance"
-    ],
-    [
-     "ekipa",
-     "team"
-    ],
-    [
-     "simulacija",
-     "simulation"
-    ]
-   ]
-  },
-  {
-   "id": "261116281",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/regija/zestoka-reakcija-vjose-osmani-na-izvinjenje-iz-brisela-zbog-srpske-pjesme-o-kosovu-zaljenje-nije-dovoljno/261116281",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261116281.jpg",
-   "published": "2026-11-16T17:40:00+01:00",
-   "title": [
-    "Osmani: Žaljenje Brisela zbog srpske pjesme nije dovoljno",
-    "Osmani: Brussels' regret over the Serbian song is not enough"
-   ],
-   "body": [
-    [
-     [
-      "Bivša predsjednica Kosova Vjosa Osmani kritikovala je Evropsku komisiju zbog jedne pjesme.",
-      "Former Kosovo president Vjosa Osmani criticised the European Commission because of a song."
-     ],
-     [
-      "Na otvaranju Foruma o proširenju EU u nedjelju navečer svirala se srpska pjesma \"Sa Kosova zora sviće\".",
-      "At the opening of the EU Enlargement Forum on Sunday evening the Serbian song \"Sa Kosova zora sviće\" was played."
-     ],
-     [
-      "Pjesma je izvedena bez riječi, ali mnogi na Kosovu smatraju da negira suverenitet Kosova.",
-      "The song was performed without words, but many in Kosovo believe it denies Kosovo's sovereignty."
-     ]
-    ],
-    [
-     [
-      "Evropska komesarka Marta Kos u ponedjeljak je rekla da žali zbog izbora pjesme.",
-      "European Commissioner Marta Kos said on Monday that she regrets the choice of song."
-     ],
-     [
-      "Dodala je da pjesma nikako ne pokazuje stavove Evropske komisije.",
-      "She added that the song in no way reflects the views of the European Commission."
-     ],
-     [
-      "Osmani je na mreži X napisala da to žaljenje nije dovoljno.",
-      "Osmani wrote on the network X that this regret is not enough."
-     ],
-     [
-      "Pitala je ko je izabrao pjesmu, ko ju je odobrio i ko je odgovoran.",
-      "She asked who chose the song, who approved it and who is responsible."
-     ]
-    ],
-    [
-     [
-      "I drugi političari s Kosova rekli su da je izvedba skandalozna i neprihvatljiva.",
-      "Other politicians from Kosovo also said the performance was scandalous and unacceptable."
-     ],
-     [
-      "Pjesmu je napisao Ljubomir Manasijević 1989. godine, za 600 godina od Kosovske bitke.",
-      "The song was written by Ljubomir Manasijević in 1989, for 600 years since the Battle of Kosovo."
-     ],
-     [
-      "Postala je popularnija nakon 2008. godine, kada je Kosovo proglasilo nezavisnost.",
-      "It became more popular after 2008, when Kosovo declared independence."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "žaljenje",
-     "regret"
-    ],
-    [
-     "pjesma",
-     "song"
-    ],
-    [
-     "proširenje",
-     "enlargement"
-    ],
-    [
-     "suverenitet",
-     "sovereignty"
-    ],
-    [
-     "odgovoran",
-     "responsible"
-    ],
-    [
-     "nezavisnost",
-     "independence"
-    ],
-    [
-     "bitka",
-     "battle"
     ]
    ]
   }
