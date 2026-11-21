@@ -1,18 +1,660 @@
 {
- "updated": "2026-11-21T07:50:00+01:00",
+ "updated": "2026-11-21T13:50:00+01:00",
  "front": [
-  "261120214",
-  "261121004",
-  "261121005",
-  "261120340",
-  "261121011",
-  "261121007",
+  "261121062",
+  "261121058",
+  "261121059",
+  "261121073",
+  "261121044",
+  "261121067",
   "261120007",
-  "261120347",
+  "261121060",
   "261121008",
   "261120304"
  ],
  "articles": [
+  {
+   "id": "261121073",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/crna-hronika/goran-hubijar-priznao-da-je-napao-zupnika-u-brckom-sud-mu-odredio-jednomjesecni-pritvor/261121073",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261121073.jpg",
+   "published": "2026-11-21T13:11:00+01:00",
+   "title": [
+    "Muškarac priznao napad na župnika kod Brčkog, ide u pritvor",
+    "Man confessed to attack on parish priest near Brčko, goes into custody"
+   ],
+   "body": [
+    [
+     [
+      "Goran Hubijar (52) priznao je da je napao katoličkog svećenika Don Filipa Maršića kod Brčkog.",
+      "Goran Hubijar (52) confessed that he attacked Catholic priest Don Filip Maršić near Brčko."
+     ],
+     [
+      "Osnovni sud Brčko distrikta odredio mu je jednomjesečni pritvor, kako je predložilo tužilaštvo.",
+      "The Basic Court of Brčko District ordered one month of custody for him, as the prosecution proposed."
+     ],
+     [
+      "Sumnjiči se za teži oblik razbojništva, odnosno krađe uz upotrebu sile.",
+      "He is suspected of a more serious form of robbery, that is theft with the use of force."
+     ]
+    ],
+    [
+     [
+      "Napad se dogodio 17. novembra navečer, kod katoličke crkve i župne kuće u Boću.",
+      "The attack happened on the evening of 17 November, near the Catholic church and parish house in Boće."
+     ],
+     [
+      "Napadač je imao masku i tražio je novac, a zatim je svećenika teško povrijedio nožem.",
+      "The attacker wore a mask and demanded money, and then seriously injured the priest with a knife."
+     ],
+     [
+      "Svećenik je liječen u Zdravstvenom centru Brčko.",
+      "The priest was treated at the Brčko Health Centre."
+     ],
+     [
+      "Policija je Hubijara pronašla i uhapsila za manje od 48 sati.",
+      "The police found and arrested Hubijar in less than 48 hours."
+     ]
+    ],
+    [
+     [
+      "Hubijar je napad priznao kod policije, u prisustvu svog advokata.",
+      "Hubijar confessed to the attack at the police, in the presence of his lawyer."
+     ],
+     [
+      "U prostorijama koje je koristio pronađeni su predmeti i odjeća koji su povezani s napadom.",
+      "In the rooms he used, items and clothes connected to the attack were found."
+     ],
+     [
+      "Sud je rekao da postoji opasnost da pobjegne ili da ponovi djelo.",
+      "The court said there is a danger that he might flee or repeat the offence."
+     ],
+     [
+      "Tužilaštvo i policija nastavit će istragu.",
+      "The prosecution and police will continue the investigation."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "priznati",
+     "to confess, admit"
+    ],
+    [
+     "svećenik",
+     "priest"
+    ],
+    [
+     "pritvor",
+     "custody"
+    ],
+    [
+     "razbojništvo",
+     "robbery"
+    ],
+    [
+     "uhapsiti",
+     "to arrest"
+    ],
+    [
+     "advokat",
+     "lawyer"
+    ],
+    [
+     "istraga",
+     "investigation"
+    ]
+   ]
+  },
+  {
+   "id": "261121067",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/lifestyle/putovanja/blago-na-uni-koje-krije-pricu-o-historiji-arheoloski-lokalitet-ripac-cuva-ostatke-sojenica-i-naslijede-japoda/261121067",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261121067.jpg",
+   "published": "2026-11-21T13:03:00+01:00",
+   "title": [
+    "Ripač na Uni čuva ostatke drevnih kuća na vodi",
+    "Ripač on the Una preserves the remains of ancient houses on water"
+   ],
+   "body": [
+    [
+     [
+      "Ripač je mjesto na rijeci Uni, nekoliko kilometara jugoistočno od Bihaća.",
+      "Ripač is a place on the Una river, a few kilometres southeast of Bihać."
+     ],
+     [
+      "Ljudi tu žive bez prekida već nekoliko hiljada godina.",
+      "People have lived there without a break for several thousand years."
+     ],
+     [
+      "Na lokalitetu Gradina nalaze se ostaci prahistorijskog naselja sojenica, jednog od najpoznatijih u BiH.",
+      "At the Gradina site there are remains of a prehistoric settlement of pile dwellings, one of the best known in BiH."
+     ]
+    ],
+    [
+     [
+      "Sojenice su kuće koje su građene iznad vode, na drvenim stubovima.",
+      "Pile dwellings are houses that were built above water, on wooden posts."
+     ],
+     [
+      "Arheolozi su u koritu Une pronašli više od 2.500 hrastovih stubova.",
+      "Archaeologists found more than 2,500 oak posts in the bed of the Una."
+     ],
+     [
+      "Kuće su bile velike oko 12 puta 6 metara.",
+      "The houses were about 12 by 6 metres in size."
+     ],
+     [
+      "Naselje je povezano s Japodima, ilirskim narodom koji je živio u zapadnoj Bosni.",
+      "The settlement is connected to the Japodes, an Illyrian people who lived in western Bosnia."
+     ],
+     [
+      "Neki predmeti, kao figure od gline, čuvaju se u muzejima u Sarajevu i Bihaću.",
+      "Some objects, such as clay figures, are kept in museums in Sarajevo and Bihać."
+     ]
+    ],
+    [
+     [
+      "Nijaz Lipovača iz Bihaća smatra da bi ovo naslijeđe trebalo bolje predstaviti turistima.",
+      "Nijaz Lipovača from Bihać believes that this heritage should be better presented to tourists."
+     ],
+     [
+      "Predlaže da se sojenice obnove, kako bi posjetioci vidjeli kako su ljudi nekada živjeli.",
+      "He proposes that the pile dwellings be rebuilt, so visitors could see how people once lived."
+     ],
+     [
+      "Za to su ipak prvo potrebna stručna istraživanja i saradnja institucija, arheologa i Grada Bihaća.",
+      "For that, however, expert research and cooperation of institutions, archaeologists and the City of Bihać are needed first."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "ostatak",
+     "remains"
+    ],
+    [
+     "naselje",
+     "settlement"
+    ],
+    [
+     "stub",
+     "post, pillar"
+    ],
+    [
+     "arheolog",
+     "archaeologist"
+    ],
+    [
+     "naslijeđe",
+     "heritage"
+    ],
+    [
+     "glina",
+     "clay"
+    ],
+    [
+     "obnoviti",
+     "to rebuild, restore"
+    ]
+   ]
+  },
+  {
+   "id": "261121044",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/mehmedovic-dodik-direktno-udara-na-ustavni-poredak-a-stranke-iz-sarajeva-zabijaju-glavu-u-pijesak/261121044",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261121044.jpg",
+   "published": "2026-11-21T12:59:00+01:00",
+   "title": [
+    "Mehmedović kritikovao Dodika i stranke iz Sarajeva",
+    "Mehmedović criticised Dodik and the parties from Sarajevo"
+   ],
+   "body": [
+    [
+     [
+      "Poslanik u Predstavničkom domu Parlamentarne skupštine BiH Šemsudin Mehmedović reagovao je u subotu na izjave Milorada Dodika.",
+      "Member of the House of Representatives of the Parliamentary Assembly of BiH Šemsudin Mehmedović reacted on Saturday to statements by Milorad Dodik."
+     ],
+     [
+      "Dodik je odbacio odluke Ustavnog suda BiH nakon što je sud odlučio o zastavama Armije RBiH.",
+      "Dodik rejected decisions of the Constitutional Court of BiH after the court ruled on the flags of the Army of RBiH."
+     ],
+     [
+      "Mehmedović kaže da je to direktan napad na ustavni poredak, mir i državu.",
+      "Mehmedović says that this is a direct attack on the constitutional order, peace and the state."
+     ]
+    ],
+    [
+     [
+      "Prema njegovim riječima, Dodik otvoreno napada sud i najavljuje kraj Dejtonskog sporazuma.",
+      "According to him, Dodik openly attacks the court and announces the end of the Dayton Agreement."
+     ],
+     [
+      "Razlog je odluka suda da se ukine zabrana simbola Armije RBiH.",
+      "The reason is the court's decision to lift the ban on symbols of the Army of RBiH."
+     ],
+     [
+      "Mehmedović je kritikovao i stranke iz Sarajeva.",
+      "Mehmedović also criticised the parties from Sarajevo."
+     ],
+     [
+      "Rekao je da one godinama ne žele vidjeti šta Dodik planira, jer su im važnije ministarske fotelje.",
+      "He said that for years they have not wanted to see what Dodik is planning, because ministerial posts are more important to them."
+     ]
+    ],
+    [
+     [
+      "On misli da će mnogi i sada šutjeti, jer žele s Dodikom dogovarati podjelu funkcija.",
+      "He thinks that many will stay silent now too, because they want to agree with Dodik on dividing posts."
+     ],
+     [
+      "Mehmedović je rekao da je Ustavni sud posljednja linija odbrane ustavnog poretka i mira.",
+      "Mehmedović said that the Constitutional Court is the last line of defence of the constitutional order and peace."
+     ],
+     [
+      "Upozorio je da oni koji sada šute kasnije neće imati šta braniti.",
+      "He warned that those who stay silent now will later have nothing to defend."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "poslanik",
+     "member of parliament"
+    ],
+    [
+     "izjava",
+     "statement"
+    ],
+    [
+     "odbaciti",
+     "to reject"
+    ],
+    [
+     "poredak",
+     "order (system)"
+    ],
+    [
+     "stranka",
+     "political party"
+    ],
+    [
+     "šutjeti",
+     "to be silent"
+    ],
+    [
+     "odbrana",
+     "defence"
+    ]
+   ]
+  },
+  {
+   "id": "261121062",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/minic-najavio-da-nece-biti-pregovora-o-formiranju-vlasti-u-bih-dok-se-ne-rijese-drzavna-imovina-i-ohr/261121062",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261121062.jpg",
+   "published": "2026-11-21T12:35:00+01:00",
+   "title": [
+    "Minić: Nema razgovora o vlasti u BiH dok se ne riješe tri pitanja",
+    "Minić: No talks on government in BiH until three issues are resolved"
+   ],
+   "body": [
+    [
+     [
+      "Predsjednik Republike Srpske Savo Minić rekao je u subotu da na nivou BiH više neće biti razgovora.",
+      "Republika Srpska President Savo Minić said on Saturday that there will be no more talks at the level of BiH."
+     ],
+     [
+      "Prema njegovim riječima, RS neće pregovarati o formiranju vlasti i institucija dok se ne riješe tri pitanja.",
+      "According to him, RS will not negotiate on forming the government and institutions until three issues are resolved."
+     ],
+     [
+      "To su državna imovina, Ustavni sud BiH i Ured visokog predstavnika, odnosno OHR.",
+      "These are state property, the Constitutional Court of BiH and the Office of the High Representative, that is the OHR."
+     ]
+    ],
+    [
+     [
+      "Minić je ljut zbog dvije nove odluke Ustavnog suda BiH.",
+      "Minić is angry about two new decisions of the Constitutional Court of BiH."
+     ],
+     [
+      "Sud je odlučio da zabrana simbola Armije RBiH u RS-u nije u skladu s Ustavom.",
+      "The court decided that the ban on symbols of the Army of RBiH in RS is not in line with the Constitution."
+     ],
+     [
+      "Također je poništio veto Željke Cvijanović na odluku Predsjedništva od 29. juna.",
+      "It also annulled Željka Cvijanović's veto on a Presidency decision of 29 June."
+     ],
+     [
+      "Tom odlukom imenovana su 4 člana Komisije za očuvanje nacionalnih spomenika, a ona i dalje važi.",
+      "That decision appointed 4 members of the Commission for the Preservation of National Monuments, and it remains in force."
+     ]
+    ],
+    [
+     [
+      "Minić je rekao da je RS pokazala svoj politički i institucionalni kapacitet.",
+      "Minić said that RS has shown its political and institutional capacity."
+     ],
+     [
+      "Dodao je da je Dejtonski sporazum obavezan, ali da je, prema njegovom mišljenju, potpuno oslabljen.",
+      "He added that the Dayton Agreement is binding, but that, in his opinion, it has been completely weakened."
+     ],
+     [
+      "Sada je za RS najvažnije da brani svoje entitetske institucije, rekao je Minić.",
+      "Now the most important thing for RS is to defend its entity institutions, Minić said."
+     ],
+     [
+      "Upozorio je da bi RS mogla imati ozbiljne probleme ako ne zaštiti imovinu i svoje nadležnosti.",
+      "He warned that RS could have serious problems if it does not protect property and its powers."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "pregovor",
+     "negotiation"
+    ],
+    [
+     "vlast",
+     "government, authority"
+    ],
+    [
+     "imovina",
+     "property"
+    ],
+    [
+     "odluka",
+     "decision"
+    ],
+    [
+     "poništiti",
+     "to annul"
+    ],
+    [
+     "nadležnost",
+     "competence, power"
+    ],
+    [
+     "upozoriti",
+     "to warn"
+    ]
+   ]
+  },
+  {
+   "id": "261121059",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/suljagic-nakon-presude-mijanmaru-sud-u-hagu-ne-bi-dosudio-u-korist-bih-ni-da-su-nas-sve-pobili/261121059",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261121059.jpg",
+   "published": "2026-11-21T12:29:00+01:00",
+   "title": [
+    "Suljagić oštro kritikovao sud u Hagu nakon presude Mijanmaru",
+    "Suljagić sharply criticised the court in The Hague after the Myanmar verdict"
+   ],
+   "body": [
+    [
+     [
+      "Direktor Memorijalnog centra Srebrenica Emir Suljagić kritikovao je u subotu Međunarodni sud pravde u Hagu.",
+      "The director of the Srebrenica Memorial Center Emir Suljagić criticised the International Court of Justice in The Hague on Saturday."
+     ],
+     [
+      "Reagovao je na presudu od 19. novembra, kada je sud utvrdio da je Mijanmar počinio genocid nad Rohingyama.",
+      "He reacted to the verdict of 19 November, when the court found that Myanmar committed genocide against the Rohingya."
+     ],
+     [
+      "Prema pisanju medija, to je prvi put da je sud jednu državu proglasio odgovornom za genocid.",
+      "According to media reports, it is the first time the court has declared a state responsible for genocide."
+     ]
+    ],
+    [
+     [
+      "Tužbu je podnijela Gambija, a sudije su odlučile sa 9 glasova za i 6 protiv.",
+      "The case was filed by Gambia, and the judges decided with 9 votes for and 6 against."
+     ],
+     [
+      "Suljagić je napisao da sud ne bi presudio u korist BiH protiv Srbije ni da su ubijeni svi Bošnjaci.",
+      "Suljagić wrote that the court would not have ruled in favour of BiH against Serbia even if all Bosniaks had been killed."
+     ],
+     [
+      "Smatra da je genocid, prema tom sudu, rezervisan za narode u Aziji i Africi.",
+      "He believes that genocide, according to that court, is reserved for peoples in Asia and Africa."
+     ],
+     [
+      "Dodao je da je Srebrenica priznata kao genocid samo zato što je dokaza bilo jako mnogo.",
+      "He added that Srebrenica was recognised as genocide only because there was a great deal of evidence."
+     ]
+    ],
+    [
+     [
+      "BiH je tužbu protiv Srbije podnijela 1993. godine.",
+      "BiH filed the lawsuit against Serbia in 1993."
+     ],
+     [
+      "Sud je 2007. godine presudio da je u Srebrenici u julu 1995. počinjen genocid nad Bošnjacima.",
+      "In 2007 the court ruled that genocide against Bosniaks was committed in Srebrenica in July 1995."
+     ],
+     [
+      "Ipak, Srbija nije proglašena odgovornom, ali sud je rekao da nije spriječila genocid i kaznila počinioce.",
+      "However, Serbia was not declared responsible, but the court said it did not prevent the genocide and punish the perpetrators."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "presuda",
+     "verdict"
+    ],
+    [
+     "sud",
+     "court"
+    ],
+    [
+     "tužba",
+     "lawsuit"
+    ],
+    [
+     "genocid",
+     "genocide"
+    ],
+    [
+     "dokaz",
+     "evidence, proof"
+    ],
+    [
+     "odgovoran",
+     "responsible"
+    ],
+    [
+     "spriječiti",
+     "to prevent"
+    ]
+   ]
+  },
+  {
+   "id": "261121060",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/kultura/kako-izgledaju-malisani-kao-kustosi-sarajevskih-muzeja-posjetiocima-na-tri-lokacije-predstavljaju-postavke/261121060",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261121060.jpg",
+   "published": "2026-11-21T12:28:00+01:00",
+   "title": [
+    "Djeca kao vodiči u Muzeju Sarajeva prvi put u BiH",
+    "Children as guides at the Museum of Sarajevo for the first time in BiH"
+   ],
+   "body": [
+    [
+     [
+      "Povodom Svjetskog dana djece, Muzej Sarajeva pokrenuo je program „Djeca preuzimaju muzej“.",
+      "On the occasion of World Children's Day, the Museum of Sarajevo launched the programme \"Children take over the museum\"."
+     ],
+     [
+      "Djeca od 10 do 13 godina posjetiocima predstavljaju stalne postavke muzeja na tri lokacije.",
+      "Children aged 10 to 13 present the museum's permanent exhibitions to visitors at three locations."
+     ],
+     [
+      "Iz muzeja kažu da se ovakav program u BiH održava prvi put.",
+      "The museum says that a programme like this is being held in BiH for the first time."
+     ]
+    ],
+    [
+     [
+      "Mališani rade kao vodiči, edukatori i saradnici za odnose s javnošću, uz pomoć muzejskog tima.",
+      "The children work as guides, educators and public relations associates, with the help of the museum team."
+     ],
+     [
+      "Mogu se posjetiti Brusa bezistan, Despića kuća i Muzej Sarajevo 1878–1918.",
+      "Brusa bezistan, the Despić house and the Museum Sarajevo 1878–1918 can be visited."
+     ],
+     [
+      "Bilo je 20 mjesta, a djeca su podijeljena u dvije grupe po 10.",
+      "There were 20 places, and the children were divided into two groups of 10."
+     ],
+     [
+      "Program je besplatan za posjetioce.",
+      "The programme is free for visitors."
+     ]
+    ],
+    [
+     [
+      "Od 9. do 13. novembra djeca su imala kratak „razgovor za posao“ i upoznala tim muzeja.",
+      "From 9 to 13 November the children had a short \"job interview\" and met the museum team."
+     ],
+     [
+      "Sedmicu prije programa mogla su gledati kako zaposleni rade s posjetiocima.",
+      "The week before the programme they could watch how staff work with visitors."
+     ],
+     [
+      "Muzej kaže da posjetioci tako mogu vidjeti postavke očima mlađih generacija.",
+      "The museum says that visitors can thus see the exhibitions through the eyes of younger generations."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "muzej",
+     "museum"
+    ],
+    [
+     "posjetilac",
+     "visitor"
+    ],
+    [
+     "postavka",
+     "exhibition, display"
+    ],
+    [
+     "vodič",
+     "guide"
+    ],
+    [
+     "mališan",
+     "little one, child"
+    ],
+    [
+     "besplatan",
+     "free (of charge)"
+    ],
+    [
+     "zaposleni",
+     "employee"
+    ]
+   ]
+  },
+  {
+   "id": "261121058",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/gradani-cestitali-preuzimanje-duznosti-i-razgovarali-s-reisul-ulemom-nedzadom-grabusom/261121058",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261121058.jpg",
+   "published": "2026-11-21T12:12:00+01:00",
+   "title": [
+    "Građani u Rijasetu čestitali novom reisul-ulemi Grabusu",
+    "Citizens at the Rijaset congratulated the new Reis-ul-ulema Grabus"
+   ],
+   "body": [
+    [
+     [
+      "Mnogi građani došli su u subotu u zgradu Rijaseta Islamske zajednice na Kovačima u Sarajevu.",
+      "Many citizens came on Saturday to the Rijaset building of the Islamic Community at Kovači in Sarajevo."
+     ],
+     [
+      "Tamo su čestitali Nedžadu Grabusu, koji je nedavno postao reisul-ulema Islamske zajednice u BiH.",
+      "There they congratulated Nedžad Grabus, who recently became Reis-ul-ulema of the Islamic Community in BiH."
+     ],
+     [
+      "Reisul-ulema je vjerski poglavar muslimana u Bosni i Hercegovini.",
+      "The Reis-ul-ulema is the religious head of Muslims in Bosnia and Herzegovina."
+     ]
+    ],
+    [
+     [
+      "Posjetioci su se rukovali s Grabusom, razgovarali s njim i fotografisali se.",
+      "Visitors shook hands with Grabus, talked with him and had their photos taken."
+     ],
+     [
+      "Grabus je izabran 10. oktobra, a njegov mandat traje do 2033. godine.",
+      "Grabus was elected on 10 October, and his term lasts until 2033."
+     ],
+     [
+      "Dužnost je zvanično preuzeo 15. novembra u Gazi Husrev-begovoj džamiji, kada je dobio menšuru.",
+      "He officially took office on 15 November in the Gazi Husrev-beg Mosque, when he received the menšura."
+     ],
+     [
+      "Menšura je službeni dokument o imenovanju.",
+      "The menšura is the official document of appointment."
+     ]
+    ],
+    [
+     [
+      "Na tom mjestu Grabus je naslijedio Husein-ef. Kavazovića.",
+      "In that position Grabus succeeded Husein-ef. Kavazović."
+     ],
+     [
+      "Iz Rijaseta su rekli da se Grabus zahvalio svima koji su mu poslali čestitke nakon izbora.",
+      "The Rijaset said that Grabus thanked everyone who sent him congratulations after the election."
+     ],
+     [
+      "Zbog mnogo obaveza nije mogao odgovoriti na svaku poruku, ali cijeni pažnju i lijepe želje.",
+      "Because of many obligations he could not answer every message, but he appreciates the attention and kind wishes."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "čestitati",
+     "to congratulate"
+    ],
+    [
+     "dužnost",
+     "duty, office"
+    ],
+    [
+     "poglavar",
+     "head, leader"
+    ],
+    [
+     "rukovati se",
+     "to shake hands"
+    ],
+    [
+     "mandat",
+     "term of office"
+    ],
+    [
+     "naslijediti",
+     "to succeed, inherit"
+    ],
+    [
+     "obaveza",
+     "obligation"
+    ]
+   ]
+  },
   {
    "id": "261121008",
    "source": "Klix.ba",
@@ -5012,652 +5654,6 @@
     [
      "sud",
      "court"
-    ]
-   ]
-  },
-  {
-   "id": "261119130",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/regija/novi-haos-na-skupstini-srbije-poslanik-studenata-vikao-dok-je-optuzivao-vucica-za-veze-s-kriminalcima/261119130",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261119130.jpg",
-   "published": "2026-11-19T12:22:00+01:00",
-   "title": [
-    "Burna rasprava u Skupštini Srbije o vezama s kriminalcima",
-    "Heated debate in Serbia's parliament about ties to criminals"
-   ],
-   "body": [
-    [
-     [
-      "Na sjednici Skupštine Srbije u Beogradu ponovo je bilo burno.",
-      "It was stormy again at the session of Serbia's parliament in Belgrade."
-     ],
-     [
-      "Poslanik Studentske liste Jovo Bakić vikao je dok je optuživao Aleksandra Vučića i SNS za veze s kriminalcima.",
-      "Student List MP Jovo Bakić shouted while accusing Aleksandar Vučić and the SNS of ties to criminals."
-     ],
-     [
-      "Poslanici vladajuće koalicije dobacivali su mu, pa je on podigao glas.",
-      "MPs of the ruling coalition heckled him, so he raised his voice."
-     ]
-    ],
-    [
-     [
-      "Bakić je rekao da SNS i Vučić imaju veze s navijačkim grupama, koje je nazvao dilerima droge.",
-      "Bakić said that SNS and Vučić have ties to football fan groups, which he called drug dealers."
-     ],
-     [
-      "Prema njegovim riječima, te grupe su čuvale Vučića na inauguraciji 2017. godine.",
-      "In his words, these groups guarded Vučić at his inauguration in 2017."
-     ],
-     [
-      "Spomenuo je i škaljarski i kavački klan, kao i Veljka Belivuka i Luku Bojovića.",
-      "He also mentioned the Škaljari and Kavač clans, as well as Veljko Belivuk and Luka Bojović."
-     ]
-    ],
-    [
-     [
-      "Bakić je govorio i o Milanu Radoičiću.",
-      "Bakić also spoke about Milan Radoičić."
-     ],
-     [
-      "Rekao je da je Radoičić smio sjediti na galeriji Skupštine, a studenti nisu.",
-      "He said that Radoičić was allowed to sit in the parliament gallery, but the students were not."
-     ],
-     [
-      "Dodao je da je Vučić prvo tvrdio da ga ne poznaje, a kasnije ga je nazvao zaštitnikom Srba na Kosovu.",
-      "He added that Vučić first claimed not to know him, and later called him a protector of Serbs in Kosovo."
-     ],
-     [
-      "Na kraju je pitao ima li veće sramote za srpski narod.",
-      "In the end he asked whether there was a greater shame for the Serbian people."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "optuživati",
-     "to accuse"
-    ],
-    [
-     "veza",
-     "tie, connection"
-    ],
-    [
-     "kriminalac",
-     "criminal"
-    ],
-    [
-     "dobacivati",
-     "to heckle"
-    ],
-    [
-     "navijač",
-     "fan, supporter"
-    ],
-    [
-     "klan",
-     "clan"
-    ],
-    [
-     "sramota",
-     "shame"
-    ]
-   ]
-  },
-  {
-   "id": "261119134",
-   "source": "Klix.ba",
-   "section": "Zdravlje",
-   "url": "https://www.klix.ba/lifestyle/zdravlje/kome-dodaci-vitamina-d-zaista-pomazu-a-kome-ne-donose-korist/261119134",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261119134.jpg",
-   "published": "2026-11-19T12:19:00+01:00",
-   "title": [
-    "Kome dodaci vitamina D zaista pomažu",
-    "Who vitamin D supplements really help"
-   ],
-   "body": [
-    [
-     [
-      "Velika istraživanja pokazuju da dodaci vitamina D ne produžavaju život ljudima koji već imaju dovoljno ovog vitamina.",
-      "Large studies show that vitamin D supplements do not extend the lives of people who already have enough of this vitamin."
-     ],
-     [
-      "Oni im ne smanjuju ni rizik od raka ili bolesti srca.",
-      "Nor do they reduce their risk of cancer or heart disease."
-     ],
-     [
-      "Ipak, ljudima koji imaju manjak vitamina D on je potreban za kosti i mišiće.",
-      "Still, people who lack vitamin D need it for their bones and muscles."
-     ]
-    ],
-    [
-     [
-      "U najnovijoj britanskoj studiji učestvovalo je 3.886 pacijenata na dijalizi.",
-      "3,886 dialysis patients took part in the newest British study."
-     ],
-     [
-      "Dijaliza je postupak koji čisti krv kada bubrezi ne rade dobro.",
-      "Dialysis is a procedure that cleans the blood when the kidneys do not work well."
-     ],
-     [
-      "Visoka doza vitamina D nije im produžila život niti smanjila probleme sa srcem.",
-      "A high dose of vitamin D did not extend their lives or reduce heart problems."
-     ],
-     [
-      "U američkoj studiji VITAL skoro 26.000 odraslih je u prosjeku 5,3 godine uzimalo vitamin D ili placebo.",
-      "In the American VITAL study, almost 26,000 adults took vitamin D or a placebo for 5.3 years on average."
-     ],
-     [
-      "Ni tu nije bilo velike razlike kod raka i bolesti srca.",
-      "There was no big difference in cancer and heart disease there either."
-     ]
-    ],
-    [
-     [
-      "Manjak vitamina D češće imaju starije osobe, dojenčad, osobe s tamnijom kožom i ljudi koji su malo na suncu.",
-      "Older people, breastfed babies, people with darker skin and people who spend little time in the sun lack vitamin D more often."
-     ],
-     [
-      "Britanski NHS savjetuje da odrasli ne uzimaju više od 4.000 IU dnevno.",
-      "The British NHS advises adults not to take more than 4,000 IU a day."
-     ],
-     [
-      "Previše vitamina D može oštetiti kosti, bubrege i srce.",
-      "Too much vitamin D can damage the bones, kidneys and heart."
-     ],
-     [
-      "Zato je najbolje razgovarati s doktorom, koji može uraditi jednostavnu analizu krvi.",
-      "That is why it is best to talk to a doctor, who can do a simple blood test."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "dodatak",
-     "supplement"
-    ],
-    [
-     "istraživanje",
-     "research, study"
-    ],
-    [
-     "manjak",
-     "lack, deficiency"
-    ],
-    [
-     "kost",
-     "bone"
-    ],
-    [
-     "bubreg",
-     "kidney"
-    ],
-    [
-     "doza",
-     "dose"
-    ],
-    [
-     "rizik",
-     "risk"
-    ],
-    [
-     "krv",
-     "blood"
-    ]
-   ]
-  },
-  {
-   "id": "261119114",
-   "source": "Klix.ba",
-   "section": "Biznis",
-   "url": "https://www.klix.ba/biznis/ekonomija/banke-u-fbih-od-28-februara-2027-godine-moraju-nuditi-paket-usluga-s-naknadom-do-najvise-02-prosjecne-plate/261119114",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261119114.jpg",
-   "published": "2026-11-19T11:59:00+01:00",
-   "title": [
-    "Banke u FBiH moraju nuditi jeftin paket usluga",
-    "Banks in FBiH must offer a cheap service package"
-   ],
-   "body": [
-    [
-     [
-      "Agencija za bankarstvo FBiH donijela je odluku koja ograničava cijenu osnovnih bankarskih usluga.",
-      "The FBiH Banking Agency has adopted a decision that limits the price of basic banking services."
-     ],
-     [
-      "Od 28. februara 2027. godine banke moraju nuditi paket usluga uz platni račun.",
-      "From 28 February 2027 banks must offer a service package with a payment account."
-     ],
-     [
-      "Mjesečna naknada za taj paket ne smije biti veća od 0,2% prosječne neto plate u Federaciji.",
-      "The monthly fee for this package must not be higher than 0.2% of the average net salary in the Federation."
-     ]
-    ],
-    [
-     [
-      "Paket uključuje otvaranje i vođenje računa, kao i internet i mobilno bankarstvo.",
-      "The package includes opening and keeping an account, as well as internet and mobile banking."
-     ],
-     [
-      "Korisnici mogu svaki mjesec poslati 10 uplata u druge banke i 10 uplata unutar iste banke.",
-      "Users can send 10 payments to other banks and 10 payments within the same bank every month."
-     ],
-     [
-      "Plaćanje karticom u trgovinama u BiH nije ograničeno, a debitna kartica je dio paketa.",
-      "Card payments in shops in BiH are unlimited, and a debit card is part of the package."
-     ],
-     [
-      "Za svaku dodatnu uplatu banka će naplatiti redovnu cijenu.",
-      "For each extra payment the bank will charge the regular price."
-     ]
-    ],
-    [
-     [
-      "Banke ne smiju uvoditi skrivene naknade da bi zaobišle odluku.",
-      "Banks must not introduce hidden fees in order to get around the decision."
-     ],
-     [
-      "Uslove i cijene moraju jasno objaviti na internet stranicama i u poslovnicama.",
-      "They must clearly publish the conditions and prices on their websites and in their branches."
-     ],
-     [
-      "Odluka traži i da banke misle na starije osobe, osobe s invaliditetom i ljude sa slabijim digitalnim znanjem.",
-      "The decision also requires banks to keep in mind older people, people with disabilities and people with weaker digital skills."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "banka",
-     "bank"
-    ],
-    [
-     "naknada",
-     "fee"
-    ],
-    [
-     "račun",
-     "account"
-    ],
-    [
-     "paket",
-     "package"
-    ],
-    [
-     "uplata",
-     "payment"
-    ],
-    [
-     "kartica",
-     "card"
-    ],
-    [
-     "skriven",
-     "hidden"
-    ],
-    [
-     "poslovnica",
-     "branch (office)"
-    ]
-   ]
-  },
-  {
-   "id": "261119016",
-   "source": "Klix.ba",
-   "section": "Zdravlje",
-   "url": "https://www.klix.ba/lifestyle/zdravlje/zasto-antibiotik-ne-pomaze-kod-gripe-i-prehlade-i-kada-moze-naskoditi/261119016",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261119016.jpg",
-   "published": "2026-11-19T07:18:00+01:00",
-   "title": [
-    "Zašto antibiotik ne pomaže kod gripe i prehlade",
-    "Why an antibiotic does not help with flu and a cold"
-   ],
-   "body": [
-    [
-     [
-      "Svjetska zdravstvena organizacija upozorava da antibiotici ne djeluju protiv virusa.",
-      "The World Health Organization warns that antibiotics do not work against viruses."
-     ],
-     [
-      "Gripu, prehladu, većinu upala grla i bronhitis izazivaju virusi, pa tu antibiotik ne pomaže.",
-      "Flu, colds, most sore throats and bronchitis are caused by viruses, so an antibiotic does not help there."
-     ],
-     [
-      "Antibiotici liječe bakterijske infekcije, na primjer upalu pluća i tuberkulozu.",
-      "Antibiotics treat bacterial infections, for example pneumonia and tuberculosis."
-     ]
-    ],
-    [
-     [
-      "Kada ljudi uzimaju antibiotike bez potrebe, bakterije postaju otporne i infekcije se teže liječe.",
-      "When people take antibiotics without need, bacteria become resistant and infections are harder to treat."
-     ],
-     [
-      "U anketama je čak 64 posto ljudi pogrešno mislilo da se gripa i prehlada liječe antibioticima.",
-      "In surveys as many as 64 percent of people wrongly thought that flu and colds are treated with antibiotics."
-     ],
-     [
-      "U 2023. godini svaka šesta bakterijska infekcija u svijetu bila je otporna na antibiotike.",
-      "In 2023 every sixth bacterial infection in the world was resistant to antibiotics."
-     ],
-     [
-      "Prema UN-u, otpornost bakterija povezana je s više od 4,7 miliona smrti godišnje.",
-      "According to the UN, bacterial resistance is linked to more than 4.7 million deaths a year."
-     ]
-    ],
-    [
-     [
-      "Ove sedmice, od 18. do 24. novembra, obilježava se svjetska sedmica svijesti o ovom problemu.",
-      "This week, from 18 to 24 November, a world awareness week about this problem is being marked."
-     ],
-     [
-      "Stručnjaci savjetuju da se antibiotik uzima samo kada ga prepiše ljekar.",
-      "Experts advise that an antibiotic be taken only when a doctor prescribes it."
-     ],
-     [
-      "Ako ga dobijete, terapiju treba završiti do kraja, a lijekove koji ostanu ne treba bacati u odvod.",
-      "If you get one, the therapy should be finished to the end, and medicines that are left over should not be thrown down the drain."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "antibiotik",
-     "antibiotic"
-    ],
-    [
-     "gripa",
-     "flu"
-    ],
-    [
-     "prehlada",
-     "cold"
-    ],
-    [
-     "bakterija",
-     "bacterium"
-    ],
-    [
-     "otporan",
-     "resistant"
-    ],
-    [
-     "ljekar",
-     "doctor"
-    ],
-    [
-     "prepisati",
-     "to prescribe"
-    ]
-   ]
-  },
-  {
-   "id": "261119008",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/borilacki-sportovi/conor-mcgregor-dao-slobodan-dan-radnicima-da-mogu-igrati-gta-6/261119008",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261119008.jpg",
-   "published": "2026-11-19T06:47:00+01:00",
-   "title": [
-    "Conor McGregor dao radnicima slobodan dan zbog GTA 6",
-    "Conor McGregor gave workers a day off because of GTA 6"
-   ],
-   "body": [
-    [
-     [
-      "Bivši UFC prvak Conor McGregor dao je slobodan dan svim radnicima u svojim kompanijama.",
-      "Former UFC champion Conor McGregor gave a day off to all the workers in his companies."
-     ],
-     [
-      "Razlog je izlazak nove igre Grand Theft Auto VI.",
-      "The reason is the release of the new game Grand Theft Auto VI."
-     ],
-     [
-      "Odluku je objavio na mreži X u srijedu navečer, manje od 12 sati prije nego što je igra izašla.",
-      "He announced the decision on the network X on Wednesday evening, less than 12 hours before the game came out."
-     ]
-    ],
-    [
-     [
-      "McGregor kaže da zapošljava 400 ljudi u nekoliko zemalja na više kontinenata.",
-      "McGregor says he employs 400 people in several countries on several continents."
-     ],
-     [
-      "U poruci je poželio timu da uživa u igri.",
-      "In the message he wished the team to enjoy the game."
-     ],
-     [
-      "Potpisao se kao njihov prijatelj i šef.",
-      "He signed as their friend and boss."
-     ],
-     [
-      "Kasnije je objavio i video svog kutka za igranje, u kojem se vidio sat koji odbrojava do izlaska igre.",
-      "Later he also posted a video of his gaming corner, in which a clock counting down to the game's release could be seen."
-     ]
-    ],
-    [
-     [
-      "GTA VI izašao je danas za PlayStation 5 i Xbox Series X/S.",
-      "GTA VI came out today for PlayStation 5 and Xbox Series X/S."
-     ],
-     [
-      "To je prva nova igra u ovom serijalu nakon 13 godina.",
-      "It is the first new game in this series after 13 years."
-     ],
-     [
-      "Priča se vraća u Vice City, a glavni likovi su Jason i Lucia.",
-      "The story returns to Vice City, and the main characters are Jason and Lucia."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "prvak",
-     "champion"
-    ],
-    [
-     "slobodan dan",
-     "day off"
-    ],
-    [
-     "radnik",
-     "worker"
-    ],
-    [
-     "izlazak",
-     "release"
-    ],
-    [
-     "zapošljavati",
-     "to employ"
-    ],
-    [
-     "šef",
-     "boss"
-    ],
-    [
-     "serijal",
-     "series"
-    ]
-   ]
-  },
-  {
-   "id": "261119001",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/gaming/cudni-svijet-gta-6-od-brijanja-grudi-do-bijega-ukradenim-avionom-i-lovaca-koji-vas-prizemlje/261119001",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261119001.jpg",
-   "published": "2026-11-19T06:41:00+01:00",
-   "title": [
-    "Neobični detalji iz prvih sati igre GTA 6",
-    "Unusual details from the first hours of the game GTA 6"
-   ],
-   "body": [
-    [
-     [
-      "Novinar Klixa je u prvim satima igre GTA 6 otkrio mnogo neobičnih detalja.",
-      "A Klix journalist discovered many unusual details in the first hours of the game GTA 6."
-     ],
-     [
-      "Kaže da je najzabavnije istraživati svijet izvan zadataka.",
-      "He says it is most fun to explore the world outside the missions."
-     ],
-     [
-      "Grad se otvara polako, kako priča napreduje.",
-      "The city opens slowly, as the story progresses."
-     ]
-    ],
-    [
-     [
-      "Prvi put u novijim GTA igrama automobilima može nestati goriva.",
-      "For the first time in recent GTA games cars can run out of fuel."
-     ],
-     [
-      "Rezervoar je prazan nakon 18 do 29 minuta vožnje, a punjenje traje oko 10 sekundi.",
-      "The tank is empty after 18 to 29 minutes of driving, and filling up takes about 10 seconds."
-     ],
-     [
-      "Policija se više ne vidi na mapi, a igrač može biti uhapšen ako samo stoji i gleda policijsku akciju.",
-      "The police can no longer be seen on the map, and the player can be arrested if he just stands and watches a police operation."
-     ],
-     [
-      "Ako ukrade avion iz vojne baze, odmah dobija pet zvjezdica, a vojni avioni ga brzo obore.",
-      "If he steals a plane from a military base, he immediately gets five stars, and military planes quickly shoot him down."
-     ]
-    ],
-    [
-     [
-      "Jason može obrijati prsa u svojoj kući, ali za novu frizuru mora ići kod brijača.",
-      "Jason can shave his chest in his house, but for a new haircut he has to go to a barber."
-     ],
-     [
-      "Autor je primijetio i nekoliko grešaka, na primjer kada je Lucia propala kroz zemlju.",
-      "The author also noticed a few bugs, for example when Lucia fell through the ground."
-     ],
-     [
-      "Ipak, on misli da je to samo nekoliko grešaka u igri koja je inače dobro urađena.",
-      "Still, he thinks these are only a few bugs in a game that is otherwise well made."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "neobičan",
-     "unusual"
-    ],
-    [
-     "gorivo",
-     "fuel"
-    ],
-    [
-     "vožnja",
-     "driving"
-    ],
-    [
-     "uhapsiti",
-     "to arrest"
-    ],
-    [
-     "ukrasti",
-     "to steal"
-    ],
-    [
-     "brijač",
-     "barber"
-    ],
-    [
-     "greška",
-     "mistake, bug"
-    ]
-   ]
-  },
-  {
-   "id": "261119006",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/ukrajinci-ponovo-napali-krimski-most-prekinuta-kljucna-linija-snabdijevanja-ruskih-trupa/261119006",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261119006.jpg",
-   "published": "2026-11-19T06:34:00+01:00",
-   "title": [
-    "Ukrajina ponovo napala Krimski most, saobraćaj prekinut",
-    "Ukraine attacked the Crimean Bridge again, traffic stopped"
-   ],
-   "body": [
-    [
-     [
-      "Krimski most ponovo je napadnut u četvrtak u ranim jutarnjim satima.",
-      "The Crimean Bridge was attacked again on Thursday in the early morning hours."
-     ],
-     [
-      "To je na Telegramu objavio Sergej Aksjonov, guverner Krima kojeg je postavila Moskva.",
-      "This was announced on Telegram by Sergei Aksyonov, the governor of Crimea appointed by Moscow."
-     ],
-     [
-      "Saobraćaj preko mosta privremeno je zaustavljen, a hitne službe procjenjuju štetu.",
-      "Traffic over the bridge was temporarily stopped, and emergency services are assessing the damage."
-     ]
-    ],
-    [
-     [
-      "Napad je došao samo nekoliko dana nakon što se dio mosta srušio u ranijem ukrajinskom udaru.",
-      "The attack came only a few days after part of the bridge collapsed in an earlier Ukrainian strike."
-     ],
-     [
-      "Most je dug oko 19 kilometara i najduži je u Evropi, a koštao je 3,7 milijardi dolara.",
-      "The bridge is about 19 kilometres long and is the longest in Europe, and it cost 3.7 billion dollars."
-     ],
-     [
-      "Prema ruskim državnim medijima, napravljen je za 40.000 automobila dnevno.",
-      "According to Russian state media, it was built for 40,000 cars a day."
-     ],
-     [
-      "Za ruske trupe to je važan put za snabdijevanje, a za Putina i važan simbol.",
-      "For Russian troops it is an important supply route, and for Putin also an important symbol."
-     ]
-    ],
-    [
-     [
-      "Ukrajinski predsjednik Volodimir Zelenski rekao je da su napadi na most odgovor na ruske udare na ukrajinsku infrastrukturu.",
-      "Ukrainian President Volodymyr Zelensky said that the attacks on the bridge are a response to Russian strikes on Ukrainian infrastructure."
-     ],
-     [
-      "Napad se desio dok se Putin sprema za sastanak s Trumpom i Xi Jinpingom u Kini.",
-      "The attack happened while Putin is preparing for a meeting with Trump and Xi Jinping in China."
-     ],
-     [
-      "Portparol Kremlja Dmitrij Peskov ranije je rekao da će most biti obnovljen i da će biti bolji nego prije.",
-      "Kremlin spokesman Dmitry Peskov said earlier that the bridge will be rebuilt and will be better than before."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "most",
-     "bridge"
-    ],
-    [
-     "napad",
-     "attack"
-    ],
-    [
-     "saobraćaj",
-     "traffic"
-    ],
-    [
-     "šteta",
-     "damage"
-    ],
-    [
-     "srušiti se",
-     "to collapse"
-    ],
-    [
-     "snabdijevanje",
-     "supply"
-    ],
-    [
-     "obnoviti",
-     "to rebuild"
     ]
    ]
   }
