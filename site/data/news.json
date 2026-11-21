@@ -1,18 +1,818 @@
 {
- "updated": "2026-11-21T13:50:00+01:00",
+ "updated": "2026-11-21T18:44:00+01:00",
  "front": [
-  "261121062",
-  "261121058",
-  "261121059",
-  "261121073",
-  "261121044",
-  "261121067",
+  "261109186",
+  "261121119",
+  "261121109",
+  "261119229",
+  "261121118",
+  "261121117",
   "261120007",
-  "261121060",
+  "261121114",
   "261121008",
-  "261120304"
+  "261121115"
  ],
  "articles": [
+  {
+   "id": "261109186",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/david-muslera-vise-nije-trener-zeljeznicara-presudio-mu-je-potop-od-borca-na-grbavici/261109186",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261109186.jpg",
+   "published": "2026-11-21T18:06:00+01:00",
+   "title": [
+    "Željezničar se rastao s trenerom Davidom Muslerom",
+    "Željezničar parts ways with coach David Muslera"
+   ],
+   "body": [
+    [
+     [
+      "Španski trener David Muslera više nije trener Fudbalskog kluba Željezničar iz Sarajeva.",
+      "Spanish coach David Muslera is no longer the coach of Željezničar Football Club from Sarajevo."
+     ],
+     [
+      "Klub je to objavio u subotu, nakon teškog poraza od Borca na Grbavici.",
+      "The club announced it on Saturday, after a heavy defeat to Borac at Grbavica."
+     ],
+     [
+      "Borac je u toj utakmici pobijedio rezultatom 4:0.",
+      "Borac won that match 4-0."
+     ]
+    ],
+    [
+     [
+      "Muslera je sezonu počeo dobro, s pobjedom protiv BSK-a u prvom kolu Premijer lige.",
+      "Muslera started the season well, with a win against BSK in the first round of the Premier League."
+     ],
+     [
+      "Posljednju pobjedu u ligi ostvario je 9. septembra, kada je Željezničar u derbiju pobijedio Sarajevo 2:0.",
+      "He got his last league win on 9 September, when Željezničar beat Sarajevo 2-0 in the derby."
+     ],
+     [
+      "Nakon toga klub dva mjeseca nije pobijedio u ligi, a imao je tri neriješena rezultata i četiri poraza.",
+      "After that the club did not win in the league for two months, and it had three draws and four defeats."
+     ],
+     [
+      "Jedinu radost u tom periodu donijela je pobjeda 1:0 protiv Slobode u Kupu BiH.",
+      "The only joy in that period was a 1-0 win against Sloboda in the BiH Cup."
+     ],
+     [
+      "Ukupno je vodio tim u 15 utakmica, s 4 pobjede, 4 remija i 7 poraza.",
+      "In total he led the team in 15 matches, with 4 wins, 4 draws and 7 defeats."
+     ]
+    ],
+    [
+     [
+      "U saopćenju se klub zahvalio Musleri na njegovom radu od početka sezone.",
+      "In a statement the club thanked Muslera for his work since the start of the season."
+     ],
+     [
+      "Također su mu poželjeli puno uspjeha u nastavku trenerske karijere.",
+      "They also wished him a lot of success in the rest of his coaching career."
+     ],
+     [
+      "Nakon utakmice Muslera je rekao da se vidjela razlika u kvaliteti dva kluba.",
+      "After the match Muslera said that the difference in quality between the two clubs was visible."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "trener",
+     "coach"
+    ],
+    [
+     "poraz",
+     "defeat"
+    ],
+    [
+     "pobjeda",
+     "win, victory"
+    ],
+    [
+     "utakmica",
+     "match"
+    ],
+    [
+     "saopćenje",
+     "statement"
+    ],
+    [
+     "sezona",
+     "season"
+    ],
+    [
+     "karijera",
+     "career"
+    ],
+    [
+     "remi",
+     "draw"
+    ]
+   ]
+  },
+  {
+   "id": "261121117",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/fantasticni-leeds-uz-novu-sjajnu-partiju-muharemovica-razbio-chelsea-u-londonu/261121117",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261121117.jpg",
+   "published": "2026-11-21T17:57:00+01:00",
+   "title": [
+    "Leeds s Muharemovićem pobijedio Chelsea 4:1 u Londonu",
+    "Leeds with Muharemović beat Chelsea 4-1 in London"
+   ],
+   "body": [
+    [
+     [
+      "Leeds United je u subotu u Londonu pobijedio Chelsea rezultatom 4:1.",
+      "Leeds United beat Chelsea 4-1 in London on Saturday."
+     ],
+     [
+      "Važnu ulogu u pobjedi imao je i reprezentativac BiH Tarik Muharemović.",
+      "BiH national team player Tarik Muharemović also played an important role in the win."
+     ],
+     [
+      "On je igrao od prve minute u odbrani s tri igrača i bio je jedan od najboljih na terenu.",
+      "He played from the first minute in a three-man defence and was one of the best on the pitch."
+     ]
+    ],
+    [
+     [
+      "Chelsea je poveo u 25. minuti, kada je gol postigao Emmanuel Emeghe.",
+      "Chelsea took the lead in the 25th minute, when Emmanuel Emeghe scored."
+     ],
+     [
+      "Samo tri minute kasnije Noah Okafor je izjednačio rezultat.",
+      "Only three minutes later Noah Okafor equalised."
+     ],
+     [
+      "Muharemović je pred kraj prvog poluvremena zabio gol, ali ga je sudija poništio zbog ofsajda njegovog saigrača.",
+      "Muharemović scored a goal near the end of the first half, but the referee disallowed it because of a teammate's offside."
+     ],
+     [
+      "U drugom poluvremenu Dominic Calvert-Lewin je u 53. minuti postigao gol iz penala.",
+      "In the second half Dominic Calvert-Lewin scored a penalty in the 53rd minute."
+     ],
+     [
+      "Okafor je zatim zabio svoj drugi gol, a Brenden Aaronson je u nadoknadi postavio konačnih 4:1.",
+      "Okafor then scored his second goal, and Brenden Aaronson made the final score 4-1 in stoppage time."
+     ]
+    ],
+    [
+     [
+      "Leeds je nakon ove pobjede šesti na tabeli sa 17 bodova i nalazi se ispred Chelseaja.",
+      "After this win Leeds is sixth in the table with 17 points and is ahead of Chelsea."
+     ],
+     [
+      "Klub sada ima realnu šansu da ove sezone igra u evropskim takmičenjima.",
+      "The club now has a realistic chance to play in European competitions this season."
+     ],
+     [
+      "Muharemović je u Leeds došao ovog ljeta iz Sassuola za 34 miliona funti.",
+      "Muharemović came to Leeds this summer from Sassuolo for 34 million pounds."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "reprezentativac",
+     "national team player"
+    ],
+    [
+     "odbrana",
+     "defence"
+    ],
+    [
+     "izjednačiti",
+     "to equalise"
+    ],
+    [
+     "poništiti",
+     "to disallow, to cancel"
+    ],
+    [
+     "ofsajd",
+     "offside"
+    ],
+    [
+     "penal",
+     "penalty"
+    ],
+    [
+     "nadoknada",
+     "stoppage time"
+    ],
+    [
+     "tabela",
+     "league table"
+    ]
+   ]
+  },
+  {
+   "id": "261121119",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/borac-priredio-zeljeznicaru-novu-katastrofu-na-grbavici-04-plavi-tonu-sve-dublje/261121119",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261121119.jpg",
+   "published": "2026-11-21T17:47:00+01:00",
+   "title": [
+    "Borac na Grbavici pobijedio Željezničar rezultatom 4:0",
+    "Borac beat Željezničar 4-0 at Grbavica"
+   ],
+   "body": [
+    [
+     [
+      "Fudbaleri Borca su u subotu na Grbavici pobijedili Željezničar rezultatom 4:0.",
+      "Borac's footballers beat Željezničar 4-0 at Grbavica on Saturday."
+     ],
+     [
+      "Utakmica je igrana u 14. kolu Premijer lige BiH.",
+      "The match was played in round 14 of the BiH Premier League."
+     ],
+     [
+      "Borac, koji je aktuelni prvak, bio je bolji od prve minute.",
+      "Borac, the current champion, was better from the first minute."
+     ]
+    ],
+    [
+     [
+      "Prvi gol je u 23. minuti postigao mladi Matej Deket, udarcem s više od 25 metara.",
+      "Young Matej Deket scored the first goal in the 23rd minute, with a shot from more than 25 metres."
+     ],
+     [
+      "Do 40. minute Borac je imao 11 udaraca, a Željezničar samo jedan.",
+      "By the 40th minute Borac had 11 shots, and Željezničar only one."
+     ],
+     [
+      "U drugom poluvremenu Sebastian Herrera je u 72. minuti zabio gol iz slobodnog udarca.",
+      "In the second half Sebastian Herrera scored from a free kick in the 72nd minute."
+     ],
+     [
+      "Nakon toga je Amer Hiroš, bivši igrač Željezničara, postigao još dva gola.",
+      "After that Amer Hiroš, a former Željezničar player, scored two more goals."
+     ],
+     [
+      "Hiroš nije slavio golove iz poštovanja prema svom starom klubu.",
+      "Hiroš did not celebrate the goals out of respect for his old club."
+     ]
+    ],
+    [
+     [
+      "Željezničar više od dva mjeseca nije pobijedio u ligi.",
+      "Željezničar has not won in the league for more than two months."
+     ],
+     [
+      "Prije ove utakmice bio je šesti sa 13 bodova, a sada je pao na sedmo mjesto.",
+      "Before this match it was sixth with 13 points, and now it has dropped to seventh place."
+     ],
+     [
+      "Klub je samo dva boda iznad zone ispadanja, a Velež ga je prestigao u ovom kolu.",
+      "The club is only two points above the relegation zone, and Velež overtook it in this round."
+     ],
+     [
+      "Nakon poraza klub se rastao s trenerom Davidom Muslerom.",
+      "After the defeat the club parted ways with coach David Muslera."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "prvak",
+     "champion"
+    ],
+    [
+     "gol",
+     "goal"
+    ],
+    [
+     "udarac",
+     "shot, kick"
+    ],
+    [
+     "slobodni udarac",
+     "free kick"
+    ],
+    [
+     "poluvrijeme",
+     "half (of a match)"
+    ],
+    [
+     "bod",
+     "point"
+    ],
+    [
+     "poštovanje",
+     "respect"
+    ],
+    [
+     "zona ispadanja",
+     "relegation zone"
+    ]
+   ]
+  },
+  {
+   "id": "261121118",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/trump-nikad-mi-nije-bilo-previse-stalo-do-rezima-u-iranu-zelim-samo-postici-sporazum-koji-ce-biti-trajan/261121118",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261121118.jpg",
+   "published": "2026-11-21T17:47:00+01:00",
+   "title": [
+    "Trump: Želim trajan sporazum s Iranom",
+    "Trump: I want a lasting agreement with Iran"
+   ],
+   "body": [
+    [
+     [
+      "Američki predsjednik Donald Trump rekao je da mu nikad nije bilo previše stalo do režima u Iranu.",
+      "US President Donald Trump said he never cared too much about the regime in Iran."
+     ],
+     [
+      "To je izjavio u subotu u intervjuu za televiziju Fox News.",
+      "He said this on Saturday in an interview with Fox News."
+     ],
+     [
+      "U intervjuu je govorio o svom planu za završetak rata s Iranom.",
+      "In the interview he talked about his plan to end the war with Iran."
+     ]
+    ],
+    [
+     [
+      "Trump je rekao da želi trajan sporazum koji bi Iranu zabranio razvoj nuklearnog oružja.",
+      "Trump said he wants a lasting agreement that would ban Iran from developing nuclear weapons."
+     ],
+     [
+      "Kada su ga pitali hoće li iranska vlast preživjeti rat, rekao je da je već smijenio dva režima.",
+      "When asked whether the Iranian government will survive the war, he said he had already removed two regimes."
+     ],
+     [
+      "On je to nazvao konačnom promjenom režima.",
+      "He called that the ultimate regime change."
+     ],
+     [
+      "Sadašnje iransko rukovodstvo je, prema njegovim riječima, vjerovatno razumnije, ali je s njim vrlo teško.",
+      "According to him, the current Iranian leadership is probably more reasonable, but it is very difficult to deal with."
+     ],
+     [
+      "Rekao je i da Iran prihvati dogovore, a onda ih već sljedeći dan prekrši.",
+      "He also said that Iran accepts deals and then breaks them the very next day."
+     ]
+    ],
+    [
+     [
+      "Trump želi da sporazum važi i nakon što on ode s funkcije.",
+      "Trump wants the agreement to remain valid even after he leaves office."
+     ],
+     [
+      "Dodao je da sporazum mora važiti i ako za 15 ili 20 godina dođe nesposoban predsjednik.",
+      "He added that the agreement must hold even if an incompetent president comes in 15 or 20 years."
+     ],
+     [
+      "U februaru je Trump javno podržao promjenu režima u Iranu.",
+      "In February Trump publicly supported regime change in Iran."
+     ],
+     [
+      "Međutim, u junu je rekao da mu promjena režima nikad nije bila važna.",
+      "However, in June he said that regime change had never been important to him."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "režim",
+     "regime"
+    ],
+    [
+     "sporazum",
+     "agreement"
+    ],
+    [
+     "nuklearno oružje",
+     "nuclear weapons"
+    ],
+    [
+     "rat",
+     "war"
+    ],
+    [
+     "rukovodstvo",
+     "leadership"
+    ],
+    [
+     "prekršiti",
+     "to break (a deal)"
+    ],
+    [
+     "funkcija",
+     "office, position"
+    ],
+    [
+     "razuman",
+     "reasonable"
+    ]
+   ]
+  },
+  {
+   "id": "261121115",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/lifestyle/ljubimci/vise-od-84-posto-pasa-pokazuje-znakove-straha-ili-anksioznosti/261121115",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261121115.jpg",
+   "published": "2026-11-21T17:18:00+01:00",
+   "title": [
+    "Studija: Više od 84 posto pasa pokazuje strah",
+    "Study: More than 84 percent of dogs show fear"
+   ],
+   "body": [
+    [
+     [
+      "Nova američka studija pokazala je da više od 84 posto pasa ima barem blage znakove straha ili anksioznosti.",
+      "A new American study has shown that more than 84 percent of dogs have at least mild signs of fear or anxiety."
+     ],
+     [
+      "Istraživanje je vodila profesorica Bonnie Beaver s Univerziteta Texas A&M.",
+      "The research was led by Professor Bonnie Beaver from Texas A&M University."
+     ],
+     [
+      "Rezultati su objavljeni u naučnom časopisu Veterinary Research Communications.",
+      "The results were published in the scientific journal Veterinary Research Communications."
+     ]
+    ],
+    [
+     [
+      "Naučnici su koristili podatke o više od 43.000 pasa iz velikog projekta Dog Aging Project.",
+      "The scientists used data on more than 43,000 dogs from the large Dog Aging Project."
+     ],
+     [
+      "U tom projektu vlasnici opisuju zdravlje i ponašanje svojih pasa.",
+      "In that project owners describe the health and behaviour of their dogs."
+     ],
+     [
+      "Vlasnici su kao najčešći razlog straha naveli nepoznate ljude i nepoznate pse.",
+      "Owners named unfamiliar people and unfamiliar dogs as the most common cause of fear."
+     ],
+     [
+      "Strah od kupanja ili rezanja noktiju nije uračunat u rezultate.",
+      "Fear of bathing or nail trimming was not counted in the results."
+     ],
+     [
+      "Autori ipak kažu da to ne znači da većina pasa ima poremećaj anksioznosti.",
+      "The authors say, however, that this does not mean most dogs have an anxiety disorder."
+     ]
+    ],
+    [
+     [
+      "Beaver je rekla da je to ponašanje koje je većina vlasnika već vidjela.",
+      "Beaver said that this is behaviour most owners have already seen."
+     ],
+     [
+      "Dugotrajni stres može oslabiti imunitet i skratiti život psa.",
+      "Long-term stress can weaken the immune system and shorten a dog's life."
+     ],
+     [
+      "Ako se strah ne prati, može postati jači i dovesti do agresije.",
+      "If fear is not monitored, it can become stronger and lead to aggression."
+     ],
+     [
+      "Zato ona savjetuje vlasnicima da se obrate stručnjaku kada ponašanje postane jače ili traje duže.",
+      "That is why she advises owners to turn to an expert when the behaviour becomes stronger or lasts longer."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "pas",
+     "dog"
+    ],
+    [
+     "strah",
+     "fear"
+    ],
+    [
+     "anksioznost",
+     "anxiety"
+    ],
+    [
+     "vlasnik",
+     "owner"
+    ],
+    [
+     "ponašanje",
+     "behaviour"
+    ],
+    [
+     "istraživanje",
+     "research"
+    ],
+    [
+     "stručnjak",
+     "expert"
+    ],
+    [
+     "nepoznat",
+     "unfamiliar"
+    ]
+   ]
+  },
+  {
+   "id": "261121114",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/muzika/frenkie-na-vrhuncu-stvaralastva-uskoro-stize-njegov-novi-samostalni-album-prime/261121114",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261121114.jpg",
+   "published": "2026-11-21T17:06:00+01:00",
+   "title": [
+    "Frenkie uskoro objavljuje novi album Prime",
+    "Frenkie will soon release a new album, Prime"
+   ],
+   "body": [
+    [
+     [
+      "Reper iz BiH Adnan Hamidović Frenkie najavio je svoj jedanaesti samostalni album.",
+      "Bosnian rapper Adnan Hamidović Frenkie has announced his eleventh solo album."
+     ],
+     [
+      "Album se zove Prime i izlazi u petak, 27. novembra, na svim platformama.",
+      "The album is called Prime and comes out on Friday, 27 November, on all platforms."
+     ],
+     [
+      "Dan ranije, u četvrtak navečer, bit će objavljeni prvi singl i spot.",
+      "A day earlier, on Thursday evening, the first single and music video will be released."
+     ]
+    ],
+    [
+     [
+      "Njegov posljednji album Manifest izašao je prije otprilike dvije godine.",
+      "His last album, Manifest, came out about two years ago."
+     ],
+     [
+      "Nedavno je Frenkie iznenadio publiku zajedničkom knjigom s hafizom Nedimom Botićem.",
+      "Recently Frenkie surprised the public with a joint book with hafiz Nedim Botić."
+     ],
+     [
+      "Na produkciji albuma radili su Mirza Rahmanović Indigo, Edber Vuranovski Edba i Fikret Hodžić.",
+      "Mirza Rahmanović Indigo, Edber Vuranovski Edba and Fikret Hodžić worked on the production of the album."
+     ],
+     [
+      "Novi album je prirodan nastavak njegovog rada, pa bi se mogao svidjeti fanovima Manifesta.",
+      "The new album is a natural continuation of his work, so fans of Manifest might like it."
+     ]
+    ],
+    [
+     [
+      "Frenkie je rekao da je ovo njegov najličniji album do sada.",
+      "Frenkie said this is his most personal album so far."
+     ],
+     [
+      "Glavna emocija na albumu je melanholija, odnosno tiha tuga.",
+      "The main emotion on the album is melancholy, that is, a quiet sadness."
+     ],
+     [
+      "U pjesmi Prime pita se gdje prestaje Frenkie, a gdje počinje Adnan.",
+      "In the song Prime he asks where Frenkie ends and where Adnan begins."
+     ],
+     [
+      "Rekao je i da se osjeća kao da je na vrhuncu svoje kreativnosti, pa je zato izabrao taj naziv.",
+      "He also said he feels he is at the peak of his creativity, which is why he chose that title."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "najaviti",
+     "to announce"
+    ],
+    [
+     "samostalni",
+     "solo"
+    ],
+    [
+     "objaviti",
+     "to release, to publish"
+    ],
+    [
+     "pjesma",
+     "song"
+    ],
+    [
+     "produkcija",
+     "production"
+    ],
+    [
+     "vrhunac",
+     "peak"
+    ],
+    [
+     "nastavak",
+     "continuation"
+    ],
+    [
+     "tuga",
+     "sadness"
+    ]
+   ]
+  },
+  {
+   "id": "261121109",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/regija/posljedica-promjene-vlasti-ana-brnabic-i-tomislav-nikolic-pakuju-kofere-moraju-napustiti-vile-na-dedinju/261121109",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261121109.jpg",
+   "published": "2026-11-21T17:04:00+01:00",
+   "title": [
+    "Ana Brnabić i Tomislav Nikolić moraju napustiti državne vile",
+    "Ana Brnabić and Tomislav Nikolić must leave state villas"
+   ],
+   "body": [
+    [
+     [
+      "Nakon promjene vlasti u Srbiji, Ana Brnabić i Tomislav Nikolić morat će napustiti državne vile u Beogradu.",
+      "After the change of government in Serbia, Ana Brnabić and Tomislav Nikolić will have to leave state villas in Belgrade."
+     ],
+     [
+      "Obje vile se nalaze u beogradskom naselju Dedinje.",
+      "Both villas are in the Belgrade neighbourhood of Dedinje."
+     ],
+     [
+      "To je portalu Nova.rs rekao jedan izvor.",
+      "A source told this to the Nova.rs portal."
+     ]
+    ],
+    [
+     [
+      "Prema izvoru, oni će se morati iseliti kada novi predsjednik države i nova vlada preuzmu dužnost.",
+      "According to the source, they will have to move out when the new head of state and the new government take office."
+     ],
+     [
+      "Brnabić živi u bivšoj vili Jovanke Broz, u ulici Aleksandra Karađorđevića 75.",
+      "Brnabić lives in the former villa of Jovanka Broz, at Aleksandra Karađorđevića Street 75."
+     ],
+     [
+      "Ona je bila predsjednica Narodne skupštine Srbije.",
+      "She was the Speaker of the National Assembly of Serbia."
+     ],
+     [
+      "Dužnost šefa države obavljala je dok nije izabran Aleksandar Čupić.",
+      "She acted as head of state until Aleksandar Čupić was elected."
+     ],
+     [
+      "Bivši predsjednik Srbije Nikolić živi u vili u Užičkoj ulici broj 23.",
+      "Former Serbian president Nikolić lives in a villa at Užička Street number 23."
+     ]
+    ],
+    [
+     [
+      "Tu vilu je dobio u novembru 2018. godine, nakon promjene jedne vladine uredbe.",
+      "He got that villa in November 2018, after a change to a government decree."
+     ],
+     [
+      "Portal Insajder je tada pisao da njeno održavanje mjesečno košta oko 400.000 dinara.",
+      "The Insajder portal wrote at the time that its upkeep costs about 400,000 dinars a month."
+     ],
+     [
+      "To je otprilike 3.400 eura.",
+      "That is roughly 3,400 euros."
+     ],
+     [
+      "Vlada je tada rekla da taj novac pokriva čišćenje, grijanje i druge troškove.",
+      "The government said at the time that this money covers cleaning, heating and other costs."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "vlast",
+     "government, power"
+    ],
+    [
+     "vila",
+     "villa"
+    ],
+    [
+     "iseliti se",
+     "to move out"
+    ],
+    [
+     "dužnost",
+     "office, duty"
+    ],
+    [
+     "uredba",
+     "decree"
+    ],
+    [
+     "održavanje",
+     "upkeep, maintenance"
+    ],
+    [
+     "trošak",
+     "cost"
+    ],
+    [
+     "izvor",
+     "source"
+    ]
+   ]
+  },
+  {
+   "id": "261119229",
+   "source": "Klix.ba",
+   "section": "Biznis",
+   "url": "https://www.klix.ba/biznis/investicije/pogledajte-dokle-su-dosli-radovi-na-12-transverzali-u-sarajevu/261119229",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261119229.jpg",
+   "published": "2026-11-21T16:48:00+01:00",
+   "title": [
+    "Radovi na 12. transverzali u Sarajevu još nisu završeni",
+    "Works on the 12th transversal in Sarajevo are not finished yet"
+   ],
+   "body": [
+    [
+     [
+      "Na 12. transverzali u Sarajevu, kod tržnog centra Bingo na Stupu, i dalje se izvode radovi.",
+      "Works are still going on at the 12th transversal in Sarajevo, near the Bingo shopping centre in Stup."
+     ],
+     [
+      "Transverzala je nova cesta koja treba povezati Stupsku petlju i ulaz u aerodrom.",
+      "The transversal is a new road that is meant to connect the Stup interchange and the airport entrance."
+     ],
+     [
+      "Ugovoreni rok za ovu dionicu, odnosno dio ceste dug 380 metara, istekao je u septembru.",
+      "The agreed deadline for this section, that is a part of the road 380 metres long, expired in September."
+     ]
+    ],
+    [
+     [
+      "Kružni tok i četiri trake pored tržnog centra već su asfaltirani i imaju pješačke prelaze.",
+      "The roundabout and the four lanes next to the shopping centre are already asphalted and have pedestrian crossings."
+     ],
+     [
+      "Završen je i most preko rijeke Dobrinje.",
+      "The bridge over the Dobrinja river is also finished."
+     ],
+     [
+      "Ipak, ostatak prostora oko ceste je i dalje gradilište.",
+      "However, the rest of the area around the road is still a construction site."
+     ],
+     [
+      "Ugovor vrijedan 6,41 milion KM potpisan je u oktobru 2025. s firmama Euro-Asfalt i Demus.",
+      "The contract worth 6.41 million KM was signed in October 2025 with the companies Euro-Asfalt and Demus."
+     ],
+     [
+      "Radovi su počeli 2. decembra 2025. i trebali su trajati devet mjeseci.",
+      "The works began on 2 December 2025 and were supposed to last nine months."
+     ]
+    ],
+    [
+     [
+      "U aprilu je predstavnik izvođača rekao da će rok biti malo duži zbog snijega.",
+      "In April a representative of the contractor said the deadline would be a little longer because of snow."
+     ],
+     [
+      "Novi datum završetka još nije objavljen.",
+      "A new completion date has not been announced yet."
+     ],
+     [
+      "Kanton Sarajevo planira da cijela cesta od Stupa do aerodroma ima četiri trake do 2028. godine.",
+      "Sarajevo Canton plans for the whole road from Stup to the airport to have four lanes by 2028."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "radovi",
+     "construction works"
+    ],
+    [
+     "cesta",
+     "road"
+    ],
+    [
+     "rok",
+     "deadline"
+    ],
+    [
+     "dionica",
+     "section (of a road)"
+    ],
+    [
+     "gradilište",
+     "construction site"
+    ],
+    [
+     "ugovor",
+     "contract"
+    ],
+    [
+     "most",
+     "bridge"
+    ],
+    [
+     "traka",
+     "lane"
+    ]
+   ]
+  },
   {
    "id": "261121073",
    "source": "Klix.ba",
@@ -4886,774 +5686,6 @@
     [
      "vježba",
      "exercise"
-    ]
-   ]
-  },
-  {
-   "id": "261119219",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/nauka/nasa-in-voyager-1-poslao-signal-s-udaljenosti-od-jednog-svjetlosnog-dana/261119219",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261119219.jpg",
-   "published": "2026-11-19T16:10:00+01:00",
-   "title": [
-    "Voyager 1 se javio s udaljenosti od jednog svjetlosnog dana",
-    "Voyager 1 called in from a distance of one light-day"
-   ],
-   "body": [
-    [
-     [
-      "NASA-ina letjelica Voyager 1 poslala je signal kontrolorima na Zemlji s rekordne udaljenosti.",
-      "NASA's spacecraft Voyager 1 sent a signal to controllers on Earth from a record distance."
-     ],
-     [
-      "Signal je putovao tačno 24 sata, pa je letjelica udaljena jedan svjetlosni dan.",
-      "The signal travelled for exactly 24 hours, so the spacecraft is one light-day away."
-     ],
-     [
-      "To je udaljenost koju svjetlost pređe za jedan dan, više od 26 milijardi kilometara.",
-      "That is the distance light travels in one day, more than 26 billion kilometres."
-     ]
-    ],
-    [
-     [
-      "Nijedna letjelica koju su napravili ljudi nije bila tako daleko.",
-      "No spacecraft made by humans has ever been so far away."
-     ],
-     [
-      "Voyager 1 lansiran je 1977. godine, a 1990. snimio je poznatu fotografiju Zemlje „Pale Blue Dot“.",
-      "Voyager 1 was launched in 1977, and in 1990 it took the famous photograph of Earth \"Pale Blue Dot\"."
-     ],
-     [
-      "U međuzvjezdani prostor, daleko izvan utjecaja Sunca, ušao je 2012. godine.",
-      "It entered interstellar space, far beyond the influence of the Sun, in 2012."
-     ],
-     [
-      "Letjelica ima 49 godina i kreće se brzinom od oko 61.000 kilometara na sat.",
-      "The spacecraft is 49 years old and moves at a speed of about 61,000 kilometres per hour."
-     ]
-    ],
-    [
-     [
-      "Dave Gallagher, direktor NASA-ine laboratorije JPL, rekao je da je to novi važan trenutak misije.",
-      "Dave Gallagher, director of NASA's JPL laboratory, said that it was a new important moment for the mission."
-     ],
-     [
-      "Kamere su odavno ugašene, a većina instrumenata isključena je da bi se štedjela energija.",
-      "The cameras were switched off long ago, and most instruments have been turned off to save energy."
-     ],
-     [
-      "Ipak, letjelica i dalje skoro svaki dan šalje podatke.",
-      "Still, the spacecraft keeps sending data almost every day."
-     ],
-     [
-      "Na njoj je i Zlatna ploča sa zvukovima Zemlje, koja bi mogla trajati više od milijardu godina.",
-      "It also carries the Golden Record with sounds of Earth, which could last more than a billion years."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "letjelica",
-     "spacecraft"
-    ],
-    [
-     "udaljenost",
-     "distance"
-    ],
-    [
-     "svjetlost",
-     "light"
-    ],
-    [
-     "lansirati",
-     "to launch"
-    ],
-    [
-     "prostor",
-     "space"
-    ],
-    [
-     "brzina",
-     "speed"
-    ],
-    [
-     "podatak",
-     "piece of data"
-    ],
-    [
-     "ugasiti",
-     "to switch off"
-    ]
-   ]
-  },
-  {
-   "id": "261119124",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/regija/studentska-lista-izabrala-aleksandra-cupica-za-predsjednika-skupstine-srbije-nakon-tri-dana-vucicevih-opstrukcija/261119124",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261119124.jpg",
-   "published": "2026-11-19T13:28:00+01:00",
-   "title": [
-    "Aleksandar Čupić novi predsjednik Skupštine Srbije",
-    "Aleksandar Čupić is the new speaker of Serbia's parliament"
-   ],
-   "body": [
-    [
-     [
-      "Poslanici Skupštine Srbije u četvrtak su izabrali Aleksandra Čupića za predsjednika Skupštine.",
-      "On Thursday MPs in Serbia's parliament elected Aleksandar Čupić as speaker of parliament."
-     ],
-     [
-      "Čupić je poslanik Studentske liste i docent na Saobraćajnom fakultetu u Beogradu.",
-      "Čupić is an MP of the Student List and an assistant professor at the Faculty of Transport in Belgrade."
-     ],
-     [
-      "Izbor je došao nakon sjednice koja je trebala trajati 5 sati, a trajala je 3 dana.",
-      "The election came after a session that was supposed to last 5 hours, but lasted 3 days."
-     ]
-    ],
-    [
-     [
-      "Čupić je dobio 140 glasova, a trebalo mu je najmanje 126.",
-      "Čupić received 140 votes, and he needed at least 126."
-     ],
-     [
-      "Kandidat SNS-a Stojan Radenović dobio je 97 glasova.",
-      "The SNS candidate Stojan Radenović received 97 votes."
-     ],
-     [
-      "Aleksandar Vučić je prvog dana govorio 1 sat i 40 minuta, a drugog dana se javio za riječ oko 30 puta.",
-      "Aleksandar Vučić spoke for 1 hour and 40 minutes on the first day, and on the second day took the floor about 30 times."
-     ],
-     [
-      "Zato je Studentska lista posljednjeg dana povukla sve svoje govornike kako bi se brže glasalo.",
-      "That is why on the last day the Student List withdrew all its speakers so the vote could happen sooner."
-     ]
-    ],
-    [
-     [
-      "Poslanici SNS-a tražili su da Čupić objasni porijeklo svoje imovine.",
-      "SNS MPs asked Čupić to explain the origin of his assets."
-     ],
-     [
-      "On je rekao da će izvještaj o imovini predati Agenciji za borbu protiv korupcije.",
-      "He said he would submit a report on his assets to the Anti-Corruption Agency."
-     ],
-     [
-      "Kao predsjednik Skupštine, Čupić će biti i vršilac dužnosti predsjednika Srbije.",
-      "As speaker of parliament, Čupić will also be acting president of Serbia."
-     ],
-     [
-      "Do 27. novembra mora raspisati predsjedničke izbore.",
-      "By 27 November he must call presidential elections."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "poslanik",
-     "member of parliament"
-    ],
-    [
-     "izabrati",
-     "to elect"
-    ],
-    [
-     "glas",
-     "vote"
-    ],
-    [
-     "sjednica",
-     "session"
-    ],
-    [
-     "govornik",
-     "speaker (person speaking)"
-    ],
-    [
-     "imovina",
-     "assets, property"
-    ],
-    [
-     "raspisati",
-     "to call (elections)"
-    ],
-    [
-     "vršilac dužnosti",
-     "acting (official)"
-    ]
-   ]
-  },
-  {
-   "id": "261119153",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/putin-odusevljen-sastankom-s-trumpom-i-xijem-nikada-prije-nije-bilo-ovako-ali-sada-se-to-desava/261119153",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261119153.jpg",
-   "published": "2026-11-19T13:18:00+01:00",
-   "title": [
-    "Putin zadovoljan sastankom s Trumpom i Xijem",
-    "Putin pleased with the meeting with Trump and Xi"
-   ],
-   "body": [
-    [
-     [
-      "Ruski predsjednik Vladimir Putin u četvrtak je u Shenzhenu govorio novinarima o sastanku s Donaldom Trumpom i Xi Jinpingom.",
-      "On Thursday in Shenzhen, Russian President Vladimir Putin spoke to journalists about the meeting with Donald Trump and Xi Jinping."
-     ],
-     [
-      "Rekao je da ovakav sastanak tri lidera nikada prije nije održan.",
-      "He said that such a meeting of three leaders had never been held before."
-     ],
-     [
-      "Prema njegovim riječima, to je novo poglavlje u historiji diplomatije.",
-      "In his words, it is a new chapter in the history of diplomacy."
-     ]
-    ],
-    [
-     [
-      "Lideri su razgovarali o ratu u Ukrajini, Bliskom istoku i Korejskom poluotoku.",
-      "The leaders talked about the war in Ukraine, the Middle East and the Korean Peninsula."
-     ],
-     [
-      "Razgovarali su i o reformi Ujedinjenih nacija, koje bi, kako kaže Putin, trebalo prilagoditi današnjem svijetu.",
-      "They also talked about reforming the United Nations, which, as Putin says, should be adapted to today's world."
-     ],
-     [
-      "Putinu se posebno svidio dio sastanka nakon zvaničnih govora, kada su lideri otvoreno razgovarali pred novinarima.",
-      "Putin especially liked the part of the meeting after the official speeches, when the leaders talked openly in front of journalists."
-     ]
-    ],
-    [
-     [
-      "Putin je rekao da bi volio da se ovakvi sastanci nastave.",
-      "Putin said he would like such meetings to continue."
-     ],
-     [
-      "Dodao je da su i teški dogovori bolji nego nikakvi.",
-      "He added that even difficult agreements are better than none."
-     ],
-     [
-      "Rekao je i da je politički sistem SAD-a komplikovan.",
-      "He also said that the US political system is complicated."
-     ],
-     [
-      "Ipak, ne sumnja da Trump iskreno želi završiti sukobe, uključujući rat u Ukrajini.",
-      "Still, he has no doubt that Trump sincerely wants to end conflicts, including the war in Ukraine."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "zadovoljan",
-     "pleased"
-    ],
-    [
-     "novinar",
-     "journalist"
-    ],
-    [
-     "poglavlje",
-     "chapter"
-    ],
-    [
-     "govor",
-     "speech"
-    ],
-    [
-     "dogovor",
-     "agreement"
-    ],
-    [
-     "sukob",
-     "conflict"
-    ],
-    [
-     "sumnjati",
-     "to doubt"
-    ]
-   ]
-  },
-  {
-   "id": "261119149",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/kultura/opera-nps-slavi-80-godina-na-gala-koncertu-prvi-put-arija-iz-iolante/261119149",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261119149.jpg",
-   "published": "2026-11-19T13:11:00+01:00",
-   "title": [
-    "Opera Narodnog pozorišta Sarajevo slavi 80 godina",
-    "The Opera of the National Theatre Sarajevo celebrates 80 years"
-   ],
-   "body": [
-    [
-     [
-      "Narodno pozorište Sarajevo večeras u 19:30 počinje proslavu 80 godina svoje Opere.",
-      "This evening at 19:30 the National Theatre Sarajevo begins the celebration of 80 years of its Opera."
-     ],
-     [
-      "Proslava počinje gala koncertom na kojem nastupaju solisti i hor Opere.",
-      "The celebration starts with a gala concert at which soloists and the Opera choir perform."
-     ],
-     [
-      "Prati ih Sarajevska filharmonija, a dirigent je Dario Vučić.",
-      "They are accompanied by the Sarajevo Philharmonic, and the conductor is Dario Vučić."
-     ]
-    ],
-    [
-     [
-      "Publika će čuti arije, duete i horske kompozicije Verdija, Puccinija, Rossinija, Bizeta i drugih kompozitora.",
-      "The audience will hear arias, duets and choral pieces by Verdi, Puccini, Rossini, Bizet and other composers."
-     ],
-     [
-      "Na programu su i djela bh. kompozitora Asima Horozića i Ammara Jažića.",
-      "The programme also includes works by BiH composers Asim Horozić and Ammar Jažić."
-     ],
-     [
-      "Arija kralja Renéa iz Čajkovskijeve opere Iolanta prvi put će se izvesti na sceni NPS-a.",
-      "The aria of King René from Tchaikovsky's opera Iolanta will be performed for the first time on the NPS stage."
-     ],
-     [
-      "Mecosopranistica Hanadi Karić prvi put nastupa na gala koncertu.",
-      "Mezzo-soprano Hanadi Karić is performing at a gala concert for the first time."
-     ]
-    ],
-    [
-     [
-      "Vučić je rekao da je program muzički pregled osam decenija Opere.",
-      "Vučić said that the programme is a musical overview of eight decades of the Opera."
-     ],
-     [
-      "Publika će čuti djela koja su izvedena u Sarajevu, ali i ona koja grad još nije čuo.",
-      "The audience will hear works that have been performed in Sarajevo, but also ones the city has not heard yet."
-     ],
-     [
-      "Historija Opere počela je 9. novembra 1946. godine, kada je izvedena Smetanina Prodana nevjesta.",
-      "The Opera's history began on 9 November 1946, when Smetana's The Bartered Bride was performed."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "pozorište",
-     "theatre"
-    ],
-    [
-     "proslava",
-     "celebration"
-    ],
-    [
-     "koncert",
-     "concert"
-    ],
-    [
-     "hor",
-     "choir"
-    ],
-    [
-     "dirigent",
-     "conductor"
-    ],
-    [
-     "arija",
-     "aria"
-    ],
-    [
-     "izvesti",
-     "to perform"
-    ],
-    [
-     "decenija",
-     "decade"
-    ]
-   ]
-  },
-  {
-   "id": "261119146",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/sud-u-hagu-prvi-put-u-historiji-presudio-da-je-drzava-kriva-za-genocid-mijanmar-odgovoran-za-stravicne-zlocine/261119146",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261119146.jpg",
-   "published": "2026-11-19T13:06:00+01:00",
-   "title": [
-    "Sud u Hagu: Mijanmar je kriv za genocid nad Rohingyama",
-    "Court in The Hague: Myanmar is guilty of genocide against the Rohingya"
-   ],
-   "body": [
-    [
-     [
-      "Međunarodni sud pravde u Hagu u četvrtak je presudio da je Mijanmar počinio genocid nad Rohingya muslimanima.",
-      "On Thursday the International Court of Justice in The Hague ruled that Myanmar committed genocide against Rohingya Muslims."
-     ],
-     [
-      "To je prvi put u historiji da je ovaj sud neku državu proglasio odgovornom za genocid.",
-      "It is the first time in history that this court has declared a state responsible for genocide."
-     ],
-     [
-      "Presudu je pročitao predsjednik suda Yuji Iwasawa.",
-      "The verdict was read by the president of the court, Yuji Iwasawa."
-     ]
-    ],
-    [
-     [
-      "Sudije su odlučile sa 9 glasova za i 6 protiv.",
-      "The judges decided with 9 votes for and 6 against."
-     ],
-     [
-      "Slučaj je 2019. godine pokrenula Gambija.",
-      "The case was started in 2019 by The Gambia."
-     ],
-     [
-      "Prema sudu, snage sigurnosti Mijanmara su 2017. godine u državi Rakhine ubile oko 10.000 Rohingya.",
-      "According to the court, Myanmar's security forces killed about 10,000 Rohingya in Rakhine State in 2017."
-     ],
-     [
-      "Oko 740.000 ljudi tada je pobjeglo u susjedni Bangladeš.",
-      "About 740,000 people then fled to neighbouring Bangladesh."
-     ]
-    ],
-    [
-     [
-      "Mijanmar negira genocid i kaže da je akcija bila usmjerena protiv pobunjenika.",
-      "Myanmar denies genocide and says the operation was aimed at insurgents."
-     ],
-     [
-      "Isti sud je 2007. godine, u slučaju koji je pokrenula BiH, presudio da je u Srebrenici počinjen genocid.",
-      "In 2007, in a case brought by BiH, the same court ruled that genocide was committed in Srebrenica."
-     ],
-     [
-      "Tada je zaključio da Srbija nije direktno odgovorna, ali da genocid nije spriječila.",
-      "It then concluded that Serbia was not directly responsible, but that it had not prevented the genocide."
-     ],
-     [
-      "Nova presuda bi mogla biti važna i za slučaj Južne Afrike protiv Izraela zbog rata u Gazi.",
-      "The new ruling could also be important for South Africa's case against Israel over the war in Gaza."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "sud",
-     "court"
-    ],
-    [
-     "presuditi",
-     "to rule, to judge"
-    ],
-    [
-     "genocid",
-     "genocide"
-    ],
-    [
-     "država",
-     "state"
-    ],
-    [
-     "odgovoran",
-     "responsible"
-    ],
-    [
-     "pobjeći",
-     "to flee"
-    ],
-    [
-     "negirati",
-     "to deny"
-    ],
-    [
-     "presuda",
-     "verdict"
-    ]
-   ]
-  },
-  {
-   "id": "261119148",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/nauka/sta-je-sljedece-za-letjelicu-voyager-1-nakon-sto-je-ispisala-historiju/261119148",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261119148.jpg",
-   "published": "2026-11-19T12:57:00+01:00",
-   "title": [
-    "Šta dalje čeka letjelicu Voyager 1",
-    "What lies ahead for the Voyager 1 spacecraft"
-   ],
-   "body": [
-    [
-     [
-      "Voyager 1 postao je prva letjelica koja je od Zemlje udaljena jedan svjetlosni dan.",
-      "Voyager 1 has become the first spacecraft to be one light-day away from Earth."
-     ],
-     [
-      "To znači da njegovom signalu treba cijeli dan da stigne do nas.",
-      "This means its signal needs a whole day to reach us."
-     ],
-     [
-      "NASA sada planira da do 50. rođendana misije, u septembru 2027. godine, ne mijenja mnogo u radu letjelice.",
-      "NASA now plans not to change much in how the spacecraft works until the mission's 50th birthday in September 2027."
-     ]
-    ],
-    [
-     [
-      "Voyager 1 i dalje mjeri magnetno polje, plazmu i čestice dok se udaljava od Sunca.",
-      "Voyager 1 still measures the magnetic field, plasma and particles as it moves away from the Sun."
-     ],
-     [
-      "Naučnici žele saznati gdje prestaje uticaj Sunca i počinje međuzvjezdani prostor.",
-      "Scientists want to find out where the Sun's influence ends and interstellar space begins."
-     ],
-     [
-      "Problem je energija, jer obje letjelice Voyager svake godine gube oko 4 vata.",
-      "The problem is energy, because both Voyager spacecraft lose about 4 watts every year."
-     ],
-     [
-      "Na početku su imale 470 vati, a neki instrumenti su već isključeni.",
-      "At the start they had 470 watts, and some instruments have already been switched off."
-     ]
-    ],
-    [
-     [
-      "Prošlog mjeseca Voyager 1 oko 48 sati nije odgovarao na komande, ali se brzo oporavio.",
-      "Last month Voyager 1 did not respond to commands for about 48 hours, but it recovered quickly."
-     ],
-     [
-      "Menadžerica projekta Suzanne Dodd rekla je da je cilj da letjelica radi što duže.",
-      "Project manager Suzanne Dodd said the goal is for the spacecraft to keep working as long as possible."
-     ],
-     [
-      "Voyager 2 je u međuzvjezdani prostor ušao 2018. godine.",
-      "Voyager 2 entered interstellar space in 2018."
-     ],
-     [
-      "Do udaljenosti od jednog svjetlosnog dana trebao bi stići oko 2035. godine.",
-      "It should reach a distance of one light-day around 2035."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "letjelica",
-     "spacecraft"
-    ],
-    [
-     "udaljen",
-     "distant"
-    ],
-    [
-     "svjetlosni dan",
-     "light-day"
-    ],
-    [
-     "mjeriti",
-     "to measure"
-    ],
-    [
-     "prostor",
-     "space"
-    ],
-    [
-     "energija",
-     "energy"
-    ],
-    [
-     "isključiti",
-     "to switch off"
-    ],
-    [
-     "oporaviti se",
-     "to recover"
-    ]
-   ]
-  },
-  {
-   "id": "261119127",
-   "source": "Klix.ba",
-   "section": "Vrijeme",
-   "url": "https://www.klix.ba/vijesti/bih/upozorenje-za-bh-gradane-kroz-nekoliko-sati-se-ocekuju-olujni-i-lokalno-orkanski-udari-vjetra-jacine-do-90-kmh/261119127",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261119127.jpg",
-   "published": "2026-11-19T12:46:00+01:00",
-   "title": [
-    "Upozorenje: Večeras jak vjetar do 90 km/h u BiH",
-    "Warning: strong wind up to 90 km/h in BiH this evening"
-   ],
-   "body": [
-    [
-     [
-      "Meteorolozi upozoravaju da se danas u BiH očekuju olujni udari vjetra.",
-      "Meteorologists warn that storm-force wind gusts are expected in BiH today."
-     ],
-     [
-      "Jak vjetar bi trebao puhati od 16:00 do 21:00 sat.",
-      "The strong wind should blow from 16:00 to 21:00."
-     ],
-     [
-      "Prema BH Meteu, vjetar donosi duboki ciklon koji prolazi sjeverno od regije.",
-      "According to BH Meteo, the wind is brought by a deep cyclone passing north of the region."
-     ]
-    ],
-    [
-     [
-      "Najjači udari, od 60 do 90 km/h, očekuju se navečer na sjeveru i sjeveroistoku Bosne.",
-      "The strongest gusts, from 60 to 90 km/h, are expected in the evening in the north and northeast of Bosnia."
-     ],
-     [
-      "Sličan vjetar bit će i u planinskim i brdskim krajevima.",
-      "There will be similar wind in mountain and hill areas."
-     ],
-     [
-      "U kotlinama centralne i istočne Bosne, kao i u nizinama Hercegovine, vjetar će biti nešto slabiji, ali i dalje jak.",
-      "In the basins of central and eastern Bosnia, as well as in the lowlands of Herzegovina, the wind will be somewhat weaker, but still strong."
-     ],
-     [
-      "U Hercegovini i jugozapadnoj Bosni očekuje se obilna kiša, od 15 do 40 litara po metru kvadratnom.",
-      "Heavy rain is expected in Herzegovina and southwestern Bosnia, from 15 to 40 litres per square metre."
-     ],
-     [
-      "U planinama sjeverno od Mostara moglo bi pasti i do 90 litara.",
-      "In the mountains north of Mostar up to 90 litres could fall."
-     ]
-    ],
-    [
-     [
-      "Federalni hidrometeorološki zavod također je izdao upozorenje zbog vjetra i obilnih padavina.",
-      "The Federal Hydrometeorological Institute has also issued a warning because of wind and heavy precipitation."
-     ],
-     [
-      "Prema zavodu, u regijama Banje Luke, Prijedora i Trebinja vjetar bi mogao čupati drveće.",
-      "According to the institute, in the Banja Luka, Prijedor and Trebinje regions the wind could uproot trees."
-     ],
-     [
-      "Mogući su i nestanci struje, zato građani trebaju biti posebno oprezni.",
-      "Power cuts are also possible, so citizens should be especially careful."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "vjetar",
-     "wind"
-    ],
-    [
-     "udar",
-     "gust"
-    ],
-    [
-     "upozorenje",
-     "warning"
-    ],
-    [
-     "kiša",
-     "rain"
-    ],
-    [
-     "obilan",
-     "heavy, abundant"
-    ],
-    [
-     "oprezan",
-     "careful"
-    ],
-    [
-     "struja",
-     "electricity"
-    ]
-   ]
-  },
-  {
-   "id": "261119142",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/objavljena-deklaracija-koju-su-potpisali-xi-jinping-vladimir-putin-i-donald-trump-u-fokusu-nafta-i-nuklearno-oruzje/261119142",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261119142.jpg",
-   "published": "2026-11-19T12:38:00+01:00",
-   "title": [
-    "Xi, Putin i Trump objavili zajedničku deklaraciju o miru",
-    "Xi, Putin and Trump publish a joint peace declaration"
-   ],
-   "body": [
-    [
-     [
-      "Lideri Kine, Rusije i SAD-a sastali su se u četvrtak u kineskom gradu Shenzhenu.",
-      "The leaders of China, Russia and the US met on Thursday in the Chinese city of Shenzhen."
-     ],
-     [
-      "Sastanak je održan na marginama samita APEC-a, a domaćin je bio kineski predsjednik Xi Jinping.",
-      "The meeting was held on the sidelines of the APEC summit, and the host was Chinese President Xi Jinping."
-     ],
-     [
-      "Nakon razgovora su kineski državni mediji objavili deklaraciju o miru koja ima četiri tačke.",
-      "After the talks, Chinese state media published a peace declaration with four points."
-     ]
-    ],
-    [
-     [
-      "U prvoj tački tri zemlje kažu da žele reformu Ujedinjenih nacija.",
-      "In the first point the three countries say they want reform of the United Nations."
-     ],
-     [
-      "Sve tri su stalne članice Vijeća sigurnosti UN-a.",
-      "All three are permanent members of the UN Security Council."
-     ],
-     [
-      "Druga tačka govori o nafti, jer žele proizvoditi i isporučivati više naftnih derivata.",
-      "The second point is about oil, because they want to produce and supply more refined oil products."
-     ],
-     [
-      "U trećoj tački piše da Međunarodni krivični sud ne smije zloupotrebljavati svoju nadležnost.",
-      "The third point says that the International Criminal Court must not abuse its jurisdiction."
-     ],
-     [
-      "Četvrta tačka kaže da se nuklearni rat ne može dobiti i da se nikada ne smije voditi.",
-      "The fourth point says that a nuclear war cannot be won and must never be fought."
-     ]
-    ],
-    [
-     [
-      "Lideri su rekli da će razgovarati o tome kako smanjiti nuklearne rizike.",
-      "The leaders said they would talk about how to reduce nuclear risks."
-     ],
-     [
-      "Ruski mediji su ubrzo objavili isti tekst deklaracije.",
-      "Russian media soon published the same text of the declaration."
-     ],
-     [
-      "Iz SAD-a još nije stigla zvanična izjava o dokumentu.",
-      "No official statement about the document has come from the US yet."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "deklaracija",
-     "declaration"
-    ],
-    [
-     "lider",
-     "leader"
-    ],
-    [
-     "sastanak",
-     "meeting"
-    ],
-    [
-     "tačka",
-     "point"
-    ],
-    [
-     "nafta",
-     "oil"
-    ],
-    [
-     "nuklearni",
-     "nuclear"
-    ],
-    [
-     "rat",
-     "war"
-    ],
-    [
-     "sud",
-     "court"
     ]
    ]
   }
