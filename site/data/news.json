@@ -1,18 +1,762 @@
 {
- "updated": "2026-11-22T13:50:00+01:00",
+ "updated": "2026-11-22T18:43:00+01:00",
  "front": [
-  "261122071",
-  "261122059",
-  "261122065",
-  "261122070",
-  "261122062",
-  "261122069",
+  "261122126",
+  "261122133",
+  "261122108",
+  "261122096",
+  "261117233",
+  "261122103",
   "261122015",
-  "261122056",
-  "261120172",
+  "261122120",
+  "261122134",
   "261122019"
  ],
  "articles": [
+  {
+   "id": "261122134",
+   "source": "Klix.ba",
+   "section": "Zdravlje",
+   "url": "https://www.klix.ba/lifestyle/zdravlje/kako-spavati-bez-mobitela-u-sobi-a-ostati-dostupan-za-hitne-pozive-strucnjaci-daju-savjete/261122134",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261122134.jpg",
+   "published": "2026-11-22T18:15:00+01:00",
+   "title": [
+    "Kako spavati bez mobitela, a ostati dostupan za hitne pozive",
+    "How to sleep without a phone and stay reachable for urgent calls"
+   ],
+   "body": [
+    [
+     [
+      "Stručnjaci za san savjetuju da mobitel ne držimo u spavaćoj sobi.",
+      "Sleep experts advise that we do not keep the phone in the bedroom."
+     ],
+     [
+      "Mnogi ljudi se ipak boje da neće čuti važan poziv tokom noći.",
+      "Many people are still afraid that they will not hear an important call during the night."
+     ],
+     [
+      "Zato stručnjaci predlažu da se navika mijenja polako, korak po korak.",
+      "That is why experts suggest changing the habit slowly, step by step."
+     ]
+    ],
+    [
+     [
+      "Prema istraživanju iz septembra, 62 posto Amerikanaca mlađih od 30 godina kaže da zbog mobitela manje spava.",
+      "According to a survey from September, 62 percent of Americans younger than 30 say that they sleep less because of the phone."
+     ],
+     [
+      "Profesor Jamie Zeitzer sa Univerziteta Stanford kaže da nas obavijesti mogu probuditi noću.",
+      "Professor Jamie Zeitzer from Stanford University says that notifications can wake us up at night."
+     ],
+     [
+      "Plavo svjetlo ekrana također remeti san, čak i kada je uključen noćni način rada.",
+      "The blue light of the screen also disturbs sleep, even when night mode is switched on."
+     ],
+     [
+      "U jednom istraživanju ljudi su sedmicu dana spavali bez mobitela u sobi, a tri od četiri su brže zaspala.",
+      "In one study people slept for a week without a phone in the room, and three out of four fell asleep faster."
+     ]
+    ],
+    [
+     [
+      "Stručnjaci savjetuju da mobitel prvo stavimo dalje od kreveta, a zatim izvan sobe.",
+      "Experts advise that we first put the phone further from the bed, and then outside the room."
+     ],
+     [
+      "Za buđenje je dobro kupiti običan budilnik.",
+      "For waking up it is good to buy an ordinary alarm clock."
+     ],
+     [
+      "Na većini telefona može se podesiti da zvoni ako ista osoba zove nekoliko puta, čak i kada je uključen način Ne uznemiravaj.",
+      "On most phones you can set it to ring if the same person calls several times, even when Do Not Disturb mode is on."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "san",
+     "sleep"
+    ],
+    [
+     "mobitel",
+     "mobile phone"
+    ],
+    [
+     "spavaća soba",
+     "bedroom"
+    ],
+    [
+     "poziv",
+     "call"
+    ],
+    [
+     "obavijest",
+     "notification"
+    ],
+    [
+     "budilnik",
+     "alarm clock"
+    ],
+    [
+     "stručnjak",
+     "expert"
+    ]
+   ]
+  },
+  {
+   "id": "261122103",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/provala-u-kucu-biznismena-u-japanu-ukradeno-20-kilograma-zlata-i-25-miliona-jena/261122103",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261122103.jpg",
+   "published": "2026-11-22T18:10:00+01:00",
+   "title": [
+    "Iz kuće biznismena u Japanu ukradeno 20 kilograma zlata",
+    "20 kilograms of gold stolen from a businessman's house in Japan"
+   ],
+   "body": [
+    [
+     [
+      "Nepoznati lopovi su u subotu provalili u kuću jednog biznismena u japanskom gradu Nishinomiya.",
+      "Unknown thieves broke into the house of a businessman in the Japanese city of Nishinomiya on Saturday."
+     ],
+     [
+      "Ukrali su oko 20 kilograma zlata i 25 miliona jena u gotovini, javila je televizija NHK.",
+      "They stole about 20 kilograms of gold and 25 million yen in cash, the television station NHK reported."
+     ],
+     [
+      "Vlasnik kuće ima 44 godine i nije bio kod kuće.",
+      "The owner of the house is 44 years old and was not at home."
+     ]
+    ],
+    [
+     [
+      "Alarm se uključio oko 02:30 po lokalnom vremenu.",
+      "The alarm went off at about 02:30 local time."
+     ],
+     [
+      "Kada je policija stigla, vrata su bila razbijena.",
+      "When the police arrived, the door was broken."
+     ],
+     [
+      "Vlasnik je kasnije vidio da nema novca i dvadesetak zlatnih poluga od po jedan kilogram.",
+      "The owner later saw that the money and about twenty gold bars of one kilogram each were missing."
+     ],
+     [
+      "Zlato vrijedi oko 400 miliona jena, odnosno oko 4,5 miliona KM.",
+      "The gold is worth about 400 million yen, that is about 4.5 million KM."
+     ],
+     [
+      "Ukupno su lopovi uzeli oko 4,8 miliona KM.",
+      "In total the thieves took about 4.8 million KM."
+     ]
+    ],
+    [
+     [
+      "Policija slučaj vodi kao krađu i traga za počiniocima.",
+      "The police are treating the case as a theft and are searching for the perpetrators."
+     ],
+     [
+      "Japanski mediji nisu objavili ime vlasnika ni njegove firme.",
+      "The Japanese media have not published the name of the owner or of his company."
+     ],
+     [
+      "Za sada nema ni osumnjičenih.",
+      "For now there are no suspects either."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "provaliti",
+     "to break in"
+    ],
+    [
+     "lopov",
+     "thief"
+    ],
+    [
+     "zlato",
+     "gold"
+    ],
+    [
+     "gotovina",
+     "cash"
+    ],
+    [
+     "vlasnik",
+     "owner"
+    ],
+    [
+     "krađa",
+     "theft"
+    ],
+    [
+     "osumnjičeni",
+     "suspect"
+    ]
+   ]
+  },
+  {
+   "id": "261122133",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/milorad-dodik-cestitao-sinu-igor-je-moj-ponos-moja-pobjeda-i-dijete-snsd-a-tako-je-naucen/261122133",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261122133.jpg",
+   "published": "2026-11-22T17:50:00+01:00",
+   "title": [
+    "Milorad Dodik čestitao sinu: Igor je moj ponos",
+    "Milorad Dodik congratulates his son: Igor is my pride"
+   ],
+   "body": [
+    [
+     [
+      "Lider SNSD-a Milorad Dodik u nedjelju je na Instagramu čestitao sinu Igoru.",
+      "SNSD leader Milorad Dodik congratulated his son Igor on Instagram on Sunday."
+     ],
+     [
+      "Igor Dodik je istog dana predložen za mandatara nove Vlade Republike Srpske.",
+      "On the same day Igor Dodik was proposed as prime minister-designate of the new Government of Republika Srpska."
+     ],
+     [
+      "Predložio ga je predsjednik RS-a Savo Minić nakon razgovora s partnerima u koaliciji.",
+      "He was proposed by RS President Savo Minić after talks with partners in the coalition."
+     ]
+    ],
+    [
+     [
+      "Milorad Dodik je napisao da je Igor njegov ponos i njegova pobjeda.",
+      "Milorad Dodik wrote that Igor is his pride and his victory."
+     ],
+     [
+      "Rekao je i da je on dijete SNSD-a, jer je tako naučen.",
+      "He also said that he is a child of the SNSD, because that is how he was raised."
+     ],
+     [
+      "Prema njegovim riječima, sada su potrebni odgovornost, ozbiljan rad i jedinstvo.",
+      "In his words, responsibility, serious work and unity are needed now."
+     ],
+     [
+      "Dodik vjeruje u znanje i iskustvo svog sina, ali i u novu energiju mlađe generacije.",
+      "Dodik believes in his son's knowledge and experience, but also in the new energy of the younger generation."
+     ],
+     [
+      "Napisao je da nikada nije bio sigurniji i ponosniji nego danas.",
+      "He wrote that he had never been more certain and prouder than today."
+     ]
+    ],
+    [
+     [
+      "Igor Dodik je organizacioni sekretar SNSD-a i bio bi najmlađi mandatar u historiji RS-a.",
+      "Igor Dodik is the organisational secretary of the SNSD and would be the youngest prime minister-designate in the history of RS."
+     ],
+     [
+      "Na izborima u oktobru prvi put je bio kandidat za Narodnu skupštinu.",
+      "In the elections in October he was a candidate for the National Assembly for the first time."
+     ],
+     [
+      "Prema prvim rezultatima, dobio je najviše ličnih glasova, ukupno 18.104.",
+      "According to the first results, he won the most personal votes, 18,104 in total."
+     ],
+     [
+      "Prijedlog sada mora potvrditi Narodna skupština RS-a.",
+      "The National Assembly of RS must now confirm the proposal."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "čestitati",
+     "to congratulate"
+    ],
+    [
+     "sin",
+     "son"
+    ],
+    [
+     "ponos",
+     "pride"
+    ],
+    [
+     "pobjeda",
+     "victory"
+    ],
+    [
+     "mandatar",
+     "prime minister-designate"
+    ],
+    [
+     "jedinstvo",
+     "unity"
+    ],
+    [
+     "glas",
+     "vote"
+    ]
+   ]
+  },
+  {
+   "id": "261122126",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/eisenkot-osudio-napade-doseljenika-na-palestinska-sela-to-je-jevrejski-terorizam/261122126",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261122126.jpg",
+   "published": "2026-11-22T17:05:00+01:00",
+   "title": [
+    "Eisenkot osudio napade doseljenika na palestinska sela",
+    "Eisenkot condemns settler attacks on Palestinian villages"
+   ],
+   "body": [
+    [
+     [
+      "Izraelski doseljenici su u nedjelju rano ujutro napali nekoliko palestinskih sela na okupiranoj Zapadnoj obali.",
+      "Israeli settlers attacked several Palestinian villages in the occupied West Bank early on Sunday morning."
+     ],
+     [
+      "Zapalili su automobile i na zidove napisali rasističke poruke, a sela se nalaze blizu Ramallaha.",
+      "They set cars on fire and wrote racist messages on the walls, and the villages are near Ramallah."
+     ],
+     [
+      "Niko nije povrijeđen i niko nije preuzeo odgovornost za napade.",
+      "Nobody was injured and nobody claimed responsibility for the attacks."
+     ]
+    ],
+    [
+     [
+      "Gadi Eisenkot, lider opozicije, rekao je da je to jevrejski terorizam.",
+      "Gadi Eisenkot, the opposition leader, said that it is Jewish terrorism."
+     ],
+     [
+      "Prema njegovim riječima, za haos su krivi ministri Itamar Ben-Gvir i Bezalel Smotrich.",
+      "In his words, ministers Itamar Ben-Gvir and Bezalel Smotrich are to blame for the chaos."
+     ],
+     [
+      "Policija je otvorila istragu, a vojska je u četiri sela poslala vojnike i policajce.",
+      "The police opened an investigation, and the army sent soldiers and police officers to four villages."
+     ],
+     [
+      "Ben-Gvir je odgovorio da Eisenkot tako traži podršku arapskih stranaka.",
+      "Ben-Gvir replied that Eisenkot is seeking the support of Arab parties in this way."
+     ]
+    ],
+    [
+     [
+      "Izbori su održani 27. oktobra, a premijer Benjamin Netanyahu je izgubio većinu u parlamentu.",
+      "The elections were held on 27 October, and Prime Minister Benjamin Netanyahu lost his majority in parliament."
+     ],
+     [
+      "Predsjednik Isaac Herzog dao je Eisenkotu mandat da formira novu vladu.",
+      "President Isaac Herzog gave Eisenkot the mandate to form a new government."
+     ],
+     [
+      "Za većinu u parlamentu od 120 mjesta vjerovatno bi mu trebale arapske stranke.",
+      "For a majority in the 120-seat parliament he would probably need Arab parties."
+     ],
+     [
+      "Ako vlada ne bude formirana, nove izbore očekuju sljedeće godine.",
+      "If the government is not formed, new elections are expected next year."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "doseljenik",
+     "settler"
+    ],
+    [
+     "selo",
+     "village"
+    ],
+    [
+     "napad",
+     "attack"
+    ],
+    [
+     "osuditi",
+     "to condemn"
+    ],
+    [
+     "istraga",
+     "investigation"
+    ],
+    [
+     "većina",
+     "majority"
+    ],
+    [
+     "stranka",
+     "party"
+    ]
+   ]
+  },
+  {
+   "id": "261117233",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/kada-koristiti-zelenu-plavu-i-crvenu-tipku-u-novim-sarajevskim-tramvajima/261117233",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261117233.jpg",
+   "published": "2026-11-22T16:55:00+01:00",
+   "title": [
+    "Čemu služe zelena, plava i crvena tipka u tramvaju",
+    "What the green, blue and red buttons in the tram are for"
+   ],
+   "body": [
+    [
+     [
+      "Novi tramvaji u Sarajevu imaju tri tipke u različitim bojama.",
+      "The new trams in Sarajevo have three buttons in different colours."
+     ],
+     [
+      "Mnogi putnici ih ne koriste, čak ni oni kojima su namijenjene.",
+      "Many passengers do not use them, not even those they are meant for."
+     ],
+     [
+      "Na svakoj tipki je slika koja pokazuje njenu namjenu.",
+      "On each button there is a picture that shows its purpose."
+     ]
+    ],
+    [
+     [
+      "Zelena tipka sa dvije strelice otvara vrata kada putnik želi izaći.",
+      "The green button with two arrows opens the doors when a passenger wants to get off."
+     ],
+     [
+      "Plave tipke imaju sliku kolica za bebe ili invalidskih kolica.",
+      "The blue buttons have a picture of a baby stroller or a wheelchair."
+     ],
+     [
+      "One govore vozaču da putniku treba više vremena za ulazak ili izlazak, pa vozač može spustiti rampu.",
+      "They tell the driver that a passenger needs more time to get on or off, so the driver can lower the ramp."
+     ],
+     [
+      "Mjesto za kolica je u sredini prvog i trećeg dijela tramvaja.",
+      "The space for strollers and wheelchairs is in the middle of the first and third parts of the tram."
+     ]
+    ],
+    [
+     [
+      "Crvena tipka sa zvonom i riječju Alarm služi samo za hitne slučajeve.",
+      "The red button with a bell and the word Alarm is only for emergencies."
+     ],
+     [
+      "To je, na primjer, kada je nekome loše ili kada neko padne.",
+      "That is, for example, when someone feels unwell or when someone falls."
+     ],
+     [
+      "Vozač sjedi u kabini naprijed i često ne čuje putnike sa kraja tramvaja.",
+      "The driver sits in the cab at the front and often does not hear passengers from the end of the tram."
+     ],
+     [
+      "Zato ga crvena tipka odmah upozori da postoji problem.",
+      "That is why the red button immediately warns him that there is a problem."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "tipka",
+     "button"
+    ],
+    [
+     "tramvaj",
+     "tram"
+    ],
+    [
+     "putnik",
+     "passenger"
+    ],
+    [
+     "vrata",
+     "door"
+    ],
+    [
+     "invalidska kolica",
+     "wheelchair"
+    ],
+    [
+     "hitan slučaj",
+     "emergency"
+    ],
+    [
+     "vozač",
+     "driver"
+    ]
+   ]
+  },
+  {
+   "id": "261122120",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/kultura/manifestacija-susreti-zija-dizdarevic-zavrsena-dodjelom-nagrada-prica-bunar-osvojila-prvo-mjesto/261122120",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261122120.jpg",
+   "published": "2026-11-22T16:35:00+01:00",
+   "title": [
+    "Priča \"Bunar\" pobijedila na Susretima Zija Dizdarević",
+    "The story \"Bunar\" wins at the Zija Dizdarević Meetings"
+   ],
+   "body": [
+    [
+     [
+      "U Fojnici su završeni 42. Susreti Zija Dizdarević, književna manifestacija posvećena kratkoj priči.",
+      "The 42nd Zija Dizdarević Meetings, a literary event dedicated to the short story, ended in Fojnica."
+     ],
+     [
+      "Na kraju su podijeljene nagrade za najbolje priče.",
+      "At the end, awards were given for the best stories."
+     ],
+     [
+      "Prvu nagradu dobila je Azemina Krehić iz Zenice za priču \"Bunar\".",
+      "The first prize went to Azemina Krehić from Zenica for the story \"Bunar\" (The Well)."
+     ]
+    ],
+    [
+     [
+      "Žiri je pročitao 140 priča iz BiH i susjednih zemalja.",
+      "The jury read 140 stories from BiH and neighbouring countries."
+     ],
+     [
+      "Druga nagrada je otišla Radmili Stojadinović iz Požarevca, a treća Emini Mujkanović iz Tuzle.",
+      "The second prize went to Radmila Stojadinović from Požarevac, and the third to Emina Mujkanović from Tuzla."
+     ],
+     [
+      "Žiri je rekao da je bunar u pobjedničkoj priči simbol traume i skrivenih tajni.",
+      "The jury said that the well in the winning story is a symbol of trauma and hidden secrets."
+     ],
+     [
+      "Junakinja ne želi prodati porodičnu kuću, a tako prihvata svoju prošlost.",
+      "The heroine does not want to sell the family home, and in this way she accepts her past."
+     ]
+    ],
+    [
+     [
+      "Nagrade su dobili i učenici za najbolje literarne radove.",
+      "Pupils also received awards for the best literary works."
+     ],
+     [
+      "Akademik Mirko Pejanović govorio je o Raifu Dizdareviću, bratu pisca, koji je nedavno preminuo.",
+      "Academician Mirko Pejanović spoke about Raif Dizdarević, the writer's brother, who recently died."
+     ],
+     [
+      "Predstavljena je i velika knjiga lirske poezije, na kojoj se radilo 40 godina.",
+      "A large book of lyric poetry, which was worked on for 40 years, was also presented."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "priča",
+     "story"
+    ],
+    [
+     "nagrada",
+     "award, prize"
+    ],
+    [
+     "žiri",
+     "jury"
+    ],
+    [
+     "bunar",
+     "well"
+    ],
+    [
+     "tajna",
+     "secret"
+    ],
+    [
+     "prošlost",
+     "past"
+    ],
+    [
+     "pisac",
+     "writer"
+    ]
+   ]
+  },
+  {
+   "id": "261122108",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/regija/studentska-lista-najavila-ogromnu-promjenu-reality-sadrzaj-samo-45-minuta-dnevno-i-ne-prije-23-sata/261122108",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261122108.jpg",
+   "published": "2026-11-22T15:55:00+01:00",
+   "title": [
+    "Nova vlast u Srbiji želi ograničiti reality programe",
+    "Serbia's new government wants to limit reality shows"
+   ],
+   "body": [
+    [
+     [
+      "Studentska lista, koja je osvojila većinu u parlamentu Srbije, planira velike promjene na televiziji.",
+      "The Studentska lista, which won a majority in Serbia's parliament, is planning big changes on television."
+     ],
+     [
+      "Reality programi na nacionalnim televizijama trajali bi samo 45 minuta dnevno.",
+      "Reality shows on national TV channels would last only 45 minutes a day."
+     ],
+     [
+      "Ne bi se smjeli prikazivati prije 23 sata, piše britanski list The Telegraph.",
+      "They would not be allowed to be shown before 11 pm, writes the British newspaper The Telegraph."
+     ]
+    ],
+    [
+     [
+      "Televizije bi morale odmah prekinuti program ako ima nasilja, prijetnji ili govora mržnje.",
+      "TV channels would have to stop the programme immediately if there is violence, threats or hate speech."
+     ],
+     [
+      "Pokret želi i radnu sedmicu od 4 dana, odnosno 32 sata, bez manje plate.",
+      "The movement also wants a working week of 4 days, that is 32 hours, without a lower salary."
+     ],
+     [
+      "Prekovremeni rad bi bio ograničen na 8 sati sedmično.",
+      "Overtime work would be limited to 8 hours a week."
+     ],
+     [
+      "Šefovi ne bi smjeli zvati radnike nakon radnog vremena.",
+      "Bosses would not be allowed to call workers after working hours."
+     ]
+    ],
+    [
+     [
+      "Studentska lista je na izborima 25. oktobra dobila 140 od 250 mjesta u parlamentu.",
+      "The Studentska lista won 140 of 250 seats in parliament in the elections on 25 October."
+     ],
+     [
+      "Još nema jasnog kandidata za premijera.",
+      "There is still no clear candidate for prime minister."
+     ],
+     [
+      "Pokret je nastao nakon što se u novembru 2024. srušila nadstrešnica na stanici u Novom Sadu.",
+      "The movement was formed after a canopy collapsed at the station in Novi Sad in November 2024."
+     ],
+     [
+      "Tada je poginulo 16 ljudi, a počeli su veliki protesti protiv korupcije.",
+      "16 people died then, and big protests against corruption began."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "ograničiti",
+     "to limit"
+    ],
+    [
+     "nasilje",
+     "violence"
+    ],
+    [
+     "prijetnja",
+     "threat"
+    ],
+    [
+     "radna sedmica",
+     "working week"
+    ],
+    [
+     "plata",
+     "salary"
+    ],
+    [
+     "mjesto",
+     "seat, place"
+    ],
+    [
+     "korupcija",
+     "corruption"
+    ]
+   ]
+  },
+  {
+   "id": "261122096",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/stanivukovic-ostro-reagovao-na-izbor-igora-dodika-unuku-firma-sinu-vlada-rs-a-sve-pod-budnim-okom-djeda/261122096",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261122096.jpg",
+   "published": "2026-11-22T15:40:00+01:00",
+   "title": [
+    "Stanivuković oštro kritikovao prijedlog Igora Dodika za premijera",
+    "Stanivuković sharply criticises the proposal of Igor Dodik as prime minister"
+   ],
+   "body": [
+    [
+     [
+      "Draško Stanivuković, predsjednik Pokreta Sigurna Srpska, oštro je reagovao na izbor Igora Dodika.",
+      "Draško Stanivuković, president of the Sigurna Srpska movement, reacted sharply to the choice of Igor Dodik."
+     ],
+     [
+      "Predsjednik RS-a Savo Minić predložio je sina Milorada Dodika za mandatara nove vlade.",
+      "RS President Savo Minić proposed Milorad Dodik's son as prime minister-designate of the new government."
+     ],
+     [
+      "Stanivuković se oglasio nekoliko sati nakon te vijesti.",
+      "Stanivuković spoke out a few hours after that news."
+     ]
+    ],
+    [
+     [
+      "Napisao je da unuk dobija firmu, sin vladu, a sve to gleda djed.",
+      "He wrote that the grandson gets a company, the son a government, and the grandfather watches it all."
+     ],
+     [
+      "Minić je rekao da Igor Dodik ima znanje i iskustvo da vodi vladu.",
+      "Minić said that Igor Dodik has the knowledge and experience to lead a government."
+     ],
+     [
+      "Stanivuković je odgovorio da je to iskustvo u uzimanju novca iz budžeta građana.",
+      "Stanivuković replied that this is experience in taking money from the citizens' budget."
+     ],
+     [
+      "Prema njegovim riječima, Narodna skupština ne bi trebala potvrditi takav izbor.",
+      "In his words, the National Assembly should not confirm such a choice."
+     ]
+    ],
+    [
+     [
+      "Mandatara mora potvrditi Narodna skupština Republike Srpske.",
+      "The prime minister-designate must be confirmed by the National Assembly of Republika Srpska."
+     ],
+     [
+      "Stanivuković je rekao da će njegova stranka biti protiv ovakve vlade.",
+      "Stanivuković said that his party will be against this kind of government."
+     ],
+     [
+      "Dodao je da Republika Srpska treba pripadati narodu, a ne jednom prezimenu.",
+      "He added that Republika Srpska should belong to the people, not to one surname."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "reagovati",
+     "to react"
+    ],
+    [
+     "unuk",
+     "grandson"
+    ],
+    [
+     "djed",
+     "grandfather"
+    ],
+    [
+     "firma",
+     "company"
+    ],
+    [
+     "budžet",
+     "budget"
+    ],
+    [
+     "iskustvo",
+     "experience"
+    ],
+    [
+     "prezime",
+     "surname"
+    ]
+   ]
+  },
   {
    "id": "261122065",
    "source": "Klix.ba",
@@ -4918,746 +5662,6 @@
     [
      "stručnjak",
      "expert"
-    ]
-   ]
-  },
-  {
-   "id": "261120184",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/barbarez-nakon-zrijeba-moje-misljenje-je-ostalo-isto-kao-i-ranije-idemo-hrabro/261120184",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261120184.jpg",
-   "published": "2026-11-20T13:27:00+01:00",
-   "title": [
-    "Barbarez nakon žrijeba: Protiv Danske idemo hrabro",
-    "Barbarez after the draw: We go boldly against Denmark"
-   ],
-   "body": [
-    [
-     [
-      "Selektor BiH Sergej Barbarez govorio je nakon žrijeba za baraž Lige nacija u Nyonu.",
-      "Bosnia and Herzegovina head coach Sergej Barbarez spoke after the draw for the Nations League play-off in Nyon."
-     ],
-     [
-      "Zmajevi će u martu igrati protiv Danske za mjesto u Ligi A.",
-      "In March the Dragons will play Denmark for a place in League A."
-     ],
-     [
-      "Barbarez je rekao da se njegovo mišljenje nije promijenilo nakon žrijeba.",
-      "Barbarez said that his opinion did not change after the draw."
-     ]
-    ],
-    [
-     [
-      "BiH je u svojoj grupi Lige B završila na drugom mjestu i zato igra baraž.",
-      "Bosnia and Herzegovina finished second in its League B group, and that is why it plays the play-off."
-     ],
-     [
-      "Danska je u grupi Lige A bila treća i sada se bori da ostane u najjačoj ligi.",
-      "Denmark was third in its League A group and is now fighting to stay in the strongest league."
-     ],
-     [
-      "Prema danskim medijima, prva utakmica bit će u BiH između 25. i 27. marta.",
-      "According to Danish media, the first match will be in Bosnia and Herzegovina between 25 and 27 March."
-     ],
-     [
-      "Revanš se igra u Danskoj između 28. i 30. marta 2027. godine.",
-      "The return leg is played in Denmark between 28 and 30 March 2027."
-     ]
-    ],
-    [
-     [
-      "Barbarez je rekao da tim ide u baraž sa samopouzdanjem i dobrim rezultatima.",
-      "Barbarez said that the team goes into the play-off with confidence and good results."
-     ],
-     [
-      "Dodao je da je privilegija igrati protiv najboljih reprezentacija.",
-      "He added that it is a privilege to play against the best national teams."
-     ],
-     [
-      "Tačni datumi i stadioni još nisu potvrđeni, ali se očekuju Bilino Polje i Parken.",
-      "The exact dates and stadiums have not yet been confirmed, but Bilino Polje and Parken are expected."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "hrabro",
-     "boldly"
-    ],
-    [
-     "mišljenje",
-     "opinion"
-    ],
-    [
-     "promijeniti se",
-     "to change"
-    ],
-    [
-     "boriti se",
-     "to fight"
-    ],
-    [
-     "samopouzdanje",
-     "confidence"
-    ],
-    [
-     "privilegija",
-     "privilege"
-    ],
-    [
-     "potvrditi",
-     "to confirm"
-    ]
-   ]
-  },
-  {
-   "id": "261120167",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/dodik-ismijao-stav-uio-a-o-povratu-pdv-a-na-cijem-placu-ce-graditi-u-vasioni/261120167",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261120167.jpg",
-   "published": "2026-11-20T13:11:00+01:00",
-   "title": [
-    "Dodik ismijao pravilo UIO-a o povratu PDV-a za kuće",
-    "Dodik mocks the ITA rule on VAT refunds for houses"
-   ],
-   "body": [
-    [
-     [
-      "Lider SNSD-a Milorad Dodik ismijao je stav Uprave za indirektno oporezivanje BiH.",
-      "SNSD leader Milorad Dodik mocked the position of the Indirect Taxation Authority of Bosnia and Herzegovina."
-     ],
-     [
-      "Uprava, ili UIO, kaže da građani koji grade kuću na svom zemljištu nemaju pravo na povrat PDV-a.",
-      "The authority, or UIO, says that citizens who build a house on their own land have no right to a VAT refund."
-     ],
-     [
-      "Dodik je na mreži X napisao da je to jedna od najglupljih stvari koje je nedavno čuo.",
-      "Dodik wrote on the X network that it is one of the most foolish things he has heard recently."
-     ]
-    ],
-    [
-     [
-      "U video obraćanju je pitao na čijem placu ljudi trebaju graditi, možda u vasioni.",
-      "In a video address he asked on whose plot people should build, maybe in outer space."
-     ],
-     [
-      "Direktor UIO-a Zoran Tegeltija je član SNSD-a, a na to mjesto ga je postavio Dodik.",
-      "UIO director Zoran Tegeltija is a member of SNSD, and Dodik appointed him to that post."
-     ],
-     [
-      "U Upravnom odboru UIO-a je i ministar finansija Srđan Amidžić, koji je također kadar SNSD-a.",
-      "Finance minister Srđan Amidžić, who is also an SNSD official, is on the UIO management board too."
-     ]
-    ],
-    [
-     [
-      "UIO je ranije objasnio da zakon priznaje samo kupovinu gotove kuće ili stana.",
-      "The UIO explained earlier that the law only recognises the purchase of a finished house or flat."
-     ],
-     [
-      "Ako zemljište ostaje vlasništvo građanina, firma može naplatiti samo usluge gradnje.",
-      "If the land remains the citizen's property, the company can only charge for construction services."
-     ],
-     [
-      "Za povrat PDV-a bi zemljište prije prodaje trebalo preći u vlasništvo firme koja gradi kuću.",
-      "For a VAT refund, the land would have to become the property of the company building the house before the sale."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "ismijati",
-     "to mock"
-    ],
-    [
-     "povrat",
-     "refund"
-    ],
-    [
-     "PDV",
-     "VAT (value added tax)"
-    ],
-    [
-     "zemljište",
-     "land"
-    ],
-    [
-     "plac",
-     "building plot"
-    ],
-    [
-     "vlasništvo",
-     "ownership, property"
-    ],
-    [
-     "usluga",
-     "service"
-    ],
-    [
-     "zakon",
-     "law"
-    ]
-   ]
-  },
-  {
-   "id": "261120156",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/ko-ceka-zmajeve-u-barazu-rekonstruisana-ekipa-nakon-velikog-neuspjeha-kojoj-je-odbrana-slaba-tacka/261120156",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261120156.jpg",
-   "published": "2026-11-20T12:55:00+01:00",
-   "title": [
-    "Danska gradi novu ekipu nakon propuštenog Svjetskog prvenstva",
-    "Denmark is building a new team after missing the World Cup"
-   ],
-   "body": [
-    [
-     [
-      "Danska, protivnik BiH u baražu Lige nacija, pravi novu ekipu nakon velikog neuspjeha.",
-      "Denmark, Bosnia and Herzegovina's opponent in the Nations League play-off, is building a new team after a big failure."
-     ],
-     [
-      "Danci se nisu plasirali na Svjetsko prvenstvo, iako su deset godina igrali na svim velikim turnirima.",
-      "The Danes did not qualify for the World Cup, although they had played at every major tournament for ten years."
-     ],
-     [
-      "U finalu baraža u Pragu igrali su 2:2 s Češkom, a izgubili su nakon penala.",
-      "In the play-off final in Prague they drew 2:2 with Czechia, and lost after penalties."
-     ]
-    ],
-    [
-     [
-      "Savez je ipak zadržao selektora Briana Riemera, čiji ugovor traje do Eura 2028.",
-      "The federation still kept head coach Brian Riemer, whose contract runs until Euro 2028."
-     ],
-     [
-      "Nekoliko važnih igrača je otišlo, među njima Simon Kjær i golman Kasper Schmeichel.",
-      "Several important players have left, among them Simon Kjær and goalkeeper Kasper Schmeichel."
-     ],
-     [
-      "Christian Eriksen nije igrao od juna, ali Riemer kaže da vrata za njega nisu zatvorena.",
-      "Christian Eriksen has not played since June, but Riemer says the door is not closed for him."
-     ],
-     [
-      "U Ligi nacija Danska je pobijedila Portugal u Bragi 4:1, ali je dva puta izgubila od Norveške.",
-      "In the Nations League Denmark beat Portugal 4:1 in Braga, but lost twice to Norway."
-     ]
-    ],
-    [
-     [
-      "Riemer želi napadački nogomet, a u svojih prvih 20 utakmica tim je dao 44 gola.",
-      "Riemer wants attacking football, and in his first 20 matches the team scored 44 goals."
-     ],
-     [
-      "Slaba tačka je odbrana, jer selektor često igra rizično.",
-      "The weak point is the defence, because the coach often plays with risk."
-     ],
-     [
-      "Danska televizija TV 2 je objavila da je Danska dobila najbolji mogući žrijeb.",
-      "Danish broadcaster TV 2 reported that Denmark got the best possible draw."
-     ],
-     [
-      "Prva utakmica igra se u Zenici, a revanš u Danskoj.",
-      "The first match is played in Zenica, and the return leg in Denmark."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "protivnik",
-     "opponent"
-    ],
-    [
-     "neuspjeh",
-     "failure"
-    ],
-    [
-     "plasirati se",
-     "to qualify"
-    ],
-    [
-     "selektor",
-     "national team head coach"
-    ],
-    [
-     "ugovor",
-     "contract"
-    ],
-    [
-     "odbrana",
-     "defence"
-    ],
-    [
-     "slaba tačka",
-     "weak point"
-    ],
-    [
-     "rizično",
-     "riskily"
-    ]
-   ]
-  },
-  {
-   "id": "261120155",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/s-dancima-smo-2003-vec-igrali-baraz-noc-kad-je-40000-ljudi-plakalo-na-kosevu/261120155",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261120155.jpg",
-   "published": "2026-11-20T12:52:00+01:00",
-   "title": [
-    "Sjećanje na 2003: Noć kada je Koševo plakalo",
-    "Remembering 2003: The night Koševo cried"
-   ],
-   "body": [
-    [
-     [
-      "BiH i Danska su se 2003. godine već sastale u utakmici koja je bila kao baraž.",
-      "Bosnia and Herzegovina and Denmark already met in 2003 in a match that was like a play-off."
-     ],
-     [
-      "Bilo je to 11. oktobra, u posljednjem kolu kvalifikacija za Euro 2004. u Portugalu.",
-      "It was on 11 October, in the last round of qualifiers for Euro 2004 in Portugal."
-     ],
-     [
-      "Pobjeda na Koševu bi BiH direktno odvela na Evropsko prvenstvo.",
-      "A win at Koševo would have taken Bosnia and Herzegovina directly to the European Championship."
-     ]
-    ],
-    [
-     [
-      "Stadion je bio pun, a prodano je 40.000 ulaznica.",
-      "The stadium was full, and 40,000 tickets were sold."
-     ],
-     [
-      "Danska je povela u 12. minuti, kada je Martin Jørgensen pogodio pored golmana Kenana Hasagića.",
-      "Denmark took the lead in the 12th minute, when Martin Jørgensen scored past goalkeeper Kenan Hasagić."
-     ],
-     [
-      "U 39. minuti Hasan Salihamidžić je centrirao, a Elvir Bolić je glavom izjednačio na 1:1.",
-      "In the 39th minute Hasan Salihamidžić crossed, and Elvir Bolić equalised with a header to make it 1:1."
-     ],
-     [
-      "BiH nije uspjela dati drugi gol, iako je Danac Thomas Gravesen pred kraj dobio crveni karton.",
-      "Bosnia and Herzegovina did not manage to score a second goal, although the Dane Thomas Gravesen got a red card near the end."
-     ]
-    ],
-    [
-     [
-      "Danska je tako direktno otišla na Euro, a BiH je u grupi završila četvrta.",
-      "Denmark thus went directly to the Euro, and Bosnia and Herzegovina finished fourth in the group."
-     ],
-     [
-      "Navijači su nakon utakmice napustili stadion u suzama.",
-      "After the match the fans left the stadium in tears."
-     ],
-     [
-      "Sada se ekipe ponovo sastaju, u martu u baražu Lige nacija.",
-      "Now the teams meet again, in March in the Nations League play-off."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "sjećanje",
-     "memory"
-    ],
-    [
-     "kolo",
-     "round (of a competition)"
-    ],
-    [
-     "ulaznica",
-     "ticket"
-    ],
-    [
-     "povesti",
-     "to take the lead"
-    ],
-    [
-     "izjednačiti",
-     "to equalise"
-    ],
-    [
-     "crveni karton",
-     "red card"
-    ],
-    [
-     "suza",
-     "tear"
-    ]
-   ]
-  },
-  {
-   "id": "261120146",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/svi-parovi-baraza-i-nokaut-faze-lige-nacija-hrvati-protiv-irske-derbi-igraju-spanija-i-francuska/261120146",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261120146.jpg",
-   "published": "2026-11-20T12:28:00+01:00",
-   "title": [
-    "Liga nacija: Hrvatska igra s Irskom, Španija s Francuskom",
-    "Nations League: Croatia plays Ireland, Spain plays France"
-   ],
-   "body": [
-    [
-     [
-      "UEFA je danas u Nyonu izvukla sve parove baraža i četvrtfinala Lige nacija.",
-      "UEFA today drew all the play-off and quarter-final pairs of the Nations League in Nyon."
-     ],
-     [
-      "Utakmice se igraju u martu 2027. godine, a svaki par igra dvije utakmice.",
-      "The matches are played in March 2027, and each pair plays two matches."
-     ],
-     [
-      "Najveći derbi je meč između Španije i Francuske.",
-      "The biggest clash is the match between Spain and France."
-     ]
-    ],
-    [
-     [
-      "U baražu za Ligu A BiH igra s Danskom, a Mađarska sa Srbijom.",
-      "In the play-off for League A, Bosnia and Herzegovina plays Denmark, and Hungary plays Serbia."
-     ],
-     [
-      "Hrvatska igra protiv Irske, a Slovenija protiv Velsa.",
-      "Croatia plays against Ireland, and Slovenia against Wales."
-     ],
-     [
-      "U baražu za Ligu B Sjeverna Makedonija igra s Kiprom, a Rumunija s Estonijom.",
-      "In the play-off for League B, North Macedonia plays Cyprus, and Romania plays Estonia."
-     ],
-     [
-      "U četvrtfinalu Norveška igra s Engleskom, Holandija s Portugalom, a Belgija s Njemačkom.",
-      "In the quarter-finals Norway plays England, the Netherlands play Portugal, and Belgium plays Germany."
-     ]
-    ],
-    [
-     [
-      "Pobjednik para Španija – Francuska igrat će u polufinalu protiv Norveške ili Engleske.",
-      "The winner of the Spain – France pair will play in the semi-final against Norway or England."
-     ],
-     [
-      "Prve utakmice su od 25. do 27. marta, a revanši od 28. do 30. marta.",
-      "The first matches are from 25 to 27 March, and the return legs from 28 to 30 March."
-     ],
-     [
-      "Prema pravilima UEFA-e, tim iz jače lige igra revanš na svom stadionu.",
-      "According to UEFA rules, the team from the stronger league plays the return leg at its own stadium."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "par",
-     "pair"
-    ],
-    [
-     "četvrtfinale",
-     "quarter-final"
-    ],
-    [
-     "polufinale",
-     "semi-final"
-    ],
-    [
-     "derbi",
-     "big match, derby"
-    ],
-    [
-     "izvući",
-     "to draw (lots)"
-    ],
-    [
-     "pravilo",
-     "rule"
-    ],
-    [
-     "jak",
-     "strong"
-    ]
-   ]
-  },
-  {
-   "id": "261120053",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/bih-ide-na-dansku-u-barazu-lige-nacija-okrsaji-u-martu/261120053",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261120053.jpg",
-   "published": "2026-11-20T12:20:00+01:00",
-   "title": [
-    "BiH u baražu Lige nacija igra protiv Danske",
-    "Bosnia and Herzegovina will play Denmark in the Nations League play-off"
-   ],
-   "body": [
-    [
-     [
-      "Nogometna reprezentacija BiH igrat će protiv Danske u baražu za mjesto u Ligi A.",
-      "The Bosnia and Herzegovina football team will play Denmark in the play-off for a place in League A."
-     ],
-     [
-      "Žrijeb je danas održan u švicarskom gradu Nyonu, gdje se nalazi sjedište UEFA-e.",
-      "The draw was held today in the Swiss town of Nyon, where UEFA has its headquarters."
-     ],
-     [
-      "Utakmice se igraju krajem marta 2027. godine.",
-      "The matches will be played at the end of March 2027."
-     ]
-    ],
-    [
-     [
-      "Prva utakmica bit će 25. ili 27. marta, a revanš 28. ili 30. marta.",
-      "The first match will be on 25 or 27 March, and the return leg on 28 or 30 March."
-     ],
-     [
-      "Pobjednik će u narednom izdanju igrati u Ligi A, a poraženi tim ide u Ligu B.",
-      "The winner will play in League A in the next edition, and the losing team goes to League B."
-     ],
-     [
-      "Danska je u svojoj grupi Lige A bila treća, dok je BiH u grupi Lige B završila druga.",
-      "Denmark finished third in its League A group, while Bosnia and Herzegovina finished second in its League B group."
-     ],
-     [
-      "Revanš uvijek igra kod kuće tim iz Lige A, zato Zmajevi prvi meč igraju kod kuće.",
-      "The League A team always plays the return leg at home, so the Dragons play the first match at home."
-     ]
-    ],
-    [
-     [
-      "Ovo će biti peti i šesti službeni meč između ove dvije reprezentacije.",
-      "These will be the fifth and sixth official matches between these two national teams."
-     ],
-     [
-      "U kvalifikacijama za Svjetsko prvenstvo 1998. obje ekipe su slavile na svom terenu.",
-      "In the qualifiers for the 1998 World Cup, both teams won at home."
-     ],
-     [
-      "BiH je 2003. godine pobijedila u Kopenhagenu 2:0, ali je na Koševu igrala samo 1:1.",
-      "In 2003 Bosnia and Herzegovina won 2:0 in Copenhagen, but only drew 1:1 at Koševo."
-     ],
-     [
-      "UEFA je zabranila dolazak navijača BiH na prvu gostujuću utakmicu, pa u Danskoj neće biti domaćih navijača.",
-      "UEFA has banned Bosnian fans from the first away match, so there will be no Bosnian fans in Denmark."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "baraž",
-     "play-off"
-    ],
-    [
-     "žrijeb",
-     "draw (of lots)"
-    ],
-    [
-     "reprezentacija",
-     "national team"
-    ],
-    [
-     "revanš",
-     "return leg"
-    ],
-    [
-     "poraženi",
-     "defeated"
-    ],
-    [
-     "navijač",
-     "fan, supporter"
-    ],
-    [
-     "zabraniti",
-     "to ban"
-    ],
-    [
-     "pobjednik",
-     "winner"
-    ]
-   ]
-  },
-  {
-   "id": "261120128",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/muzika/otkazan-koncert-dine-merlina-u-splitu/261120128",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261120128.jpg",
-   "published": "2026-11-20T11:24:00+01:00",
-   "title": [
-    "Split otkazao novogodišnji koncert Dine Merlina",
-    "Split cancels Dino Merlin's New Year concert"
-   ],
-   "body": [
-    [
-     [
-      "Koncert Dine Merlina, koji je bio planiran za 30. decembar na splitskoj Rivi, neće se održati.",
-      "Dino Merlin's concert, which was planned for 30 December on Split's Riva, will not take place."
-     ],
-     [
-      "Odluku je na pres-konferenciji objavio gradonačelnik Splita Tomislav Šuta.",
-      "Split mayor Tomislav Šuta announced the decision at a press conference."
-     ],
-     [
-      "Koncert je bio dio adventskog programa u gradu.",
-      "The concert was part of the city's Advent programme."
-     ]
-    ],
-    [
-     [
-      "Šuta je rekao da lično nije potpisao ugovor jer je situacija otišla u pogrešnom smjeru.",
-      "Šuta said that he personally did not sign the contract because the situation had gone in the wrong direction."
-     ],
-     [
-      "Više od 20.000 građana potpisalo je peticiju protiv koncerta.",
-      "More than 20,000 citizens signed a petition against the concert."
-     ],
-     [
-      "Oni su tražili da grad novac da za novi medicinski aparat za bolnicu u Splitu.",
-      "They asked the city to give the money for a new medical device for the hospital in Split."
-     ],
-     [
-      "Grad je dan ranije objavio da bi Merlin dobio 140.000 eura, a produkcija bi koštala 160.000 eura.",
-      "A day earlier the city announced that Merlin would get 140,000 euros, and the production would cost 160,000 euros."
-     ]
-    ],
-    [
-     [
-      "Gradonačelnik sada kaže da je to bila samo procjena, jer javna nabavka nije bila završena.",
-      "The mayor now says that this was only an estimate, because the public procurement was not finished."
-     ],
-     [
-      "Rekao je i da mu je žao ljudi koji su već rezervisali smještaj u Splitu.",
-      "He also said that he feels sorry for the people who had already booked accommodation in Split."
-     ],
-     [
-      "Dino Merlin i njegov menadžment još nisu komentarisali odluku.",
-      "Dino Merlin and his management have not yet commented on the decision."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "otkazati",
-     "to cancel"
-    ],
-    [
-     "gradonačelnik",
-     "mayor"
-    ],
-    [
-     "potpisati",
-     "to sign"
-    ],
-    [
-     "peticija",
-     "petition"
-    ],
-    [
-     "procjena",
-     "estimate"
-    ],
-    [
-     "smještaj",
-     "accommodation"
-    ],
-    [
-     "javna nabavka",
-     "public procurement"
-    ]
-   ]
-  },
-  {
-   "id": "261120107",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/nauka/teleskop-euclid-snimio-vise-od-milijardu-objekata-u-svemiru-postavlja-temelje-za-najvecu-3d-mapu-svemira-ikada/261120107",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261120107.jpg",
-   "published": "2026-11-20T10:54:00+01:00",
-   "title": [
-    "Teleskop Euclid snimio više od milijardu objekata u svemiru",
-    "The Euclid telescope has recorded more than a billion objects in space"
-   ],
-   "body": [
-    [
-     [
-      "Evropska svemirska agencija ESA objavila je prve velike podatke teleskopa Euclid.",
-      "The European Space Agency ESA has published the first large data set from the Euclid telescope."
-     ],
-     [
-      "Teleskop je za 13 mjeseci snimio više od milijardu objekata u svemiru.",
-      "In 13 months the telescope recorded more than a billion objects in space."
-     ],
-     [
-      "Euclid je lansiran u julu 2023. godine, a podaci pokrivaju dio neba velik kao 9.500 punih mjeseci.",
-      "Euclid was launched in July 2023, and the data covers a part of the sky as big as 9,500 full moons."
-     ]
-    ],
-    [
-     [
-      "Među objektima je više od 900 miliona galaksija i više od 60 miliona mogućih kvazara.",
-      "Among the objects are more than 900 million galaxies and more than 60 million possible quasars."
-     ],
-     [
-      "Kvazari su vrlo svijetli centri dalekih galaksija.",
-      "Quasars are very bright centres of distant galaxies."
-     ],
-     [
-      "Teleskop je pronašao i oko 15.000 gravitacijskih leća, kada bliža galaksija savija svjetlost dalje galaksije.",
-      "The telescope also found about 15,000 gravitational lenses, when a nearer galaxy bends the light of a more distant galaxy."
-     ],
-     [
-      "Pomogli su kompjuterski programi i hiljade volontera.",
-      "Computer programs and thousands of volunteers helped."
-     ]
-    ],
-    [
-     [
-      "Ovi podaci su osnova za najveću 3D mapu svemira, koja će pomoći u proučavanju tamne materije i tamne energije.",
-      "This data is the basis for the largest 3D map of the universe, which will help in studying dark matter and dark energy."
-     ],
-     [
-      "Naučnica Natalie Lines rekla je da se sada može izmjeriti masa pojedinih galaksija.",
-      "Scientist Natalie Lines said that the mass of individual galaxies can now be measured."
-     ],
-     [
-      "Do sada je snimljeno oko 14 posto neba, a novi podaci očekuju se sredinom 2027. godine.",
-      "So far about 14 percent of the sky has been recorded, and new data is expected in mid-2027."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "svemir",
-     "space, universe"
-    ],
-    [
-     "teleskop",
-     "telescope"
-    ],
-    [
-     "snimiti",
-     "to record, to capture"
-    ],
-    [
-     "nebo",
-     "sky"
-    ],
-    [
-     "galaksija",
-     "galaxy"
-    ],
-    [
-     "svjetlost",
-     "light"
-    ],
-    [
-     "tamna materija",
-     "dark matter"
-    ],
-    [
-     "naučnica",
-     "scientist (female)"
     ]
    ]
   }
