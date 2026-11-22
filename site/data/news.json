@@ -1,17 +1,962 @@
 {
- "updated": "2026-11-22T07:43:00+01:00",
+ "updated": "2026-11-22T13:50:00+01:00",
  "front": [
-  "261121158",
-  "261122002",
-  "261122004",
-  "261122011",
-  "261122008",
-  "261122007",
-  "261122001",
-  "261121165",
-  "261121038"
+  "261122071",
+  "261122059",
+  "261122065",
+  "261122070",
+  "261122062",
+  "261122069",
+  "261122015",
+  "261122056",
+  "261120172",
+  "261122019"
  ],
  "articles": [
+  {
+   "id": "261122065",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/kerim-alajbegovic-se-povrijedio-u-duelu-juventusa-s-venezijom-zamijenjen-je-na-poluvremenu/261122065",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261122065.jpg",
+   "published": "2026-11-22T13:33:00+01:00",
+   "title": [
+    "Alajbegović se povrijedio na utakmici Juventusa i Venezije",
+    "Alajbegović gets injured in the Juventus–Venezia match"
+   ],
+   "body": [
+    [
+     [
+      "Bosanskohercegovački nogometaš Kerim Alajbegović povrijedio se u nedjelju na utakmici Juventusa protiv Venezije.",
+      "Bosnian-Herzegovinian footballer Kerim Alajbegović was injured on Sunday in Juventus's match against Venezia."
+     ],
+     [
+      "Utakmica 12. kola italijanske Serie A igrala se na domaćem stadionu Juventusa.",
+      "The 12th-round match of the Italian Serie A was played at Juventus's home stadium."
+     ],
+     [
+      "Alajbegović je bio u prvoj postavi, ali nije igrao do kraja.",
+      "Alajbegović was in the starting line-up, but he did not play to the end."
+     ]
+    ],
+    [
+     [
+      "Povreda se desila u 35. minuti, a on je kratko izašao s terena zbog pomoći ljekara.",
+      "The injury happened in the 35th minute, and he briefly left the pitch for help from the doctors."
+     ],
+     [
+      "Nakon toga se vratio i igrao do kraja prvog poluvremena, iako je vidljivo šepao.",
+      "After that he came back and played until the end of the first half, although he was visibly limping."
+     ],
+     [
+      "Prvo poluvrijeme završilo je rezultatom 0:0.",
+      "The first half ended with a score of 0:0."
+     ],
+     [
+      "Trener Luciano Spalletti zamijenio ga je na poluvremenu, a umjesto njega je ušao Nick Woltemade.",
+      "Coach Luciano Spalletti replaced him at half-time, and Nick Woltemade came on instead of him."
+     ]
+    ],
+    [
+     [
+      "Alajbegović je nakon povrede igrao još oko 10 minuta.",
+      "Alajbegović played about 10 more minutes after the injury."
+     ],
+     [
+      "Zato se vjeruje da povreda vjerovatno nije ozbiljna.",
+      "That is why it is believed that the injury is probably not serious."
+     ],
+     [
+      "Tačnu dijagnozu ipak treba čekati, jer će je dati ljekari kluba.",
+      "The exact diagnosis still has to be waited for, because the club's doctors will give it."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "povrijediti se",
+     "to get injured"
+    ],
+    [
+     "povreda",
+     "injury"
+    ],
+    [
+     "utakmica",
+     "match"
+    ],
+    [
+     "poluvrijeme",
+     "half (of a match)"
+    ],
+    [
+     "zamijeniti",
+     "to replace"
+    ],
+    [
+     "trener",
+     "coach"
+    ],
+    [
+     "ozbiljan",
+     "serious"
+    ],
+    [
+     "šepati",
+     "to limp"
+    ]
+   ]
+  },
+  {
+   "id": "261122069",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/formula1/sef-ferrarija-o-sudaru-hamiltona-i-leclerca-veoma-sam-ljut-vidjet-cemo-koje-cemo-mjere-preduzeti/261122069",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261122069.jpg",
+   "published": "2026-11-22T13:14:00+01:00",
+   "title": [
+    "Šef Ferrarija ljut nakon sudara Hamiltona i Leclerca",
+    "Ferrari boss angry after Hamilton and Leclerc collide"
+   ],
+   "body": [
+    [
+     [
+      "Šef Ferrarija Fred Vasseur rekao je da je veoma ljut nakon sudara svojih vozača u Las Vegasu.",
+      "Ferrari boss Fred Vasseur said that he is very angry after his drivers collided in Las Vegas."
+     ],
+     [
+      "Charles Leclerc i Lewis Hamilton sudarili su se tokom utrke Formule 1, a Vasseur je rekao da je to neprihvatljivo.",
+      "Charles Leclerc and Lewis Hamilton collided during the Formula 1 race, and Vasseur said that this is unacceptable."
+     ],
+     [
+      "Utrku je pobijedio Max Verstappen.",
+      "The race was won by Max Verstappen."
+     ]
+    ],
+    [
+     [
+      "Sudar se desio u 38. od 50 krugova, a Hamilton se nakon udarca okrenuo na stazi.",
+      "The collision happened on lap 38 of 50, and Hamilton spun on the track after the hit."
+     ],
+     [
+      "Sudije su odlučile da je za sudar kriv samo Leclerc i dale mu kaznu od 10 sekundi.",
+      "The stewards decided that only Leclerc was to blame for the collision and gave him a 10-second penalty."
+     ],
+     [
+      "Hamilton je također dobio 10 sekundi kazne, ali zbog skraćivanja staze u borbi s Landom Norrisom.",
+      "Hamilton also got a 10-second penalty, but for cutting the track in a fight with Lando Norris."
+     ],
+     [
+      "Na kraju je Hamilton bio sedmi, a Leclerc deseti.",
+      "In the end Hamilton was seventh and Leclerc tenth."
+     ]
+    ],
+    [
+     [
+      "Vasseur je rekao da je Leclerc dobio uputu da ne pretiče, ali je nije poslušao.",
+      "Vasseur said that Leclerc was told not to overtake, but he did not listen."
+     ],
+     [
+      "Tim je saopćio da je ovo drugi takav incident između njegovih vozača u 3 utrke.",
+      "The team said that this is the second such incident between its drivers in 3 races."
+     ],
+     [
+      "Vasseur će u ponedjeljak s timom razgovarati o mjerama koje bi Ferrari mogao preduzeti.",
+      "On Monday Vasseur will talk with the team about the measures that Ferrari could take."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "sudar",
+     "collision"
+    ],
+    [
+     "vozač",
+     "driver"
+    ],
+    [
+     "utrka",
+     "race"
+    ],
+    [
+     "ljut",
+     "angry"
+    ],
+    [
+     "kazna",
+     "penalty"
+    ],
+    [
+     "krug",
+     "lap"
+    ],
+    [
+     "pretjecati",
+     "to overtake"
+    ],
+    [
+     "mjera",
+     "measure"
+    ]
+   ]
+  },
+  {
+   "id": "261122070",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/stojkovic-prva-saradnja-nove-vlasti-srbije-i-bih-mora-biti-dodikovo-izrucenje/261122070",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261122070.jpg",
+   "published": "2026-11-22T13:07:00+01:00",
+   "title": [
+    "Beogradski advokat traži da BiH izruči Milorada Dodika Srbiji",
+    "A Belgrade lawyer wants BiH to extradite Milorad Dodik to Serbia"
+   ],
+   "body": [
+    [
+     [
+      "Advokat iz Beograda Čedomir Stojković rekao je za BHRT da će nova vlast u Srbiji Milorada Dodika smatrati osumnjičenim.",
+      "Belgrade lawyer Čedomir Stojković told BHRT that the new government in Serbia will consider Milorad Dodik a suspect."
+     ],
+     [
+      "On očekuje da BiH izruči Dodika Srbiji kako bi mu se tamo sudilo za korupciju.",
+      "He expects BiH to extradite Dodik to Serbia so that he can be tried there for corruption."
+     ],
+     [
+      "Izručenje znači da jedna država preda osobu drugoj državi zbog suđenja.",
+      "Extradition means that one country hands a person over to another country for a trial."
+     ]
+    ],
+    [
+     [
+      "Stojković tvrdi da je Dodik od građana Srbije kroz korupciju uzeo milione.",
+      "Stojković claims that Dodik took millions from the citizens of Serbia through corruption."
+     ],
+     [
+      "Dodik ima i državljanstvo Srbije, a Stojković kaže da je osumnjičen za mnoga krivična djela.",
+      "Dodik also has Serbian citizenship, and Stojković says that he is suspected of many criminal offences."
+     ],
+     [
+      "Smatra da nova vlast s njim neće praviti nikakve prljave dogovore.",
+      "He believes that the new government will not make any dirty deals with him."
+     ],
+     [
+      "Ako Dodik ostane u BiH, prva saradnja dvije države bila bi saradnja u krivičnim predmetima.",
+      "If Dodik stays in BiH, the first cooperation of the two countries would be cooperation in criminal cases."
+     ]
+    ],
+    [
+     [
+      "Novi predsjednik skupštine Srbije Aleksandar Čupić izabran je 19. novembra.",
+      "The new speaker of the Serbian parliament, Aleksandar Čupić, was elected on 19 November."
+     ],
+     [
+      "Nova vlada Srbije trebala bi biti formirana u narednim sedmicama.",
+      "The new government of Serbia should be formed in the coming weeks."
+     ],
+     [
+      "Stojković je rekao i da očekuje kraj moći Aleksandra Vučića najkasnije do januara.",
+      "Stojković also said that he expects the end of Aleksandar Vučić's power by January at the latest."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "advokat",
+     "lawyer"
+    ],
+    [
+     "izručiti",
+     "to extradite"
+    ],
+    [
+     "osumnjičeni",
+     "suspect"
+    ],
+    [
+     "korupcija",
+     "corruption"
+    ],
+    [
+     "državljanstvo",
+     "citizenship"
+    ],
+    [
+     "suditi",
+     "to try (in court)"
+    ],
+    [
+     "vlast",
+     "government, authorities"
+    ],
+    [
+     "dogovor",
+     "deal, agreement"
+    ]
+   ]
+  },
+  {
+   "id": "261122071",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/igor-dodik-ja-sam-svjestan-da-moramo-mijenjati-sebe-narocito-mi-je-vazno-uspostaviti-saradnju-s-vladom-u-srbiji/261122071",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261122071.jpg",
+   "published": "2026-11-22T12:50:00+01:00",
+   "title": [
+    "Igor Dodik prihvatio mandat i najavio saradnju sa Srbijom",
+    "Igor Dodik accepts the mandate and announces cooperation with Serbia"
+   ],
+   "body": [
+    [
+     [
+      "Igor Dodik je u nedjelju prihvatio prijedlog da bude mandatar nove Vlade Republike Srpske.",
+      "On Sunday Igor Dodik accepted the proposal to be the prime minister-designate of the new Government of Republika Srpska."
+     ],
+     [
+      "Predložio ga je predsjednik RS-a Savo Minić, a podršku mu je dao i SNSD.",
+      "He was proposed by RS President Savo Minić, and the SNSD also gave him its support."
+     ],
+     [
+      "Dodik je rekao da mandat prihvata s punom odgovornošću.",
+      "Dodik said that he accepts the mandate with full responsibility."
+     ]
+    ],
+    [
+     [
+      "Prema njegovim riječima, saradnja sa Srbijom imat će posebno mjesto u radu vlade.",
+      "In his words, cooperation with Serbia will have a special place in the government's work."
+     ],
+     [
+      "Želi dobru saradnju s budućom vladom Srbije, koju će voditi Studentska lista.",
+      "He wants good cooperation with the future government of Serbia, which will be led by the Studentska lista."
+     ],
+     [
+      "Rekao je i da RS podržava ulazak u Evropsku uniju samo ako se poštuju njeni interesi.",
+      "He also said that RS supports joining the European Union only if its interests are respected."
+     ],
+     [
+      "Građani žele stabilne plate i penzije, bolje zdravstvo i školstvo, a vlada će na tome raditi od prvog dana.",
+      "Citizens want stable salaries and pensions, better healthcare and schools, and the government will work on that from the first day."
+     ]
+    ],
+    [
+     [
+      "Dodik je rekao da svi žele mijenjati svijet, ali niko ne želi mijenjati sebe.",
+      "Dodik said that everyone wants to change the world, but nobody wants to change themselves."
+     ],
+     [
+      "Dodao je da će donositi odluke, čak i kada su bolne.",
+      "He added that he will make decisions, even when they are painful."
+     ],
+     [
+      "Sada mora Narodnoj skupštini predstaviti program i sastav vlade.",
+      "Now he must present the programme and the composition of the government to the National Assembly."
+     ],
+     [
+      "Vlada će biti izabrana ako za nju glasa većina svih poslanika, a mandat traje 4 godine.",
+      "The government will be elected if a majority of all deputies vote for it, and the mandate lasts 4 years."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "mandatar",
+     "prime minister-designate"
+    ],
+    [
+     "mandat",
+     "mandate, term"
+    ],
+    [
+     "vlada",
+     "government"
+    ],
+    [
+     "saradnja",
+     "cooperation"
+    ],
+    [
+     "odgovornost",
+     "responsibility"
+    ],
+    [
+     "poslanik",
+     "deputy, member of parliament"
+    ],
+    [
+     "plata",
+     "salary"
+    ],
+    [
+     "penzija",
+     "pension"
+    ]
+   ]
+  },
+  {
+   "id": "261122059",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/igor-dodik-zvanicno-predlozen-za-mandatara-nove-vlade-republike-srpske/261122059",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261122059.jpg",
+   "published": "2026-11-22T12:10:00+01:00",
+   "title": [
+    "Igor Dodik zvanično predložen za premijera Republike Srpske",
+    "Igor Dodik officially proposed as prime minister of Republika Srpska"
+   ],
+   "body": [
+    [
+     [
+      "Predsjednik Republike Srpske Savo Minić predložio je u nedjelju Igora Dodika za mandatara nove vlade.",
+      "On Sunday the President of Republika Srpska Savo Minić proposed Igor Dodik as prime minister-designate of the new government."
+     ],
+     [
+      "Odluku je donio nakon razgovora s partnerima iz koalicije u Banjoj Luci.",
+      "He made the decision after talks with coalition partners in Banja Luka."
+     ],
+     [
+      "Igor Dodik je sin lidera SNSD-a Milorada Dodika i organizacioni sekretar te stranke.",
+      "Igor Dodik is the son of SNSD leader Milorad Dodik and the party's organisational secretary."
+     ]
+    ],
+    [
+     [
+      "Minić je na konferenciji za medije rekao da Dodik ima znanje i iskustvo da vodi vladu.",
+      "At a press conference Minić said that Dodik has the knowledge and experience to lead the government."
+     ],
+     [
+      "Dodao je da bi on bio najmlađi premijer u historiji RS-a.",
+      "He added that he would be the youngest prime minister in the history of RS."
+     ],
+     [
+      "Na oktobarskim izborima Dodik je prvi put bio kandidat za Narodnu skupštinu.",
+      "In the October elections Dodik was a candidate for the National Assembly for the first time."
+     ],
+     [
+      "Prema preliminarnim rezultatima, dobio je najviše ličnih glasova, njih 18.104.",
+      "According to preliminary results, he won the most personal votes, 18,104 of them."
+     ]
+    ],
+    [
+     [
+      "Drugi je bio Draško Stanivuković sa 15.570 glasova.",
+      "Second was Draško Stanivuković with 15,570 votes."
+     ],
+     [
+      "Lideri Socijalističke partije, DNS-a i NPS-a rekli su da podržavaju Minićev izbor.",
+      "The leaders of the Socialist Party, the DNS and the NPS said that they support Minić's choice."
+     ],
+     [
+      "Narodna skupština sada mora potvrditi prijedlog prije nego što vlada počne raditi.",
+      "The National Assembly now has to confirm the proposal before the government starts working."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "predsjednik",
+     "president"
+    ],
+    [
+     "predložiti",
+     "to propose"
+    ],
+    [
+     "koalicija",
+     "coalition"
+    ],
+    [
+     "stranka",
+     "political party"
+    ],
+    [
+     "izbori",
+     "elections"
+    ],
+    [
+     "glas",
+     "vote"
+    ],
+    [
+     "rezultat",
+     "result"
+    ],
+    [
+     "potvrditi",
+     "to confirm"
+    ]
+   ]
+  },
+  {
+   "id": "261122056",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/muzika/zabranjeno-pusenje-drugi-put-odusevilo-publiku-u-lisinskom-neustekani-zakazali-i-treci-koncert-u-zagrebu/261122056",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261122056.jpg",
+   "published": "2026-11-22T11:59:00+01:00",
+   "title": [
+    "Zabranjeno pušenje drugi put oduševilo publiku u Zagrebu",
+    "Zabranjeno pušenje thrills the audience in Zagreb for the second time"
+   ],
+   "body": [
+    [
+     [
+      "Zabranjeno pušenje održalo je u subotu drugi rasprodani akustični koncert u dvorani Lisinski u Zagrebu.",
+      "On Saturday Zabranjeno pušenje held a second sold-out acoustic concert in the Lisinski hall in Zagreb."
+     ],
+     [
+      "Bend je nastupio kao Neuštekani, što je naziv njihovog akustičnog projekta koji traje oko 2 godine.",
+      "The band performed as Neuštekani, which is the name of their acoustic project that has been going for about 2 years."
+     ],
+     [
+      "Publika je pjevala i pljeskala, a na kraju je ustala sa sjedišta.",
+      "The audience sang and clapped, and in the end it stood up from its seats."
+     ]
+    ],
+    [
+     [
+      "Koncert je počeo pjesmom „Halid umjesto Halida“, posvećenom Halidu Bešliću, koji bi dan ranije imao rođendan.",
+      "The concert began with the song \"Halid umjesto Halida\", dedicated to Halid Bešlić, who would have had his birthday the day before."
+     ],
+     [
+      "Svirali su i poznate pjesme kao što su „Lijepa Alma“, „Bog vozi Mercedes“ i „Boško i Admira“.",
+      "They also played well-known songs such as \"Lijepa Alma\", \"Bog vozi Mercedes\" and \"Boško i Admira\"."
+     ],
+     [
+      "Sredinom koncerta pridružio im se gudački kvartet, mala grupa od 4 muzičara sa violinama i violončelom.",
+      "In the middle of the concert they were joined by a string quartet, a small group of 4 musicians with violins and a cello."
+     ],
+     [
+      "Koncert je trajao skoro 3 sata.",
+      "The concert lasted almost 3 hours."
+     ]
+    ],
+    [
+     [
+      "Sejo Sexon se našalio da kvartet bolje pristaje Lisinskom od samog benda.",
+      "Sejo Sexon joked that the quartet suits Lisinski better than the band itself."
+     ],
+     [
+      "Treći koncert u Lisinskom bit će 28. januara 2027., ponovo s kvartetom.",
+      "The third concert in Lisinski will be on 28 January 2027, again with the quartet."
+     ],
+     [
+      "Prije toga Neuštekani će 4. i 5. decembra svirati u Sarajevu, u BKC-u.",
+      "Before that Neuštekani will play in Sarajevo, at the BKC, on 4 and 5 December."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "koncert",
+     "concert"
+    ],
+    [
+     "publika",
+     "audience"
+    ],
+    [
+     "rasprodan",
+     "sold out"
+    ],
+    [
+     "pjesma",
+     "song"
+    ],
+    [
+     "bend",
+     "band"
+    ],
+    [
+     "nastupiti",
+     "to perform"
+    ],
+    [
+     "pljeskati",
+     "to clap"
+    ],
+    [
+     "našaliti se",
+     "to make a joke"
+    ]
+   ]
+  },
+  {
+   "id": "261122062",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/branko-blanusa-podnio-ostavku-na-mjesto-predsjednika-sds-a/261122062",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261122062.jpg",
+   "published": "2026-11-22T11:47:00+01:00",
+   "title": [
+    "Branko Blanuša dao ostavku na mjesto predsjednika SDS-a",
+    "Branko Blanuša resigns as president of the SDS"
+   ],
+   "body": [
+    [
+     [
+      "Branko Blanuša podnio je u nedjelju ostavku na mjesto predsjednika Srpske demokratske stranke.",
+      "On Sunday Branko Blanuša resigned from the post of president of the Serb Democratic Party."
+     ],
+     [
+      "Razloge je objasnio u pismu članovima i simpatizerima stranke.",
+      "He explained the reasons in a letter to party members and supporters."
+     ],
+     [
+      "Nakon lošeg rezultata na oktobarskim izborima, mnogi u SDS-u tražili su njegovu ostavku.",
+      "After the poor result in the October elections, many in the SDS asked for his resignation."
+     ]
+    ],
+    [
+     [
+      "Blanuša je napisao da u stranci već dugo nema disciplinske komisije, pa svako radi šta hoće.",
+      "Blanuša wrote that for a long time the party has had no disciplinary commission, so everyone does as they please."
+     ],
+     [
+      "Kaže da se odluke stranačkih organa ne poštuju, a funkcioneri se napadaju preko medija.",
+      "He says that the decisions of party bodies are not respected, and officials attack each other through the media."
+     ],
+     [
+      "Statut stranke predsjedniku ne daje pravo da stvarno vodi stranku.",
+      "The party statute does not give the president the right to really lead the party."
+     ],
+     [
+      "Kao razlog je naveo i zdravlje, jer mu je prošla godina mnogo naštetila.",
+      "He also gave his health as a reason, because the past year harmed it a lot."
+     ]
+    ],
+    [
+     [
+      "Početkom novembra Blanuša je govorio da neće dati ostavku, ali se sada predomislio.",
+      "At the beginning of November Blanuša said that he would not resign, but now he has changed his mind."
+     ],
+     [
+      "Rekao je da SDS ima mnogo dobrih ljudi i da želi da stranka brzo izađe iz krize.",
+      "He said that the SDS has many good people and that he wants the party to get out of the crisis quickly."
+     ],
+     [
+      "Još se ne zna ko bi ga mogao zamijeniti, a neki članovi žele povratak Milana Miličevića.",
+      "It is not yet known who could replace him, and some members want the return of Milan Miličević."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "ostavka",
+     "resignation"
+    ],
+    [
+     "podnijeti ostavku",
+     "to resign"
+    ],
+    [
+     "član",
+     "member"
+    ],
+    [
+     "odluka",
+     "decision"
+    ],
+    [
+     "poštovati",
+     "to respect"
+    ],
+    [
+     "zdravlje",
+     "health"
+    ],
+    [
+     "predomisliti se",
+     "to change one's mind"
+    ],
+    [
+     "kriza",
+     "crisis"
+    ]
+   ]
+  },
+  {
+   "id": "261120172",
+   "source": "Klix.ba",
+   "section": "Zdravlje",
+   "url": "https://www.klix.ba/lifestyle/zdravlje/jeste-li-i-vi-muskarac-koji-nikad-nije-bolestan-evo-zasto-trebate-prekontrolisati-svoje-nalaze-vec-danas/261120172",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261120172.jpg",
+   "published": "2026-11-22T10:58:00+01:00",
+   "title": [
+    "Zašto i zdravi muškarci trebaju redovno raditi nalaze",
+    "Why healthy men should also get regular check-ups"
+   ],
+   "body": [
+    [
+     [
+      "Mnogi muškarci ne idu na kontrole jer se osjećaju dobro i misle da nikad nisu bolesni.",
+      "Many men do not go for check-ups because they feel good and think they are never ill."
+     ],
+     [
+      "Doktorica Vesna Gluvić-Čelić iz laboratorije Prolab u Banjoj Luci kaže da muškarci u laboratoriju često dolaze prekasno.",
+      "Doctor Vesna Gluvić-Čelić from the Prolab laboratory in Banja Luka says that men often come to the laboratory too late."
+     ],
+     [
+      "U novembru kampanja Movember u cijelom svijetu poziva muškarce da se provjere i bez simptoma.",
+      "In November the Movember campaign around the world calls on men to get checked even without symptoms."
+     ]
+    ],
+    [
+     [
+      "Prema njenim riječima, mnogi misle da muškarac mora sve izdržati i da su kontrole za žene.",
+      "In her words, many think that a man must endure everything and that check-ups are for women."
+     ],
+     [
+      "Visok šećer, masnoće u krvi i problemi s prostatom mogu se godinama razvijati bez bolova.",
+      "High sugar, fats in the blood and prostate problems can develop for years without pain."
+     ],
+     [
+      "U Kantonu Sarajevo planirano je 2.800 pregleda prostate, a do početka novembra urađeno je 422.",
+      "In Sarajevo Canton 2,800 prostate exams were planned, and by the start of November 422 had been done."
+     ],
+     [
+      "Kod 33 muškarca nalaz je bio pozitivan.",
+      "For 33 men the result was positive."
+     ]
+    ],
+    [
+     [
+      "Doktorica savjetuje da se osnovni nalazi rade barem jednom godišnje, a PSA test nakon 50. godine.",
+      "The doctor advises that basic tests be done at least once a year, and the PSA test after the age of 50."
+     ],
+     [
+      "Ako u porodici ima raka prostate, dijabetesa ili infarkta, kontrole bi trebalo raditi 2 puta godišnje.",
+      "If there is prostate cancer, diabetes or heart attack in the family, check-ups should be done twice a year."
+     ],
+     [
+      "Krv se daje ujutro, na prazan stomak, a dan ranije treba izbjegavati alkohol i teške obroke.",
+      "Blood is given in the morning on an empty stomach, and the day before one should avoid alcohol and heavy meals."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "nalaz",
+     "test result"
+    ],
+    [
+     "kontrola",
+     "check-up"
+    ],
+    [
+     "muškarac",
+     "man"
+    ],
+    [
+     "krv",
+     "blood"
+    ],
+    [
+     "pregled",
+     "examination"
+    ],
+    [
+     "simptom",
+     "symptom"
+    ],
+    [
+     "izdržati",
+     "to endure"
+    ],
+    [
+     "redovno",
+     "regularly"
+    ]
+   ]
+  },
+  {
+   "id": "261122015",
+   "source": "Klix.ba",
+   "section": "Vrijeme",
+   "url": "https://www.klix.ba/vijesti/bih/upozorenje-zbog-padavina-u-bih-stizu-olujno-jugo-i-do-70-litara-kise-a-tokom-noci-moguc-i-snijeg/261122015",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261122015.jpg",
+   "published": "2026-11-22T09:42:00+01:00",
+   "title": [
+    "Upozorenje zbog jakog juga i obilne kiše u BiH",
+    "Warning over strong south wind and heavy rain in BiH"
+   ],
+   "body": [
+    [
+     [
+      "Federalni hidrometeorološki zavod izdao je upozorenje zbog jakog vjetra i obilne kiše za veći dio BiH.",
+      "The Federal Hydrometeorological Institute issued a warning about strong wind and heavy rain for most of BiH."
+     ],
+     [
+      "Upozorenje važi za nedjelju, 22. novembra, a posebno za jug zemlje.",
+      "The warning applies to Sunday, 22 November, and especially to the south of the country."
+     ],
+     [
+      "Kiša dolazi sa zapada u drugoj polovini dana, a u Sarajevu se očekuje popodne.",
+      "The rain is coming from the west in the second half of the day, and it is expected in Sarajevo in the afternoon."
+     ]
+    ],
+    [
+     [
+      "Od podneva puše jugo, topli južni vjetar, s udarima od 40 do 60 kilometara na sat.",
+      "From noon the jugo, a warm south wind, is blowing with gusts of 40 to 60 kilometres per hour."
+     ],
+     [
+      "U regiji Mostara moglo bi pasti od 30 do 60 litara kiše po metru kvadratnom, a lokalno i do 70.",
+      "In the Mostar region 30 to 60 litres of rain per square metre could fall, and locally up to 70."
+     ],
+     [
+      "Dnevna temperatura bit će od 8 do 14, a na jugu do 16 stepeni.",
+      "The daytime temperature will be from 8 to 14, and in the south up to 16 degrees."
+     ],
+     [
+      "Zavod upozorava na moguće poplave i otežanu vožnju zbog vode na cestama.",
+      "The institute warns of possible floods and difficult driving because of water on the roads."
+     ]
+    ],
+    [
+     [
+      "Najviše kiše past će u noći na ponedjeljak, kada su mogući i grmljavina i olujni udari vjetra.",
+      "The most rain will fall in the night before Monday, when thunderstorms and storm gusts of wind are also possible."
+     ],
+     [
+      "Zbog hladnijeg zraka kiša će na planinama preći u snijeg, a slab snijeg moguć je i u nižim krajevima.",
+      "Because of colder air the rain will turn into snow in the mountains, and light snow is also possible in lower areas."
+     ],
+     [
+      "U ponedjeljak popodne padavine prestaju, a od srijede stiže novi ciklon sa snijegom.",
+      "On Monday afternoon the precipitation stops, and from Wednesday a new cyclone arrives with snow."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "upozorenje",
+     "warning"
+    ],
+    [
+     "vjetar",
+     "wind"
+    ],
+    [
+     "kiša",
+     "rain"
+    ],
+    [
+     "snijeg",
+     "snow"
+    ],
+    [
+     "poplava",
+     "flood"
+    ],
+    [
+     "padavine",
+     "precipitation"
+    ],
+    [
+     "jugo",
+     "warm south wind"
+    ],
+    [
+     "temperatura",
+     "temperature"
+    ]
+   ]
+  },
+  {
+   "id": "261122019",
+   "source": "Klix.ba",
+   "section": "Tehnologija",
+   "url": "https://www.klix.ba/scitech/nauka/dvije-robotske-letjelice-usle-u-merkurovu-orbitu-nakon-osam-godina-putovanja/261122019",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261122019.jpg",
+   "published": "2026-11-22T08:11:00+01:00",
+   "title": [
+    "Dvije letjelice nakon 8 godina stigle u orbitu Merkura",
+    "Two spacecraft reach Mercury's orbit after 8 years"
+   ],
+   "body": [
+    [
+     [
+      "Dvije robotske letjelice misije BepiColombo ušle su u subotu u orbitu oko planete Merkur.",
+      "On Saturday two robotic spacecraft of the BepiColombo mission entered orbit around the planet Mercury."
+     ],
+     [
+      "Na put su krenule 2018. godine i putovale su 8 godina.",
+      "They set off in 2018 and travelled for 8 years."
+     ],
+     [
+      "Misiju zajedno vode Evropska svemirska agencija ESA i japanska agencija JAXA.",
+      "The mission is run jointly by the European Space Agency ESA and the Japanese agency JAXA."
+     ]
+    ],
+    [
+     [
+      "Projekt je koštao oko 2 milijarde dolara.",
+      "The project cost about 2 billion dollars."
+     ],
+     [
+      "Letjelice su usporile motorima, pa ih je slaba gravitacija Merkura mogla uhvatiti.",
+      "The spacecraft slowed down with their engines, so Mercury's weak gravity could capture them."
+     ],
+     [
+      "Kontrolori u Njemačkoj, udaljenoj oko 152 miliona kilometara, trebali su nekoliko sati da to potvrde.",
+      "Controllers in Germany, about 152 million kilometres away, needed several hours to confirm it."
+     ],
+     [
+      "Na putu su prešle više od 10 milijardi kilometara, a usput su prošle pored Zemlje, Venere i Merkura.",
+      "On the way they covered more than 10 billion kilometres, and along the way they passed by Earth, Venus and Mercury."
+     ]
+    ],
+    [
+     [
+      "Ovo je tek treća letjelica koja je posjetila Merkur i prva nakon više od 10 godina.",
+      "This is only the third spacecraft to visit Mercury and the first in more than 10 years."
+     ],
+     [
+      "Sljedećeg mjeseca letjelice će se razdvojiti i proučavati planetu s različitih visina.",
+      "Next month the spacecraft will separate and study the planet from different heights."
+     ],
+     [
+      "Naučnici očekuju prve nove podatke na proljeće, iako temperatura na površini može biti preko 427 stepeni.",
+      "Scientists expect the first new data in spring, although the temperature on the surface can be over 427 degrees."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "letjelica",
+     "spacecraft"
+    ],
+    [
+     "orbita",
+     "orbit"
+    ],
+    [
+     "planeta",
+     "planet"
+    ],
+    [
+     "misija",
+     "mission"
+    ],
+    [
+     "putovati",
+     "to travel"
+    ],
+    [
+     "gravitacija",
+     "gravity"
+    ],
+    [
+     "površina",
+     "surface"
+    ],
+    [
+     "naučnik",
+     "scientist"
+    ]
+   ]
+  },
   {
    "id": "261122011",
    "source": "Klix.ba",
@@ -4713,974 +5658,6 @@
     [
      "naučnica",
      "scientist (female)"
-    ]
-   ]
-  },
-  {
-   "id": "261120095",
-   "source": "Klix.ba",
-   "section": "Zdravlje",
-   "url": "https://www.klix.ba/lifestyle/zdravlje/cetiri-testa-kojima-kod-kuce-mozete-provjeriti-zdravlje-mozga/261120095",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261120095.jpg",
-   "published": "2026-11-20T10:17:00+01:00",
-   "title": [
-    "Četiri jednostavna testa za zdravlje mozga kod kuće",
-    "Four simple tests for brain health at home"
-   ],
-   "body": [
-    [
-     [
-      "Neki jednostavni testovi kod kuće mogu pokazati kako stari naš mozak.",
-      "Some simple tests at home can show how our brain is ageing."
-     ],
-     [
-      "O tome piše magazin BBC Science Focus, a stručnjaci kažu da testovi ne mogu zamijeniti pregled kod doktora.",
-      "The magazine BBC Science Focus writes about this, and experts say that the tests cannot replace an examination by a doctor."
-     ],
-     [
-      "Neurolog David Sharp iz Londona kaže da biološka starost mozga nije uvijek ista kao godine osobe.",
-      "Neurologist David Sharp from London says that the biological age of the brain is not always the same as a person's age."
-     ]
-    ],
-    [
-     [
-      "Prvi test je brzina hoda, a mjeri se koliko sekundi treba za 4 metra.",
-      "The first test is walking speed, and you measure how many seconds you need for 4 metres."
-     ],
-     [
-      "Žene od 40 do 49 godina u prosjeku hodaju 1,39 metara u sekundi, a muškarci 1,43.",
-      "Women aged 40 to 49 walk 1.39 metres per second on average, and men 1.43."
-     ],
-     [
-      "Drugi test mjeri vrijeme reakcije na internetu, a ono kod odraslih sporo raste svake decenije.",
-      "The second test measures reaction time online, and in adults it slowly increases every decade."
-     ],
-     [
-      "Treći test je crtanje puta od kuće do prodavnice ili kafića napamet.",
-      "The third test is drawing the route from home to a shop or café from memory."
-     ]
-    ],
-    [
-     [
-      "Stručnjakinja Anna-Katharine Brem kaže da su problemi s orijentacijom jedan od ranih znakova Alzheimerove bolesti.",
-      "Expert Anna-Katharine Brem says that problems with orientation are one of the early signs of Alzheimer's disease."
-     ],
-     [
-      "Četvrti test je Cognitron, online test od oko 30 minuta koji su uradili više od 500.000 ljudi.",
-      "The fourth test is Cognitron, an online test of about 30 minutes that more than 500,000 people have done."
-     ],
-     [
-      "Na rezultate utiču san, stres i raspoloženje, zato je važno pratiti promjene kroz vrijeme.",
-      "Sleep, stress and mood affect the results, so it is important to follow changes over time."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "mozak",
-     "brain"
-    ],
-    [
-     "starost",
-     "age, old age"
-    ],
-    [
-     "brzina",
-     "speed"
-    ],
-    [
-     "hod",
-     "walk, walking"
-    ],
-    [
-     "napamet",
-     "from memory"
-    ],
-    [
-     "znak",
-     "sign"
-    ],
-    [
-     "raspoloženje",
-     "mood"
-    ],
-    [
-     "pregled",
-     "(medical) examination"
-    ]
-   ]
-  },
-  {
-   "id": "261120014",
-   "source": "Klix.ba",
-   "section": "Biznis",
-   "url": "https://www.klix.ba/biznis/ekonomija/banjalucanima-prijeti-skuplje-grijanje-za-52-posto-toplane-upozoravaju-na-finansijske-probleme/261120014",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261120014.jpg",
-   "published": "2026-11-20T07:36:00+01:00",
-   "title": [
-    "Grijanje u Banjoj Luci moglo bi poskupjeti za 52 posto",
-    "Heating in Banja Luka could become 52 percent more expensive"
-   ],
-   "body": [
-    [
-     [
-      "Gradska toplana Eko toplane traži da cijena grijanja u Banjoj Luci poraste za 52 posto.",
-      "The city heating company Eko toplane is asking for the price of heating in Banja Luka to rise by 52 percent."
-     ],
-     [
-      "Kompanija od grada traži i dodatnih 12 miliona KM godišnje iz budžeta.",
-      "The company is also asking the city for an extra 12 million KM a year from the budget."
-     ],
-     [
-      "Bez toga, kako upozorava, sistem ne može stabilno raditi.",
-      "Without that, it warns, the system cannot work stably."
-     ]
-    ],
-    [
-     [
-      "Kompanija kaže da su porasli troškovi drvne sječke, struje, transporta i održavanja mreže.",
-      "The company says that the costs of wood chips, electricity, transport and network maintenance have risen."
-     ],
-     [
-      "Od 2018. do 2026. godine troškovi su porasli za 86 posto, a cijena grijanja samo za 22 posto.",
-      "From 2018 to 2026 costs rose by 86 percent, but the price of heating only by 22 percent."
-     ],
-     [
-      "Mreža toplovoda je stara, pa su kvarovi česti i gubi se mnogo toplote.",
-      "The network of hot-water pipes is old, so breakdowns are frequent and a lot of heat is lost."
-     ],
-     [
-      "Ako ne bude dogovora, toplana bi mogla smanjiti temperaturu u stanovima na 20 stepeni.",
-      "If there is no agreement, the heating company could lower the temperature in flats to 20 degrees."
-     ]
-    ],
-    [
-     [
-      "Grijanje nije bilo na dnevnom redu sjednice Skupštine grada 19. novembra.",
-      "Heating was not on the agenda of the City Assembly session on 19 November."
-     ],
-     [
-      "Predsjednik Skupštine Ljubo Ninković rekao je da će odbornici o tome raspravljati na posebnoj sjednici 4. decembra.",
-      "Assembly President Ljubo Ninković said that councillors would discuss it at a special session on 4 December."
-     ],
-     [
-      "Gradonačelnik Draško Stanivuković rekao je da će gradska uprava pripremiti potrebne dokumente.",
-      "Mayor Draško Stanivuković said that the city administration will prepare the necessary documents."
-     ],
-     [
-      "Toplana grije oko 20.000 korisnika, a stare cijene za sada ostaju iste.",
-      "The heating company serves about 20,000 users, and the old prices stay the same for now."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "grijanje",
-     "heating"
-    ],
-    [
-     "toplana",
-     "heating plant"
-    ],
-    [
-     "cijena",
-     "price"
-    ],
-    [
-     "trošak",
-     "cost"
-    ],
-    [
-     "budžet",
-     "budget"
-    ],
-    [
-     "kvar",
-     "breakdown"
-    ],
-    [
-     "sjednica",
-     "session"
-    ],
-    [
-     "odbornik",
-     "councillor"
-    ]
-   ]
-  },
-  {
-   "id": "261120015",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/kosarka/nba-noc-obiljezio-razigrani-wembanyama-i-potez-koji-prkosi-fizici-sutirao-dok-je-iznad-nivoa-obruca/261120015",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261120015.jpg",
-   "published": "2026-11-20T07:32:00+01:00",
-   "title": [
-    "Wembanyama vodio San Antonio do pobjede nad Clippersima",
-    "Wembanyama led San Antonio to victory over the Clippers"
-   ],
-   "body": [
-    [
-     [
-      "Košarkaši San Antonija pobijedili su Los Angeles Clipperse rezultatom 124:112.",
-      "San Antonio's basketball players beat the Los Angeles Clippers 124:112."
-     ],
-     [
-      "Victor Wembanyama postigao je 32 poena i imao 11 skokova, iako je igrao s bolnim žuljem.",
-      "Victor Wembanyama scored 32 points and had 11 rebounds, although he played with a painful blister."
-     ],
-     [
-      "Na kraju utakmice šutirao je s rukama iznad obruča, a društvene mreže su poludjele.",
-      "At the end of the game he shot with his hands above the rim, and social media went wild."
-     ]
-    ],
-    [
-     [
-      "Spursi su na početku zadnje četvrtine gubili, ali su onda napravili veliku prednost.",
-      "The Spurs were losing at the start of the last quarter, but then built a big lead."
-     ],
-     [
-      "San Antonio sada ima 13 pobjeda i 3 poraza i dijeli prvo mjesto na Zapadu s Lakersima.",
-      "San Antonio now has 13 wins and 3 losses and shares first place in the West with the Lakers."
-     ],
-     [
-      "Memphis je pobijedio Golden State 126:98, a Warriorsi su igrali bez Stephena Curryja.",
-      "Memphis beat Golden State 126:98, and the Warriors played without Stephen Curry."
-     ]
-    ],
-    [
-     [
-      "Damian Lillard postigao je 33 poena u pobjedi Portlanda nad Milwaukeejem 124:114.",
-      "Damian Lillard scored 33 points in Portland's 124:114 win over Milwaukee."
-     ],
-     [
-      "Bio je to njegov prvi meč protiv Bucksa otkako je kod njih teško povrijedio Ahilovu tetivu.",
-      "It was his first game against the Bucks since he badly injured his Achilles tendon while playing for them."
-     ],
-     [
-      "Milwaukee je izgubio 12. utakmicu zaredom i ima najgori start u historiji kluba.",
-      "Milwaukee lost its 12th game in a row and has the worst start in the club's history."
-     ],
-     [
-      "Prvaci New York Knicksi pobijedili su Minnesotu 102:99.",
-      "The champions New York Knicks beat Minnesota 102:99."
-     ],
-     [
-      "LaMelo Ball je 9,9 sekundi prije kraja promašio trojku za izjednačenje.",
-      "LaMelo Ball missed a three-pointer for the equaliser 9.9 seconds before the end."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "poen",
-     "point"
-    ],
-    [
-     "skok",
-     "rebound"
-    ],
-    [
-     "obruč",
-     "rim (of the basket)"
-    ],
-    [
-     "četvrtina",
-     "quarter"
-    ],
-    [
-     "poraz",
-     "defeat"
-    ],
-    [
-     "zaredom",
-     "in a row"
-    ],
-    [
-     "trojka",
-     "three-pointer"
-    ],
-    [
-     "prvak",
-     "champion"
-    ]
-   ]
-  },
-  {
-   "id": "261120010",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/demirovic-pred-najvecim-transferom-karijere-ugledni-italijan-potvrdio-ambicije-milana/261120010",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261120010.jpg",
-   "published": "2026-11-20T07:18:00+01:00",
-   "title": [
-    "Milan prati Demirovića, Stuttgart traži 35 miliona eura",
-    "Milan is watching Demirović, Stuttgart wants 35 million euros"
-   ],
-   "body": [
-    [
-     [
-      "Italijanski novinar Nicolò Schira objavio je da Milan prati napadača Ermedina Demirovića.",
-      "Italian journalist Nicolò Schira reported that Milan is watching striker Ermedin Demirović."
-     ],
-     [
-      "Reprezentativac BiH sada igra za njemački Stuttgart.",
-      "The BiH international now plays for the German club Stuttgart."
-     ],
-     [
-      "Schira je napisao i da je Juventus želio Demirovića prije dvije godine.",
-      "Schira also wrote that Juventus wanted Demirović two years ago."
-     ]
-    ],
-    [
-     [
-      "Milan se za njega zanimao već u ljeto 2024. godine, kada je igrao za Augsburg.",
-      "Milan was already interested in him in the summer of 2024, when he played for Augsburg."
-     ],
-     [
-      "Augsburg je tada tražio 25 miliona eura, a Milan je mislio da je dovoljno 18 miliona, pa je Demirović otišao u Stuttgart.",
-      "Augsburg asked for 25 million euros at the time, while Milan thought 18 million was enough, so Demirović went to Stuttgart."
-     ],
-     [
-      "Ovog ljeta Galatasaray je ponudio oko 15 miliona eura, ali je Stuttgart odbio ponudu.",
-      "This summer Galatasaray offered about 15 million euros, but Stuttgart rejected the offer."
-     ],
-     [
-      "Prema njemačkim medijima, Stuttgart bi ozbiljno razgovarao o prodaji tek za oko 35 miliona eura.",
-      "According to German media, Stuttgart would seriously discuss a sale only for about 35 million euros."
-     ]
-    ],
-    [
-     [
-      "U septembru se pisalo da je Demirović visoko na listi želja trenera Milana Rubena Amorima za januar.",
-      "In September it was reported that Demirović is high on Milan coach Ruben Amorim's wish list for January."
-     ],
-     [
-      "Tada se otvara prelazni rok, kada klubovi mogu kupovati igrače.",
-      "That is when the transfer window opens, when clubs can buy players."
-     ],
-     [
-      "Demirović ima ugovor sa Stuttgartom do ljeta 2028. godine.",
-      "Demirović has a contract with Stuttgart until the summer of 2028."
-     ],
-     [
-      "Ako dođe do prelaska, to bi bio najveći transfer u njegovoj karijeri.",
-      "If the move happens, it would be the biggest transfer of his career."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "napadač",
-     "striker"
-    ],
-    [
-     "novinar",
-     "journalist"
-    ],
-    [
-     "prelazni rok",
-     "transfer window"
-    ],
-    [
-     "ponuda",
-     "offer"
-    ],
-    [
-     "odbiti",
-     "to reject"
-    ],
-    [
-     "prodaja",
-     "sale"
-    ],
-    [
-     "ugovor",
-     "contract"
-    ]
-   ]
-  },
-  {
-   "id": "261120008",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/bih-danas-u-podne-saznaje-rivala-u-barazu-za-ligu-a-hrvatska-srbija-danska-ili-vels/261120008",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261120008.jpg",
-   "published": "2026-11-20T07:12:00+01:00",
-   "title": [
-    "BiH danas u podne saznaje rivala u baražu Lige nacija",
-    "BiH learns its Nations League playoff rival today at noon"
-   ],
-   "body": [
-    [
-     [
-      "Nogometna reprezentacija BiH danas u 12 sati saznaje protivnika u baražu za Ligu A.",
-      "The BiH national football team learns its opponent in the playoff for League A today at 12 o'clock."
-     ],
-     [
-      "Žrijeb za Ligu nacija održava se u sjedištu UEFA-e u Nyonu u Švicarskoj.",
-      "The Nations League draw is being held at UEFA headquarters in Nyon in Switzerland."
-     ],
-     [
-      "BiH je jedna od reprezentacija koje su bile druge u Ligi B, pa je u šeširu sa Slovenijom, Mađarskom i Irskom.",
-      "BiH is one of the teams that finished second in League B, so it is in the pot with Slovenia, Hungary and Ireland."
-     ]
-    ],
-    [
-     [
-      "Rival će biti jedna od četiri reprezentacije: Danska, Hrvatska, Vels ili Srbija.",
-      "The rival will be one of four teams: Denmark, Croatia, Wales or Serbia."
-     ],
-     [
-      "Prva utakmica igra se 25. ili 27. marta 2027. godine u BiH.",
-      "The first match will be played on 25 or 27 March 2027 in BiH."
-     ],
-     [
-      "Revanš je 28. ili 30. marta u gostima, ali navijači BiH tada neće moći biti na stadionu.",
-      "The return match is on 28 or 30 March away from home, but BiH fans will not be able to be at the stadium then."
-     ],
-     [
-      "UEFA ih je kaznila zbog baklji na jednoj utakmici u Švedskoj.",
-      "UEFA punished them because of flares at a match in Sweden."
-     ],
-     [
-      "Ako je rezultat nakon dvije utakmice isti, igraju se produžeci i penali.",
-      "If the score is level after two matches, extra time and penalties are played."
-     ]
-    ],
-    [
-     [
-      "Pobjednik će u sezoni 2028/29 igrati u Ligi A, a poraženi ostaje u Ligi B.",
-      "The winner will play in League A in the 2028/29 season, and the loser stays in League B."
-     ],
-     [
-      "Žrijeb će direktno prenositi BHT 1, a Klix.ba će pratiti događaj uživo.",
-      "BHT 1 will broadcast the draw live, and Klix.ba will cover the event live."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "reprezentacija",
-     "national team"
-    ],
-    [
-     "žrijeb",
-     "draw"
-    ],
-    [
-     "rival",
-     "rival"
-    ],
-    [
-     "baraž",
-     "playoff"
-    ],
-    [
-     "šešir",
-     "pot (literally hat)"
-    ],
-    [
-     "revanš",
-     "return match"
-    ],
-    [
-     "navijač",
-     "fan"
-    ],
-    [
-     "baklja",
-     "flare"
-    ]
-   ]
-  },
-  {
-   "id": "261120007",
-   "source": "Klix.ba",
-   "section": "Vrijeme",
-   "url": "https://www.klix.ba/vijesti/bih/kisa-danas-na-jugu-i-zapadu-drzave-za-vikend-pljuskovi-i-jak-vjetar/261120007",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261120007.jpg",
-   "published": "2026-11-20T07:12:00+01:00",
-   "title": [
-    "Danas kiša na jugu i zapadu, za vikend jak vjetar",
-    "Rain today in the south and west, strong wind at the weekend"
-   ],
-   "body": [
-    [
-     [
-      "U Hercegovini i zapadnoj Bosni danas se očekuje kiša, a na jugu će biti pretežno oblačno.",
-      "Rain is expected today in Herzegovina and western Bosnia, and in the south it will be mostly cloudy."
-     ],
-     [
-      "U ostalim krajevima moguć je slab pljusak, a ujutro magla u dolinama i uz rijeke.",
-      "In other areas a light shower is possible, and in the morning fog in valleys and along rivers."
-     ],
-     [
-      "Jutarnja temperatura bit će od 4 do 10, a dnevna od 12 do 18 stepeni.",
-      "Morning temperatures will be from 4 to 10, and daytime temperatures from 12 to 18 degrees."
-     ]
-    ],
-    [
-     [
-      "Na sjeveru Bosne moglo bi biti toplo i do 20 stepeni.",
-      "In the north of Bosnia it could be as warm as 20 degrees."
-     ],
-     [
-      "U Sarajevu je umjereno oblačno, ujutro oko 7, a tokom dana oko 15 stepeni.",
-      "In Sarajevo it is moderately cloudy, around 7 degrees in the morning and about 15 during the day."
-     ],
-     [
-      "U subotu će padati kiša, a vjetar sa zapada povremeno će biti jak.",
-      "On Saturday it will rain, and the wind from the west will at times be strong."
-     ],
-     [
-      "U nedjelju će biti hladnije, a najviše kiše očekuje se u Hercegovini.",
-      "On Sunday it will be colder, and the most rain is expected in Herzegovina."
-     ]
-    ],
-    [
-     [
-      "U ponedjeljak dolazi primjetno hladnije vrijeme, s dnevnom temperaturom od 2 do 8 stepeni.",
-      "On Monday noticeably colder weather arrives, with daytime temperatures from 2 to 8 degrees."
-     ],
-     [
-      "Na planinama bi mogao pasti i slab snijeg.",
-      "Light snow could also fall in the mountains."
-     ],
-     [
-      "Tokom dana padavine će prestati, a nebo će se razvedriti.",
-      "During the day the precipitation will stop and the sky will clear."
-     ],
-     [
-      "Prognozu je objavio Federalni hidrometeorološki zavod.",
-      "The forecast was published by the Federal Hydrometeorological Institute."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "kiša",
-     "rain"
-    ],
-    [
-     "oblačno",
-     "cloudy"
-    ],
-    [
-     "pljusak",
-     "shower"
-    ],
-    [
-     "magla",
-     "fog"
-    ],
-    [
-     "vjetar",
-     "wind"
-    ],
-    [
-     "snijeg",
-     "snow"
-    ],
-    [
-     "padavine",
-     "precipitation"
-    ],
-    [
-     "razvedriti se",
-     "to clear up"
-    ]
-   ]
-  },
-  {
-   "id": "261119318",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/donald-trump-sokirao-evropljane-porucio-da-ne-bacaju-novac-na-ukrajinu/261119318",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261119318.jpg",
-   "published": "2026-11-20T06:23:00+01:00",
-   "title": [
-    "Trump poručio Evropljanima da ne troše novac na rat u Ukrajini",
-    "Trump told Europeans not to spend money on the war in Ukraine"
-   ],
-   "body": [
-    [
-     [
-      "Američki predsjednik Donald Trump u četvrtak je razgovarao s evropskim liderima koji podržavaju Ukrajinu.",
-      "US President Donald Trump spoke on Thursday with European leaders who support Ukraine."
-     ],
-     [
-      "Lideri su bili na sastanku Koalicije voljnih u Berlinu, a Trump ih je nazvao iz aviona.",
-      "The leaders were at a meeting of the Coalition of the Willing in Berlin, and Trump called them from his plane."
-     ],
-     [
-      "Vraćao se iz Kine, gdje se sastao s Vladimirom Putinom i Xi Jinpingom.",
-      "He was returning from China, where he had met Vladimir Putin and Xi Jinping."
-     ]
-    ],
-    [
-     [
-      "Prema pisanju Politica, Trump je rekao da Evropa ne bi trebala bacati novac na borbu protiv Rusije.",
-      "According to Politico, Trump said that Europe should not throw money at the fight against Russia."
-     ],
-     [
-      "Kraj rata bi, kako je rekao, sačuvao i novac i ljudske živote.",
-      "Ending the war, he said, would save both money and human lives."
-     ],
-     [
-      "Trump je također rekao da Putin ozbiljno želi pregovarati o miru.",
-      "Trump also said that Putin seriously wants to negotiate peace."
-     ],
-     [
-      "Njegov zet Jared Kushner rekao je da je Putin sada spreman prihvatiti sigurnosne garancije za Ukrajinu slične članu 5 NATO-a.",
-      "His son-in-law Jared Kushner said that Putin is now ready to accept security guarantees for Ukraine similar to NATO's Article 5."
-     ],
-     [
-      "Taj član govori o zajedničkoj odbrani članica.",
-      "That article is about the joint defence of the members."
-     ]
-    ],
-    [
-     [
-      "Ukrajinski predsjednik Volodimir Zelenski rekao je da nije siguran da svi isto razumiju član 5.",
-      "Ukrainian President Volodymyr Zelensky said he is not sure that everyone understands Article 5 the same way."
-     ],
-     [
-      "Pitao je šta je s američkim vojnicima i dodao da bi Ukrajina rado imala američke baze.",
-      "He asked what about American soldiers and added that Ukraine would gladly have American bases."
-     ],
-     [
-      "Njemački kancelar Friedrich Merz rekao je da Evropa pomaže Ukrajini da bi došlo do mira, a ne da bi rat trajao duže.",
-      "German Chancellor Friedrich Merz said that Europe helps Ukraine so that peace can come, not so that the war lasts longer."
-     ],
-     [
-      "Poljski premijer Donald Tusk rekao je da Trumpove riječi primaju s velikim oprezom.",
-      "Polish Prime Minister Donald Tusk said that they are receiving Trump's words with great caution."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "lider",
-     "leader"
-    ],
-    [
-     "rat",
-     "war"
-    ],
-    [
-     "novac",
-     "money"
-    ],
-    [
-     "mir",
-     "peace"
-    ],
-    [
-     "pregovarati",
-     "to negotiate"
-    ],
-    [
-     "garancija",
-     "guarantee"
-    ],
-    [
-     "vojnik",
-     "soldier"
-    ],
-    [
-     "oprez",
-     "caution"
-    ]
-   ]
-  },
-  {
-   "id": "261119180",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/new-york-times-na-udaru-kritika-nakon-teksta-o-iranskim-branama-optuzeni-za-propagandu-i-ratno-huskanje/261119180",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261119180.jpg",
-   "published": "2026-11-20T06:16:00+01:00",
-   "title": [
-    "New York Times kritikovan zbog teksta o iranskim branama",
-    "New York Times criticised over an article about Iranian dams"
-   ],
-   "body": [
-    [
-     [
-      "Američki list New York Times u ponedjeljak je objavio tekst o branama u Iranu.",
-      "The American newspaper New York Times published an article about dams in Iran on Monday."
-     ],
-     [
-      "Autorice su uporedile lokacije brana s mjestima koja su napadnuta u ratu SAD-a i Izraela protiv Irana.",
-      "The authors compared the locations of the dams with places that were attacked in the US and Israeli war against Iran."
-     ],
-     [
-      "Zaključile su da su neke brane možda dijelom građene za vojne potrebe.",
-      "They concluded that some dams may have been built partly for military needs."
-     ]
-    ],
-    [
-     [
-      "Mnogi kritičari kažu da takav tekst opravdava napade na civilnu infrastrukturu.",
-      "Many critics say that such an article justifies attacks on civilian infrastructure."
-     ],
-     [
-      "Infrastruktura su objekti važni za život, kao što su ceste, mostovi i vodovodi.",
-      "Infrastructure means facilities that are important for life, such as roads, bridges and water systems."
-     ],
-     [
-      "Iransko udruženje za vodnu diplomatiju reklo je da blizina vojnih ciljeva ne dokazuje da brane služe vojsci.",
-      "The Iranian Water Diplomacy Association said that being close to military targets does not prove that the dams serve the army."
-     ],
-     [
-      "Neki stručnjaci koje list citira rekli su da se ne slažu s takvim tumačenjem.",
-      "Some experts quoted by the newspaper said they do not agree with such an interpretation."
-     ],
-     [
-      "Profesor Amir AghaKouchak rekao je da brane nikada ne smiju biti meta napada jer su važne za život ljudi.",
-      "Professor Amir AghaKouchak said that dams must never be the target of attacks because they are important for people's lives."
-     ]
-    ],
-    [
-     [
-      "New York Times je u utorak odbranio tekst i rekao da se zasniva na istraživanju i izjavama sedam stručnjaka.",
-      "On Tuesday the New York Times defended the article and said it is based on research and statements from seven experts."
-     ],
-     [
-      "Kritike dolaze dok SAD prijeti novim vojnim napadima na Iran.",
-      "The criticism comes as the US threatens new military attacks on Iran."
-     ],
-     [
-      "Prema organizaciji HRANA, od početka rata 28. februara u Iranu je poginulo 3.684 ljudi.",
-      "According to the HRANA organisation, 3,684 people have been killed in Iran since the war began on 28 February."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "brana",
-     "dam"
-    ],
-    [
-     "list",
-     "newspaper"
-    ],
-    [
-     "kritika",
-     "criticism"
-    ],
-    [
-     "vojni",
-     "military"
-    ],
-    [
-     "napad",
-     "attack"
-    ],
-    [
-     "stručnjak",
-     "expert"
-    ],
-    [
-     "opravdavati",
-     "to justify"
-    ],
-    [
-     "meta",
-     "target"
-    ]
-   ]
-  },
-  {
-   "id": "261119317",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/kultura/gala-koncertom-obiljezeno-80-godina-opere-nps-muzicari-ispraceni-ovacijama-publike/261119317",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261119317.jpg",
-   "published": "2026-11-19T23:04:00+01:00",
-   "title": [
-    "Opera Narodnog pozorišta Sarajevo slavi 80 godina",
-    "The Opera of the National Theatre Sarajevo celebrates 80 years"
-   ],
-   "body": [
-    [
-     [
-      "Opera Narodnog pozorišta Sarajevo počela je slavlje 80. godišnjice velikim gala koncertom.",
-      "The Opera of the National Theatre Sarajevo began its 80th anniversary celebration with a big gala concert."
-     ],
-     [
-      "Sala je bila rasprodana, a publika je muzičare na kraju ispratila ovacijama.",
-      "The hall was sold out, and at the end the audience sent the musicians off with ovations."
-     ],
-     [
-      "Solisti i hor Opere nastupili su sa Sarajevskom filharmonijom, a dirigovao je maestro Dario Vučić.",
-      "The soloists and the Opera chorus performed with the Sarajevo Philharmonic, conducted by maestro Dario Vučić."
-     ]
-    ],
-    [
-     [
-      "Na programu su bile poznate arije, dueti i horske numere.",
-      "The programme included well-known arias, duets and choral pieces."
-     ],
-     [
-      "Arija je pjesma koju u operi pjeva jedan pjevač.",
-      "An aria is a song that one singer sings in an opera."
-     ],
-     [
-      "Publika je čula djela Verdija, Puccinija, Rossinija, Bizeta i drugih velikih kompozitora.",
-      "The audience heard works by Verdi, Puccini, Rossini, Bizet and other great composers."
-     ],
-     [
-      "Izvedena su i djela bosanskohercegovačkih kompozitora Asima Horozića i Ammara Jažića.",
-      "Works by Bosnian-Herzegovinian composers Asim Horozić and Ammar Jažić were also performed."
-     ]
-    ],
-    [
-     [
-      "Opera je počela redovno raditi 9. novembra 1946. godine.",
-      "The Opera began working regularly on 9 November 1946."
-     ],
-     [
-      "Prva predstava bila je opera „Prodana nevjesta“ češkog kompozitora Bedřicha Smetane.",
-      "The first performance was the opera \"The Bartered Bride\" by the Czech composer Bedřich Smetana."
-     ],
-     [
-      "Slavlje se nastavlja 30. novembra i 1. decembra, kada se na scenu vraća Puccinijeva „La bohème“.",
-      "The celebration continues on 30 November and 1 December, when Puccini's \"La bohème\" returns to the stage."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "pozorište",
-     "theatre"
-    ],
-    [
-     "slavlje",
-     "celebration"
-    ],
-    [
-     "rasprodan",
-     "sold out"
-    ],
-    [
-     "publika",
-     "audience"
-    ],
-    [
-     "hor",
-     "choir"
-    ],
-    [
-     "kompozitor",
-     "composer"
-    ],
-    [
-     "predstava",
-     "performance"
-    ],
-    [
-     "scena",
-     "stage"
-    ]
-   ]
-  },
-  {
-   "id": "261119302",
-   "source": "Klix.ba",
-   "section": "Zdravlje",
-   "url": "https://www.klix.ba/lifestyle/zdravlje/cetiri-znaka-muske-menopauze-koje-muskarci-pripisuju-starenju/261119302",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261119302.jpg",
-   "published": "2026-11-19T22:35:00+01:00",
-   "title": [
-    "Urolog objašnjava četiri manje poznata znaka niskog testosterona",
-    "A urologist explains four lesser-known signs of low testosterone"
-   ],
-   "body": [
-    [
-     [
-      "Britanski list Metro pisao je o takozvanoj „muškoj menopauzi“, koja se veže za muškarce između 40 i 60 godina.",
-      "The British newspaper Metro wrote about so-called \"male menopause\", which is linked to men between 40 and 60."
-     ],
-     [
-      "Profesor urologije Tet Yap kaže da mnogi muškarci neke znakove pogrešno smatraju normalnim starenjem.",
-      "Urology professor Tet Yap says that many men wrongly see some signs as normal ageing."
-     ],
-     [
-      "Prema njegovim riječima, sam izraz nije medicinski tačan.",
-      "In his words, the term itself is not medically accurate."
-     ]
-    ],
-    [
-     [
-      "Kod muškaraca testosteron obično polako opada, a mnogi nikada nemaju ozbiljan manjak tog hormona.",
-      "In men testosterone usually falls slowly, and many never have a serious lack of that hormone."
-     ],
-     [
-      "Prvi znak su slabije kosti, jer testosteron pomaže da kosti ostanu čvrste.",
-      "The first sign is weaker bones, because testosterone helps bones stay strong."
-     ],
-     [
-      "Drugi znak su valovi vrućine i noćno znojenje, koje većina ljudi veže samo za žene.",
-      "The second sign is hot flushes and night sweats, which most people link only with women."
-     ],
-     [
-      "Treći znak su promjene u seksualnom životu, a četvrti promjene u izgledu, kao što su tanja kosa i manje mišića.",
-      "The third sign is changes in sex life, and the fourth is changes in appearance, such as thinner hair and less muscle."
-     ]
-    ],
-    [
-     [
-      "Yap upozorava da iste simptome mogu izazvati i stres, depresija, dijabetes ili alkohol.",
-      "Yap warns that the same symptoms can also be caused by stress, depression, diabetes or alcohol."
-     ],
-     [
-      "Zato se dijagnoza nikada ne bi trebala postaviti samo na osnovu liste simptoma.",
-      "That is why a diagnosis should never be made only on the basis of a list of symptoms."
-     ],
-     [
-      "Savjetuje muškarcima da ljekaru kažu i za male promjene koje primijete.",
-      "He advises men to tell a doctor even about small changes that they notice."
-     ],
-     [
-      "Rekao je da je izraz ipak koristan jer potiče muškarce da govore o svom zdravlju.",
-      "He said that the term is still useful because it encourages men to talk about their health."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "znak",
-     "sign"
-    ],
-    [
-     "muškarac",
-     "man"
-    ],
-    [
-     "starenje",
-     "ageing"
-    ],
-    [
-     "hormon",
-     "hormone"
-    ],
-    [
-     "kost",
-     "bone"
-    ],
-    [
-     "znojenje",
-     "sweating"
-    ],
-    [
-     "izgled",
-     "appearance"
-    ],
-    [
-     "ljekar",
-     "doctor"
     ]
    ]
   }
