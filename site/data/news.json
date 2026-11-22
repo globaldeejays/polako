@@ -1,18 +1,773 @@
 {
- "updated": "2026-11-21T18:44:00+01:00",
+ "updated": "2026-11-22T07:43:00+01:00",
  "front": [
-  "261109186",
-  "261121119",
-  "261121109",
-  "261119229",
-  "261121118",
-  "261121117",
-  "261120007",
-  "261121114",
-  "261121008",
-  "261121115"
+  "261121158",
+  "261122002",
+  "261122004",
+  "261122011",
+  "261122008",
+  "261122007",
+  "261122001",
+  "261121165",
+  "261121038"
  ],
  "articles": [
+  {
+   "id": "261122011",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/novi-sportski-direktor-milana-vec-sprema-dva-velika-pojacanja-na-meti-i-ermedin-demirovic/261122011",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261122011.jpg",
+   "published": "2026-11-22T07:35:00+01:00",
+   "title": [
+    "Milan želi dovesti Brunu Fernandesa i Ermedina Demirovića",
+    "Milan wants to bring in Bruno Fernandes and Ermedin Demirović"
+   ],
+   "body": [
+    [
+     [
+      "Italijanski mediji pišu da Milan u januaru želi dovesti dva velika pojačanja.",
+      "Italian media write that Milan wants to bring in two big signings in January."
+     ],
+     [
+      "Na listi su kapiten Manchester Uniteda Bruno Fernandes i reprezentativac BiH Ermedin Demirović.",
+      "On the list are Manchester United captain Bruno Fernandes and Bosnia and Herzegovina international Ermedin Demirović."
+     ],
+     [
+      "Transfere priprema Markus Krösche, koji još nije zvanično preuzeo mjesto sportskog direktora Milana.",
+      "The transfers are being prepared by Markus Krösche, who has not yet officially taken the post of Milan's sporting director."
+     ]
+    ],
+    [
+     [
+      "Ugovor Fernandesa s Unitedom ističe u ljeto, ali klub ga može produžiti za još jednu godinu.",
+      "Fernandes's contract with United expires in the summer, but the club can extend it by one more year."
+     ],
+     [
+      "Novi trener Uniteda Mauricio Pochettino rekao je da je Bruno izuzetno važan igrač.",
+      "United's new coach Mauricio Pochettino said that Bruno is an extremely important player."
+     ],
+     [
+      "Demirović je postao glavna meta Milana za napad jer je mnogo jeftiniji od drugih napadača.",
+      "Demirović has become Milan's main target for the attack because he is much cheaper than other strikers."
+     ],
+     [
+      "On ima ugovor sa Stuttgartom do 2028. godine, a ove sezone je dao 5 golova u Bundesligi i 4 u Ligi prvaka.",
+      "He has a contract with Stuttgart until 2028, and this season he has scored 5 goals in the Bundesliga and 4 in the Champions League."
+     ]
+    ],
+    [
+     [
+      "U Milanu vjeruju da bi mogli dogovoriti dobru cijenu, jer Krösche ima dobre veze u Njemačkoj.",
+      "At Milan they believe that they could agree a good price, because Krösche has good connections in Germany."
+     ],
+     [
+      "Galatasaray je prošlog ljeta također želio Demirovića i još nije odustao.",
+      "Galatasaray also wanted Demirović last summer and has not given up yet."
+     ],
+     [
+      "Za napadača od 28 godina zanimaju se i neki klubovi iz Premier lige.",
+      "Some Premier League clubs are also interested in the 28-year-old striker."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "pojačanje",
+     "new signing, reinforcement"
+    ],
+    [
+     "kapiten",
+     "captain"
+    ],
+    [
+     "reprezentativac",
+     "national team player"
+    ],
+    [
+     "ugovor",
+     "contract"
+    ],
+    [
+     "isteći",
+     "to expire"
+    ],
+    [
+     "meta",
+     "target"
+    ],
+    [
+     "napadač",
+     "striker"
+    ],
+    [
+     "odustati",
+     "to give up"
+    ]
+   ]
+  },
+  {
+   "id": "261122008",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/formula1/verstappen-slavio-u-dramaticnom-las-vegasu-nova-katastrofa-ferrarija/261122008",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261122008.jpg",
+   "published": "2026-11-22T07:26:00+01:00",
+   "title": [
+    "Verstappen pobijedio u Las Vegasu, loša utrka za Ferrari",
+    "Verstappen won in Las Vegas, a bad race for Ferrari"
+   ],
+   "body": [
+    [
+     [
+      "Max Verstappen iz Red Bulla pobijedio je na Velikoj nagradi Las Vegasa.",
+      "Max Verstappen of Red Bull won the Las Vegas Grand Prix."
+     ],
+     [
+      "To je bila 21. utrka ove sezone Formule 1.",
+      "It was the 21st race of this Formula 1 season."
+     ],
+     [
+      "Drugo mjesto osvojio je Lando Norris, a treći je bio Oscar Piastri, obojica iz McLarena.",
+      "Second place went to Lando Norris, and third was Oscar Piastri, both from McLaren."
+     ]
+    ],
+    [
+     [
+      "Verstappen je krenuo s prvog mjesta jer je najbrži u kvalifikacijama, Kimi Antonelli, kažnjen zbog promjene motora.",
+      "Verstappen started from first place because the fastest in qualifying, Kimi Antonelli, was penalised for an engine change."
+     ],
+     [
+      "Utrka je imala mnogo preticanja i nekoliko ulazaka sigurnosnog automobila.",
+      "The race had a lot of overtaking and several safety car periods."
+     ],
+     [
+      "Antonelli je drugo mjesto izgubio u posljednjim trenucima, a George Russell je odustao dva kruga prije kraja.",
+      "Antonelli lost second place in the final moments, and George Russell retired two laps before the end."
+     ],
+     [
+      "Vozači Ferrarija Lewis Hamilton i Charles Leclerc sudarili su se u 38. krugu i obojica su kažnjena.",
+      "Ferrari drivers Lewis Hamilton and Charles Leclerc collided on lap 38 and both were penalised."
+     ]
+    ],
+    [
+     [
+      "Utrka nije bila važna za borbu za titulu.",
+      "The race was not important for the fight for the title."
+     ],
+     [
+      "Antonelli je početkom novembra u Meksiku postao najmlađi prvak u historiji s 20 godina, a Mercedes je već osvojio titulu među timovima.",
+      "At the start of November in Mexico, Antonelli became the youngest champion in history at 20, and Mercedes has already won the title among the teams."
+     ],
+     [
+      "Za Verstappena je to četvrta pobjeda ove sezone, a do kraja su ostale još utrke u Kataru i Abu Dhabiju.",
+      "For Verstappen it is his fourth win this season, and races in Qatar and Abu Dhabi are still left until the end."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "utrka",
+     "race"
+    ],
+    [
+     "pobijediti",
+     "to win"
+    ],
+    [
+     "kazniti",
+     "to penalise"
+    ],
+    [
+     "preticanje",
+     "overtaking"
+    ],
+    [
+     "krug",
+     "lap"
+    ],
+    [
+     "sudariti se",
+     "to collide"
+    ],
+    [
+     "titula",
+     "title"
+    ],
+    [
+     "prvak",
+     "champion"
+    ]
+   ]
+  },
+  {
+   "id": "261122004",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/ostra-reakcija-bivse-britanske-premijerke-na-ideju-o-povratku-u-eu-zaprepastena-sam-prihvatite-brexit/261122004",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261122004.jpg",
+   "published": "2026-11-22T07:18:00+01:00",
+   "title": [
+    "Theresa May kritikuje ideju o povratku Britanije u EU",
+    "Theresa May criticises the idea of Britain returning to the EU"
+   ],
+   "body": [
+    [
+     [
+      "Bivša britanska premijerka Theresa May oštro je kritikovala sadašnjeg premijera Andyja Burnhama.",
+      "Former British Prime Minister Theresa May sharply criticised the current Prime Minister Andy Burnham."
+     ],
+     [
+      "U intervjuu za BBC rekla je da je zaprepaštena jer Burnham razmišlja o povratku u Evropsku uniju.",
+      "In an interview with the BBC she said that she is shocked because Burnham is thinking about returning to the European Union."
+     ],
+     [
+      "Intervju se emituje u nedjelju u emisiji Laure Kuenssberg.",
+      "The interview is broadcast on Sunday in Laura Kuenssberg's programme."
+     ]
+    ],
+    [
+     [
+      "Burnham je na samitu EU u Briselu rekao da želi razmijeniti ideje o budućim odnosima s Unijom.",
+      "At the EU summit in Brussels, Burnham said that he wants to exchange ideas about future relations with the Union."
+     ],
+     [
+      "Sedmicu ranije u Londonu je izjavio da Brexit nije uspio.",
+      "A week earlier in London he stated that Brexit had failed."
+     ],
+     [
+      "May je poručila da je Brexit gotov i da ga treba prihvatiti i ići dalje.",
+      "May said that Brexit is over and that it should be accepted and people should move on."
+     ],
+     [
+      "Prema njenim riječima, Burnham ljudima govori da su pogrešno glasali i da trebaju glasati ponovo.",
+      "According to her, Burnham is telling people that they voted wrongly and that they should vote again."
+     ]
+    ],
+    [
+     [
+      "May je bila premijerka od 2016. do 2019. godine.",
+      "May was Prime Minister from 2016 to 2019."
+     ],
+     [
+      "Prije referenduma podržavala je ostanak u EU, ali je kao premijerka tri godine pregovarala o izlasku.",
+      "Before the referendum she supported staying in the EU, but as Prime Minister she negotiated the exit for three years."
+     ],
+     [
+      "Rekla je da bi vlada trebala jačati ekonomiju, sigurnost i prilike za građane.",
+      "She said that the government should strengthen the economy, security and opportunities for citizens."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "premijerka",
+     "(female) prime minister"
+    ],
+    [
+     "zaprepašten",
+     "shocked"
+    ],
+    [
+     "povratak",
+     "return"
+    ],
+    [
+     "prihvatiti",
+     "to accept"
+    ],
+    [
+     "glasati",
+     "to vote"
+    ],
+    [
+     "pregovarati",
+     "to negotiate"
+    ],
+    [
+     "izlazak",
+     "exit"
+    ],
+    [
+     "odnos",
+     "relation"
+    ]
+   ]
+  },
+  {
+   "id": "261122007",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/kosarka/murray-u-posljednjim-sekundama-srusio-boston-garza-ubacio-pet-poena/261122007",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261122007.jpg",
+   "published": "2026-11-22T07:18:00+01:00",
+   "title": [
+    "Sacramento u posljednjim sekundama pobijedio Boston",
+    "Sacramento beat Boston in the final seconds"
+   ],
+   "body": [
+    [
+     [
+      "Košarkaši Sacramento Kingsa pobijedili su Boston Celticse rezultatom 97:96 u NBA ligi.",
+      "The Sacramento Kings basketball players beat the Boston Celtics 97-96 in the NBA."
+     ],
+     [
+      "Odlučujući koš dao je Keegan Murray oko 5 sekundi prije kraja, nakon što je uhvatio odbijenu loptu.",
+      "The deciding basket was scored by Keegan Murray about 5 seconds before the end, after he caught a rebound."
+     ],
+     [
+      "Payton Pritchard je u posljednjem napadu Bostona promašio šut za tri poena.",
+      "Payton Pritchard missed a three-point shot in Boston's last attack."
+     ]
+    ],
+    [
+     [
+      "Boston je na poluvremenu vodio 13 poena, ali je u trećoj četvrtini izgubio 35:13.",
+      "Boston led by 13 points at half-time, but lost the third quarter 35-13."
+     ],
+     [
+      "U toj četvrtini promašio je svih 13 šuteva za tri poena.",
+      "In that quarter it missed all 13 three-point shots."
+     ],
+     [
+      "Najbolji kod Sacramenta bio je Darius Acuff s 21 poenom, a kod Bostona Paul George s 19 poena.",
+      "The best for Sacramento was Darius Acuff with 21 points, and for Boston Paul George with 19 points."
+     ],
+     [
+      "Reprezentativac BiH Luka Garza igrao je 17 minuta i imao 5 poena i 5 skokova.",
+      "Bosnia and Herzegovina international Luka Garza played 17 minutes and had 5 points and 5 rebounds."
+     ]
+    ],
+    [
+     [
+      "Ovo je tek druga pobjeda Sacramenta u sezoni i prva na domaćem terenu.",
+      "This is only Sacramento's second win of the season and the first on home court."
+     ],
+     [
+      "Boston je igrao bez Jaysona Tatuma, Derricka Whitea i Mitchella Robinsona.",
+      "Boston played without Jayson Tatum, Derrick White and Mitchell Robinson."
+     ],
+     [
+      "Celticsi su izgubili treću utakmicu zaredom i sada imaju 11 pobjeda i 5 poraza.",
+      "The Celtics lost their third game in a row and now have 11 wins and 5 losses."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "košarkaš",
+     "basketball player"
+    ],
+    [
+     "koš",
+     "basket"
+    ],
+    [
+     "poen",
+     "point"
+    ],
+    [
+     "promašiti",
+     "to miss"
+    ],
+    [
+     "poluvrijeme",
+     "half-time"
+    ],
+    [
+     "četvrtina",
+     "quarter"
+    ],
+    [
+     "skok",
+     "rebound"
+    ],
+    [
+     "poraz",
+     "defeat"
+    ]
+   ]
+  },
+  {
+   "id": "261122002",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/zapaljeni-ruski-teretnjak-otplutao-u-finske-vode-podignuti-avioni-rat-se-prelijeva-u-nasa-podrucja/261122002",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261122002.jpg",
+   "published": "2026-11-22T07:10:00+01:00",
+   "title": [
+    "Zapaljeni ruski teretni brod otplutao u finske vode",
+    "Burning Russian cargo ship drifted into Finnish waters"
+   ],
+   "body": [
+    [
+     [
+      "Ruski teretni brod Sparta II zapalio se u subotu u Baltičkom moru nakon napada dronovima.",
+      "The Russian cargo ship Sparta II caught fire on Saturday in the Baltic Sea after a drone attack."
+     ],
+     [
+      "Brod je napadnut u međunarodnim vodama zapadno od ruskog ostrva Gogland, a zatim je otplutao u finske vode.",
+      "The ship was attacked in international waters west of the Russian island of Gogland, and then it drifted into Finnish waters."
+     ],
+     [
+      "Finska vojska je rekla da iza napada vjerovatno stoji Ukrajina.",
+      "The Finnish army said that Ukraine is probably behind the attack."
+     ]
+    ],
+    [
+     [
+      "Brod je plovio prema Kalinjingradu, a sada je usidren u finskim vodama.",
+      "The ship was sailing towards Kaliningrad, and now it is anchored in Finnish waters."
+     ],
+     [
+      "Svih 16 članova posade napustilo je brod u čamcima za spašavanje i vraća se u Rusiju.",
+      "All 16 crew members left the ship in lifeboats and are returning to Russia."
+     ],
+     [
+      "Nije poznato šta je brod prevozio, ali vlasti ne isključuju vojni teret.",
+      "It is not known what the ship was carrying, but the authorities do not rule out military cargo."
+     ],
+     [
+      "Sjedinjene Američke Države ranije su uvele sankcije ovom brodu.",
+      "The United States earlier imposed sanctions on this ship."
+     ],
+     [
+      "Finska je privremeno ograničila saobraćaj u zraku i na moru u istočnom dijelu Finskog zaljeva.",
+      "Finland temporarily restricted air and sea traffic in the eastern part of the Gulf of Finland."
+     ]
+    ],
+    [
+     [
+      "Finski premijer Petteri Orpo napisao je da se rat prelijeva u susjedna područja.",
+      "Finnish Prime Minister Petteri Orpo wrote that the war is spilling over into neighbouring areas."
+     ],
+     [
+      "Švedski avioni pod finskom komandom pomogli su u zaštiti finskog teritorija, a Estonija je poslala brod da pomogne u gašenju požara.",
+      "Swedish planes under Finnish command helped protect Finnish territory, and Estonia sent a ship to help put out the fire."
+     ],
+     [
+      "Ruski guverner je rekao da su dva drona napala brod i da je preko noći oboreno 80 dronova iznad regije.",
+      "A Russian governor said that two drones attacked the ship and that 80 drones were shot down over the region overnight."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "teretni brod",
+     "cargo ship"
+    ],
+    [
+     "zapaliti se",
+     "to catch fire"
+    ],
+    [
+     "otplutati",
+     "to drift away"
+    ],
+    [
+     "posada",
+     "crew"
+    ],
+    [
+     "teret",
+     "cargo"
+    ],
+    [
+     "sankcije",
+     "sanctions"
+    ],
+    [
+     "saobraćaj",
+     "traffic"
+    ],
+    [
+     "zaljev",
+     "gulf"
+    ]
+   ]
+  },
+  {
+   "id": "261122001",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/muzika/darko-rundek-vratio-sarajevo-u-zlatno-doba-haustora-u-bkc-u-mu-se-pridruzili-damir-prica-i-zoran-zajec/261122001",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261122001.jpg",
+   "published": "2026-11-22T01:00:00+01:00",
+   "title": [
+    "Darko Rundek u Sarajevu oživio pjesme Haustora",
+    "Darko Rundek brought Haustor's songs back to life in Sarajevo"
+   ],
+   "body": [
+    [
+     [
+      "Darko Rundek i njegova Ekipa održali su koncert u Bosanskom kulturnom centru u Sarajevu.",
+      "Darko Rundek and his Ekipa held a concert at the Bosnian Cultural Centre in Sarajevo."
+     ],
+     [
+      "Na bini su im se pridružili Damir Prica i Zoran Zajec, bivši članovi poznatog benda Haustor.",
+      "They were joined on stage by Damir Prica and Zoran Zajec, former members of the famous band Haustor."
+     ],
+     [
+      "Publika je čula pjesme koje su nastale prije oko 40 godina.",
+      "The audience heard songs that were made about 40 years ago."
+     ]
+    ],
+    [
+     [
+      "Na pjesmi „Ena“ cijela sala je pjevala i plesala.",
+      "During the song \"Ena\" the whole hall sang and danced."
+     ],
+     [
+      "Svirali su i pjesme „Ja želim“, „Ruke“, „Makedo“ i „Šejn“.",
+      "They also played the songs \"Ja želim\", \"Ruke\", \"Makedo\" and \"Šejn\"."
+     ],
+     [
+      "Ulaznice su bile rasprodane nekoliko dana prije koncerta.",
+      "The tickets were sold out several days before the concert."
+     ],
+     [
+      "U publici su bili stariji fanovi, ali i mladi koji Haustor nikada nisu gledali uživo.",
+      "In the audience there were older fans, but also young people who had never seen Haustor live."
+     ]
+    ],
+    [
+     [
+      "Koncert je prvo bio najavljen u Domu mladih, ali je Rundek tražio manji prostor, bliži publici.",
+      "The concert was first announced at Dom mladih, but Rundek asked for a smaller space, closer to the audience."
+     ],
+     [
+      "Haustor je osnovan u Zagrebu 1979. godine, a vodili su ga Rundek i Srđan Sacher.",
+      "Haustor was founded in Zagreb in 1979, and it was led by Rundek and Srđan Sacher."
+     ],
+     [
+      "Bend je miješao rock, reggae, ska i latinoameričku muziku i objavio četiri albuma.",
+      "The band mixed rock, reggae, ska and Latin American music and released four albums."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "koncert",
+     "concert"
+    ],
+    [
+     "bina",
+     "stage"
+    ],
+    [
+     "pridružiti se",
+     "to join"
+    ],
+    [
+     "bend",
+     "band"
+    ],
+    [
+     "publika",
+     "audience"
+    ],
+    [
+     "ulaznica",
+     "ticket"
+    ],
+    [
+     "rasprodan",
+     "sold out"
+    ],
+    [
+     "osnovati",
+     "to found"
+    ]
+   ]
+  },
+  {
+   "id": "261121165",
+   "source": "Klix.ba",
+   "section": "Zdravlje",
+   "url": "https://www.klix.ba/lifestyle/zdravlje/topla-kupka-ili-tus-prije-spavanja-pomaze-da-brze-zaspite/261121165",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261121165.jpg",
+   "published": "2026-11-21T22:35:00+01:00",
+   "title": [
+    "Topla kupka prije spavanja pomaže da brže zaspite",
+    "A warm bath before bed helps you fall asleep faster"
+   ],
+   "body": [
+    [
+     [
+      "Topla kupka ili tuš prije spavanja može pomoći da brže zaspite.",
+      "A warm bath or shower before bed can help you fall asleep faster."
+     ],
+     [
+      "To su pokazali naučnici s Univerziteta Texas u Austinu, koji su pregledali 5.322 naučna rada o toj temi.",
+      "This was shown by scientists from the University of Texas at Austin, who reviewed 5,322 scientific papers on the topic."
+     ],
+     [
+      "Na kraju su zajedno analizirali podatke iz 13 studija, a rezultate su objavili 2019. godine.",
+      "In the end they analysed data from 13 studies together, and they published the results in 2019."
+     ]
+    ],
+    [
+     [
+      "Najbolji rezultati bili su uz vodu od 40 do 42,5 stepeni.",
+      "The best results were with water of 40 to 42.5 degrees."
+     ],
+     [
+      "Dovoljno je 10 minuta u toploj vodi, 1 do 2 sata prije spavanja.",
+      "10 minutes in warm water, 1 to 2 hours before sleep, is enough."
+     ],
+     [
+      "Prema univerzitetu, najbolje je okupati se oko 90 minuta prije spavanja.",
+      "According to the university, it is best to bathe about 90 minutes before sleep."
+     ],
+     [
+      "Ljudi koji su to radili zaspali su u prosjeku 10 minuta brže.",
+      "People who did that fell asleep 10 minutes faster on average."
+     ]
+    ],
+    [
+     [
+      "Naučnici objašnjavaju da tjelesna temperatura prirodno pada oko sat prije spavanja.",
+      "Scientists explain that body temperature naturally drops about an hour before sleep."
+     ],
+     [
+      "Topla voda pojačava protok krvi prema dlanovima i stopalima, koji tada otpuštaju toplotu.",
+      "Warm water increases blood flow to the palms and soles, which then release heat."
+     ],
+     [
+      "Zbog toga se tijelo brže hladi, a to pomaže da lakše zaspimo i bolje spavamo.",
+      "Because of that the body cools down faster, and that helps us fall asleep more easily and sleep better."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "kupka",
+     "bath"
+    ],
+    [
+     "tuš",
+     "shower"
+    ],
+    [
+     "zaspati",
+     "to fall asleep"
+    ],
+    [
+     "spavanje",
+     "sleep"
+    ],
+    [
+     "temperatura",
+     "temperature"
+    ],
+    [
+     "dlan",
+     "palm"
+    ],
+    [
+     "stopalo",
+     "foot, sole"
+    ],
+    [
+     "toplota",
+     "heat"
+    ]
+   ]
+  },
+  {
+   "id": "261121158",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/el-sayed-clinton-me-pitao-zasto-studiram-medicinu-odgovorio-sam-da-sam-tamnoputi-musliman-i-da-mi-to-radimo/261121158",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261121158.jpg",
+   "published": "2026-11-21T22:05:00+01:00",
+   "title": [
+    "Novi senator El-Sayed ispričao priču o susretu s Clintonom",
+    "New senator El-Sayed told a story about meeting Clinton"
+   ],
+   "body": [
+    [
+     [
+      "Abdul El-Sayed, novi senator iz američke savezne države Michigan, ponovo je ispričao zanimljivu priču iz 2007. godine.",
+      "Abdul El-Sayed, the new senator from the US state of Michigan, has again told an interesting story from 2007."
+     ],
+     [
+      "Tada je kao student upoznao bivšeg američkog predsjednika Billa Clintona.",
+      "At that time, as a student, he met former US president Bill Clinton."
+     ],
+     [
+      "Susret je bio nakon svečane dodjele diploma na Univerzitetu u Michiganu.",
+      "The meeting was after the graduation ceremony at the University of Michigan."
+     ]
+    ],
+    [
+     [
+      "Clinton ga je pitao zašto studira medicinu.",
+      "Clinton asked him why he was studying medicine."
+     ],
+     [
+      "El-Sayed je odgovorio da je tamnoputi musliman i da ljudi poput njega to rade.",
+      "El-Sayed answered that he was a dark-skinned Muslim and that people like him do that."
+     ],
+     [
+      "Clinton je rekao da je to odlično, ali da on ima dar za komunikaciju i da bi se jednom mogao kandidovati.",
+      "Clinton said that was great, but that he had a gift for communication and could one day run for office."
+     ],
+     [
+      "El-Sayed se nasmijao i rekao da se ljudi poput njega ne kandiduju, a Clinton se također nasmijao i otišao.",
+      "El-Sayed laughed and said that people like him do not run for office, and Clinton also laughed and left."
+     ]
+    ],
+    [
+     [
+      "El-Sayed je kasnije završio medicinu i radio u oblasti javnog zdravlja, a onda je ušao u politiku.",
+      "El-Sayed later finished medicine and worked in public health, and then he entered politics."
+     ],
+     [
+      "On je ovu priču već pričao u nekoliko podcasta i na skupu na kojem ga je podržao Barack Obama.",
+      "He has already told this story on several podcasts and at a rally where Barack Obama supported him."
+     ],
+     [
+      "Na izborima 3. novembra pobijedio je i bit će prvi musliman u američkom Senatu.",
+      "He won the election on 3 November and will be the first Muslim in the US Senate."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "senator",
+     "senator"
+    ],
+    [
+     "susret",
+     "meeting"
+    ],
+    [
+     "predsjednik",
+     "president"
+    ],
+    [
+     "diploma",
+     "diploma"
+    ],
+    [
+     "kandidovati se",
+     "to run for office"
+    ],
+    [
+     "dar",
+     "gift"
+    ],
+    [
+     "javno zdravlje",
+     "public health"
+    ],
+    [
+     "izbori",
+     "elections"
+    ]
+   ]
+  },
   {
    "id": "261109186",
    "source": "Klix.ba",
@@ -1452,6 +2207,100 @@
     [
      "obaveza",
      "obligation"
+    ]
+   ]
+  },
+  {
+   "id": "261121038",
+   "source": "Klix.ba",
+   "section": "Tehnologija",
+   "url": "https://www.klix.ba/scitech/gaming/gta-6-je-najuspjesnije-izdanje-u-historiji-gaminga-prvog-dana-zaradio-379-milijardi-dolara/261121038",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261121038.jpg",
+   "published": "2026-11-21T10:10:00+01:00",
+   "title": [
+    "GTA 6 prvog dana zaradio rekordnih 3,79 milijardi dolara",
+    "GTA 6 earned a record 3.79 billion dollars on its first day"
+   ],
+   "body": [
+    [
+     [
+      "Video igra GTA 6 prvog dana je zaradila 3,79 milijardi dolara, objavili su Rockstar Games i Take-Two Interactive.",
+      "The video game GTA 6 earned 3.79 billion dollars on its first day, Rockstar Games and Take-Two Interactive announced."
+     ],
+     [
+      "Kompanije kažu da je to rekord u cijeloj industriji zabave.",
+      "The companies say that this is a record in the whole entertainment industry."
+     ],
+     [
+      "Igra je izašla 19. novembra za PlayStation 5 i Xbox Series X|S, nakon 13 godina čekanja.",
+      "The game came out on 19 November for PlayStation 5 and Xbox Series X|S, after 13 years of waiting."
+     ]
+    ],
+    [
+     [
+      "Ova brojka uključuje i prodaju prije izlaska igre.",
+      "This figure also includes sales before the game was released."
+     ],
+     [
+      "Prije izlaska je prodano 32,5 miliona primjeraka.",
+      "32.5 million copies were sold before the release."
+     ],
+     [
+      "Kompanija Sensor Tower procjenjuje da je zarada prvog dana bila manja, oko 2,36 milijardi dolara.",
+      "The company Sensor Tower estimates that the first-day earnings were lower, about 2.36 billion dollars."
+     ],
+     [
+      "GTA 5 je 2013. godine u prva 24 sata zaradio oko 816 miliona dolara.",
+      "In 2013, GTA 5 earned about 816 million dollars in the first 24 hours."
+     ]
+    ],
+    [
+     [
+      "Rockstar kaže da je nova igra više nego četiri puta nadmašila taj rezultat.",
+      "Rockstar says that the new game beat that result more than four times over."
+     ],
+     [
+      "Igra ima prosječnu ocjenu 99 na stranici Metacritic, koja skuplja recenzije.",
+      "The game has an average score of 99 on the website Metacritic, which collects reviews."
+     ],
+     [
+      "Osnivač Rockstara Sam Houser rekao je da su duboko dirnuti reakcijom igrača širom svijeta.",
+      "Rockstar founder Sam Houser said that they are deeply moved by the reaction of players around the world."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "zaraditi",
+     "to earn"
+    ],
+    [
+     "rekord",
+     "record"
+    ],
+    [
+     "izlazak",
+     "release"
+    ],
+    [
+     "primjerak",
+     "copy"
+    ],
+    [
+     "procjenjivati",
+     "to estimate"
+    ],
+    [
+     "nadmašiti",
+     "to surpass"
+    ],
+    [
+     "ocjena",
+     "score, rating"
+    ],
+    [
+     "recenzija",
+     "review"
     ]
    ]
   },
@@ -4832,860 +5681,6 @@
     [
      "ljekar",
      "doctor"
-    ]
-   ]
-  },
-  {
-   "id": "261119262",
-   "source": "Klix.ba",
-   "section": "Biznis",
-   "url": "https://www.klix.ba/biznis/finansije/historijski-debi-na-wall-streetu-anthropic-srusio-rekord-spacex-a-i-prikupio-813-milijarde-dolara/261119262",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261119262.jpg",
-   "published": "2026-11-19T18:22:00+01:00",
-   "title": [
-    "Anthropic na berzi prikupio rekordnih 81,3 milijarde dolara",
-    "Anthropic raised a record 81.3 billion dollars on the stock exchange"
-   ],
-   "body": [
-    [
-     [
-      "Kompanija Anthropic, koja pravi AI asistenta Claude, danas je počela trgovati na berzi Nasdaq u New Yorku.",
-      "The company Anthropic, which makes the AI assistant Claude, began trading on the Nasdaq stock exchange in New York today."
-     ],
-     [
-      "Prodajom dionica prikupila je 81,3 milijarde dolara, što je najveći iznos u historiji.",
-      "By selling shares it raised 81.3 billion dollars, the largest amount in history."
-     ],
-     [
-      "Tako je srušila rekord SpaceX-a, koji je u junu prikupio 75 milijardi dolara.",
-      "It thus broke the record of SpaceX, which raised 75 billion dollars in June."
-     ]
-    ],
-    [
-     [
-      "Cijena dionice bila je 83 dolara, a prva trgovina je otvorena na 111,50 dolara.",
-      "The share price was 83 dollars, and the first trade opened at 111.50 dollars."
-     ],
-     [
-      "To je 34 posto više od početne cijene.",
-      "That is 34 percent more than the starting price."
-     ],
-     [
-      "Nakon nekoliko minuta cijena je pala na 101,24 dolara, ali je i dalje bila visoka.",
-      "After a few minutes the price fell to 101.24 dollars, but it was still high."
-     ],
-     [
-      "Vrijednost kompanije procjenjuje se na oko 1.500 milijardi dolara.",
-      "The value of the company is estimated at about 1,500 billion dollars."
-     ],
-     [
-      "Debi je bio dobar iako je cijelo tržište tog dana padalo.",
-      "The debut was good even though the whole market was falling that day."
-     ]
-    ],
-    [
-     [
-      "Osnivači Dario i Daniela Amodei otvorili su trgovanje i govorili o koristima i rizicima umjetne inteligencije.",
-      "The founders Dario and Daniela Amodei opened trading and spoke about the benefits and risks of artificial intelligence."
-     ],
-     [
-      "Dario Amodei je rekao da bi i druge kompanije mogle slijediti njihov primjer ako pokažu da sigurnost i uspjeh idu zajedno.",
-      "Dario Amodei said that other companies could follow their example if they show that safety and success go together."
-     ],
-     [
-      "Kompaniju su 2021. godine osnovali bivši istraživači OpenAI-ja, a u septembru je imala 14.000 poslovnih klijenata.",
-      "The company was founded in 2021 by former OpenAI researchers, and in September it had 14,000 business clients."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "berza",
-     "stock exchange"
-    ],
-    [
-     "dionica",
-     "share, stock"
-    ],
-    [
-     "prikupiti",
-     "to raise, to collect"
-    ],
-    [
-     "rekord",
-     "record"
-    ],
-    [
-     "cijena",
-     "price"
-    ],
-    [
-     "vrijednost",
-     "value"
-    ],
-    [
-     "osnivač",
-     "founder"
-    ],
-    [
-     "umjetna inteligencija",
-     "artificial intelligence"
-    ]
-   ]
-  },
-  {
-   "id": "261119254",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/imas-37-godina-i-dvoje-djece-supruga-ga-ismijala-a-everton-mu-ispunio-trenerski-san/261119254",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261119254.jpg",
-   "published": "2026-11-19T18:19:00+01:00",
-   "title": [
-    "Supruga ga ismijala, a Everton mu ispunio trenerski san",
-    "His wife mocked him, but Everton made his coaching dream come true"
-   ],
-   "body": [
-    [
-     [
-      "Navijač Evertona star 37 godina postao je poznat na društvenim mrežama zbog jednog kratkog videa.",
-      "A 37-year-old Everton fan became famous on social media because of one short video."
-     ],
-     [
-      "Igrao je igricu Football Manager i u svojoj spavaćoj sobi održao izmišljenu konferenciju za medije kao trener Evertona.",
-      "He was playing the game Football Manager and held a made-up press conference in his bedroom as Everton's coach."
-     ],
-     [
-      "Tada je u sobu ušla njegova supruga i sve snimila telefonom.",
-      "Then his wife came into the room and filmed everything with her phone."
-     ]
-    ],
-    [
-     [
-      "Ona mu se smijala i rekla da ima 37 godina i dvoje djece, a pretvara se da vodi ekipu.",
-      "She laughed at him and said that he was 37 and had two children, yet was pretending to run a team."
-     ],
-     [
-      "Snimak se brzo proširio internetom i došao je do samog kluba.",
-      "The clip quickly spread across the internet and reached the club itself."
-     ],
-     [
-      "Everton je zato odlučio da mu ispuni san i pozvao ga je u svoje prostorije.",
-      "Everton therefore decided to make his dream come true and invited him to its premises."
-     ],
-     [
-      "Tamo je održao pravu konferenciju za medije.",
-      "There he held a real press conference."
-     ]
-    ],
-    [
-     [
-      "Klub je video objavio u srijedu, a navijača je dočekao kapiten James Tarkowski.",
-      "The club published the video on Wednesday, and captain James Tarkowski welcomed the fan."
-     ],
-     [
-      "Tarkowski mu je rekao: Dobro jutro, treneru, a on je odgovorio: Dobro jutro, kapitenu.",
-      "Tarkowski said to him: Good morning, coach, and he replied: Good morning, captain."
-     ],
-     [
-      "Navijač je kasnije rekao da je svima pričao da je kapiten bio tamo.",
-      "The fan later said that he had told everyone that the captain was there."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "navijač",
-     "fan, supporter"
-    ],
-    [
-     "supruga",
-     "wife"
-    ],
-    [
-     "san",
-     "dream"
-    ],
-    [
-     "trener",
-     "coach"
-    ],
-    [
-     "konferencija za medije",
-     "press conference"
-    ],
-    [
-     "snimak",
-     "recording, clip"
-    ],
-    [
-     "kapiten",
-     "captain"
-    ],
-    [
-     "ispuniti",
-     "to fulfil"
-    ]
-   ]
-  },
-  {
-   "id": "261119251",
-   "source": "Klix.ba",
-   "section": "Biznis",
-   "url": "https://www.klix.ba/biznis/investicije/ovako-ce-izgledati-kulturno-edukativni-centar-islamske-zajednice-na-ilidzi/261119251",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261119251.jpg",
-   "published": "2026-11-19T17:55:00+01:00",
-   "title": [
-    "Islamska zajednica pokazala izgled novog centra na Ilidži",
-    "Islamic Community shows the look of a new centre in Ilidža"
-   ],
-   "body": [
-    [
-     [
-      "Medžlis Islamske zajednice Sarajevo objavio je video s idejnim rješenjem novog centra na Ilidži.",
-      "The Medžlis of the Islamic Community Sarajevo published a video with the conceptual design of a new centre in Ilidža."
-     ],
-     [
-      "Kulturno-edukativni centar bit će izgrađen pored Centralne džamije u naselju Pejton.",
-      "The cultural and educational centre will be built next to the Central Mosque in the Pejton neighbourhood."
-     ],
-     [
-      "U njemu će se održavati vjerske, kulturne i obrazovne aktivnosti.",
-      "Religious, cultural and educational activities will be held in it."
-     ]
-    ],
-    [
-     [
-      "Općinsko vijeće Ilidže usvojilo je izmjene plana 29. oktobra, a one su stupile na snagu u novembru.",
-      "The Ilidža Municipal Council adopted the changes to the plan on 29 October, and they came into force in November."
-     ],
-     [
-      "Lokacija u ulici 12. mart ima 1,11 hektara.",
-      "The site on 12. mart street covers 1.11 hectares."
-     ],
-     [
-      "Zgrada će imati podrum, prizemlje i jedan sprat, a ukupna površina može biti najviše 2.615 kvadratnih metara.",
-      "The building will have a basement, a ground floor and one storey, and the total area can be at most 2,615 square metres."
-     ],
-     [
-      "U podrumu će biti garaža s najmanje 65 parking mjesta.",
-      "In the basement there will be a garage with at least 65 parking spaces."
-     ]
-    ],
-    [
-     [
-      "Garaža će služiti posjetiocima džamije i centra, ali i stanovnicima naselja.",
-      "The garage will serve visitors to the mosque and the centre, but also residents of the neighbourhood."
-     ],
-     [
-      "Novi centar bi trebao zamijeniti stare garaže koje se sada nalaze na tom mjestu.",
-      "The new centre should replace the old garages that are now on that site."
-     ],
-     [
-      "Plan predviđa i novu cestu dugu 200 metara uz rijeku Željeznicu, pa će Pejton dobiti drugi ulaz i izlaz.",
-      "The plan also includes a new 200-metre road along the Željeznica river, so Pejton will get a second entrance and exit."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "zajednica",
-     "community"
-    ],
-    [
-     "centar",
-     "centre"
-    ],
-    [
-     "džamija",
-     "mosque"
-    ],
-    [
-     "izgraditi",
-     "to build"
-    ],
-    [
-     "zgrada",
-     "building"
-    ],
-    [
-     "površina",
-     "area, surface"
-    ],
-    [
-     "garaža",
-     "garage"
-    ],
-    [
-     "naselje",
-     "neighbourhood, settlement"
-    ]
-   ]
-  },
-  {
-   "id": "261119240",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/lifestyle/fitness/emina-jahovic-otkrila-tajnu-vitke-linije-preskace-dorucak-ali-jedan-porok-ne-ostavlja/261119240",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261119240.jpg",
-   "published": "2026-11-19T17:55:00+01:00",
-   "title": [
-    "Emina Jahović otkrila kako se hrani: dva obroka dnevno",
-    "Emina Jahović revealed how she eats: two meals a day"
-   ],
-   "body": [
-    [
-     [
-      "Pjevačica Emina Jahović za srbijanski portal Blic govorila je o tome kako se hrani.",
-      "Singer Emina Jahović spoke to the Serbian portal Blic about how she eats."
-     ],
-     [
-      "Ona kaže da nema tri obroka dnevno, nego samo jedan ili dva.",
-      "She says that she doesn't have three meals a day, but only one or two."
-     ],
-     [
-      "Često preskače doručak, a dan završava laganom večerom oko 18 ili 19 sati.",
-      "She often skips breakfast and ends the day with a light dinner around 6 or 7 pm."
-     ]
-    ],
-    [
-     [
-      "Između obroka ne jede ništa, a ranije je rekla da ponekad posti i do 48 sati.",
-      "She eats nothing between meals, and she said earlier that she sometimes fasts for up to 48 hours."
-     ],
-     [
-      "Izbacila je mliječne proizvode i izbjegava gluten, protein u kojem ima brašna od pšenice.",
-      "She has cut out dairy products and avoids gluten, a protein found in wheat flour."
-     ],
-     [
-      "Većinu proteina dobija iz mesa i mnogo trenira.",
-      "She gets most of her protein from meat and trains a lot."
-     ],
-     [
-      "Ajvar ne kupuje u prodavnici, nego ga pravi njena majka u Novom Pazaru s maslinovim uljem.",
-      "She doesn't buy ajvar in a shop; her mother makes it in Novi Pazar with olive oil."
-     ]
-    ],
-    [
-     [
-      "Rekla je da ne pojede cijelu teglu ajvara, nego dvije kašike.",
-      "She said that she doesn't eat a whole jar of ajvar, but two spoonfuls."
-     ],
-     [
-      "Jedini porok koji priznaje je kafa, jer joj smanjuje glad.",
-      "The only vice she admits to is coffee, because it reduces her hunger."
-     ],
-     [
-      "Kada prekrši pravila, počasti se picom s Nutellom, vaflima i čokoladom.",
-      "When she breaks the rules, she treats herself to pizza with Nutella, waffles and chocolate."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "obrok",
-     "meal"
-    ],
-    [
-     "doručak",
-     "breakfast"
-    ],
-    [
-     "večera",
-     "dinner"
-    ],
-    [
-     "postiti",
-     "to fast"
-    ],
-    [
-     "tegla",
-     "jar"
-    ],
-    [
-     "kašika",
-     "spoon, spoonful"
-    ],
-    [
-     "porok",
-     "vice"
-    ],
-    [
-     "glad",
-     "hunger"
-    ]
-   ]
-  },
-  {
-   "id": "261119231",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/atletika/zasto-danasnja-djeca-ne-mogu-uraditi-pokrete-koje-smo-mi-radili-bez-razmisljanja/261119231",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261119231.jpg",
-   "published": "2026-11-19T17:32:00+01:00",
-   "title": [
-    "Zašto se današnja djeca kreću manje nego ranije",
-    "Why today's children move less than before"
-   ],
-   "body": [
-    [
-     [
-      "Današnja djeca često imaju organizirane treninge, ali tokom dana mnogo više sjede nego ranije generacije.",
-      "Today's children often have organised training sessions, but during the day they sit much more than earlier generations."
-     ],
-     [
-      "O tome piše kineziolog i atletski trener Elmir Ćerimagić, koji je i otac četvero djece.",
-      "Kinesiologist and athletics coach Elmir Ćerimagić, who is also a father of four, writes about this."
-     ],
-     [
-      "On smatra da trening ne može zamijeniti slobodnu igru.",
-      "He believes that training cannot replace free play."
-     ]
-    ],
-    [
-     [
-      "Ranije su se djeca penjala na drveće, skakala preko potoka i igrala žmire i lastiš.",
-      "Earlier, children climbed trees, jumped over streams and played hide-and-seek and elastics."
-     ],
-     [
-      "Tako su razvijala ravnotežu, snagu i koordinaciju, a da to nisu ni znala.",
-      "That way they developed balance, strength and coordination without even knowing it."
-     ],
-     [
-      "Danas dijete može imati 3 treninga nogometa sedmično, a ostatak dana provodi u školi, uz telefon ili televizor.",
-      "Today a child can have 3 football sessions a week, and spends the rest of the day at school, with a phone or the TV."
-     ],
-     [
-      "Svjetska zdravstvena organizacija preporučuje djeci od 5 do 17 godina najmanje 60 minuta kretanja dnevno.",
-      "The World Health Organization recommends at least 60 minutes of movement a day for children aged 5 to 17."
-     ]
-    ],
-    [
-     [
-      "Autor kaže da roditelji često zabranjuju djeci da se penju i skaču, ili sve urade umjesto njih.",
-      "The author says that parents often forbid children to climb and jump, or do everything for them."
-     ],
-     [
-      "On savjetuje svakodnevnu igru napolju i različite pokrete, kao što su skakanje, puzanje i balansiranje.",
-      "He advises daily outdoor play and different movements, such as jumping, crawling and balancing."
-     ],
-     [
-      "Organizirani sport treba biti dodatak, a ne zamjena za kretanje.",
-      "Organised sport should be an addition, not a replacement for movement."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "kretanje",
-     "movement"
-    ],
-    [
-     "trening",
-     "training session"
-    ],
-    [
-     "igra",
-     "play, game"
-    ],
-    [
-     "ravnoteža",
-     "balance"
-    ],
-    [
-     "snaga",
-     "strength"
-    ],
-    [
-     "roditelj",
-     "parent"
-    ],
-    [
-     "preporučiti",
-     "to recommend"
-    ],
-    [
-     "penjati se",
-     "to climb"
-    ]
-   ]
-  },
-  {
-   "id": "261119216",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/rekla-mi-je-sestra-da-te-dario-osmekao-i-da-ne-dolazis-detalji-iz-sudnice-o-uhapsenoj-inspektorici-sipa-e/261119216",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261119216.jpg",
-   "published": "2026-11-19T16:50:00+01:00",
-   "title": [
-    "Tužilaštvo traži pritvor za uhapšenu inspektoricu SIPA-e",
-    "Prosecutors seek detention for arrested SIPA inspector"
-   ],
-   "body": [
-    [
-     [
-      "Pred Sudom BiH danas je održano ročište o pritvoru za inspektoricu SIPA-e Jelenu Mičić.",
-      "A hearing on detention for SIPA inspector Jelena Mičić was held today before the Court of BiH."
-     ],
-     [
-      "Sumnja se da je zloupotrijebila položaj i da je preko brata upozorila kriminalca Miljana Radonju na istragu.",
-      "She is suspected of abusing her position and of warning the criminal Miljan Radonja about an investigation through her brother."
-     ],
-     [
-      "Za to krivično djelo prijeti kazna od 6 mjeseci do 5 godina zatvora.",
-      "That criminal offence carries a sentence of 6 months to 5 years in prison."
-     ]
-    ],
-    [
-     [
-      "Tužilac je tražio jedan mjesec pritvora, jer bi ona mogla uništiti dokaze ili uticati na svjedoke.",
-      "The prosecutor asked for one month of detention, because she could destroy evidence or influence witnesses."
-     ],
-     [
-      "Prema tužilaštvu, njen brat je informaciju poslao Radonji preko aplikacije Sky 2021. godine.",
-      "According to the prosecution, her brother sent the information to Radonja via the Sky app in 2021."
-     ],
-     [
-      "Policija joj je oduzela telefon, ali ona nije htjela dati šifru.",
-      "The police seized her phone, but she would not give the password."
-     ],
-     [
-      "Kod nje je pronađen i USB s obavještajnim podacima iz 2021. godine.",
-      "A USB stick with intelligence data from 2021 was also found with her."
-     ]
-    ],
-    [
-     [
-      "Odbrana je rekla da poruke nisu dokazane i da je šutnja njeno pravo.",
-      "The defence said the messages had not been proven and that silence is her right."
-     ],
-     [
-      "Advokati su predložili blaže mjere, na primjer zabranu razgovora o predmetu.",
-      "The lawyers proposed milder measures, for example a ban on talking about the case."
-     ],
-     [
-      "Naveli su i da je ona majka dvoje djece i da brine o baki.",
-      "They also stated that she is a mother of two children and looks after her grandmother."
-     ],
-     [
-      "Sud će odluku o pritvoru donijeti naknadno.",
-      "The court will make its decision on detention later."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "sud",
-     "court"
-    ],
-    [
-     "pritvor",
-     "detention, custody"
-    ],
-    [
-     "tužilac",
-     "prosecutor"
-    ],
-    [
-     "istraga",
-     "investigation"
-    ],
-    [
-     "dokaz",
-     "evidence, proof"
-    ],
-    [
-     "svjedok",
-     "witness"
-    ],
-    [
-     "odbrana",
-     "defence"
-    ],
-    [
-     "odluka",
-     "decision"
-    ]
-   ]
-  },
-  {
-   "id": "261119236",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/lifestyle/putovanja/zagreb-proglasen-najboljom-bozicnom-destinacijom-u-evropi-iza-njega-sofija-i-budimpesta/261119236",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261119236.jpg",
-   "published": "2026-11-19T16:45:00+01:00",
-   "title": [
-    "Zagreb proglašen najboljom božićnom destinacijom u Evropi",
-    "Zagreb named the best Christmas destination in Europe"
-   ],
-   "body": [
-    [
-     [
-      "Platforma European Best Destinations proglasila je Zagreb najboljom božićnom destinacijom u Evropi za 2026. godinu.",
-      "The platform European Best Destinations named Zagreb the best Christmas destination in Europe for 2026."
-     ],
-     [
-      "Na drugom mjestu je Sofija, a na četvrtom Budimpešta.",
-      "Sofia is in second place, and Budapest is fourth."
-     ],
-     [
-      "Platforma nije objasnila kako je birala gradove, ali kaže da Zagreb nudi posebnu atmosferu.",
-      "The platform did not explain how it chose the cities, but it says that Zagreb offers a special atmosphere."
-     ]
-    ],
-    [
-     [
-      "Advent u Zagrebu je već tri godine zaredom bio najbolji božićni sajam u Evropi.",
-      "Advent in Zagreb was already the best Christmas market in Europe three years in a row."
-     ],
-     [
-      "Ove godine službeno počinje u subotu, 28. novembra, i traje do 7. januara 2027. godine.",
-      "This year it officially starts on Saturday, 28 November, and lasts until 7 January 2027."
-     ],
-     [
-      "Neke lokacije bi mogle biti otvorene već od 25. novembra.",
-      "Some locations could be open as early as 25 November."
-     ],
-     [
-      "Program će biti na više mjesta u centru, a na Trgu kralja Tomislava bit će i ledeni park.",
-      "The programme will be in several places in the centre, and there will also be an ice park on King Tomislav Square."
-     ]
-    ],
-    [
-     [
-      "Na listi od 10 destinacija su i Beč, Lisabon, Riga i Salamanca.",
-      "Vienna, Lisbon, Riga and Salamanca are also on the list of 10 destinations."
-     ],
-     [
-      "Deseto mjesto pripalo je Mariboru u Sloveniji.",
-      "Tenth place went to Maribor in Slovenia."
-     ],
-     [
-      "Advent će početi paljenjem prve svijeće na Trgu bana Jelačića.",
-      "Advent will begin with the lighting of the first candle on Ban Jelačić Square."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "destinacija",
-     "destination"
-    ],
-    [
-     "božićni",
-     "Christmas (adj.)"
-    ],
-    [
-     "proglasiti",
-     "to declare, to name"
-    ],
-    [
-     "sajam",
-     "fair, market"
-    ],
-    [
-     "mjesto",
-     "place"
-    ],
-    [
-     "lista",
-     "list"
-    ],
-    [
-     "trg",
-     "square"
-    ],
-    [
-     "svijeća",
-     "candle"
-    ]
-   ]
-  },
-  {
-   "id": "261119217",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/film-tv/novak-dokovic-u-novom-filmu-focker-in-law-pojavljuje-se-u-sceni-s-robertom-de-nirom-i-owenom-wilsonom/261119217",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261119217.jpg",
-   "published": "2026-11-19T16:24:00+01:00",
-   "title": [
-    "Novak Đoković glumi u novoj komediji s Robertom De Nirom",
-    "Novak Đoković acts in a new comedy with Robert De Niro"
-   ],
-   "body": [
-    [
-     [
-      "Teniser Novak Đoković ima malu ulogu u filmu Focker-In-Law, četvrtom dijelu poznate komedije.",
-      "Tennis player Novak Đoković has a small role in the film Focker-In-Law, the fourth part of a well-known comedy."
-     ],
-     [
-      "Scena s njim može se vidjeti u najavi filma, koju je objavio regionalni distributer.",
-      "The scene with him can be seen in the film's trailer, which was published by the regional distributor."
-     ],
-     [
-      "Film u američka kina stiže 25. novembra.",
-      "The film arrives in American cinemas on 25 November."
-     ]
-    ],
-    [
-     [
-      "U sceni Đoković nosi bijelu majicu i torbu s reketima, a razgovara s Owenom Wilsonom.",
-      "In the scene Đoković wears a white T-shirt and a racket bag, and talks with Owen Wilson."
-     ],
-     [
-      "Kaže mu da je trening bio odličan i da treba nastaviti raditi na forhendu.",
-      "He tells him the training was excellent and that he should keep working on his forehand."
-     ],
-     [
-      "Kada ga Wilson pita za bekhend, Đoković odgovara da može i bolje.",
-      "When Wilson asks him about the backhand, Đoković replies that he can do better."
-     ],
-     [
-      "U istom kadru su i Robert De Niro i Teri Polo.",
-      "Robert De Niro and Teri Polo are also in the same shot."
-     ]
-    ],
-    [
-     [
-      "U filmu se vraćaju Ben Stiller, Robert De Niro i Owen Wilson, a nova je i Ariana Grande.",
-      "Ben Stiller, Robert De Niro and Owen Wilson return in the film, and Ariana Grande is new."
-     ],
-     [
-      "Film je napisao i režirao John Hamburg, koji je radio i na prethodna tri dijela.",
-      "The film was written and directed by John Hamburg, who also worked on the previous three parts."
-     ],
-     [
-      "Ovo nije prvi Đokovićev film, jer se 2011. godine kratko pojavio i u filmu The Expendables 2.",
-      "This is not Đoković's first film, because in 2011 he also briefly appeared in the film The Expendables 2."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "uloga",
-     "role"
-    ],
-    [
-     "glumiti",
-     "to act"
-    ],
-    [
-     "komedija",
-     "comedy"
-    ],
-    [
-     "najava",
-     "trailer, announcement"
-    ],
-    [
-     "kino",
-     "cinema"
-    ],
-    [
-     "scena",
-     "scene"
-    ],
-    [
-     "režirati",
-     "to direct (a film)"
-    ],
-    [
-     "teniser",
-     "tennis player"
-    ]
-   ]
-  },
-  {
-   "id": "261119218",
-   "source": "Klix.ba",
-   "section": "Zdravlje",
-   "url": "https://www.klix.ba/lifestyle/zdravlje/planirate-igrati-gta-6-satima-fizioterapeut-upozorava-na-opasnosti-koje-vrebaju-ispred-ekrana/261119218",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261119218.jpg",
-   "published": "2026-11-19T16:13:00+01:00",
-   "title": [
-    "Fizioterapeut upozorava igrače GTA 6 na duge sate sjedenja",
-    "Physiotherapist warns GTA 6 players about long hours of sitting"
-   ],
-   "body": [
-    [
-     [
-      "Mnogi ljudi ovih dana satima igraju novu video igru GTA 6.",
-      "Many people are playing the new video game GTA 6 for hours these days."
-     ],
-     [
-      "Fizioterapeut Anthony Pavlich za New York Post upozorava da dugo igranje bez pauze može štetiti zdravlju.",
-      "Physiotherapist Anthony Pavlich warns in the New York Post that long gaming without a break can harm health."
-     ],
-     [
-      "Najčešći problemi su bol u vratu i leđima, problemi sa zglobom šake i slabiji protok krvi u nogama.",
-      "The most common problems are neck and back pain, wrist problems and weaker blood flow in the legs."
-     ]
-    ],
-    [
-     [
-      "Većina igrača sjedi pogrbljeno na kauču, a glava teška oko 5 kilograma opterećuje vrat.",
-      "Most players sit hunched on the couch, and the head, which weighs about 5 kilograms, strains the neck."
-     ],
-     [
-      "Prema jednom istraživanju iz 2015. godine, 6 sati sjedenja smanjuje protok krvi u nogama.",
-      "According to one study from 2015, 6 hours of sitting reduces blood flow in the legs."
-     ],
-     [
-      "Šetnja od 10 minuta nakon toga vratila je vrijednosti u normalu.",
-      "A 10-minute walk afterwards brought the values back to normal."
-     ],
-     [
-      "Ako se tako sjedi mjesecima, mišići mogu postati kraći i slabiji.",
-      "If people sit like that for months, the muscles can become shorter and weaker."
-     ]
-    ],
-    [
-     [
-      "Pavlich kaže da ne postoji tačan broj sati koji je siguran za odrasle.",
-      "Pavlich says that there is no exact number of hours that is safe for adults."
-     ],
-     [
-      "Savjetuje da svakih 30 do 60 minuta ustanete i krećete se 2 do 5 minuta.",
-      "He advises getting up every 30 to 60 minutes and moving for 2 to 5 minutes."
-     ],
-     [
-      "On preporučuje i nekoliko jednostavnih vježbi istezanja za vrat, prsa, kukove i ruke.",
-      "He also recommends several simple stretching exercises for the neck, chest, hips and arms."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "fizioterapeut",
-     "physiotherapist"
-    ],
-    [
-     "upozoravati",
-     "to warn"
-    ],
-    [
-     "sjedenje",
-     "sitting"
-    ],
-    [
-     "bol",
-     "pain"
-    ],
-    [
-     "vrat",
-     "neck"
-    ],
-    [
-     "leđa",
-     "back"
-    ],
-    [
-     "mišić",
-     "muscle"
-    ],
-    [
-     "vježba",
-     "exercise"
     ]
    ]
   }
