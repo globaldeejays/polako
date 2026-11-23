@@ -1,18 +1,856 @@
 {
- "updated": "2026-11-22T18:43:00+01:00",
+ "updated": "2026-11-23T07:50:00+01:00",
  "front": [
-  "261122126",
-  "261122133",
-  "261122108",
-  "261122096",
-  "261117233",
-  "261122103",
-  "261122015",
-  "261122120",
+  "261123005",
+  "261123009",
+  "261123003",
+  "261123001",
+  "261123006",
+  "261123015",
+  "261123016",
+  "261122182",
   "261122134",
-  "261122019"
+  "261122167"
  ],
  "articles": [
+  {
+   "id": "261123015",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/lifestyle/modailjepota/miss-izraela-izvizdana-na-izboru-za-miss-universe-tokom-predstavljanja-nacionalnih-kostima/261123015",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261123015.jpg",
+   "published": "2026-11-23T07:31:00+01:00",
+   "title": [
+    "Publika izviždala Miss Izraela na izboru za Miss Universe",
+    "Audience boos Miss Israel at the Miss Universe pageant"
+   ],
+   "body": [
+    [
+     [
+      "Predstavnicu Izraela Danielle Yablonku dio publike izviždao je na izboru za Miss Universe.",
+      "Part of the audience booed Israel's representative Danielle Yablonka at the Miss Universe pageant."
+     ],
+     [
+      "To se dogodilo u subotu navečer u Portoriku, gdje se ove godine održava takmičenje.",
+      "It happened on Saturday evening in Puerto Rico, where the competition is being held this year."
+     ],
+     [
+      "Kandidatkinje su tada predstavljale nacionalne kostime.",
+      "The contestants were presenting national costumes at the time."
+     ]
+    ],
+    [
+     [
+      "Yablonka ima 25 godina, rođena je u Miamiju i radi kao model i influenserica.",
+      "Yablonka is 25 years old, was born in Miami and works as a model and influencer."
+     ],
+     [
+      "Na sebi je imala krunu i ogrtač sa slikom Starog grada Jerusalema.",
+      "She wore a crown and a cape with a picture of the Old City of Jerusalem."
+     ],
+     [
+      "S unutrašnje strane ogrtača bile su narandže, masline i riječ mir na tri jezika.",
+      "On the inside of the cape there were oranges, olive trees and the word peace in three languages."
+     ],
+     [
+      "Kostim je napravio dizajner Jacob Meir.",
+      "The costume was made by designer Jacob Meir."
+     ]
+    ],
+    [
+     [
+      "Nastup je izazvao jake reakcije na društvenim mrežama.",
+      "The appearance caused strong reactions on social networks."
+     ],
+     [
+      "Mnogi su u komentarima tražili slobodu za Palestinu.",
+      "Many people in the comments called for freedom for Palestine."
+     ],
+     [
+      "Organizacija Miss Izraela izabrala je Yablonku jer je nacionalno takmičenje otkazano zbog rata.",
+      "The Miss Israel organisation chose Yablonka because the national competition was cancelled due to the war."
+     ],
+     [
+      "Finale izbora zakazano je za utorak.",
+      "The final of the pageant is scheduled for Tuesday."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "izbor",
+     "pageant, selection"
+    ],
+    [
+     "publika",
+     "audience"
+    ],
+    [
+     "izviždati",
+     "to boo"
+    ],
+    [
+     "kostim",
+     "costume"
+    ],
+    [
+     "ogrtač",
+     "cape"
+    ],
+    [
+     "takmičenje",
+     "competition"
+    ],
+    [
+     "otkazati",
+     "to cancel"
+    ]
+   ]
+  },
+  {
+   "id": "261123016",
+   "source": "Klix.ba",
+   "section": "Vrijeme",
+   "url": "https://www.klix.ba/vijesti/bih/vozaci-u-bih-se-upozoravaju-na-mokre-kolovoze-i-velike-kolicine-vode-na-cestama/261123016",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261123016.jpg",
+   "published": "2026-11-23T07:28:00+01:00",
+   "title": [
+    "Mokre ceste i mnogo vode na kolovozima širom BiH",
+    "Wet roads and lots of water on roadways across BiH"
+   ],
+   "body": [
+    [
+     [
+      "Vozači u većem dijelu BiH jutros voze po mokrim cestama, a na mnogim mjestima stoji voda.",
+      "Drivers in most of BiH are driving on wet roads this morning, and in many places water is standing."
+     ],
+     [
+      "Informativni centar BIHAMK-a savjetuje vozače da voze oprezno i sporije.",
+      "The BIHAMK information centre advises drivers to drive carefully and more slowly."
+     ],
+     [
+      "Upozorava i na odrone na usjecima, a u dolinama i pored rijeka može biti magle.",
+      "It also warns of rockfalls on road cuttings, and there may be fog in valleys and next to rivers."
+     ]
+    ],
+    [
+     [
+      "Na nekoliko planinskih prijevoja pao je snijeg, ali ne smeta saobraćaju.",
+      "Snow has fallen on several mountain passes, but it does not disrupt traffic."
+     ],
+     [
+      "Snijeg ima na Laništu, Oštrelju, Rogoju i Makljenu, kao i na cesti Posušje – Blidinje.",
+      "There is snow on Lanište, Oštrelj, Rogoj and Makljen, as well as on the Posušje – Blidinje road."
+     ],
+     [
+      "Na autoputu kod Zenice saobraćaj je usporen na ulazu u tunel Klopče zbog radova.",
+      "On the motorway near Zenica traffic is slowed at the entrance to the Klopče tunnel because of works."
+     ],
+     [
+      "Zbog radova se na mnogim cestama vozi samo jednom trakom.",
+      "Because of works, on many roads traffic uses only one lane."
+     ]
+    ],
+    [
+     [
+      "Na Romaniji se gradi dodatna traka za spora vozila, pa je saobraćaj usporen.",
+      "On Romanija an extra lane for slow vehicles is being built, so traffic is slowed."
+     ],
+     [
+      "Na dionici Srbljani – Bosanska Krupa zabranjen je prolaz vozilima težim od 20 tona.",
+      "On the Srbljani – Bosanska Krupa section vehicles heavier than 20 tonnes are banned."
+     ],
+     [
+      "Na graničnim prijelazima putnička vozila ne čekaju duže od 30 minuta.",
+      "At border crossings passenger vehicles do not wait longer than 30 minutes."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "vozač",
+     "driver"
+    ],
+    [
+     "cesta",
+     "road"
+    ],
+    [
+     "kolovoz",
+     "roadway"
+    ],
+    [
+     "oprezno",
+     "carefully"
+    ],
+    [
+     "prijevoj",
+     "mountain pass"
+    ],
+    [
+     "traka",
+     "lane"
+    ],
+    [
+     "radovi",
+     "roadworks"
+    ]
+   ]
+  },
+  {
+   "id": "261123009",
+   "source": "Klix.ba",
+   "section": "Vrijeme",
+   "url": "https://www.klix.ba/vijesti/bih/dramaticne-slike-iz-mostara-nakon-velikog-nevremena-brojne-ulice-pod-vodom-obilne-padavine-napravile-probleme/261123009",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261123009.jpg",
+   "published": "2026-11-23T07:14:00+01:00",
+   "title": [
+    "Nakon jakog nevremena mnoge ulice u Mostaru pod vodom",
+    "After a heavy storm many streets in Mostar are under water"
+   ],
+   "body": [
+    [
+     [
+      "Jako nevrijeme pogodilo je Mostar u nedjelju navečer, a mnoge ulice brzo su bile pod vodom.",
+      "A heavy storm hit Mostar on Sunday evening, and many streets were quickly under water."
+     ],
+     [
+      "Kiša je padala cijeli dan, a malo prije 22:00 počela je i grmljavina.",
+      "Rain fell all day, and shortly before 22:00 thunder also began."
+     ],
+     [
+      "Na cestama je stajala voda, pa se saobraćaj na više mjesta kretao sporo.",
+      "Water stood on the roads, so traffic moved slowly in several places."
+     ]
+    ],
+    [
+     [
+      "Samo između 21:00 i 22:00 palo je 29,6 litara kiše po metru kvadratnom.",
+      "Between 21:00 and 22:00 alone, 29.6 litres of rain per square metre fell."
+     ],
+     [
+      "To je skoro pola od 63 litra koliko je palo u posljednja 24 sata.",
+      "That is almost half of the 63 litres that fell in the last 24 hours."
+     ],
+     [
+      "Federalni hidrometeorološki zavod ranije je izdao upozorenje za regiju Mostara.",
+      "The Federal Hydrometeorological Institute had earlier issued a warning for the Mostar region."
+     ],
+     [
+      "Prognoza je bila od 30 do 60 litara, a lokalno i do 70 litara po metru kvadratnom.",
+      "The forecast was 30 to 60 litres, and locally up to 70 litres per square metre."
+     ]
+    ],
+    [
+     [
+      "Poplavljene ulice ponovo su pokazale da Mostar ima problem s odvodom vode nakon jake kiše.",
+      "The flooded streets showed again that Mostar has a problem with drainage after heavy rain."
+     ],
+     [
+      "Još nije poznato da li su vatrogasci morali intervenisati i da li ima materijalne štete.",
+      "It is not yet known whether firefighters had to intervene and whether there is material damage."
+     ],
+     [
+      "Za danas se na jugu BiH očekuje jak sjeverozapadni vjetar s udarima preko 70 kilometara na sat.",
+      "Today a strong north-west wind with gusts over 70 kilometres per hour is expected in the south of BiH."
+     ],
+     [
+      "Kiša bi trebala prestati poslijepodne.",
+      "The rain should stop in the afternoon."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "nevrijeme",
+     "storm, bad weather"
+    ],
+    [
+     "ulica",
+     "street"
+    ],
+    [
+     "grmljavina",
+     "thunder"
+    ],
+    [
+     "saobraćaj",
+     "traffic"
+    ],
+    [
+     "upozorenje",
+     "warning"
+    ],
+    [
+     "vatrogasac",
+     "firefighter"
+    ],
+    [
+     "šteta",
+     "damage"
+    ]
+   ]
+  },
+  {
+   "id": "261123006",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/cnn-tvrdi-da-je-broj-napada-na-brodove-u-hormuskom-moreuzu-najveci-od-pocetka-rata-iran-gubi-utjecaj/261123006",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261123006.jpg",
+   "published": "2026-11-23T06:44:00+01:00",
+   "title": [
+    "CNN: Najviše napada na brodove u Hormuškom moreuzu od početka rata",
+    "CNN: Most attacks on ships in the Strait of Hormuz since the start of the war"
+   ],
+   "body": [
+    [
+     [
+      "Broj napada na brodove u Hormuškom moreuzu najveći je od početka rata između SAD-a i Irana.",
+      "The number of attacks on ships in the Strait of Hormuz is the highest since the start of the war between the US and Iran."
+     ],
+     [
+      "To pokazuje analiza američke televizije CNN, koja je koristila britanske podatke.",
+      "This is shown by an analysis by the American television network CNN, which used British data."
+     ],
+     [
+      "Moreuz je uski morski prolaz kroz koji je prije rata prolazila petina svjetske nafte.",
+      "The strait is a narrow sea passage through which a fifth of the world's oil passed before the war."
+     ]
+    ],
+    [
+     [
+      "U oktobru je zabilježeno više od 30 napada, prvi put od početka rata krajem februara.",
+      "In October more than 30 attacks were recorded, for the first time since the start of the war at the end of February."
+     ],
+     [
+      "Do nedjelje je u novembru bilo najmanje 22 napada.",
+      "By Sunday there had been at least 22 attacks in November."
+     ],
+     [
+      "Prije oktobra prosjek je bio oko 10 napada mjesečno.",
+      "Before October the average was about 10 attacks per month."
+     ],
+     [
+      "Pravi broj je vjerovatno veći, jer mnogi brodovi ne prijavljuju napade.",
+      "The real number is probably higher, because many ships do not report attacks."
+     ]
+    ],
+    [
+     [
+      "Iranska vojska kaže da se incidenti s brodovima dešavaju skoro svaki dan, uglavnom zbog morskih mina.",
+      "The Iranian army says that incidents with ships happen almost every day, mostly because of sea mines."
+     ],
+     [
+      "Cijene nafte padaju, pa Iran teže zarađuje od prodaje.",
+      "Oil prices are falling, so Iran finds it harder to earn from sales."
+     ],
+     [
+      "Stručnjaci za CNN kažu da Iran gubi utjecaj na moreuz.",
+      "Experts told CNN that Iran is losing influence over the strait."
+     ],
+     [
+      "Ipak, smatraju da bi Iran mogao pojačati napade kako bi dobio ustupke od Washingtona.",
+      "However, they believe Iran could step up attacks in order to get concessions from Washington."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "napad",
+     "attack"
+    ],
+    [
+     "brod",
+     "ship"
+    ],
+    [
+     "moreuz",
+     "strait"
+    ],
+    [
+     "rat",
+     "war"
+    ],
+    [
+     "prosjek",
+     "average"
+    ],
+    [
+     "utjecaj",
+     "influence"
+    ],
+    [
+     "ustupak",
+     "concession"
+    ]
+   ]
+  },
+  {
+   "id": "261123005",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/trump-za-pad-cijena-nafte-krivi-iran-i-demokrate-biraci-nisu-razumjeli-prije-nego-sto-su-povukli-okidac/261123005",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261123005.jpg",
+   "published": "2026-11-23T06:37:00+01:00",
+   "title": [
+    "Trump za pad cijena nafte krivi Iran i demokrate",
+    "Trump blames Iran and the Democrats for the fall in oil prices"
+   ],
+   "body": [
+    [
+     [
+      "Američki predsjednik Donald Trump u nedjelju je napisao da su cijene nafte naglo pale nakon izbora u SAD-u.",
+      "US President Donald Trump wrote on Sunday that oil prices fell sharply after the elections in the US."
+     ],
+     [
+      "Na tim izborima republikanci su teško izgubili, a Trump je situaciju nazvao ogromnom prevarom.",
+      "The Republicans lost heavily in those elections, and Trump called the situation a huge fraud."
+     ],
+     [
+      "Svoje mišljenje objavio je u dvije poruke na mreži Truth Social.",
+      "He published his opinion in two posts on the Truth Social network."
+     ]
+    ],
+    [
+     [
+      "U drugoj poruci optužio je demokrate i Iran da su namjerno držali visoke cijene nafte do izbora.",
+      "In the second post he accused the Democrats and Iran of deliberately keeping oil prices high until the elections."
+     ],
+     [
+      "Prema njegovim riječima, cijene od tada padaju rekordnom brzinom.",
+      "According to him, prices have been falling at record speed since then."
+     ],
+     [
+      "Trump tvrdi da je prije izbora 3. novembra predvidio pad tržišta ako pobijede demokrate.",
+      "Trump claims that before the 3 November elections he predicted a market fall if the Democrats won."
+     ],
+     [
+      "Rekao je i da će Iran tada postati agresivniji, a sada kaže da se to dogodilo.",
+      "He also said that Iran would then become more aggressive, and now he says that has happened."
+     ]
+    ],
+    [
+     [
+      "Trump je napisao da je šteta što birači to nisu razumjeli prije nego što su glasali.",
+      "Trump wrote that it is a pity voters did not understand this before they voted."
+     ],
+     [
+      "Cijeli izborni proces nazvao je vrlo čudnim.",
+      "He called the whole election process very strange."
+     ],
+     [
+      "Cijene nafte i goriva jako su porasle nakon što su SAD 28. februara počele rat protiv Irana.",
+      "Oil and fuel prices rose sharply after the US started a war against Iran on 28 February."
+     ],
+     [
+      "Tokom ljeta Trump je kritikovao naftne kompanije jer nisu dovoljno spustile cijene na pumpama.",
+      "During the summer Trump criticised oil companies because they did not lower prices at the pumps enough."
+     ],
+     [
+      "Zato je tražio da Ministarstvo pravde SAD-a pokrene istragu.",
+      "That is why he asked the US Department of Justice to start an investigation."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "cijena",
+     "price"
+    ],
+    [
+     "nafta",
+     "oil"
+    ],
+    [
+     "izbori",
+     "elections"
+    ],
+    [
+     "optužiti",
+     "to accuse"
+    ],
+    [
+     "birač",
+     "voter"
+    ],
+    [
+     "prevara",
+     "fraud"
+    ],
+    [
+     "istraga",
+     "investigation"
+    ]
+   ]
+  },
+  {
+   "id": "261123003",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/juznokorejski-ministar-obrazovanja-podnio-ostavku-zbog-varanja-pomocu-ai-na-prijemnim-ispitima/261123003",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261123003.jpg",
+   "published": "2026-11-23T06:22:00+01:00",
+   "title": [
+    "Južnokorejski ministar podnio ostavku zbog varanja na ispitima",
+    "South Korean minister resigns over cheating in exams"
+   ],
+   "body": [
+    [
+     [
+      "Ministar obrazovanja Južne Koreje Choi Kyo-jin podnio je ostavku u nedjelju.",
+      "South Korea's education minister Choi Kyo-jin resigned on Sunday."
+     ],
+     [
+      "Ministar ima 72 godine i preuzeo je odgovornost za probleme na prijemnom ispitu za fakultete.",
+      "The minister is 72 years old and took responsibility for the problems at the university entrance exam."
+     ],
+     [
+      "Predsjednik Lee Jae Myung prihvatio je ostavku za manje od sat vremena.",
+      "President Lee Jae Myung accepted the resignation in less than an hour."
+     ]
+    ],
+    [
+     [
+      "Nacionalni ispit Suneung traje 8 sati i održan je prošle sedmice.",
+      "The national Suneung exam lasts 8 hours and was held last week."
+     ],
+     [
+      "Vlasti su u zadnji čas uvele mjere protiv varanja pomoću umjetne inteligencije, odnosno AI.",
+      "At the last minute the authorities introduced measures against cheating with artificial intelligence, or AI."
+     ],
+     [
+      "Ograničile su Wi-Fi, a provjeravale su i naočale i dugmad na odjeći zbog skrivenih uređaja.",
+      "They restricted Wi-Fi, and they also checked glasses and buttons on clothes for hidden devices."
+     ],
+     [
+      "Na mobitele u cijeloj zemlji slale su poruke kako bi pronašle skrivene telefone.",
+      "They sent messages to mobile phones across the whole country in order to find hidden phones."
+     ]
+    ],
+    [
+     [
+      "Mjere su uvedene nakon što je najbolji kandidat na jednom državnom ispitu priznao da je varao.",
+      "The measures were introduced after the top candidate in one state exam admitted that he had cheated."
+     ],
+     [
+      "Koristio je malu kameru, mobitel i alate umjetne inteligencije.",
+      "He used a small camera, a mobile phone and artificial intelligence tools."
+     ],
+     [
+      "Ranije ovog mjeseca Choi je u parlamentu rekao da vlasti ne mogu otkriti svako takvo varanje.",
+      "Earlier this month Choi said in parliament that the authorities cannot detect every such case of cheating."
+     ],
+     [
+      "Predsjednik je sada naredio da se provjeri cijela organizacija državnih ispita.",
+      "The president has now ordered a check of the whole organisation of state exams."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "ministar",
+     "minister"
+    ],
+    [
+     "ostavka",
+     "resignation"
+    ],
+    [
+     "ispit",
+     "exam"
+    ],
+    [
+     "varanje",
+     "cheating"
+    ],
+    [
+     "umjetna inteligencija",
+     "artificial intelligence"
+    ],
+    [
+     "uređaj",
+     "device"
+    ],
+    [
+     "odgovornost",
+     "responsibility"
+    ]
+   ]
+  },
+  {
+   "id": "261123001",
+   "source": "Klix.ba",
+   "section": "Vrijeme",
+   "url": "https://www.klix.ba/vijesti/bih/susnjezica-i-snijeg-danas-u-bosni-jak-sjeverni-vjetar-donosi-zahladenje/261123001",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261123001.jpg",
+   "published": "2026-11-23T06:12:00+01:00",
+   "title": [
+    "Danas susnježica i snijeg u Bosni, stiže zahlađenje",
+    "Sleet and snow in Bosnia today, colder weather is coming"
+   ],
+   "body": [
+    [
+     [
+      "U ponedjeljak prijepodne u BiH će biti oblačno, a u Bosni se očekuju susnježica i snijeg.",
+      "On Monday morning it will be cloudy in BiH, and sleet and snow are expected in Bosnia."
+     ],
+     [
+      "U Hercegovini i nižim dijelovima Bosne padat će kiša, a na planinama snijeg.",
+      "In Herzegovina and the lower parts of Bosnia it will rain, and on the mountains it will snow."
+     ],
+     [
+      "Poslijepodne bi padavine trebale prestati, a nebo će se djelimično razvedriti.",
+      "In the afternoon the precipitation should stop, and the sky will partly clear."
+     ]
+    ],
+    [
+     [
+      "Jugo se ujutro mijenja u umjeren i jak sjeverni i sjeverozapadni vjetar.",
+      "In the morning the south wind changes into a moderate and strong north and north-west wind."
+     ],
+     [
+      "Udari vjetra bit će od 30 do 60 kilometara na sat, a na jugu i preko 70.",
+      "Wind gusts will be from 30 to 60 kilometres per hour, and in the south over 70."
+     ],
+     [
+      "Temperatura će uglavnom biti od 2 do 8 stepeni, a na jugu do 14.",
+      "The temperature will mostly be from 2 to 8 degrees, and in the south up to 14."
+     ],
+     [
+      "U Sarajevu se prijepodne očekuje kiša, a temperatura od 3 do 5 stepeni.",
+      "In Sarajevo rain is expected in the morning, and a temperature of 3 to 5 degrees."
+     ]
+    ],
+    [
+     [
+      "Noć će biti vedra i hladnija, sa slabim mrazom.",
+      "The night will be clear and colder, with slight frost."
+     ],
+     [
+      "Najniža temperatura bit će od -2 do 2 stepena, a u višim predjelima oko -5.",
+      "The lowest temperature will be from -2 to 2 degrees, and in higher areas around -5."
+     ],
+     [
+      "U utorak se očekuje uglavnom sunčano vrijeme, a najtoplije će biti u Mostaru i Trebinju.",
+      "On Tuesday mostly sunny weather is expected, and it will be warmest in Mostar and Trebinje."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "susnježica",
+     "sleet"
+    ],
+    [
+     "snijeg",
+     "snow"
+    ],
+    [
+     "zahlađenje",
+     "cooling, colder weather"
+    ],
+    [
+     "padavine",
+     "precipitation"
+    ],
+    [
+     "vjetar",
+     "wind"
+    ],
+    [
+     "mraz",
+     "frost"
+    ],
+    [
+     "oblačno",
+     "cloudy"
+    ]
+   ]
+  },
+  {
+   "id": "261122182",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/muzika/amira-medunjanin-priredila-sjajnu-vecer-u-bkc-u-sevdah-i-emocije-ispunili-srca-publike/261122182",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261122182.jpg",
+   "published": "2026-11-22T23:01:00+01:00",
+   "title": [
+    "Amira Medunjanin održala koncert sevdaha u Sarajevu",
+    "Amira Medunjanin held a sevdah concert in Sarajevo"
+   ],
+   "body": [
+    [
+     [
+      "Pjevačica Amira Medunjanin u nedjelju navečer održala je koncert u Bosanskom kulturnom centru u Sarajevu.",
+      "Singer Amira Medunjanin held a concert at the Bosnian Cultural Centre in Sarajevo on Sunday evening."
+     ],
+     [
+      "Nastupila je s gudačima Sarajevske filharmonije.",
+      "She performed with the strings of the Sarajevo Philharmonic."
+     ],
+     [
+      "Dvorana je bila puna, a publika ju je dočekala velikim aplauzom.",
+      "The hall was full, and the audience welcomed her with loud applause."
+     ]
+    ],
+    [
+     [
+      "Na sceni je bilo ukupno 14 muzičara, zajedno s Amirom.",
+      "There were 14 musicians on stage in total, including Amira."
+     ],
+     [
+      "Sevdalinke su izvedene u novim aranžmanima, pa su imale drugačiji zvuk.",
+      "The sevdalinkas were performed in new arrangements, so they had a different sound."
+     ],
+     [
+      "Ipak, pjesme su zadržale svoju staru emociju i toplinu.",
+      "Still, the songs kept their old emotion and warmth."
+     ],
+     [
+      "Publika je čula pjesme Moj dilbere, U Stambolu na Bosforu i Snijeg pade na behar na voće.",
+      "The audience heard the songs Moj dilbere, U Stambolu na Bosforu and Snijeg pade na behar na voće."
+     ]
+    ],
+    [
+     [
+      "Pjesme govore o ljubavi, čežnji, rastanku i životu.",
+      "The songs are about love, longing, parting and life."
+     ],
+     [
+      "Prije koncerta u Sarajevu Amira je nastupila u zagrebačkoj dvorani Vatroslav Lisinski.",
+      "Before the concert in Sarajevo, Amira performed in Zagreb's Vatroslav Lisinski hall."
+     ],
+     [
+      "Tamo je pjevala s ansamblom Zagrebački solisti.",
+      "There she sang with the ensemble Zagreb Soloists."
+     ],
+     [
+      "U Sarajevu je sada prvi put nastupila s gudačima Sarajevske filharmonije.",
+      "In Sarajevo she has now performed for the first time with the strings of the Sarajevo Philharmonic."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "pjevačica",
+     "singer (female)"
+    ],
+    [
+     "koncert",
+     "concert"
+    ],
+    [
+     "sevdalinka",
+     "sevdalinka (traditional Bosnian love song)"
+    ],
+    [
+     "publika",
+     "audience"
+    ],
+    [
+     "dvorana",
+     "hall"
+    ],
+    [
+     "čežnja",
+     "longing"
+    ],
+    [
+     "nastupiti",
+     "to perform"
+    ]
+   ]
+  },
+  {
+   "id": "261122167",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/lifestyle/ljubimci/psi-mogu-razlikovati-strah-od-ljutnje-na-ljudskom-licu-naucnici-analizirali-njihove-reakcije/261122167",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261122167.jpg",
+   "published": "2026-11-22T21:23:00+01:00",
+   "title": [
+    "Psi razlikuju strah i ljutnju na ljudskom licu",
+    "Dogs can tell fear and anger apart on a human face"
+   ],
+   "body": [
+    [
+     [
+      "Psi mogu razlikovati nekoliko negativnih izraza na ljudskom licu, pokazalo je novo istraživanje.",
+      "Dogs can distinguish several negative expressions on the human face, a new study has shown."
+     ],
+     [
+      "Ranije se znalo da psi razlikuju sretna lica od tužnih ili ljutih.",
+      "It was previously known that dogs distinguish happy faces from sad or angry ones."
+     ],
+     [
+      "Autori kažu da je ovo prvi direktan dokaz da psi razlikuju i negativne emocije međusobno.",
+      "The authors say this is the first direct evidence that dogs also distinguish negative emotions from each other."
+     ]
+    ],
+    [
+     [
+      "Naučnici su snimali mozak pasa magnetnom rezonancom dok su gledali fotografije nepoznatih ljudi.",
+      "Scientists recorded the dogs' brains with magnetic resonance imaging while they looked at photos of unknown people."
+     ],
+     [
+      "U prvom dijelu 8 pasa gledalo je sretna i neutralna lica.",
+      "In the first part, 8 dogs looked at happy and neutral faces."
+     ],
+     [
+      "U drugom dijelu 12 pasa gledalo je lica sa srećom, ljutnjom, strahom i tugom.",
+      "In the second part, 12 dogs looked at faces with happiness, anger, fear and sadness."
+     ],
+     [
+      "Mozak je reagovao drugačije na strah nego na ljutnju i tugu, ali ljutnju i tugu nije jasno razlikovao.",
+      "The brain reacted differently to fear than to anger and sadness, but it did not clearly distinguish anger and sadness."
+     ]
+    ],
+    [
+     [
+      "Istraživači upozoravaju da to ne znači da psi razumiju emocije kao ljudi.",
+      "The researchers warn that this does not mean that dogs understand emotions the way people do."
+     ],
+     [
+      "U istraživanju je bilo malo pasa, a većina su bili border koliji naučeni da mirno leže.",
+      "There were few dogs in the study, and most were border collies trained to lie still."
+     ],
+     [
+      "Naučnici bi u budućnosti željeli ispitati kako psi koriste i glas i govor tijela.",
+      "In the future scientists would like to examine how dogs also use voice and body language."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "pas",
+     "dog"
+    ],
+    [
+     "strah",
+     "fear"
+    ],
+    [
+     "ljutnja",
+     "anger"
+    ],
+    [
+     "lice",
+     "face"
+    ],
+    [
+     "istraživanje",
+     "research, study"
+    ],
+    [
+     "mozak",
+     "brain"
+    ],
+    [
+     "razlikovati",
+     "to distinguish"
+    ]
+   ]
+  },
   {
    "id": "261122134",
    "source": "Klix.ba",
@@ -4828,840 +5666,6 @@
     [
      "religija",
      "religion"
-    ]
-   ]
-  },
-  {
-   "id": "261120298",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/financial-times-poslovi-trumpovih-ljudi-prijete-miru-koji-su-sad-izgradile-u-bosni-i-hercegovini/261120298",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261120298.jpg",
-   "published": "2026-11-20T18:17:00+01:00",
-   "title": [
-    "Financial Times: Poslovi Trumpovih ljudi prijete miru u BiH",
-    "Financial Times: Business deals of Trump's people threaten peace in BiH"
-   ],
-   "body": [
-    [
-     [
-      "Britanski list Financial Times objavio je tekst o novoj politici SAD-a prema Bosni i Hercegovini.",
-      "The British newspaper Financial Times has published an article about the new US policy towards Bosnia and Herzegovina."
-     ],
-     [
-      "Prema listu, Washington sada više brine o poslovima ljudi bliskih Donaldu Trumpu nego o miru i stabilnosti.",
-      "According to the paper, Washington now cares more about the business of people close to Donald Trump than about peace and stability."
-     ],
-     [
-      "SAD su prije 30 godina Dejtonskim sporazumom zaustavile rat u BiH i dugo su branile taj sistem.",
-      "Thirty years ago the US stopped the war in BiH with the Dayton Agreement, and it defended that system for a long time."
-     ]
-    ],
-    [
-     [
-      "U centru priče je kompanija AAFS, koju vode bivši Trumpov advokat Jesse Binnall i Joseph Flynn.",
-      "At the centre of the story is the company AAFS, which is run by Trump's former lawyer Jesse Binnall and Joseph Flynn."
-     ],
-     [
-      "Bijela kuća podržava AAFS kao investitora u Južnu interkonekciju, gasovod koji bi BiH povezao s Hrvatskom.",
-      "The White House supports AAFS as the investor in the Southern Interconnection, a gas pipeline that would connect BiH with Croatia."
-     ],
-     [
-      "Parlament FBiH je u aprilu promijenio zakon, pa je AAFS postao glavni investitor bez javnog tendera.",
-      "In April the FBiH Parliament changed the law, so AAFS became the main investor without a public tender."
-     ],
-     [
-      "Organizacija Transparency International rekla je da je to opasan presedan.",
-      "The organisation Transparency International said that this is a dangerous precedent."
-     ],
-     [
-      "Binnall tvrdi da im veze s Trumpom nisu otvorile vrata.",
-      "Binnall claims that their connections with Trump did not open doors for them."
-     ]
-    ],
-    [
-     [
-      "List piše i da je visoki predstavnik Christian Schmidt najavio ostavku nakon jakog pritiska Trumpove administracije.",
-      "The paper also writes that High Representative Christian Schmidt announced his resignation after strong pressure from the Trump administration."
-     ],
-     [
-      "Bivši ambasador SAD-a u BiH Michael Murphy rekao je da Washington želi visokog predstavnika kojeg može kontrolisati.",
-      "The former US ambassador to BiH, Michael Murphy, said that Washington wants a high representative it can control."
-     ],
-     [
-      "Senatorica Jeanne Shaheen upozorila je da takva politika može dovesti do novog sukoba.",
-      "Senator Jeanne Shaheen warned that such a policy could lead to a new conflict."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "list",
-     "newspaper"
-    ],
-    [
-     "mir",
-     "peace"
-    ],
-    [
-     "gasovod",
-     "gas pipeline"
-    ],
-    [
-     "investitor",
-     "investor"
-    ],
-    [
-     "zakon",
-     "law"
-    ],
-    [
-     "pritisak",
-     "pressure"
-    ],
-    [
-     "ostavka",
-     "resignation"
-    ],
-    [
-     "sukob",
-     "conflict"
-    ]
-   ]
-  },
-  {
-   "id": "261120292",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/trump-zatvorio-oci-dok-je-xi-govorio-kriticari-kazu-da-je-zaspao-bijela-kuca-tvrdi-suprotno-procijenite-sami/261120292",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261120292.jpg",
-   "published": "2026-11-20T18:06:00+01:00",
-   "title": [
-    "Trump zatvorio oči dok je Xi govorio na samitu u Kini",
-    "Trump closed his eyes while Xi spoke at the summit in China"
-   ],
-   "body": [
-    [
-     [
-      "Američki predsjednik Donald Trump sjedio je oko 10 sekundi zatvorenih očiju na samitu APEC-a u Kini.",
-      "US President Donald Trump sat with his eyes closed for about 10 seconds at the APEC summit in China."
-     ],
-     [
-      "To se desilo u četvrtak u gradu Shenzhenu, dok je kineski predsjednik Xi Jinping držao govor.",
-      "This happened on Thursday in the city of Shenzhen, while Chinese President Xi Jinping was giving a speech."
-     ],
-     [
-      "Xi je govorio o slobodnoj trgovini i ekonomskoj saradnji u regiji.",
-      "Xi spoke about free trade and economic cooperation in the region."
-     ]
-    ],
-    [
-     [
-      "Snimak je napravila kineska državna televizija CCTV, a brzo se proširio društvenim mrežama.",
-      "The footage was made by Chinese state television CCTV, and it quickly spread on social media."
-     ],
-     [
-      "Kritičari tvrde da je Trump zaspao i to nazivaju sramotom.",
-      "Critics claim that Trump fell asleep and call it a disgrace."
-     ],
-     [
-      "Slični snimci kruže od 2025. godine, i to sa sastanaka u Bijeloj kući.",
-      "Similar videos have been circulating since 2025, including from meetings in the White House."
-     ]
-    ],
-    [
-     [
-      "Direktor za komunikacije Bijele kuće Steven Cheung rekao je da su to lažne vijesti.",
-      "The White House communications director Steven Cheung said that this is fake news."
-     ],
-     [
-      "Prema njegovim riječima, Trump je gledao papire ispred sebe.",
-      "According to him, Trump was looking at the papers in front of him."
-     ],
-     [
-      "Trump je u januaru rekao da samo trepće i da su mu sastanci opuštajući.",
-      "In January Trump said that he was only blinking and that he finds meetings relaxing."
-     ],
-     [
-      "Trump ima 80 godina i najstarija je osoba koja je postala predsjednik SAD-a.",
-      "Trump is 80 years old and is the oldest person to have become US president."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "samit",
-     "summit"
-    ],
-    [
-     "oko",
-     "eye"
-    ],
-    [
-     "zaspati",
-     "to fall asleep"
-    ],
-    [
-     "govor",
-     "speech"
-    ],
-    [
-     "trgovina",
-     "trade"
-    ],
-    [
-     "snimak",
-     "footage, video"
-    ],
-    [
-     "kritičar",
-     "critic"
-    ],
-    [
-     "lažan",
-     "fake, false"
-    ]
-   ]
-  },
-  {
-   "id": "261120287",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/film-tv/maya-jama-nagovijestila-da-zeli-biti-nova-bondova-djevojka-podgrijala-glasine-potezom-na-instagramu/261120287",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261120287.jpg",
-   "published": "2026-11-20T18:02:00+01:00",
-   "title": [
-    "Maya Jama nagovijestila da želi biti nova Bondova djevojka",
-    "Maya Jama hints that she wants to be the new Bond girl"
-   ],
-   "body": [
-    [
-     [
-      "Britanska voditeljica Maya Jama objavila je na Instagramu fotografiju glumice Monice Bellucci.",
-      "British presenter Maya Jama posted a photo of actress Monica Bellucci on Instagram."
-     ],
-     [
-      "Nazvala ju je svojom muzom, a mnogi to vide kao znak da želi ulogu u novom filmu o Jamesu Bondu.",
-      "She called her her muse, and many see this as a sign that she wants a role in the new James Bond film."
-     ],
-     [
-      "Bellucci je 2015. godine glumila u Bond filmu \"Spectre\", uz Daniela Craiga.",
-      "In 2015 Bellucci acted in the Bond film \"Spectre\", alongside Daniel Craig."
-     ]
-    ],
-    [
-     [
-      "Ovo je već druga objava za nekoliko dana koja podgrijava glasine.",
-      "This is already the second post in a few days that fuels the rumours."
-     ],
-     [
-      "Robert Pattinson je u ponedjeljak predstavljen kao novi James Bond.",
-      "On Monday Robert Pattinson was presented as the new James Bond."
-     ],
-     [
-      "Kladionica William Hill sada daje Jami bolje šanse za ulogu, 5 prema 1 umjesto 7 prema 1.",
-      "The bookmaker William Hill now gives Jama better odds for the role, 5 to 1 instead of 7 to 1."
-     ],
-     [
-      "Snimanje novog filma očekuje se tokom 2027. godine.",
-      "Filming of the new film is expected during 2027."
-     ]
-    ],
-    [
-     [
-      "Jama je nedavno napustila emisiju \"Love Island\" nakon što je potpisala ugovor s Netflixom.",
-      "Jama recently left the show \"Love Island\" after she signed a contract with Netflix."
-     ],
-     [
-      "Kao kandidatkinje za ulogu spominju se i Sydney Sweeney, Kendall Jenner i Margaret Qualley.",
-      "Sydney Sweeney, Kendall Jenner and Margaret Qualley are also mentioned as candidates for the role."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "voditeljica",
-     "presenter (female)"
-    ],
-    [
-     "glumica",
-     "actress"
-    ],
-    [
-     "uloga",
-     "role"
-    ],
-    [
-     "objava",
-     "post"
-    ],
-    [
-     "glasina",
-     "rumour"
-    ],
-    [
-     "kladionica",
-     "bookmaker"
-    ],
-    [
-     "snimanje",
-     "filming"
-    ]
-   ]
-  },
-  {
-   "id": "261120286",
-   "source": "Klix.ba",
-   "section": "Zdravlje",
-   "url": "https://www.klix.ba/lifestyle/zdravlje/nova-analiza-otkrila-zabrinjavajuce-podatke-o-energetskim-picima-i-zdravlju-srca-posebno-ugrozeni-mladi/261120286",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261120286.jpg",
-   "published": "2026-11-20T17:52:00+01:00",
-   "title": [
-    "Energetska pića mogu biti opasna za srce mladih ljudi",
-    "Energy drinks may be dangerous for young people's hearts"
-   ],
-   "body": [
-    [
-     [
-      "Nova analiza iz SAD-a pokazuje da energetska pića mogu biti opasnija za srce nego što se mislilo.",
-      "A new analysis from the US shows that energy drinks may be more dangerous for the heart than was thought."
-     ],
-     [
-      "Rezultati su predstavljeni ovog mjeseca na skupu Američkog udruženja za srce.",
-      "The results were presented this month at a meeting of the American Heart Association."
-     ],
-     [
-      "Istraživači su pregledali 28.345 prijava zdravstvenih problema iz perioda od 2017. do 2025. godine.",
-      "The researchers examined 28,345 reports of health problems from the period from 2017 to 2025."
-     ]
-    ],
-    [
-     [
-      "Od toga, 854 prijave odnosile su se na proizvode s kofeinom ili drugim stimulansima.",
-      "Of these, 854 reports concerned products with caffeine or other stimulants."
-     ],
-     [
-      "Stimulansi su tvari koje ubrzavaju rad srca i tijela.",
-      "Stimulants are substances that speed up the work of the heart and the body."
-     ],
-     [
-      "Kod tih proizvoda srčani zastoj prijavljivan je oko 11 puta češće, a infarkt oko 4,5 puta češće.",
-      "With these products cardiac arrest was reported about 11 times more often, and heart attack about 4.5 times more often."
-     ],
-     [
-      "Oko 45 posto problema imale su mlade osobe od 18 do 34 godine.",
-      "About 45 percent of the problems were in young people aged 18 to 34."
-     ]
-    ],
-    [
-     [
-      "Autori misle da mladi češće piju ova pića prije treninga ili ih miješaju s alkoholom.",
-      "The authors think that young people drink these drinks more often before training or mix them with alcohol."
-     ],
-     [
-      "Kardiolog Gregory Marcus rekao je da studija ne dokazuje direktnu vezu, ali da su potrebna nova istraživanja.",
-      "Cardiologist Gregory Marcus said that the study does not prove a direct link, but that new research is needed."
-     ],
-     [
-      "Za većinu zdravih odraslih osoba do 400 miligrama kofeina dnevno smatra se sigurnim.",
-      "For most healthy adults up to 400 milligrams of caffeine a day is considered safe."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "piće",
-     "drink"
-    ],
-    [
-     "srce",
-     "heart"
-    ],
-    [
-     "analiza",
-     "analysis"
-    ],
-    [
-     "istraživač",
-     "researcher"
-    ],
-    [
-     "kofein",
-     "caffeine"
-    ],
-    [
-     "infarkt",
-     "heart attack"
-    ],
-    [
-     "siguran",
-     "safe"
-    ]
-   ]
-  },
-  {
-   "id": "261120284",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/mirvic-aktivirao-mjenice-od-500000-km-zeljeznicar-trazi-i-novac-koji-nije-uplacen-klubu/261120284",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261120284.jpg",
-   "published": "2026-11-20T17:32:00+01:00",
-   "title": [
-    "Mirvić aktivirao mjenice od 500.000 KM, Željezničar se buni",
-    "Mirvić cashes in promissory notes worth 500,000 KM, Željezničar objects"
-   ],
-   "body": [
-    [
-     [
-      "Bivši investitor FK Željezničar Sanin Mirvić aktivirao je dvije mjenice vrijedne ukupno 500.000 KM.",
-      "Former FK Željezničar investor Sanin Mirvić has activated two promissory notes worth a total of 500,000 KM."
-     ],
-     [
-      "Mjenica je papir kojim se neko obavezuje da će platiti dug.",
-      "A promissory note is a paper by which someone promises to pay a debt."
-     ],
-     [
-      "Banka je klub o tome obavijestila 19. novembra, a klub kaže da njegov račun nije blokiran.",
-      "The bank informed the club about it on 19 November, and the club says that its account is not blocked."
-     ]
-    ],
-    [
-     [
-      "Mirvić je u septembru tražio da mu klub vrati 923.181 KM.",
-      "In September Mirvić asked the club to return 923,181 KM to him."
-     ],
-     [
-      "Prema klubu, on je ove godine uplatio 524.000 KM, ali traži skoro 400.000 KM više.",
-      "According to the club, he paid 524,000 KM this year, but he is asking for almost 400,000 KM more."
-     ],
-     [
-      "Klub kaže da je taj novac išao drugim osobama i da o tim uplatama nije znao.",
-      "The club says that this money went to other people and that it did not know about those payments."
-     ],
-     [
-      "Sud je ranije zabranio naplatu mjenica, ali ta odluka više ne važi.",
-      "A court earlier banned collection on the notes, but that decision is no longer valid."
-     ]
-    ],
-    [
-     [
-      "Predstavnici kluba sastali su se s Mirvićem 13. novembra.",
-      "Club representatives met with Mirvić on 13 November."
-     ],
-     [
-      "Ponudili su da mu vrate novac koji je uplatio na račun kluba, ali on je to odbio.",
-      "They offered to return the money he had paid into the club's account, but he refused."
-     ],
-     [
-      "Advokati bi trebali nastaviti razgovore početkom sljedeće sedmice.",
-      "The lawyers are expected to continue talks at the beginning of next week."
-     ],
-     [
-      "Mirvić je krajem juna podnio ostavku na mjesto predsjednika kluba.",
-      "At the end of June Mirvić resigned from the post of club president."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "mjenica",
-     "promissory note"
-    ],
-    [
-     "dug",
-     "debt"
-    ],
-    [
-     "račun",
-     "account"
-    ],
-    [
-     "uplatiti",
-     "to pay in"
-    ],
-    [
-     "naplata",
-     "collection (of money)"
-    ],
-    [
-     "sud",
-     "court"
-    ],
-    [
-     "odbiti",
-     "to refuse"
-    ],
-    [
-     "advokat",
-     "lawyer"
-    ]
-   ]
-  },
-  {
-   "id": "261120277",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/vijece-ministara-ukinulo-odluku-o-kupovini-zgrade-za-smjestaj-drzavnih-institucija-u-istocnom-sarajevu/261120277",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261120277.jpg",
-   "published": "2026-11-20T17:25:00+01:00",
-   "title": [
-    "Vijeće ministara ukinulo odluku o kupovini zgrade u Istočnom Sarajevu",
-    "Council of Ministers cancels decision on buying a building in East Sarajevo"
-   ],
-   "body": [
-    [
-     [
-      "Vijeće ministara BiH ukinulo je svoju odluku o kupovini zgrade za državne institucije u Istočnom Sarajevu.",
-      "The Council of Ministers of BiH has cancelled its decision on buying a building for state institutions in East Sarajevo."
-     ],
-     [
-      "Nova odluka objavljena je danas u Službenom glasniku BiH.",
-      "The new decision was published today in the Official Gazette of BiH."
-     ],
-     [
-      "Vijeće ju je donijelo na sjednici 28. oktobra, a potpisala ju je predsjedavajuća Borjana Krišto.",
-      "The Council adopted it at a session on 28 October, and it was signed by the chair, Borjana Krišto."
-     ]
-    ],
-    [
-     [
-      "Ipak, država nije odustala od kupovine zgrada.",
-      "However, the state has not given up on buying buildings."
-     ],
-     [
-      "Zgrade u Istočnom Sarajevu i Banjoj Luci sada će se kupiti kroz javnu nabavku.",
-      "The buildings in East Sarajevo and Banja Luka will now be bought through public procurement."
-     ],
-     [
-      "Javna nabavka je postupak u kojem država traži najbolju ponudu od više prodavača.",
-      "Public procurement is a procedure in which the state looks for the best offer from several sellers."
-     ],
-     [
-      "Rok za cijeli projekat pomjeren je do kraja 2027. godine.",
-      "The deadline for the whole project has been moved to the end of 2027."
-     ]
-    ],
-    [
-     [
-      "Postupke će voditi Služba za zajedničke poslove institucija BiH.",
-      "The procedures will be run by the Joint Services of BiH Institutions."
-     ],
-     [
-      "Vijeće ministara je ovlastilo direktora te službe da potpiše ugovore o kupovini.",
-      "The Council of Ministers authorised the director of that service to sign the purchase contracts."
-     ],
-     [
-      "On će to moći uraditi kada postupci javne nabavke budu završeni.",
-      "He will be able to do that when the public procurement procedures are finished."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "vijeće",
-     "council"
-    ],
-    [
-     "odluka",
-     "decision"
-    ],
-    [
-     "kupovina",
-     "purchase"
-    ],
-    [
-     "zgrada",
-     "building"
-    ],
-    [
-     "javna nabavka",
-     "public procurement"
-    ],
-    [
-     "rok",
-     "deadline"
-    ],
-    [
-     "ugovor",
-     "contract"
-    ]
-   ]
-  },
-  {
-   "id": "261120280",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/sdp-dao-podrsku-niksicu-nakon-pokretanja-optuznice-od-vstv-a-traze-da-istrazi-veze-tuzilaca-s-medijima/261120280",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261120280.jpg",
-   "published": "2026-11-20T17:15:00+01:00",
-   "title": [
-    "SDP podržao Nikšića nakon optužnice, traži istragu tužilaca",
-    "SDP backs Nikšić after indictment, asks for an investigation of prosecutors"
-   ],
-   "body": [
-    [
-     [
-      "Socijaldemokratska partija BiH dala je punu podršku svom predsjedniku Nerminu Nikšiću.",
-      "The Social Democratic Party of BiH has given full support to its president, Nermin Nikšić."
-     ],
-     [
-      "Tužilaštvo POSKOK danas je podiglo optužnicu protiv Nikšića, Rame Isaka, Vahidina Munjića i drugih.",
-      "The POSKOK prosecutor's office today filed an indictment against Nikšić, Ramo Isak, Vahidin Munjić and others."
-     ],
-     [
-      "Tužioci traže i da Nikšić i Isak ne mogu obavljati svoje funkcije.",
-      "The prosecutors also ask that Nikšić and Isak cannot perform their duties."
-     ]
-    ],
-    [
-     [
-      "Nikšić je ranije danas rekao da nijedna riječ iz optužnice nije istinita.",
-      "Earlier today Nikšić said that not a single word of the indictment is true."
-     ],
-     [
-      "SDP kaže da podržava nezavisan rad pravosuđa, ali traži da sudija pažljivo pročita dokaze.",
-      "SDP says that it supports the independent work of the judiciary, but it asks the judge to read the evidence carefully."
-     ],
-     [
-      "Stranka je uvjerena da će optuženi dokazati da su nevini.",
-      "The party is convinced that the accused will prove that they are innocent."
-     ],
-     [
-      "Prema SDP-u, neki ljudi iz tužilaštva daju materijale medijima da bi utjecali na politiku.",
-      "According to SDP, some people from the prosecution give materials to the media in order to influence politics."
-     ]
-    ],
-    [
-     [
-      "Zato SDP traži da VSTV istraži veze između tužilaca i medija.",
-      "That is why SDP asks the VSTV to investigate the links between prosecutors and the media."
-     ],
-     [
-      "VSTV je tijelo koje bira i kontroliše sudije i tužioce u BiH.",
-      "The VSTV is the body that appoints and supervises judges and prosecutors in BiH."
-     ],
-     [
-      "Stranka nije navela imena tužilaca ni medija i nije pokazala dokaze za svoje tvrdnje.",
-      "The party did not name the prosecutors or the media and did not show evidence for its claims."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "podrška",
-     "support"
-    ],
-    [
-     "optužnica",
-     "indictment"
-    ],
-    [
-     "tužilaštvo",
-     "prosecutor's office"
-    ],
-    [
-     "tužilac",
-     "prosecutor"
-    ],
-    [
-     "dokaz",
-     "evidence"
-    ],
-    [
-     "istražiti",
-     "to investigate"
-    ],
-    [
-     "stranka",
-     "party (political)"
-    ]
-   ]
-  },
-  {
-   "id": "261120274",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/lifestyle/putovanja/bbc-objavio-reportazu-o-lukomiru-stari-katuni-pita-iz-peci-na-drva-i-ovce-koje-se-sele-svake-jeseni/261120274",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261120274.jpg",
-   "published": "2026-11-20T16:53:00+01:00",
-   "title": [
-    "BBC objavio reportažu o selu Lukomir na Bjelašnici",
-    "BBC publishes a report on the village of Lukomir on Bjelašnica"
-   ],
-   "body": [
-    [
-     [
-      "Britanski BBC objavio je putopis o Lukomiru, najvišem i najizoliranijem selu u Bosni i Hercegovini.",
-      "The British BBC has published a travel story about Lukomir, the highest and most isolated village in Bosnia and Herzegovina."
-     ],
-     [
-      "Tekst je napisala američka novinarka Kristin Vuković, koja je u selo došla s prijateljima i vodičem.",
-      "The text was written by American journalist Kristin Vuković, who came to the village with friends and a guide."
-     ],
-     [
-      "Od Umoljana do Lukomira hodali su sedam kilometara, oko tri sata.",
-      "From Umoljani to Lukomir they walked seven kilometres, about three hours."
-     ]
-    ],
-    [
-     [
-      "U selu ljudi žive od 1. maja do 1. novembra, a zimu provode u nižim mjestima, uglavnom u Hadžićima.",
-      "People live in the village from 1 May to 1 November, and they spend the winter in lower places, mostly in Hadžići."
-     ],
-     [
-      "Oni koji još imaju ovce vode ih pješice, a put traje oko 10 sati.",
-      "Those who still have sheep take them on foot, and the journey takes about 10 hours."
-     ],
-     [
-      "Struja je u selo stigla tek prije oko 60 godina i često nestaje.",
-      "Electricity arrived in the village only about 60 years ago, and it often goes out."
-     ],
-     [
-      "U Lukomiru danas živi 55 ljudi u 25 domaćinstava, a svake godine dođe 100.000 do 150.000 turista.",
-      "Today 55 people live in Lukomir in 25 households, and 100,000 to 150,000 tourists come every year."
-     ]
-    ],
-    [
-     [
-      "Novinarka je spavala kod Saime i Omera Čomora, gdje noćenje košta 30 eura.",
-      "The journalist stayed with Saima and Omer Čomor, where a night costs 30 euros."
-     ],
-     [
-      "Saima ju je naučila praviti pitu sa sirom u peći na drva.",
-      "Saima taught her to make cheese pie in a wood-fired oven."
-     ],
-     [
-      "Saima je rekla da su turisti iz Amerike, Australije i Evrope za selo velika Božija milost.",
-      "Saima said that the tourists from America, Australia and Europe are a great blessing from God for the village."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "selo",
-     "village"
-    ],
-    [
-     "putopis",
-     "travel story"
-    ],
-    [
-     "ovca",
-     "sheep"
-    ],
-    [
-     "struja",
-     "electricity"
-    ],
-    [
-     "domaćinstvo",
-     "household"
-    ],
-    [
-     "noćenje",
-     "overnight stay"
-    ],
-    [
-     "pita",
-     "pie"
-    ],
-    [
-     "peć",
-     "oven, stove"
-    ]
-   ]
-  },
-  {
-   "id": "261120249",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/muzika/menadzment-dine-merlina-se-oglasio-nakon-otkazanog-koncerta-u-splitu-angazovat-ce-medunarodni-pravni-tim-eksperata/261120249",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261120249.jpg",
-   "published": "2026-11-20T15:58:00+01:00",
-   "title": [
-    "Menadžment Dine Merlina odgovorio Splitu i najavio pravnike",
-    "Dino Merlin's management responds to Split and announces lawyers"
-   ],
-   "body": [
-    [
-     [
-      "Menadžment Dine Merlina oglasio se nakon što je Split otkazao njegov novogodišnji koncert.",
-      "Dino Merlin's management has spoken out after Split cancelled his New Year concert."
-     ],
-     [
-      "Merlin je trebao pjevati 30. decembra na splitskoj Rivi.",
-      "Merlin was supposed to sing on 30 December on Split's Riva."
-     ],
-     [
-      "Gradonačelnik Tomislav Šuta ranije je objavio da koncerta neće biti.",
-      "Mayor Tomislav Šuta announced earlier that there would be no concert."
-     ]
-    ],
-    [
-     [
-      "Prema menadžmentu, dogovorena cijena bila je 140.000 eura bruto za pjevača, cijeli tim i promociju.",
-      "According to the management, the agreed price was 140,000 euros gross for the singer, the whole team and promotion."
-     ],
-     [
-      "Sponzori bi platili 80.000 eura, pa bi trošak za gradski budžet bio mnogo manji.",
-      "Sponsors would have paid 80,000 euros, so the cost for the city budget would have been much smaller."
-     ],
-     [
-      "Iznos od 160.000 eura, o kojem pišu mediji, odnosi se na tehniku za dva koncerta, a ne na Merlinov honorar.",
-      "The amount of 160,000 euros that the media write about refers to the technology for two concerts, not to Merlin's fee."
-     ],
-     [
-      "Menadžment kaže i da ugovor nikada nije bio potpisan.",
-      "The management also says that the contract was never signed."
-     ]
-    ],
-    [
-     [
-      "Oni pitaju zašto je grad otkazao samo njegov nastup, dok ostali program ide dalje.",
-      "They ask why the city cancelled only his performance, while the rest of the programme goes ahead."
-     ],
-     [
-      "Menadžment tvrdi da je pjevač zbog ove odluke pretrpio veliku štetu za ugled.",
-      "The management claims that the singer suffered great damage to his reputation because of this decision."
-     ],
-     [
-      "Zato će dalju komunikaciju s gradom voditi međunarodni tim pravnih stručnjaka.",
-      "That is why further communication with the city will be handled by an international team of legal experts."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "menadžment",
-     "management"
-    ],
-    [
-     "otkazati",
-     "to cancel"
-    ],
-    [
-     "cijena",
-     "price"
-    ],
-    [
-     "sponzor",
-     "sponsor"
-    ],
-    [
-     "budžet",
-     "budget"
-    ],
-    [
-     "honorar",
-     "fee"
-    ],
-    [
-     "ugled",
-     "reputation"
-    ],
-    [
-     "stručnjak",
-     "expert"
     ]
    ]
   }
