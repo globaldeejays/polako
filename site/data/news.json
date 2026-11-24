@@ -1,18 +1,848 @@
 {
- "updated": "2026-11-24T13:55:00+01:00",
+ "updated": "2026-11-24T18:45:00+01:00",
  "front": [
-  "261124138",
-  "261124134",
-  "261124124",
-  "261124070",
-  "261124157",
-  "261124083",
+  "261124255",
+  "261124041",
+  "261124267",
+  "261124276",
+  "261124287",
+  "261124268",
   "261124020",
-  "261124153",
-  "261124016",
-  "261124129"
+  "261124265",
+  "261124258",
+  "261124216"
  ],
  "articles": [
+  {
+   "id": "261124287",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/zeljeznicar-objavio-koji-trenerski-tim-vodi-ekipu-sabit-sljivo-trener-jos-cetiri-imena-uz-njega/261124287",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261124287.jpg",
+   "published": "2026-11-24T18:37:00+01:00",
+   "title": [
+    "Sabit Šljivo privremeno vodi Željezničar do novog trenera",
+    "Sabit Šljivo temporarily leads Željezničar until a new coach"
+   ],
+   "body": [
+    [
+     [
+      "Željezničar je objavio ko će voditi ekipu dok klub ne izabere novog trenera.",
+      "Željezničar has announced who will lead the team until the club chooses a new coach."
+     ],
+     [
+      "Glavni trener bit će Sabit Šljivo, a uz njega su još četiri člana stručnog štaba.",
+      "The head coach will be Sabit Šljivo, and with him are four more members of the coaching staff."
+     ],
+     [
+      "To su Milan Gutović, Kenan Hasagić, Emil Šabanović i Matic Lukman Čoko.",
+      "They are Milan Gutović, Kenan Hasagić, Emil Šabanović and Matic Lukman Čoko."
+     ]
+    ],
+    [
+     [
+      "Prvi test bit će utakmica protiv Veleža u Mostaru u subotu, 28. novembra, u 16:00.",
+      "The first test will be the match against Velež in Mostar on Saturday, 28 November, at 16:00."
+     ],
+     [
+      "To je utakmica 15. kola WWIN lige BiH na stadionu Rođeni.",
+      "It is a match of the 15th round of the WWIN League of BiH at Rođeni stadium."
+     ],
+     [
+      "Klub je prekinuo saradnju sa španskim trenerom Davidom Muslerom nakon poraza od Borca.",
+      "The club ended its cooperation with Spanish coach David Muslera after the defeat against Borac."
+     ],
+     [
+      "Borac je 21. novembra na Grbavici pobijedio Željezničar 4:0.",
+      "On 21 November Borac beat Željezničar 4:0 at Grbavica."
+     ]
+    ],
+    [
+     [
+      "Muslera je vodio ekipu na 15 utakmica i imao je četiri pobjede, četiri neriješena rezultata i sedam poraza.",
+      "Muslera led the team in 15 matches and had four wins, four draws and seven defeats."
+     ],
+     [
+      "Gol-razlika u tom periodu bila je 14:25.",
+      "The goal difference in that period was 14:25."
+     ],
+     [
+      "Željezničar je posljednji put u ligi pobijedio 9. septembra, kada je u derbiju savladao Sarajevo 2:0.",
+      "Željezničar last won in the league on 9 September, when it beat Sarajevo 2:0 in the derby."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "trener",
+     "coach"
+    ],
+    [
+     "stručni štab",
+     "coaching staff"
+    ],
+    [
+     "utakmica",
+     "match"
+    ],
+    [
+     "poraz",
+     "defeat"
+    ],
+    [
+     "pobjeda",
+     "win"
+    ],
+    [
+     "kolo",
+     "round (of a league)"
+    ],
+    [
+     "privremeno",
+     "temporarily"
+    ]
+   ]
+  },
+  {
+   "id": "261124276",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/ko-je-dorde-zdrale-bjegunac-oko-kojeg-se-vrti-akcija-u-kojoj-su-pali-naser-oric-i-nikolina-sljivic/261124276",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261124276.jpg",
+   "published": "2026-11-24T18:08:00+01:00",
+   "title": [
+    "Ko je Đorđe Ždrale, bjegunac kojeg traži policija",
+    "Who is Đorđe Ždrale, the fugitive the police are looking for"
+   ],
+   "body": [
+    [
+     [
+      "Đorđe Ždrale je čovjek oko kojeg se vrti akcija \"Emisar\", u kojoj je uhapšeno pet osoba.",
+      "Đorđe Ždrale is the man at the centre of the \"Emisar\" operation, in which five people were arrested."
+     ],
+     [
+      "Među njima su Naser Orić i Nikolina Šljivić.",
+      "Among them are Naser Orić and Nikolina Šljivić."
+     ],
+     [
+      "Policija sumnja da su mu pomagali da se skriva i da su skrivali dokaze.",
+      "Police suspect that they helped him hide and that they hid evidence."
+     ],
+     [
+      "Ždrale je iz Istočnog Novog Sarajeva i jedan je od najpoznatijih ljudi iz podzemlja u BiH.",
+      "Ždrale is from Istočno Novo Sarajevo and is one of the best-known figures of the underworld in BiH."
+     ]
+    ],
+    [
+     [
+      "Osumnjičen je da je 2. augusta teško ranio Kostu Pandurevića i od tada je u bijegu.",
+      "He is suspected of seriously wounding Kosta Pandurević on 2 August and has been on the run since then."
+     ],
+     [
+      "Policija ga traži skoro četiri mjeseca, a u augustu je rekla da se možda krije u Federaciji BiH.",
+      "Police have been looking for him for almost four months, and in August they said he might be hiding in the Federation of BiH."
+     ],
+     [
+      "Orić i Ždrale godinama se javno druže, a Orić je bio i na njegovom vjenčanju u novembru 2025. godine.",
+      "Orić and Ždrale have socialised publicly for years, and Orić was also at his wedding in November 2025."
+     ]
+    ],
+    [
+     [
+      "Sud BiH osudio je Ždralu 2010. godine na 20 godina zatvora zbog ubistva Ljubiše Savića Mauzera.",
+      "In 2010 the Court of BiH sentenced Ždrale to 20 years in prison for the murder of Ljubiša Savić Mauzer."
+     ],
+     [
+      "Savić je bio bivši šef policije u RS-u, a ubijen je 2000. godine u Bijeljini.",
+      "Savić was a former police chief in RS, and he was killed in 2000 in Bijeljina."
+     ],
+     [
+      "Ždrale je izašao iz zatvora u februaru 2022. godine, nakon što je odslužio 12 godina.",
+      "Ždrale left prison in February 2022, after he had served 12 years."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "bjegunac",
+     "fugitive"
+    ],
+    [
+     "podzemlje",
+     "underworld"
+    ],
+    [
+     "ranjen",
+     "wounded"
+    ],
+    [
+     "skrivati se",
+     "to hide"
+    ],
+    [
+     "ubistvo",
+     "murder"
+    ],
+    [
+     "zatvor",
+     "prison"
+    ],
+    [
+     "vjenčanje",
+     "wedding"
+    ]
+   ]
+  },
+  {
+   "id": "261124041",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/evropska-komisija-o-planovima-vlasti-u-rs-u-sve-izmjene-entitetskih-ustava-moraju-pratiti-praksu-ustavnog-suda-bih/261124041",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261124041.jpg",
+   "published": "2026-11-24T17:37:00+01:00",
+   "title": [
+    "Evropska komisija upozorila vlast u RS-u zbog novog ustava",
+    "The European Commission warns the RS authorities over a new constitution"
+   ],
+   "body": [
+    [
+     [
+      "Evropska komisija kaže da pažljivo prati planove vlasti u Republici Srpskoj o novom ustavu.",
+      "The European Commission says it is closely following the plans of the authorities in Republika Srpska for a new constitution."
+     ],
+     [
+      "Portparol Komisije odgovorio je na pitanja agencije DTT-NET.",
+      "A Commission spokesperson answered questions from the agency DTT-NET."
+     ],
+     [
+      "On je napisao da je Ustav BiH najviši zakon u državi i da se mora poštovati.",
+      "He wrote that the Constitution of BiH is the highest law in the country and that it must be respected."
+     ],
+     [
+      "Sve izmjene ustava entiteta moraju biti u skladu s odlukama Ustavnog suda BiH.",
+      "All changes to the entity constitutions must be in line with the decisions of the Constitutional Court of BiH."
+     ]
+    ],
+    [
+     [
+      "Lider SNSD-a Milorad Dodik rekao je da Narodna skupština RS-a treba završiti novi ustav do februara.",
+      "SNSD leader Milorad Dodik said the National Assembly of RS should finish the new constitution by February."
+     ],
+     [
+      "Nacrt ustava usvojen je 13. marta 2025. godine na prijedlog SNSD-a.",
+      "The draft constitution was adopted on 13 March 2025 on the proposal of SNSD."
+     ],
+     [
+      "Prema nacrtu, RS bi imao svoju vojsku, a Banja Luka bi bila glavni grad umjesto Sarajeva.",
+      "According to the draft, RS would have its own army, and Banja Luka would be the capital instead of Sarajevo."
+     ],
+     [
+      "Zakoni državnog parlamenta važili bi u RS-u tek kada ih potvrdi Narodna skupština.",
+      "Laws of the state parliament would apply in RS only once the National Assembly confirms them."
+     ]
+    ],
+    [
+     [
+      "Ustavni sud BiH poništio je 27. marta odluku o tom nacrtu.",
+      "On 27 March the Constitutional Court of BiH annulled the decision on that draft."
+     ],
+     [
+      "Sud je naredio svim organima RS-a da prestanu s aktivnostima na osnovu te odluke.",
+      "The court ordered all RS bodies to stop activities based on that decision."
+     ],
+     [
+      "Dodik je više puta rekao da bi RS mogao proglasiti nezavisnost ako BiH ne bude funkcionisala prema Dejtonskom sporazumu.",
+      "Dodik has said several times that RS could declare independence if BiH does not function according to the Dayton Agreement."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "ustav",
+     "constitution"
+    ],
+    [
+     "izmjena",
+     "change, amendment"
+    ],
+    [
+     "nacrt",
+     "draft"
+    ],
+    [
+     "poništiti",
+     "to annul"
+    ],
+    [
+     "vojska",
+     "army"
+    ],
+    [
+     "nezavisnost",
+     "independence"
+    ],
+    [
+     "portparol",
+     "spokesperson"
+    ]
+   ]
+  },
+  {
+   "id": "261124268",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/zeljeznicar-tvrdi-da-mu-napad-na-sosica-nije-prijavljen-igracu-zamjera-i-odnos-prema-treneru/261124268",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261124268.jpg",
+   "published": "2026-11-24T17:18:00+01:00",
+   "title": [
+    "Željezničar kaže da mu napad na Šošića nije prijavljen",
+    "Željezničar says the attack on Šošić was not reported to it"
+   ],
+   "body": [
+    [
+     [
+      "Željezničar je odgovorio na izjave svog igrača Madžida Šošića.",
+      "Željezničar has responded to the statements of its player Madžid Šošić."
+     ],
+     [
+      "Šošić je u intervjuu rekao da ga je jedan navijač fizički napao na treningu i da klub nije reagovao.",
+      "In an interview Šošić said that a fan physically attacked him at training and that the club did not react."
+     ],
+     [
+      "Rekao je i da igrači četiri mjeseca nisu dobili platu.",
+      "He also said that the players had not received their salary for four months."
+     ]
+    ],
+    [
+     [
+      "Klub kaže da osuđuje svaki oblik nasilja, ali da mu napad niko nije prijavio.",
+      "The club says it condemns every form of violence, but that nobody reported the attack to it."
+     ],
+     [
+      "Prema klubu, igrači su dobili tri plate, a većina i četiri, a posljednja je isplaćena 22. oktobra.",
+      "According to the club, the players received three salaries, and most of them four, and the last one was paid on 22 October."
+     ],
+     [
+      "Većina zaposlenih potpisala je dogovor da se stari dugovi isplate do aprila 2027. godine.",
+      "Most employees signed an agreement that old debts be paid by April 2027."
+     ],
+     [
+      "Šošić je jedan od tri igrača koji nisu htjeli potpisati taj dogovor.",
+      "Šošić is one of three players who did not want to sign that agreement."
+     ]
+    ],
+    [
+     [
+      "Klub tvrdi da je Šošić dobijao punu platu dok se deset mjeseci oporavljao od teške povrede.",
+      "The club claims that Šošić received his full salary while he was recovering from a serious injury for ten months."
+     ],
+     [
+      "Također kaže da se nakon povratka više puta neprimjereno ponašao prema treneru i saigračima.",
+      "It also says that after his return he behaved inappropriately towards the coach and teammates several times."
+     ],
+     [
+      "Šošić je ove sezone odigrao 12 utakmica i imao je jednu asistenciju.",
+      "This season Šošić has played 12 matches and had one assist."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "navijač",
+     "fan"
+    ],
+    [
+     "napasti",
+     "to attack"
+    ],
+    [
+     "prijaviti",
+     "to report"
+    ],
+    [
+     "nasilje",
+     "violence"
+    ],
+    [
+     "dug",
+     "debt"
+    ],
+    [
+     "povreda",
+     "injury"
+    ],
+    [
+     "saigrač",
+     "teammate"
+    ]
+   ]
+  },
+  {
+   "id": "261124265",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/kultura/u-bkc-u-otvorena-izlozba-rikarda-larme-o-dobrinji-u-ratu-svjedocanstvo-o-zivotu-pod-opsadom/261124265",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261124265.jpg",
+   "published": "2026-11-24T17:12:00+01:00",
+   "title": [
+    "U BKC-u otvorena izložba fotografija o Dobrinji u ratu",
+    "An exhibition of photographs about Dobrinja in the war opens at BKC"
+   ],
+   "body": [
+    [
+     [
+      "U galeriji BKC u Sarajevu otvorena je izložba fotografija \"Dvostruki obruč – Dobrinja u ratu\".",
+      "The photo exhibition \"Double Ring – Dobrinja at War\" has opened at the BKC gallery in Sarajevo."
+     ],
+     [
+      "Autor fotografija je fotograf Rikard Larma.",
+      "The author of the photographs is photographer Rikard Larma."
+     ],
+     [
+      "Izložba je dio obilježavanja Dana državnosti BiH, koji je 25. novembra.",
+      "The exhibition is part of marking Statehood Day of BiH, which is on 25 November."
+     ]
+    ],
+    [
+     [
+      "Fotografije pokazuju život u sarajevskom naselju Dobrinja za vrijeme opsade od 1992. do 1995. godine.",
+      "The photographs show life in the Sarajevo neighbourhood of Dobrinja during the siege from 1992 to 1995."
+     ],
+     [
+      "Na njima se vide razaranja i patnja, ali i hrabrost i snaga stanovnika.",
+      "They show destruction and suffering, but also the courage and strength of the residents."
+     ],
+     [
+      "Tu su portreti boraca, vatrogasaca i medicinskog osoblja.",
+      "There are portraits of fighters, firefighters and medical staff."
+     ],
+     [
+      "Na jednoj fotografiji vidi se tabla \"Pazi snajper\", a na drugoj djeca s odraslima režu drva.",
+      "One photograph shows a sign \"Watch out, sniper\", and another shows children cutting firewood with adults."
+     ]
+    ],
+    [
+     [
+      "Iz BKC-a kažu da izložba nije samo historijski dokument.",
+      "BKC says the exhibition is not just a historical document."
+     ],
+     [
+      "Prema njihovim riječima, ona podsjeća na ljude i njihove sudbine i na važnost zajedničkog sjećanja.",
+      "In their words, it reminds people of the people and their fates and of the importance of shared memory."
+     ],
+     [
+      "Izložba je otvorena do 6. decembra, svaki dan od 10:00 do 19:00.",
+      "The exhibition is open until 6 December, every day from 10:00 to 19:00."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "izložba",
+     "exhibition"
+    ],
+    [
+     "opsada",
+     "siege"
+    ],
+    [
+     "naselje",
+     "neighbourhood"
+    ],
+    [
+     "razaranje",
+     "destruction"
+    ],
+    [
+     "hrabrost",
+     "courage"
+    ],
+    [
+     "sjećanje",
+     "memory"
+    ],
+    [
+     "sudbina",
+     "fate"
+    ]
+   ]
+  },
+  {
+   "id": "261124267",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/naser-oric-ce-biti-sproveden-u-banju-luku-na-kriminalisticku-obradu/261124267",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261124267.jpg",
+   "published": "2026-11-24T17:05:00+01:00",
+   "title": [
+    "Naser Orić bit će odveden na ispitivanje u Banju Luku",
+    "Naser Orić will be taken to Banja Luka for questioning"
+   ],
+   "body": [
+    [
+     [
+      "Naser Orić bit će prebačen u Banju Luku, javio je RTRS.",
+      "Naser Orić will be transferred to Banja Luka, RTRS reported."
+     ],
+     [
+      "Orić je uhapšen jutros kod Olova u akciji koja se zove \"Emisar\".",
+      "Orić was arrested this morning near Olovo in an operation called \"Emisar\"."
+     ],
+     [
+      "Policija je pretresla njegovu imovinu, a onda ga je odvela u sjedište SIPA-e u Istočnom Sarajevu.",
+      "Police searched his property and then took him to the SIPA headquarters in Istočno Sarajevo."
+     ],
+     [
+      "U policijsku stanicu doveden je s lisicama na rukama, dok je žandarmerija blokirala prilaze zgradi.",
+      "He was brought to the police station in handcuffs, while the gendarmerie blocked the approaches to the building."
+     ]
+    ],
+    [
+     [
+      "U akciji su uhapšeni i bivša poslanica Nikolina Šljivić, advokat Siniša Derganc te Mesud Mustafić i njegov sin Mustafa.",
+      "Former MP Nikolina Šljivić, lawyer Siniša Derganc and Mesud Mustafić and his son Mustafa were also arrested in the operation."
+     ],
+     [
+      "MUP RS-a kaže da su oni pomagali Đorđu Ždrali da pobjegne i da su skrivali dokaze.",
+      "The RS Ministry of the Interior says they helped Đorđe Ždrale escape and that they hid evidence."
+     ],
+     [
+      "Policija je pronašla osam pištolja, 30.000 KM, 10.000 eura, mobitele i računar.",
+      "Police found eight pistols, 30,000 KM, 10,000 euros, mobile phones and a computer."
+     ]
+    ],
+    [
+     [
+      "Akciju su zajedno provele SIPA i policija RS-a, pod nadzorom posebnog odjela tužilaštva.",
+      "The operation was carried out jointly by SIPA and the RS police, under the supervision of a special department of the prosecutor's office."
+     ],
+     [
+      "Ždrale je osumnjičen da je 2. augusta u Istočnom Novom Sarajevu pucao na Kostu Pandurevića.",
+      "Ždrale is suspected of shooting at Kosta Pandurević on 2 August in Istočno Novo Sarajevo."
+     ],
+     [
+      "Od tada je u bijegu, a policija ga i dalje traži.",
+      "He has been on the run since then, and police are still looking for him."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "uhapsiti",
+     "to arrest"
+    ],
+    [
+     "pretresti",
+     "to search"
+    ],
+    [
+     "dokaz",
+     "evidence"
+    ],
+    [
+     "pobjeći",
+     "to escape"
+    ],
+    [
+     "osumnjičen",
+     "suspected"
+    ],
+    [
+     "tužilaštvo",
+     "prosecutor's office"
+    ],
+    [
+     "lisice",
+     "handcuffs"
+    ]
+   ]
+  },
+  {
+   "id": "261124255",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/ko-smije-raditi-25-novembra-u-fbih-i-koliko-se-placa-rad-na-praznik/261124255",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261124255.jpg",
+   "published": "2026-11-24T16:52:00+01:00",
+   "title": [
+    "Ko smije raditi na Dan državnosti u Federaciji BiH",
+    "Who may work on Statehood Day in the Federation of BiH"
+   ],
+   "body": [
+    [
+     [
+      "Srijeda, 25. novembar, Dan je državnosti Bosne i Hercegovine i neradni dan u Federaciji BiH.",
+      "Wednesday, 25 November, is the Statehood Day of Bosnia and Herzegovina and a non-working day in the Federation of BiH."
+     ],
+     [
+      "Tog dana ne rade državni organi, kompanije i druga pravna lica.",
+      "On that day state bodies, companies and other legal entities do not work."
+     ],
+     [
+      "Praznik traje samo jedan dan, pa je četvrtak normalan radni dan.",
+      "The holiday lasts only one day, so Thursday is a normal working day."
+     ],
+     [
+      "U Republici Srpskoj 25. novembar nije neradni dan.",
+      "In Republika Srpska, 25 November is not a non-working day."
+     ]
+    ],
+    [
+     [
+      "Prema zakonu o trgovini, prodavnice u Federaciji moraju biti zatvorene nedjeljom i na praznike.",
+      "According to the trade law, shops in the Federation must be closed on Sundays and on holidays."
+     ],
+     [
+      "Ipak, smiju raditi cvjećare, pekare, apoteke i prodavnice na benzinskim pumpama, aerodromima i stanicama.",
+      "However, florists, bakeries, pharmacies and shops at petrol stations, airports and stations may work."
+     ],
+     [
+      "Kafići i restorani nisu prodavnice, zato njihovo radno vrijeme određuju kantoni i općine.",
+      "Cafés and restaurants are not shops, so their working hours are set by the cantons and municipalities."
+     ],
+     [
+      "Trgovac koji otvori prodavnicu bez dozvole može platiti kaznu od 2.000 do 15.000 KM.",
+      "A trader who opens a shop without permission can pay a fine of 2,000 to 15,000 KM."
+     ]
+    ],
+    [
+     [
+      "Radnici koji rade na praznik imaju pravo na veću platu, ali zakon ne kaže za koliko posto.",
+      "Workers who work on the holiday have the right to higher pay, but the law does not say by what percentage."
+     ],
+     [
+      "Taj iznos određuje kolektivni ugovor, pravilnik ili ugovor o radu.",
+      "That amount is set by the collective agreement, the work rules or the employment contract."
+     ],
+     [
+      "Poslodavac koji ne plati veću platu može dobiti kaznu od 1.000 do 3.000 KM.",
+      "An employer who does not pay the higher wage can get a fine of 1,000 to 3,000 KM."
+     ],
+     [
+      "Prošle godine inspektori su u Hercegovini kaznili 13 trgovaca koji su radili na Dan državnosti.",
+      "Last year inspectors in Herzegovina fined 13 traders who worked on Statehood Day."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "praznik",
+     "holiday"
+    ],
+    [
+     "neradni dan",
+     "non-working day"
+    ],
+    [
+     "prodavnica",
+     "shop"
+    ],
+    [
+     "kazna",
+     "fine, penalty"
+    ],
+    [
+     "plata",
+     "wage, salary"
+    ],
+    [
+     "poslodavac",
+     "employer"
+    ],
+    [
+     "trgovac",
+     "trader, shopkeeper"
+    ]
+   ]
+  },
+  {
+   "id": "261124258",
+   "source": "Klix.ba",
+   "section": "Zdravlje",
+   "url": "https://www.klix.ba/lifestyle/zdravlje/virusna-infekcija-ostavlja-oziljke-na-imunitetu-i-nakon-oporavka/261124258",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261124258.jpg",
+   "published": "2026-11-24T16:43:00+01:00",
+   "title": [
+    "Virusna infekcija može oslabiti imunitet i nakon oporavka",
+    "A viral infection can weaken immunity even after recovery"
+   ],
+   "body": [
+    [
+     [
+      "Naučnici iz Barcelone otkrili su da virusna infekcija može dugo slabiti imunitet, čak i nakon oporavka.",
+      "Scientists from Barcelona have found that a viral infection can weaken immunity for a long time, even after recovery."
+     ],
+     [
+      "Istraživanje je urađeno na miševima na Univerzitetu Pompeu Fabra.",
+      "The research was done on mice at Pompeu Fabra University."
+     ],
+     [
+      "Rezultati su objavljeni u naučnom časopisu Cell Death & Disease.",
+      "The results were published in the scientific journal Cell Death & Disease."
+     ]
+    ],
+    [
+     [
+      "Miševi su pobijedili virus, ali promjene u njihovoj slezeni ostale su mnogo duže.",
+      "The mice beat the virus, but the changes in their spleen remained much longer."
+     ],
+     [
+      "Slezena je organ koji pomaže tijelu da se bori protiv infekcija.",
+      "The spleen is an organ that helps the body fight infections."
+     ],
+     [
+      "U njoj se stvorilo tkivo slično ožiljku, a imunološke ćelije više nisu bile dobro raspoređene.",
+      "Tissue similar to a scar formed in it, and the immune cells were no longer well arranged."
+     ],
+     [
+      "Zato su miševi sporije reagovali na nove infekcije.",
+      "That is why the mice reacted more slowly to new infections."
+     ],
+     [
+      "Miševi koji su prije infekcije vakcinisani nisu imali te promjene.",
+      "Mice that were vaccinated before the infection did not have those changes."
+     ]
+    ],
+    [
+     [
+      "Profesor Andreas Meyerhans rekao je da ljudi obično misle da su takve infekcije blage i prolazne.",
+      "Professor Andreas Meyerhans said that people usually think such infections are mild and temporary."
+     ],
+     [
+      "Prema njegovim riječima, ta slika možda ne pokazuje posljedice koje se ne vide odmah.",
+      "In his words, that picture may not show consequences that are not visible immediately."
+     ],
+     [
+      "Istraživanje je rađeno samo na miševima, pa još nije jasno da li se isto dešava kod ljudi.",
+      "The research was done only on mice, so it is not yet clear whether the same happens in people."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "imunitet",
+     "immunity"
+    ],
+    [
+     "oporavak",
+     "recovery"
+    ],
+    [
+     "miš",
+     "mouse"
+    ],
+    [
+     "slezena",
+     "spleen"
+    ],
+    [
+     "ožiljak",
+     "scar"
+    ],
+    [
+     "ćelija",
+     "cell"
+    ],
+    [
+     "vakcinisati",
+     "to vaccinate"
+    ]
+   ]
+  },
+  {
+   "id": "261124216",
+   "source": "Klix.ba",
+   "section": "Tehnologija",
+   "url": "https://www.klix.ba/scitech/nauka/iza-neptuna-bi-se-mogla-kriti-planeta-do-dva-puta-masivnija-od-zemlje/261124216",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261124216.jpg",
+   "published": "2026-11-24T15:06:00+01:00",
+   "title": [
+    "Iza Neptuna bi se mogla kriti nova planeta",
+    "A new planet could be hiding beyond Neptune"
+   ],
+   "body": [
+    [
+     [
+      "Astronomi misle da bi se iza Neptuna mogla kriti planeta do dva puta teža od Zemlje.",
+      "Astronomers think that a planet up to twice as heavy as Earth could be hiding beyond Neptune."
+     ],
+     [
+      "Ideju je predstavio Patryk Sofia Lykawka s univerziteta u Australiji, koji radi i u Japanu.",
+      "The idea was presented by Patryk Sofia Lykawka from a university in Australia, who also works in Japan."
+     ],
+     [
+      "Studija je objavljena u časopisu Monthly Notices of the Royal Astronomical Society.",
+      "The study was published in the journal Monthly Notices of the Royal Astronomical Society."
+     ]
+    ],
+    [
+     [
+      "Naučnici su moguću planetu nazvali Planeta X2.",
+      "The scientists called the possible planet Planet X2."
+     ],
+     [
+      "Ona bi imala izduženu putanju i nikada ne bi bila bliže Suncu od 200 astronomskih jedinica.",
+      "It would have an elongated orbit and would never be closer to the Sun than 200 astronomical units."
+     ],
+     [
+      "Jedna astronomska jedinica je prosječna udaljenost Zemlje od Sunca.",
+      "One astronomical unit is the average distance of Earth from the Sun."
+     ],
+     [
+      "Tim je napravio simulacije koje pokazuju 4,5 milijardi godina historije Sunčevog sistema.",
+      "The team made simulations that show 4.5 billion years of the history of the Solar System."
+     ],
+     [
+      "Takva planeta mogla bi objasniti čudne putanje nekih dalekih objekata, kao što je Sedna.",
+      "Such a planet could explain the strange orbits of some distant objects, such as Sedna."
+     ]
+    ],
+    [
+     [
+      "Lykawka je rekao da bi otkriće nove planete promijenilo naše razumijevanje historije Sunčevog sistema.",
+      "Lykawka said that the discovery of a new planet would change our understanding of the history of the Solar System."
+     ],
+     [
+      "Ipak, Planetu X2 još niko nije vidio i to je samo hipoteza.",
+      "However, nobody has seen Planet X2 yet and it is only a hypothesis."
+     ],
+     [
+      "Teoriju bi mogla provjeriti opservatorija Vera C. Rubin, koja sada snima nebo.",
+      "The theory could be checked by the Vera C. Rubin Observatory, which is now surveying the sky."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "planeta",
+     "planet"
+    ],
+    [
+     "kriti se",
+     "to hide"
+    ],
+    [
+     "putanja",
+     "orbit, path"
+    ],
+    [
+     "udaljenost",
+     "distance"
+    ],
+    [
+     "otkriće",
+     "discovery"
+    ],
+    [
+     "hipoteza",
+     "hypothesis"
+    ],
+    [
+     "nebo",
+     "sky"
+    ]
+   ]
+  },
   {
    "id": "261124157",
    "source": "Klix.ba",
@@ -4764,852 +5594,6 @@
     [
      "pisac",
      "writer"
-    ]
-   ]
-  },
-  {
-   "id": "261122108",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/regija/studentska-lista-najavila-ogromnu-promjenu-reality-sadrzaj-samo-45-minuta-dnevno-i-ne-prije-23-sata/261122108",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261122108.jpg",
-   "published": "2026-11-22T15:55:00+01:00",
-   "title": [
-    "Nova vlast u Srbiji želi ograničiti reality programe",
-    "Serbia's new government wants to limit reality shows"
-   ],
-   "body": [
-    [
-     [
-      "Studentska lista, koja je osvojila većinu u parlamentu Srbije, planira velike promjene na televiziji.",
-      "The Studentska lista, which won a majority in Serbia's parliament, is planning big changes on television."
-     ],
-     [
-      "Reality programi na nacionalnim televizijama trajali bi samo 45 minuta dnevno.",
-      "Reality shows on national TV channels would last only 45 minutes a day."
-     ],
-     [
-      "Ne bi se smjeli prikazivati prije 23 sata, piše britanski list The Telegraph.",
-      "They would not be allowed to be shown before 11 pm, writes the British newspaper The Telegraph."
-     ]
-    ],
-    [
-     [
-      "Televizije bi morale odmah prekinuti program ako ima nasilja, prijetnji ili govora mržnje.",
-      "TV channels would have to stop the programme immediately if there is violence, threats or hate speech."
-     ],
-     [
-      "Pokret želi i radnu sedmicu od 4 dana, odnosno 32 sata, bez manje plate.",
-      "The movement also wants a working week of 4 days, that is 32 hours, without a lower salary."
-     ],
-     [
-      "Prekovremeni rad bi bio ograničen na 8 sati sedmično.",
-      "Overtime work would be limited to 8 hours a week."
-     ],
-     [
-      "Šefovi ne bi smjeli zvati radnike nakon radnog vremena.",
-      "Bosses would not be allowed to call workers after working hours."
-     ]
-    ],
-    [
-     [
-      "Studentska lista je na izborima 25. oktobra dobila 140 od 250 mjesta u parlamentu.",
-      "The Studentska lista won 140 of 250 seats in parliament in the elections on 25 October."
-     ],
-     [
-      "Još nema jasnog kandidata za premijera.",
-      "There is still no clear candidate for prime minister."
-     ],
-     [
-      "Pokret je nastao nakon što se u novembru 2024. srušila nadstrešnica na stanici u Novom Sadu.",
-      "The movement was formed after a canopy collapsed at the station in Novi Sad in November 2024."
-     ],
-     [
-      "Tada je poginulo 16 ljudi, a počeli su veliki protesti protiv korupcije.",
-      "16 people died then, and big protests against corruption began."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "ograničiti",
-     "to limit"
-    ],
-    [
-     "nasilje",
-     "violence"
-    ],
-    [
-     "prijetnja",
-     "threat"
-    ],
-    [
-     "radna sedmica",
-     "working week"
-    ],
-    [
-     "plata",
-     "salary"
-    ],
-    [
-     "mjesto",
-     "seat, place"
-    ],
-    [
-     "korupcija",
-     "corruption"
-    ]
-   ]
-  },
-  {
-   "id": "261122096",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/stanivukovic-ostro-reagovao-na-izbor-igora-dodika-unuku-firma-sinu-vlada-rs-a-sve-pod-budnim-okom-djeda/261122096",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261122096.jpg",
-   "published": "2026-11-22T15:40:00+01:00",
-   "title": [
-    "Stanivuković oštro kritikovao prijedlog Igora Dodika za premijera",
-    "Stanivuković sharply criticises the proposal of Igor Dodik as prime minister"
-   ],
-   "body": [
-    [
-     [
-      "Draško Stanivuković, predsjednik Pokreta Sigurna Srpska, oštro je reagovao na izbor Igora Dodika.",
-      "Draško Stanivuković, president of the Sigurna Srpska movement, reacted sharply to the choice of Igor Dodik."
-     ],
-     [
-      "Predsjednik RS-a Savo Minić predložio je sina Milorada Dodika za mandatara nove vlade.",
-      "RS President Savo Minić proposed Milorad Dodik's son as prime minister-designate of the new government."
-     ],
-     [
-      "Stanivuković se oglasio nekoliko sati nakon te vijesti.",
-      "Stanivuković spoke out a few hours after that news."
-     ]
-    ],
-    [
-     [
-      "Napisao je da unuk dobija firmu, sin vladu, a sve to gleda djed.",
-      "He wrote that the grandson gets a company, the son a government, and the grandfather watches it all."
-     ],
-     [
-      "Minić je rekao da Igor Dodik ima znanje i iskustvo da vodi vladu.",
-      "Minić said that Igor Dodik has the knowledge and experience to lead a government."
-     ],
-     [
-      "Stanivuković je odgovorio da je to iskustvo u uzimanju novca iz budžeta građana.",
-      "Stanivuković replied that this is experience in taking money from the citizens' budget."
-     ],
-     [
-      "Prema njegovim riječima, Narodna skupština ne bi trebala potvrditi takav izbor.",
-      "In his words, the National Assembly should not confirm such a choice."
-     ]
-    ],
-    [
-     [
-      "Mandatara mora potvrditi Narodna skupština Republike Srpske.",
-      "The prime minister-designate must be confirmed by the National Assembly of Republika Srpska."
-     ],
-     [
-      "Stanivuković je rekao da će njegova stranka biti protiv ovakve vlade.",
-      "Stanivuković said that his party will be against this kind of government."
-     ],
-     [
-      "Dodao je da Republika Srpska treba pripadati narodu, a ne jednom prezimenu.",
-      "He added that Republika Srpska should belong to the people, not to one surname."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "reagovati",
-     "to react"
-    ],
-    [
-     "unuk",
-     "grandson"
-    ],
-    [
-     "djed",
-     "grandfather"
-    ],
-    [
-     "firma",
-     "company"
-    ],
-    [
-     "budžet",
-     "budget"
-    ],
-    [
-     "iskustvo",
-     "experience"
-    ],
-    [
-     "prezime",
-     "surname"
-    ]
-   ]
-  },
-  {
-   "id": "261122065",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/kerim-alajbegovic-se-povrijedio-u-duelu-juventusa-s-venezijom-zamijenjen-je-na-poluvremenu/261122065",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261122065.jpg",
-   "published": "2026-11-22T13:33:00+01:00",
-   "title": [
-    "Alajbegović se povrijedio na utakmici Juventusa i Venezije",
-    "Alajbegović gets injured in the Juventus–Venezia match"
-   ],
-   "body": [
-    [
-     [
-      "Bosanskohercegovački nogometaš Kerim Alajbegović povrijedio se u nedjelju na utakmici Juventusa protiv Venezije.",
-      "Bosnian-Herzegovinian footballer Kerim Alajbegović was injured on Sunday in Juventus's match against Venezia."
-     ],
-     [
-      "Utakmica 12. kola italijanske Serie A igrala se na domaćem stadionu Juventusa.",
-      "The 12th-round match of the Italian Serie A was played at Juventus's home stadium."
-     ],
-     [
-      "Alajbegović je bio u prvoj postavi, ali nije igrao do kraja.",
-      "Alajbegović was in the starting line-up, but he did not play to the end."
-     ]
-    ],
-    [
-     [
-      "Povreda se desila u 35. minuti, a on je kratko izašao s terena zbog pomoći ljekara.",
-      "The injury happened in the 35th minute, and he briefly left the pitch for help from the doctors."
-     ],
-     [
-      "Nakon toga se vratio i igrao do kraja prvog poluvremena, iako je vidljivo šepao.",
-      "After that he came back and played until the end of the first half, although he was visibly limping."
-     ],
-     [
-      "Prvo poluvrijeme završilo je rezultatom 0:0.",
-      "The first half ended with a score of 0:0."
-     ],
-     [
-      "Trener Luciano Spalletti zamijenio ga je na poluvremenu, a umjesto njega je ušao Nick Woltemade.",
-      "Coach Luciano Spalletti replaced him at half-time, and Nick Woltemade came on instead of him."
-     ]
-    ],
-    [
-     [
-      "Alajbegović je nakon povrede igrao još oko 10 minuta.",
-      "Alajbegović played about 10 more minutes after the injury."
-     ],
-     [
-      "Zato se vjeruje da povreda vjerovatno nije ozbiljna.",
-      "That is why it is believed that the injury is probably not serious."
-     ],
-     [
-      "Tačnu dijagnozu ipak treba čekati, jer će je dati ljekari kluba.",
-      "The exact diagnosis still has to be waited for, because the club's doctors will give it."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "povrijediti se",
-     "to get injured"
-    ],
-    [
-     "povreda",
-     "injury"
-    ],
-    [
-     "utakmica",
-     "match"
-    ],
-    [
-     "poluvrijeme",
-     "half (of a match)"
-    ],
-    [
-     "zamijeniti",
-     "to replace"
-    ],
-    [
-     "trener",
-     "coach"
-    ],
-    [
-     "ozbiljan",
-     "serious"
-    ],
-    [
-     "šepati",
-     "to limp"
-    ]
-   ]
-  },
-  {
-   "id": "261122069",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/formula1/sef-ferrarija-o-sudaru-hamiltona-i-leclerca-veoma-sam-ljut-vidjet-cemo-koje-cemo-mjere-preduzeti/261122069",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261122069.jpg",
-   "published": "2026-11-22T13:14:00+01:00",
-   "title": [
-    "Šef Ferrarija ljut nakon sudara Hamiltona i Leclerca",
-    "Ferrari boss angry after Hamilton and Leclerc collide"
-   ],
-   "body": [
-    [
-     [
-      "Šef Ferrarija Fred Vasseur rekao je da je veoma ljut nakon sudara svojih vozača u Las Vegasu.",
-      "Ferrari boss Fred Vasseur said that he is very angry after his drivers collided in Las Vegas."
-     ],
-     [
-      "Charles Leclerc i Lewis Hamilton sudarili su se tokom utrke Formule 1, a Vasseur je rekao da je to neprihvatljivo.",
-      "Charles Leclerc and Lewis Hamilton collided during the Formula 1 race, and Vasseur said that this is unacceptable."
-     ],
-     [
-      "Utrku je pobijedio Max Verstappen.",
-      "The race was won by Max Verstappen."
-     ]
-    ],
-    [
-     [
-      "Sudar se desio u 38. od 50 krugova, a Hamilton se nakon udarca okrenuo na stazi.",
-      "The collision happened on lap 38 of 50, and Hamilton spun on the track after the hit."
-     ],
-     [
-      "Sudije su odlučile da je za sudar kriv samo Leclerc i dale mu kaznu od 10 sekundi.",
-      "The stewards decided that only Leclerc was to blame for the collision and gave him a 10-second penalty."
-     ],
-     [
-      "Hamilton je također dobio 10 sekundi kazne, ali zbog skraćivanja staze u borbi s Landom Norrisom.",
-      "Hamilton also got a 10-second penalty, but for cutting the track in a fight with Lando Norris."
-     ],
-     [
-      "Na kraju je Hamilton bio sedmi, a Leclerc deseti.",
-      "In the end Hamilton was seventh and Leclerc tenth."
-     ]
-    ],
-    [
-     [
-      "Vasseur je rekao da je Leclerc dobio uputu da ne pretiče, ali je nije poslušao.",
-      "Vasseur said that Leclerc was told not to overtake, but he did not listen."
-     ],
-     [
-      "Tim je saopćio da je ovo drugi takav incident između njegovih vozača u 3 utrke.",
-      "The team said that this is the second such incident between its drivers in 3 races."
-     ],
-     [
-      "Vasseur će u ponedjeljak s timom razgovarati o mjerama koje bi Ferrari mogao preduzeti.",
-      "On Monday Vasseur will talk with the team about the measures that Ferrari could take."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "sudar",
-     "collision"
-    ],
-    [
-     "vozač",
-     "driver"
-    ],
-    [
-     "utrka",
-     "race"
-    ],
-    [
-     "ljut",
-     "angry"
-    ],
-    [
-     "kazna",
-     "penalty"
-    ],
-    [
-     "krug",
-     "lap"
-    ],
-    [
-     "pretjecati",
-     "to overtake"
-    ],
-    [
-     "mjera",
-     "measure"
-    ]
-   ]
-  },
-  {
-   "id": "261122070",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/stojkovic-prva-saradnja-nove-vlasti-srbije-i-bih-mora-biti-dodikovo-izrucenje/261122070",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261122070.jpg",
-   "published": "2026-11-22T13:07:00+01:00",
-   "title": [
-    "Beogradski advokat traži da BiH izruči Milorada Dodika Srbiji",
-    "A Belgrade lawyer wants BiH to extradite Milorad Dodik to Serbia"
-   ],
-   "body": [
-    [
-     [
-      "Advokat iz Beograda Čedomir Stojković rekao je za BHRT da će nova vlast u Srbiji Milorada Dodika smatrati osumnjičenim.",
-      "Belgrade lawyer Čedomir Stojković told BHRT that the new government in Serbia will consider Milorad Dodik a suspect."
-     ],
-     [
-      "On očekuje da BiH izruči Dodika Srbiji kako bi mu se tamo sudilo za korupciju.",
-      "He expects BiH to extradite Dodik to Serbia so that he can be tried there for corruption."
-     ],
-     [
-      "Izručenje znači da jedna država preda osobu drugoj državi zbog suđenja.",
-      "Extradition means that one country hands a person over to another country for a trial."
-     ]
-    ],
-    [
-     [
-      "Stojković tvrdi da je Dodik od građana Srbije kroz korupciju uzeo milione.",
-      "Stojković claims that Dodik took millions from the citizens of Serbia through corruption."
-     ],
-     [
-      "Dodik ima i državljanstvo Srbije, a Stojković kaže da je osumnjičen za mnoga krivična djela.",
-      "Dodik also has Serbian citizenship, and Stojković says that he is suspected of many criminal offences."
-     ],
-     [
-      "Smatra da nova vlast s njim neće praviti nikakve prljave dogovore.",
-      "He believes that the new government will not make any dirty deals with him."
-     ],
-     [
-      "Ako Dodik ostane u BiH, prva saradnja dvije države bila bi saradnja u krivičnim predmetima.",
-      "If Dodik stays in BiH, the first cooperation of the two countries would be cooperation in criminal cases."
-     ]
-    ],
-    [
-     [
-      "Novi predsjednik skupštine Srbije Aleksandar Čupić izabran je 19. novembra.",
-      "The new speaker of the Serbian parliament, Aleksandar Čupić, was elected on 19 November."
-     ],
-     [
-      "Nova vlada Srbije trebala bi biti formirana u narednim sedmicama.",
-      "The new government of Serbia should be formed in the coming weeks."
-     ],
-     [
-      "Stojković je rekao i da očekuje kraj moći Aleksandra Vučića najkasnije do januara.",
-      "Stojković also said that he expects the end of Aleksandar Vučić's power by January at the latest."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "advokat",
-     "lawyer"
-    ],
-    [
-     "izručiti",
-     "to extradite"
-    ],
-    [
-     "osumnjičeni",
-     "suspect"
-    ],
-    [
-     "korupcija",
-     "corruption"
-    ],
-    [
-     "državljanstvo",
-     "citizenship"
-    ],
-    [
-     "suditi",
-     "to try (in court)"
-    ],
-    [
-     "vlast",
-     "government, authorities"
-    ],
-    [
-     "dogovor",
-     "deal, agreement"
-    ]
-   ]
-  },
-  {
-   "id": "261122071",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/igor-dodik-ja-sam-svjestan-da-moramo-mijenjati-sebe-narocito-mi-je-vazno-uspostaviti-saradnju-s-vladom-u-srbiji/261122071",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261122071.jpg",
-   "published": "2026-11-22T12:50:00+01:00",
-   "title": [
-    "Igor Dodik prihvatio mandat i najavio saradnju sa Srbijom",
-    "Igor Dodik accepts the mandate and announces cooperation with Serbia"
-   ],
-   "body": [
-    [
-     [
-      "Igor Dodik je u nedjelju prihvatio prijedlog da bude mandatar nove Vlade Republike Srpske.",
-      "On Sunday Igor Dodik accepted the proposal to be the prime minister-designate of the new Government of Republika Srpska."
-     ],
-     [
-      "Predložio ga je predsjednik RS-a Savo Minić, a podršku mu je dao i SNSD.",
-      "He was proposed by RS President Savo Minić, and the SNSD also gave him its support."
-     ],
-     [
-      "Dodik je rekao da mandat prihvata s punom odgovornošću.",
-      "Dodik said that he accepts the mandate with full responsibility."
-     ]
-    ],
-    [
-     [
-      "Prema njegovim riječima, saradnja sa Srbijom imat će posebno mjesto u radu vlade.",
-      "In his words, cooperation with Serbia will have a special place in the government's work."
-     ],
-     [
-      "Želi dobru saradnju s budućom vladom Srbije, koju će voditi Studentska lista.",
-      "He wants good cooperation with the future government of Serbia, which will be led by the Studentska lista."
-     ],
-     [
-      "Rekao je i da RS podržava ulazak u Evropsku uniju samo ako se poštuju njeni interesi.",
-      "He also said that RS supports joining the European Union only if its interests are respected."
-     ],
-     [
-      "Građani žele stabilne plate i penzije, bolje zdravstvo i školstvo, a vlada će na tome raditi od prvog dana.",
-      "Citizens want stable salaries and pensions, better healthcare and schools, and the government will work on that from the first day."
-     ]
-    ],
-    [
-     [
-      "Dodik je rekao da svi žele mijenjati svijet, ali niko ne želi mijenjati sebe.",
-      "Dodik said that everyone wants to change the world, but nobody wants to change themselves."
-     ],
-     [
-      "Dodao je da će donositi odluke, čak i kada su bolne.",
-      "He added that he will make decisions, even when they are painful."
-     ],
-     [
-      "Sada mora Narodnoj skupštini predstaviti program i sastav vlade.",
-      "Now he must present the programme and the composition of the government to the National Assembly."
-     ],
-     [
-      "Vlada će biti izabrana ako za nju glasa većina svih poslanika, a mandat traje 4 godine.",
-      "The government will be elected if a majority of all deputies vote for it, and the mandate lasts 4 years."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "mandatar",
-     "prime minister-designate"
-    ],
-    [
-     "mandat",
-     "mandate, term"
-    ],
-    [
-     "vlada",
-     "government"
-    ],
-    [
-     "saradnja",
-     "cooperation"
-    ],
-    [
-     "odgovornost",
-     "responsibility"
-    ],
-    [
-     "poslanik",
-     "deputy, member of parliament"
-    ],
-    [
-     "plata",
-     "salary"
-    ],
-    [
-     "penzija",
-     "pension"
-    ]
-   ]
-  },
-  {
-   "id": "261122059",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/igor-dodik-zvanicno-predlozen-za-mandatara-nove-vlade-republike-srpske/261122059",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261122059.jpg",
-   "published": "2026-11-22T12:10:00+01:00",
-   "title": [
-    "Igor Dodik zvanično predložen za premijera Republike Srpske",
-    "Igor Dodik officially proposed as prime minister of Republika Srpska"
-   ],
-   "body": [
-    [
-     [
-      "Predsjednik Republike Srpske Savo Minić predložio je u nedjelju Igora Dodika za mandatara nove vlade.",
-      "On Sunday the President of Republika Srpska Savo Minić proposed Igor Dodik as prime minister-designate of the new government."
-     ],
-     [
-      "Odluku je donio nakon razgovora s partnerima iz koalicije u Banjoj Luci.",
-      "He made the decision after talks with coalition partners in Banja Luka."
-     ],
-     [
-      "Igor Dodik je sin lidera SNSD-a Milorada Dodika i organizacioni sekretar te stranke.",
-      "Igor Dodik is the son of SNSD leader Milorad Dodik and the party's organisational secretary."
-     ]
-    ],
-    [
-     [
-      "Minić je na konferenciji za medije rekao da Dodik ima znanje i iskustvo da vodi vladu.",
-      "At a press conference Minić said that Dodik has the knowledge and experience to lead the government."
-     ],
-     [
-      "Dodao je da bi on bio najmlađi premijer u historiji RS-a.",
-      "He added that he would be the youngest prime minister in the history of RS."
-     ],
-     [
-      "Na oktobarskim izborima Dodik je prvi put bio kandidat za Narodnu skupštinu.",
-      "In the October elections Dodik was a candidate for the National Assembly for the first time."
-     ],
-     [
-      "Prema preliminarnim rezultatima, dobio je najviše ličnih glasova, njih 18.104.",
-      "According to preliminary results, he won the most personal votes, 18,104 of them."
-     ]
-    ],
-    [
-     [
-      "Drugi je bio Draško Stanivuković sa 15.570 glasova.",
-      "Second was Draško Stanivuković with 15,570 votes."
-     ],
-     [
-      "Lideri Socijalističke partije, DNS-a i NPS-a rekli su da podržavaju Minićev izbor.",
-      "The leaders of the Socialist Party, the DNS and the NPS said that they support Minić's choice."
-     ],
-     [
-      "Narodna skupština sada mora potvrditi prijedlog prije nego što vlada počne raditi.",
-      "The National Assembly now has to confirm the proposal before the government starts working."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "predsjednik",
-     "president"
-    ],
-    [
-     "predložiti",
-     "to propose"
-    ],
-    [
-     "koalicija",
-     "coalition"
-    ],
-    [
-     "stranka",
-     "political party"
-    ],
-    [
-     "izbori",
-     "elections"
-    ],
-    [
-     "glas",
-     "vote"
-    ],
-    [
-     "rezultat",
-     "result"
-    ],
-    [
-     "potvrditi",
-     "to confirm"
-    ]
-   ]
-  },
-  {
-   "id": "261122056",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/muzika/zabranjeno-pusenje-drugi-put-odusevilo-publiku-u-lisinskom-neustekani-zakazali-i-treci-koncert-u-zagrebu/261122056",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261122056.jpg",
-   "published": "2026-11-22T11:59:00+01:00",
-   "title": [
-    "Zabranjeno pušenje drugi put oduševilo publiku u Zagrebu",
-    "Zabranjeno pušenje thrills the audience in Zagreb for the second time"
-   ],
-   "body": [
-    [
-     [
-      "Zabranjeno pušenje održalo je u subotu drugi rasprodani akustični koncert u dvorani Lisinski u Zagrebu.",
-      "On Saturday Zabranjeno pušenje held a second sold-out acoustic concert in the Lisinski hall in Zagreb."
-     ],
-     [
-      "Bend je nastupio kao Neuštekani, što je naziv njihovog akustičnog projekta koji traje oko 2 godine.",
-      "The band performed as Neuštekani, which is the name of their acoustic project that has been going for about 2 years."
-     ],
-     [
-      "Publika je pjevala i pljeskala, a na kraju je ustala sa sjedišta.",
-      "The audience sang and clapped, and in the end it stood up from its seats."
-     ]
-    ],
-    [
-     [
-      "Koncert je počeo pjesmom „Halid umjesto Halida“, posvećenom Halidu Bešliću, koji bi dan ranije imao rođendan.",
-      "The concert began with the song \"Halid umjesto Halida\", dedicated to Halid Bešlić, who would have had his birthday the day before."
-     ],
-     [
-      "Svirali su i poznate pjesme kao što su „Lijepa Alma“, „Bog vozi Mercedes“ i „Boško i Admira“.",
-      "They also played well-known songs such as \"Lijepa Alma\", \"Bog vozi Mercedes\" and \"Boško i Admira\"."
-     ],
-     [
-      "Sredinom koncerta pridružio im se gudački kvartet, mala grupa od 4 muzičara sa violinama i violončelom.",
-      "In the middle of the concert they were joined by a string quartet, a small group of 4 musicians with violins and a cello."
-     ],
-     [
-      "Koncert je trajao skoro 3 sata.",
-      "The concert lasted almost 3 hours."
-     ]
-    ],
-    [
-     [
-      "Sejo Sexon se našalio da kvartet bolje pristaje Lisinskom od samog benda.",
-      "Sejo Sexon joked that the quartet suits Lisinski better than the band itself."
-     ],
-     [
-      "Treći koncert u Lisinskom bit će 28. januara 2027., ponovo s kvartetom.",
-      "The third concert in Lisinski will be on 28 January 2027, again with the quartet."
-     ],
-     [
-      "Prije toga Neuštekani će 4. i 5. decembra svirati u Sarajevu, u BKC-u.",
-      "Before that Neuštekani will play in Sarajevo, at the BKC, on 4 and 5 December."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "koncert",
-     "concert"
-    ],
-    [
-     "publika",
-     "audience"
-    ],
-    [
-     "rasprodan",
-     "sold out"
-    ],
-    [
-     "pjesma",
-     "song"
-    ],
-    [
-     "bend",
-     "band"
-    ],
-    [
-     "nastupiti",
-     "to perform"
-    ],
-    [
-     "pljeskati",
-     "to clap"
-    ],
-    [
-     "našaliti se",
-     "to make a joke"
-    ]
-   ]
-  },
-  {
-   "id": "261122062",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/branko-blanusa-podnio-ostavku-na-mjesto-predsjednika-sds-a/261122062",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261122062.jpg",
-   "published": "2026-11-22T11:47:00+01:00",
-   "title": [
-    "Branko Blanuša dao ostavku na mjesto predsjednika SDS-a",
-    "Branko Blanuša resigns as president of the SDS"
-   ],
-   "body": [
-    [
-     [
-      "Branko Blanuša podnio je u nedjelju ostavku na mjesto predsjednika Srpske demokratske stranke.",
-      "On Sunday Branko Blanuša resigned from the post of president of the Serb Democratic Party."
-     ],
-     [
-      "Razloge je objasnio u pismu članovima i simpatizerima stranke.",
-      "He explained the reasons in a letter to party members and supporters."
-     ],
-     [
-      "Nakon lošeg rezultata na oktobarskim izborima, mnogi u SDS-u tražili su njegovu ostavku.",
-      "After the poor result in the October elections, many in the SDS asked for his resignation."
-     ]
-    ],
-    [
-     [
-      "Blanuša je napisao da u stranci već dugo nema disciplinske komisije, pa svako radi šta hoće.",
-      "Blanuša wrote that for a long time the party has had no disciplinary commission, so everyone does as they please."
-     ],
-     [
-      "Kaže da se odluke stranačkih organa ne poštuju, a funkcioneri se napadaju preko medija.",
-      "He says that the decisions of party bodies are not respected, and officials attack each other through the media."
-     ],
-     [
-      "Statut stranke predsjedniku ne daje pravo da stvarno vodi stranku.",
-      "The party statute does not give the president the right to really lead the party."
-     ],
-     [
-      "Kao razlog je naveo i zdravlje, jer mu je prošla godina mnogo naštetila.",
-      "He also gave his health as a reason, because the past year harmed it a lot."
-     ]
-    ],
-    [
-     [
-      "Početkom novembra Blanuša je govorio da neće dati ostavku, ali se sada predomislio.",
-      "At the beginning of November Blanuša said that he would not resign, but now he has changed his mind."
-     ],
-     [
-      "Rekao je da SDS ima mnogo dobrih ljudi i da želi da stranka brzo izađe iz krize.",
-      "He said that the SDS has many good people and that he wants the party to get out of the crisis quickly."
-     ],
-     [
-      "Još se ne zna ko bi ga mogao zamijeniti, a neki članovi žele povratak Milana Miličevića.",
-      "It is not yet known who could replace him, and some members want the return of Milan Miličević."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "ostavka",
-     "resignation"
-    ],
-    [
-     "podnijeti ostavku",
-     "to resign"
-    ],
-    [
-     "član",
-     "member"
-    ],
-    [
-     "odluka",
-     "decision"
-    ],
-    [
-     "poštovati",
-     "to respect"
-    ],
-    [
-     "zdravlje",
-     "health"
-    ],
-    [
-     "predomisliti se",
-     "to change one's mind"
-    ],
-    [
-     "kriza",
-     "crisis"
     ]
    ]
   }
