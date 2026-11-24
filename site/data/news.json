@@ -1,18 +1,738 @@
 {
- "updated": "2026-11-24T07:55:00+01:00",
+ "updated": "2026-11-24T13:55:00+01:00",
  "front": [
-  "261124004",
-  "261124002",
-  "261124019",
-  "261124027",
-  "261124006",
-  "261124007",
+  "261124138",
+  "261124134",
+  "261124124",
+  "261124070",
+  "261124157",
+  "261124083",
   "261124020",
-  "261124013",
+  "261124153",
   "261124016",
-  "261123166"
+  "261124129"
  ],
  "articles": [
+  {
+   "id": "261124157",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/oglasilo-se-federalno-tuzilastvo-o-predmetu-konakovic-slucaj-je-na-listi-prioriteta-istragom-obuhvacene-tri-osobe/261124157",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261124157.jpg",
+   "published": "2026-11-24T13:25:00+01:00",
+   "title": [
+    "Federalno tužilaštvo: Slučaj Konaković je prioritet",
+    "Federal Prosecutor's Office: The Konaković case is a priority"
+   ],
+   "body": [
+    [
+     [
+      "Federalno tužilaštvo danas se oglasilo o predmetu u kojem se spominje Elmedin Konaković.",
+      "The Federal Prosecutor's Office spoke today about a case in which Elmedin Konaković is mentioned."
+     ],
+     [
+      "Konaković je ranije zatražio nadzor nad istragom o dodjeli budžetskog novca dok je bio predsjedavajući Skupštine Kantona Sarajevo.",
+      "Konaković had earlier requested supervision of the investigation into the allocation of budget money while he was speaker of the Sarajevo Canton Assembly."
+     ],
+     [
+      "Tužilaštvo je potvrdilo da je njegov zahtjev primilo 19. novembra.",
+      "The prosecutor's office confirmed that it received his request on 19 November."
+     ]
+    ],
+    [
+     [
+      "Istraga je otvorena 2. oktobra 2026. godine i obuhvata 3 osobe.",
+      "The investigation was opened on 2 October 2026 and covers 3 people."
+     ],
+     [
+      "One se sumnjiče za zloupotrebu položaja ili ovlaštenja.",
+      "They are suspected of abuse of office or authority."
+     ],
+     [
+      "Predmet je prešao iz Kantonalnog tužilaštva u Posebni odjel Federalnog tužilaštva, a vodi ga tužilac Samir Selimović.",
+      "The case moved from the Cantonal Prosecutor's Office to the Special Department of the Federal Prosecutor's Office, and prosecutor Samir Selimović is in charge of it."
+     ],
+     [
+      "Slučaj je na listi prioriteta tog odjela za 2026. godinu.",
+      "The case is on that department's priority list for 2026."
+     ]
+    ],
+    [
+     [
+      "Tužilaštvo je reagovalo zbog tvrdnji u javnosti o selektivnom postupanju i ciljanom progonu nekih osoba.",
+      "The prosecutor's office reacted because of public claims about selective treatment and targeted prosecution of certain people."
+     ],
+     [
+      "Glavni federalni tužilac pregledat će Konakovićev zahtjev i obavijestiti ga o mjerama.",
+      "The Chief Federal Prosecutor will review Konaković's request and inform him of the measures."
+     ],
+     [
+      "Prema dokazima, i druge osobe su možda prekršile pravila o dodjeli novca udruženjima, a njihov dio predmeta ide kantonalnom tužilaštvu.",
+      "According to the evidence, other people may also have broken the rules on giving money to associations, and their part of the case will go to the cantonal prosecutor's office."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "tužilaštvo",
+     "prosecutor's office"
+    ],
+    [
+     "istraga",
+     "investigation"
+    ],
+    [
+     "zahtjev",
+     "request"
+    ],
+    [
+     "nadzor",
+     "supervision"
+    ],
+    [
+     "prioritet",
+     "priority"
+    ],
+    [
+     "zloupotreba",
+     "abuse, misuse"
+    ],
+    [
+     "tvrdnja",
+     "claim"
+    ]
+   ]
+  },
+  {
+   "id": "261124153",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/film-tv/u-sarajevu-pocinje-prvi-witness-festival-vecerasnje-projekcije-rasprodane-publiku-ocekuje-bogat-program/261124153",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261124153.jpg",
+   "published": "2026-11-24T12:59:00+01:00",
+   "title": [
+    "U Sarajevu počinje prvi WITNESS Festival",
+    "The first WITNESS Festival begins in Sarajevo"
+   ],
+   "body": [
+    [
+     [
+      "Prvi WITNESS Festival počinje večeras u Sarajevu i trajat će do 28. novembra.",
+      "The first WITNESS Festival begins tonight in Sarajevo and will last until 28 November."
+     ],
+     [
+      "Organizuju ga Obala Art Centar, koji stoji iza Sarajevo Film Festivala, i WARM Fondacija.",
+      "It is organised by Obala Art Centar, which is behind the Sarajevo Film Festival, and the WARM Foundation."
+     ],
+     [
+      "Karte za obje večerašnje projekcije već su rasprodane.",
+      "Tickets for both of tonight's screenings are already sold out."
+     ]
+    ],
+    [
+     [
+      "Filmovi se prikazuju u tri kina: Meeting Pointu, Cineplexxu i Kvartovskom kinu Grbavica.",
+      "The films are shown in three cinemas: Meeting Point, Cineplexx and the Grbavica neighbourhood cinema."
+     ],
+     [
+      "Do kraja festivala traju i dvije besplatne izložbe fotografija, a neki ratni fotografi doći će kao gosti.",
+      "Two free photo exhibitions also run until the end of the festival, and some war photographers will come as guests."
+     ],
+     [
+      "Meeting Point je centar festivala, pa se tamo nakon projekcija održavaju razgovori i koncerti.",
+      "Meeting Point is the centre of the festival, so talks and concerts take place there after the screenings."
+     ],
+     [
+      "Večeras u 22:20 nastupa Duda Buržujka, satirični lik glumice Julije Petković iz Niša.",
+      "Tonight at 22:20 Duda Buržujka performs, a satirical character of actress Julija Petković from Niš."
+     ]
+    ],
+    [
+     [
+      "U srijedu u 11 sati rediteljica Sophie Fiennes govorit će o tome kako ideja postaje film.",
+      "On Wednesday at 11 o'clock, director Sophie Fiennes will talk about how an idea becomes a film."
+     ],
+     [
+      "Ona dugo sarađuje s filozofom Slavojem Žižekom, a njihov zajednički film prikazuje se u 21 sat.",
+      "She has worked with the philosopher Slavoj Žižek for a long time, and their joint film is showing at 21:00."
+     ],
+     [
+      "Publika će vidjeti i dokumentarac Damira Markovine o njegovom ocu, koji je u ratu ostao u Mostaru.",
+      "The audience will also see Damir Markovina's documentary about his father, who stayed in Mostar during the war."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "festival",
+     "festival"
+    ],
+    [
+     "projekcija",
+     "screening"
+    ],
+    [
+     "karta",
+     "ticket"
+    ],
+    [
+     "rasprodan",
+     "sold out"
+    ],
+    [
+     "izložba",
+     "exhibition"
+    ],
+    [
+     "rediteljica",
+     "(female) director"
+    ],
+    [
+     "dokumentarac",
+     "documentary"
+    ]
+   ]
+  },
+  {
+   "id": "261124138",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/klix-pokrece-vremeplov-pretrazite-skoro-150-hiljada-vijesti-iz-bh-novina-od-1866-do-1942-godine/261124138",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261124138.jpg",
+   "published": "2026-11-24T12:54:00+01:00",
+   "title": [
+    "Klix pokrenuo arhiv sa 150.000 vijesti iz starih novina",
+    "Klix launches an archive with 150,000 news items from old newspapers"
+   ],
+   "body": [
+    [
+     [
+      "Portal Klix.ba uoči Dana državnosti pokrenuo je Vremeplov, besplatni internetski arhiv starih bosanskohercegovačkih novina.",
+      "Ahead of Statehood Day, the portal Klix.ba has launched Vremeplov, a free online archive of old Bosnian-Herzegovinian newspapers."
+     ],
+     [
+      "Arhiv se nalazi na adresi vremeplov.klix.ba i otvoren je za sve čitaoce.",
+      "The archive is at vremeplov.klix.ba and is open to all readers."
+     ],
+     [
+      "U njemu je skoro 150.000 vijesti iz 18 novina koje su izlazile od 1866. do 1942. godine.",
+      "It contains almost 150,000 news items from 18 newspapers that were published from 1866 to 1942."
+     ]
+    ],
+    [
+     [
+      "Novine je digitalizovala Nacionalna i univerzitetska biblioteka BiH, a Klix je dobio pismenu dozvolu da koristi te snimke.",
+      "The newspapers were digitised by the National and University Library of BiH, and Klix received written permission to use those scans."
+     ],
+     [
+      "Tekstove iz novina na njemačkom jeziku preveli su na bosanski uz pomoć vještačke inteligencije.",
+      "Texts from German-language newspapers were translated into Bosnian with the help of artificial intelligence."
+     ],
+     [
+      "Stari tekstovi, i oni pisani ćirilicom, prepisani su u današnji pravopis.",
+      "Old texts, including those written in Cyrillic, were transcribed into today's spelling."
+     ],
+     [
+      "Čitaoci mogu tražiti vijesti po riječi, imenu ili mjestu, a rezultate mogu filtrirati po godini i novinama.",
+      "Readers can search for news by word, name or place, and they can filter the results by year and newspaper."
+     ]
+    ],
+    [
+     [
+      "Uz svaku vijest stoji i isječak originalne stranice, naziv novina i datum broja.",
+      "Each news item also comes with a clipping of the original page, the name of the newspaper and the date of the issue."
+     ],
+     [
+      "U arhivu se može čitati o aneksiji, Sarajevskom atentatu i ratnim godinama, ali i o cijenama hljeba i šećera.",
+      "In the archive you can read about the annexation, the Sarajevo assassination and the war years, but also about the prices of bread and sugar."
+     ],
+     [
+      "Klix upozorava da mašinski prijevodi mogu imati greške, zato je originalni snimak uvijek tačna verzija.",
+      "Klix warns that machine translations may contain errors, so the original scan is always the accurate version."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "arhiv",
+     "archive"
+    ],
+    [
+     "novine",
+     "newspaper"
+    ],
+    [
+     "vijest",
+     "news item"
+    ],
+    [
+     "biblioteka",
+     "library"
+    ],
+    [
+     "prijevod",
+     "translation"
+    ],
+    [
+     "greška",
+     "error, mistake"
+    ],
+    [
+     "tražiti",
+     "to search, to look for"
+    ]
+   ]
+  },
+  {
+   "id": "261124134",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/kako-je-doslo-do-hapsenja-orica-sljivic-i-ostalih-zdrale-dao-100-hiljada-km-da-pandurevic-promjeni-iskaz-tuzitelji-sve-snimali/261124134",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261124134.jpg",
+   "published": "2026-11-24T12:17:00+01:00",
+   "title": [
+    "Kako su tužioci snimili predaju 100.000 KM svjedoku",
+    "How prosecutors recorded the handover of 100,000 KM to a witness"
+   ],
+   "body": [
+    [
+     [
+      "Policija je jutros uhapsila Nasera Orića, Nikolinu Šljivić i još nekoliko osoba u akciji \"Emisar\".",
+      "This morning the police arrested Naser Orić, Nikolina Šljivić and several other people in operation \"Emisar\"."
+     ],
+     [
+      "Sumnja se da su pomagali Đorđu Ždrali, koji se krije od policije od augusta.",
+      "They are suspected of having helped Đorđe Ždrale, who has been hiding from the police since August."
+     ],
+     [
+      "Portal Istraga.ba objavio je kako je došlo do hapšenja.",
+      "The portal Istraga.ba has published how the arrests came about."
+     ]
+    ],
+    [
+     [
+      "Ždrale je 2. augusta u Istočnom Sarajevu ranio Kostu Pandurevića, a nakon toga je pobjegao.",
+      "On 2 August in Istočno Sarajevo, Ždrale wounded Kosta Pandurević, and after that he fled."
+     ],
+     [
+      "Prema pisanju portala, Orić i Šljivić su se početkom oktobra sastali s Pandurevićem.",
+      "According to the portal, Orić and Šljivić met Pandurević at the beginning of October."
+     ],
+     [
+      "Pandurević je pristao promijeniti svoj iskaz za 100.000 KM.",
+      "Pandurević agreed to change his statement for 100,000 KM."
+     ],
+     [
+      "Orić mu je novac predao krajem oktobra u jednom ugostiteljskom objektu, a tužioci su sve snimali.",
+      "Orić handed him the money at the end of October in a café or restaurant, and the prosecutors recorded everything."
+     ]
+    ],
+    [
+     [
+      "Pandurević je kasnije u tužilaštvu rekao da više nije siguran da je na njega pucao Ždrale.",
+      "Pandurević later said at the prosecutor's office that he was no longer sure that Ždrale had shot him."
+     ],
+     [
+      "Mesud Mustafić i njegov sin Mustafa navodno su Ždralu nakon pucnjave odvezli prema Kladnju.",
+      "Mesud Mustafić and his son Mustafa allegedly drove Ždrale towards Kladanj after the shooting."
+     ],
+     [
+      "Obojica su policiji rekli da ih je Orić zamolio da prevezu jednog prijatelja.",
+      "Both told the police that Orić had asked them to transport a friend."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "hapšenje",
+     "arrest"
+    ],
+    [
+     "svjedok",
+     "witness"
+    ],
+    [
+     "iskaz",
+     "statement (to police or court)"
+    ],
+    [
+     "tužilac",
+     "prosecutor"
+    ],
+    [
+     "novac",
+     "money"
+    ],
+    [
+     "pucnjava",
+     "shooting"
+    ],
+    [
+     "sumnjati",
+     "to suspect"
+    ]
+   ]
+  },
+  {
+   "id": "261124124",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/nikolina-sljivic-mesud-i-mustafa-mustafic-predati-policiji-u-istocnom-sarajevu/261124124",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261124124.jpg",
+   "published": "2026-11-24T12:00:00+01:00",
+   "title": [
+    "Nikolina Šljivić i Mustafići predati policiji u Istočnom Sarajevu",
+    "Nikolina Šljivić and the Mustafićs handed over to police in Istočno Sarajevo"
+   ],
+   "body": [
+    [
+     [
+      "Nikolina Šljivić, Mesud Mustafić i njegov sin Mustafa predati su danas Policijskoj upravi Istočno Sarajevo.",
+      "Nikolina Šljivić, Mesud Mustafić and his son Mustafa were handed over to the Istočno Sarajevo Police Administration today."
+     ],
+     [
+      "Sve troje uhapšeni su ranije u toku dana u akciji \"Emisar\".",
+      "All three were arrested earlier in the day in operation \"Emisar\"."
+     ],
+     [
+      "U istoj akciji uhapšeni su i Naser Orić i advokat Siniša Dargenc.",
+      "Naser Orić and lawyer Siniša Dargenc were also arrested in the same operation."
+     ]
+    ],
+    [
+     [
+      "MUP Republike Srpske saopćio je da je cilj akcije razbiti kriminalnu grupu povezanu s Đorđem Ždralom.",
+      "The Republika Srpska Ministry of the Interior announced that the aim of the operation is to break up a criminal group linked to Đorđe Ždrale."
+     ],
+     [
+      "Uhapšeni se sumnjiče za udruživanje radi činjenja krivičnih djela i za skrivanje dokaza.",
+      "The arrested are suspected of associating to commit crimes and of hiding evidence."
+     ],
+     [
+      "Sumnja se i na pokušaj teškog ubistva.",
+      "There is also suspicion of attempted aggravated murder."
+     ],
+     [
+      "Do sada je uhapšeno ukupno 5 osoba.",
+      "A total of 5 people have been arrested so far."
+     ]
+    ],
+    [
+     [
+      "Akciju vodi MUP RS pod nadzorom posebnog odjela Republičkog tužilaštva, a na teritoriji Federacije pomaže SIPA.",
+      "The RS Ministry of the Interior is leading the operation under the supervision of a special department of the Republic Prosecutor's Office, and SIPA is helping on the territory of the Federation."
+     ],
+     [
+      "Đorđe Ždrale je i dalje u bijegu, a policija je pretresla i njegove objekte.",
+      "Đorđe Ždrale is still on the run, and the police have also searched his properties."
+     ],
+     [
+      "MUP je najavio da će više informacija dati kada akcija završi.",
+      "The ministry announced that it will give more information when the operation ends."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "policija",
+     "police"
+    ],
+    [
+     "uhapsiti",
+     "to arrest"
+    ],
+    [
+     "akcija",
+     "operation, action"
+    ],
+    [
+     "advokat",
+     "lawyer"
+    ],
+    [
+     "dokaz",
+     "evidence"
+    ],
+    [
+     "bijeg",
+     "escape, flight"
+    ],
+    [
+     "pretresti",
+     "to search (a place)"
+    ]
+   ]
+  },
+  {
+   "id": "261124129",
+   "source": "Klix.ba",
+   "section": "Tehnologija",
+   "url": "https://www.klix.ba/scitech/nauka/perseverance-i-odyssey-zbog-kvarova-prekinuli-naucni-rad-na-marsu/261124129",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261124129.jpg",
+   "published": "2026-11-24T12:00:00+01:00",
+   "title": [
+    "Zbog kvarova NASA zaustavila naučni rad dvije letjelice na Marsu",
+    "Because of faults, NASA has halted science work by two spacecraft at Mars"
+   ],
+   "body": [
+    [
+     [
+      "NASA je privremeno zaustavila naučni rad rovera Perseverance i letjelice Mars Odyssey.",
+      "NASA has temporarily halted the science work of the Perseverance rover and the Mars Odyssey spacecraft."
+     ],
+     [
+      "Obje letjelice imaju tehničke kvarove.",
+      "Both spacecraft have technical faults."
+     ],
+     [
+      "Rover je vozilo koje se kreće po površini planete.",
+      "A rover is a vehicle that moves across the surface of a planet."
+     ]
+    ],
+    [
+     [
+      "Problemi s Perseveranceom počeli su 30. oktobra, kada je glavni radio prestao slati signale računaru.",
+      "The problems with Perseverance began on 30 October, when the main radio stopped sending signals to the computer."
+     ],
+     [
+      "Rover je tada prešao na rezervni radio, ali on radi sa samo pola snage.",
+      "The rover then switched to the backup radio, but it works at only half power."
+     ],
+     [
+      "Sada podatke šalje direktno na Zemlju, ali ta veza je mnogo sporija, pa ne snima nove fotografije.",
+      "Now it sends data directly to Earth, but that link is much slower, so it is not taking new photos."
+     ],
+     [
+      "Na letjelici Odyssey prestao je raditi jedan od četiri točka koji je drže u pravom položaju.",
+      "On the Odyssey spacecraft, one of the four wheels that keep it in the right position has stopped working."
+     ]
+    ],
+    [
+     [
+      "Odyssey treba najmanje 3 točka, a jedan se pokvario još 2013. godine.",
+      "Odyssey needs at least 3 wheels, and one already broke down in 2013."
+     ],
+     [
+      "Ako ga ne poprave, letjelica bi imala gorivo za samo 1 do 2 mjeseca rada.",
+      "If they do not repair it, the spacecraft would have fuel for only 1 to 2 months of work."
+     ],
+     [
+      "NASA kaže da su obje letjelice stabilne i nada se da će krajem novembra ponovo raditi.",
+      "NASA says that both spacecraft are stable and hopes that they will work again at the end of November."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "letjelica",
+     "spacecraft"
+    ],
+    [
+     "kvar",
+     "fault, breakdown"
+    ],
+    [
+     "zaustaviti",
+     "to stop, to halt"
+    ],
+    [
+     "rezervni",
+     "backup, spare"
+    ],
+    [
+     "snaga",
+     "power, strength"
+    ],
+    [
+     "točak",
+     "wheel"
+    ],
+    [
+     "gorivo",
+     "fuel"
+    ]
+   ]
+  },
+  {
+   "id": "261124083",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/regija/mitropolit-irinej-iz-sjene-spc-a-kozarac-nazivao-ustaskim-uporistem-a-bih-optuzivao-za-stvaranje-islamske-drzave/261124083",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261124083.jpg",
+   "published": "2026-11-24T11:07:00+01:00",
+   "title": [
+    "Umro mitropolit Irinej, poznat po spornim izjavama o BiH",
+    "Metropolitan Irinej, known for controversial statements about BiH, has died"
+   ],
+   "body": [
+    [
+     [
+      "Mitropolit bački Irinej Bulović umro je danas u 79. godini.",
+      "Metropolitan Irinej Bulović of Bačka died today at the age of 79."
+     ],
+     [
+      "Bio je jedan od najpoznatijih ljudi Srpske pravoslavne crkve i dugo njen portparol.",
+      "He was one of the best-known people in the Serbian Orthodox Church and its spokesperson for a long time."
+     ],
+     [
+      "Mnogi građani BiH pamtit će ga po izjavama protiv Islamske zajednice.",
+      "Many citizens of BiH will remember him for his statements against the Islamic Community."
+     ]
+    ],
+    [
+     [
+      "Rođen je 1947. godine kod Sombora, a više od 30 godina predavao je na Pravoslavnom bogoslovskom fakultetu u Beogradu.",
+      "He was born in 1947 near Sombor, and for more than 30 years he taught at the Orthodox Theological Faculty in Belgrade."
+     ],
+     [
+      "Episkop bački postao je 1990, a mitropolit 2024. godine.",
+      "He became Bishop of Bačka in 1990 and Metropolitan in 2024."
+     ],
+     [
+      "Godine 2021. bio je među kandidatima za patrijarha, ali je izabran Porfirije.",
+      "In 2021 he was among the candidates for patriarch, but Porfirije was chosen."
+     ]
+    ],
+    [
+     [
+      "U intervjuu krajem 2023. rekao je da neki ljudi u Islamskoj zajednici žele prvu islamsku državu u Evropi.",
+      "In an interview at the end of 2023 he said that some people in the Islamic Community want the first Islamic state in Europe."
+     ],
+     [
+      "Tada je za jednog imama iz Kozarca rekao da dolazi iz ustaškog mjesta.",
+      "At that time he said of an imam from Kozarac that he came from an Ustaše place."
+     ],
+     [
+      "Rekao je i da je crkva zamrznula svoje učešće u Međureligijskom vijeću BiH.",
+      "He also said that the church had frozen its participation in the Interreligious Council of BiH."
+     ],
+     [
+      "Godine 2018. izjavio je da je Srbija svugdje gdje žive Srbi, i u BiH i u Crnoj Gori.",
+      "In 2018 he stated that Serbia is everywhere Serbs live, including in BiH and Montenegro."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "mitropolit",
+     "metropolitan (senior bishop)"
+    ],
+    [
+     "crkva",
+     "church"
+    ],
+    [
+     "izjava",
+     "statement"
+    ],
+    [
+     "umrijeti",
+     "to die"
+    ],
+    [
+     "predavati",
+     "to teach, to lecture"
+    ],
+    [
+     "patrijarh",
+     "patriarch"
+    ],
+    [
+     "država",
+     "state, country"
+    ]
+   ]
+  },
+  {
+   "id": "261124070",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/uhapsen-naser-oric-sumnja-se-da-je-pomagao-u-skrivanju-dorda-zdrale/261124070",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261124070.jpg",
+   "published": "2026-11-24T09:20:00+01:00",
+   "title": [
+    "Uhapšen Naser Orić zbog sumnje da je skrivao Ždralu",
+    "Naser Orić arrested on suspicion of hiding Ždrale"
+   ],
+   "body": [
+    [
+     [
+      "Naser Orić uhapšen je jutros na području Olova.",
+      "Naser Orić was arrested this morning in the Olovo area."
+     ],
+     [
+      "Policija sumnja da je pomagao u skrivanju Đorđa Ždrale, koji je u bijegu od augusta.",
+      "The police suspect that he helped hide Đorđe Ždrale, who has been on the run since August."
+     ],
+     [
+      "Ždrale se sumnjiči da je 2. augusta u Istočnom Sarajevu pokušao ubiti Kostu Pandurevića.",
+      "Ždrale is suspected of having tried to kill Kosta Pandurević in Istočno Sarajevo on 2 August."
+     ]
+    ],
+    [
+     [
+      "Akciju su od ranog jutra provodili MUP Republike Srpske i SIPA na više lokacija u BiH.",
+      "The operation was carried out from early morning by the Republika Srpska Ministry of the Interior and SIPA at several locations in BiH."
+     ],
+     [
+      "U Istočnom Sarajevu uhapšena je i bivša poslanica Nikolina Šljivić.",
+      "Former MP Nikolina Šljivić was also arrested in Istočno Sarajevo."
+     ],
+     [
+      "Na listi uhapšenih je i Mesud Mustafić iz Vogošće.",
+      "Mesud Mustafić from Vogošća is also on the list of those arrested."
+     ],
+     [
+      "Istražitelji misle da je on, a da to nije znao, prevezao Ždralu iz Sarajeva u Tuzlanski kanton.",
+      "Investigators believe that he, without knowing it, transported Ždrale from Sarajevo to Tuzla Canton."
+     ]
+    ],
+    [
+     [
+      "Akciju je naredilo Republičko javno tužilaštvo, a naloge je izdao Okružni sud u Banjoj Luci.",
+      "The operation was ordered by the Republic Public Prosecutor's Office, and the warrants were issued by the District Court in Banja Luka."
+     ],
+     [
+      "Klix.ba je potvrdio da policija od jutra pretresa kuće i druge objekte koje koristi Orić.",
+      "Klix.ba confirmed that the police have been searching houses and other properties used by Orić since the morning."
+     ],
+     [
+      "Prema dostupnim informacijama, Ždrale u ovoj akciji nije pronađen.",
+      "According to available information, Ždrale was not found in this operation."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "uhapšen",
+     "arrested"
+    ],
+    [
+     "skrivati",
+     "to hide"
+    ],
+    [
+     "sumnja",
+     "suspicion"
+    ],
+    [
+     "lokacija",
+     "location"
+    ],
+    [
+     "istražitelj",
+     "investigator"
+    ],
+    [
+     "sud",
+     "court"
+    ],
+    [
+     "pronaći",
+     "to find"
+    ]
+   ]
+  },
   {
    "id": "261124007",
    "source": "Klix.ba",
@@ -4890,762 +5610,6 @@
     [
      "kriza",
      "crisis"
-    ]
-   ]
-  },
-  {
-   "id": "261120172",
-   "source": "Klix.ba",
-   "section": "Zdravlje",
-   "url": "https://www.klix.ba/lifestyle/zdravlje/jeste-li-i-vi-muskarac-koji-nikad-nije-bolestan-evo-zasto-trebate-prekontrolisati-svoje-nalaze-vec-danas/261120172",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261120172.jpg",
-   "published": "2026-11-22T10:58:00+01:00",
-   "title": [
-    "Zašto i zdravi muškarci trebaju redovno raditi nalaze",
-    "Why healthy men should also get regular check-ups"
-   ],
-   "body": [
-    [
-     [
-      "Mnogi muškarci ne idu na kontrole jer se osjećaju dobro i misle da nikad nisu bolesni.",
-      "Many men do not go for check-ups because they feel good and think they are never ill."
-     ],
-     [
-      "Doktorica Vesna Gluvić-Čelić iz laboratorije Prolab u Banjoj Luci kaže da muškarci u laboratoriju često dolaze prekasno.",
-      "Doctor Vesna Gluvić-Čelić from the Prolab laboratory in Banja Luka says that men often come to the laboratory too late."
-     ],
-     [
-      "U novembru kampanja Movember u cijelom svijetu poziva muškarce da se provjere i bez simptoma.",
-      "In November the Movember campaign around the world calls on men to get checked even without symptoms."
-     ]
-    ],
-    [
-     [
-      "Prema njenim riječima, mnogi misle da muškarac mora sve izdržati i da su kontrole za žene.",
-      "In her words, many think that a man must endure everything and that check-ups are for women."
-     ],
-     [
-      "Visok šećer, masnoće u krvi i problemi s prostatom mogu se godinama razvijati bez bolova.",
-      "High sugar, fats in the blood and prostate problems can develop for years without pain."
-     ],
-     [
-      "U Kantonu Sarajevo planirano je 2.800 pregleda prostate, a do početka novembra urađeno je 422.",
-      "In Sarajevo Canton 2,800 prostate exams were planned, and by the start of November 422 had been done."
-     ],
-     [
-      "Kod 33 muškarca nalaz je bio pozitivan.",
-      "For 33 men the result was positive."
-     ]
-    ],
-    [
-     [
-      "Doktorica savjetuje da se osnovni nalazi rade barem jednom godišnje, a PSA test nakon 50. godine.",
-      "The doctor advises that basic tests be done at least once a year, and the PSA test after the age of 50."
-     ],
-     [
-      "Ako u porodici ima raka prostate, dijabetesa ili infarkta, kontrole bi trebalo raditi 2 puta godišnje.",
-      "If there is prostate cancer, diabetes or heart attack in the family, check-ups should be done twice a year."
-     ],
-     [
-      "Krv se daje ujutro, na prazan stomak, a dan ranije treba izbjegavati alkohol i teške obroke.",
-      "Blood is given in the morning on an empty stomach, and the day before one should avoid alcohol and heavy meals."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "nalaz",
-     "test result"
-    ],
-    [
-     "kontrola",
-     "check-up"
-    ],
-    [
-     "muškarac",
-     "man"
-    ],
-    [
-     "krv",
-     "blood"
-    ],
-    [
-     "pregled",
-     "examination"
-    ],
-    [
-     "simptom",
-     "symptom"
-    ],
-    [
-     "izdržati",
-     "to endure"
-    ],
-    [
-     "redovno",
-     "regularly"
-    ]
-   ]
-  },
-  {
-   "id": "261122015",
-   "source": "Klix.ba",
-   "section": "Vrijeme",
-   "url": "https://www.klix.ba/vijesti/bih/upozorenje-zbog-padavina-u-bih-stizu-olujno-jugo-i-do-70-litara-kise-a-tokom-noci-moguc-i-snijeg/261122015",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261122015.jpg",
-   "published": "2026-11-22T09:42:00+01:00",
-   "title": [
-    "Upozorenje zbog jakog juga i obilne kiše u BiH",
-    "Warning over strong south wind and heavy rain in BiH"
-   ],
-   "body": [
-    [
-     [
-      "Federalni hidrometeorološki zavod izdao je upozorenje zbog jakog vjetra i obilne kiše za veći dio BiH.",
-      "The Federal Hydrometeorological Institute issued a warning about strong wind and heavy rain for most of BiH."
-     ],
-     [
-      "Upozorenje važi za nedjelju, 22. novembra, a posebno za jug zemlje.",
-      "The warning applies to Sunday, 22 November, and especially to the south of the country."
-     ],
-     [
-      "Kiša dolazi sa zapada u drugoj polovini dana, a u Sarajevu se očekuje popodne.",
-      "The rain is coming from the west in the second half of the day, and it is expected in Sarajevo in the afternoon."
-     ]
-    ],
-    [
-     [
-      "Od podneva puše jugo, topli južni vjetar, s udarima od 40 do 60 kilometara na sat.",
-      "From noon the jugo, a warm south wind, is blowing with gusts of 40 to 60 kilometres per hour."
-     ],
-     [
-      "U regiji Mostara moglo bi pasti od 30 do 60 litara kiše po metru kvadratnom, a lokalno i do 70.",
-      "In the Mostar region 30 to 60 litres of rain per square metre could fall, and locally up to 70."
-     ],
-     [
-      "Dnevna temperatura bit će od 8 do 14, a na jugu do 16 stepeni.",
-      "The daytime temperature will be from 8 to 14, and in the south up to 16 degrees."
-     ],
-     [
-      "Zavod upozorava na moguće poplave i otežanu vožnju zbog vode na cestama.",
-      "The institute warns of possible floods and difficult driving because of water on the roads."
-     ]
-    ],
-    [
-     [
-      "Najviše kiše past će u noći na ponedjeljak, kada su mogući i grmljavina i olujni udari vjetra.",
-      "The most rain will fall in the night before Monday, when thunderstorms and storm gusts of wind are also possible."
-     ],
-     [
-      "Zbog hladnijeg zraka kiša će na planinama preći u snijeg, a slab snijeg moguć je i u nižim krajevima.",
-      "Because of colder air the rain will turn into snow in the mountains, and light snow is also possible in lower areas."
-     ],
-     [
-      "U ponedjeljak popodne padavine prestaju, a od srijede stiže novi ciklon sa snijegom.",
-      "On Monday afternoon the precipitation stops, and from Wednesday a new cyclone arrives with snow."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "upozorenje",
-     "warning"
-    ],
-    [
-     "vjetar",
-     "wind"
-    ],
-    [
-     "kiša",
-     "rain"
-    ],
-    [
-     "snijeg",
-     "snow"
-    ],
-    [
-     "poplava",
-     "flood"
-    ],
-    [
-     "padavine",
-     "precipitation"
-    ],
-    [
-     "jugo",
-     "warm south wind"
-    ],
-    [
-     "temperatura",
-     "temperature"
-    ]
-   ]
-  },
-  {
-   "id": "261122019",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/nauka/dvije-robotske-letjelice-usle-u-merkurovu-orbitu-nakon-osam-godina-putovanja/261122019",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261122019.jpg",
-   "published": "2026-11-22T08:11:00+01:00",
-   "title": [
-    "Dvije letjelice nakon 8 godina stigle u orbitu Merkura",
-    "Two spacecraft reach Mercury's orbit after 8 years"
-   ],
-   "body": [
-    [
-     [
-      "Dvije robotske letjelice misije BepiColombo ušle su u subotu u orbitu oko planete Merkur.",
-      "On Saturday two robotic spacecraft of the BepiColombo mission entered orbit around the planet Mercury."
-     ],
-     [
-      "Na put su krenule 2018. godine i putovale su 8 godina.",
-      "They set off in 2018 and travelled for 8 years."
-     ],
-     [
-      "Misiju zajedno vode Evropska svemirska agencija ESA i japanska agencija JAXA.",
-      "The mission is run jointly by the European Space Agency ESA and the Japanese agency JAXA."
-     ]
-    ],
-    [
-     [
-      "Projekt je koštao oko 2 milijarde dolara.",
-      "The project cost about 2 billion dollars."
-     ],
-     [
-      "Letjelice su usporile motorima, pa ih je slaba gravitacija Merkura mogla uhvatiti.",
-      "The spacecraft slowed down with their engines, so Mercury's weak gravity could capture them."
-     ],
-     [
-      "Kontrolori u Njemačkoj, udaljenoj oko 152 miliona kilometara, trebali su nekoliko sati da to potvrde.",
-      "Controllers in Germany, about 152 million kilometres away, needed several hours to confirm it."
-     ],
-     [
-      "Na putu su prešle više od 10 milijardi kilometara, a usput su prošle pored Zemlje, Venere i Merkura.",
-      "On the way they covered more than 10 billion kilometres, and along the way they passed by Earth, Venus and Mercury."
-     ]
-    ],
-    [
-     [
-      "Ovo je tek treća letjelica koja je posjetila Merkur i prva nakon više od 10 godina.",
-      "This is only the third spacecraft to visit Mercury and the first in more than 10 years."
-     ],
-     [
-      "Sljedećeg mjeseca letjelice će se razdvojiti i proučavati planetu s različitih visina.",
-      "Next month the spacecraft will separate and study the planet from different heights."
-     ],
-     [
-      "Naučnici očekuju prve nove podatke na proljeće, iako temperatura na površini može biti preko 427 stepeni.",
-      "Scientists expect the first new data in spring, although the temperature on the surface can be over 427 degrees."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "letjelica",
-     "spacecraft"
-    ],
-    [
-     "orbita",
-     "orbit"
-    ],
-    [
-     "planeta",
-     "planet"
-    ],
-    [
-     "misija",
-     "mission"
-    ],
-    [
-     "putovati",
-     "to travel"
-    ],
-    [
-     "gravitacija",
-     "gravity"
-    ],
-    [
-     "površina",
-     "surface"
-    ],
-    [
-     "naučnik",
-     "scientist"
-    ]
-   ]
-  },
-  {
-   "id": "261122011",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/novi-sportski-direktor-milana-vec-sprema-dva-velika-pojacanja-na-meti-i-ermedin-demirovic/261122011",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261122011.jpg",
-   "published": "2026-11-22T07:35:00+01:00",
-   "title": [
-    "Milan želi dovesti Brunu Fernandesa i Ermedina Demirovića",
-    "Milan wants to bring in Bruno Fernandes and Ermedin Demirović"
-   ],
-   "body": [
-    [
-     [
-      "Italijanski mediji pišu da Milan u januaru želi dovesti dva velika pojačanja.",
-      "Italian media write that Milan wants to bring in two big signings in January."
-     ],
-     [
-      "Na listi su kapiten Manchester Uniteda Bruno Fernandes i reprezentativac BiH Ermedin Demirović.",
-      "On the list are Manchester United captain Bruno Fernandes and Bosnia and Herzegovina international Ermedin Demirović."
-     ],
-     [
-      "Transfere priprema Markus Krösche, koji još nije zvanično preuzeo mjesto sportskog direktora Milana.",
-      "The transfers are being prepared by Markus Krösche, who has not yet officially taken the post of Milan's sporting director."
-     ]
-    ],
-    [
-     [
-      "Ugovor Fernandesa s Unitedom ističe u ljeto, ali klub ga može produžiti za još jednu godinu.",
-      "Fernandes's contract with United expires in the summer, but the club can extend it by one more year."
-     ],
-     [
-      "Novi trener Uniteda Mauricio Pochettino rekao je da je Bruno izuzetno važan igrač.",
-      "United's new coach Mauricio Pochettino said that Bruno is an extremely important player."
-     ],
-     [
-      "Demirović je postao glavna meta Milana za napad jer je mnogo jeftiniji od drugih napadača.",
-      "Demirović has become Milan's main target for the attack because he is much cheaper than other strikers."
-     ],
-     [
-      "On ima ugovor sa Stuttgartom do 2028. godine, a ove sezone je dao 5 golova u Bundesligi i 4 u Ligi prvaka.",
-      "He has a contract with Stuttgart until 2028, and this season he has scored 5 goals in the Bundesliga and 4 in the Champions League."
-     ]
-    ],
-    [
-     [
-      "U Milanu vjeruju da bi mogli dogovoriti dobru cijenu, jer Krösche ima dobre veze u Njemačkoj.",
-      "At Milan they believe that they could agree a good price, because Krösche has good connections in Germany."
-     ],
-     [
-      "Galatasaray je prošlog ljeta također želio Demirovića i još nije odustao.",
-      "Galatasaray also wanted Demirović last summer and has not given up yet."
-     ],
-     [
-      "Za napadača od 28 godina zanimaju se i neki klubovi iz Premier lige.",
-      "Some Premier League clubs are also interested in the 28-year-old striker."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "pojačanje",
-     "new signing, reinforcement"
-    ],
-    [
-     "kapiten",
-     "captain"
-    ],
-    [
-     "reprezentativac",
-     "national team player"
-    ],
-    [
-     "ugovor",
-     "contract"
-    ],
-    [
-     "isteći",
-     "to expire"
-    ],
-    [
-     "meta",
-     "target"
-    ],
-    [
-     "napadač",
-     "striker"
-    ],
-    [
-     "odustati",
-     "to give up"
-    ]
-   ]
-  },
-  {
-   "id": "261122008",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/formula1/verstappen-slavio-u-dramaticnom-las-vegasu-nova-katastrofa-ferrarija/261122008",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261122008.jpg",
-   "published": "2026-11-22T07:26:00+01:00",
-   "title": [
-    "Verstappen pobijedio u Las Vegasu, loša utrka za Ferrari",
-    "Verstappen won in Las Vegas, a bad race for Ferrari"
-   ],
-   "body": [
-    [
-     [
-      "Max Verstappen iz Red Bulla pobijedio je na Velikoj nagradi Las Vegasa.",
-      "Max Verstappen of Red Bull won the Las Vegas Grand Prix."
-     ],
-     [
-      "To je bila 21. utrka ove sezone Formule 1.",
-      "It was the 21st race of this Formula 1 season."
-     ],
-     [
-      "Drugo mjesto osvojio je Lando Norris, a treći je bio Oscar Piastri, obojica iz McLarena.",
-      "Second place went to Lando Norris, and third was Oscar Piastri, both from McLaren."
-     ]
-    ],
-    [
-     [
-      "Verstappen je krenuo s prvog mjesta jer je najbrži u kvalifikacijama, Kimi Antonelli, kažnjen zbog promjene motora.",
-      "Verstappen started from first place because the fastest in qualifying, Kimi Antonelli, was penalised for an engine change."
-     ],
-     [
-      "Utrka je imala mnogo preticanja i nekoliko ulazaka sigurnosnog automobila.",
-      "The race had a lot of overtaking and several safety car periods."
-     ],
-     [
-      "Antonelli je drugo mjesto izgubio u posljednjim trenucima, a George Russell je odustao dva kruga prije kraja.",
-      "Antonelli lost second place in the final moments, and George Russell retired two laps before the end."
-     ],
-     [
-      "Vozači Ferrarija Lewis Hamilton i Charles Leclerc sudarili su se u 38. krugu i obojica su kažnjena.",
-      "Ferrari drivers Lewis Hamilton and Charles Leclerc collided on lap 38 and both were penalised."
-     ]
-    ],
-    [
-     [
-      "Utrka nije bila važna za borbu za titulu.",
-      "The race was not important for the fight for the title."
-     ],
-     [
-      "Antonelli je početkom novembra u Meksiku postao najmlađi prvak u historiji s 20 godina, a Mercedes je već osvojio titulu među timovima.",
-      "At the start of November in Mexico, Antonelli became the youngest champion in history at 20, and Mercedes has already won the title among the teams."
-     ],
-     [
-      "Za Verstappena je to četvrta pobjeda ove sezone, a do kraja su ostale još utrke u Kataru i Abu Dhabiju.",
-      "For Verstappen it is his fourth win this season, and races in Qatar and Abu Dhabi are still left until the end."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "utrka",
-     "race"
-    ],
-    [
-     "pobijediti",
-     "to win"
-    ],
-    [
-     "kazniti",
-     "to penalise"
-    ],
-    [
-     "preticanje",
-     "overtaking"
-    ],
-    [
-     "krug",
-     "lap"
-    ],
-    [
-     "sudariti se",
-     "to collide"
-    ],
-    [
-     "titula",
-     "title"
-    ],
-    [
-     "prvak",
-     "champion"
-    ]
-   ]
-  },
-  {
-   "id": "261122004",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/ostra-reakcija-bivse-britanske-premijerke-na-ideju-o-povratku-u-eu-zaprepastena-sam-prihvatite-brexit/261122004",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261122004.jpg",
-   "published": "2026-11-22T07:18:00+01:00",
-   "title": [
-    "Theresa May kritikuje ideju o povratku Britanije u EU",
-    "Theresa May criticises the idea of Britain returning to the EU"
-   ],
-   "body": [
-    [
-     [
-      "Bivša britanska premijerka Theresa May oštro je kritikovala sadašnjeg premijera Andyja Burnhama.",
-      "Former British Prime Minister Theresa May sharply criticised the current Prime Minister Andy Burnham."
-     ],
-     [
-      "U intervjuu za BBC rekla je da je zaprepaštena jer Burnham razmišlja o povratku u Evropsku uniju.",
-      "In an interview with the BBC she said that she is shocked because Burnham is thinking about returning to the European Union."
-     ],
-     [
-      "Intervju se emituje u nedjelju u emisiji Laure Kuenssberg.",
-      "The interview is broadcast on Sunday in Laura Kuenssberg's programme."
-     ]
-    ],
-    [
-     [
-      "Burnham je na samitu EU u Briselu rekao da želi razmijeniti ideje o budućim odnosima s Unijom.",
-      "At the EU summit in Brussels, Burnham said that he wants to exchange ideas about future relations with the Union."
-     ],
-     [
-      "Sedmicu ranije u Londonu je izjavio da Brexit nije uspio.",
-      "A week earlier in London he stated that Brexit had failed."
-     ],
-     [
-      "May je poručila da je Brexit gotov i da ga treba prihvatiti i ići dalje.",
-      "May said that Brexit is over and that it should be accepted and people should move on."
-     ],
-     [
-      "Prema njenim riječima, Burnham ljudima govori da su pogrešno glasali i da trebaju glasati ponovo.",
-      "According to her, Burnham is telling people that they voted wrongly and that they should vote again."
-     ]
-    ],
-    [
-     [
-      "May je bila premijerka od 2016. do 2019. godine.",
-      "May was Prime Minister from 2016 to 2019."
-     ],
-     [
-      "Prije referenduma podržavala je ostanak u EU, ali je kao premijerka tri godine pregovarala o izlasku.",
-      "Before the referendum she supported staying in the EU, but as Prime Minister she negotiated the exit for three years."
-     ],
-     [
-      "Rekla je da bi vlada trebala jačati ekonomiju, sigurnost i prilike za građane.",
-      "She said that the government should strengthen the economy, security and opportunities for citizens."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "premijerka",
-     "(female) prime minister"
-    ],
-    [
-     "zaprepašten",
-     "shocked"
-    ],
-    [
-     "povratak",
-     "return"
-    ],
-    [
-     "prihvatiti",
-     "to accept"
-    ],
-    [
-     "glasati",
-     "to vote"
-    ],
-    [
-     "pregovarati",
-     "to negotiate"
-    ],
-    [
-     "izlazak",
-     "exit"
-    ],
-    [
-     "odnos",
-     "relation"
-    ]
-   ]
-  },
-  {
-   "id": "261122007",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/kosarka/murray-u-posljednjim-sekundama-srusio-boston-garza-ubacio-pet-poena/261122007",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261122007.jpg",
-   "published": "2026-11-22T07:18:00+01:00",
-   "title": [
-    "Sacramento u posljednjim sekundama pobijedio Boston",
-    "Sacramento beat Boston in the final seconds"
-   ],
-   "body": [
-    [
-     [
-      "Košarkaši Sacramento Kingsa pobijedili su Boston Celticse rezultatom 97:96 u NBA ligi.",
-      "The Sacramento Kings basketball players beat the Boston Celtics 97-96 in the NBA."
-     ],
-     [
-      "Odlučujući koš dao je Keegan Murray oko 5 sekundi prije kraja, nakon što je uhvatio odbijenu loptu.",
-      "The deciding basket was scored by Keegan Murray about 5 seconds before the end, after he caught a rebound."
-     ],
-     [
-      "Payton Pritchard je u posljednjem napadu Bostona promašio šut za tri poena.",
-      "Payton Pritchard missed a three-point shot in Boston's last attack."
-     ]
-    ],
-    [
-     [
-      "Boston je na poluvremenu vodio 13 poena, ali je u trećoj četvrtini izgubio 35:13.",
-      "Boston led by 13 points at half-time, but lost the third quarter 35-13."
-     ],
-     [
-      "U toj četvrtini promašio je svih 13 šuteva za tri poena.",
-      "In that quarter it missed all 13 three-point shots."
-     ],
-     [
-      "Najbolji kod Sacramenta bio je Darius Acuff s 21 poenom, a kod Bostona Paul George s 19 poena.",
-      "The best for Sacramento was Darius Acuff with 21 points, and for Boston Paul George with 19 points."
-     ],
-     [
-      "Reprezentativac BiH Luka Garza igrao je 17 minuta i imao 5 poena i 5 skokova.",
-      "Bosnia and Herzegovina international Luka Garza played 17 minutes and had 5 points and 5 rebounds."
-     ]
-    ],
-    [
-     [
-      "Ovo je tek druga pobjeda Sacramenta u sezoni i prva na domaćem terenu.",
-      "This is only Sacramento's second win of the season and the first on home court."
-     ],
-     [
-      "Boston je igrao bez Jaysona Tatuma, Derricka Whitea i Mitchella Robinsona.",
-      "Boston played without Jayson Tatum, Derrick White and Mitchell Robinson."
-     ],
-     [
-      "Celticsi su izgubili treću utakmicu zaredom i sada imaju 11 pobjeda i 5 poraza.",
-      "The Celtics lost their third game in a row and now have 11 wins and 5 losses."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "košarkaš",
-     "basketball player"
-    ],
-    [
-     "koš",
-     "basket"
-    ],
-    [
-     "poen",
-     "point"
-    ],
-    [
-     "promašiti",
-     "to miss"
-    ],
-    [
-     "poluvrijeme",
-     "half-time"
-    ],
-    [
-     "četvrtina",
-     "quarter"
-    ],
-    [
-     "skok",
-     "rebound"
-    ],
-    [
-     "poraz",
-     "defeat"
-    ]
-   ]
-  },
-  {
-   "id": "261122002",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/zapaljeni-ruski-teretnjak-otplutao-u-finske-vode-podignuti-avioni-rat-se-prelijeva-u-nasa-podrucja/261122002",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261122002.jpg",
-   "published": "2026-11-22T07:10:00+01:00",
-   "title": [
-    "Zapaljeni ruski teretni brod otplutao u finske vode",
-    "Burning Russian cargo ship drifted into Finnish waters"
-   ],
-   "body": [
-    [
-     [
-      "Ruski teretni brod Sparta II zapalio se u subotu u Baltičkom moru nakon napada dronovima.",
-      "The Russian cargo ship Sparta II caught fire on Saturday in the Baltic Sea after a drone attack."
-     ],
-     [
-      "Brod je napadnut u međunarodnim vodama zapadno od ruskog ostrva Gogland, a zatim je otplutao u finske vode.",
-      "The ship was attacked in international waters west of the Russian island of Gogland, and then it drifted into Finnish waters."
-     ],
-     [
-      "Finska vojska je rekla da iza napada vjerovatno stoji Ukrajina.",
-      "The Finnish army said that Ukraine is probably behind the attack."
-     ]
-    ],
-    [
-     [
-      "Brod je plovio prema Kalinjingradu, a sada je usidren u finskim vodama.",
-      "The ship was sailing towards Kaliningrad, and now it is anchored in Finnish waters."
-     ],
-     [
-      "Svih 16 članova posade napustilo je brod u čamcima za spašavanje i vraća se u Rusiju.",
-      "All 16 crew members left the ship in lifeboats and are returning to Russia."
-     ],
-     [
-      "Nije poznato šta je brod prevozio, ali vlasti ne isključuju vojni teret.",
-      "It is not known what the ship was carrying, but the authorities do not rule out military cargo."
-     ],
-     [
-      "Sjedinjene Američke Države ranije su uvele sankcije ovom brodu.",
-      "The United States earlier imposed sanctions on this ship."
-     ],
-     [
-      "Finska je privremeno ograničila saobraćaj u zraku i na moru u istočnom dijelu Finskog zaljeva.",
-      "Finland temporarily restricted air and sea traffic in the eastern part of the Gulf of Finland."
-     ]
-    ],
-    [
-     [
-      "Finski premijer Petteri Orpo napisao je da se rat prelijeva u susjedna područja.",
-      "Finnish Prime Minister Petteri Orpo wrote that the war is spilling over into neighbouring areas."
-     ],
-     [
-      "Švedski avioni pod finskom komandom pomogli su u zaštiti finskog teritorija, a Estonija je poslala brod da pomogne u gašenju požara.",
-      "Swedish planes under Finnish command helped protect Finnish territory, and Estonia sent a ship to help put out the fire."
-     ],
-     [
-      "Ruski guverner je rekao da su dva drona napala brod i da je preko noći oboreno 80 dronova iznad regije.",
-      "A Russian governor said that two drones attacked the ship and that 80 drones were shot down over the region overnight."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "teretni brod",
-     "cargo ship"
-    ],
-    [
-     "zapaliti se",
-     "to catch fire"
-    ],
-    [
-     "otplutati",
-     "to drift away"
-    ],
-    [
-     "posada",
-     "crew"
-    ],
-    [
-     "teret",
-     "cargo"
-    ],
-    [
-     "sankcije",
-     "sanctions"
-    ],
-    [
-     "saobraćaj",
-     "traffic"
-    ],
-    [
-     "zaljev",
-     "gulf"
     ]
    ]
   }
