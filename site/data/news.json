@@ -1,18 +1,840 @@
 {
- "updated": "2026-11-25T13:50:00+01:00",
+ "updated": "2026-11-25T18:44:00+01:00",
  "front": [
-  "261123101",
-  "261125097",
-  "261125016",
-  "261125109",
-  "261125086",
-  "261125094",
-  "261125078",
-  "261125059",
+  "261124180",
+  "261125162",
+  "261125134",
+  "261125178",
+  "261125169",
+  "261125173",
+  "261125087",
+  "261125171",
   "261125025",
-  "261125020"
+  "261125141"
  ],
  "articles": [
+  {
+   "id": "261125178",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/regija/cupic-sutra-raspisuje-izbore-za-predsjednika-srbije-glasanje-najkasnije-do-27-decembra/261125178",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261125178.jpg",
+   "published": "2026-11-25T17:48:00+01:00",
+   "title": [
+    "Srbija bira predsjednika najkasnije 27. decembra",
+    "Serbia elects a president by 27 December at the latest"
+   ],
+   "body": [
+    [
+     [
+      "Predsjednik Skupštine Srbije Aleksandar Čupić sutra će raspisati izbore za predsjednika Srbije.",
+      "The Speaker of the Serbian Assembly Aleksandar Čupić will call elections for the president of Serbia tomorrow."
+     ],
+     [
+      "Odluku će potpisati u 12 sati u zgradi Skupštine u Beogradu.",
+      "He will sign the decision at 12 o'clock in the Assembly building in Belgrade."
+     ],
+     [
+      "Mandat Aleksandra Vučića završio je 27. septembra.",
+      "Aleksandar Vučić's term ended on 27 September."
+     ]
+    ],
+    [
+     [
+      "Zato izbori moraju biti održani najkasnije do 27. decembra.",
+      "That is why the election must be held by 27 December at the latest."
+     ],
+     [
+      "Glasanje mora biti od 30 do 60 dana nakon što se izbori raspišu.",
+      "The vote must be 30 to 60 days after the election is called."
+     ],
+     [
+      "Svaki kandidat treba najmanje 10.000 potpisa birača.",
+      "Every candidate needs at least 10,000 voter signatures."
+     ],
+     [
+      "Kandidate mogu predložiti stranke, koalicije i grupe građana.",
+      "Candidates can be nominated by parties, coalitions and groups of citizens."
+     ]
+    ],
+    [
+     [
+      "Predsjednika biraju građani, a pobjednik u prvom krugu mora dobiti više od pola glasova.",
+      "The president is chosen by the citizens, and a winner in the first round must get more than half of the votes."
+     ],
+     [
+      "Ako niko ne uspije, dva najbolja kandidata idu u drugi krug.",
+      "If nobody succeeds, the two best candidates go to a second round."
+     ],
+     [
+      "Pobjednik će nakon toga položiti zakletvu pred Skupštinom.",
+      "After that the winner will take the oath before the Assembly."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "izbori",
+     "election"
+    ],
+    [
+     "raspisati",
+     "to call (an election)"
+    ],
+    [
+     "mandat",
+     "term of office"
+    ],
+    [
+     "glasanje",
+     "voting"
+    ],
+    [
+     "birač",
+     "voter"
+    ],
+    [
+     "potpis",
+     "signature"
+    ],
+    [
+     "krug",
+     "round"
+    ],
+    [
+     "zakletva",
+     "oath"
+    ]
+   ]
+  },
+  {
+   "id": "261125171",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/film-tv/serija-the-body-preuzela-vrh-netflixa-guarding-stars-najgledaniji-film/261125171",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261125171.jpg",
+   "published": "2026-11-25T17:46:00+01:00",
+   "title": [
+    "Serija \"The Body\" i film \"Guarding Stars\" na vrhu Netflixa",
+    "The series \"The Body\" and the film \"Guarding Stars\" at the top of Netflix"
+   ],
+   "body": [
+    [
+     [
+      "Netflix je objavio listu najgledanijih serija i filmova za sedmicu od 16. novembra.",
+      "Netflix published the list of the most-watched series and films for the week from 16 November."
+     ],
+     [
+      "Među serijama na engleskom jeziku prva je nova serija \"The Body\" s 9,5 miliona pregleda.",
+      "Among English-language series, the new series \"The Body\" is first with 9.5 million views."
+     ],
+     [
+      "Serija govori o plesnoj grupi čiji neuspjeli ritual uznemiri cijelu zajednicu.",
+      "The series is about a dance group whose failed ritual disturbs the whole community."
+     ]
+    ],
+    [
+     [
+      "Na drugom mjestu je druga sezona serije \"Black Doves\" s Keirom Knightley, sa 3,7 miliona pregleda.",
+      "In second place is the second season of the series \"Black Doves\" with Keira Knightley, with 3.7 million views."
+     ],
+     [
+      "Najgledaniji film je božićna romantična komedija \"Guarding Stars\" s 27,6 miliona pregleda.",
+      "The most-watched film is the Christmas romantic comedy \"Guarding Stars\" with 27.6 million views."
+     ],
+     [
+      "To je skoro dvaput više nego što ima film na drugom mjestu.",
+      "That is almost twice as much as the film in second place has."
+     ],
+     [
+      "Drugi je triler \"Heartland\" s Jessicom Chastain, a treći je animirani film \"Steps\".",
+      "Second is the thriller \"Heartland\" with Jessica Chastain, and third is the animated film \"Steps\"."
+     ]
+    ],
+    [
+     [
+      "Među filmovima na drugim jezicima drugu sedmicu vodi indonezijski akcijski film \"Never Surrender\".",
+      "Among films in other languages, the Indonesian action film \"Never Surrender\" leads for the second week."
+     ],
+     [
+      "Najgledanija serija na drugim jezicima je poljska drama \"The Law of Beasts\".",
+      "The most-watched series in other languages is the Polish drama \"The Law of Beasts\"."
+     ],
+     [
+      "Ta serija ima četiri epizode i zasniva se na stvarnim događajima.",
+      "That series has four episodes and is based on real events."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "serija",
+     "series"
+    ],
+    [
+     "najgledaniji",
+     "most-watched"
+    ],
+    [
+     "pregled",
+     "view"
+    ],
+    [
+     "sezona",
+     "season"
+    ],
+    [
+     "film",
+     "film"
+    ],
+    [
+     "sedmica",
+     "week"
+    ],
+    [
+     "zasnivati se",
+     "to be based on"
+    ]
+   ]
+  },
+  {
+   "id": "261125173",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/dzeko-ljut-zbog-uloge-rezerve-sve-kulminiralo-nakon-duela-sa-stuttgartom-karius-stao-u-njegovu-odbranu/261125173",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261125173.jpg",
+   "published": "2026-11-25T17:29:00+01:00",
+   "title": [
+    "Džeko nezadovoljan što na Schalkeu sjedi na klupi",
+    "Džeko unhappy that he sits on the bench at Schalke"
+   ],
+   "body": [
+    [
+     [
+      "Edin Džeko je ljut jer u Schalkeu sve češće počinje utakmice kao rezerva.",
+      "Edin Džeko is angry because at Schalke he more and more often starts games as a substitute."
+     ],
+     [
+      "U subotu je ušao u igru tek u 86. minuti utakmice protiv Stuttgarta, koja je završila 0:0.",
+      "On Saturday he came on only in the 86th minute of the game against Stuttgart, which ended 0:0."
+     ],
+     [
+      "Nakon utakmice otišao je s terena bez pozdrava navijačima.",
+      "After the game he left the pitch without greeting the fans."
+     ]
+    ],
+    [
+     [
+      "Prema listu WAZ, Džeko je prošao pored novinara i nije dao izjavu.",
+      "According to the newspaper WAZ, Džeko walked past the journalists and did not give a statement."
+     ],
+     [
+      "Na početku sezone dao je dva gola u Kupu Njemačke.",
+      "At the start of the season he scored two goals in the German Cup."
+     ],
+     [
+      "Od tada je u 11 utakmica imao samo jednu asistenciju i tri puta je bio u prvoj postavi.",
+      "Since then he has had only one assist in 11 games and was in the starting line-up three times."
+     ],
+     [
+      "Trener Miron Muslić rekao je da bira igrače prema taktici, a ne prema imenu.",
+      "Coach Miron Muslić said that he chooses players by tactics, not by name."
+     ]
+    ],
+    [
+     [
+      "Golman Loris Karius stao je u odbranu Džeke.",
+      "Goalkeeper Loris Karius stood up for Džeko."
+     ],
+     [
+      "Rekao je da su igrači emotivni i da je dobro kada žele igrati.",
+      "He said that players are emotional and that it is good when they want to play."
+     ],
+     [
+      "Schalke u subotu igra protiv Paderborna, a ako Džeko da gol, bit će najstariji strijelac u historiji Bundeslige.",
+      "Schalke play Paderborn on Saturday, and if Džeko scores, he will be the oldest goalscorer in Bundesliga history."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "ljut",
+     "angry"
+    ],
+    [
+     "rezerva",
+     "substitute"
+    ],
+    [
+     "klupa",
+     "bench"
+    ],
+    [
+     "navijač",
+     "fan, supporter"
+    ],
+    [
+     "golman",
+     "goalkeeper"
+    ],
+    [
+     "trener",
+     "coach"
+    ],
+    [
+     "strijelac",
+     "goalscorer"
+    ]
+   ]
+  },
+  {
+   "id": "261125169",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/kosarka/dzanan-musa-sa-zastitnim-naocalama-zaigrao-protiv-partizana-bit-ce-spreman-za-litvaniju/261125169",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261125169.jpg",
+   "published": "2026-11-25T17:10:00+01:00",
+   "title": [
+    "Džanan Musa igrao sa zaštitnim naočalama protiv Partizana",
+    "Džanan Musa played with protective goggles against Partizan"
+   ],
+   "body": [
+    [
+     [
+      "Bosanskohercegovački košarkaš Džanan Musa vratio se na teren u utakmici svog Dubaija protiv Partizana.",
+      "Bosnian-Herzegovinian basketball player Džanan Musa returned to the court in his team Dubai's game against Partizan."
+     ],
+     [
+      "Igrao je sa zaštitnim naočalama jer je prošle sedmice povrijedio oko.",
+      "He played with protective goggles because he injured his eye last week."
+     ]
+    ],
+    [
+     [
+      "Povreda se dogodila u Euroligi, na utakmici protiv Maccabija na Kipru.",
+      "The injury happened in the EuroLeague, in a game against Maccabi in Cyprus."
+     ],
+     [
+      "Igrač Maccabija Armando Bacot udario ga je u lice dok je išao prema košu.",
+      "Maccabi player Armando Bacot hit him in the face while he was going towards the basket."
+     ],
+     [
+      "Musa je morao izaći i do kraja utakmice nije se vratio.",
+      "Musa had to leave and did not return until the end of the game."
+     ],
+     [
+      "Sudije nisu dosudile težak prekršaj, ali je Dubai ipak pobijedio 80:74.",
+      "The referees did not call a serious foul, but Dubai still won 80:74."
+     ],
+     [
+      "Nakon 13 kola Eurolige Dubai ima devet pobjeda i četiri poraza.",
+      "After 13 rounds of the EuroLeague, Dubai has nine wins and four losses."
+     ]
+    ],
+    [
+     [
+      "Musa nije putovao s reprezentacijom BiH na Island.",
+      "Musa did not travel with the BiH national team to Iceland."
+     ],
+     [
+      "Selektor Dario Gjergja rekao je da će Musa igrati protiv Litvanije u nedjelju u Zetri.",
+      "Head coach Dario Gjergja said that Musa will play against Lithuania on Sunday in Zetra."
+     ],
+     [
+      "Ta utakmica je kvalifikacija za Svjetsko prvenstvo, a čini se da je oko dovoljno zacijelilo.",
+      "That game is a qualifier for the World Cup, and it seems the eye has healed enough."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "košarkaš",
+     "basketball player"
+    ],
+    [
+     "naočale",
+     "glasses, goggles"
+    ],
+    [
+     "povrijediti",
+     "to injure"
+    ],
+    [
+     "povreda",
+     "injury"
+    ],
+    [
+     "prekršaj",
+     "foul"
+    ],
+    [
+     "reprezentacija",
+     "national team"
+    ],
+    [
+     "selektor",
+     "national team coach"
+    ]
+   ]
+  },
+  {
+   "id": "261124180",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/kako-su-novine-u-prvom-svjetskom-ratu-pisale-o-hrabrosti-bosnjaka-gdje-oni-dodu-tu-prolaza-nema/261124180",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261124180.jpg",
+   "published": "2026-11-25T17:05:00+01:00",
+   "title": [
+    "Stare novine pisale o hrabrim vojnicima iz BiH",
+    "Old newspapers wrote about brave soldiers from BiH"
+   ],
+   "body": [
+    [
+     [
+      "Klix.ba je objavio tekst o tome kako su novine u Prvom svjetskom ratu pisale o vojnicima iz Bosne i Hercegovine.",
+      "Klix.ba published a text about how newspapers in the First World War wrote about soldiers from Bosnia and Herzegovina."
+     ],
+     [
+      "Tekst se zasniva na dvjema sarajevskim novinama na njemačkom jeziku iz tog vremena.",
+      "The text is based on two Sarajevo newspapers in German from that time."
+     ],
+     [
+      "Stare stranice čuva Nacionalna i univerzitetska biblioteka BiH.",
+      "The old pages are kept by the National and University Library of BiH."
+     ]
+    ],
+    [
+     [
+      "Od 1914. do 1918. godine oficiri i novinari često su hvalili hrabrost tih vojnika.",
+      "From 1914 to 1918, officers and journalists often praised the courage of those soldiers."
+     ],
+     [
+      "Novine su ih zvale Bošnjacima, bez obzira na to koje su vjere bili.",
+      "The newspapers called them Bosniaks, regardless of their religion."
+     ],
+     [
+      "Jedan oficir je 1916. godine pisao ocu da su vojnici iz Bosne izdržali 16 sati artiljerijske vatre.",
+      "In 1916 one officer wrote to his father that the soldiers from Bosnia had endured 16 hours of artillery fire."
+     ],
+     [
+      "Kaplar Huso Zmiro je u decembru 1917. godine u Italiji zarobio jednog majora i njegove ljude.",
+      "In December 1917, Corporal Huso Zmiro captured a major and his men in Italy."
+     ],
+     [
+      "Do decembra 1916. jedan puk iz Tuzle dobio je više od 2.000 odlikovanja za vojnike.",
+      "By December 1916, one regiment from Tuzla had received more than 2,000 decorations for soldiers."
+     ]
+    ],
+    [
+     [
+      "Vojnici su na front nosili i gusle, tradicionalni instrument s jednom žicom.",
+      "The soldiers also carried the gusle, a traditional instrument with one string, to the front."
+     ],
+     [
+      "Uz gusle su pjevali o mjestima gdje su se borili i o svojim komandantima.",
+      "With the gusle they sang about the places where they fought and about their commanders."
+     ],
+     [
+      "Autor teksta je naveo da je vojna cenzura tada često skrivala imena mjesta i ljudi.",
+      "The author of the text noted that military censorship at that time often hid the names of places and people."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "hrabrost",
+     "courage"
+    ],
+    [
+     "vojnik",
+     "soldier"
+    ],
+    [
+     "novine",
+     "newspaper"
+    ],
+    [
+     "rat",
+     "war"
+    ],
+    [
+     "odlikovanje",
+     "decoration, medal"
+    ],
+    [
+     "oficir",
+     "officer"
+    ],
+    [
+     "zarobiti",
+     "to capture"
+    ]
+   ]
+  },
+  {
+   "id": "261125134",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/izraelski-ministar-palestince-nazvao-neukim-jahacima-deva-a-od-11-doktora-nauka-u-knessetu-devet-su-palestinci/261125134",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261125134.jpg",
+   "published": "2026-11-25T16:56:00+01:00",
+   "title": [
+    "Izraelski ministar uvrijedio Palestince u Knessetu",
+    "Israeli minister insulted Palestinians in the Knesset"
+   ],
+   "body": [
+    [
+     [
+      "Izraelski ministar Amichai Eliyahu uvrijedio je Palestince i muslimane u govoru u Knessetu, izraelskom parlamentu.",
+      "Israeli minister Amichai Eliyahu insulted Palestinians and Muslims in a speech in the Knesset, the Israeli parliament."
+     ],
+     [
+      "Tokom rasprave o kriminalu nazvao ih je neukim jahačima deva i barbarima.",
+      "During a debate on crime he called them ignorant camel riders and barbarians."
+     ],
+     [
+      "Rekao je i da palestinskim zastupnicima treba obrazovanje.",
+      "He also said that Palestinian members of parliament need education."
+     ]
+    ],
+    [
+     [
+      "Međutim, prema portalu Ynet, od 11 zastupnika s doktoratom čak 9 su Palestinci.",
+      "However, according to the Ynet portal, of the 11 members with a doctorate as many as 9 are Palestinians."
+     ],
+     [
+      "Eliyahu je poznat po ranijim izjavama koje su izazvale skandal.",
+      "Eliyahu is known for earlier statements that caused a scandal."
+     ],
+     [
+      "Kriminal u palestinskoj zajednici u Izraelu je posljednjih godina mnogo porastao.",
+      "Crime in the Palestinian community in Israel has risen a lot in recent years."
+     ],
+     [
+      "Prema listu Haaretz, od početka 2026. godine ubijeno je 204 Palestinca.",
+      "According to the newspaper Haaretz, 204 Palestinians have been killed since the start of 2026."
+     ]
+    ],
+    [
+     [
+      "Palestinske stranke su na izborima prošlog mjeseca osvojile 19 mjesta, više nego ikada.",
+      "Palestinian parties won 19 seats in last month's election, more than ever."
+     ],
+     [
+      "Lider Zajedničke liste Yousef Jabareen rekao je da su napadi na Palestince sve češći.",
+      "Joint List leader Yousef Jabareen said that attacks on Palestinians are becoming more frequent."
+     ],
+     [
+      "Za to je optužio premijera Benjamina Netanyahua.",
+      "He blamed Prime Minister Benjamin Netanyahu for this."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "uvrijediti",
+     "to insult"
+    ],
+    [
+     "govor",
+     "speech"
+    ],
+    [
+     "zastupnik",
+     "member of parliament"
+    ],
+    [
+     "rasprava",
+     "debate"
+    ],
+    [
+     "doktorat",
+     "doctorate"
+    ],
+    [
+     "stranka",
+     "political party"
+    ],
+    [
+     "optužiti",
+     "to accuse"
+    ]
+   ]
+  },
+  {
+   "id": "261125162",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/nikolina-sljivic-iznijela-detaljnu-odbranu-negirala-da-je-pomagala-zdrali-i-da-je-dio-kriminalne-grupe/261125162",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261125162.jpg",
+   "published": "2026-11-25T16:42:00+01:00",
+   "title": [
+    "Nikolina Šljivić negira da je pomagala Đorđu Ždrali",
+    "Nikolina Šljivić denies that she helped Đorđe Ždrale"
+   ],
+   "body": [
+    [
+     [
+      "Bivša zastupnica u Narodnoj skupštini RS-a Nikolina Šljivić iznijela je odbranu u Tužilaštvu u Banjoj Luci.",
+      "Former member of the RS National Assembly Nikolina Šljivić presented her defence at the prosecutor's office in Banja Luka."
+     ],
+     [
+      "Ona je negirala da je dio kriminalne grupe i da je pomagala Đorđu Ždrali.",
+      "She denied that she is part of a criminal group and that she helped Đorđe Ždrale."
+     ],
+     [
+      "To je rekao njen advokat Miljkan Pucar.",
+      "This was said by her lawyer Miljkan Pucar."
+     ]
+    ],
+    [
+     [
+      "Šljivić je uhapšena u utorak u akciji koju su vodili MUP RS-a i SIPA.",
+      "Šljivić was arrested on Tuesday in an operation led by the RS Interior Ministry and SIPA."
+     ],
+     [
+      "U istoj akciji uhapšeni su i Naser Orić, Mesud i Mustafa Mustafić te advokat Siniša Derganc.",
+      "In the same operation Naser Orić, Mesud and Mustafa Mustafić and lawyer Siniša Derganc were also arrested."
+     ],
+     [
+      "Sumnja se da su pomagali Ždrali da se sakrije, a on se tereti za pokušaj ubistva.",
+      "They are suspected of helping Ždrale hide, and he is charged with attempted murder."
+     ],
+     [
+      "Tužilaštvo sumnja da je Orić jednom svjedoku dao 100.000 KM da promijeni izjavu.",
+      "The prosecutors suspect that Orić gave a witness 100,000 KM to change his statement."
+     ],
+     [
+      "Policija je u pretresima pronašla osam pištolja, 30.000 KM i 10.000 eura.",
+      "In the searches the police found eight pistols, 30,000 KM and 10,000 euros."
+     ]
+    ],
+    [
+     [
+      "Prije ispitivanja Šljivić se osjećala loše, pa je odvezena u bolnicu.",
+      "Before the questioning Šljivić felt unwell, so she was taken to hospital."
+     ],
+     [
+      "Odluka o pritvoru bit će poznata kada budu ispitani svi uhapšeni.",
+      "The decision on detention will be known when all the arrested people have been questioned."
+     ],
+     [
+      "Policija još traži Ždralu.",
+      "The police are still looking for Ždrale."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "odbrana",
+     "defence"
+    ],
+    [
+     "negirati",
+     "to deny"
+    ],
+    [
+     "uhapsiti",
+     "to arrest"
+    ],
+    [
+     "tužilaštvo",
+     "prosecutor's office"
+    ],
+    [
+     "pritvor",
+     "detention, custody"
+    ],
+    [
+     "advokat",
+     "lawyer"
+    ],
+    [
+     "sakriti se",
+     "to hide"
+    ]
+   ]
+  },
+  {
+   "id": "261125141",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/lifestyle/fitness/sarajevo-ce-u-junu-2027-godine-biti-domacin-evropskog-prvenstva-u-plesu-okupit-ce-se-preko-4000-plesaca/261125141",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261125141.jpg",
+   "published": "2026-11-25T15:23:00+01:00",
+   "title": [
+    "Sarajevo domaćin Evropskog prvenstva u plesu 2027. godine",
+    "Sarajevo to host the European dance championship in 2027"
+   ],
+   "body": [
+    [
+     [
+      "Sarajevo će u junu 2027. godine biti domaćin Evropskog prvenstva u uličnom plesu.",
+      "In June 2027 Sarajevo will host the European Street Dance Championship."
+     ],
+     [
+      "Takmičenje organizuje Međunarodna plesna organizacija, poznata kao IDO.",
+      "The competition is organised by the International Dance Organization, known as IDO."
+     ],
+     [
+      "Bosna i Hercegovina prvi put dobija takmičenje ove veličine.",
+      "Bosnia and Herzegovina is getting a competition of this size for the first time."
+     ]
+    ],
+    [
+     [
+      "U Sarajevo bi trebalo doći više od 4.000 plesača iz preko 30 evropskih zemalja.",
+      "More than 4,000 dancers from over 30 European countries should come to Sarajevo."
+     ],
+     [
+      "Uz njih će doći treneri, međunarodne sudije i ljubitelji plesa.",
+      "Along with them, coaches, international judges and dance lovers will come."
+     ],
+     [
+      "Prvenstvo pripremaju Savez modernih plesova u BiH i plesni centar Just Dance.",
+      "The championship is being prepared by the Association of Modern Dances in BiH and the dance centre Just Dance."
+     ],
+     [
+      "Organizatori kažu da pripreme traju već mjesecima.",
+      "The organisers say that the preparations have been going on for months."
+     ]
+    ],
+    [
+     [
+      "Oni smatraju da je ovo priznanje za dugogodišnji rad plesača u BiH.",
+      "They believe this is recognition for many years of work by dancers in BiH."
+     ],
+     [
+      "Prvenstvo bi trebalo pomoći mladima i razvoju sportskog turizma.",
+      "The championship should help young people and the development of sports tourism."
+     ],
+     [
+      "Organizatori podsjećaju i na Zimske olimpijske igre, kada je Sarajevo već pokazalo da može organizovati velike događaje.",
+      "The organisers also recall the Winter Olympic Games, when Sarajevo already showed that it can organise big events."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "prvenstvo",
+     "championship"
+    ],
+    [
+     "domaćin",
+     "host"
+    ],
+    [
+     "ples",
+     "dance"
+    ],
+    [
+     "plesač",
+     "dancer"
+    ],
+    [
+     "takmičenje",
+     "competition"
+    ],
+    [
+     "priprema",
+     "preparation"
+    ],
+    [
+     "priznanje",
+     "recognition"
+    ]
+   ]
+  },
+  {
+   "id": "261125087",
+   "source": "Klix.ba",
+   "section": "Vrijeme",
+   "url": "https://www.klix.ba/vijesti/bih/opcina-jablanica-upozorila-stanovnike-na-moguce-poplave-strah-od-bujica-u-naredna-dva-dana/261125087",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261125087.jpg",
+   "published": "2026-11-25T15:09:00+01:00",
+   "title": [
+    "Jablanica upozorava stanovnike na moguće poplave",
+    "Jablanica warns residents of possible floods"
+   ],
+   "body": [
+    [
+     [
+      "Općina Jablanica upozorila je stanovnike da u naredna dva dana može doći do poplava.",
+      "The Municipality of Jablanica warned residents that floods may occur in the next two days."
+     ],
+     [
+      "Upozorenje se odnosi na područje oko rijeke Neretve, posebno na njen srednji i donji tok.",
+      "The warning refers to the area around the Neretva river, especially its middle and lower course."
+     ],
+     [
+      "Općina se oslanja na obavijest Federalnog hidrometeorološkog zavoda.",
+      "The municipality relies on a notice from the Federal Hydrometeorological Institute."
+     ]
+    ],
+    [
+     [
+      "Kiša se očekuje od 26. novembra, a najveći vodeni val 26. i 27. novembra.",
+      "Rain is expected from 26 November, and the biggest water wave on 26 and 27 November."
+     ],
+     [
+      "Za srijedu je izdato narandžasto upozorenje za jaku kišu u Hercegovini te istočnoj i jugoistočnoj Bosni.",
+      "An orange warning for heavy rain has been issued for Wednesday in Herzegovina and eastern and southeastern Bosnia."
+     ],
+     [
+      "Moglo bi pasti od 30 do 60 litara kiše po metru kvadratnom, a negdje i do 80 litara.",
+      "From 30 to 60 litres of rain per square metre could fall, and in some places up to 80 litres."
+     ],
+     [
+      "Mali potoci bi se mogli izliti i stvoriti bujice, odnosno brze i opasne tokove vode.",
+      "Small streams could overflow and create torrents, that is, fast and dangerous flows of water."
+     ]
+    ],
+    [
+     [
+      "Agencija za vodno područje Jadranskog mora najavila je vanrednu situaciju na rijekama od 26. do 28. novembra.",
+      "The Agency for the Adriatic Sea Water Area announced an extraordinary situation on rivers from 26 to 28 November."
+     ],
+     [
+      "Nivo vode u rijekama bi mogao brzo rasti, a moguće su i poplave u gradovima.",
+      "The water level in rivers could rise quickly, and floods in towns are also possible."
+     ],
+     [
+      "Službe civilne zaštite trebaju upozoriti ljude koji žive uz rijeke da se drže dalje od obala.",
+      "Civil protection services should warn people who live along rivers to stay away from the banks."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "poplava",
+     "flood"
+    ],
+    [
+     "upozoriti",
+     "to warn"
+    ],
+    [
+     "kiša",
+     "rain"
+    ],
+    [
+     "rijeka",
+     "river"
+    ],
+    [
+     "bujica",
+     "torrent, flash flood"
+    ],
+    [
+     "obala",
+     "bank, shore"
+    ],
+    [
+     "nivo",
+     "level"
+    ]
+   ]
+  },
   {
    "id": "261125097",
    "source": "Klix.ba",
@@ -4776,864 +5598,6 @@
     [
      "svađati se",
      "to argue"
-    ]
-   ]
-  },
-  {
-   "id": "261123227",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/tehnologija/kina-spremna-za-lansiranje-shenzhou-24-na-stanicu-vodi-prvog-stranca/261123227",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261123227.jpg",
-   "published": "2026-11-23T16:09:00+01:00",
-   "title": [
-    "Kina spremna za let koji vodi prvog stranca na svoju stanicu",
-    "China ready for a flight taking the first foreigner to its station"
-   ],
-   "body": [
-    [
-     [
-      "Kina je završila pripreme za lansiranje svemirske letjelice Shenzhou-24.",
-      "China has finished preparations for the launch of the Shenzhou-24 spacecraft."
-     ],
-     [
-      "Prema kineskoj televiziji CCTV, spremna je i svemirska stanica Tiangong.",
-      "According to Chinese television CCTV, the Tiangong space station is also ready."
-     ],
-     [
-      "Na ovaj let ide i prvi strani astronaut, koji dolazi iz Pakistana.",
-      "The first foreign astronaut, who comes from Pakistan, is also going on this flight."
-     ]
-    ],
-    [
-     [
-      "Letjelica i raketa prošle sedmice su prebačene na lansirno mjesto u centru Jiuquan na sjeverozapadu Kine.",
-      "The spacecraft and rocket were moved last week to the launch site at the Jiuquan centre in north-west China."
-     ],
-     [
-      "U subotu je održana generalna proba svih sistema, ali datum lansiranja još nije objavljen.",
-      "A full rehearsal of all systems was held on Saturday, but the launch date has not been announced yet."
-     ],
-     [
-      "Pakistanski astronaut će kratko ostati u orbiti i vratit će se na Zemlju letjelicom Shenzhou-23.",
-      "The Pakistani astronaut will stay in orbit for a short time and will return to Earth on the Shenzhou-23 spacecraft."
-     ],
-     [
-      "To će biti prvi zajednički let kineskih i stranih astronauta u kineskom programu.",
-      "It will be the first joint flight of Chinese and foreign astronauts in the Chinese programme."
-     ]
-    ],
-    [
-     [
-      "Posada koja je sada na stanici pripremila je prostor, zalihe i mjesta za spavanje.",
-      "The crew now on the station prepared the space, supplies and sleeping places."
-     ],
-     [
-      "Sistem za održavanje života podešen je tako da na stanici istovremeno može biti 6 ljudi.",
-      "The life-support system was adjusted so that 6 people can be on the station at the same time."
-     ],
-     [
-      "Nakon lansiranja, letjelica će se spojiti s glavnim modulom stanice.",
-      "After the launch, the spacecraft will dock with the station's main module."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "lansiranje",
-     "launch"
-    ],
-    [
-     "letjelica",
-     "spacecraft"
-    ],
-    [
-     "svemirska stanica",
-     "space station"
-    ],
-    [
-     "stranac",
-     "foreigner"
-    ],
-    [
-     "proba",
-     "rehearsal, test"
-    ],
-    [
-     "posada",
-     "crew"
-    ],
-    [
-     "zalihe",
-     "supplies"
-    ]
-   ]
-  },
-  {
-   "id": "261123219",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/showbiz/martina-stjepanovic-meter-o-majcinoj-podrsci-nakon-poroda-vazno-je-da-te-neko-razumije-i-primijeti/261123219",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261123219.jpg",
-   "published": "2026-11-23T16:00:00+01:00",
-   "title": [
-    "Glumica Martina Stjepanović Meter o majčinoj pomoći nakon poroda",
-    "Actress Martina Stjepanović Meter on her mother's help after giving birth"
-   ],
-   "body": [
-    [
-     [
-      "Hrvatska glumica Martina Stjepanović Meter govorila je o majčinstvu i odnosu sa svojim roditeljima.",
-      "Croatian actress Martina Stjepanović Meter spoke about motherhood and her relationship with her parents."
-     ],
-     [
-      "Bila je gošća u novoj epizodi podcasta \"Nema labavo\".",
-      "She was a guest in a new episode of the podcast \"Nema labavo\"."
-     ],
-     [
-      "Rekla je da joj je majka mnogo pomogla nakon poroda.",
-      "She said her mother helped her a lot after giving birth."
-     ]
-    ],
-    [
-     [
-      "Majka je prve dvije sedmice bila s njom i pomagala joj da se navikne na novu ulogu.",
-      "For the first two weeks her mother was with her and helped her get used to the new role."
-     ],
-     [
-      "Kuhala je domaća jela, pomagala u kući i pazila kako se Martina osjeća.",
-      "She cooked home-made meals, helped around the house and watched how Martina was feeling."
-     ],
-     [
-      "Glumica kaže da je najvažnije bilo to što je mogla biti blizu svoje bebe.",
-      "The actress says the most important thing was that she could be close to her baby."
-     ],
-     [
-      "\"I mami treba mama\", rekla je Martina.",
-      "\"Even a mum needs a mum\", Martina said."
-     ]
-    ],
-    [
-     [
-      "Kaže da joj je emocionalna podrška značila više od praktične pomoći, jer je važno da te neko razumije i primijeti.",
-      "She says emotional support meant more to her than practical help, because it is important that someone understands and notices you."
-     ],
-     [
-      "Kada je postala majka, bolje je razumjela ljubav svojih roditelja.",
-      "When she became a mother, she understood her parents' love better."
-     ],
-     [
-      "Sjeća se da je kao tinejdžerka mislila da je roditelji ne razumiju i da je lupala vratima.",
-      "She remembers that as a teenager she thought her parents did not understand her and that she slammed doors."
-     ],
-     [
-      "Danas vidi da je njihova ljubav bila bezuslovna i jaka.",
-      "Today she sees that their love was unconditional and strong."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "glumica",
-     "actress"
-    ],
-    [
-     "porod",
-     "childbirth"
-    ],
-    [
-     "majčinstvo",
-     "motherhood"
-    ],
-    [
-     "podrška",
-     "support"
-    ],
-    [
-     "navići se",
-     "to get used to"
-    ],
-    [
-     "ljubav",
-     "love"
-    ],
-    [
-     "bezuslovan",
-     "unconditional"
-    ]
-   ]
-  },
-  {
-   "id": "261123211",
-   "source": "Klix.ba",
-   "section": "Zdravlje",
-   "url": "https://www.klix.ba/lifestyle/zdravlje/duge-i-jutarnje-dremke-kod-starijih-povezane-s-vecim-rizikom-od-smrti/261123211",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261123211.jpg",
-   "published": "2026-11-23T15:40:00+01:00",
-   "title": [
-    "Duge jutarnje dremke kod starijih povezane s većim rizikom",
-    "Long morning naps in older people linked to higher risk"
-   ],
-   "body": [
-    [
-     [
-      "Novo američko istraživanje pokazuje da stariji ljudi koji duže i češće drijemaju imaju veći rizik od smrti.",
-      "A new American study shows that older people who nap longer and more often have a higher risk of death."
-     ],
-     [
-      "Naučnici su pratili 1.338 osoba i do 19 godina.",
-      "The scientists followed 1,338 people for up to 19 years."
-     ],
-     [
-      "Studija je objavljena u časopisu JAMA Network Open.",
-      "The study was published in the journal JAMA Network Open."
-     ]
-    ],
-    [
-     [
-      "Učesnici su od 2005. godine 10 dana nosili uređaj na ruci koji je bilježio san i kretanje.",
-      "From 2005 the participants wore a device on their wrist for 10 days that recorded sleep and movement."
-     ],
-     [
-      "Svaki dodatni sat dremanja dnevno bio je povezan s oko 13 posto većim rizikom.",
-      "Every extra hour of napping a day was linked to about 13 percent higher risk."
-     ],
-     [
-      "Svaka dodatna dremka povećavala je rizik za oko 7 posto.",
-      "Every extra nap increased the risk by about 7 percent."
-     ],
-     [
-      "Ljudi koji su drijemali ujutro imali su 30 posto veći rizik od onih koji su spavali rano poslijepodne.",
-      "People who napped in the morning had 30 percent higher risk than those who slept in the early afternoon."
-     ]
-    ],
-    [
-     [
-      "Autorica studije Chenlu Gao rekla je da istraživanje pokazuje vezu, a ne uzrok.",
-      "The study's author Chenlu Gao said the research shows a link, not a cause."
-     ],
-     [
-      "Naučnici kažu da sama dremka ne šteti zdravlju.",
-      "The scientists say a nap by itself does not harm health."
-     ],
-     [
-      "Ipak, mnogo dremanja može biti znak bolesti ili problema sa snom koje još niko nije otkrio.",
-      "Still, a lot of napping can be a sign of illness or sleep problems that no one has discovered yet."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "dremka",
-     "nap"
-    ],
-    [
-     "drijemati",
-     "to nap, to doze"
-    ],
-    [
-     "rizik",
-     "risk"
-    ],
-    [
-     "istraživanje",
-     "research, study"
-    ],
-    [
-     "uređaj",
-     "device"
-    ],
-    [
-     "uzrok",
-     "cause"
-    ],
-    [
-     "bolest",
-     "illness"
-    ]
-   ]
-  },
-  {
-   "id": "261123166",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/nauka/astronomi-otkrili-sistem-tri-zvijezde-28-svjetlosnih-godina-od-zemlje-ne-bi-trebao-postojati/261123166",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261123166.jpg",
-   "published": "2026-11-23T14:10:00+01:00",
-   "title": [
-    "Astronomi otkrili neobičan sistem od tri zvijezde",
-    "Astronomers discover an unusual system of three stars"
-   ],
-   "body": [
-    [
-     [
-      "Astronomi s Univerziteta u Montrealu otkrili su sistem od tri zvijezde, koji je od Zemlje udaljen 28 svjetlosnih godina.",
-      "Astronomers from the University of Montreal have discovered a system of three stars which is 28 light years away from Earth."
-     ],
-     [
-      "Sistem se zove Welopo'ai, a čine ga jedan crveni patuljak i dva bijela patuljka.",
-      "The system is called Welopo'ai, and it is made up of one red dwarf and two white dwarfs."
-     ],
-     [
-      "Bijeli patuljak je ostatak zvijezde koja je umrla.",
-      "A white dwarf is the remains of a star that has died."
-     ]
-    ],
-    [
-     [
-      "Naučnici su tražili planete oko crvenog patuljka teleskopom na Havajima.",
-      "The scientists were looking for planets around the red dwarf with a telescope in Hawaii."
-     ],
-     [
-      "Primijetili su da se brzina zvijezde mijenja mnogo više nego što su očekivali.",
-      "They noticed that the star's speed was changing much more than they had expected."
-     ],
-     [
-      "Tako su otkrili nevidljivog pratioca, koji ima 62 posto mase Sunca.",
-      "That is how they discovered an invisible companion, which has 62 percent of the Sun's mass."
-     ],
-     [
-      "Crveni patuljak obiđe oko njega za otprilike 10 godina.",
-      "The red dwarf goes around it in roughly 10 years."
-     ]
-    ],
-    [
-     [
-      "Taj bijeli patuljak je nekada bio velika zvijezda, koja bi obično progutala manju zvijezdu pored sebe.",
-      "That white dwarf was once a big star, which would usually swallow the smaller star next to it."
-     ],
-     [
-      "Zato je jedan od autora rekao da ovaj sistem ne bi trebao postojati.",
-      "That is why one of the authors said that this system should not exist."
-     ],
-     [
-      "Naučnici još ne znaju kako je nastao, pa će ga dalje proučavati.",
-      "The scientists do not yet know how it formed, so they will study it further."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "zvijezda",
-     "star"
-    ],
-    [
-     "astronom",
-     "astronomer"
-    ],
-    [
-     "patuljak",
-     "dwarf"
-    ],
-    [
-     "masa",
-     "mass"
-    ],
-    [
-     "naučnik",
-     "scientist"
-    ],
-    [
-     "otkriti",
-     "to discover"
-    ],
-    [
-     "udaljen",
-     "distant, away"
-    ],
-    [
-     "proučavati",
-     "to study"
-    ]
-   ]
-  },
-  {
-   "id": "261123153",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/lifestyle/ljubimci/naucnici-mjerili-srecu-u-93-drzave-gdje-ima-vise-macaka-ljudi-su-zadovoljniji-zivotom/261123153",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261123153.jpg",
-   "published": "2026-11-23T13:39:00+01:00",
-   "title": [
-    "Istraživanje: u zemljama s više mačaka ljudi su sretniji",
-    "Study: people are happier in countries with more cats"
-   ],
-   "body": [
-    [
-     [
-      "Naučnici su u 93 države uporedili koliko su ljudi sretni i koliko ima mačaka.",
-      "Scientists compared in 93 countries how happy people are and how many cats there are."
-     ],
-     [
-      "Istraživanje je vodio Dario Maestripieri s Univerziteta u Chicagu.",
-      "The study was led by Dario Maestripieri of the University of Chicago."
-     ],
-     [
-      "Rezultati su objavljeni u naučnom časopisu PLOS ONE.",
-      "The results were published in the scientific journal PLOS ONE."
-     ]
-    ],
-    [
-     [
-      "Podaci o sreći dolaze iz anketa agencije Gallup od 2022. do 2024. godine.",
-      "The data on happiness come from Gallup surveys from 2022 to 2024."
-     ],
-     [
-      "U zemljama s više mačaka ljudi su u prosjeku bili zadovoljniji životom.",
-      "In countries with more cats people were on average more satisfied with life."
-     ],
-     [
-      "Ipak, bogatstvo zemlje i prihodi bili su još jače povezani sa srećom.",
-      "However, the wealth of a country and incomes were even more strongly linked to happiness."
-     ],
-     [
-      "Naučnici su gledali i parazit toksoplazmu, koji živi u crijevima mačaka.",
-      "The scientists also looked at the parasite toxoplasma, which lives in the intestines of cats."
-     ],
-     [
-      "Gdje je više ljudi nedavno zaraženo tim parazitom, ljudi su bili manje sretni.",
-      "Where more people had recently been infected with that parasite, people were less happy."
-     ]
-    ],
-    [
-     [
-      "U bogatijim zemljama mačke češće žive u kući i redovno se vakcinišu.",
-      "In richer countries cats more often live indoors and are regularly vaccinated."
-     ],
-     [
-      "Autori upozoravaju da podaci ne razlikuju kućne mačke od onih koje žive na ulici.",
-      "The authors warn that the data do not distinguish pet cats from those that live on the street."
-     ],
-     [
-      "Rekli su da ne mogu tvrditi da mačke ljude čine sretnijim, ali da tu vezu treba dalje istraživati.",
-      "They said they cannot claim that cats make people happier, but that the link should be researched further."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "mačka",
-     "cat"
-    ],
-    [
-     "sreća",
-     "happiness"
-    ],
-    [
-     "sretan",
-     "happy"
-    ],
-    [
-     "zadovoljan",
-     "satisfied"
-    ],
-    [
-     "anketa",
-     "survey"
-    ],
-    [
-     "parazit",
-     "parasite"
-    ],
-    [
-     "bogatstvo",
-     "wealth"
-    ],
-    [
-     "prihod",
-     "income"
-    ]
-   ]
-  },
-  {
-   "id": "261123146",
-   "source": "Klix.ba",
-   "section": "Biznis",
-   "url": "https://www.klix.ba/biznis/ekonomija/elektroprivreda-bih-trazi-prevoz-uglja-zeljeznicom-za-286-miliona-km/261123146",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261123146.jpg",
-   "published": "2026-11-23T13:29:00+01:00",
-   "title": [
-    "Elektroprivreda BiH traži prevoz uglja vozom za 2027. godinu",
-    "Elektroprivreda BiH seeks rail transport of coal for 2027"
-   ],
-   "body": [
-    [
-     [
-      "Elektroprivreda BiH traži firmu koja će 2027. godine vozom prevoziti ugalj.",
-      "Elektroprivreda BiH is looking for a company that will transport coal by train in 2027."
-     ],
-     [
-      "Ugalj treba stizati u termoelektrane u Tuzli i Kaknju, koje od njega proizvode struju.",
-      "The coal is to arrive at the thermal power plants in Tuzla and Kakanj, which produce electricity from it."
-     ],
-     [
-      "Obavještenje je objavljeno danas, a vrijednost posla je 28,6 miliona KM s PDV-om.",
-      "The notice was published today, and the value of the job is 28.6 million KM including VAT."
-     ]
-    ],
-    [
-     [
-      "Prevoz će trajati od 1. januara do 31. decembra 2027. godine.",
-      "The transport will last from 1 January to 31 December 2027."
-     ],
-     [
-      "Koliko uglja treba prevesti, u obavještenju nije navedeno.",
-      "How much coal needs to be transported is not stated in the notice."
-     ],
-     [
-      "Posao nije otvoren za javni poziv, a pobijedit će najjeftinija ponuda.",
-      "The job is not open to a public call, and the cheapest bid will win."
-     ],
-     [
-      "Firme se mogu prijaviti do 4. decembra u 10 sati.",
-      "Companies can apply until 4 December at 10 o'clock."
-     ]
-    ],
-    [
-     [
-      "Ovaj posao je za 2026. godinu dobila firma JP Željeznice FBiH, koja je bila jedini ponuđač.",
-      "This job for 2026 was won by the company JP Željeznice FBiH, which was the only bidder."
-     ],
-     [
-      "Taj ugovor je bio vrijedan 28,8 miliona KM s PDV-om.",
-      "That contract was worth 28.8 million KM including VAT."
-     ],
-     [
-      "Prije nekoliko dana Elektroprivreda je pokrenula i nabavku samog uglja za 2027. godinu.",
-      "A few days ago Elektroprivreda also launched the purchase of the coal itself for 2027."
-     ],
-     [
-      "Vrijednost te nabavke je 121,7 miliona KM s PDV-om.",
-      "The value of that purchase is 121.7 million KM including VAT."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "ugalj",
-     "coal"
-    ],
-    [
-     "prevoz",
-     "transport"
-    ],
-    [
-     "željeznica",
-     "railway"
-    ],
-    [
-     "termoelektrana",
-     "thermal power plant"
-    ],
-    [
-     "ponuda",
-     "bid, offer"
-    ],
-    [
-     "ugovor",
-     "contract"
-    ],
-    [
-     "nabavka",
-     "purchase, procurement"
-    ],
-    [
-     "struja",
-     "electricity"
-    ]
-   ]
-  },
-  {
-   "id": "261123072",
-   "source": "Klix.ba",
-   "section": "Biznis",
-   "url": "https://www.klix.ba/biznis/nekretnine/novi-stanovi-u-rs-u-poskupili-88-posto-za-45-kvadrata-u-trebinju-potrebno-od-190-do-200000-km/261123072",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261123072.jpg",
-   "published": "2026-11-23T13:05:00+01:00",
-   "title": [
-    "Novi stanovi u Republici Srpskoj poskupili 8,8 posto",
-    "New apartments in Republika Srpska 8.8 percent more expensive"
-   ],
-   "body": [
-    [
-     [
-      "Cijene novih stanova u Republici Srpskoj nastavljaju rasti.",
-      "Prices of new apartments in Republika Srpska continue to rise."
-     ],
-     [
-      "Od jula do septembra kvadratni metar koštao je u prosjeku 3.103 KM.",
-      "From July to September a square metre cost 3,103 KM on average."
-     ],
-     [
-      "To je 8,8 posto više nego u istom periodu prošle godine, javio je Republički zavod za statistiku.",
-      "That is 8.8 percent more than in the same period last year, the Republic Statistics Office reported."
-     ]
-    ],
-    [
-     [
-      "U ta tri mjeseca prodan je 921 novi stan, a ukupna vrijednost bila je oko 151,7 miliona KM.",
-      "In those three months 921 new apartments were sold, and the total value was about 151.7 million KM."
-     ],
-     [
-      "Najviše stanova prodano je u Banjoj Luci, njih 367, po prosječnoj cijeni od 3.887 KM.",
-      "The most apartments were sold in Banja Luka, 367 of them, at an average price of 3,887 KM."
-     ],
-     [
-      "U centru grada kvadrat može koštati od 6.000 do 8.000 KM.",
-      "In the city centre a square metre can cost from 6,000 to 8,000 KM."
-     ],
-     [
-      "Najskuplji su stanovi u Trebinju, gdje je prosjek 4.389 KM po kvadratu.",
-      "The most expensive apartments are in Trebinje, where the average is 4,389 KM per square metre."
-     ],
-     [
-      "Bijeljina je druga po prodaji, sa 213 stanova.",
-      "Bijeljina is second in sales, with 213 apartments."
-     ]
-    ],
-    [
-     [
-      "Od cijene jednog kvadrata, 1.802 KM otpada na gradnju i zaradu izvođača.",
-      "Of the price of one square metre, 1,802 KM goes to construction and the builder's profit."
-     ],
-     [
-      "Agent za nekretnine Mirko Stanković rekao je za RTRS da stan od 45 kvadrata u Trebinju košta od 190.000 do 200.000 KM.",
-      "Real estate agent Mirko Stanković told RTRS that a 45-square-metre apartment in Trebinje costs from 190,000 to 200,000 KM."
-     ],
-     [
-      "Cijena zavisi od lokacije, kvaliteta gradnje i investitora.",
-      "The price depends on the location, the quality of construction and the developer."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "stan",
-     "apartment, flat"
-    ],
-    [
-     "poskupiti",
-     "to become more expensive"
-    ],
-    [
-     "kvadratni metar",
-     "square metre"
-    ],
-    [
-     "prosjek",
-     "average"
-    ],
-    [
-     "prodati",
-     "to sell"
-    ],
-    [
-     "gradnja",
-     "construction"
-    ],
-    [
-     "nekretnina",
-     "real estate, property"
-    ],
-    [
-     "investitor",
-     "investor, developer"
-    ]
-   ]
-  },
-  {
-   "id": "261123142",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/u-rukovodstvu-alic-dzeba-i-saradzic-konstituisana-skupstina-hnk-ovo-je-spisak-zastupnika/261123142",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261123142.jpg",
-   "published": "2026-11-23T13:02:00+01:00",
-   "title": [
-    "Nova Skupština Hercegovačko-neretvanskog kantona održala prvu sjednicu",
-    "New Assembly of Herzegovina-Neretva Canton holds its first session"
-   ],
-   "body": [
-    [
-     [
-      "Skupština Hercegovačko-neretvanskog kantona održala je danas u Mostaru prvu sjednicu novog saziva.",
-      "The Assembly of Herzegovina-Neretva Canton held the first session of its new term today in Mostar."
-     ],
-     [
-      "Na sjednici je skupština i zvanično počela s radom.",
-      "At the session the assembly also officially started its work."
-     ],
-     [
-      "U rukovodstvo su izabrani Džafer Alić iz SDA, Damir Džeba iz HDZ-a BiH i Vesna Saradžić iz SDP-a.",
-      "Džafer Alić of the SDA, Damir Džeba of HDZ BiH and Vesna Saradžić of the SDP were elected to the leadership."
-     ]
-    ],
-    [
-     [
-      "Skupština ima 30 zastupnika iz 7 stranaka i koalicija.",
-      "The assembly has 30 members from 7 parties and coalitions."
-     ],
-     [
-      "Najviše mjesta, njih 13, osvojila je koalicija oko HDZ-a BiH.",
-      "The most seats, 13 of them, were won by the coalition around HDZ BiH."
-     ],
-     [
-      "SDA ima 8 zastupnika, a SDP 3.",
-      "The SDA has 8 members, and the SDP 3."
-     ],
-     [
-      "HDZ 1990 – HSS i HRS imaju po 2 zastupnika, dok NES i DF/GS imaju po jednog.",
-      "HDZ 1990 – HSS and HRS have 2 members each, while NES and DF/GS have one each."
-     ],
-     [
-      "Ovi rezultati su potvrđeni od Centralne izborne komisije BiH.",
-      "These results were confirmed by the Central Election Commission of BiH."
-     ]
-    ],
-    [
-     [
-      "Izabrani su i predsjednici klubova hrvatskog, bošnjačkog i srpskog naroda.",
-      "The presidents of the Croat, Bosniak and Serb caucuses were also elected."
-     ],
-     [
-      "Klubovi do utorka u 12 sati trebaju predložiti kandidate za Dom naroda Parlamenta FBiH.",
-      "By Tuesday at 12 o'clock the caucuses must nominate candidates for the House of Peoples of the FBiH Parliament."
-     ],
-     [
-      "Iz ovog kantona u Dom naroda bira se 9 delegata.",
-      "From this canton 9 delegates are elected to the House of Peoples."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "skupština",
-     "assembly"
-    ],
-    [
-     "kanton",
-     "canton"
-    ],
-    [
-     "zastupnik",
-     "member of the assembly"
-    ],
-    [
-     "saziv",
-     "term (of an assembly)"
-    ],
-    [
-     "stranka",
-     "party"
-    ],
-    [
-     "rukovodstvo",
-     "leadership"
-    ],
-    [
-     "izabrati",
-     "to elect"
-    ],
-    [
-     "delegat",
-     "delegate"
-    ]
-   ]
-  },
-  {
-   "id": "261123120",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/ministri-iz-snsd-a-ce-blokirati-sutrasnju-sjednicu-vijeca-ministara-pokazuju-bunt-zbog-ustavnog-suda-bih/261123120",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261123120.jpg",
-   "published": "2026-11-23T12:29:00+01:00",
-   "title": [
-    "Ministri iz SNSD-a blokirat će sutrašnju sjednicu Vijeća ministara",
-    "SNSD ministers will block tomorrow's session of the Council of Ministers"
-   ],
-   "body": [
-    [
-     [
-      "Ministri iz Republike Srpske najavili su da će blokirati sutrašnju sjednicu Vijeća ministara BiH.",
-      "Ministers from Republika Srpska have announced that they will block tomorrow's session of the BiH Council of Ministers."
-     ],
-     [
-      "Tako žele pokazati da se ne slažu s odlukama Ustavnog suda BiH.",
-      "In this way they want to show that they disagree with decisions of the Constitutional Court of BiH."
-     ],
-     [
-      "To je za agenciju Srna rekao Staša Košarac, zamjenik predsjedavajućeg Vijeća ministara.",
-      "This was said to the Srna agency by Staša Košarac, deputy chairman of the Council of Ministers."
-     ]
-    ],
-    [
-     [
-      "Ministri će vjerovatno doći na sjednicu, ali neće glasati ni o jednoj tački dnevnog reda.",
-      "The ministers will probably come to the session, but they will not vote on any item on the agenda."
-     ],
-     [
-      "Bez njihovih glasova Vijeće ministara ne može donositi odluke.",
-      "Without their votes the Council of Ministers cannot make decisions."
-     ],
-     [
-      "Košarac traži da se rad zaustavi dok Ustavni sud ne povuče svoje posljednje odluke.",
-      "Košarac is asking for work to stop until the Constitutional Court withdraws its latest decisions."
-     ],
-     [
-      "Sud je poništio izjavu Željke Cvijanović o vitalnom interesu Republike Srpske.",
-      "The court annulled a statement by Željka Cvijanović on the vital interest of Republika Srpska."
-     ],
-     [
-      "Osim toga, odlučio je da je neustavna kazna za isticanje simbola Armije RBiH.",
-      "Besides that, it ruled that a penalty for displaying symbols of the Army of RBiH is unconstitutional."
-     ]
-    ],
-    [
-     [
-      "Košarac je rekao da je sud napravio vanrednu situaciju u državi.",
-      "Košarac said that the court had created a state of emergency in the country."
-     ],
-     [
-      "Prema njegovim riječima, u takvoj situaciji ne mogu se održavati redovne sjednice.",
-      "According to him, regular sessions cannot be held in such a situation."
-     ],
-     [
-      "Dodao je da se ministri iz RS-a ne mogu ponašati kao da se ništa nije dogodilo.",
-      "He added that the ministers from RS cannot act as if nothing had happened."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "ministar",
-     "minister"
-    ],
-    [
-     "sjednica",
-     "session, meeting"
-    ],
-    [
-     "blokirati",
-     "to block"
-    ],
-    [
-     "odluka",
-     "decision"
-    ],
-    [
-     "glasati",
-     "to vote"
-    ],
-    [
-     "sud",
-     "court"
-    ],
-    [
-     "neustavan",
-     "unconstitutional"
-    ],
-    [
-     "zamjenik",
-     "deputy"
     ]
    ]
   }
