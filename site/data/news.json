@@ -1,18 +1,864 @@
 {
- "updated": "2026-11-26T13:50:00+01:00",
+ "updated": "2026-11-26T18:55:00+01:00",
  "front": [
-  "261126104",
-  "261126137",
-  "261126118",
-  "261126135",
-  "261126093",
-  "261126141",
+  "261126242",
+  "261126248",
+  "261126231",
+  "261126247",
+  "261126268",
+  "261126227",
   "261126012",
-  "261126107",
-  "261126018",
-  "261126073"
+  "261126230",
+  "261126257",
+  "261126207"
  ],
  "articles": [
+  {
+   "id": "261126268",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/navijaci-besiktasa-razvili-zastavu-palestine-u-gruziji-policija-se-odmah-sukobila-s-njima/261126268",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261126268.jpg",
+   "published": "2026-11-26T18:33:00+01:00",
+   "title": [
+    "Policija u Batumiju uzela navijaču Bešiktaša zastavu Palestine",
+    "Police in Batumi took a Palestinian flag from a Beşiktaş fan"
+   ],
+   "body": [
+    [
+     [
+      "Gruzijska policija ušla je na tribinu stadiona u Batumiju prije utakmice Evropske lige.",
+      "Georgian police entered the stand of the stadium in Batumi before a Europa League match."
+     ],
+     [
+      "Jedan navijač Bešiktaša razvio je zastavu Palestine, a nakon toga je došlo do kratkog sukoba.",
+      "A Beşiktaš fan unfurled a Palestinian flag, and after that there was a short clash."
+     ],
+     [
+      "Bešiktaš je igrao protiv izraelskog kluba Hapoel Beer Sheva u petom kolu.",
+      "Beşiktaš played against the Israeli club Hapoel Beer Sheva in the fifth round."
+     ]
+    ],
+    [
+     [
+      "Video s tribine brzo se proširio na društvenim mrežama.",
+      "A video from the stand quickly spread on social networks."
+     ],
+     [
+      "Na snimku se vidi kako policajci ulaze među navijače, a onda počinje guranje.",
+      "The recording shows police officers going in among the fans, and then pushing begins."
+     ],
+     [
+      "Turski listovi Milliyet i Akşam pišu da je policija navijaču uzela zastavu.",
+      "The Turkish papers Milliyet and Akşam write that the police took the flag from the fan."
+     ]
+    ],
+    [
+     [
+      "Utakmica se igra u Gruziji jer turske vlasti kažu da u Istanbulu ne bi bila sigurna.",
+      "The match is being played in Georgia because the Turkish authorities say that it would not be safe in Istanbul."
+     ],
+     [
+      "UEFA je zato izabrala stadion u Batumiju, a utakmica je počela u 18:45.",
+      "UEFA therefore chose the stadium in Batumi, and the match started at 18:45."
+     ],
+     [
+      "Navijači su smjeli doći na stadion.",
+      "Fans were allowed to come to the stadium."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "navijač",
+     "fan, supporter"
+    ],
+    [
+     "zastava",
+     "flag"
+    ],
+    [
+     "tribina",
+     "stand (in a stadium)"
+    ],
+    [
+     "sukob",
+     "clash"
+    ],
+    [
+     "utakmica",
+     "match"
+    ],
+    [
+     "proširiti se",
+     "to spread"
+    ],
+    [
+     "vlasti",
+     "authorities"
+    ],
+    [
+     "siguran",
+     "safe"
+    ]
+   ]
+  },
+  {
+   "id": "261126257",
+   "source": "Klix.ba",
+   "section": "Zdravlje",
+   "url": "https://www.klix.ba/lifestyle/zdravlje/zasto-teze-zaspite-ukoliko-ste-u-gostima-ovi-savjeti-mogu-vam-pomoci-da-se-opustite/261126257",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261126257.jpg",
+   "published": "2026-11-26T18:18:00+01:00",
+   "title": [
+    "Zašto teže spavamo u tuđoj kući i kako to promijeniti",
+    "Why we sleep worse in someone else's house and how to change it"
+   ],
+   "body": [
+    [
+     [
+      "Mnogi ljudi teško zaspu kada su u gostima kod porodice ili prijatelja, posebno za praznike.",
+      "Many people find it hard to fall asleep when they are guests at family's or friends' homes, especially over the holidays."
+     ],
+     [
+      "Stručnjaci za spavanje kažu da mozak u nepoznatom prostoru ostaje na oprezu.",
+      "Sleep experts say that the brain stays on alert in an unfamiliar space."
+     ],
+     [
+      "Magazin Real Simple zato je objavio nekoliko korisnih savjeta.",
+      "The magazine Real Simple therefore published several useful tips."
+     ]
+    ],
+    [
+     [
+      "Prvo treba razgovarati s domaćinom o tome kada svi idu spavati.",
+      "First you should talk with the host about when everyone goes to sleep."
+     ],
+     [
+      "Dobro je odmah pronaći kupatilo i prekidače za svjetlo, jer se tako mozak lakše smiri.",
+      "It is good to find the bathroom and light switches right away, because that way the brain calms down more easily."
+     ],
+     [
+      "Ako možete, ponesite svoj jastuk, a sobu napravite što tamnijom.",
+      "If you can, bring your own pillow, and make the room as dark as possible."
+     ],
+     [
+      "Soba bi trebala biti hladnija, a dobra temperatura je oko 18 stepeni.",
+      "The room should be cooler, and a good temperature is about 18 degrees."
+     ]
+    ],
+    [
+     [
+      "Stručnjaci savjetuju i da sat prije spavanja smanjite svjetlo i čitate.",
+      "Experts also advise that an hour before sleep you dim the light and read."
+     ],
+     [
+      "Poznati mirisi, na primjer vaš gel za tuširanje, također mogu pomoći.",
+      "Familiar smells, for example your shower gel, can also help."
+     ],
+     [
+      "Najvažnije je da ne pritiskate sebe, jer nekoliko loših noći nije velik problem.",
+      "The most important thing is not to pressure yourself, because a few bad nights are not a big problem."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "zaspati",
+     "to fall asleep"
+    ],
+    [
+     "u gostima",
+     "as a guest, visiting"
+    ],
+    [
+     "stručnjak",
+     "expert"
+    ],
+    [
+     "domaćin",
+     "host"
+    ],
+    [
+     "jastuk",
+     "pillow"
+    ],
+    [
+     "savjet",
+     "advice, tip"
+    ],
+    [
+     "miris",
+     "smell, scent"
+    ],
+    [
+     "mozak",
+     "brain"
+    ]
+   ]
+  },
+  {
+   "id": "261126247",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/regija/radomir-saicic-bit-ce-kandidat-studentske-liste-za-predsjednika-srbije/261126247",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261126247.jpg",
+   "published": "2026-11-26T18:17:00+01:00",
+   "title": [
+    "Radomir Saičić bit će kandidat studenata za predsjednika Srbije",
+    "Radomir Saičić will be the students' candidate for president of Serbia"
+   ],
+   "body": [
+    [
+     [
+      "Studentski plenumi odlučili su da Radomir Saičić bude kandidat Studentske liste za predsjednika Srbije.",
+      "Student plenums decided that Radomir Saičić should be the Student List's candidate for president of Serbia."
+     ],
+     [
+      "Predsjednički izbori u Srbiji bit će održani 27. decembra.",
+      "The presidential election in Serbia will be held on 27 December."
+     ],
+     [
+      "Predsjednik parlamenta Aleksandar Čupić danas je raspisao te prijevremene izbore.",
+      "The speaker of parliament Aleksandar Čupić today called this early election."
+     ]
+    ],
+    [
+     [
+      "Plenumi su dobili samo jedan prijedlog, a to je bilo Saičićevo ime.",
+      "The plenums received only one proposal, and that was Saičić's name."
+     ],
+     [
+      "Ranije se spominjala i jedna žena, ali ona nije htjela biti kandidatkinja.",
+      "Earlier one woman had also been mentioned, but she did not want to be the candidate."
+     ],
+     [
+      "Studentska lista će ime službeno objaviti u petak, 27. novembra.",
+      "The Student List will officially announce the name on Friday, 27 November."
+     ],
+     [
+      "U nedjelju počinje skupljanje potpisa za njegovu kandidaturu.",
+      "On Sunday the collection of signatures for his candidacy begins."
+     ]
+    ],
+    [
+     [
+      "Saičić je profesor na Hemijskom fakultetu u Beogradu i član Srpske akademije nauka i umjetnosti.",
+      "Saičić is a professor at the Faculty of Chemistry in Belgrade and a member of the Serbian Academy of Sciences and Arts."
+     ],
+     [
+      "Bio je kandidat Studentske liste i na parlamentarnim izborima, kada je 25. oktobra proglasio pobjedu liste.",
+      "He was also the Student List's candidate in the parliamentary election, when he declared the list's victory on 25 October."
+     ],
+     [
+      "Politolog Stefan Surlić rekao je da je Saičić ozbiljan kandidat za predsjednika.",
+      "Political scientist Stefan Surlić said that Saičić is a serious candidate for president."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "kandidat",
+     "candidate"
+    ],
+    [
+     "predsjednik",
+     "president"
+    ],
+    [
+     "izbori",
+     "election"
+    ],
+    [
+     "prijedlog",
+     "proposal"
+    ],
+    [
+     "potpis",
+     "signature"
+    ],
+    [
+     "objaviti",
+     "to announce"
+    ],
+    [
+     "pobjeda",
+     "victory"
+    ],
+    [
+     "ozbiljan",
+     "serious"
+    ]
+   ]
+  },
+  {
+   "id": "261126248",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/crna-hronika/advokati-mustafica-za-klixba-negiraju-veze-s-kriminalnom-grupom-uhapseni-mustafa-je-18-godisnji-ucenik/261126248",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261126248.jpg",
+   "published": "2026-11-26T17:52:00+01:00",
+   "title": [
+    "Advokati kažu da Mustafići nisu dio kriminalne grupe",
+    "Lawyers say the Mustafićs are not part of a criminal group"
+   ],
+   "body": [
+    [
+     [
+      "Advokati Mesuda i Mustafe Mustafića rekli su za Klix.ba da njihovi klijenti negiraju sve optužbe.",
+      "The lawyers of Mesud and Mustafa Mustafić told Klix.ba that their clients deny all the charges."
+     ],
+     [
+      "Oni su uhapšeni u akciji „Emisar“, zajedno s Naserom Orićem, Nikolinom Šljivić i Sinišom Dergancem.",
+      "They were arrested in the operation \"Emisar\", together with Naser Orić, Nikolina Šljivić and Siniša Derganc."
+     ],
+     [
+      "Tužilaštvo Republike Srpske traži pritvor za svih pet osumnjičenih.",
+      "The Prosecutor's Office of Republika Srpska is seeking custody for all five suspects."
+     ]
+    ],
+    [
+     [
+      "Tužilaštvo tvrdi da je Orić organizovao grupu koja je trebala pomoći Đorđu Ždrali i Daliboru Bartuli da pobjegnu.",
+      "The prosecution claims that Orić organised a group that was supposed to help Đorđe Ždrale and Dalibor Bartula escape."
+     ],
+     [
+      "Mustafići su osumnjičeni za udruživanje u kriminalnu grupu i za pomaganje u pokušaju ubistva.",
+      "The Mustafićs are suspected of joining a criminal group and of helping in an attempted murder."
+     ],
+     [
+      "Tužilaštvo kaže da bi mogli pobjeći ili uticati na svjedoke.",
+      "The prosecution says that they could escape or influence witnesses."
+     ]
+    ],
+    [
+     [
+      "Advokati Abdulah Kešan i Anel Ibeljić rekli su da njihovi klijenti nikada nisu bili osuđeni.",
+      "The lawyers Abdulah Kešan and Anel Ibeljić said that their clients have never been convicted."
+     ],
+     [
+      "Mustafa ima 18 godina i učenik je srednje škole, a obojica žive na stalnoj adresi.",
+      "Mustafa is 18 years old and a secondary school student, and both live at a permanent address."
+     ],
+     [
+      "Advokati smatraju da za pritvor nema razloga i da bi bile dovoljne blaže mjere.",
+      "The lawyers believe that there is no reason for custody and that milder measures would be enough."
+     ],
+     [
+      "Ročište je bilo zatvoreno za javnost, a sud još nije donio odluku.",
+      "The hearing was closed to the public, and the court has not yet made a decision."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "advokat",
+     "lawyer"
+    ],
+    [
+     "optužba",
+     "charge, accusation"
+    ],
+    [
+     "pritvor",
+     "custody, detention"
+    ],
+    [
+     "osumnjičeni",
+     "suspect"
+    ],
+    [
+     "pobjeći",
+     "to escape"
+    ],
+    [
+     "svjedok",
+     "witness"
+    ],
+    [
+     "ročište",
+     "court hearing"
+    ],
+    [
+     "odluka",
+     "decision"
+    ]
+   ]
+  },
+  {
+   "id": "261126242",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/klix-vremeplov-bogatiji-za-23000-vijesti-prvi-put-i-novine-na-osmanskom-turskom-pisale-su-i-o-gradnji-vijecnice/261126242",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261126242.jpg",
+   "published": "2026-11-26T17:50:00+01:00",
+   "title": [
+    "Klix Vremeplov dobio 23.000 starih vijesti i osmanske novine",
+    "Klix Vremeplov gets 23,000 old news stories and Ottoman newspapers"
+   ],
+   "body": [
+    [
+     [
+      "Arhiv starih novina Klix Vremeplov danas je dobio sedam novih novina i više od 23.000 vijesti.",
+      "The archive of old newspapers Klix Vremeplov today got seven new newspapers and more than 23,000 news stories."
+     ],
+     [
+      "Sada u arhivu ima 25 novina, a čitaoci mogu tražiti tekstove po riječi, datumu, mjestu i novinama.",
+      "There are now 25 newspapers in the archive, and readers can search texts by word, date, place and newspaper."
+     ],
+     [
+      "Sav materijal dolazi iz digitalne zbirke Nacionalne i univerzitetske biblioteke BiH.",
+      "All the material comes from the digital collection of the National and University Library of BiH."
+     ]
+    ],
+    [
+     [
+      "Prvi put u arhivu su i novine na osmanskom turskom jeziku, pisane arapskim pismom.",
+      "For the first time, the archive also has newspapers in the Ottoman Turkish language, written in Arabic script."
+     ],
+     [
+      "To su sarajevske novine Vatan i Rehber, a tekstove je prevela umjetna inteligencija.",
+      "These are the Sarajevo newspapers Vatan and Rehber, and the texts were translated by artificial intelligence."
+     ],
+     [
+      "Vatan je izlazio svakog petka od 1884. do 1897. godine, i u arhiv je ušlo svih 640 brojeva.",
+      "Vatan came out every Friday from 1884 to 1897, and all 640 issues went into the archive."
+     ],
+     [
+      "Prijevode nije provjerio stručnjak, zato je originalni tekst uvijek najvažniji.",
+      "The translations were not checked by an expert, so the original text is always the most important."
+     ]
+    ],
+    [
+     [
+      "Vatan je pisao i o gradnji sarajevske Vijećnice.",
+      "Vatan also wrote about the building of the Sarajevo City Hall."
+     ],
+     [
+      "Gradsko vijeće je 1891. godine odlučilo da gradi novu zgradu, a ona je na kraju koštala 500.000 forinti.",
+      "The city council decided in 1891 to build a new building, and in the end it cost 500,000 forints."
+     ],
+     [
+      "Novine su pisale i o prvom tramvaju, novoj katedrali i željeznici od Sarajeva do Konjica.",
+      "The newspaper also wrote about the first tram, the new cathedral and the railway from Sarajevo to Konjic."
+     ],
+     [
+      "Prema popisu iz 1885. godine, Sarajevo je tada imalo 27.124 stanovnika.",
+      "According to a census from 1885, Sarajevo then had 27,124 inhabitants."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "arhiv",
+     "archive"
+    ],
+    [
+     "novine",
+     "newspaper"
+    ],
+    [
+     "vijest",
+     "news story"
+    ],
+    [
+     "prijevod",
+     "translation"
+    ],
+    [
+     "umjetna inteligencija",
+     "artificial intelligence"
+    ],
+    [
+     "gradnja",
+     "construction"
+    ],
+    [
+     "popis",
+     "census"
+    ],
+    [
+     "stanovnik",
+     "inhabitant"
+    ]
+   ]
+  },
+  {
+   "id": "261126227",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/kosarka/vucic-najavio-kraj-finansijske-pomoci-zvezdi-i-partizanu-derat-ce-kozu-na-siljak-razmazio-sam-ih/261126227",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261126227.jpg",
+   "published": "2026-11-26T17:27:00+01:00",
+   "title": [
+    "Vučić: Zvezda i Partizan više neće dobijati državni novac",
+    "Vučić: Zvezda and Partizan will no longer get state money"
+   ],
+   "body": [
+    [
+     [
+      "Bivši predsjednik Srbije Aleksandar Vučić rekao je da Crvena zvezda i Partizan više neće dobijati novac od države.",
+      "Former Serbian president Aleksandar Vučić said that Crvena zvezda and Partizan will no longer get money from the state."
+     ],
+     [
+      "To je izjavio na Informer TV-u, nakon promjene vlasti u Srbiji.",
+      "He said this on Informer TV, after the change of government in Serbia."
+     ],
+     [
+      "Vučić je sada šef poslaničke grupe „Srbija pobeđuje“ u parlamentu.",
+      "Vučić is now head of the parliamentary group \"Srbija pobeđuje\" in parliament."
+     ]
+    ],
+    [
+     [
+      "Studentska lista je pobijedila na parlamentarnim izborima, pa se očekuju promjene u finansiranju sportskih klubova.",
+      "The Student List won the parliamentary elections, so changes are expected in the funding of sports clubs."
+     ],
+     [
+      "Najveće promjene mogle bi pogoditi košarkaške klubove Zvezde i Partizana.",
+      "The biggest changes could hit the basketball clubs of Zvezda and Partizan."
+     ],
+     [
+      "Vučić je rekao da će od iduće godine klubovi imati velikih problema s novcem.",
+      "Vučić said that from next year the clubs will have big problems with money."
+     ]
+    ],
+    [
+     [
+      "Priznao je da su klubovi dobijali više novca nego što su zaslužili svojim rezultatima.",
+      "He admitted that the clubs got more money than they had earned with their results."
+     ],
+     [
+      "Ipak je rekao da mu nije žao, jer je to bila dobra promocija zemlje.",
+      "Still, he said that he is not sorry, because it was good promotion for the country."
+     ],
+     [
+      "Dodao je da je on kriv što ih je razmazio, a da su kritike studenata u tome bile tačne.",
+      "He added that he is to blame for spoiling them, and that the students' criticism was correct on this."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "država",
+     "state"
+    ],
+    [
+     "bivši",
+     "former"
+    ],
+    [
+     "finansiranje",
+     "funding"
+    ],
+    [
+     "klub",
+     "club"
+    ],
+    [
+     "priznati",
+     "to admit"
+    ],
+    [
+     "zaslužiti",
+     "to earn, to deserve"
+    ],
+    [
+     "razmaziti",
+     "to spoil"
+    ],
+    [
+     "kritika",
+     "criticism"
+    ]
+   ]
+  },
+  {
+   "id": "261126231",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/dodik-nazvao-zlocin-u-vukovaru-jednom-epizodom-rata-hrvate-optuzio-za-genocid-nijemce-za-mentorstvo/261126231",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261126231.jpg",
+   "published": "2026-11-26T16:40:00+01:00",
+   "title": [
+    "Dodik oštro kritikovao rezoluciju Evropskog parlamenta o Vukovaru",
+    "Dodik sharply criticised the European Parliament's resolution on Vukovar"
+   ],
+   "body": [
+    [
+     [
+      "Evropski parlament je danas usvojio rezoluciju o Vukovaru.",
+      "The European Parliament today adopted a resolution on Vukovar."
+     ],
+     [
+      "Lider SNSD-a Milorad Dodik ubrzo je na mreži X oštro kritikovao taj dokument.",
+      "SNSD leader Milorad Dodik soon sharply criticised that document on the network X."
+     ],
+     [
+      "Rekao je da rezolucija mijenja historiju i da je dio politike protiv Srba.",
+      "He said that the resolution changes history and that it is part of a policy against Serbs."
+     ]
+    ],
+    [
+     [
+      "Rezolucija između ostalog traži od Srbije da otvori svoje arhive.",
+      "Among other things, the resolution asks Serbia to open its archives."
+     ],
+     [
+      "Tako bi se moglo saznati šta se desilo s 1.725 nestalih osoba.",
+      "That way it could be found out what happened to 1,725 missing persons."
+     ],
+     [
+      "Vukovar je pao 18. novembra 1991. godine, nakon tri mjeseca opsade JNA i srpskih paravojnih jedinica.",
+      "Vukovar fell on 18 November 1991, after a three-month siege by the JNA and Serb paramilitary units."
+     ],
+     [
+      "Nakon toga su na Ovčari ubijeni zarobljenici i ranjenici iz vukovarske bolnice.",
+      "After that, prisoners and wounded people from the Vukovar hospital were killed at Ovčara."
+     ]
+    ],
+    [
+     [
+      "Dodik je zločin u Vukovaru nazvao „jednom epizodom rata“.",
+      "Dodik called the crime in Vukovar \"one episode of the war\"."
+     ],
+     [
+      "Pitao je zašto parlament nije donio rezoluciju o Jasenovcu i o srpskim izbjeglicama.",
+      "He asked why the parliament had not passed a resolution on Jasenovac and on Serb refugees."
+     ],
+     [
+      "Hrvate je optužio za genocid, a Nijemce je nazvao njihovim „mentorima“.",
+      "He accused Croats of genocide, and he called the Germans their \"mentors\"."
+     ],
+     [
+      "Na kraju je rekao da Srbi više neće šutjeti.",
+      "At the end he said that Serbs will no longer stay silent."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "rezolucija",
+     "resolution"
+    ],
+    [
+     "usvojiti",
+     "to adopt"
+    ],
+    [
+     "kritikovati",
+     "to criticise"
+    ],
+    [
+     "nestala osoba",
+     "missing person"
+    ],
+    [
+     "opsada",
+     "siege"
+    ],
+    [
+     "zločin",
+     "crime"
+    ],
+    [
+     "izbjeglica",
+     "refugee"
+    ],
+    [
+     "optužiti",
+     "to accuse"
+    ]
+   ]
+  },
+  {
+   "id": "261126230",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/muzika/dino-merlin-sve-blizi-nastupu-u-splitu-privrednici-skupili-sredstva-za-honorar-nedostaje-novac-za-produkciju/261126230",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261126230.jpg",
+   "published": "2026-11-26T16:33:00+01:00",
+   "title": [
+    "Privrednici u Splitu skupili novac za koncert Dine Merlina",
+    "Businesspeople in Split raised money for a Dino Merlin concert"
+   ],
+   "body": [
+    [
+     [
+      "Ugostitelji i privrednici iz Splita skupili su više od 70 posto novca za koncert Dine Merlina.",
+      "Restaurant owners and businesspeople from Split have raised more than 70 percent of the money for a Dino Merlin concert."
+     ],
+     [
+      "Koncert bi trebao biti održan 30. decembra na splitskoj Rivi.",
+      "The concert is supposed to be held on 30 December on Split's Riva."
+     ],
+     [
+      "Honorar za pjevača je plaćen, ali još nedostaje novac za produkciju.",
+      "The singer's fee has been paid, but money for the production is still missing."
+     ]
+    ],
+    [
+     [
+      "Organizatori nisu rekli koliko su novca skupili ni koliko im ukupno treba.",
+      "The organisers did not say how much money they have raised or how much they need in total."
+     ],
+     [
+      "Ljudi uplaćuju novac preko platforme Adriaticket, a imena donatora bit će objavljena.",
+      "People pay the money through the Adriaticket platform, and the names of the donors will be published."
+     ],
+     [
+      "Akciji su se pridružili i hotelijeri, a koncert bi trebao imati i humanitarni dio.",
+      "Hotel owners have also joined the campaign, and the concert is supposed to have a charity part as well."
+     ]
+    ],
+    [
+     [
+      "Akcija je počela nakon što je gradonačelnik Splita Tomislav Šuta odustao od ugovora za koncert.",
+      "The campaign started after Split mayor Tomislav Šuta withdrew from the contract for the concert."
+     ],
+     [
+      "Više od 20.000 građana potpisalo je peticiju da se novac da za novi medicinski aparat za bolnicu.",
+      "More than 20,000 citizens signed a petition for the money to be given for a new medical device for the hospital."
+     ],
+     [
+      "Grad je ranije rekao da bi honorar bio 140.000 eura, a produkcija 160.000 eura.",
+      "The city had earlier said that the fee would be 140,000 euros and the production 160,000 euros."
+     ],
+     [
+      "Tim Dine Merlina još nije komentarisao akciju.",
+      "Dino Merlin's team has not yet commented on the campaign."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "privrednik",
+     "businessperson"
+    ],
+    [
+     "skupiti",
+     "to collect, to raise"
+    ],
+    [
+     "honorar",
+     "fee"
+    ],
+    [
+     "nedostajati",
+     "to be missing"
+    ],
+    [
+     "gradonačelnik",
+     "mayor"
+    ],
+    [
+     "ugovor",
+     "contract"
+    ],
+    [
+     "peticija",
+     "petition"
+    ],
+    [
+     "građanin",
+     "citizen"
+    ]
+   ]
+  },
+  {
+   "id": "261126207",
+   "source": "Klix.ba",
+   "section": "Tehnologija",
+   "url": "https://www.klix.ba/scitech/tehnologija/whatsapp-zvanicno-uvodi-zakazivanje-poruka-za-sve-korisnike/261126207",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261126207.jpg",
+   "published": "2026-11-26T15:36:00+01:00",
+   "title": [
+    "WhatsApp uvodi zakazivanje poruka za sve korisnike",
+    "WhatsApp introduces message scheduling for all users"
+   ],
+   "body": [
+    [
+     [
+      "WhatsApp je zvanično uveo zakazivanje poruka, funkciju koju korisnici često traže.",
+      "WhatsApp has officially introduced message scheduling, a feature that users often ask for."
+     ],
+     [
+      "Zakazivanje znači da poruku napišete sada, a ona bude poslana kasnije.",
+      "Scheduling means that you write a message now, and it is sent later."
+     ],
+     [
+      "Do sada je funkcija bila dostupna samo nekim korisnicima Android aplikacije, a u narednim sedmicama dobit će je svi.",
+      "Until now the feature was available only to some users of the Android app, and in the coming weeks everyone will get it."
+     ]
+    ],
+    [
+     [
+      "Korisnik treba držati dugme za slanje, a onda izabrati datum i vrijeme.",
+      "The user needs to hold the send button and then choose a date and time."
+     ],
+     [
+      "Poruke se mogu zakazati najmanje 10 minuta i najviše 14 dana unaprijed.",
+      "Messages can be scheduled at least 10 minutes and at most 14 days in advance."
+     ],
+     [
+      "Tako se mogu slati tekst, fotografije i video, u privatnim i grupnim razgovorima.",
+      "Text, photos and video can be sent this way, in private and group chats."
+     ],
+     [
+      "Osoba koja dobije poruku ne vidi da je poruka bila zakazana.",
+      "The person who receives the message does not see that the message was scheduled."
+     ]
+    ],
+    [
+     [
+      "Prema WhatsAppu, poruka će otići u pravo vrijeme čak i ako je telefon ugašen.",
+      "According to WhatsApp, the message will go at the right time even if the phone is switched off."
+     ],
+     [
+      "Korisnici mogu vidjeti sve zakazane poruke i obrisati ih prije slanja.",
+      "Users can see all scheduled messages and delete them before sending."
+     ],
+     [
+      "Kompanija kaže da su poruke zaštićene i da ih ona ne može čitati.",
+      "The company says that the messages are protected and that it cannot read them."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "zakazati",
+     "to schedule"
+    ],
+    [
+     "poruka",
+     "message"
+    ],
+    [
+     "korisnik",
+     "user"
+    ],
+    [
+     "funkcija",
+     "feature"
+    ],
+    [
+     "dugme",
+     "button"
+    ],
+    [
+     "unaprijed",
+     "in advance"
+    ],
+    [
+     "ugašen",
+     "switched off"
+    ],
+    [
+     "obrisati",
+     "to delete"
+    ]
+   ]
+  },
   {
    "id": "261126093",
    "source": "Klix.ba",
@@ -4752,840 +5598,6 @@
     [
      "lisice",
      "handcuffs"
-    ]
-   ]
-  },
-  {
-   "id": "261124255",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/ko-smije-raditi-25-novembra-u-fbih-i-koliko-se-placa-rad-na-praznik/261124255",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261124255.jpg",
-   "published": "2026-11-24T16:52:00+01:00",
-   "title": [
-    "Ko smije raditi na Dan državnosti u Federaciji BiH",
-    "Who may work on Statehood Day in the Federation of BiH"
-   ],
-   "body": [
-    [
-     [
-      "Srijeda, 25. novembar, Dan je državnosti Bosne i Hercegovine i neradni dan u Federaciji BiH.",
-      "Wednesday, 25 November, is the Statehood Day of Bosnia and Herzegovina and a non-working day in the Federation of BiH."
-     ],
-     [
-      "Tog dana ne rade državni organi, kompanije i druga pravna lica.",
-      "On that day state bodies, companies and other legal entities do not work."
-     ],
-     [
-      "Praznik traje samo jedan dan, pa je četvrtak normalan radni dan.",
-      "The holiday lasts only one day, so Thursday is a normal working day."
-     ],
-     [
-      "U Republici Srpskoj 25. novembar nije neradni dan.",
-      "In Republika Srpska, 25 November is not a non-working day."
-     ]
-    ],
-    [
-     [
-      "Prema zakonu o trgovini, prodavnice u Federaciji moraju biti zatvorene nedjeljom i na praznike.",
-      "According to the trade law, shops in the Federation must be closed on Sundays and on holidays."
-     ],
-     [
-      "Ipak, smiju raditi cvjećare, pekare, apoteke i prodavnice na benzinskim pumpama, aerodromima i stanicama.",
-      "However, florists, bakeries, pharmacies and shops at petrol stations, airports and stations may work."
-     ],
-     [
-      "Kafići i restorani nisu prodavnice, zato njihovo radno vrijeme određuju kantoni i općine.",
-      "Cafés and restaurants are not shops, so their working hours are set by the cantons and municipalities."
-     ],
-     [
-      "Trgovac koji otvori prodavnicu bez dozvole može platiti kaznu od 2.000 do 15.000 KM.",
-      "A trader who opens a shop without permission can pay a fine of 2,000 to 15,000 KM."
-     ]
-    ],
-    [
-     [
-      "Radnici koji rade na praznik imaju pravo na veću platu, ali zakon ne kaže za koliko posto.",
-      "Workers who work on the holiday have the right to higher pay, but the law does not say by what percentage."
-     ],
-     [
-      "Taj iznos određuje kolektivni ugovor, pravilnik ili ugovor o radu.",
-      "That amount is set by the collective agreement, the work rules or the employment contract."
-     ],
-     [
-      "Poslodavac koji ne plati veću platu može dobiti kaznu od 1.000 do 3.000 KM.",
-      "An employer who does not pay the higher wage can get a fine of 1,000 to 3,000 KM."
-     ],
-     [
-      "Prošle godine inspektori su u Hercegovini kaznili 13 trgovaca koji su radili na Dan državnosti.",
-      "Last year inspectors in Herzegovina fined 13 traders who worked on Statehood Day."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "praznik",
-     "holiday"
-    ],
-    [
-     "neradni dan",
-     "non-working day"
-    ],
-    [
-     "prodavnica",
-     "shop"
-    ],
-    [
-     "kazna",
-     "fine, penalty"
-    ],
-    [
-     "plata",
-     "wage, salary"
-    ],
-    [
-     "poslodavac",
-     "employer"
-    ],
-    [
-     "trgovac",
-     "trader, shopkeeper"
-    ]
-   ]
-  },
-  {
-   "id": "261124258",
-   "source": "Klix.ba",
-   "section": "Zdravlje",
-   "url": "https://www.klix.ba/lifestyle/zdravlje/virusna-infekcija-ostavlja-oziljke-na-imunitetu-i-nakon-oporavka/261124258",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261124258.jpg",
-   "published": "2026-11-24T16:43:00+01:00",
-   "title": [
-    "Virusna infekcija može oslabiti imunitet i nakon oporavka",
-    "A viral infection can weaken immunity even after recovery"
-   ],
-   "body": [
-    [
-     [
-      "Naučnici iz Barcelone otkrili su da virusna infekcija može dugo slabiti imunitet, čak i nakon oporavka.",
-      "Scientists from Barcelona have found that a viral infection can weaken immunity for a long time, even after recovery."
-     ],
-     [
-      "Istraživanje je urađeno na miševima na Univerzitetu Pompeu Fabra.",
-      "The research was done on mice at Pompeu Fabra University."
-     ],
-     [
-      "Rezultati su objavljeni u naučnom časopisu Cell Death & Disease.",
-      "The results were published in the scientific journal Cell Death & Disease."
-     ]
-    ],
-    [
-     [
-      "Miševi su pobijedili virus, ali promjene u njihovoj slezeni ostale su mnogo duže.",
-      "The mice beat the virus, but the changes in their spleen remained much longer."
-     ],
-     [
-      "Slezena je organ koji pomaže tijelu da se bori protiv infekcija.",
-      "The spleen is an organ that helps the body fight infections."
-     ],
-     [
-      "U njoj se stvorilo tkivo slično ožiljku, a imunološke ćelije više nisu bile dobro raspoređene.",
-      "Tissue similar to a scar formed in it, and the immune cells were no longer well arranged."
-     ],
-     [
-      "Zato su miševi sporije reagovali na nove infekcije.",
-      "That is why the mice reacted more slowly to new infections."
-     ],
-     [
-      "Miševi koji su prije infekcije vakcinisani nisu imali te promjene.",
-      "Mice that were vaccinated before the infection did not have those changes."
-     ]
-    ],
-    [
-     [
-      "Profesor Andreas Meyerhans rekao je da ljudi obično misle da su takve infekcije blage i prolazne.",
-      "Professor Andreas Meyerhans said that people usually think such infections are mild and temporary."
-     ],
-     [
-      "Prema njegovim riječima, ta slika možda ne pokazuje posljedice koje se ne vide odmah.",
-      "In his words, that picture may not show consequences that are not visible immediately."
-     ],
-     [
-      "Istraživanje je rađeno samo na miševima, pa još nije jasno da li se isto dešava kod ljudi.",
-      "The research was done only on mice, so it is not yet clear whether the same happens in people."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "imunitet",
-     "immunity"
-    ],
-    [
-     "oporavak",
-     "recovery"
-    ],
-    [
-     "miš",
-     "mouse"
-    ],
-    [
-     "slezena",
-     "spleen"
-    ],
-    [
-     "ožiljak",
-     "scar"
-    ],
-    [
-     "ćelija",
-     "cell"
-    ],
-    [
-     "vakcinisati",
-     "to vaccinate"
-    ]
-   ]
-  },
-  {
-   "id": "261124240",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/nauka/kina-ce-pomocu-umjetne-inteligencije-i-podvodnih-robota-tragati-za-drevnom-historijom/261124240",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261124240.jpg",
-   "published": "2026-11-24T16:09:00+01:00",
-   "title": [
-    "Kina će s pomoću AI i podvodnih robota istraživati historiju",
-    "China will explore history with AI and underwater robots"
-   ],
-   "body": [
-    [
-     [
-      "Kina je objavila plan za arheologiju do 2030. godine.",
-      "China has published a plan for archaeology until 2030."
-     ],
-     [
-      "Plan je krajem oktobra predstavila državna uprava za kulturno naslijeđe, a ima sedam glavnih zadataka.",
-      "The plan was presented at the end of October by the state administration for cultural heritage, and it has seven main tasks."
-     ],
-     [
-      "U njegovom središtu su umjetna inteligencija, analiza drevne DNK i podvodni roboti.",
-      "At its centre are artificial intelligence, the analysis of ancient DNA and underwater robots."
-     ]
-    ],
-    [
-     [
-      "Kina će razviti posebne modele umjetne inteligencije koji bi prepoznavali predmete i spajali slomljene dijelove.",
-      "China will develop special artificial intelligence models that would recognise objects and join broken pieces."
-     ],
-     [
-      "Takvi modeli mogli bi i virtualno popraviti oštećene predmete.",
-      "Such models could also virtually repair damaged objects."
-     ],
-     [
-      "Bit će izgrađeno nekoliko novih laboratorija, među njima i jedna za arheologiju dubokog mora.",
-      "Several new laboratories will be built, among them one for deep-sea archaeology."
-     ],
-     [
-      "Podvodni roboti tragat će za ostacima prošlosti u Južnom i Istočnom kineskom moru.",
-      "Underwater robots will search for remains of the past in the South and East China Seas."
-     ]
-    ],
-    [
-     [
-      "Kina planira i 5 do 10 zajedničkih projekata sa stranim partnerima, na primjer u Egiptu, Grčkoj i Centralnoj Aziji.",
-      "China also plans 5 to 10 joint projects with foreign partners, for example in Egypt, Greece and Central Asia."
-     ],
-     [
-      "Hongkonški list South China Morning Post piše da je jedan cilj jačanje kineskog kulturnog utjecaja u svijetu.",
-      "The Hong Kong newspaper South China Morning Post writes that one aim is to strengthen Chinese cultural influence in the world."
-     ],
-     [
-      "Kina ima 65 nacionalnih arheoloških parkova.",
-      "China has 65 national archaeological parks."
-     ],
-     [
-      "Broj posjeta porastao je s oko 21 milion 2021. na skoro 98 miliona 2025. godine.",
-      "The number of visits rose from about 21 million in 2021 to almost 98 million in 2025."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "arheologija",
-     "archaeology"
-    ],
-    [
-     "naslijeđe",
-     "heritage"
-    ],
-    [
-     "umjetna inteligencija",
-     "artificial intelligence"
-    ],
-    [
-     "drevni",
-     "ancient"
-    ],
-    [
-     "podvodni",
-     "underwater"
-    ],
-    [
-     "predmet",
-     "object"
-    ],
-    [
-     "utjecaj",
-     "influence"
-    ],
-    [
-     "posjeta",
-     "visit"
-    ]
-   ]
-  },
-  {
-   "id": "261124216",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/nauka/iza-neptuna-bi-se-mogla-kriti-planeta-do-dva-puta-masivnija-od-zemlje/261124216",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261124216.jpg",
-   "published": "2026-11-24T15:06:00+01:00",
-   "title": [
-    "Iza Neptuna bi se mogla kriti nova planeta",
-    "A new planet could be hiding beyond Neptune"
-   ],
-   "body": [
-    [
-     [
-      "Astronomi misle da bi se iza Neptuna mogla kriti planeta do dva puta teža od Zemlje.",
-      "Astronomers think that a planet up to twice as heavy as Earth could be hiding beyond Neptune."
-     ],
-     [
-      "Ideju je predstavio Patryk Sofia Lykawka s univerziteta u Australiji, koji radi i u Japanu.",
-      "The idea was presented by Patryk Sofia Lykawka from a university in Australia, who also works in Japan."
-     ],
-     [
-      "Studija je objavljena u časopisu Monthly Notices of the Royal Astronomical Society.",
-      "The study was published in the journal Monthly Notices of the Royal Astronomical Society."
-     ]
-    ],
-    [
-     [
-      "Naučnici su moguću planetu nazvali Planeta X2.",
-      "The scientists called the possible planet Planet X2."
-     ],
-     [
-      "Ona bi imala izduženu putanju i nikada ne bi bila bliže Suncu od 200 astronomskih jedinica.",
-      "It would have an elongated orbit and would never be closer to the Sun than 200 astronomical units."
-     ],
-     [
-      "Jedna astronomska jedinica je prosječna udaljenost Zemlje od Sunca.",
-      "One astronomical unit is the average distance of Earth from the Sun."
-     ],
-     [
-      "Tim je napravio simulacije koje pokazuju 4,5 milijardi godina historije Sunčevog sistema.",
-      "The team made simulations that show 4.5 billion years of the history of the Solar System."
-     ],
-     [
-      "Takva planeta mogla bi objasniti čudne putanje nekih dalekih objekata, kao što je Sedna.",
-      "Such a planet could explain the strange orbits of some distant objects, such as Sedna."
-     ]
-    ],
-    [
-     [
-      "Lykawka je rekao da bi otkriće nove planete promijenilo naše razumijevanje historije Sunčevog sistema.",
-      "Lykawka said that the discovery of a new planet would change our understanding of the history of the Solar System."
-     ],
-     [
-      "Ipak, Planetu X2 još niko nije vidio i to je samo hipoteza.",
-      "However, nobody has seen Planet X2 yet and it is only a hypothesis."
-     ],
-     [
-      "Teoriju bi mogla provjeriti opservatorija Vera C. Rubin, koja sada snima nebo.",
-      "The theory could be checked by the Vera C. Rubin Observatory, which is now surveying the sky."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "planeta",
-     "planet"
-    ],
-    [
-     "kriti se",
-     "to hide"
-    ],
-    [
-     "putanja",
-     "orbit, path"
-    ],
-    [
-     "udaljenost",
-     "distance"
-    ],
-    [
-     "otkriće",
-     "discovery"
-    ],
-    [
-     "hipoteza",
-     "hypothesis"
-    ],
-    [
-     "nebo",
-     "sky"
-    ]
-   ]
-  },
-  {
-   "id": "261124157",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/oglasilo-se-federalno-tuzilastvo-o-predmetu-konakovic-slucaj-je-na-listi-prioriteta-istragom-obuhvacene-tri-osobe/261124157",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261124157.jpg",
-   "published": "2026-11-24T13:25:00+01:00",
-   "title": [
-    "Federalno tužilaštvo: Slučaj Konaković je prioritet",
-    "Federal Prosecutor's Office: The Konaković case is a priority"
-   ],
-   "body": [
-    [
-     [
-      "Federalno tužilaštvo danas se oglasilo o predmetu u kojem se spominje Elmedin Konaković.",
-      "The Federal Prosecutor's Office spoke today about a case in which Elmedin Konaković is mentioned."
-     ],
-     [
-      "Konaković je ranije zatražio nadzor nad istragom o dodjeli budžetskog novca dok je bio predsjedavajući Skupštine Kantona Sarajevo.",
-      "Konaković had earlier requested supervision of the investigation into the allocation of budget money while he was speaker of the Sarajevo Canton Assembly."
-     ],
-     [
-      "Tužilaštvo je potvrdilo da je njegov zahtjev primilo 19. novembra.",
-      "The prosecutor's office confirmed that it received his request on 19 November."
-     ]
-    ],
-    [
-     [
-      "Istraga je otvorena 2. oktobra 2026. godine i obuhvata 3 osobe.",
-      "The investigation was opened on 2 October 2026 and covers 3 people."
-     ],
-     [
-      "One se sumnjiče za zloupotrebu položaja ili ovlaštenja.",
-      "They are suspected of abuse of office or authority."
-     ],
-     [
-      "Predmet je prešao iz Kantonalnog tužilaštva u Posebni odjel Federalnog tužilaštva, a vodi ga tužilac Samir Selimović.",
-      "The case moved from the Cantonal Prosecutor's Office to the Special Department of the Federal Prosecutor's Office, and prosecutor Samir Selimović is in charge of it."
-     ],
-     [
-      "Slučaj je na listi prioriteta tog odjela za 2026. godinu.",
-      "The case is on that department's priority list for 2026."
-     ]
-    ],
-    [
-     [
-      "Tužilaštvo je reagovalo zbog tvrdnji u javnosti o selektivnom postupanju i ciljanom progonu nekih osoba.",
-      "The prosecutor's office reacted because of public claims about selective treatment and targeted prosecution of certain people."
-     ],
-     [
-      "Glavni federalni tužilac pregledat će Konakovićev zahtjev i obavijestiti ga o mjerama.",
-      "The Chief Federal Prosecutor will review Konaković's request and inform him of the measures."
-     ],
-     [
-      "Prema dokazima, i druge osobe su možda prekršile pravila o dodjeli novca udruženjima, a njihov dio predmeta ide kantonalnom tužilaštvu.",
-      "According to the evidence, other people may also have broken the rules on giving money to associations, and their part of the case will go to the cantonal prosecutor's office."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "tužilaštvo",
-     "prosecutor's office"
-    ],
-    [
-     "istraga",
-     "investigation"
-    ],
-    [
-     "zahtjev",
-     "request"
-    ],
-    [
-     "nadzor",
-     "supervision"
-    ],
-    [
-     "prioritet",
-     "priority"
-    ],
-    [
-     "zloupotreba",
-     "abuse, misuse"
-    ],
-    [
-     "tvrdnja",
-     "claim"
-    ]
-   ]
-  },
-  {
-   "id": "261124153",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/film-tv/u-sarajevu-pocinje-prvi-witness-festival-vecerasnje-projekcije-rasprodane-publiku-ocekuje-bogat-program/261124153",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261124153.jpg",
-   "published": "2026-11-24T12:59:00+01:00",
-   "title": [
-    "U Sarajevu počinje prvi WITNESS Festival",
-    "The first WITNESS Festival begins in Sarajevo"
-   ],
-   "body": [
-    [
-     [
-      "Prvi WITNESS Festival počinje večeras u Sarajevu i trajat će do 28. novembra.",
-      "The first WITNESS Festival begins tonight in Sarajevo and will last until 28 November."
-     ],
-     [
-      "Organizuju ga Obala Art Centar, koji stoji iza Sarajevo Film Festivala, i WARM Fondacija.",
-      "It is organised by Obala Art Centar, which is behind the Sarajevo Film Festival, and the WARM Foundation."
-     ],
-     [
-      "Karte za obje večerašnje projekcije već su rasprodane.",
-      "Tickets for both of tonight's screenings are already sold out."
-     ]
-    ],
-    [
-     [
-      "Filmovi se prikazuju u tri kina: Meeting Pointu, Cineplexxu i Kvartovskom kinu Grbavica.",
-      "The films are shown in three cinemas: Meeting Point, Cineplexx and the Grbavica neighbourhood cinema."
-     ],
-     [
-      "Do kraja festivala traju i dvije besplatne izložbe fotografija, a neki ratni fotografi doći će kao gosti.",
-      "Two free photo exhibitions also run until the end of the festival, and some war photographers will come as guests."
-     ],
-     [
-      "Meeting Point je centar festivala, pa se tamo nakon projekcija održavaju razgovori i koncerti.",
-      "Meeting Point is the centre of the festival, so talks and concerts take place there after the screenings."
-     ],
-     [
-      "Večeras u 22:20 nastupa Duda Buržujka, satirični lik glumice Julije Petković iz Niša.",
-      "Tonight at 22:20 Duda Buržujka performs, a satirical character of actress Julija Petković from Niš."
-     ]
-    ],
-    [
-     [
-      "U srijedu u 11 sati rediteljica Sophie Fiennes govorit će o tome kako ideja postaje film.",
-      "On Wednesday at 11 o'clock, director Sophie Fiennes will talk about how an idea becomes a film."
-     ],
-     [
-      "Ona dugo sarađuje s filozofom Slavojem Žižekom, a njihov zajednički film prikazuje se u 21 sat.",
-      "She has worked with the philosopher Slavoj Žižek for a long time, and their joint film is showing at 21:00."
-     ],
-     [
-      "Publika će vidjeti i dokumentarac Damira Markovine o njegovom ocu, koji je u ratu ostao u Mostaru.",
-      "The audience will also see Damir Markovina's documentary about his father, who stayed in Mostar during the war."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "festival",
-     "festival"
-    ],
-    [
-     "projekcija",
-     "screening"
-    ],
-    [
-     "karta",
-     "ticket"
-    ],
-    [
-     "rasprodan",
-     "sold out"
-    ],
-    [
-     "izložba",
-     "exhibition"
-    ],
-    [
-     "rediteljica",
-     "(female) director"
-    ],
-    [
-     "dokumentarac",
-     "documentary"
-    ]
-   ]
-  },
-  {
-   "id": "261124138",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/klix-pokrece-vremeplov-pretrazite-skoro-150-hiljada-vijesti-iz-bh-novina-od-1866-do-1942-godine/261124138",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261124138.jpg",
-   "published": "2026-11-24T12:54:00+01:00",
-   "title": [
-    "Klix pokrenuo arhiv sa 150.000 vijesti iz starih novina",
-    "Klix launches an archive with 150,000 news items from old newspapers"
-   ],
-   "body": [
-    [
-     [
-      "Portal Klix.ba uoči Dana državnosti pokrenuo je Vremeplov, besplatni internetski arhiv starih bosanskohercegovačkih novina.",
-      "Ahead of Statehood Day, the portal Klix.ba has launched Vremeplov, a free online archive of old Bosnian-Herzegovinian newspapers."
-     ],
-     [
-      "Arhiv se nalazi na adresi vremeplov.klix.ba i otvoren je za sve čitaoce.",
-      "The archive is at vremeplov.klix.ba and is open to all readers."
-     ],
-     [
-      "U njemu je skoro 150.000 vijesti iz 18 novina koje su izlazile od 1866. do 1942. godine.",
-      "It contains almost 150,000 news items from 18 newspapers that were published from 1866 to 1942."
-     ]
-    ],
-    [
-     [
-      "Novine je digitalizovala Nacionalna i univerzitetska biblioteka BiH, a Klix je dobio pismenu dozvolu da koristi te snimke.",
-      "The newspapers were digitised by the National and University Library of BiH, and Klix received written permission to use those scans."
-     ],
-     [
-      "Tekstove iz novina na njemačkom jeziku preveli su na bosanski uz pomoć vještačke inteligencije.",
-      "Texts from German-language newspapers were translated into Bosnian with the help of artificial intelligence."
-     ],
-     [
-      "Stari tekstovi, i oni pisani ćirilicom, prepisani su u današnji pravopis.",
-      "Old texts, including those written in Cyrillic, were transcribed into today's spelling."
-     ],
-     [
-      "Čitaoci mogu tražiti vijesti po riječi, imenu ili mjestu, a rezultate mogu filtrirati po godini i novinama.",
-      "Readers can search for news by word, name or place, and they can filter the results by year and newspaper."
-     ]
-    ],
-    [
-     [
-      "Uz svaku vijest stoji i isječak originalne stranice, naziv novina i datum broja.",
-      "Each news item also comes with a clipping of the original page, the name of the newspaper and the date of the issue."
-     ],
-     [
-      "U arhivu se može čitati o aneksiji, Sarajevskom atentatu i ratnim godinama, ali i o cijenama hljeba i šećera.",
-      "In the archive you can read about the annexation, the Sarajevo assassination and the war years, but also about the prices of bread and sugar."
-     ],
-     [
-      "Klix upozorava da mašinski prijevodi mogu imati greške, zato je originalni snimak uvijek tačna verzija.",
-      "Klix warns that machine translations may contain errors, so the original scan is always the accurate version."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "arhiv",
-     "archive"
-    ],
-    [
-     "novine",
-     "newspaper"
-    ],
-    [
-     "vijest",
-     "news item"
-    ],
-    [
-     "biblioteka",
-     "library"
-    ],
-    [
-     "prijevod",
-     "translation"
-    ],
-    [
-     "greška",
-     "error, mistake"
-    ],
-    [
-     "tražiti",
-     "to search, to look for"
-    ]
-   ]
-  },
-  {
-   "id": "261124134",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/kako-je-doslo-do-hapsenja-orica-sljivic-i-ostalih-zdrale-dao-100-hiljada-km-da-pandurevic-promjeni-iskaz-tuzitelji-sve-snimali/261124134",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261124134.jpg",
-   "published": "2026-11-24T12:17:00+01:00",
-   "title": [
-    "Kako su tužioci snimili predaju 100.000 KM svjedoku",
-    "How prosecutors recorded the handover of 100,000 KM to a witness"
-   ],
-   "body": [
-    [
-     [
-      "Policija je jutros uhapsila Nasera Orića, Nikolinu Šljivić i još nekoliko osoba u akciji \"Emisar\".",
-      "This morning the police arrested Naser Orić, Nikolina Šljivić and several other people in operation \"Emisar\"."
-     ],
-     [
-      "Sumnja se da su pomagali Đorđu Ždrali, koji se krije od policije od augusta.",
-      "They are suspected of having helped Đorđe Ždrale, who has been hiding from the police since August."
-     ],
-     [
-      "Portal Istraga.ba objavio je kako je došlo do hapšenja.",
-      "The portal Istraga.ba has published how the arrests came about."
-     ]
-    ],
-    [
-     [
-      "Ždrale je 2. augusta u Istočnom Sarajevu ranio Kostu Pandurevića, a nakon toga je pobjegao.",
-      "On 2 August in Istočno Sarajevo, Ždrale wounded Kosta Pandurević, and after that he fled."
-     ],
-     [
-      "Prema pisanju portala, Orić i Šljivić su se početkom oktobra sastali s Pandurevićem.",
-      "According to the portal, Orić and Šljivić met Pandurević at the beginning of October."
-     ],
-     [
-      "Pandurević je pristao promijeniti svoj iskaz za 100.000 KM.",
-      "Pandurević agreed to change his statement for 100,000 KM."
-     ],
-     [
-      "Orić mu je novac predao krajem oktobra u jednom ugostiteljskom objektu, a tužioci su sve snimali.",
-      "Orić handed him the money at the end of October in a café or restaurant, and the prosecutors recorded everything."
-     ]
-    ],
-    [
-     [
-      "Pandurević je kasnije u tužilaštvu rekao da više nije siguran da je na njega pucao Ždrale.",
-      "Pandurević later said at the prosecutor's office that he was no longer sure that Ždrale had shot him."
-     ],
-     [
-      "Mesud Mustafić i njegov sin Mustafa navodno su Ždralu nakon pucnjave odvezli prema Kladnju.",
-      "Mesud Mustafić and his son Mustafa allegedly drove Ždrale towards Kladanj after the shooting."
-     ],
-     [
-      "Obojica su policiji rekli da ih je Orić zamolio da prevezu jednog prijatelja.",
-      "Both told the police that Orić had asked them to transport a friend."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "hapšenje",
-     "arrest"
-    ],
-    [
-     "svjedok",
-     "witness"
-    ],
-    [
-     "iskaz",
-     "statement (to police or court)"
-    ],
-    [
-     "tužilac",
-     "prosecutor"
-    ],
-    [
-     "novac",
-     "money"
-    ],
-    [
-     "pucnjava",
-     "shooting"
-    ],
-    [
-     "sumnjati",
-     "to suspect"
-    ]
-   ]
-  },
-  {
-   "id": "261124124",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/nikolina-sljivic-mesud-i-mustafa-mustafic-predati-policiji-u-istocnom-sarajevu/261124124",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261124124.jpg",
-   "published": "2026-11-24T12:00:00+01:00",
-   "title": [
-    "Nikolina Šljivić i Mustafići predati policiji u Istočnom Sarajevu",
-    "Nikolina Šljivić and the Mustafićs handed over to police in Istočno Sarajevo"
-   ],
-   "body": [
-    [
-     [
-      "Nikolina Šljivić, Mesud Mustafić i njegov sin Mustafa predati su danas Policijskoj upravi Istočno Sarajevo.",
-      "Nikolina Šljivić, Mesud Mustafić and his son Mustafa were handed over to the Istočno Sarajevo Police Administration today."
-     ],
-     [
-      "Sve troje uhapšeni su ranije u toku dana u akciji \"Emisar\".",
-      "All three were arrested earlier in the day in operation \"Emisar\"."
-     ],
-     [
-      "U istoj akciji uhapšeni su i Naser Orić i advokat Siniša Dargenc.",
-      "Naser Orić and lawyer Siniša Dargenc were also arrested in the same operation."
-     ]
-    ],
-    [
-     [
-      "MUP Republike Srpske saopćio je da je cilj akcije razbiti kriminalnu grupu povezanu s Đorđem Ždralom.",
-      "The Republika Srpska Ministry of the Interior announced that the aim of the operation is to break up a criminal group linked to Đorđe Ždrale."
-     ],
-     [
-      "Uhapšeni se sumnjiče za udruživanje radi činjenja krivičnih djela i za skrivanje dokaza.",
-      "The arrested are suspected of associating to commit crimes and of hiding evidence."
-     ],
-     [
-      "Sumnja se i na pokušaj teškog ubistva.",
-      "There is also suspicion of attempted aggravated murder."
-     ],
-     [
-      "Do sada je uhapšeno ukupno 5 osoba.",
-      "A total of 5 people have been arrested so far."
-     ]
-    ],
-    [
-     [
-      "Akciju vodi MUP RS pod nadzorom posebnog odjela Republičkog tužilaštva, a na teritoriji Federacije pomaže SIPA.",
-      "The RS Ministry of the Interior is leading the operation under the supervision of a special department of the Republic Prosecutor's Office, and SIPA is helping on the territory of the Federation."
-     ],
-     [
-      "Đorđe Ždrale je i dalje u bijegu, a policija je pretresla i njegove objekte.",
-      "Đorđe Ždrale is still on the run, and the police have also searched his properties."
-     ],
-     [
-      "MUP je najavio da će više informacija dati kada akcija završi.",
-      "The ministry announced that it will give more information when the operation ends."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "policija",
-     "police"
-    ],
-    [
-     "uhapsiti",
-     "to arrest"
-    ],
-    [
-     "akcija",
-     "operation, action"
-    ],
-    [
-     "advokat",
-     "lawyer"
-    ],
-    [
-     "dokaz",
-     "evidence"
-    ],
-    [
-     "bijeg",
-     "escape, flight"
-    ],
-    [
-     "pretresti",
-     "to search (a place)"
     ]
    ]
   }
