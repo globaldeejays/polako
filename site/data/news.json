@@ -1,18 +1,954 @@
 {
- "updated": "2026-11-26T18:55:00+01:00",
+ "updated": "2026-11-27T07:50:00+01:00",
  "front": [
-  "261126242",
-  "261126248",
-  "261126231",
-  "261126247",
-  "261126268",
-  "261126227",
-  "261126012",
-  "261126230",
-  "261126257",
-  "261126207"
+  "261127007",
+  "261127002",
+  "261127003",
+  "261127005",
+  "261127013",
+  "261127016",
+  "261127012",
+  "261127009",
+  "261127015",
+  "261127008"
  ],
  "articles": [
+  {
+   "id": "261127015",
+   "source": "Klix.ba",
+   "section": "Zdravlje",
+   "url": "https://www.klix.ba/lifestyle/zdravlje/narandze-nisu-samo-izvor-vitamina-c-istrazivanje-pokazalo-da-ima-povoljan-ucinak-na-metabolizam-kod-masne-jetre/261127015",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261127015.jpg",
+   "published": "2026-11-27T07:40:00+01:00",
+   "title": [
+    "Istraživanje o narandžama i masnoj jetri",
+    "A study on oranges and fatty liver"
+   ],
+   "body": [
+    [
+     [
+      "Novo istraživanje ispitalo je kako narandže djeluju na ljude koji imaju masnu jetru.",
+      "A new study examined how oranges affect people who have fatty liver."
+     ],
+     [
+      "Kod ove bolesti u jetri se skuplja previše masti, a često je povezana s viškom kilograma i dijabetesom tipa 2.",
+      "In this disease too much fat collects in the liver, and it is often linked with excess weight and type 2 diabetes."
+     ],
+     [
+      "Rezultati su objavljeni u naučnom časopisu Nutrients.",
+      "The results were published in the scientific journal Nutrients."
+     ]
+    ],
+    [
+     [
+      "U istraživanju je učestvovalo 66 osoba, podijeljenih u dvije grupe.",
+      "66 people took part in the study, divided into two groups."
+     ],
+     [
+      "Jedna grupa je četiri sedmice svaki dan jela 400 grama narandži, a druga ih nije jela.",
+      "One group ate 400 grams of oranges every day for four weeks, and the other did not eat them."
+     ],
+     [
+      "Naučnici su pratili šećer u krvi, inzulin i druge vrijednosti.",
+      "The scientists monitored blood sugar, insulin and other values."
+     ],
+     [
+      "Ljudi koji su jeli narandže unosili su više vitamina C i A.",
+      "People who ate oranges took in more vitamins C and A."
+     ],
+     [
+      "Jedna vrijednost šećera u krvi lagano je pala, ali razlika nije bila dovoljno velika da bude sigurna.",
+      "One blood sugar value fell slightly, but the difference was not big enough to be certain."
+     ]
+    ],
+    [
+     [
+      "Autori kažu da narandže imaju vlakna i druge tvari koje bi mogle biti dobre za metabolizam.",
+      "The authors say that oranges have fibre and other substances that could be good for metabolism."
+     ],
+     [
+      "Ipak, istraživanje je bilo malo i kratko, pa su potrebna veća istraživanja.",
+      "However, the study was small and short, so larger studies are needed."
+     ],
+     [
+      "Naučnici naglašavaju da narandže ne liječe masnu jetru i ne mogu zamijeniti terapiju.",
+      "The scientists stress that oranges do not cure fatty liver and cannot replace treatment."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "narandža",
+     "orange"
+    ],
+    [
+     "jetra",
+     "liver"
+    ],
+    [
+     "mast",
+     "fat"
+    ],
+    [
+     "istraživanje",
+     "study, research"
+    ],
+    [
+     "šećer u krvi",
+     "blood sugar"
+    ],
+    [
+     "vlakna",
+     "fibre"
+    ],
+    [
+     "liječiti",
+     "to treat, to cure"
+    ]
+   ]
+  },
+  {
+   "id": "261127016",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/italijani-o-duelu-borca-i-atalante-banju-luku-smjestili-u-srbiju-kazu-i-da-su-navijaci-zvizdali-kolasincu/261127016",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261127016.jpg",
+   "published": "2026-11-27T07:38:00+01:00",
+   "title": [
+    "Italijanski list stavio Banju Luku u Srbiju",
+    "Italian newspaper placed Banja Luka in Serbia"
+   ],
+   "body": [
+    [
+     [
+      "Italijanski mediji opširno su pisali o pobjedi Atalante protiv Borca u Banjoj Luci.",
+      "Italian media wrote extensively about Atalanta's victory against Borac in Banja Luka."
+     ],
+     [
+      "Atalanta je pobijedila 3:2, iako je Borac vodio 2:0 sve do 86. minute.",
+      "Atalanta won 3:2, although Borac was leading 2:0 until the 86th minute."
+     ],
+     [
+      "List Corriere dello Sport napravio je grešku i napisao da je Banja Luka u Srbiji.",
+      "The newspaper Corriere dello Sport made a mistake and wrote that Banja Luka is in Serbia."
+     ]
+    ],
+    [
+     [
+      "Isti list je pisao o ludom preokretu za sedam minuta i hvalio Juričića.",
+      "The same newspaper wrote about a crazy comeback in seven minutes and praised Juričić."
+     ],
+     [
+      "Portal CalcioAtalanta piše da su domaći navijači zviždali Seadu Kolašincu.",
+      "The portal CalcioAtalanta writes that the home fans whistled at Sead Kolašinac."
+     ],
+     [
+      "Kolašinac je na početku imao nekoliko grešaka, ali je u 90. minuti izjednačio rezultat.",
+      "Kolašinac had several mistakes at the start, but in the 90th minute he levelled the score."
+     ],
+     [
+      "Eurosport je igračima Borca Deketu, Juričiću, Vukoviću i Cipetiću dao ocjenu 7.",
+      "Eurosport gave the Borac players Deket, Juričić, Vuković and Cipetić a mark of 7."
+     ]
+    ],
+    [
+     [
+      "Prema Eurosportu, Atalanta je preokret napravila tek nakon što su dva igrača Borca dobila crveni karton.",
+      "According to Eurosport, Atalanta made the comeback only after two Borac players got a red card."
+     ],
+     [
+      "Atmosferu na Gradskom stadionu uporedili su s atmosferom na Bilinom polju u Zenici.",
+      "They compared the atmosphere at the City Stadium with the atmosphere at Bilino polje in Zenica."
+     ],
+     [
+      "Atalanta sada ima 7 bodova, a Borac 3.",
+      "Atalanta now has 7 points, and Borac 3."
+     ],
+     [
+      "Italijanski klub u ponedjeljak igra protiv Leccea u Seriji A.",
+      "On Monday the Italian club plays against Lecce in Serie A."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "list",
+     "newspaper"
+    ],
+    [
+     "greška",
+     "mistake"
+    ],
+    [
+     "preokret",
+     "comeback, turnaround"
+    ],
+    [
+     "navijač",
+     "fan"
+    ],
+    [
+     "zviždati",
+     "to whistle"
+    ],
+    [
+     "izjednačiti",
+     "to equalise"
+    ],
+    [
+     "ocjena",
+     "mark, rating"
+    ]
+   ]
+  },
+  {
+   "id": "261127012",
+   "source": "Klix.ba",
+   "section": "Vrijeme",
+   "url": "https://www.klix.ba/vijesti/regija/vazne-informacije-ako-putujete-u-hrvatsku-snijeg-i-vjetar-zatvorili-puteve-obavezna-zimska-oprema/261127012",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261127012.jpg",
+   "published": "2026-11-27T07:28:00+01:00",
+   "title": [
+    "Snijeg i vjetar zatvorili puteve u Hrvatskoj",
+    "Snow and wind closed roads in Croatia"
+   ],
+   "body": [
+    [
+     [
+      "Snijeg i jak vjetar otežavaju saobraćaj u Hrvatskoj, javlja Hrvatski autoklub.",
+      "Snow and strong wind are making traffic difficult in Croatia, the Croatian Automobile Club reports."
+     ],
+     [
+      "Najteže je u Gorskom kotaru, Lici i Hrvatskom primorju.",
+      "It is hardest in Gorski kotar, Lika and the Croatian Littoral."
+     ],
+     [
+      "Vozači koji putuju u Hrvatsku moraju imati zimsku opremu.",
+      "Drivers who travel to Croatia must have winter equipment."
+     ]
+    ],
+    [
+     [
+      "Kamioni s prikolicama i vozila bez zimske opreme ne smiju voziti dijelom autoceste od Zagreba prema Splitu.",
+      "Trucks with trailers and vehicles without winter equipment must not drive on part of the motorway from Zagreb to Split."
+     ],
+     [
+      "Ista zabrana važi i na autocesti prema Rijeci, kao i na mnogim cestama u Gorskom kotaru i Lici.",
+      "The same ban applies on the motorway towards Rijeka, as well as on many roads in Gorski kotar and Lika."
+     ],
+     [
+      "Za ta vozila trenutno nema otvorenog puta između unutrašnjosti i mora.",
+      "For these vehicles there is currently no open route between the interior and the sea."
+     ],
+     [
+      "Zbog vjetra su zabranjeni i motocikli i autobusi na kat na nekim dionicama kod Rijeke i Senja.",
+      "Because of the wind, motorcycles and double-decker buses are also banned on some sections near Rijeka and Senj."
+     ]
+    ],
+    [
+     [
+      "Ceste su mokre i klizave, a na mostovima može biti leda.",
+      "The roads are wet and slippery, and there may be ice on bridges."
+     ],
+     [
+      "Na granici s BiH prijelaz Gunja–Brčko zatvoren je za kamione i autobuse, pa oni idu preko Županje i Orašja.",
+      "On the border with BiH the Gunja–Brčko crossing is closed to trucks and buses, so they go via Županja and Orašje."
+     ],
+     [
+      "Katamaran između Pule i Zadra ne vozi zbog vjetra.",
+      "The catamaran between Pula and Zadar is not running because of the wind."
+     ],
+     [
+      "Zimska oprema u Hrvatskoj obavezna je od 15. novembra do 15. aprila.",
+      "Winter equipment in Croatia is mandatory from 15 November to 15 April."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "snijeg",
+     "snow"
+    ],
+    [
+     "saobraćaj",
+     "traffic"
+    ],
+    [
+     "zimska oprema",
+     "winter equipment"
+    ],
+    [
+     "zabrana",
+     "ban"
+    ],
+    [
+     "autocesta",
+     "motorway"
+    ],
+    [
+     "klizav",
+     "slippery"
+    ],
+    [
+     "granični prijelaz",
+     "border crossing"
+    ]
+   ]
+  },
+  {
+   "id": "261127013",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/juricic-utucen-poslije-preokreta-atalante-u-banjoj-luci-ovo-je-najbolniji-poraz-u-karijeri/261127013",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261127013.jpg",
+   "published": "2026-11-27T07:23:00+01:00",
+   "title": [
+    "Juričić: Poraz od Atalante je najbolniji u mojoj karijeri",
+    "Juričić: The defeat to Atalanta is the most painful of my career"
+   ],
+   "body": [
+    [
+     [
+      "Napadač Borca Luka Juričić rekao je da je poraz od Atalante najbolniji u njegovoj karijeri.",
+      "Borac striker Luka Juričić said that the defeat to Atalanta is the most painful of his career."
+     ],
+     [
+      "Borac je u četvrtom kolu Konferencijske lige u Banjoj Luci izgubio 3:2, iako je vodio 2:0.",
+      "In the fourth round of the Conference League in Banja Luka, Borac lost 3:2, although it was leading 2:0."
+     ]
+    ],
+    [
+     [
+      "Juričić je postigao prvi gol u 22. minuti, a Deket je povećao vodstvo u 30. minuti.",
+      "Juričić scored the first goal in the 22nd minute, and Deket increased the lead in the 30th minute."
+     ],
+     [
+      "Borac je kasnije dobio dva crvena kartona i završio utakmicu s dva igrača manje.",
+      "Borac later got two red cards and finished the match with two players fewer."
+     ],
+     [
+      "Atalanta je tada u samo nekoliko minuta postigla tri gola.",
+      "Atalanta then scored three goals in just a few minutes."
+     ],
+     [
+      "Golove su dali Krstović, Kolašinac i Zappacosta, a posljednji je pao u sudijskoj nadoknadi.",
+      "The goals were scored by Krstović, Kolašinac and Zappacosta, and the last one came in stoppage time."
+     ]
+    ],
+    [
+     [
+      "Juričić je rekao da je Borac odigrao kvalitetnu utakmicu i da igrači mogu biti ponosni.",
+      "Juričić said that Borac played a quality match and that the players can be proud."
+     ],
+     [
+      "Smatra da je Atalanta jača ekipa, ali da se to nije vidjelo na terenu.",
+      "He believes that Atalanta is a stronger team, but that this was not seen on the pitch."
+     ],
+     [
+      "Borac ima tri boda, a do kraja su još dvije utakmice.",
+      "Borac has three points, and there are two more matches until the end."
+     ],
+     [
+      "Juričić vjeruje da bi oko četiri boda bila dovoljna za prolaz dalje.",
+      "Juričić believes that about four points would be enough to go through."
+     ],
+     [
+      "Borac u nedjelju igra protiv Sarajeva u Premijer ligi.",
+      "On Sunday Borac plays against Sarajevo in the Premier League."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "poraz",
+     "defeat"
+    ],
+    [
+     "napadač",
+     "striker, forward"
+    ],
+    [
+     "voditi",
+     "to lead"
+    ],
+    [
+     "crveni karton",
+     "red card"
+    ],
+    [
+     "ponosan",
+     "proud"
+    ],
+    [
+     "bod",
+     "point"
+    ],
+    [
+     "prolaz",
+     "going through, qualification"
+    ]
+   ]
+  },
+  {
+   "id": "261127008",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/lifestyle/ljubimci/mala-panda-rio-proslavila-prvi-rodendan-vesela-igra-i-njezni-trenuci-s-majkom-raznjezili-posjetioce/261127008",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261127008.jpg",
+   "published": "2026-11-27T07:12:00+01:00",
+   "title": [
+    "Prva panda rođena u Indoneziji proslavila prvi rođendan",
+    "The first panda born in Indonesia celebrated its first birthday"
+   ],
+   "body": [
+    [
+     [
+      "Rio, prva velika panda rođena u Indoneziji, proslavio je prvi rođendan u parku Taman Safari kod grada Bogora.",
+      "Rio, the first giant panda born in Indonesia, celebrated his first birthday in the Taman Safari park near the city of Bogor."
+     ],
+     [
+      "Na proslavi se igrao s majkom Hu Chun među bambusom, dok su ga fotografi snimali iza ograde.",
+      "At the celebration he played with his mother Hu Chun among the bamboo, while photographers filmed him from behind the fence."
+     ],
+     [
+      "Prostor je bio ukrašen natpisom koji mu čestita rođendan.",
+      "The space was decorated with a sign congratulating him on his birthday."
+     ]
+    ],
+    [
+     [
+      "Rio je rođen 27. novembra 2025. godine, a njegov otac se zove Cai Tao.",
+      "Rio was born on 27 November 2025, and his father's name is Cai Tao."
+     ],
+     [
+      "Roditelji su u Indoneziju stigli 2017. godine u okviru programa zaštite vrste s Kinom.",
+      "The parents arrived in Indonesia in 2017 as part of a species protection programme with China."
+     ],
+     [
+      "Ime Satrio Wiratama dao mu je predsjednik Prabowo Subianto, a ono znači plemeniti i hrabri vitez.",
+      "The name Satrio Wiratama was given to him by President Prabowo Subianto, and it means noble and brave knight."
+     ]
+    ],
+    [
+     [
+      "Put do Riovog rođenja bio je dug i težak.",
+      "The path to Rio's birth was long and difficult."
+     ],
+     [
+      "Stručnjaci su prvo četiri puta pokušali prirodnim putem, a onda su prešli na vještačku oplodnju.",
+      "Experts first tried four times naturally, and then switched to artificial insemination."
+     ],
+     [
+      "Uspjeli su tek u četvrtom pokušaju.",
+      "They succeeded only on the fourth attempt."
+     ],
+     [
+      "Posjetioci mogu vidjeti Rija uživo od 9. juna ove godine, kada je predstavljen javnosti.",
+      "Visitors can see Rio live since 9 June this year, when he was presented to the public."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "rođendan",
+     "birthday"
+    ],
+    [
+     "proslaviti",
+     "to celebrate"
+    ],
+    [
+     "majka",
+     "mother"
+    ],
+    [
+     "bambus",
+     "bamboo"
+    ],
+    [
+     "vrsta",
+     "species"
+    ],
+    [
+     "vitez",
+     "knight"
+    ],
+    [
+     "pokušaj",
+     "attempt"
+    ]
+   ]
+  },
+  {
+   "id": "261127007",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/dodik-o-studentskoj-listi-ja-sam-veci-patriota-od-njih-i-ovdje-i-u-srbiji-a-vucic-im-treba-pruziti-priliku/261127007",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261127007.jpg",
+   "published": "2026-11-27T07:10:00+01:00",
+   "title": [
+    "Dodik kaže da je veći patriota od studenata u Srbiji",
+    "Dodik says he is a bigger patriot than the students in Serbia"
+   ],
+   "body": [
+    [
+     [
+      "Lider SNSD-a Milorad Dodik odbacio je kritike studenata iz Srbije koji se okupljaju oko Studentske liste.",
+      "SNSD leader Milorad Dodik rejected criticism from students in Serbia who gather around the Student List."
+     ],
+     [
+      "U intervjuu za Euronews Srbija, snimljenom u Banjoj Luci, rekao je da je veći patriota od njih.",
+      "In an interview with Euronews Srbija, recorded in Banja Luka, he said he is a bigger patriot than they are."
+     ],
+     [
+      "Dodao je da se zbog toga neće pravdati ni u Srbiji ni u Republici Srpskoj.",
+      "He added that he will not justify himself for it either in Serbia or in Republika Srpska."
+     ]
+    ],
+    [
+     [
+      "Mediji su ranije pisali da studenti prije izbora u Srbiji nisu mogli održati skupove u Banjoj Luci.",
+      "The media earlier wrote that before the elections in Serbia the students could not hold rallies in Banja Luka."
+     ],
+     [
+      "Dodik tvrdi da im niko nije zabranio skupove, a organizatori nisu tražili odobrenje policije.",
+      "Dodik claims that no one banned their rallies, and the organisers did not ask the police for approval."
+     ],
+     [
+      "Priznao je da nije pročitao program Studentske liste kada je pozivao građane da glasaju protiv nje.",
+      "He admitted that he had not read the Student List's programme when he called on citizens to vote against it."
+     ],
+     [
+      "Neki dijelovi programa su mu prihvatljivi, ali za druge kaže da ih tek treba razumjeti.",
+      "Some parts of the programme are acceptable to him, but about others he says they still need to be understood."
+     ]
+    ],
+    [
+     [
+      "Novim vlastima u Srbiji poručio je da ne diraju Republiku Srpsku.",
+      "He told the new authorities in Serbia not to touch Republika Srpska."
+     ],
+     [
+      "Rekao je i da nema plan za odcjepljenje od Bosne i Hercegovine.",
+      "He also said that he has no plan for secession from Bosnia and Herzegovina."
+     ],
+     [
+      "Ipak, smatra da Srbi nemaju razlog ostati u zajednici u kojoj, kako kaže, ne mogu koristiti prava iz Dejtonskog sporazuma.",
+      "Still, he believes that Serbs have no reason to stay in a community in which, as he says, they cannot use the rights from the Dayton Agreement."
+     ],
+     [
+      "Na kraju je rekao da bi Aleksandar Vučić trebao studentima dati priliku da rade.",
+      "Finally, he said that Aleksandar Vučić should give the students a chance to work."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "patriota",
+     "patriot"
+    ],
+    [
+     "kritika",
+     "criticism"
+    ],
+    [
+     "skup",
+     "rally, gathering"
+    ],
+    [
+     "zabraniti",
+     "to ban"
+    ],
+    [
+     "program",
+     "programme"
+    ],
+    [
+     "odcjepljenje",
+     "secession"
+    ],
+    [
+     "prilika",
+     "chance, opportunity"
+    ]
+   ]
+  },
+  {
+   "id": "261127009",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/showbiz/jonathan-frakes-otkrio-kako-je-saznao-da-ima-rak-mokracnog-mjehura-znao-sam-da-je-to-znak-za-uzbunu/261127009",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261127009.jpg",
+   "published": "2026-11-27T07:06:00+01:00",
+   "title": [
+    "Glumac Jonathan Frakes govorio o borbi s rakom",
+    "Actor Jonathan Frakes spoke about his fight with cancer"
+   ],
+   "body": [
+    [
+     [
+      "Američki glumac Jonathan Frakes, poznat iz serije Zvjezdane staze, ispričao je kako je saznao da ima rak mokraćnog mjehura.",
+      "American actor Jonathan Frakes, known from the series Star Trek, told how he found out that he has bladder cancer."
+     ],
+     [
+      "Frakes ima 74 godine, a o bolesti je govorio u podcastu koji je objavljen 21. novembra.",
+      "Frakes is 74 years old, and he talked about the illness in a podcast that was released on 21 November."
+     ]
+    ],
+    [
+     [
+      "Jedne večeri primijetio je da mu je urin ružičaste boje.",
+      "One evening he noticed that his urine was pink."
+     ],
+     [
+      "Prvo je mislio da je to zbog cvekle, ali mu je kolega Brent Spiner rekao da ode doktoru.",
+      "At first he thought it was because of beetroot, but his colleague Brent Spiner told him to go to a doctor."
+     ],
+     [
+      "Urolog mu je uradio cistoskopiju, pregled mjehura malom kamerom, i pronašao rak.",
+      "A urologist did a cystoscopy on him, an examination of the bladder with a small camera, and found cancer."
+     ],
+     [
+      "Tri dana kasnije doktori su operacijom uklonili tumore.",
+      "Three days later doctors removed the tumours with an operation."
+     ],
+     [
+      "Nakon toga je šest sedmica primao hemoterapiju i imunoterapiju.",
+      "After that he received chemotherapy and immunotherapy for six weeks."
+     ]
+    ],
+    [
+     [
+      "Doktori su otkrili i da mu je prostata jako uvećana, pa je imao još jednu operaciju.",
+      "Doctors also discovered that his prostate was very enlarged, so he had another operation."
+     ],
+     [
+      "Frakes je rekao da bi se bolest mogla proširiti da nije brzo reagovao.",
+      "Frakes said that the illness could have spread if he had not reacted quickly."
+     ],
+     [
+      "Urolog je objasnio da je krv u urinu, čak i bez bola, uvijek znak za uzbunu.",
+      "The urologist explained that blood in the urine, even without pain, is always a warning sign."
+     ],
+     [
+      "Glumac je o bolesti odlučio javno govoriti da bi ljudi bez čekanja otišli doktoru kada primijete promjene.",
+      "The actor decided to talk publicly about the illness so that people would go to a doctor without waiting when they notice changes."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "glumac",
+     "actor"
+    ],
+    [
+     "rak",
+     "cancer"
+    ],
+    [
+     "mokraćni mjehur",
+     "bladder"
+    ],
+    [
+     "primijetiti",
+     "to notice"
+    ],
+    [
+     "pregled",
+     "examination"
+    ],
+    [
+     "ukloniti",
+     "to remove"
+    ],
+    [
+     "znak za uzbunu",
+     "warning sign"
+    ]
+   ]
+  },
+  {
+   "id": "261127002",
+   "source": "Klix.ba",
+   "section": "Vrijeme",
+   "url": "https://www.klix.ba/vijesti/svijet/oluja-pokvarila-praznik-amerikancima-gotovo-milion-ljudi-u-mraku-na-dan-zahvalnosti-aviosaobracaj-u-kolapsu/261127002",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261127002.jpg",
+   "published": "2026-11-27T06:39:00+01:00",
+   "title": [
+    "Oluja na Dan zahvalnosti ostavila Amerikance bez struje",
+    "Storm on Thanksgiving left Americans without power"
+   ],
+   "body": [
+    [
+     [
+      "Jaka oluja pogodila je istočnu obalu SAD-a u četvrtak, na Dan zahvalnosti.",
+      "A strong storm hit the east coast of the USA on Thursday, on Thanksgiving Day."
+     ],
+     [
+      "Više od 920.000 domaćinstava ostalo je bez struje, a mnogi letovi su kasnili ili su otkazani.",
+      "More than 920,000 households were left without power, and many flights were delayed or cancelled."
+     ],
+     [
+      "Oluja je došla u vrijeme kada mnogi ljudi putuju zbog praznika.",
+      "The storm came at a time when many people travel because of the holiday."
+     ]
+    ],
+    [
+     [
+      "Najviše domaćinstava bez struje bilo je u Pennsylvaniji, oko 226.000, zatim u Marylandu i Virginiji.",
+      "The most households without power were in Pennsylvania, about 226,000, then in Maryland and Virginia."
+     ],
+     [
+      "Do 18 sati po lokalnom vremenu kasnilo je više od 2.000 letova, a 428 je otkazano.",
+      "By 6 pm local time more than 2,000 flights were delayed, and 428 were cancelled."
+     ],
+     [
+      "Na aerodromu u Baltimoreu otkazan je svaki četvrti let.",
+      "At the airport in Baltimore every fourth flight was cancelled."
+     ],
+     [
+      "U New Jerseyju su ulice bile poplavljene, a u Ocean Cityju vjetar je odnio krov jedne zgrade.",
+      "In New Jersey the streets were flooded, and in Ocean City the wind blew away the roof of a building."
+     ]
+    ],
+    [
+     [
+      "Meteorolozi su još u srijedu upozorili na poplave, jak vjetar i obilnu kišu.",
+      "Meteorologists warned already on Wednesday about floods, strong wind and heavy rain."
+     ],
+     [
+      "Zbog vjetra je čuvena parada Macy's u New Yorku prvi put u historiji odgođena za subotu.",
+      "Because of the wind, the famous Macy's parade in New York was postponed to Saturday for the first time in history."
+     ],
+     [
+      "Gradonačelnik Zohran Mamdani rekao je da udari vjetra mogu dostići oko 97 kilometara na sat.",
+      "Mayor Zohran Mamdani said that wind gusts could reach about 97 kilometres per hour."
+     ],
+     [
+      "Od 24. do 30. novembra očekuje se oko 17,6 miliona putnika na aerodromima.",
+      "From 24 to 30 November about 17.6 million passengers are expected at airports."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "oluja",
+     "storm"
+    ],
+    [
+     "struja",
+     "electricity, power"
+    ],
+    [
+     "domaćinstvo",
+     "household"
+    ],
+    [
+     "let",
+     "flight"
+    ],
+    [
+     "otkazati",
+     "to cancel"
+    ],
+    [
+     "poplava",
+     "flood"
+    ],
+    [
+     "odgoditi",
+     "to postpone"
+    ],
+    [
+     "udar vjetra",
+     "wind gust"
+    ]
+   ]
+  },
+  {
+   "id": "261127005",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/osvojio-milion-dolara-na-americkoj-lutriji-nekoliko-dana-kasnije-uhapsio-ga-ice-zbog-deportacije/261127005",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261127005.jpg",
+   "published": "2026-11-27T06:32:00+01:00",
+   "title": [
+    "Osvojio milion dolara na lutriji, a onda ga uhapsio ICE",
+    "He won a million dollars in the lottery, then ICE arrested him"
+   ],
+   "body": [
+    [
+     [
+      "Muškarac iz Bostona osvojio je milion dolara na lutriji, ali je nekoliko dana kasnije uhapšen.",
+      "A man from Boston won a million dollars in the lottery, but a few days later he was arrested."
+     ],
+     [
+      "Zove se Ariel Antonio Velasquez-Morales, a uhapsila ga je američka imigracijska služba ICE.",
+      "His name is Ariel Antonio Velasquez-Morales, and he was arrested by the US immigration service ICE."
+     ],
+     [
+      "Lutrija je ranije na društvenim mrežama objavila njegovu fotografiju s velikim čekom.",
+      "The lottery had earlier published his photo with a big cheque on social media."
+     ]
+    ],
+    [
+     [
+      "Dobitak je osvojio na srećki koju je kupio za 10 dolara.",
+      "He won the prize on a scratch ticket that he bought for 10 dollars."
+     ],
+     [
+      "Odlučio je odmah uzeti 650.000 dolara prije poreza, umjesto isplate u ratama.",
+      "He decided to take 650,000 dollars before tax at once, instead of payment in instalments."
+     ],
+     [
+      "Nekoliko dana kasnije ured ICE-a u Bostonu objavio je istu fotografiju i vijest o hapšenju.",
+      "A few days later the ICE office in Boston published the same photo and the news of the arrest."
+     ],
+     [
+      "Uhapšen je u utorak u istom dijelu grada u kojem je kupio srećku.",
+      "He was arrested on Tuesday in the same part of the city where he bought the ticket."
+     ]
+    ],
+    [
+     [
+      "ICE kaže da je muškarac iz Salvadora i da je u SAD ušao ilegalno 2013. godine.",
+      "ICE says that the man is from El Salvador and that he entered the USA illegally in 2013."
+     ],
+     [
+      "Sudija je 2014. godine odlučio da mora napustiti zemlju.",
+      "In 2014 a judge decided that he must leave the country."
+     ],
+     [
+      "Fox News piše da je pokušao pobjeći, ali su ga brzo uhvatili.",
+      "Fox News writes that he tried to run away, but they quickly caught him."
+     ],
+     [
+      "Sada čeka deportaciju, a još se ne zna šta će biti s novcem.",
+      "He is now waiting for deportation, and it is not yet known what will happen to the money."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "lutrija",
+     "lottery"
+    ],
+    [
+     "osvojiti",
+     "to win"
+    ],
+    [
+     "srećka",
+     "lottery ticket"
+    ],
+    [
+     "dobitak",
+     "prize, win"
+    ],
+    [
+     "porez",
+     "tax"
+    ],
+    [
+     "uhapsiti",
+     "to arrest"
+    ],
+    [
+     "deportacija",
+     "deportation"
+    ]
+   ]
+  },
+  {
+   "id": "261127003",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/trump-trazio-sam-od-putina-da-povuce-svu-vojnu-agresiju-u-evropi/261127003",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261127003.jpg",
+   "published": "2026-11-27T06:28:00+01:00",
+   "title": [
+    "Trump kaže da je tražio od Putina povlačenje iz Evrope",
+    "Trump says he asked Putin to withdraw from Europe"
+   ],
+   "body": [
+    [
+     [
+      "Američki predsjednik Donald Trump objavio je da je od Vladimira Putina tražio da Rusija povuče svu vojnu agresiju u Evropi.",
+      "US President Donald Trump announced that he had asked Vladimir Putin for Russia to withdraw all military aggression in Europe."
+     ],
+     [
+      "Kaže da je to rekao Putinu prošle sedmice na samitu APEC-a u Kini.",
+      "He says he told Putin this last week at the APEC summit in China."
+     ],
+     [
+      "Nije objasnio na koja područja u Evropi misli.",
+      "He did not explain which areas in Europe he means."
+     ]
+    ],
+    [
+     [
+      "Trump je napisao da je mirovni sporazum između Rusije i Ukrajine vrlo moguć.",
+      "Trump wrote that a peace agreement between Russia and Ukraine is very possible."
+     ],
+     [
+      "Dodao je da svakog mjeseca umiru hiljade ljudi.",
+      "He added that thousands of people die every month."
+     ],
+     [
+      "Objavu je napisao nakon sastanka s generalnim sekretarom NATO-a Markom Rutteom na Mar-a-Lagu.",
+      "He wrote the post after a meeting with NATO Secretary General Mark Rutte at Mar-a-Lago."
+     ],
+     [
+      "U zajedničkoj izjavi rekli su da Rusija ne smije raditi ništa što bi proširilo rat.",
+      "In a joint statement they said that Russia must not do anything that would widen the war."
+     ]
+    ],
+    [
+     [
+      "Agencija AFP piše da je ovo nova promjena tona, jer je Trump prošle sedmice Putina nazvao prijateljem.",
+      "The AFP agency writes that this is a new change of tone, because Trump called Putin a friend last week."
+     ],
+     [
+      "Poljska u isto vrijeme optužuje Rusiju da su dvije rakete i jedan dron pali na njenu teritoriju, a Moskva to negira.",
+      "At the same time Poland accuses Russia that two missiles and a drone fell on its territory, and Moscow denies it."
+     ],
+     [
+      "Ukrajinski predsjednik Volodimir Zelenski upozorio je da Rusija sprema novi veliki napad na energetski sistem.",
+      "Ukrainian President Volodymyr Zelensky warned that Russia is preparing a new large attack on the energy system."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "povući",
+     "to withdraw"
+    ],
+    [
+     "agresija",
+     "aggression"
+    ],
+    [
+     "samit",
+     "summit"
+    ],
+    [
+     "mirovni sporazum",
+     "peace agreement"
+    ],
+    [
+     "izjava",
+     "statement"
+    ],
+    [
+     "raketa",
+     "missile"
+    ],
+    [
+     "napad",
+     "attack"
+    ]
+   ]
+  },
   {
    "id": "261126268",
    "source": "Klix.ba",
@@ -4678,926 +5614,6 @@
     [
      "bod",
      "point (in a table)"
-    ]
-   ]
-  },
-  {
-   "id": "261125006",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/porota-u-sad-u-proglasila-huawei-krivim-za-kradu-poslovnih-tajni-i-krsenje-sankcija-iranu/261125006",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261125006.jpg",
-   "published": "2026-11-25T07:15:00+01:00",
-   "title": [
-    "Porota u SAD-u proglasila Huawei krivim za krađu i sankcije",
-    "US jury finds Huawei guilty of theft and sanctions violations"
-   ],
-   "body": [
-    [
-     [
-      "Porota u Brooklynu u New Yorku proglasila je kinesku kompaniju Huawei krivom po 10 od 12 tačaka optužnice.",
-      "A jury in Brooklyn, New York, found the Chinese company Huawei guilty on 10 of 12 counts of the indictment."
-     ],
-     [
-      "Suđenje je trajalo tri mjeseca, a presudu je objavilo američko Ministarstvo pravde.",
-      "The trial lasted three months, and the verdict was announced by the US Department of Justice."
-     ],
-     [
-      "Kompanija je oslobođena za najteže djelo, udruživanje radi reketiranja, i za ometanje pravde.",
-      "The company was acquitted of the most serious offence, racketeering conspiracy, and of obstruction of justice."
-     ]
-    ],
-    [
-     [
-      "Huawei je kriv za kršenje sankcija Iranu, laganje bankama, pranje novca i krađu poslovnih tajni.",
-      "Huawei is guilty of violating sanctions on Iran, lying to banks, money laundering and stealing trade secrets."
-     ],
-     [
-      "Tužioci kažu da je kompanija u Iranu gradila mreže i pomagala vladi da prati i cenzuriše internet.",
-      "Prosecutors say that the company built networks in Iran and helped the government monitor and censor the internet."
-     ],
-     [
-      "Od kompanije T-Mobile navodno je uzela podatke o robotu za testiranje ekrana, a od Cisca kod za rutere.",
-      "From the company T-Mobile it allegedly took data about a robot for testing screens, and from Cisco code for routers."
-     ],
-     [
-      "Kazna će biti određena 14. septembra 2027., a prema agenciji AP mogla bi iznositi milijarde dolara.",
-      "The penalty will be set on 14 September 2027, and according to the AP agency it could amount to billions of dollars."
-     ]
-    ],
-    [
-     [
-      "Advokat kompanije Brian Heberlig rekao je da će Huawei uložiti žalbu.",
-      "The company's lawyer Brian Heberlig said that Huawei would appeal."
-     ],
-     [
-      "Huawei tvrdi da nijedan sud nikada nije utvrdio da je namjerno uzeo tuđe intelektualno vlasništvo.",
-      "Huawei claims that no court has ever found that it intentionally took other people's intellectual property."
-     ],
-     [
-      "Optužnica je podignuta još 2019. godine, a Huawei godinama ne smije prodavati opremu američkim mobilnim operaterima.",
-      "The indictment was filed back in 2019, and for years Huawei has not been allowed to sell equipment to US mobile operators."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "porota",
-     "jury"
-    ],
-    [
-     "optužnica",
-     "indictment"
-    ],
-    [
-     "presuda",
-     "verdict"
-    ],
-    [
-     "sankcije",
-     "sanctions"
-    ],
-    [
-     "pranje novca",
-     "money laundering"
-    ],
-    [
-     "poslovna tajna",
-     "trade secret"
-    ],
-    [
-     "žalba",
-     "appeal"
-    ],
-    [
-     "tužilac",
-     "prosecutor"
-    ]
-   ]
-  },
-  {
-   "id": "261125009",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/lifestyle/modailjepota/portorikanka-jennifer-barreto-nova-je-miss-universe-nakon-20-godina-kruna-ponovo-u-njenoj-zemlji/261125009",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261125009.jpg",
-   "published": "2026-11-25T07:08:00+01:00",
-   "title": [
-    "Jennifer Barreto iz Portorika nova je Miss Universe",
-    "Jennifer Barreto from Puerto Rico is the new Miss Universe"
-   ],
-   "body": [
-    [
-     [
-      "Jennifer Barreto iz Portorika pobijedila je na 75. izboru za Miss Universe.",
-      "Jennifer Barreto from Puerto Rico won the 75th Miss Universe pageant."
-     ],
-     [
-      "Finale je održano 24. novembra u glavnom gradu Portorika, San Juanu.",
-      "The final was held on 24 November in the capital of Puerto Rico, San Juan."
-     ],
-     [
-      "Takmičilo se 116 djevojaka iz različitih zemalja i teritorija.",
-      "116 young women from different countries and territories competed."
-     ]
-    ],
-    [
-     [
-      "Krunu joj je stavila prošlogodišnja pobjednica Fátima Bosch iz Meksika.",
-      "The crown was placed on her by last year's winner Fátima Bosch from Mexico."
-     ],
-     [
-      "Ovo je šesta titula za Portoriko i prva nakon 20 godina, jer je posljednja pobijedila Zuleyka Rivera 2006. godine.",
-      "This is the sixth title for Puerto Rico and the first after 20 years, because the last to win was Zuleyka Rivera in 2006."
-     ],
-     [
-      "Drugo mjesto zauzela je Melissa Núñez iz Dominikanske Republike, a treće Clara Vegas iz Venecuele.",
-      "Second place went to Melissa Núñez from the Dominican Republic, and third to Clara Vegas from Venezuela."
-     ],
-     [
-      "Među pet najboljih bile su i takmičarke s Filipina i iz Novog Zelanda.",
-      "Among the top five there were also contestants from the Philippines and New Zealand."
-     ]
-    ],
-    [
-     [
-      "Nova Miss Universe ima 27 godina i završila je psihologiju i socijalni rad.",
-      "The new Miss Universe is 27 years old and has a degree in psychology and social work."
-     ],
-     [
-      "Radila je na sprečavanju nasilja u porodici, zaštiti djece i pomoći porodicama.",
-      "She has worked on preventing domestic violence, protecting children and helping families."
-     ],
-     [
-      "Magazin People piše da je ona prva majka koja je osvojila ovu titulu.",
-      "People magazine writes that she is the first mother to win this title."
-     ],
-     [
-      "Barreto ima kćerku koja se zove Penelope.",
-      "Barreto has a daughter called Penelope."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "izbor",
-     "contest, pageant; election"
-    ],
-    [
-     "finale",
-     "final"
-    ],
-    [
-     "kruna",
-     "crown"
-    ],
-    [
-     "titula",
-     "title"
-    ],
-    [
-     "takmičarka",
-     "contestant (female)"
-    ],
-    [
-     "nasilje u porodici",
-     "domestic violence"
-    ],
-    [
-     "kćerka",
-     "daughter"
-    ]
-   ]
-  },
-  {
-   "id": "261124339",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/muzika/jakov-jozinovic-nastupio-u-rasprodanoj-skenderiji-ovako-nesto-nikad-stvarno-nisam-vidio/261124339",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261124339.jpg",
-   "published": "2026-11-24T23:28:00+01:00",
-   "title": [
-    "Jakov Jozinović održao koncert u rasprodanoj Skenderiji",
-    "Jakov Jozinović held a concert in a sold-out Skenderija"
-   ],
-   "body": [
-    [
-     [
-      "Hrvatski pjevač Jakov Jozinović održao je koncert u rasprodanoj dvorani Skenderija u Sarajevu.",
-      "Croatian singer Jakov Jozinović held a concert in the sold-out Skenderija hall in Sarajevo."
-     ],
-     [
-      "Gošća večeri bila je Džejla Ramović, s kojom je prvi put uživo izveo duet \"Suze\".",
-      "The guest of the evening was Džejla Ramović, with whom he performed the duet \"Suze\" live for the first time."
-     ],
-     [
-      "Pjesmu su objavili 20. novembra.",
-      "They released the song on 20 November."
-     ]
-    ],
-    [
-     [
-      "Jozinović je rekao publici da nešto ovako nikada nije vidio.",
-      "Jozinović told the audience that he had never seen anything like this."
-     ],
-     [
-      "Pjevao je svoje pjesme \"Polje ruža\" i \"Ja volim\", ali i poznate pjesme iz regiona.",
-      "He sang his songs \"Polje ruža\" and \"Ja volim\", but also well-known songs from the region."
-     ],
-     [
-      "Izveo je, između ostalog, pjesme Kemala Montena, Dine Merlina, Olivera Dragojevića i Halida Bešlića.",
-      "Among other things, he performed songs by Kemal Monteno, Dino Merlin, Oliver Dragojević and Halid Bešlić."
-     ],
-     [
-      "Na scenu je pozvao osmogodišnju Asju iz Travnika, koja je kao najdražu pjesmu odmah izabrala \"Polje ruža\".",
-      "He invited eight-year-old Asja from Travnik onto the stage, who immediately chose \"Polje ruža\" as her favourite song."
-     ]
-    ],
-    [
-     [
-      "Tokom dueta je kleknuo pred Džejlu i aplaudirao joj, a nastup su završili zagrljajem.",
-      "During the duet he knelt before Džejla and applauded her, and they ended the performance with a hug."
-     ],
-     [
-      "Djevojke iz prvih redova bacale su mu plišane igračke i pjevale s njim.",
-      "Girls from the front rows threw plush toys at him and sang with him."
-     ],
-     [
-      "Jozinović je brzo postao jedno od najtraženijih imena u regionu, a dvorane je punio i prije prve vlastite pjesme.",
-      "Jozinović quickly became one of the most sought-after names in the region, and he filled halls even before his first original song."
-     ],
-     [
-      "Koncert u Sarajevu dio je njegove regionalne turneje \"Ja za čuda letim\".",
-      "The concert in Sarajevo is part of his regional tour \"Ja za čuda letim\"."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "pjevač",
-     "singer"
-    ],
-    [
-     "koncert",
-     "concert"
-    ],
-    [
-     "rasprodan",
-     "sold out"
-    ],
-    [
-     "publika",
-     "audience"
-    ],
-    [
-     "scena",
-     "stage"
-    ],
-    [
-     "zagrljaj",
-     "hug"
-    ],
-    [
-     "turneja",
-     "tour"
-    ]
-   ]
-  },
-  {
-   "id": "261124280",
-   "source": "Klix.ba",
-   "section": "Zdravlje",
-   "url": "https://www.klix.ba/lifestyle/zdravlje/osobe-s-visim-nivoima-vitamina-d-spavaju-duze-i-rjede-se-bude/261124280",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261124280.jpg",
-   "published": "2026-11-24T21:09:00+01:00",
-   "title": [
-    "Ljudi s više vitamina D spavaju duže, pokazuje studija",
-    "People with more vitamin D sleep longer, a study shows"
-   ],
-   "body": [
-    [
-     [
-      "Američki naučnici otkrili su da stariji ljudi s višim nivoom vitamina D duže spavaju.",
-      "American scientists have found that older people with a higher level of vitamin D sleep longer."
-     ],
-     [
-      "Istraživanje su uradili stručnjaci s Univerziteta Johns Hopkins i američkog Nacionalnog instituta za starenje.",
-      "The research was done by experts from Johns Hopkins University and the US National Institute on Aging."
-     ],
-     [
-      "Pratili su 460 muškaraca i žena, koji su u prosjeku imali oko 71 godinu.",
-      "They followed 460 men and women, who were on average about 71 years old."
-     ]
-    ],
-    [
-     [
-      "Vitamin D mjerili su iz krvi, a san uređajem koji se nosi na ruci i bilježi pokrete.",
-      "They measured vitamin D from the blood, and sleep with a device that is worn on the wrist and records movements."
-     ],
-     [
-      "Ljudi s najviše vitamina D spavali su u prosjeku skoro 20 minuta duže od onih s najmanje.",
-      "People with the most vitamin D slept on average almost 20 minutes longer than those with the least."
-     ],
-     [
-      "Oni su se tokom noći i kraće budili.",
-      "They also woke up for shorter periods during the night."
-     ],
-     [
-      "Osobe s nedostatkom vitamina D spavale su oko 23 minute manje od onih s normalnim nivoom.",
-      "People with a vitamin D deficiency slept about 23 minutes less than those with a normal level."
-     ]
-    ],
-    [
-     [
-      "Autori naglašavaju da studija pokazuje vezu, ali ne dokazuje da vitamin D direktno poboljšava san.",
-      "The authors stress that the study shows a link, but does not prove that vitamin D directly improves sleep."
-     ],
-     [
-      "Nisu znali da li su ljudi vitamin D dobili iz hrane, od sunca ili iz tableta.",
-      "They did not know whether people got vitamin D from food, from the sun or from tablets."
-     ],
-     [
-      "Glavni autor Adam Spira rekao je da bi to trebalo detaljnije istražiti.",
-      "The lead author Adam Spira said that this should be researched in more detail."
-     ],
-     [
-      "Problemi sa spavanjem česti su kod starijih osoba i povezani su s dijabetesom i bolestima srca.",
-      "Sleep problems are common in older people and are linked to diabetes and heart disease."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "san",
-     "sleep; dream"
-    ],
-    [
-     "nivo",
-     "level"
-    ],
-    [
-     "istraživanje",
-     "research, study"
-    ],
-    [
-     "u prosjeku",
-     "on average"
-    ],
-    [
-     "nedostatak",
-     "deficiency, lack"
-    ],
-    [
-     "veza",
-     "link, connection"
-    ],
-    [
-     "poboljšati",
-     "to improve"
-    ]
-   ]
-  },
-  {
-   "id": "261124287",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/zeljeznicar-objavio-koji-trenerski-tim-vodi-ekipu-sabit-sljivo-trener-jos-cetiri-imena-uz-njega/261124287",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261124287.jpg",
-   "published": "2026-11-24T18:37:00+01:00",
-   "title": [
-    "Sabit Šljivo privremeno vodi Željezničar do novog trenera",
-    "Sabit Šljivo temporarily leads Željezničar until a new coach"
-   ],
-   "body": [
-    [
-     [
-      "Željezničar je objavio ko će voditi ekipu dok klub ne izabere novog trenera.",
-      "Željezničar has announced who will lead the team until the club chooses a new coach."
-     ],
-     [
-      "Glavni trener bit će Sabit Šljivo, a uz njega su još četiri člana stručnog štaba.",
-      "The head coach will be Sabit Šljivo, and with him are four more members of the coaching staff."
-     ],
-     [
-      "To su Milan Gutović, Kenan Hasagić, Emil Šabanović i Matic Lukman Čoko.",
-      "They are Milan Gutović, Kenan Hasagić, Emil Šabanović and Matic Lukman Čoko."
-     ]
-    ],
-    [
-     [
-      "Prvi test bit će utakmica protiv Veleža u Mostaru u subotu, 28. novembra, u 16:00.",
-      "The first test will be the match against Velež in Mostar on Saturday, 28 November, at 16:00."
-     ],
-     [
-      "To je utakmica 15. kola WWIN lige BiH na stadionu Rođeni.",
-      "It is a match of the 15th round of the WWIN League of BiH at Rođeni stadium."
-     ],
-     [
-      "Klub je prekinuo saradnju sa španskim trenerom Davidom Muslerom nakon poraza od Borca.",
-      "The club ended its cooperation with Spanish coach David Muslera after the defeat against Borac."
-     ],
-     [
-      "Borac je 21. novembra na Grbavici pobijedio Željezničar 4:0.",
-      "On 21 November Borac beat Željezničar 4:0 at Grbavica."
-     ]
-    ],
-    [
-     [
-      "Muslera je vodio ekipu na 15 utakmica i imao je četiri pobjede, četiri neriješena rezultata i sedam poraza.",
-      "Muslera led the team in 15 matches and had four wins, four draws and seven defeats."
-     ],
-     [
-      "Gol-razlika u tom periodu bila je 14:25.",
-      "The goal difference in that period was 14:25."
-     ],
-     [
-      "Željezničar je posljednji put u ligi pobijedio 9. septembra, kada je u derbiju savladao Sarajevo 2:0.",
-      "Željezničar last won in the league on 9 September, when it beat Sarajevo 2:0 in the derby."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "trener",
-     "coach"
-    ],
-    [
-     "stručni štab",
-     "coaching staff"
-    ],
-    [
-     "utakmica",
-     "match"
-    ],
-    [
-     "poraz",
-     "defeat"
-    ],
-    [
-     "pobjeda",
-     "win"
-    ],
-    [
-     "kolo",
-     "round (of a league)"
-    ],
-    [
-     "privremeno",
-     "temporarily"
-    ]
-   ]
-  },
-  {
-   "id": "261124276",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/ko-je-dorde-zdrale-bjegunac-oko-kojeg-se-vrti-akcija-u-kojoj-su-pali-naser-oric-i-nikolina-sljivic/261124276",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261124276.jpg",
-   "published": "2026-11-24T18:08:00+01:00",
-   "title": [
-    "Ko je Đorđe Ždrale, bjegunac kojeg traži policija",
-    "Who is Đorđe Ždrale, the fugitive the police are looking for"
-   ],
-   "body": [
-    [
-     [
-      "Đorđe Ždrale je čovjek oko kojeg se vrti akcija \"Emisar\", u kojoj je uhapšeno pet osoba.",
-      "Đorđe Ždrale is the man at the centre of the \"Emisar\" operation, in which five people were arrested."
-     ],
-     [
-      "Među njima su Naser Orić i Nikolina Šljivić.",
-      "Among them are Naser Orić and Nikolina Šljivić."
-     ],
-     [
-      "Policija sumnja da su mu pomagali da se skriva i da su skrivali dokaze.",
-      "Police suspect that they helped him hide and that they hid evidence."
-     ],
-     [
-      "Ždrale je iz Istočnog Novog Sarajeva i jedan je od najpoznatijih ljudi iz podzemlja u BiH.",
-      "Ždrale is from Istočno Novo Sarajevo and is one of the best-known figures of the underworld in BiH."
-     ]
-    ],
-    [
-     [
-      "Osumnjičen je da je 2. augusta teško ranio Kostu Pandurevića i od tada je u bijegu.",
-      "He is suspected of seriously wounding Kosta Pandurević on 2 August and has been on the run since then."
-     ],
-     [
-      "Policija ga traži skoro četiri mjeseca, a u augustu je rekla da se možda krije u Federaciji BiH.",
-      "Police have been looking for him for almost four months, and in August they said he might be hiding in the Federation of BiH."
-     ],
-     [
-      "Orić i Ždrale godinama se javno druže, a Orić je bio i na njegovom vjenčanju u novembru 2025. godine.",
-      "Orić and Ždrale have socialised publicly for years, and Orić was also at his wedding in November 2025."
-     ]
-    ],
-    [
-     [
-      "Sud BiH osudio je Ždralu 2010. godine na 20 godina zatvora zbog ubistva Ljubiše Savića Mauzera.",
-      "In 2010 the Court of BiH sentenced Ždrale to 20 years in prison for the murder of Ljubiša Savić Mauzer."
-     ],
-     [
-      "Savić je bio bivši šef policije u RS-u, a ubijen je 2000. godine u Bijeljini.",
-      "Savić was a former police chief in RS, and he was killed in 2000 in Bijeljina."
-     ],
-     [
-      "Ždrale je izašao iz zatvora u februaru 2022. godine, nakon što je odslužio 12 godina.",
-      "Ždrale left prison in February 2022, after he had served 12 years."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "bjegunac",
-     "fugitive"
-    ],
-    [
-     "podzemlje",
-     "underworld"
-    ],
-    [
-     "ranjen",
-     "wounded"
-    ],
-    [
-     "skrivati se",
-     "to hide"
-    ],
-    [
-     "ubistvo",
-     "murder"
-    ],
-    [
-     "zatvor",
-     "prison"
-    ],
-    [
-     "vjenčanje",
-     "wedding"
-    ]
-   ]
-  },
-  {
-   "id": "261124041",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/evropska-komisija-o-planovima-vlasti-u-rs-u-sve-izmjene-entitetskih-ustava-moraju-pratiti-praksu-ustavnog-suda-bih/261124041",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261124041.jpg",
-   "published": "2026-11-24T17:37:00+01:00",
-   "title": [
-    "Evropska komisija upozorila vlast u RS-u zbog novog ustava",
-    "The European Commission warns the RS authorities over a new constitution"
-   ],
-   "body": [
-    [
-     [
-      "Evropska komisija kaže da pažljivo prati planove vlasti u Republici Srpskoj o novom ustavu.",
-      "The European Commission says it is closely following the plans of the authorities in Republika Srpska for a new constitution."
-     ],
-     [
-      "Portparol Komisije odgovorio je na pitanja agencije DTT-NET.",
-      "A Commission spokesperson answered questions from the agency DTT-NET."
-     ],
-     [
-      "On je napisao da je Ustav BiH najviši zakon u državi i da se mora poštovati.",
-      "He wrote that the Constitution of BiH is the highest law in the country and that it must be respected."
-     ],
-     [
-      "Sve izmjene ustava entiteta moraju biti u skladu s odlukama Ustavnog suda BiH.",
-      "All changes to the entity constitutions must be in line with the decisions of the Constitutional Court of BiH."
-     ]
-    ],
-    [
-     [
-      "Lider SNSD-a Milorad Dodik rekao je da Narodna skupština RS-a treba završiti novi ustav do februara.",
-      "SNSD leader Milorad Dodik said the National Assembly of RS should finish the new constitution by February."
-     ],
-     [
-      "Nacrt ustava usvojen je 13. marta 2025. godine na prijedlog SNSD-a.",
-      "The draft constitution was adopted on 13 March 2025 on the proposal of SNSD."
-     ],
-     [
-      "Prema nacrtu, RS bi imao svoju vojsku, a Banja Luka bi bila glavni grad umjesto Sarajeva.",
-      "According to the draft, RS would have its own army, and Banja Luka would be the capital instead of Sarajevo."
-     ],
-     [
-      "Zakoni državnog parlamenta važili bi u RS-u tek kada ih potvrdi Narodna skupština.",
-      "Laws of the state parliament would apply in RS only once the National Assembly confirms them."
-     ]
-    ],
-    [
-     [
-      "Ustavni sud BiH poništio je 27. marta odluku o tom nacrtu.",
-      "On 27 March the Constitutional Court of BiH annulled the decision on that draft."
-     ],
-     [
-      "Sud je naredio svim organima RS-a da prestanu s aktivnostima na osnovu te odluke.",
-      "The court ordered all RS bodies to stop activities based on that decision."
-     ],
-     [
-      "Dodik je više puta rekao da bi RS mogao proglasiti nezavisnost ako BiH ne bude funkcionisala prema Dejtonskom sporazumu.",
-      "Dodik has said several times that RS could declare independence if BiH does not function according to the Dayton Agreement."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "ustav",
-     "constitution"
-    ],
-    [
-     "izmjena",
-     "change, amendment"
-    ],
-    [
-     "nacrt",
-     "draft"
-    ],
-    [
-     "poništiti",
-     "to annul"
-    ],
-    [
-     "vojska",
-     "army"
-    ],
-    [
-     "nezavisnost",
-     "independence"
-    ],
-    [
-     "portparol",
-     "spokesperson"
-    ]
-   ]
-  },
-  {
-   "id": "261124268",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/zeljeznicar-tvrdi-da-mu-napad-na-sosica-nije-prijavljen-igracu-zamjera-i-odnos-prema-treneru/261124268",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261124268.jpg",
-   "published": "2026-11-24T17:18:00+01:00",
-   "title": [
-    "Željezničar kaže da mu napad na Šošića nije prijavljen",
-    "Željezničar says the attack on Šošić was not reported to it"
-   ],
-   "body": [
-    [
-     [
-      "Željezničar je odgovorio na izjave svog igrača Madžida Šošića.",
-      "Željezničar has responded to the statements of its player Madžid Šošić."
-     ],
-     [
-      "Šošić je u intervjuu rekao da ga je jedan navijač fizički napao na treningu i da klub nije reagovao.",
-      "In an interview Šošić said that a fan physically attacked him at training and that the club did not react."
-     ],
-     [
-      "Rekao je i da igrači četiri mjeseca nisu dobili platu.",
-      "He also said that the players had not received their salary for four months."
-     ]
-    ],
-    [
-     [
-      "Klub kaže da osuđuje svaki oblik nasilja, ali da mu napad niko nije prijavio.",
-      "The club says it condemns every form of violence, but that nobody reported the attack to it."
-     ],
-     [
-      "Prema klubu, igrači su dobili tri plate, a većina i četiri, a posljednja je isplaćena 22. oktobra.",
-      "According to the club, the players received three salaries, and most of them four, and the last one was paid on 22 October."
-     ],
-     [
-      "Većina zaposlenih potpisala je dogovor da se stari dugovi isplate do aprila 2027. godine.",
-      "Most employees signed an agreement that old debts be paid by April 2027."
-     ],
-     [
-      "Šošić je jedan od tri igrača koji nisu htjeli potpisati taj dogovor.",
-      "Šošić is one of three players who did not want to sign that agreement."
-     ]
-    ],
-    [
-     [
-      "Klub tvrdi da je Šošić dobijao punu platu dok se deset mjeseci oporavljao od teške povrede.",
-      "The club claims that Šošić received his full salary while he was recovering from a serious injury for ten months."
-     ],
-     [
-      "Također kaže da se nakon povratka više puta neprimjereno ponašao prema treneru i saigračima.",
-      "It also says that after his return he behaved inappropriately towards the coach and teammates several times."
-     ],
-     [
-      "Šošić je ove sezone odigrao 12 utakmica i imao je jednu asistenciju.",
-      "This season Šošić has played 12 matches and had one assist."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "navijač",
-     "fan"
-    ],
-    [
-     "napasti",
-     "to attack"
-    ],
-    [
-     "prijaviti",
-     "to report"
-    ],
-    [
-     "nasilje",
-     "violence"
-    ],
-    [
-     "dug",
-     "debt"
-    ],
-    [
-     "povreda",
-     "injury"
-    ],
-    [
-     "saigrač",
-     "teammate"
-    ]
-   ]
-  },
-  {
-   "id": "261124265",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/kultura/u-bkc-u-otvorena-izlozba-rikarda-larme-o-dobrinji-u-ratu-svjedocanstvo-o-zivotu-pod-opsadom/261124265",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261124265.jpg",
-   "published": "2026-11-24T17:12:00+01:00",
-   "title": [
-    "U BKC-u otvorena izložba fotografija o Dobrinji u ratu",
-    "An exhibition of photographs about Dobrinja in the war opens at BKC"
-   ],
-   "body": [
-    [
-     [
-      "U galeriji BKC u Sarajevu otvorena je izložba fotografija \"Dvostruki obruč – Dobrinja u ratu\".",
-      "The photo exhibition \"Double Ring – Dobrinja at War\" has opened at the BKC gallery in Sarajevo."
-     ],
-     [
-      "Autor fotografija je fotograf Rikard Larma.",
-      "The author of the photographs is photographer Rikard Larma."
-     ],
-     [
-      "Izložba je dio obilježavanja Dana državnosti BiH, koji je 25. novembra.",
-      "The exhibition is part of marking Statehood Day of BiH, which is on 25 November."
-     ]
-    ],
-    [
-     [
-      "Fotografije pokazuju život u sarajevskom naselju Dobrinja za vrijeme opsade od 1992. do 1995. godine.",
-      "The photographs show life in the Sarajevo neighbourhood of Dobrinja during the siege from 1992 to 1995."
-     ],
-     [
-      "Na njima se vide razaranja i patnja, ali i hrabrost i snaga stanovnika.",
-      "They show destruction and suffering, but also the courage and strength of the residents."
-     ],
-     [
-      "Tu su portreti boraca, vatrogasaca i medicinskog osoblja.",
-      "There are portraits of fighters, firefighters and medical staff."
-     ],
-     [
-      "Na jednoj fotografiji vidi se tabla \"Pazi snajper\", a na drugoj djeca s odraslima režu drva.",
-      "One photograph shows a sign \"Watch out, sniper\", and another shows children cutting firewood with adults."
-     ]
-    ],
-    [
-     [
-      "Iz BKC-a kažu da izložba nije samo historijski dokument.",
-      "BKC says the exhibition is not just a historical document."
-     ],
-     [
-      "Prema njihovim riječima, ona podsjeća na ljude i njihove sudbine i na važnost zajedničkog sjećanja.",
-      "In their words, it reminds people of the people and their fates and of the importance of shared memory."
-     ],
-     [
-      "Izložba je otvorena do 6. decembra, svaki dan od 10:00 do 19:00.",
-      "The exhibition is open until 6 December, every day from 10:00 to 19:00."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "izložba",
-     "exhibition"
-    ],
-    [
-     "opsada",
-     "siege"
-    ],
-    [
-     "naselje",
-     "neighbourhood"
-    ],
-    [
-     "razaranje",
-     "destruction"
-    ],
-    [
-     "hrabrost",
-     "courage"
-    ],
-    [
-     "sjećanje",
-     "memory"
-    ],
-    [
-     "sudbina",
-     "fate"
-    ]
-   ]
-  },
-  {
-   "id": "261124267",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/naser-oric-ce-biti-sproveden-u-banju-luku-na-kriminalisticku-obradu/261124267",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261124267.jpg",
-   "published": "2026-11-24T17:05:00+01:00",
-   "title": [
-    "Naser Orić bit će odveden na ispitivanje u Banju Luku",
-    "Naser Orić will be taken to Banja Luka for questioning"
-   ],
-   "body": [
-    [
-     [
-      "Naser Orić bit će prebačen u Banju Luku, javio je RTRS.",
-      "Naser Orić will be transferred to Banja Luka, RTRS reported."
-     ],
-     [
-      "Orić je uhapšen jutros kod Olova u akciji koja se zove \"Emisar\".",
-      "Orić was arrested this morning near Olovo in an operation called \"Emisar\"."
-     ],
-     [
-      "Policija je pretresla njegovu imovinu, a onda ga je odvela u sjedište SIPA-e u Istočnom Sarajevu.",
-      "Police searched his property and then took him to the SIPA headquarters in Istočno Sarajevo."
-     ],
-     [
-      "U policijsku stanicu doveden je s lisicama na rukama, dok je žandarmerija blokirala prilaze zgradi.",
-      "He was brought to the police station in handcuffs, while the gendarmerie blocked the approaches to the building."
-     ]
-    ],
-    [
-     [
-      "U akciji su uhapšeni i bivša poslanica Nikolina Šljivić, advokat Siniša Derganc te Mesud Mustafić i njegov sin Mustafa.",
-      "Former MP Nikolina Šljivić, lawyer Siniša Derganc and Mesud Mustafić and his son Mustafa were also arrested in the operation."
-     ],
-     [
-      "MUP RS-a kaže da su oni pomagali Đorđu Ždrali da pobjegne i da su skrivali dokaze.",
-      "The RS Ministry of the Interior says they helped Đorđe Ždrale escape and that they hid evidence."
-     ],
-     [
-      "Policija je pronašla osam pištolja, 30.000 KM, 10.000 eura, mobitele i računar.",
-      "Police found eight pistols, 30,000 KM, 10,000 euros, mobile phones and a computer."
-     ]
-    ],
-    [
-     [
-      "Akciju su zajedno provele SIPA i policija RS-a, pod nadzorom posebnog odjela tužilaštva.",
-      "The operation was carried out jointly by SIPA and the RS police, under the supervision of a special department of the prosecutor's office."
-     ],
-     [
-      "Ždrale je osumnjičen da je 2. augusta u Istočnom Novom Sarajevu pucao na Kostu Pandurevića.",
-      "Ždrale is suspected of shooting at Kosta Pandurević on 2 August in Istočno Novo Sarajevo."
-     ],
-     [
-      "Od tada je u bijegu, a policija ga i dalje traži.",
-      "He has been on the run since then, and police are still looking for him."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "uhapsiti",
-     "to arrest"
-    ],
-    [
-     "pretresti",
-     "to search"
-    ],
-    [
-     "dokaz",
-     "evidence"
-    ],
-    [
-     "pobjeći",
-     "to escape"
-    ],
-    [
-     "osumnjičen",
-     "suspected"
-    ],
-    [
-     "tužilaštvo",
-     "prosecutor's office"
-    ],
-    [
-     "lisice",
-     "handcuffs"
     ]
    ]
   }
