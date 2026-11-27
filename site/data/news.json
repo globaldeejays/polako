@@ -1,18 +1,738 @@
 {
- "updated": "2026-11-27T07:50:00+01:00",
+ "updated": "2026-11-27T13:45:00+01:00",
  "front": [
-  "261127007",
-  "261127002",
-  "261127003",
-  "261127005",
-  "261127013",
-  "261127016",
+  "261127137",
+  "261127119",
+  "261127114",
+  "261127131",
+  "261127076",
+  "261127049",
   "261127012",
-  "261127009",
+  "261127100",
   "261127015",
-  "261127008"
+  "261127070"
  ],
  "articles": [
+  {
+   "id": "261127137",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/lider-arapske-stranke-u-izraelu-pred-presedanom-hoce-li-ispuniti-glavni-uslov-za-vladu-i-gurnuti-netanyahua-u-ponor/261127137",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261127137.jpg",
+   "published": "2026-11-27T13:27:00+01:00",
+   "title": [
+    "Arapska stranka mogla bi pomoći da Netanyahu ostane bez vlasti",
+    "An Arab party could help Netanyahu lose power"
+   ],
+   "body": [
+    [
+     [
+      "Mansour Abbas, lider arapske stranke Ra'am u Izraelu, mogao bi pomoći da se formira nova vlada bez Benjamina Netanyahua.",
+      "Mansour Abbas, the leader of the Arab party Ra'am in Israel, could help form a new government without Benjamin Netanyahu."
+     ],
+     [
+      "Izraelski mediji pišu da će Abbas u subotu navečer dati intervju za Kanal 12.",
+      "Israeli media write that Abbas will give an interview to Channel 12 on Saturday evening."
+     ],
+     [
+      "U tom intervjuu mogao bi prvi put reći da je Hamas teroristička organizacija.",
+      "In that interview he could say for the first time that Hamas is a terrorist organisation."
+     ]
+    ],
+    [
+     [
+      "To je glavni uslov koji je postavio Gadi Eisenkot, političar koji pokušava sastaviti novu vladu.",
+      "That is the main condition set by Gadi Eisenkot, the politician who is trying to put together a new government."
+     ],
+     [
+      "Eisenkot ima još 9 dana prije nego što mu istekne mandat za formiranje vlade.",
+      "Eisenkot has 9 more days before his mandate to form a government expires."
+     ],
+     [
+      "Abbas je do sada osuđivao napade, uključujući napad Hamasa od 7. oktobra 2023. godine, ali Hamas nije nazivao terorističkim.",
+      "Until now Abbas has condemned attacks, including the Hamas attack of 7 October 2023, but he did not call Hamas terrorist."
+     ]
+    ],
+    [
+     [
+      "Ra'am je već bio u vladi od 2021. do 2022. godine, što je rijetko za arapsku stranku.",
+      "Ra'am was already in government from 2021 to 2022, which is rare for an Arab party."
+     ],
+     [
+      "Abbas je na radiju rekao da stranka neće blokirati novu vladu ako se od prvog dana brine o pravima Arapa.",
+      "Abbas said on the radio that the party will not block the new government if it takes care of the rights of Arabs from the first day."
+     ],
+     [
+      "Kada ga je novinarka pitala da li je spreman da zbog toga riskira život, odgovorio je da se pomirio s tim.",
+      "When the journalist asked him whether he was ready to risk his life because of it, he answered that he had accepted it."
+     ],
+     [
+      "Ako Ra'am uđe u vladu, Eisenkot bi mogao imati dovoljno glasova da Netanyahu više ne bude premijer.",
+      "If Ra'am enters the government, Eisenkot could have enough votes so that Netanyahu is no longer prime minister."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "stranka",
+     "party"
+    ],
+    [
+     "vlada",
+     "government"
+    ],
+    [
+     "uslov",
+     "condition"
+    ],
+    [
+     "teroristički",
+     "terrorist (adj.)"
+    ],
+    [
+     "mandat",
+     "mandate, term"
+    ],
+    [
+     "glas",
+     "vote"
+    ],
+    [
+     "premijer",
+     "prime minister"
+    ]
+   ]
+  },
+  {
+   "id": "261127131",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/italijanski-mediji-navijaci-atalante-satima-zadrzani-ispred-stadiona-vecina-nije-vidjela-centar-banje-luke/261127131",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261127131.jpg",
+   "published": "2026-11-27T13:12:00+01:00",
+   "title": [
+    "Navijači Atalante satima čekali ispred stadiona u Banjoj Luci",
+    "Atalanta fans waited for hours in front of the stadium in Banja Luka"
+   ],
+   "body": [
+    [
+     [
+      "Italijanski mediji pišu da većina navijača Atalante nije vidjela centar Banje Luke.",
+      "Italian media write that most Atalanta fans did not see the centre of Banja Luka."
+     ],
+     [
+      "Ti navijači su prije utakmice protiv Borca satima čekali ispred stadiona.",
+      "Those fans waited for hours in front of the stadium before the match against Borac."
+     ],
+     [
+      "Vijest je objavio italijanski portal TuttoAtalanta.",
+      "The news was published by the Italian portal TuttoAtalanta."
+     ]
+    ],
+    [
+     [
+      "Na utakmicu u Banju Luku došlo je 494 navijača iz Italije.",
+      "494 fans from Italy came to the match in Banja Luka."
+     ],
+     [
+      "Neki od njih su dugo čekali i na hrvatskoj granici zbog kontrole.",
+      "Some of them also waited a long time at the Croatian border because of checks."
+     ],
+     [
+      "Problema nisu imali samo oni koji su putovali sami ili su stigli dan ranije.",
+      "The only ones who had no problems were those who travelled on their own or arrived a day earlier."
+     ],
+     [
+      "Svih 12.000 ulaznica za utakmicu Konferencijske lige bilo je prodano.",
+      "All 12,000 tickets for the Conference League match were sold."
+     ]
+    ],
+    [
+     [
+      "Ipak, portal piše da u gradu nije bilo velikog oduševljenja prije dolaska Atalante.",
+      "Still, the portal writes that there was no great excitement in the city before Atalanta's arrival."
+     ],
+     [
+      "Atalanta je na kraju pobijedila rezultatom 3:2, iako je Borac dugo vodio.",
+      "In the end Atalanta won 3:2, although Borac led for a long time."
+     ],
+     [
+      "Jedan od golova za italijanski klub zabio je Sead Kolašinac.",
+      "One of the goals for the Italian club was scored by Sead Kolašinac."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "navijač",
+     "fan, supporter"
+    ],
+    [
+     "utakmica",
+     "match"
+    ],
+    [
+     "stadion",
+     "stadium"
+    ],
+    [
+     "granica",
+     "border"
+    ],
+    [
+     "ulaznica",
+     "ticket"
+    ],
+    [
+     "pobijediti",
+     "to win"
+    ],
+    [
+     "gol",
+     "goal"
+    ]
+   ]
+  },
+  {
+   "id": "261127076",
+   "source": "Klix.ba",
+   "section": "Vrijeme",
+   "url": "https://www.klix.ba/vijesti/regija/nesvakidasnji-snimak-iz-hrvatske-automobili-vozili-preko-poplavljenog-mosta-u-istri-koji-je-okruzen-morem/261127076",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261127076.jpg",
+   "published": "2026-11-27T13:10:00+01:00",
+   "title": [
+    "Automobili u Istri vozili preko poplavljenog mosta",
+    "Cars in Istria drove across a flooded bridge"
+   ],
+   "body": [
+    [
+     [
+      "Na društvenim mrežama pojavio se neobičan snimak iz Istre u Hrvatskoj.",
+      "An unusual video from Istria in Croatia has appeared on social networks."
+     ],
+     [
+      "Na njemu se vidi kako automobili voze preko mosta Antenal, koji je bio pod vodom.",
+      "It shows cars driving across the Antenal bridge, which was under water."
+     ],
+     [
+      "Snimak je napravljen u četvrtak, a prvi je o njemu pisao portal Index.hr.",
+      "The video was made on Thursday, and the portal Index.hr was the first to write about it."
+     ]
+    ],
+    [
+     [
+      "Most se nalazi blizu mjesta gdje rijeka Mirna utiče u more.",
+      "The bridge is located near the place where the river Mirna flows into the sea."
+     ],
+     [
+      "Preko njega ide državni put između Novigrada i Poreča.",
+      "A state road between Novigrad and Poreč goes over it."
+     ],
+     [
+      "Voda je bila sa svih strana ceste, pa izgleda kao da automobili voze po moru.",
+      "There was water on all sides of the road, so it looks as if the cars are driving on the sea."
+     ],
+     [
+      "Zbog visokog nivoa mora i vode, put se na tom mjestu ponekad potpuno zatvara.",
+      "Because of the high level of the sea and water, the road is sometimes completely closed at that spot."
+     ]
+    ],
+    [
+     [
+      "Istru je ovog mjeseca pogodilo mnogo jake kiše.",
+      "A lot of heavy rain has hit Istria this month."
+     ],
+     [
+      "Hrvatski autoklub upozorava vozače da na cesti može ostati vode.",
+      "The Croatian Automobile Club warns drivers that water may remain on the road."
+     ],
+     [
+      "Savjetuje im da voze sporije i pažljivo, prema uslovima na putu.",
+      "It advises them to drive more slowly and carefully, according to the conditions on the road."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "snimak",
+     "video, footage"
+    ],
+    [
+     "most",
+     "bridge"
+    ],
+    [
+     "poplavljen",
+     "flooded"
+    ],
+    [
+     "rijeka",
+     "river"
+    ],
+    [
+     "nivo",
+     "level"
+    ],
+    [
+     "kiša",
+     "rain"
+    ],
+    [
+     "vozač",
+     "driver"
+    ]
+   ]
+  },
+  {
+   "id": "261127049",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/crna-hronika/radnik-elektro-bijeljine-uhapsen-u-madarskoj-sa-sluzbenim-vozilom-opozicija-tvrdi-da-je-prevozio-kokain/261127049",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261127049.jpg",
+   "published": "2026-11-27T12:55:00+01:00",
+   "title": [
+    "Radnik Elektro-Bijeljine uhapšen u Mađarskoj sa službenim autom",
+    "An Elektro-Bijeljina worker was arrested in Hungary with a company car"
+   ],
+   "body": [
+    [
+     [
+      "Radnik kompanije Elektro-Bijeljina uhapšen je u Mađarskoj dok je vozio službeno vozilo.",
+      "A worker of the company Elektro-Bijeljina was arrested in Hungary while he was driving a company vehicle."
+     ],
+     [
+      "Policija u Bijeljini u četvrtak je pretresla prostorije koje je koristio taj radnik, S. S.",
+      "On Thursday police in Bijeljina searched the premises that this worker, S. S., used."
+     ],
+     [
+      "Policija kaže da nije pronašla ništa što bi upućivalo na krivično djelo.",
+      "The police say they found nothing that would point to a criminal offence."
+     ]
+    ],
+    [
+     [
+      "Kompanija je saopćila da je prijavila nestanak službenog auta.",
+      "The company announced that it had reported the company car missing."
+     ],
+     [
+      "Radnik je, kako kažu, uzeo auto bez odobrenja i nije ga vratio.",
+      "The worker, they say, took the car without permission and did not return it."
+     ],
+     [
+      "Gradonačelnik Bijeljine Ljubiša Petrović tvrdi da je mađarska policija u autu pronašla veliku količinu kokaina.",
+      "The mayor of Bijeljina, Ljubiša Petrović, claims that the Hungarian police found a large amount of cocaine in the car."
+     ],
+     [
+      "Opozicioni lider Nebojša Vukanović rekao je da je riječ o 5 kilograma kokaina.",
+      "Opposition leader Nebojša Vukanović said it was 5 kilograms of cocaine."
+     ]
+    ],
+    [
+     [
+      "Vukanović procjenjuje da bi ta droga vrijedila oko 850.000 KM.",
+      "Vukanović estimates that this drug would be worth around 850,000 KM."
+     ],
+     [
+      "Nijedna institucija još nije zvanično potvrdila da je u autu bila droga.",
+      "No institution has yet officially confirmed that there were drugs in the car."
+     ],
+     [
+      "Direktor kompanije Bojan Savić kaže da uhapšeni čovjek nije bio njegov vozač.",
+      "The director of the company, Bojan Savić, says the arrested man was not his driver."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "radnik",
+     "worker"
+    ],
+    [
+     "uhapsiti",
+     "to arrest"
+    ],
+    [
+     "službeni",
+     "official, company (adj.)"
+    ],
+    [
+     "pretres",
+     "search (by police)"
+    ],
+    [
+     "gradonačelnik",
+     "mayor"
+    ],
+    [
+     "droga",
+     "drug(s)"
+    ],
+    [
+     "potvrditi",
+     "to confirm"
+    ]
+   ]
+  },
+  {
+   "id": "261127119",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/sarajevski-sdp-o-novom-sazivu-skupstine-ks-blokade-nece-biti-odgovornost-se-mjeri-radom/261127119",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261127119.jpg",
+   "published": "2026-11-27T12:44:00+01:00",
+   "title": [
+    "SDP u Sarajevu obećava da neće blokirati rad Skupštine",
+    "SDP in Sarajevo promises it will not block the Assembly's work"
+   ],
+   "body": [
+    [
+     [
+      "Skupština Kantona Sarajevo danas je izabrala novo rukovodstvo i tako počela novi saziv.",
+      "The Sarajevo Canton Assembly elected a new leadership today and so began a new term."
+     ],
+     [
+      "Nakon sjednice, SDP Kantona Sarajevo poslao je saopćenje za javnost.",
+      "After the session, SDP of Sarajevo Canton sent out a press statement."
+     ],
+     [
+      "Stranka u njemu kaže da blokade u Skupštini neće biti.",
+      "In it, the party says there will be no blockades in the Assembly."
+     ]
+    ],
+    [
+     [
+      "SDP će u novoj Skupštini imati 9 zastupnika.",
+      "SDP will have 9 representatives in the new Assembly."
+     ],
+     [
+      "Davor Čičić je novi predsjedavajući Skupštine, a Jelena Pekić je jedna od zamjenika.",
+      "Davor Čičić is the new speaker of the Assembly, and Jelena Pekić is one of the deputies."
+     ],
+     [
+      "U klubu stranke su i Belma Kapo, Svjetlana Šošić, Vedrana Vikić, Selma Smajlović, Redžo Lemezan, Kenan Magoda i Predrag Puharić.",
+      "The party's club also includes Belma Kapo, Svjetlana Šošić, Vedrana Vikić, Selma Smajlović, Redžo Lemezan, Kenan Magoda and Predrag Puharić."
+     ]
+    ],
+    [
+     [
+      "Iz SDP-a kažu da neće stavljati interese stranke ispred interesa građana.",
+      "SDP says it will not put the party's interests ahead of the interests of citizens."
+     ],
+     [
+      "Žele institucije koje funkcionišu, konkretna rješenja i bolji život za sve stanovnike kantona.",
+      "They want institutions that work, concrete solutions and a better life for all residents of the canton."
+     ],
+     [
+      "Stranka je poručila da će podržati svaku odluku koja je u interesu građana.",
+      "The party said it will support every decision that is in the interest of citizens."
+     ],
+     [
+      "Na kraju su zahvalili glasačima i rekli da se odgovornost mjeri radom i rezultatima.",
+      "At the end they thanked voters and said that responsibility is measured by work and results."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "skupština",
+     "assembly"
+    ],
+    [
+     "blokada",
+     "blockade"
+    ],
+    [
+     "saopćenje",
+     "statement"
+    ],
+    [
+     "zastupnik",
+     "representative (in parliament)"
+    ],
+    [
+     "interes",
+     "interest"
+    ],
+    [
+     "odgovornost",
+     "responsibility"
+    ],
+    [
+     "građanin",
+     "citizen"
+    ]
+   ]
+  },
+  {
+   "id": "261127114",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/regija/radomir-saicic-i-zvanicno-kandidat-studentske-liste-za-predsjednika-srbije-porucio-kako-je-cilj-jedinstvo-srpskog-naroda/261127114",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261127114.jpg",
+   "published": "2026-11-27T12:25:00+01:00",
+   "title": [
+    "Studenti u Srbiji izabrali kandidata za predsjednika",
+    "Students in Serbia chose a candidate for president"
+   ],
+   "body": [
+    [
+     [
+      "Studentska lista u Srbiji danas je zvanično predstavila Radomira Saičića kao svog kandidata za predsjednika.",
+      "The Student List in Serbia today officially presented Radomir Saičić as its candidate for president."
+     ],
+     [
+      "Predsjednički izbori u Srbiji održat će se 27. decembra.",
+      "The presidential election in Serbia will be held on 27 December."
+     ],
+     [
+      "Saičić je akademik, a kandidaturu je predstavio na konferenciji za medije.",
+      "Saičić is an academician, and he presented the candidacy at a press conference."
+     ]
+    ],
+    [
+     [
+      "Studenti su rekli da odluka nije bila ni brza ni laka.",
+      "The students said the decision was neither quick nor easy."
+     ],
+     [
+      "Kažu da demokratija traži vrijeme, dijalog i pažljivo razmišljanje.",
+      "They say that democracy needs time, dialogue and careful thinking."
+     ],
+     [
+      "Prema njihovim riječima, snaga nije u jednom čovjeku nego u zajednici koja stoji iza zajedničkih ciljeva.",
+      "In their words, the strength is not in one person but in the community that stands behind common goals."
+     ]
+    ],
+    [
+     [
+      "Saičić je rekao da se funkcija predsjednika godinama zloupotrebljavala da bi se ljudi dijelili.",
+      "Saičić said that the office of president had been misused for years to divide people."
+     ],
+     [
+      "Dodao je da predsjednik ne smije raditi više od onoga što mu dozvoljava ustav.",
+      "He added that the president must not do more than the constitution allows him."
+     ],
+     [
+      "Prema njegovim riječima, prošla vlast je stvarala lažne podjele u Crnoj Gori, Republici Srpskoj i drugdje.",
+      "According to him, the previous government created false divisions in Montenegro, Republika Srpska and elsewhere."
+     ],
+     [
+      "Rekao je da je cilj jedinstvo srpskog naroda, uz poštovanje država u kojima Srbi žive.",
+      "He said the goal is the unity of the Serb people, with respect for the states in which Serbs live."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "kandidat",
+     "candidate"
+    ],
+    [
+     "izbori",
+     "election(s)"
+    ],
+    [
+     "predsjednik",
+     "president"
+    ],
+    [
+     "odluka",
+     "decision"
+    ],
+    [
+     "ustav",
+     "constitution"
+    ],
+    [
+     "podjela",
+     "division"
+    ],
+    [
+     "jedinstvo",
+     "unity"
+    ]
+   ]
+  },
+  {
+   "id": "261127100",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/film-tv/kriticari-razocarani-filmom-focker-in-law-hvale-samo-arianu-grande/261127100",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261127100.jpg",
+   "published": "2026-11-27T11:56:00+01:00",
+   "title": [
+    "Kritičari nisu zadovoljni novim filmom o porodici Focker",
+    "Critics are not happy with the new film about the Focker family"
+   ],
+   "body": [
+    [
+     [
+      "Novi film „Focker-In-Law“ razočarao je većinu filmskih kritičara.",
+      "The new film \"Focker-In-Law\" has disappointed most film critics."
+     ],
+     [
+      "To je četvrti film u seriji komedija koja je počela 2000. godine.",
+      "It is the fourth film in a series of comedies that began in 2000."
+     ],
+     [
+      "Kritičari hvale samo pjevačicu Arianu Grande, koja u filmu igra Oliviju Jones.",
+      "Critics only praise the singer Ariana Grande, who plays Olivia Jones in the film."
+     ]
+    ],
+    [
+     [
+      "Na stranici Rotten Tomatoes film ima ocjenu 30 posto, na osnovu 87 kritika.",
+      "On the website Rotten Tomatoes the film has a score of 30 percent, based on 87 reviews."
+     ],
+     [
+      "Ben Stiller i Robert De Niro ponovo igraju glavne uloge, a s njima su Owen Wilson i Blythe Danner.",
+      "Ben Stiller and Robert De Niro play the main roles again, and Owen Wilson and Blythe Danner are with them."
+     ],
+     [
+      "Film je napisao i režirao John Hamburg.",
+      "The film was written and directed by John Hamburg."
+     ],
+     [
+      "Kritičari pišu da je Grande zabavna, ali da je cijeli film umoran.",
+      "Critics write that Grande is funny, but that the whole film is tired."
+     ]
+    ],
+    [
+     [
+      "Donald Clarke iz Irish Timesa dao je filmu samo 1 od 5 zvjezdica.",
+      "Donald Clarke of the Irish Times gave the film only 1 out of 5 stars."
+     ],
+     [
+      "Rekao je da situacije postanu toliko neugodne da više nisu smiješne.",
+      "He said the situations become so uncomfortable that they are no longer funny."
+     ],
+     [
+      "Ni prethodni filmovi nisu dobro prošli, jer je onaj iz 2010. godine dobio samo 10 posto.",
+      "The previous films did not do well either, because the one from 2010 got only 10 percent."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "kritičar",
+     "critic"
+    ],
+    [
+     "razočarati",
+     "to disappoint"
+    ],
+    [
+     "hvaliti",
+     "to praise"
+    ],
+    [
+     "ocjena",
+     "rating, grade"
+    ],
+    [
+     "uloga",
+     "role"
+    ],
+    [
+     "režirati",
+     "to direct (a film)"
+    ],
+    [
+     "smiješan",
+     "funny"
+    ]
+   ]
+  },
+  {
+   "id": "261127070",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/auto/testovi/volvo-obucava-humanoidne-robote-u-proizvodnji-bi-mogli-raditi-od-sredine-2027-godine/261127070",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261127070.jpg",
+   "published": "2026-11-27T09:49:00+01:00",
+   "title": [
+    "Volvo uči humanoidne robote da rade u fabrici",
+    "Volvo is teaching humanoid robots to work in a factory"
+   ],
+   "body": [
+    [
+     [
+      "Volvo Cars je počeo obučavati humanoidne robote u svojoj fabrici u Gentu u Belgiji.",
+      "Volvo Cars has started training humanoid robots in its factory in Ghent in Belgium."
+     ],
+     [
+      "Humanoidni roboti su roboti koji po obliku liče na čovjeka.",
+      "Humanoid robots are robots that look like a human in shape."
+     ],
+     [
+      "Ako obuka uspije, roboti bi u proizvodnji mogli raditi od sredine 2027. godine.",
+      "If the training succeeds, the robots could work in production from the middle of 2027."
+     ]
+    ],
+    [
+     [
+      "Robot se zove AEON, a napravila ga je švedska kompanija Hexagon.",
+      "The robot is called AEON, and it was made by the Swedish company Hexagon."
+     ],
+     [
+      "Visok je 1,65 metara, težak 60 kilograma i umjesto nogu ima točkove.",
+      "It is 1.65 metres tall, weighs 60 kilograms and has wheels instead of legs."
+     ],
+     [
+      "Može nositi do 10 kilograma i kretati se brzinom do 2,4 metra u sekundi.",
+      "It can carry up to 10 kilograms and move at a speed of up to 2.4 metres per second."
+     ],
+     [
+      "Roboti prvo uče da precizno stavljaju dijelove u držače, tako što gledaju i ponavljaju šta rade ljudi.",
+      "The robots first learn to put parts precisely into holders, by watching and repeating what people do."
+     ]
+    ],
+    [
+     [
+      "Cilj je da roboti preuzmu poslove koji se ponavljaju i koji su fizički teški.",
+      "The goal is for the robots to take over jobs that are repetitive and physically hard."
+     ],
+     [
+      "Direktor proizvodnje Magnus Nilsson rekao je da se robot može lako uklopiti u postojeću proizvodnju.",
+      "Production director Magnus Nilsson said that the robot can easily fit into the existing production."
+     ],
+     [
+      "Ovaj robot ove godine testira i BMW u svojoj fabrici u Leipzigu.",
+      "BMW is also testing this robot this year in its factory in Leipzig."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "robot",
+     "robot"
+    ],
+    [
+     "fabrika",
+     "factory"
+    ],
+    [
+     "obuka",
+     "training"
+    ],
+    [
+     "proizvodnja",
+     "production"
+    ],
+    [
+     "točak",
+     "wheel"
+    ],
+    [
+     "dio",
+     "part"
+    ],
+    [
+     "posao",
+     "job, work"
+    ]
+   ]
+  },
   {
    "id": "261127015",
    "source": "Klix.ba",
@@ -4850,770 +5570,6 @@
     [
      "parola",
      "slogan"
-    ]
-   ]
-  },
-  {
-   "id": "261125078",
-   "source": "Klix.ba",
-   "section": "Vrijeme",
-   "url": "https://www.klix.ba/vijesti/bih/izdat-narandzasti-meteoalarm-za-dijelove-bih-u-cetvrtak-se-ocekuju-obilne-padavine-na-istoku-i-jugu-drzave/261125078",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261125078.jpg",
-   "published": "2026-11-25T12:25:00+01:00",
-   "title": [
-    "Narandžasto upozorenje: u četvrtak obilna kiša na istoku i jugu",
-    "Orange warning: heavy rain in the east and south on Thursday"
-   ],
-   "body": [
-    [
-     [
-      "Federalni hidrometeorološki zavod izdao je narandžasto upozorenje zbog obilnih padavina u četvrtak, 26. novembra.",
-      "The Federal Hydrometeorological Institute issued an orange warning because of heavy precipitation on Thursday, 26 November."
-     ],
-     [
-      "Upozorenje vrijedi za Hercegovinu te za istočnu i jugoistočnu Bosnu.",
-      "The warning applies to Herzegovina and to eastern and southeastern Bosnia."
-     ],
-     [
-      "U tim dijelovima zemlje očekuje se mnogo kiše.",
-      "A lot of rain is expected in those parts of the country."
-     ]
-    ],
-    [
-     [
-      "Prognoza kaže da bi moglo pasti od 30 do 60 litara kiše po metru kvadratnom.",
-      "The forecast says that from 30 to 60 litres of rain per square metre could fall."
-     ],
-     [
-      "Na nekim mjestima moglo bi pasti i do 80 litara.",
-      "In some places up to 80 litres could fall."
-     ],
-     [
-      "Zavod upozorava da su moguće poplave zgrada i cesta, kao i prekidi struje, vode i telefonskih veza.",
-      "The institute warns that floods of buildings and roads are possible, as well as cuts of electricity, water and telephone connections."
-     ],
-     [
-      "Vozači trebaju biti posebno oprezni, jer će vidljivost biti slabija, a na cestama će biti vode.",
-      "Drivers need to be especially careful, because visibility will be weaker and there will be water on the roads."
-     ]
-    ],
-    [
-     [
-      "Stanovnici bi se trebali pripremiti i zaštititi sebe i svoju imovinu.",
-      "Residents should prepare and protect themselves and their property."
-     ],
-     [
-      "Hercegovinu je jaka kiša pogodila i ranije ove sedmice, kada su mnoge ulice u Mostaru bile pod vodom.",
-      "Heavy rain also hit Herzegovina earlier this week, when many streets in Mostar were under water."
-     ],
-     [
-      "Zavod je dodao da se upozorenje može promijeniti ako se vrijeme promijeni.",
-      "The institute added that the warning can change if the weather changes."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "upozorenje",
-     "warning"
-    ],
-    [
-     "padavine",
-     "precipitation"
-    ],
-    [
-     "obilan",
-     "heavy, abundant"
-    ],
-    [
-     "poplava",
-     "flood"
-    ],
-    [
-     "prekid",
-     "cut, interruption"
-    ],
-    [
-     "vidljivost",
-     "visibility"
-    ],
-    [
-     "oprezan",
-     "careful"
-    ],
-    [
-     "imovina",
-     "property"
-    ]
-   ]
-  },
-  {
-   "id": "261125059",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/kultura/u-narodnom-pozoristu-sarajevo-svecano-otvorena-multimedijalna-izlozba-sedmi-sat/261125059",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261125059.jpg",
-   "published": "2026-11-25T10:39:00+01:00",
-   "title": [
-    "Izložba „Sedmi sat“ govori o nevidljivom radu žena",
-    "The exhibition 'Sedmi sat' talks about women's invisible work"
-   ],
-   "body": [
-    [
-     [
-      "U Narodnom pozorištu Sarajevo sinoć je otvorena multimedijalna izložba „Sedmi sat“.",
-      "Last night the multimedia exhibition 'Sedmi sat' (The Seventh Hour) was opened at the National Theatre Sarajevo."
-     ],
-     [
-      "Izložba govori o nevidljivom radu žena, ravnopravnosti, dostojanstvu i slobodi.",
-      "The exhibition talks about women's invisible work, equality, dignity and freedom."
-     ],
-     [
-      "Otvorena je u vrijeme svjetske kampanje 16 dana aktivizma protiv rodno zasnovanog nasilja.",
-      "It was opened during the global campaign 16 Days of Activism against gender-based violence."
-     ]
-    ],
-    [
-     [
-      "Na izložbi su portreti poznatih žena iz BiH, ali i obični predmeti iz kuće, postavljeni kao muzejski eksponati.",
-      "The exhibition has portraits of well-known women from BiH, but also ordinary objects from the home, displayed as museum exhibits."
-     ],
-     [
-      "Posjetioci preko QR kodova mogu slušati audio priče.",
-      "Visitors can listen to audio stories via QR codes."
-     ],
-     [
-      "Istraživanje koje je pokrenuo UNDP pokazuje da žene u BiH dnevno provedu 6 do 7 sati na neplaćenom kućnom poslu.",
-      "Research started by UNDP shows that women in BiH spend 6 to 7 hours a day on unpaid housework."
-     ],
-     [
-      "Zato imaju manje vremena za obrazovanje, karijeru i odmor.",
-      "That is why they have less time for education, career and rest."
-     ]
-    ],
-    [
-     [
-      "Izložbu je organizovalo Udruženje Naša Perspektiva, a autorica je Amina Abdičević.",
-      "The exhibition was organised by the association Naša Perspektiva, and its author is Amina Abdičević."
-     ],
-     [
-      "Samra Filipović-Hadžiabdić iz Agencije za ravnopravnost spolova rekla je da kućni poslovi nisu samo obaveza žena.",
-      "Samra Filipović-Hadžiabdić from the Agency for Gender Equality said that housework is not only a duty of women."
-     ],
-     [
-      "Izložba je otvorena do 3. decembra, a posjetioci trebaju ponijeti mobitel.",
-      "The exhibition is open until 3 December, and visitors should bring a mobile phone."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "izložba",
-     "exhibition"
-    ],
-    [
-     "pozorište",
-     "theatre"
-    ],
-    [
-     "ravnopravnost",
-     "equality"
-    ],
-    [
-     "nasilje",
-     "violence"
-    ],
-    [
-     "predmet",
-     "object"
-    ],
-    [
-     "posjetilac",
-     "visitor"
-    ],
-    [
-     "neplaćen",
-     "unpaid"
-    ],
-    [
-     "udruženje",
-     "association"
-    ]
-   ]
-  },
-  {
-   "id": "261125020",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/tehnologija/nekoliko-clanica-eu-trazi-novi-zakon-ai-kompanije-moraju-otkriti-na-cemu-treniraju-modele-i-platiti-autorima/261125020",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261125020.jpg",
-   "published": "2026-11-25T09:56:00+01:00",
-   "title": [
-    "14 zemalja EU traži da AI kompanije plaćaju autorima",
-    "14 EU countries want AI companies to pay authors"
-   ],
-   "body": [
-    [
-     [
-      "Četrnaest članica Evropske unije traži novi zakon za kompanije koje razvijaju umjetnu inteligenciju.",
-      "Fourteen members of the European Union are asking for a new law for companies that develop artificial intelligence."
-     ],
-     [
-      "Te kompanije bi morale reći koje sadržaje koriste za treniranje svojih modela i platiti autorima.",
-      "Those companies would have to say which content they use to train their models and pay the authors."
-     ],
-     [
-      "Zahtjev je poslan Vijeću EU 18. novembra, prije sastanka ministara kulture u Briselu.",
-      "The request was sent to the EU Council on 18 November, before a meeting of culture ministers in Brussels."
-     ]
-    ],
-    [
-     [
-      "Među potpisnicama su Hrvatska, Njemačka, Austrija, Španija, Poljska i Holandija.",
-      "Among the signatories are Croatia, Germany, Austria, Spain, Poland and the Netherlands."
-     ],
-     [
-      "Zemlje žele da autori lakše zabrane korištenje svojih djela za treniranje AI modela.",
-      "The countries want authors to be able to ban the use of their works for training AI models more easily."
-     ],
-     [
-      "Traže i više transparentnosti, odnosno jasne podatke o tome na čemu se modeli treniraju.",
-      "They also ask for more transparency, that is, clear information about what the models are trained on."
-     ],
-     [
-      "Ista pravila trebala bi vrijediti za evropske i neevropske kompanije ako se njihov model koristi u EU.",
-      "The same rules should apply to European and non-European companies if their model is used in the EU."
-     ]
-    ],
-    [
-     [
-      "Slična inicijativa pokrenuta je u maju, kada je to tražilo 8 zemalja.",
-      "A similar initiative was launched in May, when 8 countries asked for it."
-     ],
-     [
-      "Evropski parlament je u martu usvojio rezoluciju o autorskim pravima i AI, a za nju je glasalo 460 zastupnika.",
-      "In March the European Parliament adopted a resolution on copyright and AI, and 460 members voted for it."
-     ],
-     [
-      "Na sastanku ministara nije bilo glasanja, pa sada odluka zavisi od Evropske komisije.",
-      "There was no vote at the ministers' meeting, so the decision now depends on the European Commission."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "zakon",
-     "law"
-    ],
-    [
-     "autor",
-     "author"
-    ],
-    [
-     "sadržaj",
-     "content"
-    ],
-    [
-     "treniranje",
-     "training"
-    ],
-    [
-     "potpisnica",
-     "signatory (country)"
-    ],
-    [
-     "zabraniti",
-     "to ban"
-    ],
-    [
-     "autorsko pravo",
-     "copyright"
-    ],
-    [
-     "glasanje",
-     "vote, voting"
-    ]
-   ]
-  },
-  {
-   "id": "261125025",
-   "source": "Klix.ba",
-   "section": "Zdravlje",
-   "url": "https://www.klix.ba/lifestyle/zdravlje/sardine-iz-konzerve-bogate-su-vaznim-hranjivim-materijama-evo-zasto-ih-vrijedi-uvrstiti-u-ishranu/261125025",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261125025.jpg",
-   "published": "2026-11-25T08:00:00+01:00",
-   "title": [
-    "Zašto su sardine iz konzerve dobre za zdravlje",
-    "Why canned sardines are good for your health"
-   ],
-   "body": [
-    [
-     [
-      "Sardine iz konzerve su jeftina i praktična hrana koja ima mnogo važnih hranjivih materija.",
-      "Canned sardines are a cheap and practical food that has many important nutrients."
-     ],
-     [
-      "Mogu se jesti direktno iz konzerve ili dodati u salatu, sendvič ili jelo s povrćem.",
-      "They can be eaten straight from the can or added to a salad, a sandwich or a dish with vegetables."
-     ],
-     [
-      "Zato su dobar izbor za brz obrok.",
-      "That is why they are a good choice for a quick meal."
-     ]
-    ],
-    [
-     [
-      "Prema portalu WebMD, 100 grama sardina u ulju ima oko 24 grama proteina.",
-      "According to the WebMD portal, 100 grams of sardines in oil have about 24 grams of protein."
-     ],
-     [
-      "Proteini pomažu mišićima i daju osjećaj sitosti.",
-      "Proteins help the muscles and give a feeling of fullness."
-     ],
-     [
-      "Sardine imaju i omega-3 masti, koje su važne za srce i krvne sudove.",
-      "Sardines also have omega-3 fats, which are important for the heart and blood vessels."
-     ],
-     [
-      "Njihove meke kosti mogu se jesti i daju mnogo kalcija, a vitamin D pomaže tijelu da taj kalcij iskoristi.",
-      "Their soft bones can be eaten and give a lot of calcium, and vitamin D helps the body use that calcium."
-     ],
-     [
-      "U sardinama ima i vitamina B12, selena, fosfora i željeza.",
-      "In sardines there is also vitamin B12, selenium, phosphorus and iron."
-     ]
-    ],
-    [
-     [
-      "Ipak, sardine iz konzerve mogu imati mnogo soli, pa je dobro čitati deklaracije.",
-      "However, canned sardines can have a lot of salt, so it is good to read the labels."
-     ],
-     [
-      "Britanska zdravstvena služba NHS savjetuje da odrasli jedu ribu najmanje dva puta sedmično.",
-      "The British health service NHS advises adults to eat fish at least twice a week."
-     ],
-     [
-      "Jedan od tih obroka trebala bi biti masna riba, kao što su sardine, losos ili skuša.",
-      "One of those meals should be oily fish, such as sardines, salmon or mackerel."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "konzerva",
-     "can, tin"
-    ],
-    [
-     "hranjiv",
-     "nutritious"
-    ],
-    [
-     "obrok",
-     "meal"
-    ],
-    [
-     "mišić",
-     "muscle"
-    ],
-    [
-     "kost",
-     "bone"
-    ],
-    [
-     "so",
-     "salt"
-    ],
-    [
-     "deklaracija",
-     "food label"
-    ],
-    [
-     "masan",
-     "oily, fatty"
-    ]
-   ]
-  },
-  {
-   "id": "261124228",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/dan-kada-je-bih-ponovo-upisana-na-kartu-kako-je-247-delegata-u-vihoru-rata-obnovilo-vjekovnu-drzavnost/261124228",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261124228.jpg",
-   "published": "2026-11-25T07:31:00+01:00",
-   "title": [
-    "Dan državnosti: kako je BiH 1943. vratila svoju državnost",
-    "Statehood Day: how BiH regained its statehood in 1943"
-   ],
-   "body": [
-    [
-     [
-      "Bosna i Hercegovina danas, 25. novembra, obilježava Dan državnosti.",
-      "Today, 25 November, Bosnia and Herzegovina marks Statehood Day."
-     ],
-     [
-      "Praznik podsjeća na prvo zasjedanje ZAVNOBiH-a, koje je održano 25. i 26. novembra 1943. u Mrkonjić Gradu.",
-      "The holiday recalls the first session of ZAVNOBiH, which was held on 25 and 26 November 1943 in Mrkonjić Grad."
-     ],
-     [
-      "Tada je trajao Drugi svjetski rat, a BiH je bila dio takozvane Nezavisne Države Hrvatske.",
-      "The Second World War was going on at the time, and BiH was part of the so-called Independent State of Croatia."
-     ]
-    ],
-    [
-     [
-      "Na sjednici je bilo 247 delegata iz cijele zemlje, a njih 193 imalo je pravo glasa.",
-      "There were 247 delegates from all over the country at the session, and 193 of them had the right to vote."
-     ],
-     [
-      "Oni su predstavljali sve narode, vjere i različite političke stavove.",
-      "They represented all peoples, religions and different political views."
-     ],
-     [
-      "U rezoluciji su napisali da BiH nije ni srpska, ni hrvatska, ni muslimanska, nego i srpska, i muslimanska, i hrvatska.",
-      "In the resolution they wrote that BiH is neither Serb, nor Croat, nor Muslim, but Serb, and Muslim, and Croat."
-     ],
-     [
-      "Delegati su izabrali 173 vijećnika, a za predsjednika je izabran ljekar Vojislav Kecmanović iz Bijeljine.",
-      "The delegates elected 173 councillors, and the doctor Vojislav Kecmanović from Bijeljina was elected president."
-     ],
-     [
-      "Tako je BiH dobila svoju državnost prvi put nakon pada srednjovjekovnog kraljevstva 1463. godine.",
-      "In this way BiH got its statehood for the first time since the fall of the medieval kingdom in 1463."
-     ]
-    ],
-    [
-     [
-      "Granice koje su tada potvrđene postale su 1992. međunarodno priznate granice nezavisne države.",
-      "The borders that were confirmed then became the internationally recognised borders of the independent state in 1992."
-     ],
-     [
-      "Dan državnosti je neradni dan u Federaciji BiH, ali u Republici Srpskoj se taj dan radi.",
-      "Statehood Day is a non-working day in the Federation of BiH, but in Republika Srpska people work on that day."
-     ],
-     [
-      "Klix.ba piše da poruka iz Mrkonjić Grada i danas vrijedi: ova zemlja jednako pripada svim narodima i građanima.",
-      "Klix.ba writes that the message from Mrkonjić Grad is still valid today: this country belongs equally to all peoples and citizens."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "državnost",
-     "statehood"
-    ],
-    [
-     "zasjedanje",
-     "session (of an assembly)"
-    ],
-    [
-     "delegat",
-     "delegate"
-    ],
-    [
-     "pravo glasa",
-     "right to vote"
-    ],
-    [
-     "rezolucija",
-     "resolution"
-    ],
-    [
-     "granica",
-     "border"
-    ],
-    [
-     "praznik",
-     "holiday"
-    ],
-    [
-     "narod",
-     "people, nation"
-    ]
-   ]
-  },
-  {
-   "id": "261125004",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/huti-ponovo-pogodili-najvisi-toranj-u-rijadu-ranjeno-11-ljudi/261125004",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261125004.jpg",
-   "published": "2026-11-25T07:24:00+01:00",
-   "title": [
-    "Huti dronom pogodili najviši toranj u Rijadu, 11 ranjenih",
-    "Houthis hit the tallest tower in Riyadh with a drone, 11 injured"
-   ],
-   "body": [
-    [
-     [
-      "Jemenska grupa Huti napala je dronom jedan toranj u finansijskom dijelu Rijada.",
-      "The Yemeni group the Houthis attacked a tower in the financial district of Riyadh with a drone."
-     ],
-     [
-      "U napadu je ranjeno 11 ljudi, a to je drugi napad na isti dio saudijskog glavnog grada za manje od sedmicu.",
-      "Eleven people were injured in the attack, and it is the second attack on the same part of the Saudi capital in less than a week."
-     ],
-     [
-      "Saudijska civilna zaštita objavila je da su među ranjenima dva Saudijca i devet stranaca.",
-      "Saudi civil defence announced that among the injured are two Saudis and nine foreigners."
-     ]
-    ],
-    [
-     [
-      "Ranjeni su četiri Egipćanina, tri državljanina Nepala i dva Indijca.",
-      "The injured are four Egyptians, three citizens of Nepal and two Indians."
-     ],
-     [
-      "Prema izvoru agencije AFP, najmanje dvije osobe imaju teške opekotine i u kritičnom su stanju.",
-      "According to a source of the AFP agency, at least two people have serious burns and are in critical condition."
-     ],
-     [
-      "Vlasti nisu rekle koja je zgrada pogođena, ali AFP piše da je riječ o tornju državnog fonda PIF.",
-      "The authorities did not say which building was hit, but AFP writes that it is the tower of the state fund PIF."
-     ],
-     [
-      "Toranj ima 80 spratova i visok je oko 385 metara.",
-      "The tower has 80 floors and is about 385 metres tall."
-     ],
-     [
-      "U zgradi su u trenutku napada bili radnici koji su popravljali štetu od prošlog napada.",
-      "At the moment of the attack there were workers in the building who were repairing the damage from the previous attack."
-     ]
-    ],
-    [
-     [
-      "Civilna zaštita je napad nazvala terorističkim i rekla je da su hitne službe odmah stigle na mjesto.",
-      "Civil defence called the attack terrorist and said that emergency services arrived at the site immediately."
-     ],
-     [
-      "Turki al-Maliki, glasnogovornik koalicije koju vodi Saudijska Arabija, rekao je da će odgovor biti odlučan.",
-      "Turki al-Maliki, the spokesman of the coalition led by Saudi Arabia, said that the response would be firm."
-     ],
-     [
-      "Dodao je da napadi na civile i civilne objekte neće proći bez odgovora.",
-      "He added that attacks on civilians and civilian facilities will not go unanswered."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "toranj",
-     "tower"
-    ],
-    [
-     "napad",
-     "attack"
-    ],
-    [
-     "ranjen",
-     "injured, wounded"
-    ],
-    [
-     "stranac",
-     "foreigner"
-    ],
-    [
-     "opekotina",
-     "burn"
-    ],
-    [
-     "sprat",
-     "floor, storey"
-    ],
-    [
-     "šteta",
-     "damage"
-    ],
-    [
-     "glasnogovornik",
-     "spokesman"
-    ]
-   ]
-  },
-  {
-   "id": "261125014",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/kosarka/garza-bez-promasaja-u-pobjedi-bostona-denver-i-jokic-porazeni/261125014",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261125014.jpg",
-   "published": "2026-11-25T07:20:00+01:00",
-   "title": [
-    "Garza bez promašaja u pobjedi Bostona, Jokić izgubio",
-    "Garza without a miss in Boston win, Jokić lost"
-   ],
-   "body": [
-    [
-     [
-      "Boston Celticsi pobijedili su Washington Wizardse sa 131:116 u NBA Kupu.",
-      "The Boston Celtics beat the Washington Wizards 131:116 in the NBA Cup."
-     ],
-     [
-      "Bosanskohercegovački košarkaš Luka Garza ubacio je sva tri šuta, uključujući jednu trojku.",
-      "Bosnian-Herzegovinian basketball player Luka Garza made all three shots, including one three-pointer."
-     ],
-     [
-      "Za 18 minuta u igri imao je 7 poena, 4 skoka i jednu ukradenu loptu.",
-      "In 18 minutes of play he had 7 points, 4 rebounds and one steal."
-     ]
-    ],
-    [
-     [
-      "Sve poene Garza je dao u drugoj četvrtini, kada je Boston preuzeo kontrolu nad utakmicom.",
-      "Garza scored all his points in the second quarter, when Boston took control of the game."
-     ],
-     [
-      "Boston je tu četvrtinu dobio sa 46:21, a na poluvremenu je vodio sa 80:49.",
-      "Boston won that quarter 46:21, and at half-time it led 80:49."
-     ],
-     [
-      "Najbolji strijelac bio je Jayson Tatum s 41 poenom, što je njegov najbolji rezultat ove sezone.",
-      "The top scorer was Jayson Tatum with 41 points, which is his best result this season."
-     ],
-     [
-      "Washington je u zadnjoj četvrtini smanjio razliku na pet poena, ali Boston je ipak pobijedio.",
-      "Washington cut the gap to five points in the last quarter, but Boston still won."
-     ]
-    ],
-    [
-     [
-      "U drugoj utakmici Dallas je u gostima pobijedio Denver sa 120:101.",
-      "In another game, Dallas beat Denver away 120:101."
-     ],
-     [
-      "Nikola Jokić imao je 18 poena i 11 skokova, ali i pet izgubljenih lopti.",
-      "Nikola Jokić had 18 points and 11 rebounds, but also five turnovers."
-     ],
-     [
-      "Za Dallas je mladi Cooper Flagg dao 24 poena i imao 12 asistencija.",
-      "For Dallas, young Cooper Flagg scored 24 points and had 12 assists."
-     ],
-     [
-      "Boston u petak igra protiv Atlante, a pobjednik te utakmice bit će prvi u grupi.",
-      "On Friday Boston plays against Atlanta, and the winner of that game will be first in the group."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "promašaj",
-     "miss"
-    ],
-    [
-     "košarkaš",
-     "basketball player"
-    ],
-    [
-     "šut",
-     "shot"
-    ],
-    [
-     "trojka",
-     "three-pointer"
-    ],
-    [
-     "skok",
-     "rebound; jump"
-    ],
-    [
-     "četvrtina",
-     "quarter"
-    ],
-    [
-     "strijelac",
-     "scorer"
-    ]
-   ]
-  },
-  {
-   "id": "261125012",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/nizozemci-nisu-stedjeli-bajraktarevica-nakon-debakla-na-bernabeuu-dobio-najnizu-ocjenu/261125012",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261125012.jpg",
-   "published": "2026-11-25T07:18:00+01:00",
-   "title": [
-    "Nizozemski mediji dali Bajraktareviću najnižu ocjenu nakon poraza",
-    "Dutch media gave Bajraktarević the lowest rating after the defeat"
-   ],
-   "body": [
-    [
-     [
-      "Esmir Bajraktarević dobio je najnižu ocjenu u timu PSV-a nakon teškog poraza u Madridu.",
-      "Esmir Bajraktarević got the lowest rating in the PSV team after a heavy defeat in Madrid."
-     ],
-     [
-      "Real Madrid je u utorak u Ligi prvaka pobijedio PSV sa 5:1 na stadionu Santiago Bernabéu.",
-      "On Tuesday in the Champions League, Real Madrid beat PSV 5:1 at the Santiago Bernabéu stadium."
-     ],
-     [
-      "Nizozemski magazin Voetbal International dao mu je ocjenu 5, a za prolaz je potrebna ocjena 6.",
-      "The Dutch magazine Voetbal International gave him a 5, and a 6 is needed for a pass."
-     ]
-    ],
-    [
-     [
-      "On je bio jedini igrač PSV-a s ocjenom ispod prolazne.",
-      "He was the only PSV player with a rating below a pass."
-     ],
-     [
-      "Najbolju ocjenu, 7, dobio je Ivan Perišić.",
-      "The best rating, 7, went to Ivan Perišić."
-     ],
-     [
-      "Druga dva portala bila su blaža i dala su Bajraktareviću ocjenu 5,5.",
-      "Two other portals were milder and gave Bajraktarević a 5.5."
-     ],
-     [
-      "Novinar magazina VI napisao je da krilni igrač nije pokazao ništa posebno i da je uglavnom trčao nazad u odbranu.",
-      "A journalist of VI magazine wrote that the winger showed nothing special and mostly ran back into defence."
-     ]
-    ],
-    [
-     [
-      "Bajraktarević je počeo na klupi, a trener Peter Bosz uveo ga je na poluvremenu umjesto Perišića.",
-      "Bajraktarević started on the bench, and coach Peter Bosz brought him on at half-time instead of Perišić."
-     ],
-     [
-      "Prema televiziji NOS, to nije bila taktička izmjena, jer se Perišić nije dobro osjećao.",
-      "According to the broadcaster NOS, it was not a tactical substitution, because Perišić did not feel well."
-     ],
-     [
-      "PSV je na poluvremenu vodio sa 1:0, ali je Real u drugom dijelu dao pet golova.",
-      "PSV led 1:0 at half-time, but Real scored five goals in the second half."
-     ],
-     [
-      "PSV sada ima četiri boda nakon pet utakmica, a 9. decembra igra protiv Atlética.",
-      "PSV now has four points after five matches, and on 9 December it plays against Atlético."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "ocjena",
-     "rating, grade"
-    ],
-    [
-     "poraz",
-     "defeat"
-    ],
-    [
-     "prolaz",
-     "pass (a passing mark)"
-    ],
-    [
-     "klupa",
-     "bench"
-    ],
-    [
-     "poluvrijeme",
-     "half-time"
-    ],
-    [
-     "izmjena",
-     "substitution"
-    ],
-    [
-     "bod",
-     "point (in a table)"
     ]
    ]
   }
