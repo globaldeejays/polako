@@ -1,18 +1,844 @@
 {
- "updated": "2026-11-28T07:55:00+01:00",
+ "updated": "2026-11-28T13:50:00+01:00",
  "front": [
-  "261128001",
-  "261128002",
-  "261128006",
-  "261128013",
-  "261128008",
-  "261128003",
-  "261127012",
-  "261128011",
+  "261128067",
+  "261128059",
+  "261128071",
+  "261128076",
+  "261128079",
+  "261128072",
+  "261128073",
+  "261128058",
   "261128012",
-  "261127233"
+  "261128038"
  ],
  "articles": [
+  {
+   "id": "261128079",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/nezapamcen-sok-u-bjeloruskom-nogometu-petnaestostruki-prvak-bate-borisov-ispao-iz-lige/261128079",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261128079.jpg",
+   "published": "2026-11-28T13:28:00+01:00",
+   "title": [
+    "BATE Borisov prvi put ispao iz prve lige Bjelorusije",
+    "BATE Borisov relegated from Belarus's top league for the first time"
+   ],
+   "body": [
+    [
+     [
+      "Bjeloruski klub BATE Borisov, koji je 15 puta bio prvak, ispao je iz prve lige.",
+      "Belarusian club BATE Borisov, which has been champion 15 times, has been relegated from the top league."
+     ],
+     [
+      "To se dogodilo prvi put u modernoj historiji kluba, a mnogi to zovu šokom za bjeloruski nogomet.",
+      "This happened for the first time in the club's modern history, and many call it a shock for Belarusian football."
+     ],
+     [
+      "Sljedeće sezone BATE će igrati u nižoj ligi.",
+      "Next season BATE will play in a lower league."
+     ]
+    ],
+    [
+     [
+      "U posljednjem kolu BATE je igrao 1:1 protiv Isloča, ali taj rezultat nije bio dovoljan.",
+      "In the last round BATE drew 1:1 against Isloch, but that result was not enough."
+     ],
+     [
+      "Klub je sezonu završio na 15. mjestu sa 25 bodova.",
+      "The club finished the season in 15th place with 25 points."
+     ],
+     [
+      "Od 2006. do 2018. godine BATE je osvojio 13 titula zaredom.",
+      "From 2006 to 2018 BATE won 13 titles in a row."
+     ],
+     [
+      "Često je igrao u grupama Lige prvaka i Evropske lige, a pobjeđivao je i Bayern, Romu i Arsenal.",
+      "It often played in the groups of the Champions League and the Europa League, and it also beat Bayern, Roma and Arsenal."
+     ]
+    ],
+    [
+     [
+      "Posljednjih godina klub je imao loše rezultate, probleme u organizaciji i slabiji tim.",
+      "In recent years the club had poor results, organisational problems and a weaker team."
+     ],
+     [
+      "Zato je polako padao prema sredini, a zatim prema dnu tabele.",
+      "That is why it slowly fell towards the middle and then towards the bottom of the table."
+     ],
+     [
+      "Upravu i navijače sada čeka potpuna obnova kluba, a cilj je što brže vratiti se u prvu ligu.",
+      "The board and fans now face a complete rebuilding of the club, and the goal is to return to the top league as quickly as possible."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "prvak",
+     "champion"
+    ],
+    [
+     "ispasti",
+     "to be relegated, to drop out"
+    ],
+    [
+     "kolo",
+     "round (of a league)"
+    ],
+    [
+     "bod",
+     "point"
+    ],
+    [
+     "titula",
+     "title"
+    ],
+    [
+     "zaredom",
+     "in a row"
+    ],
+    [
+     "tabela",
+     "league table"
+    ]
+   ]
+  },
+  {
+   "id": "261128076",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/igor-dodik-mup-rs-a-ce-pripremiti-pravilnik-o-provjeri-funkcionera-sekretara-i-vozaca/261128076",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261128076.jpg",
+   "published": "2026-11-28T13:16:00+01:00",
+   "title": [
+    "Igor Dodik najavio sigurnosne provjere za funkcionere u RS",
+    "Igor Dodik announces security checks for officials in RS"
+   ],
+   "body": [
+    [
+     [
+      "Igor Dodik, koji sastavlja novu Vladu Republike Srpske, najavio je jednu od njenih prvih odluka.",
+      "Igor Dodik, who is putting together the new Government of Republika Srpska, announced one of its first decisions."
+     ],
+     [
+      "MUP RS će dobiti zadatak da pripremi pravilnik o sigurnosnoj provjeri funkcionera i njihovih najbližih saradnika.",
+      "The RS Ministry of the Interior will be given the task of preparing a rulebook on security checks of officials and their closest associates."
+     ],
+     [
+      "To je rekao tokom konsultacija o formiranju vlade.",
+      "He said this during consultations on forming the government."
+     ]
+    ],
+    [
+     [
+      "Provjeru bi prošla svaka osoba koja je predložena za imenovanje, od ministara do direktora.",
+      "Every person proposed for an appointment would go through the check, from ministers to directors."
+     ],
+     [
+      "Dodik smatra da treba provjeriti i tehničke sekretare, vozače i dio kabineta, jer i oni imaju pristup tajnim informacijama.",
+      "Dodik believes that technical secretaries, drivers and part of the cabinet should also be checked, because they too have access to confidential information."
+     ],
+     [
+      "Cilj je da neprovjereni ljudi ne dođu do važnih dokumenata.",
+      "The goal is that unchecked people do not get to important documents."
+     ],
+     [
+      "Prijedlog je povezao s hapšenjima i nečasnim radnjama iz prethodnih dana.",
+      "He linked the proposal to the arrests and dishonourable actions of the previous days."
+     ]
+    ],
+    [
+     [
+      "Dodik je rekao da će tražiti punu odgovornost od direktora javnih preduzeća i institucija.",
+      "Dodik said he will demand full responsibility from the directors of public enterprises and institutions."
+     ],
+     [
+      "Od budućih funkcionera očekuje znanje, poštenje i konkretne rezultate.",
+      "He expects knowledge, honesty and concrete results from future officials."
+     ],
+     [
+      "Većinu ministarstava dobit će SNSD, ali bi svaki dio Republike Srpske trebao imati svog predstavnika u vladi.",
+      "Most ministries will go to SNSD, but every part of Republika Srpska should have its representative in the government."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "provjera",
+     "check"
+    ],
+    [
+     "funkcioner",
+     "official"
+    ],
+    [
+     "pravilnik",
+     "rulebook, regulations"
+    ],
+    [
+     "saradnik",
+     "associate"
+    ],
+    [
+     "vozač",
+     "driver"
+    ],
+    [
+     "odgovornost",
+     "responsibility"
+    ],
+    [
+     "preduzeće",
+     "enterprise, company"
+    ]
+   ]
+  },
+  {
+   "id": "261128073",
+   "source": "Klix.ba",
+   "section": "Vrijeme",
+   "url": "https://www.klix.ba/vijesti/bih/snijeg-zabijelio-sarajevo-pokrivac-se-zadrzava-na-travnjacima-i-autima/261128073",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261128073.jpg",
+   "published": "2026-11-28T13:12:00+01:00",
+   "title": [
+    "Snijeg zabijelio Sarajevo u subotu",
+    "Snow turns Sarajevo white on Saturday"
+   ],
+   "body": [
+    [
+     [
+      "U subotu ujutro u Sarajevu je počeo padati snijeg.",
+      "On Saturday morning snow began to fall in Sarajevo."
+     ],
+     [
+      "Brzo je prekrio parkove, drveće i parkirane automobile.",
+      "It quickly covered parks, trees and parked cars."
+     ],
+     [
+      "Ulice i trotoari uglavnom su ostali mokri, jer se snijeg na njima topi.",
+      "The streets and pavements mostly stayed wet, because the snow is melting on them."
+     ]
+    ],
+    [
+     [
+      "Fotoreporteri Klixa snimili su ljude koji šetaju gradom pod kišobranima.",
+      "Klix photojournalists photographed people walking through the city under umbrellas."
+     ],
+     [
+      "Neki stanovnici već su čistili snijeg sa svojih automobila.",
+      "Some residents were already cleaning the snow off their cars."
+     ],
+     [
+      "Snijeg se zadržava na travi i na krovovima vozila.",
+      "The snow is staying on the grass and on the roofs of vehicles."
+     ],
+     [
+      "Temperatura u gradu bila je oko 2 stepena, a padala je i slaba kiša.",
+      "The temperature in the city was about 2 degrees, and light rain was also falling."
+     ]
+    ],
+    [
+     [
+      "Prema prognozi, danas se očekuje susnježica, a najviša temperatura bit će 2 stepena.",
+      "According to the forecast, sleet is expected today, and the highest temperature will be 2 degrees."
+     ],
+     [
+      "U nedjelju bi trebalo biti lijepo vrijeme, ali noću temperatura može pasti do minus 4.",
+      "On Sunday the weather should be nice, but at night the temperature may fall to minus 4."
+     ],
+     [
+      "Na snazi je i žuto upozorenje zbog niskih temperatura.",
+      "A yellow warning for low temperatures is also in force."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "snijeg",
+     "snow"
+    ],
+    [
+     "prekriti",
+     "to cover"
+    ],
+    [
+     "topiti se",
+     "to melt"
+    ],
+    [
+     "kišobran",
+     "umbrella"
+    ],
+    [
+     "krov",
+     "roof"
+    ],
+    [
+     "susnježica",
+     "sleet"
+    ],
+    [
+     "upozorenje",
+     "warning"
+    ]
+   ]
+  },
+  {
+   "id": "261128072",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/nogomet/rumuni-kaznjeni-zbog-tucnjave-u-zenici-navijaci-su-pravili-nered-na-bilinom-polju/261128072",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261128072.jpg",
+   "published": "2026-11-28T13:10:00+01:00",
+   "title": [
+    "UEFA kaznila Rumuniju i BiH nakon utakmice u Zenici",
+    "UEFA fines Romania and BiH after the match in Zenica"
+   ],
+   "body": [
+    [
+     [
+      "UEFA je kaznila Fudbalski savez Rumunije sa 10.000 eura zbog ponašanja navijača u Zenici.",
+      "UEFA fined the Romanian Football Federation 10,000 euros because of the behaviour of fans in Zenica."
+     ],
+     [
+      "Rumunija je 17. novembra na Bilinom Polju igrala protiv BiH u Ligi nacija.",
+      "On 17 November Romania played against BiH at Bilino Polje in the Nations League."
+     ],
+     [
+      "Bosna i Hercegovina je pobijedila 2:1.",
+      "Bosnia and Herzegovina won 2:1."
+     ]
+    ],
+    [
+     [
+      "Rumunija će na jednoj gostujućoj utakmici moći prodati manje ulaznica svojim navijačima.",
+      "At one away match Romania will be able to sell fewer tickets to its fans."
+     ],
+     [
+      "Njihov dio stadiona smanjen je sa 5 na 2,5 posto mjesta.",
+      "Their part of the stadium has been reduced from 5 to 2.5 percent of the seats."
+     ],
+     [
+      "Kaznu je dobio i Nogometni savez BiH, i to 20.000 eura zbog rasističkog ponašanja navijača.",
+      "The Football Association of BiH was also fined, namely 20,000 euros because of racist behaviour of fans."
+     ],
+     [
+      "Savez mora platiti još 10.000 eura jer su navijači zviždali tokom rumunske himne.",
+      "The association must pay another 10,000 euros because fans whistled during the Romanian anthem."
+     ]
+    ],
+    [
+     [
+      "Odluku je u petak objavilo disciplinsko tijelo UEFA-e, a o njoj je pisao rumunski Newsweek.",
+      "The decision was published on Friday by UEFA's disciplinary body, and Romanian Newsweek wrote about it."
+     ],
+     [
+      "Zbog ranije uslovne kazne, na sljedećoj domaćoj utakmici BiH bit će zatvoreno 5 posto stadiona.",
+      "Because of an earlier suspended penalty, 5 percent of the stadium will be closed at BiH's next home match."
+     ],
+     [
+      "Uslovna kazna znači da se kazna primjenjuje tek ako se prekršaj ponovi.",
+      "A suspended penalty means that the penalty is applied only if the offence is repeated."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "kazniti",
+     "to punish, to fine"
+    ],
+    [
+     "navijač",
+     "fan, supporter"
+    ],
+    [
+     "savez",
+     "association, federation"
+    ],
+    [
+     "ulaznica",
+     "ticket"
+    ],
+    [
+     "himna",
+     "anthem"
+    ],
+    [
+     "zviždati",
+     "to whistle"
+    ],
+    [
+     "uslovna kazna",
+     "suspended penalty"
+    ]
+   ]
+  },
+  {
+   "id": "261128071",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/ramo-isak-odgovorio-na-prozivke-o-naseru-oricu-necu-prihvatiti-da-se-fup-diskreditira-fabrikovanim-konstrukcijama/261128071",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261128071.jpg",
+   "published": "2026-11-28T13:04:00+01:00",
+   "title": [
+    "Ramo Isak odbacio tvrdnje Dragomira Andana o akciji Emisar",
+    "Ramo Isak rejects Dragomir Andan's claims about operation Emisar"
+   ],
+   "body": [
+    [
+     [
+      "Federalni ministar unutrašnjih poslova Ramo Isak odgovorio je u subotu Dragomiru Andanu, bivšem direktoru policije RS.",
+      "Federal Interior Minister Ramo Isak responded on Saturday to Dragomir Andan, former police director of RS."
+     ],
+     [
+      "Andan je na RTRS-u rekao da je akcija Emisar uspjela jer o njoj nije obaviještena Federalna uprava policije.",
+      "Andan said on RTRS that operation Emisar succeeded because the Federal Police Administration was not informed about it."
+     ],
+     [
+      "Tvrdio je da bi Isak upozorio Nasera Orića da će biti uhapšen.",
+      "He claimed that Isak would have warned Naser Orić that he would be arrested."
+     ]
+    ],
+    [
+     [
+      "Isak je rekao da je to vrhunac licemjerstva, odnosno pretvaranja.",
+      "Isak said that this is the height of hypocrisy, that is, pretence."
+     ],
+     [
+      "Podsjetio je da je visoki predstavnik Miroslav Lajčák 2007. godine smijenio Andana jer je pomagao osobama koje je optužio Haški tribunal.",
+      "He recalled that High Representative Miroslav Lajčák removed Andan in 2007 because he helped persons indicted by the Hague Tribunal."
+     ],
+     [
+      "Prema Isakovim riječima, o Andanovoj prošlosti postoje službeni dokumenti, a o njemu samo izmišljene priče.",
+      "According to Isak, there are official documents about Andan's past, while about him there are only made-up stories."
+     ],
+     [
+      "Dodao je da su neki sarajevski mediji nedavno objavili gotovo iste tvrdnje.",
+      "He added that some Sarajevo media had recently published almost the same claims."
+     ]
+    ],
+    [
+     [
+      "Isak je pitao zašto policija RS nije uhapsila Milorada Dodika, nego je spriječila SIPA-u da izvrši sudsku naredbu.",
+      "Isak asked why the RS police did not arrest Milorad Dodik, but instead prevented SIPA from carrying out a court order."
+     ],
+     [
+      "Rekao je da neće dozvoliti da ljudi koji su smijenjeni iz policije napadaju federalne policajce.",
+      "He said he will not allow people who were removed from the police to attack federal police officers."
+     ],
+     [
+      "Najavio je da neće šutjeti kada se Federalna uprava policije napada lažnim tvrdnjama.",
+      "He announced that he will not stay silent when the Federal Police Administration is attacked with false claims."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "ministar",
+     "minister"
+    ],
+    [
+     "tvrdnja",
+     "claim"
+    ],
+    [
+     "uhapsiti",
+     "to arrest"
+    ],
+    [
+     "smijeniti",
+     "to remove from office, dismiss"
+    ],
+    [
+     "licemjerstvo",
+     "hypocrisy"
+    ],
+    [
+     "naredba",
+     "order"
+    ],
+    [
+     "šutjeti",
+     "to stay silent"
+    ]
+   ]
+  },
+  {
+   "id": "261128059",
+   "source": "Klix.ba",
+   "section": "Biznis",
+   "url": "https://www.klix.ba/biznis/ekonomija/zgrada-edina-dzeke-na-marijin-dvoru-dobija-konacni-izgled-fasada-je-gotovo-zavrsena/261128059",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261128059.jpg",
+   "published": "2026-11-28T12:55:00+01:00",
+   "title": [
+    "Zgrada Edina Džeke u Sarajevu skoro je završena",
+    "Edin Džeko's building in Sarajevo is almost finished"
+   ],
+   "body": [
+    [
+     [
+      "Zgrada koju na Marijin Dvoru u Sarajevu grade Edin Džeko i Amer Bukvić dobija svoj konačni izgled.",
+      "The building that Edin Džeko and Amer Bukvić are building at Marijin Dvor in Sarajevo is getting its final look."
+     ],
+     [
+      "Nalazi se iza Sarajevo City Centra, a fasada je gotovo završena.",
+      "It is located behind Sarajevo City Center, and the facade is almost finished."
+     ],
+     [
+      "Investitor je kompanija Premier Investment Group, koju su osnovali kapiten reprezentacije i poznati biznismen.",
+      "The investor is the company Premier Investment Group, which was founded by the national team captain and a well-known businessman."
+     ]
+    ],
+    [
+     [
+      "Na zgradi su već postavljeni aluminijski prozori.",
+      "Aluminium windows have already been installed on the building."
+     ],
+     [
+      "Najveći dio fasade ima bijele i sive panele, a balkoni duž cijele zgrade imaju tamnosivu oblogu.",
+      "Most of the facade has white and grey panels, and the balconies along the whole building have dark grey cladding."
+     ],
+     [
+      "Na nekim mjestima još stoje skele, a prizemlje je ograđeno jer se tamo još radi.",
+      "Scaffolding still stands in some places, and the ground floor is fenced off because work is still going on there."
+     ],
+     [
+      "Zgrada će imati prizemlje, šest spratova i povučeni sprat na vrhu.",
+      "The building will have a ground floor, six floors and a set-back floor on top."
+     ]
+    ],
+    [
+     [
+      "Predstavnik investitora rekao je prošlog decembra da bi radovi trebali biti završeni do kraja 2026. godine.",
+      "A representative of the investor said last December that the work should be finished by the end of 2026."
+     ],
+     [
+      "Gradnja je godinama kasnila zbog sudskog spora.",
+      "The construction was delayed for years because of a court dispute."
+     ],
+     [
+      "Urbanistička saglasnost izdata je još 2013. godine, ali se kompanija Bosna sport žalila.",
+      "The urban planning consent was issued back in 2013, but the company Bosna sport appealed."
+     ],
+     [
+      "Građevinska dozvola postala je konačna tek u julu 2023. godine.",
+      "The building permit only became final in July 2023."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "zgrada",
+     "building"
+    ],
+    [
+     "fasada",
+     "facade"
+    ],
+    [
+     "investitor",
+     "investor"
+    ],
+    [
+     "sprat",
+     "floor, storey"
+    ],
+    [
+     "skela",
+     "scaffolding"
+    ],
+    [
+     "sudski spor",
+     "court dispute"
+    ],
+    [
+     "dozvola",
+     "permit"
+    ]
+   ]
+  },
+  {
+   "id": "261128067",
+   "source": "Klix.ba",
+   "section": "BiH",
+   "url": "https://www.klix.ba/vijesti/bih/ko-ce-biti-novi-predsjedavajuci-vijeca-ministara-u-igri-nekoliko-kandidata-edin-ramic-iz-sda-najblizi-funkciji/261128067",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261128067.jpg",
+   "published": "2026-11-28T12:54:00+01:00",
+   "title": [
+    "Edin Ramić najbliži mjestu predsjedavajućeg Vijeća ministara",
+    "Edin Ramić closest to the post of chair of the Council of Ministers"
+   ],
+   "body": [
+    [
+     [
+      "Nekoliko kandidata želi postati novi predsjedavajući Vijeća ministara BiH, ali Edin Ramić iz SDA trenutno ima najveće šanse.",
+      "Several candidates want to become the new chair of the Council of Ministers of BiH, but Edin Ramić from the SDA currently has the best chances."
+     ],
+     [
+      "Ramić je potpredsjednik SDA, a na izborima 4. oktobra izabran je za zastupnika u Narodnoj skupštini RS.",
+      "Ramić is vice-president of the SDA, and in the elections on 4 October he was elected as a deputy in the National Assembly of RS."
+     ],
+     [
+      "Konačna odluka još nije donesena, ali sve vodi prema njegovoj kandidaturi.",
+      "The final decision has not yet been made, but everything points to his candidacy."
+     ]
+    ],
+    [
+     [
+      "Sve regionalne organizacije SDA iz Republike Srpske predložile su Ramića.",
+      "All regional SDA organisations from Republika Srpska have proposed Ramić."
+     ],
+     [
+      "Podršku su mu dali i odbori u Kantonu Sarajevo, Bosanskopodrinjskom i Posavskom kantonu, a očekuje se i prijedlog iz Zeničko-dobojskog kantona.",
+      "He also got support from the boards in Sarajevo Canton, Bosnian-Podrinje and Posavina Canton, and a proposal is also expected from Zenica-Doboj Canton."
+     ],
+     [
+      "Predsjednik SDA Bakir Izetbegović i Halid Genjac trebali bi ući u Dom naroda Parlamentarne skupštine BiH.",
+      "SDA president Bakir Izetbegović and Halid Genjac are expected to enter the House of Peoples of the Parliamentary Assembly of BiH."
+     ]
+    ],
+    [
+     [
+      "Predsjedavajućeg imenuje Predsjedništvo BiH, a potvrđuje ga Predstavnički dom.",
+      "The chair is appointed by the Presidency of BiH and confirmed by the House of Representatives."
+     ],
+     [
+      "Sada tu funkciju ima Borjana Krišto iz HDZ-a BiH, a u novom mandatu ona bi trebala pripasti Bošnjaku.",
+      "Borjana Krišto from HDZ BiH now holds this post, and in the new mandate it should go to a Bosniak."
+     ],
+     [
+      "Ramić je nakon izbora rekao da su DF i SBiH prirodni partneri SDA.",
+      "After the elections, Ramić said that DF and SBiH are the SDA's natural partners."
+     ],
+     [
+      "Ozbiljni razgovori o vlasti očekuju se nakon što se početkom decembra konstituiše Predstavnički dom.",
+      "Serious talks about the government are expected after the House of Representatives is constituted at the beginning of December."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "predsjedavajući",
+     "chair, chairman"
+    ],
+    [
+     "Vijeće ministara",
+     "Council of Ministers"
+    ],
+    [
+     "kandidat",
+     "candidate"
+    ],
+    [
+     "potpredsjednik",
+     "vice-president"
+    ],
+    [
+     "prijedlog",
+     "proposal"
+    ],
+    [
+     "imenovati",
+     "to appoint"
+    ],
+    [
+     "mandat",
+     "term of office"
+    ]
+   ]
+  },
+  {
+   "id": "261128058",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/kultura/pogledajte-prve-fotografije-opere-la-boheme-giacoma-puccinija-nakon-vise-od-tri-godine-vraca-se-u-narodno-pozoriste/261128058",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261128058.jpg",
+   "published": "2026-11-28T12:14:00+01:00",
+   "title": [
+    "Opera La bohème vraća se u Narodno pozorište Sarajevo",
+    "The opera La bohème returns to the National Theatre Sarajevo"
+   ],
+   "body": [
+    [
+     [
+      "Puccinijeva opera La bohème nakon više od tri godine vraća se na repertoar Narodnog pozorišta Sarajevo.",
+      "Puccini's opera La bohème is returning to the repertoire of the National Theatre Sarajevo after more than three years."
+     ],
+     [
+      "Izvedbe su 30. novembra i 1. decembra, a počinju u 19:30.",
+      "The performances are on 30 November and 1 December, and they start at 19:30."
+     ],
+     [
+      "Pozorište je objavilo i prve fotografije s proba.",
+      "The theatre has also published the first photos from rehearsals."
+     ]
+    ],
+    [
+     [
+      "Opera se vraća u godini kada sarajevska opera slavi 80 godina postojanja.",
+      "The opera returns in the year when the Sarajevo opera is celebrating 80 years of existence."
+     ],
+     [
+      "Dirigent je Dario Vučić, a režiju potpisuje Ivan Leo Lemo.",
+      "The conductor is Dario Vučić, and the director is Ivan Leo Lemo."
+     ],
+     [
+      "Uz soliste nastupaju Sarajevska filharmonija, hor opere i balet Narodnog pozorišta.",
+      "Along with the soloists, the Sarajevo Philharmonic, the opera choir and the ballet of the National Theatre perform."
+     ],
+     [
+      "Glavne uloge pjevaju, između ostalih, Amir Saračević, Katarina Kikić Marić i Erol Ramadanović.",
+      "The main roles are sung by, among others, Amir Saračević, Katarina Kikić Marić and Erol Ramadanović."
+     ]
+    ],
+    [
+     [
+      "Opera ima četiri čina i govori o mladim umjetnicima u Parizu.",
+      "The opera has four acts and is about young artists in Paris."
+     ],
+     [
+      "U njoj su ljubav, prijateljstvo i život umjetnika, a u centru priče su Rodolfo i Mimì.",
+      "It is about love, friendship and the life of artists, and at the centre of the story are Rodolfo and Mimì."
+     ],
+     [
+      "Prvi put je izvedena 1896. godine u Torinu.",
+      "It was first performed in 1896 in Turin."
+     ],
+     [
+      "Ulaznice se mogu kupiti na stranici pozorišta, na karter.ba i na blagajni.",
+      "Tickets can be bought on the theatre's website, on karter.ba and at the box office."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "opera",
+     "opera"
+    ],
+    [
+     "pozorište",
+     "theatre"
+    ],
+    [
+     "izvedba",
+     "performance"
+    ],
+    [
+     "dirigent",
+     "conductor"
+    ],
+    [
+     "uloga",
+     "role"
+    ],
+    [
+     "čin",
+     "act (of a play)"
+    ],
+    [
+     "blagajna",
+     "box office"
+    ],
+    [
+     "umjetnik",
+     "artist"
+    ]
+   ]
+  },
+  {
+   "id": "261128038",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/auto/taksista-u-spaniji-presao-vise-od-400000-km-s-dizelskim-passatom-ne-zeli-elektricni-auto/261128038",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261128038.jpg",
+   "published": "2026-11-28T10:40:00+01:00",
+   "title": [
+    "Španski taksista prešao 400.000 kilometara s dizelskim Passatom",
+    "Spanish taxi driver covers 400,000 kilometres in a diesel Passat"
+   ],
+   "body": [
+    [
+     [
+      "Alvaro Cenis je taksista iz Zaragoze u Španiji.",
+      "Alvaro Cenis is a taxi driver from Zaragoza in Spain."
+     ],
+     [
+      "Od 2019. godine vozi Volkswagen Passat TDI i s njim je prešao više od 400.000 kilometara.",
+      "Since 2019 he has been driving a Volkswagen Passat TDI and he has covered more than 400,000 kilometres in it."
+     ],
+     [
+      "Kaže da ne želi električni automobil.",
+      "He says he does not want an electric car."
+     ]
+    ],
+    [
+     [
+      "Auto je kupio za 21.000 eura, kada je imao samo 10.000 kilometara.",
+      "He bought the car for 21,000 euros, when it had only 10,000 kilometres."
+     ],
+     [
+      "Nekih godina prešao je više od 100.000 kilometara, jer vozi i do Bordeauxa, Pariza i Lisabona.",
+      "In some years he covered more than 100,000 kilometres, because he also drives to Bordeaux, Paris and Lisbon."
+     ],
+     [
+      "Osim redovnog servisa, morao je promijeniti turbo punjač, ali velikih kvarova nije bilo.",
+      "Apart from regular servicing, he had to replace the turbocharger, but there were no big breakdowns."
+     ],
+     [
+      "Auto troši manje od 4,5 litra na 100 kilometara, a s jednim rezervoarom može preći oko 1.200 kilometara.",
+      "The car uses less than 4.5 litres per 100 kilometres, and with one tank it can cover about 1,200 kilometres."
+     ]
+    ],
+    [
+     [
+      "Cenis je za list Heraldo rekao da je dizel i dalje ekonomičan i pouzdan za duga putovanja.",
+      "Cenis told the newspaper Heraldo that diesel is still economical and reliable for long journeys."
+     ],
+     [
+      "Smatra da bi punjenje električnog auta na putu bilo previše komplikovano, a ne vjeruje ni hibridima.",
+      "He thinks that charging an electric car on the road would be too complicated, and he does not trust hybrids either."
+     ],
+     [
+      "S Passatom želi preći još 200.000 kilometara, a zatim bi mogao kupiti Mercedes V-klase ili Škodu Superb.",
+      "He wants to cover another 200,000 kilometres with the Passat, and then he could buy a Mercedes V-Class or a Škoda Superb."
+     ],
+     [
+      "U Španiji je danas većina taksija hibridna.",
+      "Today most taxis in Spain are hybrids."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "taksista",
+     "taxi driver"
+    ],
+    [
+     "preći",
+     "to cover (a distance)"
+    ],
+    [
+     "kvar",
+     "breakdown, fault"
+    ],
+    [
+     "trošiti",
+     "to use, consume"
+    ],
+    [
+     "rezervoar",
+     "fuel tank"
+    ],
+    [
+     "pouzdan",
+     "reliable"
+    ],
+    [
+     "punjenje",
+     "charging"
+    ]
+   ]
+  },
   {
    "id": "261128006",
    "source": "Klix.ba",
@@ -4768,828 +5594,6 @@
     [
      "trag",
      "mark, trace"
-    ]
-   ]
-  },
-  {
-   "id": "261126104",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/sda-danas-i-sutra-bira-svoje-kandidate-za-kljucne-pozicije-nezir-pivic-bi-trebao-biti-novi-premijer-fbih/261126104",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261126104.jpg",
-   "published": "2026-11-26T11:47:00+01:00",
-   "title": [
-    "SDA bira kandidate, Nezir Pivić mogući novi premijer FBiH",
-    "SDA picks candidates, Nezir Pivić possible new FBiH prime minister"
-   ],
-   "body": [
-    [
-     [
-      "Stranka demokratske akcije (SDA) danas i sutra bira svoje kandidate za najvažnije funkcije u novoj vlasti.",
-      "The Party of Democratic Action (SDA) is choosing its candidates for the most important posts in the new government today and tomorrow."
-     ],
-     [
-      "Danas se sastaje kolegij stranke, a sutra kadrovska komisija i predsjedništvo SDA.",
-      "The party's leadership board meets today, and the personnel commission and the SDA presidency meet tomorrow."
-     ],
-     [
-      "Oni trebaju potvrditi kandidate za vlast u Federaciji BiH i na državnom nivou.",
-      "They are to confirm the candidates for the government in the Federation of BiH and at state level."
-     ]
-    ],
-    [
-     [
-      "Za premijera FBiH najvjerovatnije će biti predložen Nezir Pivić, sadašnji premijer Zeničko-dobojskog kantona.",
-      "Nezir Pivić, the current prime minister of Zenica-Doboj Canton, will most likely be proposed for FBiH prime minister."
-     ],
-     [
-      "Razmatran je i Suad Huskić, bivši načelnik Tešnja, ali Pivić ima prednost.",
-      "Suad Huskić, the former mayor of Tešanj, was also considered, but Pivić has the advantage."
-     ],
-     [
-      "SDA će predložiti i kandidate za rukovodstvo parlamenata, a konstituirajuće sjednice zakazane su za 1. decembar.",
-      "SDA will also propose candidates for the leadership of the parliaments, and the inaugural sessions are scheduled for 1 December."
-     ],
-     [
-      "Očekuje se da u novoj vladi FBiH budu i HDZ, Stranka za BiH i DF.",
-      "HDZ, the Party for BiH and DF are expected to be in the new FBiH government as well."
-     ]
-    ],
-    [
-     [
-      "Razgovori o programu rada još traju, pa nije sigurno ko će na kraju formirati vladu.",
-      "Talks on the work programme are still going on, so it is not certain who will form the government in the end."
-     ],
-     [
-      "SDA poručuje da je SDP dobrodošao u vlast na državnom nivou, ali da u FBiH treba promijeniti neke kadrove.",
-      "SDA says that SDP is welcome in the state-level government, but that it should change some of its people in the FBiH."
-     ],
-     [
-      "Uloga SDP-a mogla bi zavisiti i od optužnica protiv Vojina Mijatovića i Nermina Nikšića.",
-      "SDP's role could also depend on the indictments against Vojin Mijatović and Nermin Nikšić."
-     ],
-     [
-      "Više bi se trebalo znati sljedeće sedmice.",
-      "More should be known next week."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "stranka",
-     "party"
-    ],
-    [
-     "kandidat",
-     "candidate"
-    ],
-    [
-     "premijer",
-     "prime minister"
-    ],
-    [
-     "vlast",
-     "government, authority"
-    ],
-    [
-     "sjednica",
-     "session"
-    ],
-    [
-     "vlada",
-     "government"
-    ],
-    [
-     "optužnica",
-     "indictment"
-    ],
-    [
-     "prednost",
-     "advantage"
-    ]
-   ]
-  },
-  {
-   "id": "261126073",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/tehnologija/kinezi-pokazali-leteci-automobil-koji-ide-u-masovnu-proizvodnju-buducnost-dolazi/261126073",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261126073.jpg",
-   "published": "2026-11-26T10:32:00+01:00",
-   "title": [
-    "Kineski leteći automobil uskoro ide u masovnu proizvodnju",
-    "Chinese flying car is soon going into mass production"
-   ],
-   "body": [
-    [
-     [
-      "Kineski proizvođač automobila Xpeng pokazao je leteće vozilo u svom sjedištu u gradu Guangzhou.",
-      "Chinese carmaker Xpeng showed a flying vehicle at its headquarters in the city of Guangzhou."
-     ],
-     [
-      "Vozilo se zove Land Aircraft Carrier, a razvila ga je Xpengova firma Aridge.",
-      "The vehicle is called Land Aircraft Carrier, and it was developed by Xpeng's company Aridge."
-     ],
-     [
-      "Letjelica je poletjela iznad zgrada kompanije i sletjela na platformu pred novinarima.",
-      "The aircraft took off above the company's buildings and landed on a platform in front of journalists."
-     ]
-    ],
-    [
-     [
-      "Proizvod ima dva dijela: kombi sa 6 točkova i malu letjelicu koja stoji u njegovom prtljažniku.",
-      "The product has two parts: a van with 6 wheels and a small aircraft that sits in its boot."
-     ],
-     [
-      "Kombi ne leti, nego samo vozi letjelicu do mjesta gdje je letenje dozvoljeno.",
-      "The van does not fly, but only drives the aircraft to a place where flying is allowed."
-     ],
-     [
-      "Tamo letjelica izlazi, polijeće, leti i slijeće na jednu komandu, a zatim se vraća u kombi.",
-      "There the aircraft comes out, takes off, flies and lands on a single command, and then returns to the van."
-     ],
-     [
-      "Fabrika u Guangzhouu može napraviti do 10.000 ovakvih vozila godišnje.",
-      "The factory in Guangzhou can make up to 10,000 such vehicles a year."
-     ]
-    ],
-    [
-     [
-      "Aridge tvrdi da je to prvi takav leteći automobil koji ide u masovnu proizvodnju.",
-      "Aridge claims that it is the first flying car of this kind that is going into mass production."
-     ],
-     [
-      "Kompanija ima više od 7.000 narudžbi iz cijelog svijeta, od toga oko 600 s Bliskog istoka.",
-      "The company has more than 7,000 orders from all over the world, about 600 of them from the Middle East."
-     ],
-     [
-      "Kupci bi prva vozila trebali dobiti 2026. godine, ali kineske vlasti još nisu dale sve dozvole.",
-      "Customers should receive the first vehicles in 2026, but the Chinese authorities have not yet given all the permits."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "leteći",
-     "flying"
-    ],
-    [
-     "proizvodnja",
-     "production"
-    ],
-    [
-     "vozilo",
-     "vehicle"
-    ],
-    [
-     "letjelica",
-     "aircraft"
-    ],
-    [
-     "poletjeti",
-     "to take off"
-    ],
-    [
-     "kombi",
-     "van"
-    ],
-    [
-     "narudžba",
-     "order"
-    ],
-    [
-     "dozvola",
-     "permit"
-    ]
-   ]
-  },
-  {
-   "id": "261126016",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/struja-se-vraca-u-dijelove-sarajeva-kojima-je-jutros-prekinuto-elektrosnabdijevanje/261126016",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261126016.jpg",
-   "published": "2026-11-26T07:34:00+01:00",
-   "title": [
-    "Struja se vraća u dijelove Sarajeva nakon jutarnjeg kvara",
-    "Power returns to parts of Sarajevo after a morning fault"
-   ],
-   "body": [
-    [
-     [
-      "Dijelovi Sarajeva u četvrtak ujutro su ostali bez struje zbog kvara na transformatoru u Velešićima.",
-      "Parts of Sarajevo were left without electricity on Thursday morning because of a fault on the transformer in Velešići."
-     ],
-     [
-      "Kvar je sada otklonjen, a struja se postepeno vraća u domove.",
-      "The fault has now been fixed, and power is gradually returning to homes."
-     ],
-     [
-      "To je za Klix.ba potvrdila Elektroprivreda BiH.",
-      "Elektroprivreda BiH confirmed this to Klix.ba."
-     ]
-    ],
-    [
-     [
-      "Problem je nastao na transformatoru od 110 kilovolti.",
-      "The problem occurred on a 110-kilovolt transformer."
-     ],
-     [
-      "Transformator je veliki uređaj koji mijenja napon struje prije nego što ona stigne do kuća.",
-      "A transformer is a large device that changes the voltage of electricity before it reaches houses."
-     ],
-     [
-      "Za ovaj transformator nije odgovorna Elektroprivreda, nego kompanija Elektroprijenos BiH.",
-      "Elektroprivreda is not responsible for this transformer, but the company Elektroprijenos BiH is."
-     ],
-     [
-      "Mnogi stanovnici su jutro počeli bez svjetla i grijanja.",
-      "Many residents started the morning without light and heating."
-     ]
-    ],
-    [
-     [
-      "Ovo nije prvi put da ovaj transformator ispadne iz sistema.",
-      "This is not the first time this transformer has dropped out of the system."
-     ],
-     [
-      "Zbog toga stanovnici ovog dijela grada često nemaju stabilno napajanje strujom.",
-      "Because of that, residents of this part of the city often do not have a stable power supply."
-     ],
-     [
-      "Elektroprijenos BiH jutros nije komentarisao ovaj kvar.",
-      "Elektroprijenos BiH did not comment on this fault this morning."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "struja",
-     "electricity, power"
-    ],
-    [
-     "kvar",
-     "fault, breakdown"
-    ],
-    [
-     "transformator",
-     "transformer"
-    ],
-    [
-     "otkloniti",
-     "to fix, to remove"
-    ],
-    [
-     "stanovnik",
-     "resident"
-    ],
-    [
-     "napon",
-     "voltage"
-    ],
-    [
-     "grijanje",
-     "heating"
-    ]
-   ]
-  },
-  {
-   "id": "261126018",
-   "source": "Klix.ba",
-   "section": "Zdravlje",
-   "url": "https://www.klix.ba/lifestyle/zdravlje/nagli-pad-temperatura-povecava-rizik-od-srcanog-i-mozdanog-udara/261126018",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261126018.jpg",
-   "published": "2026-11-26T07:34:00+01:00",
-   "title": [
-    "Nagla hladnoća povećava rizik od srčanog i moždanog udara",
-    "Sudden cold increases the risk of heart attack and stroke"
-   ],
-   "body": [
-    [
-     [
-      "Kada temperature naglo padnu, raste rizik od srčanog i moždanog udara.",
-      "When temperatures suddenly drop, the risk of heart attack and stroke rises."
-     ],
-     [
-      "Najviše su ugroženi ljudi koji već imaju bolesti srca.",
-      "People who already have heart disease are most at risk."
-     ],
-     [
-      "Kardiolozi, ljekari za srce, savjetuju da ljudi unaprijed nauče znakove upozorenja.",
-      "Cardiologists, heart doctors, advise people to learn the warning signs in advance."
-     ]
-    ],
-    [
-     [
-      "Na hladnoći tijelo sužava krvne sudove, a zbog toga raste krvni pritisak.",
-      "In the cold the body narrows the blood vessels, and because of that blood pressure rises."
-     ],
-     [
-      "Jaka hladnoća može i zgusnuti krv, pa se lakše stvaraju ugrušci.",
-      "Strong cold can also thicken the blood, so clots form more easily."
-     ],
-     [
-      "Jedan pregled istraživanja iz 2023. godine pokazao je da talasi hladnoće povećavaju smrtnost od bolesti srca za 32 posto.",
-      "A review of research from 2023 showed that cold waves increase deaths from heart disease by 32 percent."
-     ],
-     [
-      "Opasan može biti i težak rad na hladnoći, na primjer čišćenje snijega.",
-      "Hard work in the cold can also be dangerous, for example clearing snow."
-     ]
-    ],
-    [
-     [
-      "Znakovi upozorenja su bol u prsima, ruci, leđima ili vilici, kao i kratak dah i hladan znoj.",
-      "Warning signs are pain in the chest, arm, back or jaw, as well as shortness of breath and cold sweat."
-     ],
-     [
-      "Ako ljudi primijete takve znakove, trebaju odmah nazvati hitnu pomoć na broj 124.",
-      "If people notice such signs, they should immediately call the emergency service at number 124."
-     ],
-     [
-      "Ljekari savjetuju i toplu odjeću te malo alkohola, jer alkohol daje lažan osjećaj topline.",
-      "Doctors also advise warm clothes and little alcohol, because alcohol gives a false feeling of warmth."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "rizik",
-     "risk"
-    ],
-    [
-     "srčani udar",
-     "heart attack"
-    ],
-    [
-     "moždani udar",
-     "stroke"
-    ],
-    [
-     "pritisak",
-     "pressure"
-    ],
-    [
-     "krv",
-     "blood"
-    ],
-    [
-     "hladnoća",
-     "cold"
-    ],
-    [
-     "znak",
-     "sign"
-    ]
-   ]
-  },
-  {
-   "id": "261126014",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/macys-prvi-put-odgodio-cuvenu-paradu-u-new-yorku-za-dan-zahvalnosti-zbog-najavljenog-nevremena/261126014",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261126014.jpg",
-   "published": "2026-11-26T07:28:00+01:00",
-   "title": [
-    "Parada za Dan zahvalnosti u New Yorku odgođena zbog nevremena",
-    "Thanksgiving parade in New York postponed because of a storm"
-   ],
-   "body": [
-    [
-     [
-      "Kompanija Macy's prvi put je odgodila svoju poznatu paradu za Dan zahvalnosti u New Yorku.",
-      "The company Macy's has postponed its famous Thanksgiving parade in New York for the first time."
-     ],
-     [
-      "Parada je trebala biti u četvrtak, a sada će biti u subotu u 8:30.",
-      "The parade was supposed to be on Thursday, and now it will be on Saturday at 8:30."
-     ],
-     [
-      "Ovo je 100. parada, a razlog za odgodu je jak vjetar.",
-      "This is the 100th parade, and the reason for the postponement is strong wind."
-     ]
-    ],
-    [
-     [
-      "Meteorološka služba upozorila je na jak vjetar i poplave na obali od četvrtka do petka.",
-      "The weather service warned of strong wind and coastal flooding from Thursday to Friday."
-     ],
-     [
-      "Gradonačelnik Zohran Mamdani rekao je da bi vjetar mogao lomiti grane i rušiti električne vodove.",
-      "Mayor Zohran Mamdani said the wind could break branches and bring down power lines."
-     ],
-     [
-      "Dodao je da je sigurnost na prvom mjestu i da je odluka ispravna.",
-      "He added that safety comes first and that the decision is right."
-     ],
-     [
-      "Televizija NBC u četvrtak će prikazati paradu iz 2025. godine.",
-      "NBC television will show the parade from 2025 on Thursday."
-     ]
-    ],
-    [
-     [
-      "Parada nije održana od 1942. do 1944. godine, za vrijeme Drugog svjetskog rata.",
-      "The parade was not held from 1942 to 1944, during the Second World War."
-     ],
-     [
-      "Baloni zbog vremena nisu letjeli samo jednom, 1971. godine.",
-      "The balloons did not fly because of the weather only once, in 1971."
-     ],
-     [
-      "Nakon nesreće 1997. godine grad ima pravila za jak vjetar, jer je tada balon udario u stub i povrijedio jednu ženu.",
-      "After an accident in 1997 the city has rules for strong wind, because a balloon then hit a pole and injured a woman."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "parada",
-     "parade"
-    ],
-    [
-     "odgoditi",
-     "to postpone"
-    ],
-    [
-     "nevrijeme",
-     "storm, bad weather"
-    ],
-    [
-     "vjetar",
-     "wind"
-    ],
-    [
-     "gradonačelnik",
-     "mayor"
-    ],
-    [
-     "sigurnost",
-     "safety"
-    ],
-    [
-     "balon",
-     "balloon"
-    ]
-   ]
-  },
-  {
-   "id": "261126005",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/pogledajte-nevjerovatan-kiks-lammensa-kojim-je-uskratio-pochettinu-prvu-pobjedu-na-klupi-uniteda/261126005",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261126005.jpg",
-   "published": "2026-11-26T07:20:00+01:00",
-   "title": [
-    "Greška golmana Lammensa koštala United pobjede u Lisabonu",
-    "Goalkeeper Lammens's mistake cost United a win in Lisbon"
-   ],
-   "body": [
-    [
-     [
-      "Manchester United igrao je 2:2 protiv Sportinga u Lisabonu u 5. kolu Lige prvaka.",
-      "Manchester United drew 2-2 with Sporting in Lisbon in the 5th round of the Champions League."
-     ],
-     [
-      "Golman Senne Lammens napravio je veliku grešku u 80. minuti.",
-      "Goalkeeper Senne Lammens made a big mistake in the 80th minute."
-     ],
-     [
-      "Zbog toga trener Mauricio Pochettino još čeka prvu pobjedu na klupi Uniteda.",
-      "Because of that, coach Mauricio Pochettino is still waiting for his first win on the United bench."
-     ]
-    ],
-    [
-     [
-      "Sporting je poveo u 33. minuti, kada je Luis Suárez postigao gol iz penala.",
-      "Sporting took the lead in the 33rd minute, when Luis Suárez scored from a penalty."
-     ],
-     [
-      "Na početku drugog poluvremena Bruno Fernandes zabio je 2 gola, u 48. i 50. minuti.",
-      "At the start of the second half Bruno Fernandes scored 2 goals, in the 48th and 50th minute."
-     ],
-     [
-      "Tako je United došao do vodstva od 2:1.",
-      "That is how United got a 2-1 lead."
-     ]
-    ],
-    [
-     [
-      "U 80. minuti Lammens nije uhvatio loptu nakon centaršuta, dok ga je Suárez napadao.",
-      "In the 80th minute Lammens did not catch the ball after a cross, while Suárez was pressing him."
-     ],
-     [
-      "Suárez je iskoristio grešku i postavio konačni rezultat 2:2.",
-      "Suárez took advantage of the mistake and set the final score at 2-2."
-     ],
-     [
-      "Za United i novog trenera to je bio težak kraj večeri.",
-      "For United and the new coach it was a difficult end to the evening."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "golman",
-     "goalkeeper"
-    ],
-    [
-     "greška",
-     "mistake"
-    ],
-    [
-     "pobjeda",
-     "win, victory"
-    ],
-    [
-     "penal",
-     "penalty"
-    ],
-    [
-     "poluvrijeme",
-     "half (of a match)"
-    ],
-    [
-     "vodstvo",
-     "lead"
-    ],
-    [
-     "centaršut",
-     "cross (in football)"
-    ]
-   ]
-  },
-  {
-   "id": "261126013",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/muzika/u2-na-poluvremenu-nfl-utakmice-odao-pocast-dolly-parton-pjesmom-torn/261126013",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261126013.jpg",
-   "published": "2026-11-26T07:20:00+01:00",
-   "title": [
-    "U2 na NFL utakmici odao počast Dolly Parton",
-    "U2 paid tribute to Dolly Parton at an NFL game"
-   ],
-   "body": [
-    [
-     [
-      "Grupa U2 nastupila je u srijedu na poluvremenu NFL utakmice u Kaliforniji.",
-      "The band U2 performed on Wednesday at halftime of an NFL game in California."
-     ],
-     [
-      "Igrali su Green Bay Packers i Los Angeles Rams na stadionu SoFi, a utakmicu je prenosio Netflix.",
-      "Green Bay Packers and Los Angeles Rams played at SoFi Stadium, and Netflix broadcast the game."
-     ],
-     [
-      "Bila je to prva NFL utakmica uoči Dana zahvalnosti.",
-      "It was the first NFL game on the eve of Thanksgiving."
-     ]
-    ],
-    [
-     [
-      "Grupa je odala počast Dolly Parton pjesmom \"Torn\", duetom Bona i ove pjevačice.",
-      "The band paid tribute to Dolly Parton with the song \"Torn\", a duet of Bono and this singer."
-     ],
-     [
-      "To je posljednji snimak njenog glasa, a ona je umrla 25. augusta u 80. godini.",
-      "It is the last recording of her voice, and she died on 25 August at the age of 80."
-     ],
-     [
-      "Bono je pjevao uz njen snimljeni glas, dok se njen lik vidio na ekranima.",
-      "Bono sang along with her recorded voice, while her image was seen on the screens."
-     ],
-     [
-      "U2 je ukupno izveo 5 pjesama, a s njima je nastupilo i oko 100 pjevača u horu.",
-      "U2 performed 5 songs in total, and about 100 singers in a choir performed with them."
-     ]
-    ],
-    [
-     [
-      "\"Torn\" je jedina objavljena pjesma s novog albuma \"Carnaval De Luz\".",
-      "\"Torn\" is the only released song from the new album \"Carnaval De Luz\"."
-     ],
-     [
-      "To je 16. studijski album grupe, a pjesma je na njegovom kraju.",
-      "It is the band's 16th studio album, and the song is at its end."
-     ],
-     [
-      "Dolly Parton je 2023. godine i sama nastupila na poluvremenu jedne utakmice za Dan zahvalnosti.",
-      "In 2023 Dolly Parton herself performed at halftime of a Thanksgiving game."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "nastupiti",
-     "to perform"
-    ],
-    [
-     "poluvrijeme",
-     "halftime"
-    ],
-    [
-     "počast",
-     "tribute"
-    ],
-    [
-     "pjesma",
-     "song"
-    ],
-    [
-     "pjevačica",
-     "(female) singer"
-    ],
-    [
-     "snimak",
-     "recording"
-    ],
-    [
-     "hor",
-     "choir"
-    ]
-   ]
-  },
-  {
-   "id": "261126012",
-   "source": "Klix.ba",
-   "section": "Vrijeme",
-   "url": "https://www.klix.ba/vijesti/bih/danas-kisa-i-pljuskovi-u-vecem-dijelu-bih-u-visim-predjelima-padat-ce-snijeg/261126012",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261126012.jpg",
-   "published": "2026-11-26T07:19:00+01:00",
-   "title": [
-    "Danas kiša u većem dijelu BiH, u planinama snijeg",
-    "Rain in most of BiH today, snow in the mountains"
-   ],
-   "body": [
-    [
-     [
-      "U Bosni i Hercegovini danas će biti uglavnom oblačno, s kišom i pljuskovima.",
-      "In Bosnia and Herzegovina it will be mostly cloudy today, with rain and showers."
-     ],
-     [
-      "Najviše kiše očekuje se u Hercegovini, istočnoj Bosni i dijelu zapadnih krajeva.",
-      "The most rain is expected in Herzegovina, eastern Bosnia and part of the western areas."
-     ],
-     [
-      "U višim predjelima padat će snijeg, a za Sarajevo vrijedi žuto upozorenje zbog kiše i vjetra.",
-      "Snow will fall in higher areas, and a yellow warning for rain and wind is in force for Sarajevo."
-     ]
-    ],
-    [
-     [
-      "Vjetar će biti umjeren do jak, s juga, ali će poslije podne oslabiti.",
-      "The wind will be moderate to strong, from the south, but it will weaken in the afternoon."
-     ],
-     [
-      "Najtoplije će biti u Mostaru i Trebinju, do 13 stepeni.",
-      "It will be warmest in Mostar and Trebinje, up to 13 degrees."
-     ],
-     [
-      "U Sarajevu se očekuje do 11, a u Tuzli do 6 stepeni.",
-      "Up to 11 degrees is expected in Sarajevo, and up to 6 in Tuzla."
-     ],
-     [
-      "Na sjeverozapadu će biti mnogo hladnije, u Banjoj Luci oko 2, a u Bihaću oko 1 stepen.",
-      "In the northwest it will be much colder, about 2 degrees in Banja Luka and about 1 degree in Bihać."
-     ]
-    ],
-    [
-     [
-      "Sutra će također biti oblačno i kišovito.",
-      "Tomorrow will also be cloudy and rainy."
-     ],
-     [
-      "U Bihaću će ujutro padati susnježica, a tokom dana snijeg, na oko 0 stepeni.",
-      "In Bihać there will be sleet in the morning and snow during the day, at about 0 degrees."
-     ],
-     [
-      "Na jugu će i dalje biti toplije, do 13 stepeni.",
-      "In the south it will still be warmer, up to 13 degrees."
-     ],
-     [
-      "Prognozu je objavio Federalni hidrometeorološki zavod.",
-      "The forecast was published by the Federal Hydrometeorological Institute."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "kiša",
-     "rain"
-    ],
-    [
-     "pljusak",
-     "shower (of rain)"
-    ],
-    [
-     "snijeg",
-     "snow"
-    ],
-    [
-     "oblačno",
-     "cloudy"
-    ],
-    [
-     "upozorenje",
-     "warning"
-    ],
-    [
-     "susnježica",
-     "sleet"
-    ],
-    [
-     "stepen",
-     "degree"
-    ]
-   ]
-  },
-  {
-   "id": "261126008",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/deket-zahvalan-kolasincu-tako-lijepo-me-primio-u-reprezentaciju-sead-je-divan-momak/261126008",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261126008.jpg",
-   "published": "2026-11-26T07:16:00+01:00",
-   "title": [
-    "Mladi Deket zahvalio Kolašincu prije utakmice s Atalantom",
-    "Young Deket thanked Kolašinac before the match against Atalanta"
-   ],
-   "body": [
-    [
-     [
-      "Matej Deket, napadač Borca iz Banje Luke, govorio je novinarima prije utakmice protiv Atalante.",
-      "Matej Deket, a striker for Borac from Banja Luka, spoke to journalists before the match against Atalanta."
-     ],
-     [
-      "Borac i Atalanta igraju večeras u 21:00 na Gradskom stadionu u Banjoj Luci.",
-      "Borac and Atalanta play tonight at 21:00 at the City Stadium in Banja Luka."
-     ],
-     [
-      "To je utakmica 4. kola Konferencijske lige.",
-      "It is a match of the 4th round of the Conference League."
-     ]
-    ],
-    [
-     [
-      "Deket ima samo 17 godina, a ovog mjeseca je prvi put pozvan u A reprezentaciju BiH.",
-      "Deket is only 17 years old, and this month he was called up to the BiH senior national team for the first time."
-     ],
-     [
-      "Pozvao ga je selektor Sergej Barbarez.",
-      "He was called up by head coach Sergej Barbarez."
-     ],
-     [
-      "Na okupljanju je upoznao kapitena Seada Kolašinca i zahvalio mu je što ga je lijepo primio.",
-      "At the training camp he met captain Sead Kolašinac and thanked him for welcoming him so nicely."
-     ],
-     [
-      "Stadion je rasprodat, a navijači Atalante kupili su 494 karte.",
-      "The stadium is sold out, and Atalanta fans bought 494 tickets."
-     ]
-    ],
-    [
-     [
-      "Deket je rekao da Borac poštuje Atalantu, ali da će se boriti za dobar rezultat.",
-      "Deket said that Borac respects Atalanta, but that it will fight for a good result."
-     ],
-     [
-      "Dodao je da tim nije pod pritiskom i da želi dati sve na terenu.",
-      "He added that the team is not under pressure and wants to give everything on the pitch."
-     ],
-     [
-      "Italijanski novinari pitali su ga ko mu je omiljeni igrač Atalante, a on je izabrao Charlesa De Ketelaerea.",
-      "Italian journalists asked him who his favourite Atalanta player is, and he chose Charles De Ketelaere."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "napadač",
-     "striker"
-    ],
-    [
-     "utakmica",
-     "match"
-    ],
-    [
-     "reprezentacija",
-     "national team"
-    ],
-    [
-     "selektor",
-     "national team coach"
-    ],
-    [
-     "kapiten",
-     "captain"
-    ],
-    [
-     "navijač",
-     "fan, supporter"
-    ],
-    [
-     "rasprodat",
-     "sold out"
     ]
    ]
   }
