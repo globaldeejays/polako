@@ -1,17 +1,860 @@
 {
- "updated": "2026-11-27T18:50:00+01:00",
+ "updated": "2026-11-28T07:55:00+01:00",
  "front": [
-  "261127235",
-  "261127237",
-  "261127253",
-  "261127230",
-  "261127252",
-  "261127240",
-  "261127241",
-  "261127172",
-  "261127151"
+  "261128001",
+  "261128002",
+  "261128006",
+  "261128013",
+  "261128008",
+  "261128003",
+  "261127012",
+  "261128011",
+  "261128012",
+  "261127233"
  ],
  "articles": [
+  {
+   "id": "261128006",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/regija/crna-gora-placa-oko-18-miliona-eura-odstete-hrvatskim-logorasima-pomoc-i-za-porodice-zrtava-logora-u-ljubuskom-i-mostaru/261128006",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261128006.jpg",
+   "published": "2026-11-28T07:35:00+01:00",
+   "title": [
+    "Crna Gora će platiti odštetu bivšim zatočenicima iz Hrvatske",
+    "Montenegro will pay compensation to former detainees from Croatia"
+   ],
+   "body": [
+    [
+     [
+      "Vlada Crne Gore u petak je prihvatila izvještaj o pregovorima s Hrvatskom o odšteti za logor Morinj.",
+      "On Friday the Government of Montenegro accepted a report on the negotiations with Croatia on compensation for the Morinj camp."
+     ],
+     [
+      "Novac će dobiti građani Hrvatske koji su od 1991. do 1992. godine bili zatočeni u logorima u Crnoj Gori.",
+      "The money will go to citizens of Croatia who were detained in camps in Montenegro from 1991 to 1992."
+     ],
+     [
+      "Odštetu mogu dobiti i nasljednici ljudi koji su umrli zbog boravka u logoru.",
+      "The heirs of people who died because of their stay in the camp can also receive compensation."
+     ]
+    ],
+    [
+     [
+      "Vlada nije objavila iznos, ali list Vijesti piše da se radi o oko 18 miliona eura.",
+      "The government did not publish the amount, but the newspaper Vijesti writes that it is about 18 million euros."
+     ],
+     [
+      "Novac će biti uplaćen u budžet Hrvatske, a iznos za svaku osobu odredit će se posebno.",
+      "The money will be paid into Croatia's budget, and the amount for each person will be set separately."
+     ],
+     [
+      "Vlada je odobrila i jednokratnu pomoć od 200.000 eura za građane Crne Gore koji su bili u logorima Lora, Ljubuški i Mostar.",
+      "The government also approved a one-off payment of 200,000 euros for citizens of Montenegro who were in the Lora, Ljubuški and Mostar camps."
+     ]
+    ],
+    [
+     [
+      "Hrvatska traži od Crne Gore da riješi 8 otvorenih pitanja prije nego što završi pregovore s Evropskom unijom.",
+      "Croatia is asking Montenegro to solve 8 open issues before it finishes negotiations with the European Union."
+     ],
+     [
+      "Među njima su odšteta za Morinj, sudbina nestalih osoba i granica na moru.",
+      "Among them are compensation for Morinj, the fate of missing persons and the sea border."
+     ],
+     [
+      "Crna Gora planira završiti pregovore do kraja ove godine, a članica EU bi trebala postati 2028. godine.",
+      "Montenegro plans to finish the negotiations by the end of this year, and it should become an EU member in 2028."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "odšteta",
+     "compensation"
+    ],
+    [
+     "logor",
+     "camp (prison camp)"
+    ],
+    [
+     "zatočenik",
+     "detainee"
+    ],
+    [
+     "nasljednik",
+     "heir"
+    ],
+    [
+     "iznos",
+     "amount"
+    ],
+    [
+     "budžet",
+     "budget"
+    ],
+    [
+     "pregovori",
+     "negotiations"
+    ],
+    [
+     "članica",
+     "member (female form)"
+    ]
+   ]
+  },
+  {
+   "id": "261128013",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/kosarka/doncic-u-ozbiljnom-incidentu-odgurnuo-ga-muz-zastitnik-iz-publike-pogodio-mu-je-suprugu/261128013",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261128013.jpg",
+   "published": "2026-11-28T07:35:00+01:00",
+   "title": [
+    "Navijač u San Antoniju odgurnuo Luku Dončića nakon utakmice",
+    "A fan in San Antonio pushed Luka Dončić after the game"
+   ],
+   "body": [
+    [
+     [
+      "Košarkaš Lakersa Luka Dončić imao je incident s navijačem nakon poraza u San Antoniju.",
+      "Lakers basketball player Luka Dončić had an incident with a fan after the defeat in San Antonio."
+     ],
+     [
+      "Lakersi su izgubili od Spursa 99:96 i ispali su iz NBA kupa.",
+      "The Lakers lost to the Spurs 99:96 and were knocked out of the NBA Cup."
+     ],
+     [
+      "Dok je Dončić išao prema tunelu, jedna navijačica pored terena nešto mu je rekla.",
+      "As Dončić was walking towards the tunnel, a female fan next to the court said something to him."
+     ]
+    ],
+    [
+     [
+      "Dončić je bacio predmet, vjerovatno traku s ruke, koji je pogodio ženu.",
+      "Dončić threw an object, probably the band from his arm, which hit the woman."
+     ],
+     [
+      "Kada se vratio po traku, muškarac koji je sjedio s njom odgurnuo ga je jednom rukom.",
+      "When he came back for the band, the man who was sitting with her pushed him with one hand."
+     ],
+     [
+      "Saigrač Jarred Vanderbilt odmah je stao između njih, a osoblje dvorane okružilo je navijača.",
+      "Teammate Jarred Vanderbilt immediately stepped between them, and the arena staff surrounded the fan."
+     ]
+    ],
+    [
+     [
+      "Nije poznato šta je žena rekla Dončiću ni da li je navijač udaljen iz dvorane.",
+      "It is not known what the woman said to Dončić or whether the fan was removed from the arena."
+     ],
+     [
+      "Lakersi, NBA i Dončić zasad nisu komentarisali incident.",
+      "The Lakers, the NBA and Dončić have not commented on the incident so far."
+     ],
+     [
+      "Dončić je na utakmici postigao 31 poen, imao 8 asistencija i 6 skokova.",
+      "Dončić scored 31 points in the game and had 8 assists and 6 rebounds."
+     ],
+     [
+      "Lakersi su u jednom trenutku vodili 20 poena razlike, ali su Spursi na kraju slavili.",
+      "At one point the Lakers led by 20 points, but the Spurs celebrated in the end."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "navijač",
+     "fan"
+    ],
+    [
+     "poraz",
+     "defeat"
+    ],
+    [
+     "odgurnuti",
+     "to push away"
+    ],
+    [
+     "predmet",
+     "object"
+    ],
+    [
+     "saigrač",
+     "teammate"
+    ],
+    [
+     "dvorana",
+     "arena, hall"
+    ],
+    [
+     "incident",
+     "incident"
+    ],
+    [
+     "poen",
+     "point"
+    ]
+   ]
+  },
+  {
+   "id": "261128011",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/magazin/muzika/kreso-i-zuvi-predstavili-novi-singl-samo-jednu-kratku/261128011",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261128011.jpg",
+   "published": "2026-11-28T07:34:00+01:00",
+   "title": [
+    "Reperi iz Splita Krešo i Žuvi objavili novu pjesmu",
+    "Rappers from Split Krešo and Žuvi released a new song"
+   ],
+   "body": [
+    [
+     [
+      "Reperi iz Splita Krešo Bengalka i Žuvi predstavili su novi singl \"Samo jednu kratku\".",
+      "Rappers from Split Krešo Bengalka and Žuvi presented a new single, \"Samo jednu kratku\"."
+     ],
+     [
+      "Duo je poznat po dalmatinskom hip-hopu, a nova pjesma nastavlja taj stil.",
+      "The duo is known for Dalmatian hip-hop, and the new song continues that style."
+     ],
+     [
+      "U saopćenju za medije piše da pjesma ima njihov prepoznatljiv zvuk.",
+      "The press release says that the song has their recognisable sound."
+     ]
+    ],
+    [
+     [
+      "Krešo i Žuvi su prvi album \"Brokva\" objavili 2014. godine.",
+      "Krešo and Žuvi released their first album, \"Brokva\", in 2014."
+     ],
+     [
+      "Četiri godine kasnije snimili su pjesmu \"Propušteni poziv\" s pjevačicom Majom Bajamić.",
+      "Four years later they recorded the song \"Propušteni poziv\" with singer Maja Bajamić."
+     ],
+     [
+      "Ta pjesma je najavila njihov drugi album, koji se zove \"Vida\".",
+      "That song announced their second album, which is called \"Vida\"."
+     ]
+    ],
+    [
+     [
+      "Krešo Bengalka je u martu ove godine objavio i zajednički album s Ivanom Jurićem Yurijem.",
+      "In March this year Krešo Bengalka also released a joint album with Ivan Jurić Yuri."
+     ],
+     [
+      "Taj album se zove \"Dvaest deka\".",
+      "That album is called \"Dvaest deka\"."
+     ],
+     [
+      "Nova pjesma je sada dostupna publici, a duo nastavlja svoj rad.",
+      "The new song is now available to the public, and the duo is continuing its work."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "reper",
+     "rapper"
+    ],
+    [
+     "singl",
+     "single"
+    ],
+    [
+     "pjesma",
+     "song"
+    ],
+    [
+     "album",
+     "album"
+    ],
+    [
+     "zvuk",
+     "sound"
+    ],
+    [
+     "prepoznatljiv",
+     "recognisable"
+    ],
+    [
+     "snimiti",
+     "to record"
+    ],
+    [
+     "najaviti",
+     "to announce"
+    ]
+   ]
+  },
+  {
+   "id": "261128012",
+   "source": "Klix.ba",
+   "section": "Zdravlje",
+   "url": "https://www.klix.ba/lifestyle/zdravlje/promrzline-se-mogu-javiti-vec-na-nuli-kako-ih-prepoznati-i-pomoci/261128012",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261128012.jpg",
+   "published": "2026-11-28T07:32:00+01:00",
+   "title": [
+    "Promrzline se mogu javiti već na nula stepeni",
+    "Frostbite can appear already at zero degrees"
+   ],
+   "body": [
+    [
+     [
+      "Promrzline nastaju kada se koža smrzne na niskoj temperaturi, a mogu se javiti već na nula stepeni.",
+      "Frostbite occurs when the skin freezes at a low temperature, and it can appear already at zero degrees."
+     ],
+     [
+      "Rizik je veći što je hladnije i što duže ostajemo napolju.",
+      "The risk is greater the colder it is and the longer we stay outside."
+     ],
+     [
+      "Najčešće su pogođeni prsti na rukama i nogama, nos i uši, piše britanska zdravstvena služba NHS.",
+      "Most often the fingers, toes, nose and ears are affected, writes the British health service NHS."
+     ]
+    ],
+    [
+     [
+      "Na početku je koža hladna, a ljudi osjećaju trnce ili peckanje.",
+      "At the beginning the skin is cold, and people feel tingling or burning."
+     ],
+     [
+      "Kasnije koža postaje tvrda i može biti bijela ili plava, a mogu se pojaviti i plikovi.",
+      "Later the skin becomes hard and can be white or blue, and blisters can also appear."
+     ],
+     [
+      "Osoba treba što prije ući u toplu prostoriju i skinuti rukavice, prstenje i obuću.",
+      "The person should go into a warm room as soon as possible and take off gloves, rings and shoes."
+     ],
+     [
+      "Pogođeni dio tijela treba umotati u ćebe ili staviti u toplu, ali ne vruću vodu.",
+      "The affected part of the body should be wrapped in a blanket or put in warm, but not hot, water."
+     ]
+    ],
+    [
+     [
+      "Koža se ne smije trljati niti grijati pored vatre ili radijatora, a alkohol nije dobra ideja.",
+      "The skin must not be rubbed or warmed next to a fire or radiator, and alcohol is not a good idea."
+     ],
+     [
+      "Ako je koža tvrda i bez osjećaja, potrebna je hitna pomoć, jer se promrzline liječe u bolnici.",
+      "If the skin is hard and without feeling, emergency help is needed, because frostbite is treated in hospital."
+     ],
+     [
+      "Za zaštitu je najbolje nositi više slojeva odjeće, kapu, šal, rukavice i debele čarape.",
+      "For protection it is best to wear several layers of clothing, a hat, a scarf, gloves and thick socks."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "promrzlina",
+     "frostbite"
+    ],
+    [
+     "koža",
+     "skin"
+    ],
+    [
+     "smrznuti se",
+     "to freeze"
+    ],
+    [
+     "plik",
+     "blister"
+    ],
+    [
+     "ćebe",
+     "blanket"
+    ],
+    [
+     "trljati",
+     "to rub"
+    ],
+    [
+     "bolnica",
+     "hospital"
+    ],
+    [
+     "sloj",
+     "layer"
+    ]
+   ]
+  },
+  {
+   "id": "261128002",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/trump-ga-zove-prijateljem-zelenski-odgovara-to-je-kao-da-ste-za-hitlera-rekli-da-je-dobar-prijatelj/261128002",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261128002.jpg",
+   "published": "2026-11-28T07:21:00+01:00",
+   "title": [
+    "Zelenski kritikovao Trumpa jer Putina zove prijateljem",
+    "Zelensky criticised Trump for calling Putin a friend"
+   ],
+   "body": [
+    [
+     [
+      "Ukrajinski predsjednik Volodimir Zelenski rekao je u intervjuu za BBC da mu je čudno što Donald Trump zove Vladimira Putina prijateljem.",
+      "Ukrainian President Volodymyr Zelensky said in an interview with the BBC that he finds it strange that Donald Trump calls Vladimir Putin a friend."
+     ],
+     [
+      "To je uporedio s tim kao da neko u Drugom svjetskom ratu kaže da je Hitler dobar prijatelj.",
+      "He compared it to someone in the Second World War saying that Hitler is a good friend."
+     ],
+     [
+      "Intervju je dao na engleskom jeziku, a o njemu je pisala agencija Reuters.",
+      "He gave the interview in English, and the Reuters agency reported on it."
+     ]
+    ],
+    [
+     [
+      "Trump je Putina nazvao prijateljem na sastanku u kineskom gradu Shenzhenu, tokom samita APEC-a.",
+      "Trump called Putin a friend at a meeting in the Chinese city of Shenzhen, during the APEC summit."
+     ],
+     [
+      "Kasnije je na mreži Truth Social objavio njihovu zajedničku fotografiju s natpisom \"Moj prijatelj\".",
+      "Later he posted their joint photo on the Truth Social network with the caption \"My friend\"."
+     ],
+     [
+      "Zelenski je rekao da Trump može govoriti šta hoće, ali da je Putin agresor i ubica.",
+      "Zelensky said that Trump can say what he wants, but that Putin is an aggressor and a killer."
+     ]
+    ],
+    [
+     [
+      "Trump je u četvrtak novinarima rekao da Putina zove prijateljem jer želi dogovor koji bi zaustavio ubijanje.",
+      "On Thursday Trump told reporters that he calls Putin a friend because he wants a deal that would stop the killing."
+     ],
+     [
+      "Prema njegovim riječima, glavni problem je što se Putin i Zelenski zaista mrze.",
+      "In his words, the main problem is that Putin and Zelensky really hate each other."
+     ],
+     [
+      "Mirovni pregovori ovog mjeseca nastavljeni su u Abu Dhabiju.",
+      "Peace talks were resumed this month in Abu Dhabi."
+     ],
+     [
+      "Zelenski je rekao da pregovori zasad nisu dali rezultate.",
+      "Zelensky said that the talks have so far brought no results."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "prijatelj",
+     "friend"
+    ],
+    [
+     "uporediti",
+     "to compare"
+    ],
+    [
+     "sastanak",
+     "meeting"
+    ],
+    [
+     "fotografija",
+     "photograph"
+    ],
+    [
+     "dogovor",
+     "deal, agreement"
+    ],
+    [
+     "mrziti",
+     "to hate"
+    ],
+    [
+     "pregovori",
+     "negotiations, talks"
+    ],
+    [
+     "ubica",
+     "killer"
+    ]
+   ]
+  },
+  {
+   "id": "261128008",
+   "source": "Klix.ba",
+   "section": "Biznis",
+   "url": "https://www.klix.ba/biznis/ekonomija/inflacija-u-francuskoj-i-spaniji-pala-vise-od-ocekivanog/261128008",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261128008.jpg",
+   "published": "2026-11-28T07:20:00+01:00",
+   "title": [
+    "Inflacija u Francuskoj i Španiji pala više od očekivanog",
+    "Inflation in France and Spain fell more than expected"
+   ],
+   "body": [
+    [
+     [
+      "Inflacija u Francuskoj i Španiji pala je u novembru više nego što su analitičari očekivali.",
+      "Inflation in France and Spain fell in November more than analysts had expected."
+     ],
+     [
+      "Podatke su u petak objavili statistički zavodi obje zemlje.",
+      "The statistics offices of both countries published the data on Friday."
+     ],
+     [
+      "Glavni razlog su niže cijene energije i goriva.",
+      "The main reason is lower prices of energy and fuel."
+     ]
+    ],
+    [
+     [
+      "U Francuskoj je godišnja inflacija pala na 2,9 posto, a u oktobru je bila 3,4 posto.",
+      "In France annual inflation fell to 2.9 percent, while in October it was 3.4 percent."
+     ],
+     [
+      "Analitičari su očekivali 3,2 posto, a cijene su u odnosu na oktobar pale za 0,7 posto.",
+      "Analysts expected 3.2 percent, and prices fell by 0.7 percent compared with October."
+     ],
+     [
+      "Hrana je ipak malo poskupjela, posebno svježi proizvodi.",
+      "Food, however, became slightly more expensive, especially fresh products."
+     ],
+     [
+      "U Španiji je inflacija pala s 4,9 na 4,1 posto, što je najniži nivo od jula.",
+      "In Spain inflation fell from 4.9 to 4.1 percent, which is the lowest level since July."
+     ]
+    ],
+    [
+     [
+      "Ipak, to je četvrti mjesec zaredom da je inflacija u Španiji iznad 4 posto.",
+      "Still, it is the fourth month in a row that inflation in Spain is above 4 percent."
+     ],
+     [
+      "Član vodstva Evropske centralne banke Primož Dolenc rekao je da dva povećanja kamatnih stopa nisu dovoljna.",
+      "A member of the European Central Bank's leadership, Primož Dolenc, said that two interest rate increases are not enough."
+     ],
+     [
+      "Šef njemačke centralne banke Joachim Nagel očekuje da će inflacija i 2027. godine biti iznad 3 posto.",
+      "The head of the German central bank, Joachim Nagel, expects inflation to be above 3 percent in 2027 as well."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "inflacija",
+     "inflation"
+    ],
+    [
+     "pasti",
+     "to fall"
+    ],
+    [
+     "očekivati",
+     "to expect"
+    ],
+    [
+     "gorivo",
+     "fuel"
+    ],
+    [
+     "cijena",
+     "price"
+    ],
+    [
+     "poskupjeti",
+     "to become more expensive"
+    ],
+    [
+     "kamatna stopa",
+     "interest rate"
+    ],
+    [
+     "centralna banka",
+     "central bank"
+    ]
+   ]
+  },
+  {
+   "id": "261128001",
+   "source": "Klix.ba",
+   "section": "Svijet",
+   "url": "https://www.klix.ba/vijesti/svijet/diplomatska-bura-nakon-pogibije-italijana-u-kuvajtu-tajani-prozvao-teheran-iran-nudi-zajednicku-istragu/261128001",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261128001.jpg",
+   "published": "2026-11-28T07:17:00+01:00",
+   "title": [
+    "Italija krivi Iran za smrt dvojice Italijana u Kuvajtu",
+    "Italy blames Iran for the death of two Italians in Kuwait"
+   ],
+   "body": [
+    [
+     [
+      "Dvojica italijanskih tehničara poginula su u četvrtak u napadu dronova na vojni objekat u Kuvajtu.",
+      "Two Italian technicians were killed on Thursday in a drone attack on a military facility in Kuwait."
+     ],
+     [
+      "Antonio Saccoccio je imao 65 godina, a Emanuele Lo Russo 36 godina.",
+      "Antonio Saccoccio was 65 years old, and Emanuele Lo Russo was 36."
+     ],
+     [
+      "Radili su za kompaniju Rheinmetall Italia i održavali su antene kuvajtske protivzračne odbrane.",
+      "They worked for the company Rheinmetall Italia and maintained the antennas of Kuwait's air defence."
+     ]
+    ],
+    [
+     [
+      "Kuvajtska vojska je saopćila da je više neprijateljskih dronova ušlo u njen zračni prostor.",
+      "The Kuwaiti army announced that several enemy drones had entered its airspace."
+     ],
+     [
+      "Odbrana je presrela dronove, ali su dijelovi teško ranili Italijane, koji su kasnije umrli.",
+      "The defence intercepted the drones, but fragments badly wounded the Italians, who later died."
+     ],
+     [
+      "U napadu su povrijeđeni i jedan Kuvajćanin i jedan Pakistanac.",
+      "A Kuwaiti and a Pakistani were also injured in the attack."
+     ],
+     [
+      "Tužilaštvo u Rimu otvorilo je istragu zbog sumnje na ubistvo.",
+      "The prosecutor's office in Rome opened an investigation on suspicion of murder."
+     ]
+    ],
+    [
+     [
+      "Italijanski ministar vanjskih poslova Antonio Tajani rekao je da su napali dronovi iranske proizvodnje.",
+      "Italian Foreign Minister Antonio Tajani said that Iranian-made drones had attacked."
+     ],
+     [
+      "Kuvajt je napad nazvao činom agresije i uručio je protestnu notu iranskom ambasadoru.",
+      "Kuwait called the attack an act of aggression and handed a protest note to the Iranian ambassador."
+     ],
+     [
+      "Iranski ministar Abbas Araghchi odbacio je optužbe i ponudio zajedničku istragu.",
+      "Iranian minister Abbas Araghchi rejected the accusations and offered a joint investigation."
+     ],
+     [
+      "Prema Al Jazeeri, ovo su prvi evropski civili koji su poginuli u ratu SAD-a i Izraela protiv Irana.",
+      "According to Al Jazeera, these are the first European civilians killed in the war of the USA and Israel against Iran."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "tehničar",
+     "technician"
+    ],
+    [
+     "dron",
+     "drone"
+    ],
+    [
+     "poginuti",
+     "to be killed"
+    ],
+    [
+     "istraga",
+     "investigation"
+    ],
+    [
+     "optužba",
+     "accusation"
+    ],
+    [
+     "odbrana",
+     "defence"
+    ],
+    [
+     "ambasador",
+     "ambassador"
+    ],
+    [
+     "agresija",
+     "aggression"
+    ]
+   ]
+  },
+  {
+   "id": "261128003",
+   "source": "Klix.ba",
+   "section": "Sport",
+   "url": "https://www.klix.ba/sport/kosarka/konacno-povratak-nurkic-se-nakon-povrede-vratio-s-11-asistencija-jokicev-denver-ipak-slavio/261128003",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261128003.jpg",
+   "published": "2026-11-28T07:13:00+01:00",
+   "title": [
+    "Nurkić se vratio nakon povrede, Denver ipak pobijedio Utah",
+    "Nurkić returned after injury, but Denver still beat Utah"
+   ],
+   "body": [
+    [
+     [
+      "Bosanskohercegovački košarkaš Jusuf Nurkić odigrao je prvu utakmicu sezone nakon povrede.",
+      "Bosnian-Herzegovinian basketball player Jusuf Nurkić played his first game of the season after an injury."
+     ],
+     [
+      "Njegov Utah Jazz izgubio je kod kuće od Denver Nuggetsa 107:120 u NBA kupu.",
+      "His Utah Jazz lost at home to the Denver Nuggets 107:120 in the NBA Cup."
+     ],
+     [
+      "Nurkić je imao 11 asistencija, najviše u svom timu, te 5 poena i 5 skokova.",
+      "Nurkić had 11 assists, the most on his team, as well as 5 points and 5 rebounds."
+     ]
+    ],
+    [
+     [
+      "Propustio je prvih 19 utakmica jer je imao povredu nožnog prsta.",
+      "He missed the first 19 games because he had a toe injury."
+     ],
+     [
+      "Povrijedio se 4. oktobra na pripremnoj utakmici protiv Denvera, svog bivšeg kluba.",
+      "He got injured on 4 October in a preseason game against Denver, his former club."
+     ],
+     [
+      "Utah je vodio 102:97 manje od 6 minuta prije kraja, ali je Denver tada napravio veliki preokret.",
+      "Utah led 102:97 less than 6 minutes before the end, but Denver then made a big comeback."
+     ],
+     [
+      "Jamal Murray je postigao 36 poena, a Nikola Jokić je imao 17 poena i 15 asistencija.",
+      "Jamal Murray scored 36 points, and Nikola Jokić had 17 points and 15 assists."
+     ]
+    ],
+    [
+     [
+      "Utah je ove sezone pobijedio samo 3 puta, a izgubio je 17 utakmica.",
+      "Utah has won only 3 times this season and has lost 17 games."
+     ],
+     [
+      "Kod kuće je dobio samo jednu od 11 utakmica.",
+      "At home it has won only one of 11 games."
+     ],
+     [
+      "Denver je grupu u NBA kupu završio s 3 pobjede, ali nije prošao dalje.",
+      "Denver finished its NBA Cup group with 3 wins, but did not go through."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "povreda",
+     "injury"
+    ],
+    [
+     "povratak",
+     "return"
+    ],
+    [
+     "asistencija",
+     "assist"
+    ],
+    [
+     "skok",
+     "rebound"
+    ],
+    [
+     "propustiti",
+     "to miss"
+    ],
+    [
+     "preokret",
+     "comeback, turnaround"
+    ],
+    [
+     "pobjeda",
+     "win, victory"
+    ],
+    [
+     "bivši",
+     "former"
+    ]
+   ]
+  },
+  {
+   "id": "261127233",
+   "source": "Klix.ba",
+   "section": "Magazin",
+   "url": "https://www.klix.ba/auto/savjeti/cijena-nam-je-cesto-jedini-kriterij-evo-koju-oznaku-na-gumama-treba-gledati-za-bolju-voznju-po-kisi/261127233",
+   "image": "https://static.klix.ba/media/images/vijesti/b_261127233.jpg",
+   "published": "2026-11-27T20:16:00+01:00",
+   "title": [
+    "Koju oznaku na gumama gledati za sigurniju vožnju po kiši",
+    "Which tyre label to look at for safer driving in the rain"
+   ],
+   "body": [
+    [
+     [
+      "Mnogi vozači pri kupovini guma gledaju samo cijenu, ali skuplja guma nije uvijek i bolja.",
+      "Many drivers look only at the price when buying tyres, but a more expensive tyre is not always better."
+     ],
+     [
+      "Za vožnju po kiši najvažnija je oznaka na evropskoj naljepnici za gume.",
+      "For driving in the rain the most important thing is the mark on the European tyre label."
+     ],
+     [
+      "Ta naljepnica pokazuje kako se guma ponaša na mokrom putu.",
+      "That label shows how the tyre behaves on a wet road."
+     ]
+    ],
+    [
+     [
+      "Na naljepnici su ocjene za potrošnju goriva i držanje na mokrom putu, od A do E.",
+      "On the label there are grades for fuel consumption and grip on a wet road, from A to E."
+     ],
+     [
+      "Tu je i podatak o buci, s ocjenom od A do C i brojem decibela.",
+      "There is also information about noise, with a grade from A to C and the number of decibels."
+     ],
+     [
+      "Pri brzini od 80 kilometara na sat razlika u kočenju između gume A i gume E može biti i 18 metara.",
+      "At a speed of 80 kilometres per hour the difference in braking between an A tyre and an E tyre can be as much as 18 metres."
+     ],
+     [
+      "Prema podacima kompanije Michelin, razlika između ocjena A i D je oko 9 metara.",
+      "According to data from the company Michelin, the difference between grades A and D is about 9 metres."
+     ]
+    ],
+    [
+     [
+      "Stručnjaci zato savjetuju da vozači biraju gume s ocjenom A ili B.",
+      "Experts therefore advise drivers to choose tyres with an A or B grade."
+     ],
+     [
+      "Takve gume postoje i među jeftinijim modelima, pa ne treba uvijek kupovati poznatu marku.",
+      "Such tyres also exist among cheaper models, so you don't always need to buy a well-known brand."
+     ],
+     [
+      "Važni su i pritisak u gumama, njihovo stanje i brzina vožnje.",
+      "Tyre pressure, their condition and driving speed are also important."
+     ]
+    ]
+   ],
+   "vocab": [
+    [
+     "guma",
+     "tyre"
+    ],
+    [
+     "naljepnica",
+     "label, sticker"
+    ],
+    [
+     "ocjena",
+     "grade"
+    ],
+    [
+     "kočenje",
+     "braking"
+    ],
+    [
+     "mokar",
+     "wet"
+    ],
+    [
+     "buka",
+     "noise"
+    ],
+    [
+     "pritisak",
+     "pressure"
+    ],
+    [
+     "vozač",
+     "driver"
+    ]
+   ]
+  },
   {
    "id": "261127252",
    "source": "Klix.ba",
@@ -4747,828 +5590,6 @@
     [
      "rasprodat",
      "sold out"
-    ]
-   ]
-  },
-  {
-   "id": "261126006",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/potpredsjednik-irana-ne-brine-nas-americka-pomorska-blokada-uvoz-raste-preko-kopna/261126006",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261126006.jpg",
-   "published": "2026-11-26T07:05:00+01:00",
-   "title": [
-    "Iran kaže da ga američka blokada luka ne brine",
-    "Iran says the American blockade of its ports does not worry it"
-   ],
-   "body": [
-    [
-     [
-      "Prvi potpredsjednik Irana Mohammad Reza Aref rekao je u srijedu da Teheran ne brine američka pomorska blokada.",
-      "Iran's First Vice President Mohammad Reza Aref said on Wednesday that the American naval blockade does not worry Tehran."
-     ],
-     [
-      "Prema njegovim riječima, sve više robe stiže u zemlju preko kopnenih granica.",
-      "According to him, more and more goods are arriving in the country across land borders."
-     ],
-     [
-      "Vlada u isto vrijeme pokušava zaustaviti rast cijena.",
-      "At the same time, the government is trying to stop prices from rising."
-     ]
-    ],
-    [
-     [
-      "Iran ima jednu od najvećih inflacija u posljednjih nekoliko decenija, a uzrok je rat koji traje gotovo 9 mjeseci.",
-      "Iran has one of the highest inflation rates in the last few decades, and the cause is a war that has lasted almost 9 months."
-     ],
-     [
-      "Cijene su u oktobru bile 88,7 posto veće nego godinu ranije.",
-      "Prices in October were 88.7 percent higher than a year earlier."
-     ],
-     [
-      "Hrana i pića su poskupjeli čak 112,6 posto.",
-      "Food and drinks went up in price by as much as 112.6 percent."
-     ],
-     [
-      "SAD su u julu ponovo blokirale iranske luke, a ovog mjeseca su najavile i kontrolu kopnenih granica i Kaspijskog jezera.",
-      "The US blocked Iranian ports again in July, and this month they also announced control of the land borders and the Caspian Sea."
-     ]
-    ],
-    [
-     [
-      "Aref je rekao da zemlja ima dovoljno zaliha, ali nije naveo brojke.",
-      "Aref said the country has enough reserves, but he did not give numbers."
-     ],
-     [
-      "Vlada želi da cijene osnovnih proizvoda ne rastu najmanje 3 mjeseca.",
-      "The government wants prices of basic products not to rise for at least 3 months."
-     ],
-     [
-      "Predsjednik Masoud Pezeshkian rekao je da će više novca ići siromašnijim zajednicama.",
-      "President Masoud Pezeshkian said that more money will go to poorer communities."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "potpredsjednik",
-     "vice president"
-    ],
-    [
-     "blokada",
-     "blockade"
-    ],
-    [
-     "roba",
-     "goods"
-    ],
-    [
-     "granica",
-     "border"
-    ],
-    [
-     "inflacija",
-     "inflation"
-    ],
-    [
-     "zaliha",
-     "reserve, stock"
-    ],
-    [
-     "poskupjeti",
-     "to become more expensive"
-    ]
-   ]
-  },
-  {
-   "id": "261126004",
-   "source": "Klix.ba",
-   "section": "Tehnologija",
-   "url": "https://www.klix.ba/scitech/tehnologija/spacex-u-dozvoljeno-rasporedivanje-milion-satelita-za-data-centre-naucnici-skepticni/261126004",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261126004.jpg",
-   "published": "2026-11-26T06:41:00+01:00",
-   "title": [
-    "SpaceX smije poslati milion satelita, naučnici sumnjaju",
-    "SpaceX may send a million satellites, scientists have doubts"
-   ],
-   "body": [
-    [
-     [
-      "Američka komisija za komunikacije FCC odobrila je u srijedu veliki plan kompanije SpaceX.",
-      "The American communications commission FCC approved a big plan of the company SpaceX on Wednesday."
-     ],
-     [
-      "Kompanija smije poslati u svemir milion satelita koji bi radili kao centri za podatke.",
-      "The company may send into space a million satellites that would work as data centres."
-     ],
-     [
-      "Projekat se zove \"Starmind\", a sateliti bi obrađivali velike količine podataka za ljude na Zemlji.",
-      "The project is called \"Starmind\", and the satellites would process large amounts of data for people on Earth."
-     ]
-    ],
-    [
-     [
-      "Šef FCC-a Brendan Carr rekao je da je to historijski korak.",
-      "FCC chief Brendan Carr said it is a historic step."
-     ],
-     [
-      "SpaceX mora prvu stanicu postaviti do 2033. godine, a ostale postepeno do 2040.",
-      "SpaceX must set up the first station by 2033, and the others gradually by 2040."
-     ],
-     [
-      "Elon Musk je odluku pozdravio na društvenim mrežama.",
-      "Elon Musk welcomed the decision on social media."
-     ]
-    ],
-    [
-     [
-      "Mnogi naučnici ipak sumnjaju da je plan moguć.",
-      "Many scientists, however, doubt that the plan is possible."
-     ],
-     [
-      "Astrofizičar Adam Becker rekao je da je to fantazija, jer je u svemiru teško osloboditi se toplote.",
-      "Astrophysicist Adam Becker said it is a fantasy, because in space it is hard to get rid of heat."
-     ],
-     [
-      "Stručnjaci upozoravaju i na zagađenje i na opasnost od sudara u orbiti.",
-      "Experts also warn of pollution and the danger of collisions in orbit."
-     ],
-     [
-      "Američko astronomsko društvo kaže da bi toliko satelita smetalo posmatranju noćnog neba.",
-      "The American Astronomical Society says that so many satellites would interfere with observing the night sky."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "satelit",
-     "satellite"
-    ],
-    [
-     "odobriti",
-     "to approve"
-    ],
-    [
-     "svemir",
-     "space"
-    ],
-    [
-     "podaci",
-     "data"
-    ],
-    [
-     "naučnik",
-     "scientist"
-    ],
-    [
-     "sumnjati",
-     "to doubt"
-    ],
-    [
-     "sudar",
-     "collision"
-    ]
-   ]
-  },
-  {
-   "id": "261126003",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/kim-jong-un-najavio-vecu-proizvodnju-nuklearnog-oruzja-nakon-trumpove-ponude-za-susret/261126003",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261126003.jpg",
-   "published": "2026-11-26T06:35:00+01:00",
-   "title": [
-    "Kim Jong-un traži više nuklearnog oružja",
-    "Kim Jong-un calls for more nuclear weapons"
-   ],
-   "body": [
-    [
-     [
-      "Sjevernokorejski lider Kim Jong-un posjetio je fabrike koje proizvode nuklearni materijal.",
-      "North Korean leader Kim Jong-un visited factories that produce nuclear material."
-     ],
-     [
-      "Tom prilikom je pozvao na proizvodnju novog nuklearnog oružja.",
-      "On that occasion he called for the production of new nuclear weapons."
-     ],
-     [
-      "Državna agencija KCNA objavila je vijest u četvrtak.",
-      "The state agency KCNA published the news on Thursday."
-     ]
-    ],
-    [
-     [
-      "Kim je obišao 2 fabrike, jednu novu i jednu koja se širi.",
-      "Kim toured 2 factories, one new and one that is being expanded."
-     ],
-     [
-      "Na fotografijama se vide uređaji za obogaćivanje uranija i dijelovi koji izgledaju kao bojeve glave.",
-      "The photos show devices for enriching uranium and parts that look like warheads."
-     ],
-     [
-      "U srijedu je posjetio i bazu za podmornice na nuklearni pogon i jedan istraživački institut.",
-      "On Wednesday he also visited a base for nuclear-powered submarines and a research institute."
-     ],
-     [
-      "Lokacije fabrika nisu objavljene.",
-      "The locations of the factories were not published."
-     ]
-    ],
-    [
-     [
-      "Kim je rekao da je nuklearni status Sjeverne Koreje stvarnost koja se ne može promijeniti.",
-      "Kim said that North Korea's nuclear status is a reality that cannot be changed."
-     ],
-     [
-      "Sve se desilo nekoliko dana nakon što Pjongjang nije odgovorio na Trumpovu ponudu za susret.",
-      "It all happened a few days after Pyongyang did not respond to Trump's offer of a meeting."
-     ],
-     [
-      "Trump je ipak rekao da ga Kim nije ignorisao i da će njihov susret doći.",
-      "Trump still said that Kim had not ignored him and that their meeting will come."
-     ],
-     [
-      "Južna Koreja kaže da ozbiljno shvata Kimove riječi.",
-      "South Korea says it takes Kim's words seriously."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "nuklearni",
-     "nuclear"
-    ],
-    [
-     "oružje",
-     "weapon(s)"
-    ],
-    [
-     "fabrika",
-     "factory"
-    ],
-    [
-     "proizvodnja",
-     "production"
-    ],
-    [
-     "podmornica",
-     "submarine"
-    ],
-    [
-     "susret",
-     "meeting"
-    ],
-    [
-     "ponuda",
-     "offer"
-    ]
-   ]
-  },
-  {
-   "id": "261125178",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/regija/cupic-sutra-raspisuje-izbore-za-predsjednika-srbije-glasanje-najkasnije-do-27-decembra/261125178",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261125178.jpg",
-   "published": "2026-11-25T17:48:00+01:00",
-   "title": [
-    "Srbija bira predsjednika najkasnije 27. decembra",
-    "Serbia elects a president by 27 December at the latest"
-   ],
-   "body": [
-    [
-     [
-      "Predsjednik Skupštine Srbije Aleksandar Čupić sutra će raspisati izbore za predsjednika Srbije.",
-      "The Speaker of the Serbian Assembly Aleksandar Čupić will call elections for the president of Serbia tomorrow."
-     ],
-     [
-      "Odluku će potpisati u 12 sati u zgradi Skupštine u Beogradu.",
-      "He will sign the decision at 12 o'clock in the Assembly building in Belgrade."
-     ],
-     [
-      "Mandat Aleksandra Vučića završio je 27. septembra.",
-      "Aleksandar Vučić's term ended on 27 September."
-     ]
-    ],
-    [
-     [
-      "Zato izbori moraju biti održani najkasnije do 27. decembra.",
-      "That is why the election must be held by 27 December at the latest."
-     ],
-     [
-      "Glasanje mora biti od 30 do 60 dana nakon što se izbori raspišu.",
-      "The vote must be 30 to 60 days after the election is called."
-     ],
-     [
-      "Svaki kandidat treba najmanje 10.000 potpisa birača.",
-      "Every candidate needs at least 10,000 voter signatures."
-     ],
-     [
-      "Kandidate mogu predložiti stranke, koalicije i grupe građana.",
-      "Candidates can be nominated by parties, coalitions and groups of citizens."
-     ]
-    ],
-    [
-     [
-      "Predsjednika biraju građani, a pobjednik u prvom krugu mora dobiti više od pola glasova.",
-      "The president is chosen by the citizens, and a winner in the first round must get more than half of the votes."
-     ],
-     [
-      "Ako niko ne uspije, dva najbolja kandidata idu u drugi krug.",
-      "If nobody succeeds, the two best candidates go to a second round."
-     ],
-     [
-      "Pobjednik će nakon toga položiti zakletvu pred Skupštinom.",
-      "After that the winner will take the oath before the Assembly."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "izbori",
-     "election"
-    ],
-    [
-     "raspisati",
-     "to call (an election)"
-    ],
-    [
-     "mandat",
-     "term of office"
-    ],
-    [
-     "glasanje",
-     "voting"
-    ],
-    [
-     "birač",
-     "voter"
-    ],
-    [
-     "potpis",
-     "signature"
-    ],
-    [
-     "krug",
-     "round"
-    ],
-    [
-     "zakletva",
-     "oath"
-    ]
-   ]
-  },
-  {
-   "id": "261125171",
-   "source": "Klix.ba",
-   "section": "Magazin",
-   "url": "https://www.klix.ba/magazin/film-tv/serija-the-body-preuzela-vrh-netflixa-guarding-stars-najgledaniji-film/261125171",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261125171.jpg",
-   "published": "2026-11-25T17:46:00+01:00",
-   "title": [
-    "Serija \"The Body\" i film \"Guarding Stars\" na vrhu Netflixa",
-    "The series \"The Body\" and the film \"Guarding Stars\" at the top of Netflix"
-   ],
-   "body": [
-    [
-     [
-      "Netflix je objavio listu najgledanijih serija i filmova za sedmicu od 16. novembra.",
-      "Netflix published the list of the most-watched series and films for the week from 16 November."
-     ],
-     [
-      "Među serijama na engleskom jeziku prva je nova serija \"The Body\" s 9,5 miliona pregleda.",
-      "Among English-language series, the new series \"The Body\" is first with 9.5 million views."
-     ],
-     [
-      "Serija govori o plesnoj grupi čiji neuspjeli ritual uznemiri cijelu zajednicu.",
-      "The series is about a dance group whose failed ritual disturbs the whole community."
-     ]
-    ],
-    [
-     [
-      "Na drugom mjestu je druga sezona serije \"Black Doves\" s Keirom Knightley, sa 3,7 miliona pregleda.",
-      "In second place is the second season of the series \"Black Doves\" with Keira Knightley, with 3.7 million views."
-     ],
-     [
-      "Najgledaniji film je božićna romantična komedija \"Guarding Stars\" s 27,6 miliona pregleda.",
-      "The most-watched film is the Christmas romantic comedy \"Guarding Stars\" with 27.6 million views."
-     ],
-     [
-      "To je skoro dvaput više nego što ima film na drugom mjestu.",
-      "That is almost twice as much as the film in second place has."
-     ],
-     [
-      "Drugi je triler \"Heartland\" s Jessicom Chastain, a treći je animirani film \"Steps\".",
-      "Second is the thriller \"Heartland\" with Jessica Chastain, and third is the animated film \"Steps\"."
-     ]
-    ],
-    [
-     [
-      "Među filmovima na drugim jezicima drugu sedmicu vodi indonezijski akcijski film \"Never Surrender\".",
-      "Among films in other languages, the Indonesian action film \"Never Surrender\" leads for the second week."
-     ],
-     [
-      "Najgledanija serija na drugim jezicima je poljska drama \"The Law of Beasts\".",
-      "The most-watched series in other languages is the Polish drama \"The Law of Beasts\"."
-     ],
-     [
-      "Ta serija ima četiri epizode i zasniva se na stvarnim događajima.",
-      "That series has four episodes and is based on real events."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "serija",
-     "series"
-    ],
-    [
-     "najgledaniji",
-     "most-watched"
-    ],
-    [
-     "pregled",
-     "view"
-    ],
-    [
-     "sezona",
-     "season"
-    ],
-    [
-     "film",
-     "film"
-    ],
-    [
-     "sedmica",
-     "week"
-    ],
-    [
-     "zasnivati se",
-     "to be based on"
-    ]
-   ]
-  },
-  {
-   "id": "261125173",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/nogomet/dzeko-ljut-zbog-uloge-rezerve-sve-kulminiralo-nakon-duela-sa-stuttgartom-karius-stao-u-njegovu-odbranu/261125173",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261125173.jpg",
-   "published": "2026-11-25T17:29:00+01:00",
-   "title": [
-    "Džeko nezadovoljan što na Schalkeu sjedi na klupi",
-    "Džeko unhappy that he sits on the bench at Schalke"
-   ],
-   "body": [
-    [
-     [
-      "Edin Džeko je ljut jer u Schalkeu sve češće počinje utakmice kao rezerva.",
-      "Edin Džeko is angry because at Schalke he more and more often starts games as a substitute."
-     ],
-     [
-      "U subotu je ušao u igru tek u 86. minuti utakmice protiv Stuttgarta, koja je završila 0:0.",
-      "On Saturday he came on only in the 86th minute of the game against Stuttgart, which ended 0:0."
-     ],
-     [
-      "Nakon utakmice otišao je s terena bez pozdrava navijačima.",
-      "After the game he left the pitch without greeting the fans."
-     ]
-    ],
-    [
-     [
-      "Prema listu WAZ, Džeko je prošao pored novinara i nije dao izjavu.",
-      "According to the newspaper WAZ, Džeko walked past the journalists and did not give a statement."
-     ],
-     [
-      "Na početku sezone dao je dva gola u Kupu Njemačke.",
-      "At the start of the season he scored two goals in the German Cup."
-     ],
-     [
-      "Od tada je u 11 utakmica imao samo jednu asistenciju i tri puta je bio u prvoj postavi.",
-      "Since then he has had only one assist in 11 games and was in the starting line-up three times."
-     ],
-     [
-      "Trener Miron Muslić rekao je da bira igrače prema taktici, a ne prema imenu.",
-      "Coach Miron Muslić said that he chooses players by tactics, not by name."
-     ]
-    ],
-    [
-     [
-      "Golman Loris Karius stao je u odbranu Džeke.",
-      "Goalkeeper Loris Karius stood up for Džeko."
-     ],
-     [
-      "Rekao je da su igrači emotivni i da je dobro kada žele igrati.",
-      "He said that players are emotional and that it is good when they want to play."
-     ],
-     [
-      "Schalke u subotu igra protiv Paderborna, a ako Džeko da gol, bit će najstariji strijelac u historiji Bundeslige.",
-      "Schalke play Paderborn on Saturday, and if Džeko scores, he will be the oldest goalscorer in Bundesliga history."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "ljut",
-     "angry"
-    ],
-    [
-     "rezerva",
-     "substitute"
-    ],
-    [
-     "klupa",
-     "bench"
-    ],
-    [
-     "navijač",
-     "fan, supporter"
-    ],
-    [
-     "golman",
-     "goalkeeper"
-    ],
-    [
-     "trener",
-     "coach"
-    ],
-    [
-     "strijelac",
-     "goalscorer"
-    ]
-   ]
-  },
-  {
-   "id": "261125169",
-   "source": "Klix.ba",
-   "section": "Sport",
-   "url": "https://www.klix.ba/sport/kosarka/dzanan-musa-sa-zastitnim-naocalama-zaigrao-protiv-partizana-bit-ce-spreman-za-litvaniju/261125169",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261125169.jpg",
-   "published": "2026-11-25T17:10:00+01:00",
-   "title": [
-    "Džanan Musa igrao sa zaštitnim naočalama protiv Partizana",
-    "Džanan Musa played with protective goggles against Partizan"
-   ],
-   "body": [
-    [
-     [
-      "Bosanskohercegovački košarkaš Džanan Musa vratio se na teren u utakmici svog Dubaija protiv Partizana.",
-      "Bosnian-Herzegovinian basketball player Džanan Musa returned to the court in his team Dubai's game against Partizan."
-     ],
-     [
-      "Igrao je sa zaštitnim naočalama jer je prošle sedmice povrijedio oko.",
-      "He played with protective goggles because he injured his eye last week."
-     ]
-    ],
-    [
-     [
-      "Povreda se dogodila u Euroligi, na utakmici protiv Maccabija na Kipru.",
-      "The injury happened in the EuroLeague, in a game against Maccabi in Cyprus."
-     ],
-     [
-      "Igrač Maccabija Armando Bacot udario ga je u lice dok je išao prema košu.",
-      "Maccabi player Armando Bacot hit him in the face while he was going towards the basket."
-     ],
-     [
-      "Musa je morao izaći i do kraja utakmice nije se vratio.",
-      "Musa had to leave and did not return until the end of the game."
-     ],
-     [
-      "Sudije nisu dosudile težak prekršaj, ali je Dubai ipak pobijedio 80:74.",
-      "The referees did not call a serious foul, but Dubai still won 80:74."
-     ],
-     [
-      "Nakon 13 kola Eurolige Dubai ima devet pobjeda i četiri poraza.",
-      "After 13 rounds of the EuroLeague, Dubai has nine wins and four losses."
-     ]
-    ],
-    [
-     [
-      "Musa nije putovao s reprezentacijom BiH na Island.",
-      "Musa did not travel with the BiH national team to Iceland."
-     ],
-     [
-      "Selektor Dario Gjergja rekao je da će Musa igrati protiv Litvanije u nedjelju u Zetri.",
-      "Head coach Dario Gjergja said that Musa will play against Lithuania on Sunday in Zetra."
-     ],
-     [
-      "Ta utakmica je kvalifikacija za Svjetsko prvenstvo, a čini se da je oko dovoljno zacijelilo.",
-      "That game is a qualifier for the World Cup, and it seems the eye has healed enough."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "košarkaš",
-     "basketball player"
-    ],
-    [
-     "naočale",
-     "glasses, goggles"
-    ],
-    [
-     "povrijediti",
-     "to injure"
-    ],
-    [
-     "povreda",
-     "injury"
-    ],
-    [
-     "prekršaj",
-     "foul"
-    ],
-    [
-     "reprezentacija",
-     "national team"
-    ],
-    [
-     "selektor",
-     "national team coach"
-    ]
-   ]
-  },
-  {
-   "id": "261124180",
-   "source": "Klix.ba",
-   "section": "BiH",
-   "url": "https://www.klix.ba/vijesti/bih/kako-su-novine-u-prvom-svjetskom-ratu-pisale-o-hrabrosti-bosnjaka-gdje-oni-dodu-tu-prolaza-nema/261124180",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261124180.jpg",
-   "published": "2026-11-25T17:05:00+01:00",
-   "title": [
-    "Stare novine pisale o hrabrim vojnicima iz BiH",
-    "Old newspapers wrote about brave soldiers from BiH"
-   ],
-   "body": [
-    [
-     [
-      "Klix.ba je objavio tekst o tome kako su novine u Prvom svjetskom ratu pisale o vojnicima iz Bosne i Hercegovine.",
-      "Klix.ba published a text about how newspapers in the First World War wrote about soldiers from Bosnia and Herzegovina."
-     ],
-     [
-      "Tekst se zasniva na dvjema sarajevskim novinama na njemačkom jeziku iz tog vremena.",
-      "The text is based on two Sarajevo newspapers in German from that time."
-     ],
-     [
-      "Stare stranice čuva Nacionalna i univerzitetska biblioteka BiH.",
-      "The old pages are kept by the National and University Library of BiH."
-     ]
-    ],
-    [
-     [
-      "Od 1914. do 1918. godine oficiri i novinari često su hvalili hrabrost tih vojnika.",
-      "From 1914 to 1918, officers and journalists often praised the courage of those soldiers."
-     ],
-     [
-      "Novine su ih zvale Bošnjacima, bez obzira na to koje su vjere bili.",
-      "The newspapers called them Bosniaks, regardless of their religion."
-     ],
-     [
-      "Jedan oficir je 1916. godine pisao ocu da su vojnici iz Bosne izdržali 16 sati artiljerijske vatre.",
-      "In 1916 one officer wrote to his father that the soldiers from Bosnia had endured 16 hours of artillery fire."
-     ],
-     [
-      "Kaplar Huso Zmiro je u decembru 1917. godine u Italiji zarobio jednog majora i njegove ljude.",
-      "In December 1917, Corporal Huso Zmiro captured a major and his men in Italy."
-     ],
-     [
-      "Do decembra 1916. jedan puk iz Tuzle dobio je više od 2.000 odlikovanja za vojnike.",
-      "By December 1916, one regiment from Tuzla had received more than 2,000 decorations for soldiers."
-     ]
-    ],
-    [
-     [
-      "Vojnici su na front nosili i gusle, tradicionalni instrument s jednom žicom.",
-      "The soldiers also carried the gusle, a traditional instrument with one string, to the front."
-     ],
-     [
-      "Uz gusle su pjevali o mjestima gdje su se borili i o svojim komandantima.",
-      "With the gusle they sang about the places where they fought and about their commanders."
-     ],
-     [
-      "Autor teksta je naveo da je vojna cenzura tada često skrivala imena mjesta i ljudi.",
-      "The author of the text noted that military censorship at that time often hid the names of places and people."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "hrabrost",
-     "courage"
-    ],
-    [
-     "vojnik",
-     "soldier"
-    ],
-    [
-     "novine",
-     "newspaper"
-    ],
-    [
-     "rat",
-     "war"
-    ],
-    [
-     "odlikovanje",
-     "decoration, medal"
-    ],
-    [
-     "oficir",
-     "officer"
-    ],
-    [
-     "zarobiti",
-     "to capture"
-    ]
-   ]
-  },
-  {
-   "id": "261125134",
-   "source": "Klix.ba",
-   "section": "Svijet",
-   "url": "https://www.klix.ba/vijesti/svijet/izraelski-ministar-palestince-nazvao-neukim-jahacima-deva-a-od-11-doktora-nauka-u-knessetu-devet-su-palestinci/261125134",
-   "image": "https://static.klix.ba/media/images/vijesti/b_261125134.jpg",
-   "published": "2026-11-25T16:56:00+01:00",
-   "title": [
-    "Izraelski ministar uvrijedio Palestince u Knessetu",
-    "Israeli minister insulted Palestinians in the Knesset"
-   ],
-   "body": [
-    [
-     [
-      "Izraelski ministar Amichai Eliyahu uvrijedio je Palestince i muslimane u govoru u Knessetu, izraelskom parlamentu.",
-      "Israeli minister Amichai Eliyahu insulted Palestinians and Muslims in a speech in the Knesset, the Israeli parliament."
-     ],
-     [
-      "Tokom rasprave o kriminalu nazvao ih je neukim jahačima deva i barbarima.",
-      "During a debate on crime he called them ignorant camel riders and barbarians."
-     ],
-     [
-      "Rekao je i da palestinskim zastupnicima treba obrazovanje.",
-      "He also said that Palestinian members of parliament need education."
-     ]
-    ],
-    [
-     [
-      "Međutim, prema portalu Ynet, od 11 zastupnika s doktoratom čak 9 su Palestinci.",
-      "However, according to the Ynet portal, of the 11 members with a doctorate as many as 9 are Palestinians."
-     ],
-     [
-      "Eliyahu je poznat po ranijim izjavama koje su izazvale skandal.",
-      "Eliyahu is known for earlier statements that caused a scandal."
-     ],
-     [
-      "Kriminal u palestinskoj zajednici u Izraelu je posljednjih godina mnogo porastao.",
-      "Crime in the Palestinian community in Israel has risen a lot in recent years."
-     ],
-     [
-      "Prema listu Haaretz, od početka 2026. godine ubijeno je 204 Palestinca.",
-      "According to the newspaper Haaretz, 204 Palestinians have been killed since the start of 2026."
-     ]
-    ],
-    [
-     [
-      "Palestinske stranke su na izborima prošlog mjeseca osvojile 19 mjesta, više nego ikada.",
-      "Palestinian parties won 19 seats in last month's election, more than ever."
-     ],
-     [
-      "Lider Zajedničke liste Yousef Jabareen rekao je da su napadi na Palestince sve češći.",
-      "Joint List leader Yousef Jabareen said that attacks on Palestinians are becoming more frequent."
-     ],
-     [
-      "Za to je optužio premijera Benjamina Netanyahua.",
-      "He blamed Prime Minister Benjamin Netanyahu for this."
-     ]
-    ]
-   ],
-   "vocab": [
-    [
-     "uvrijediti",
-     "to insult"
-    ],
-    [
-     "govor",
-     "speech"
-    ],
-    [
-     "zastupnik",
-     "member of parliament"
-    ],
-    [
-     "rasprava",
-     "debate"
-    ],
-    [
-     "doktorat",
-     "doctorate"
-    ],
-    [
-     "stranka",
-     "political party"
-    ],
-    [
-     "optužiti",
-     "to accuse"
     ]
    ]
   }
